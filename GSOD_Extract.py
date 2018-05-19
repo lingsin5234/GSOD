@@ -9,7 +9,7 @@ import shutil as sl
 import time as tm
 
 # directories
-ddir = '/home/sinto/z_extract/GSOD_daily'
+ddir = '/home/pi/z_extract/GSOD_daily'
 os.chdir(ddir)
 ftp = FTP('ftp.ncdc.noaa.gov')
 
