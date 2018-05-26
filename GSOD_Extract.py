@@ -51,7 +51,7 @@ TF.extractall('g2018')
 print('Extracting individual gzip files...')
 os.chdir('g2018')
 i = 0
-for filename in os.listdir():
+for filename in os.listdir('.'):
 
     # check for non .gz file
     fl_nm = os.path.abspath(filename)  # get absolute path, need to add op_files to the path
@@ -59,7 +59,7 @@ for filename in os.listdir():
 
         # extract gz file to op_files folder
         f = gz.open(filename, 'rb')
-        fl_con = repr(f.read())
+	fl_con = f.read()
         fl_nm = str.replace(fl_nm, '.gz', '')  # remove .gz from original file name
         fl_nm = str.replace(fl_nm, 'g2018', 'g2018_op')  # add op_files folder to the path
         nf = open(fl_nm, 'w')
@@ -67,7 +67,7 @@ for filename in os.listdir():
         f.close()
         nf.close()
         i += 1
-        print('Extracted File # %i' % i)
+        print('Extracted File# %i' % i)
 
 # print when completed successfully
 print('Extraction completed successfully.')
