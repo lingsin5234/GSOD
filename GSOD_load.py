@@ -1,12 +1,18 @@
 # libaries
 import os
-import mysql
+import pandas as pd
+import MySQLdb as msq
 
 # set directory
 print("Changing directories...")
-os.chdir("..\..\Personal\Projects\GSOD")
+os.chdir("../../Personal/Practice/GSOD")
 
 # connect to MySQL -- change to not root in future...
-cnx = mysql (user='root', password='Apr!lf00L$',
-                   host='127.0.0.1',
-                   database='test')
+cnx = msq.connect(user='root', passwd='Apr!lf00L$',
+                  host='localhost', db='test')
+
+# get csv data and send
+df = pd.read_csv("gsod_2018_final.csv")
+df.to_sql(con=cnx, name='gsod2018', if_exists='append', flavor='mysql', index=False)
+cnx.commit()
+print ("Upload completed.")
