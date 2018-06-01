@@ -38,6 +38,11 @@ fl.loc[fl['TEMP_MAX'].str.contains('\*'), 'T_MAX_FLG'] = 1
 fl.loc[fl['TEMP_MIN'].str.contains('\*'), 'T_MIN_FLG'] = 1
 fl.loc[fl['PRCP_TOT'].str.contains("A|B|C|D|E|F|G|H|I"), 'PRCP_FLG'] = fl['PRCP_TOT'].str.extract("(A|B|C|D|E|F|G|H|I)")
 
+# take the respective flags out
+fl['TEMP_MAX'].replace("\*", "", regex=True, inplace=True)
+fl['TEMP_MIN'].replace("\*", "", regex=True, inplace=True)
+fl['PRCP_TOT'].replace("A|B|C|D|E|F|G|H|I", "", regex=True, inplace=True)
+
 # write to csv file
 fl.to_csv("gsod_2018_final.csv", sep=',', index=False)
 print("Data Transform Completed.")
