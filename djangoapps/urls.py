@@ -21,4 +21,6 @@ from gsod import views as gsod_vw
 urlpatterns = [
     re_path(r'^admin/', admin.site.urls),
     re_path(r'^$', gsod_vw.homepage),
+    re_path(r'^project/', gsod_vw.project_markdown),
+    re_path(r'^stations/', gsod_vw.list_stations),
 ]
