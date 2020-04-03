@@ -1,0 +1,5 @@
+# exclude .idea and pycache files
+**/.idea
+**/.idea/*
+**/__pycache__
+**/__pycache__/*
