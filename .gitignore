@@ -9,3 +9,5 @@
 **/gsod/.git
 **/gsod/.git/*
 **/gsod/.gitignore
+**/static/admin
+**/static/admin/*

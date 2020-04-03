@@ -1,5 +1,6 @@
 from django.shortcuts import render
 from djangoapps.utils import get_this_template
+from .models import Station
 
 
 # homepage
@@ -25,3 +26,15 @@ def project_markdown(request):
     template_page = get_this_template('baseball', 'project.html')
 
     return render(request, template_page, content)
+
+
+# stations list
+def list_stations(request):
+
+    stations = Station.objects.all()
+
+    context = {
+        'stations': stations
+    }
+
+    return render(request, 'pages/stations.html', context)
