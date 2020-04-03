@@ -3,9 +3,9 @@
 **/.idea/*
 **/__pycache__
 **/__pycache__/*
-**/oper/.git
-**/oper/.git/*
-**/oper/.gitignore
+**/gsod/oper/.git
+**/gsod/oper/.git/*
+**/gsod/oper/.gitignore
 **/gsod/.git
 **/gsod/.git/*
 **/gsod/.gitignore

@@ -1,6 +1,7 @@
 from django.shortcuts import render
 from djangoapps.utils import get_this_template
 from .models import Station
+from .functions import test_run
 
 
 # homepage
@@ -31,7 +32,10 @@ def project_markdown(request):
 # stations list
 def list_stations(request):
 
+    x = test_run()
+
     stations = Station.objects.all()
+    print(x)
 
     context = {
         'stations': stations

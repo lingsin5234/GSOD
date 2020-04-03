@@ -8,10 +8,10 @@ class Station(models.Model):
     latitude = models.FloatField()
     longitude = models.FloatField()
     elevation = models.FloatField()
-    elevation_unit = models.CharField(max_length=15)
-    data_coverage = models.FloatField()
-    min_date = models.DateField()
-    max_date = models.DateField()
+    elevationUnit = models.CharField(max_length=15)
+    datacoverage = models.FloatField()
+    mindate = models.DateField()
+    maxdate = models.DateField()
 
-    def __init__(self):
+    def __str__(self):
         return self.id + ' - ' + self.name
