@@ -23,4 +23,5 @@ urlpatterns = [
     re_path(r'^$', gsod_vw.homepage),
     re_path(r'^project/', gsod_vw.project_markdown),
     re_path(r'^stations/', gsod_vw.list_stations),
+    re_path(r'^edmonton-map/', gsod_vw.map_test),
 ]
