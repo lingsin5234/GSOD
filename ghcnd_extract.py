@@ -21,7 +21,7 @@ def get_request(dataset, locations, start_date, end_date):
     return json_data
 
 
-def get_stations(locations, location_type):
+def get_stations(locations, location_type, offset):
 
     json_data = []
     url = 'https://www.ncdc.noaa.gov/cdo-web/api/v2/stations'
@@ -33,7 +33,7 @@ def get_stations(locations, location_type):
     else:
         for l in locations:
             loc += l + '&'
-        url += '?locationid=' + location_type + ':' + loc
+        url += '?locationid=' + location_type + ':' + loc + 'limit=1000&offset=' + str(offset)
         print(url, location_type, loc)
         x = requests.get(url, headers={'token': header})
 
