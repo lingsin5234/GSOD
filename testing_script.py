@@ -28,7 +28,24 @@ stations = requests.get('https://www.ncdc.noaa.gov/cdo-web/api/v2/locations?loca
                         headers={'token':'KbJOBjuzWvVPHMCwEoGxOCQJOCMTjHAb'})
 print(stations.text)
 '''
+'''
 stations = requests.get('https://www.ncdc.noaa.gov/cdo-web/api/v2/stations?locationid=FIPS:CA',
                         headers={'token':'KbJOBjuzWvVPHMCwEoGxOCQJOCMTjHAb'})
 print(stations.text)
 
+stations = requests.get('https://www.ncdc.noaa.gov/cdo-web/api/v2/stations/GHCND:CA1AB000064',
+                        headers={'token':'KbJOBjuzWvVPHMCwEoGxOCQJOCMTjHAb'})
+print(stations.text)
+'''
+data = requests.get('https://www.ncdc.noaa.gov/cdo-web/api/v2/data?datasetid=GHCND&stationid=GHCND:CA1AB000001&stationid=GHCND:CA1AB000002&startdate=2020-03-31&enddate=2020-04-04',
+                       headers={'token':'KbJOBjuzWvVPHMCwEoGxOCQJOCMTjHAb'})
+print(data.text)
+'''
+dataset = requests.get('https://www.ncdc.noaa.gov/cdo-web/api/v2/datasets/GHCND',
+                       headers={'token':'KbJOBjuzWvVPHMCwEoGxOCQJOCMTjHAb'})
+print(dataset.text)
+
+dataset = requests.get('https://www.ncdc.noaa.gov/cdo-web/api/v2/datasets?stationid=GHCND:CA1AB000001',
+                       headers={'token':'KbJOBjuzWvVPHMCwEoGxOCQJOCMTjHAb'})
+print(dataset.text)
+'''
