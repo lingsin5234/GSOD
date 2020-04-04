@@ -1,7 +1,7 @@
 from django.shortcuts import render
 from djangoapps.utils import get_this_template
 from .models import Station
-from .functions import test_run
+from .functions import test_run, test_yeg
 
 
 # homepage
@@ -42,3 +42,17 @@ def list_stations(request):
     }
 
     return render(request, 'pages/stations.html', context)
+
+
+# this is test map using Edmonton
+def map_test(request):
+
+    stations = ['GHCND:CA1AB000001', 'GHCND:CA1AB000002', 'GHCND:CA1AB000064', 'GHCND:CA1AB000072']
+    x = test_yeg(stations, '2020-03-31', '2020-04-04')
+
+    context = {
+        'x': x
+    }
+
+    return render(request, 'pages/map.html', context)
+
