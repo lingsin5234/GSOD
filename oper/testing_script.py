@@ -15,11 +15,11 @@ print(loc_cat.text)
 locations = requests.get('https://www.ncdc.noaa.gov/cdo-web/api/v2/locations/FIPS:CA',
                          headers={'token':'KbJOBjuzWvVPHMCwEoGxOCQJOCMTjHAb'})
 print(locations.text)
-
+'''
 data_type = requests.get('https://www.ncdc.noaa.gov/cdo-web/api/v2/datacategories',
                          headers={'token':'KbJOBjuzWvVPHMCwEoGxOCQJOCMTjHAb'})
 print(data_type.text)
-
+'''
 stations = requests.get('https://www.ncdc.noaa.gov/cdo-web/api/v2/stations?locationid=FIPS:CA&datasetid=GHCND&startdate=2020-01-01&limit=1000&offset=1000',
                         headers={'token':'KbJOBjuzWvVPHMCwEoGxOCQJOCMTjHAb'})
 print(stations.text)
