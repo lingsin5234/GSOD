@@ -48,7 +48,7 @@ def list_stations(request):
 def map_test(request):
 
     stations = ['GHCND:CA1AB000001', 'GHCND:CA1AB000002', 'GHCND:CA1AB000064', 'GHCND:CA1AB000072']
-    x = test_yeg(stations, '2020-03-31', '2020-04-04')
+    x = test_yeg(stations, '2019-01-01', '2020-01-01')
 
     context = {
         'x': x
