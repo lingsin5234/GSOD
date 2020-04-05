@@ -2,6 +2,10 @@ from django.shortcuts import render
 from djangoapps.utils import get_this_template
 from .models import Station
 from .functions import test_run, test_yeg
+from .mapping import basic_map
+# from django.db.models import Max, Min
+from django.http import HttpResponse
+from matplotlib.backends.backend_agg import FigureCanvasAgg as FigureCanvas
 
 
 # homepage
@@ -47,12 +51,22 @@ def list_stations(request):
 # this is test map using Edmonton
 def map_test(request):
 
-    stations = ['GHCND:CA1AB000001', 'GHCND:CA1AB000002', 'GHCND:CA1AB000064', 'GHCND:CA1AB000072']
-    x = test_yeg(stations, '2019-01-01', '2020-01-01')
+    # grabbing data
+    # stations = ['GHCND:CA1AB000001', 'GHCND:CA1AB000002', 'GHCND:CA1AB000064', 'GHCND:CA1AB000072']
+    # x = test_yeg(stations, '2019-01-01', '2020-01-01')
+
+    # grabbing data part 2
+    stations = Station.objects.filter(name__contains='Edmonton')
+    # print(stations[0].longitude)
+    # print(stations.aggregate(Max('longitude')))
+    # print(stations.aggregate(Min('longitude')))
+    # print(stations.aggregate(Max('latitude')))
+    # print(stations.aggregate(Min('latitude')))
+    stations = stations.exclude(name__contains='Stony Plain')
+    the_map = basic_map(stations)
 
     context = {
-        'x': x
+        'map': the_map
     }
 
     return render(request, 'pages/map.html', context)
-

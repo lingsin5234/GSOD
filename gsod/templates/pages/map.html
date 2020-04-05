@@ -1,16 +1,11 @@
 {% include 'partials/header_noaa.html' %}
     <div id="my_title" class="d-flex justify-content-center">
         <h1>MAP - EDMONTON</h1>
-    </div><br>
+    </div>
 
-    <br><br>
     <div class="d-flex justify-content-center">
         <div>
-            <ul>
-            {% for s in stations %}
-                <li>{{ s }}</li>
-            {% endfor %}
-            </ul>
+            <img src="data:image/png;base64, {{map}}" alt="" height="700" width="800">
         </div>
     </div>
 {% include 'partials/footer_noaa.html' %}
