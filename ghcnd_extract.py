@@ -4,7 +4,7 @@ header = 'KbJOBjuzWvVPHMCwEoGxOCQJOCMTjHAb'
 
 
 # getting a regular data request using data
-def get_request(dataset, loc_or_sta, stations, location_type, locations, start_date, end_date):
+def get_request(dataset, loc_or_sta, stations, location_type, locations, start_date, end_date, offset):
 
     json_data = []
     url = 'https://www.ncdc.noaa.gov/cdo-web/api/v2/data?'
@@ -16,12 +16,13 @@ def get_request(dataset, loc_or_sta, stations, location_type, locations, start_d
             loc += l + '&'
 
         url += 'datasetid=' + dataset + '&locationid=' + location_type + ':' + loc + \
-               'startdate=' + start_date + '&enddate=' + end_date
+               'startdate=' + start_date + '&enddate=' + end_date + '&limit=1000&offset=' + str(offset)
     else:
         for s in stations:
             loc += '&stationid=' + s
 
-        url += 'datasetid=' + dataset + loc + '&startdate=' + start_date + '&enddate=' + end_date
+        url += 'datasetid=' + dataset + loc + '&startdate=' + start_date + '&enddate=' + end_date + \
+               '&limit=1000&offset=' + str(offset)
         print(url)
 
     x = requests.get(url, headers={'token': header})
