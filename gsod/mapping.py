@@ -50,7 +50,7 @@ def basic_map(stations):
     return uri
 
 
-# set up a basic map plotting all the station DATA in Edmonton
+# set up a basic map plotting all the SNOW DATA in Edmonton
 # this one uses MATPLOTLIB -- so far it'll be a static image
 def basic_data_map(station_data):
 
