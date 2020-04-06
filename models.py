@@ -2,7 +2,9 @@ from django.db import models
 
 # constants
 DATA_TYPES = (("PRCP", "Precipitation (mm)"), ("SNOW", "Snowfall (mm)"), ("SNWD", "Snow depth (mm)"),
-              ("TMAX", "Maximum temperature (C)"), ("TMIN", "Minimum temperature (C)"))
+              ("TAVG", "Average Temperature (C)"), ("TMAX", "Maximum temperature (C)"),
+              ("TMIN", "Minimum temperature (C)"), ("WSFG", "Peak Gust Wind Speed (m/s)"),
+              ("WDFG", "Peak Gust Wind Direction (degrees)"))
 
 
 class Station(models.Model):
