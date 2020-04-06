@@ -29,10 +29,14 @@ def test_run():
 
 
 # this test run grabs specified Edmonton station data
-def test_yeg(stations, start_date, end_date):
+def test_yeg(station_objs, start_date, end_date):
+
+    # pull the names of stations from stations QuerySet
+    stations = []
+    for s in station_objs:
+        stations.append(s.id)
 
     # get data from specific stations
-    # for s in stations:
     results = ge.get_request('GHCND', 'station', stations, '', [''], start_date, end_date, 0)
     results = json.loads(results)
     # data = results['results']
@@ -47,8 +51,16 @@ def test_yeg(stations, start_date, end_date):
         results = json.loads(results)
         data = results['results']
         for i in data:
-            i['date'] = i['date'][0:10]  # save only the date; ignore the time
+            # save only the date; ignore the time
+            i['date'] = i['date'][0:10]
+
+            # get the corresponding station
+            this_station = Station.objects.get(id=i['station'])
+            i['station'] = this_station
+
+            # create object and save to database
             y = GHCND(**i)
+            # print(y)
             y.save()
 
         et = t.time()
