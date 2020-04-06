@@ -23,11 +23,11 @@ class Station(models.Model):
 
 class GHCND(models.Model):
 
-    station = models.CharField(max_length=50)
+    station = models.ForeignKey(Station, on_delete=models.SET_NULL, null=True, blank=True)
     date = models.DateField()
     datatype = models.CharField(max_length=20, choices=DATA_TYPES, null=True, blank=True)
     attributes = models.CharField(max_length=15)
     value = models.FloatField()
 
     def __str__(self):
-        return self.station + ': ' + self.datatype + ' - ' + str(self.date)
+        return str(self.station) + ': ' + self.datatype + ' - ' + str(self.date)

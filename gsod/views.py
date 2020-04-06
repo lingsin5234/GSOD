@@ -1,8 +1,9 @@
 from django.shortcuts import render
 from djangoapps.utils import get_this_template
-from .models import Station
+from .models import Station, GHCND
 from .functions import test_run, test_yeg
-from .mapping import basic_map
+from .mapping import basic_map, basic_data_map
+from .forms import StationDatesForm
 # from django.db.models import Max, Min
 from django.http import HttpResponse
 from matplotlib.backends.backend_agg import FigureCanvasAgg as FigureCanvas
@@ -51,19 +52,18 @@ def list_stations(request):
 # this is test map using Edmonton
 def map_test(request):
 
-    # grabbing data
-    # stations = ['GHCND:CA1AB000001', 'GHCND:CA1AB000002', 'GHCND:CA1AB000064', 'GHCND:CA1AB000072']
-    # x = test_yeg(stations, '2019-01-01', '2020-01-01')
+    # get stations from Edmonton
+    station_objs = Station.objects.filter(name__contains='Edmonton')
+    station_objs = station_objs.exclude(name__contains='Stony Plain')
+    x = test_yeg(station_objs, '2020-03-31', '2020-04-05')
+    # the_map = basic_map(stations)
 
-    # grabbing data part 2
-    stations = Station.objects.filter(name__contains='Edmonton')
-    # print(stations[0].longitude)
-    # print(stations.aggregate(Max('longitude')))
-    # print(stations.aggregate(Min('longitude')))
-    # print(stations.aggregate(Max('latitude')))
-    # print(stations.aggregate(Min('latitude')))
-    stations = stations.exclude(name__contains='Stony Plain')
-    the_map = basic_map(stations)
+    # now get station data that was just saved
+    # stacking filters filter(A,B) == A && B; filter(A).filter(B) == A || B
+    # note that when referencing the foreign key model -- IT MUST BE lowercase!
+    station_data = GHCND.objects.filter(date__gte='2020-03-31', date__lte='2020-04-05')\
+        .values('station__longitude', 'station__latitude', 'date', 'datatype', 'attributes', 'value')
+    the_map = basic_data_map(station_data)
 
     context = {
         'map': the_map
