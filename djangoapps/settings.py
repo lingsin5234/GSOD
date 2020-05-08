@@ -75,10 +75,18 @@ WSGI_APPLICATION = 'djangoapps.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/3.0/ref/settings/#databases
 
+# DATABASE ROUTER
+DATABASE_ROUTER = ['gsod.routers.GSODRouter']
+DATABASE_APPS_MAPPING = {'gsod': 'gsod_db'}
+
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.sqlite3',
         'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
+    },
+    'gsod_db': {
+        'ENGINE': 'django.db.backends.sqlite3',
+        'NAME': os.path.join(BASE_DIR, 'gsod.sqlite3'),
     }
 }
 

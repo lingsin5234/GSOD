@@ -11,3 +11,4 @@
 **/gsod/.gitignore
 **/static/admin
 **/static/admin/*
+*.sqlite3
