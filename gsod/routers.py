@@ -1,3 +1,6 @@
+from django.conf import settings
+
+
 class GSODRouter:
     """
     A router to control all database operations
@@ -21,7 +24,12 @@ class GSODRouter:
         return None
 
     def allow_migrate(self, db, app_label, model_name=None, **hints):
-        if app_label == 'gsod':
+        if app_label == 'gsod' and db == 'gsod_db':
+            # this catches gsod for gsod_db ONLY
             return db == 'gsod_db'
+        elif app_label == 'gsod' or db == 'gsod_db':
+            # this catches all that should not be in gsod_db
+            # and for gsod to not be added to default db
+            return False
         # allows other apps to go to default database
         return None

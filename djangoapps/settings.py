@@ -75,8 +75,8 @@ WSGI_APPLICATION = 'djangoapps.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/3.0/ref/settings/#databases
 
-# DATABASE ROUTER
-DATABASE_ROUTER = ['gsod.routers.GSODRouter']
+# DATABASE ROUTERS
+DATABASE_ROUTERS = ['gsod.routers.GSODRouter']
 DATABASE_APPS_MAPPING = {'gsod': 'gsod_db'}
 
 DATABASES = {
