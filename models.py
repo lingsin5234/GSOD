@@ -19,8 +19,14 @@ class Station(models.Model):
     mindate = models.DateField()
     maxdate = models.DateField()
 
+    class Meta:
+        app_label = 'gsod'
+        constraints = [
+            models.UniqueConstraint(fields=['id', 'name'], name='unique_station')
+        ]
+
     def __str__(self):
-        return self.id + ' - ' + self.name
+        return str(self.id) + ' - ' + str(self.name)
 
 
 class GHCND(models.Model):
@@ -31,5 +37,11 @@ class GHCND(models.Model):
     attributes = models.CharField(max_length=15)
     value = models.FloatField()
 
+    class Meta:
+        app_label = 'gsod'
+        constraints = [
+            models.UniqueConstraint(fields=['station', 'date', 'datatype'], name='unique_ghcnd')
+        ]
+
     def __str__(self):
-        return str(self.station) + ': ' + self.datatype + ' - ' + str(self.date)
+        return str(self.station) + ': ' + str(self.datatype) + ' - ' + str(self.date)
