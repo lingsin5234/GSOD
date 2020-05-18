@@ -1,5 +1,6 @@
 from django.shortcuts import render
 from djangoapps.utils import get_this_template
+import os
 from .models import Station, GHCND
 from .functions import test_run, test_yeg
 from .mapping import basic_map, basic_data_map
@@ -70,3 +71,13 @@ def map_test(request):
     }
 
     return render(request, 'pages/map.html', context)
+
+
+# this is mapbox test zooming in on Edmonton
+def map_box_test(request):
+
+    context = {
+        'mapbox_access_token': os.environ.get('mapbox_access_token')
+    }
+
+    return render(request, 'pages/mapbox.html', context)
