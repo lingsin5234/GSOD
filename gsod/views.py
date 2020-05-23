@@ -81,3 +81,18 @@ def map_box_test(request):
     }
 
     return render(request, 'pages/mapbox.html', context)
+
+
+# quick table view of specific station data
+def station_data_table(request, station_id):
+
+    data = GHCND.objects.filter(station=station_id)
+    header = ['station', 'date', 'datatype', 'attribute', 'value']
+    print(data)
+
+    context = {
+        'header': header,
+        'body': data
+    }
+
+    return render(request, 'pages/quickTable.html', context)

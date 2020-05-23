@@ -1,0 +1,28 @@
+{% include 'partials/header_noaa.html' %}
+    <div id="my_title" class="d-flex justify-content-center">
+        <h1>QUICK TABLE VIEW</h1>
+    </div><br>
+
+    <div class="d-flex justify-content-center">
+        <table class="table">
+            <thead>
+                <tr>
+                    {% for h in header %}
+                    <th>{{ h }}</th>
+                    {% endfor %}
+                </tr>
+            </thead>
+            <tbody>
+                {% for r in rows %}
+                <tr>
+                    <td>{{ r.station }}</td>
+                    <td>{{ r.date }}</td>
+                    <td>{{ r.datatype }}</td>
+                    <td>{{ r.attributes }}</td>
+                    <td>{{ r.value }}</td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </div>
+{% include 'partials/footer_noaa.html' %}
