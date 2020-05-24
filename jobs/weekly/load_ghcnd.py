@@ -32,8 +32,11 @@ class Job(WeeklyJob):
                 r['date'] = dt.datetime.strptime(r['date'], '%Y-%m-%dT%H:%M:%S').date()
                 r['station'] = station
                 # print(r)
-                s = GHCND(**r)
-                s.save()
+                try:
+                    s = GHCND(**r)
+                    s.save()
+                except Exception as e:
+                    print(e)
             t.sleep(0.5)
 
         # if results over 1000, then keep going
@@ -50,8 +53,11 @@ class Job(WeeklyJob):
                     # convert datetime to date; convert station to QuerySet referencing the Station Object
                     r['date'] = dt.datetime.strptime(r['date'], '%Y-%m-%dT%H:%M:%S').date()
                     r['station'] = station
-                    s = GHCND(**r)
-                    s.save()
+                    try:
+                        s = GHCND(**r)
+                        s.save()
+                    except Exception as e:
+                        print(e)
                 t.sleep(0.5)
 
         return True
