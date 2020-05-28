@@ -2,7 +2,7 @@
     "metadata": {
         "resultset": {
             "offset": 1,
-            "count": 1689,
+            "count": 1378,
             "limit": 1000
         }
     },
@@ -30,17 +30,6 @@
             "longitude": -148.98333
         },
         {
-            "elevation": 9.1,
-            "mindate": "1922-01-01",
-            "maxdate": "1944-08-01",
-            "latitude": 62.5,
-            "name": "AKULURAK, AK US",
-            "datacoverage": 0.2757,
-            "id": "COOP:500125",
-            "elevationUnit": "METERS",
-            "longitude": -164.41667
-        },
-        {
             "elevation": 67.1,
             "mindate": "1993-07-01",
             "maxdate": "2004-10-01",
@@ -61,17 +50,6 @@
             "id": "COOP:500201",
             "elevationUnit": "METERS",
             "longitude": -158.56667
-        },
-        {
-            "elevation": 3,
-            "mindate": "1964-05-01",
-            "maxdate": "1964-07-01",
-            "latitude": 56.88333,
-            "name": "ALITAK BAY, AK ",
-            "datacoverage": 0.9925,
-            "id": "COOP:500225",
-            "elevationUnit": "METERS",
-            "longitude": -154.25
         },
         {
             "elevation": 121.9,
@@ -283,17 +261,6 @@
             "longitude": -149.7561
         },
         {
-            "elevation": 42.1,
-            "mindate": "1949-09-01",
-            "maxdate": "1953-10-01",
-            "latitude": 61.21694,
-            "name": "ANCHORAGE MERRILL FIELD, AK US",
-            "datacoverage": 0.8799,
-            "id": "COOP:500285",
-            "elevationUnit": "METERS",
-            "longitude": -149.855
-        },
-        {
             "elevation": 25,
             "mindate": "2000-10-01",
             "maxdate": "2009-03-01",
@@ -314,17 +281,6 @@
             "id": "COOP:500287",
             "elevationUnit": "METERS",
             "longitude": -149.91056
-        },
-        {
-            "elevation": 54.9,
-            "mindate": "1957-01-01",
-            "maxdate": "1962-12-01",
-            "latitude": 61.2,
-            "name": "ANCHORAGE 4 ESE, AK US",
-            "datacoverage": 0.9447,
-            "id": "COOP:500288",
-            "elevationUnit": "METERS",
-            "longitude": -149.78333
         },
         {
             "elevation": 274.3,
@@ -415,17 +371,6 @@
             "longitude": -145.53333
         },
         {
-            "elevation": 17.1,
-            "mindate": "1923-10-01",
-            "maxdate": "1949-10-01",
-            "latitude": 52.22028,
-            "name": "ATKA AIRPORT, AK US",
-            "datacoverage": 0.4632,
-            "id": "COOP:500433",
-            "elevationUnit": "METERS",
-            "longitude": -174.20611
-        },
-        {
             "elevation": 21.3,
             "mindate": "1941-10-01",
             "maxdate": "1993-08-01",
@@ -457,17 +402,6 @@
             "id": "COOP:500490",
             "elevationUnit": "METERS",
             "longitude": -147.72167
-        },
-        {
-            "elevation": 6.1,
-            "mindate": "1936-11-01",
-            "maxdate": "1966-03-01",
-            "latitude": 57.08333,
-            "name": "BARANOF, AK US",
-            "datacoverage": 0.8783,
-            "id": "COOP:500522",
-            "elevationUnit": "METERS",
-            "longitude": -134.83333
         },
         {
             "elevation": 9.4,
@@ -536,17 +470,6 @@
             "longitude": -151.03333
         },
         {
-            "elevation": 39.9,
-            "mindate": "1966-06-01",
-            "maxdate": "1969-05-01",
-            "latitude": 61.55,
-            "name": "BRVRUD, AK US",
-            "datacoverage": 0.9998,
-            "id": "COOP:500702",
-            "elevationUnit": "METERS",
-            "longitude": -149.08333
-        },
-        {
             "elevation": 38.7,
             "mindate": "1969-05-01",
             "maxdate": "2010-12-01",
@@ -567,17 +490,6 @@
             "id": "COOP:500754",
             "elevationUnit": "METERS",
             "longitude": -161.8293
-        },
-        {
-            "elevation": 260.9,
-            "mindate": "1944-05-01",
-            "maxdate": "1951-04-01",
-            "latitude": 66.9,
-            "name": "BETTLES CAA, AK US",
-            "datacoverage": 0.9169,
-            "id": "COOP:500760",
-            "elevationUnit": "METERS",
-            "longitude": -151.71667
         },
         {
             "elevation": 193.2,
@@ -624,17 +536,6 @@
             "longitude": -150.88333
         },
         {
-            "elevation": 67.1,
-            "mindate": "1957-05-01",
-            "maxdate": "1961-12-01",
-            "latitude": 61.53333,
-            "name": "BIG LAKE, AK US",
-            "datacoverage": 0.3747,
-            "id": "COOP:500777",
-            "elevationUnit": "METERS",
-            "longitude": -149.83333
-        },
-        {
             "elevation": 54.9,
             "mindate": "1973-01-01",
             "maxdate": "1978-06-01",
@@ -677,17 +578,6 @@
             "id": "COOP:500824",
             "elevationUnit": "METERS",
             "longitude": -149.75
-        },
-        {
-            "elevation": 793.1,
-            "mindate": "1947-12-01",
-            "maxdate": "1957-10-01",
-            "latitude": 64.06667,
-            "name": "BOUNDARY, AK US",
-            "datacoverage": 0.8653,
-            "id": "COOP:500910",
-            "elevationUnit": "METERS",
-            "longitude": -141.11667
         },
         {
             "elevation": 335.9,
@@ -756,17 +646,6 @@
             "longitude": -149.0561
         },
         {
-            "elevation": 6.1,
-            "mindate": "1922-01-01",
-            "maxdate": "1932-04-01",
-            "latitude": 56.16667,
-            "name": "CALDER, AK US",
-            "datacoverage": 0.7502,
-            "id": "COOP:501201",
-            "elevationUnit": "METERS",
-            "longitude": -132.45
-        },
-        {
             "elevation": 78.6,
             "mindate": "2000-05-01",
             "maxdate": "2013-12-01",
@@ -798,17 +677,6 @@
             "id": "COOP:501228",
             "elevationUnit": "METERS",
             "longitude": -149.75722
-        },
-        {
-            "elevation": 7,
-            "mindate": "1922-08-01",
-            "maxdate": "1950-10-01",
-            "latitude": 65.93333,
-            "name": "CANDLE, AK US",
-            "datacoverage": 0.3333,
-            "id": "COOP:501230",
-            "elevationUnit": "METERS",
-            "longitude": -161.91667
         },
         {
             "elevation": 25.9,
@@ -855,28 +723,6 @@
             "longitude": -133.67889
         },
         {
-            "elevation": 302.1,
-            "mindate": "1963-06-01",
-            "maxdate": "1968-06-01",
-            "latitude": 67.15,
-            "name": "CANYON VILLAGE, AK US",
-            "datacoverage": 0.9507,
-            "id": "COOP:501254",
-            "elevationUnit": "METERS",
-            "longitude": -141.75
-        },
-        {
-            "elevation": 39.6,
-            "mindate": "1948-01-01",
-            "maxdate": "1950-02-01",
-            "latitude": 53.38333,
-            "name": "UMNAK AIRPORT, AK US",
-            "datacoverage": 1,
-            "id": "COOP:501258",
-            "elevationUnit": "METERS",
-            "longitude": -167.9
-        },
-        {
             "elevation": 13.7,
             "mindate": "1954-01-01",
             "maxdate": "1984-11-01",
@@ -908,28 +754,6 @@
             "longitude": -133.8
         },
         {
-            "elevation": 11,
-            "mindate": "1960-04-01",
-            "maxdate": "1963-04-01",
-            "latitude": 68.1,
-            "name": "CAPE THOMPSON, AK US",
-            "datacoverage": 0.8928,
-            "id": "COOP:501341",
-            "elevationUnit": "METERS",
-            "longitude": -165.76667
-        },
-        {
-            "elevation": 88.1,
-            "mindate": "1948-12-01",
-            "maxdate": "1958-08-01",
-            "latitude": 61.96667,
-            "name": "CASWELL, AK US",
-            "datacoverage": 0.9231,
-            "id": "COOP:501447",
-            "elevationUnit": "METERS",
-            "longitude": -149.9
-        },
-        {
             "elevation": 76.2,
             "mindate": "1996-08-01",
             "maxdate": "1998-04-01",
@@ -950,17 +774,6 @@
             "id": "COOP:501452",
             "elevationUnit": "METERS",
             "longitude": -143.75
-        },
-        {
-            "elevation": 280.4,
-            "mindate": "1947-01-01",
-            "maxdate": "1954-05-01",
-            "latitude": 65.5667,
-            "name": "CENTRAL NUMBER 2, AK US",
-            "datacoverage": 0.9329,
-            "id": "COOP:501458",
-            "elevationUnit": "METERS",
-            "longitude": -144.7653
         },
         {
             "elevation": 286.5,
@@ -1051,39 +864,6 @@
             "longitude": -146.0561
         },
         {
-            "elevation": 9.1,
-            "mindate": "1925-01-01",
-            "maxdate": "1942-07-01",
-            "latitude": 53.435,
-            "name": "CHERNOFSKI HARBOR, AK US",
-            "datacoverage": 0.4266,
-            "id": "COOP:501601",
-            "elevationUnit": "METERS",
-            "longitude": -167.331667
-        },
-        {
-            "elevation": 3,
-            "mindate": "1951-09-01",
-            "maxdate": "1957-10-01",
-            "latitude": 57.66667,
-            "name": "CHICHAGOF, AK ",
-            "datacoverage": 0.9997,
-            "id": "COOP:501641",
-            "elevationUnit": "METERS",
-            "longitude": -136.08333
-        },
-        {
-            "elevation": 284.1,
-            "mindate": "1922-01-01",
-            "maxdate": "1933-07-01",
-            "latitude": 61.8,
-            "name": "CHICKALOON, AK US",
-            "datacoverage": 0.8779,
-            "id": "COOP:501662",
-            "elevationUnit": "METERS",
-            "longitude": -148.45
-        },
-        {
             "elevation": 548.6,
             "mindate": "1953-04-01",
             "maxdate": "2015-11-01",
@@ -1115,17 +895,6 @@
             "id": "COOP:501814",
             "elevationUnit": "METERS",
             "longitude": -142.01667
-        },
-        {
-            "elevation": 9.1,
-            "mindate": "1968-01-01",
-            "maxdate": "1969-05-01",
-            "latitude": 60.06666,
-            "name": "CHISIK ISLAND, AK US",
-            "datacoverage": 0.8242,
-            "id": "COOP:501818",
-            "elevationUnit": "METERS",
-            "longitude": -152.58333
         },
         {
             "elevation": 592.8,
@@ -1282,17 +1051,6 @@
             "longitude": -150.1875
         },
         {
-            "elevation": 274,
-            "mindate": "1962-08-01",
-            "maxdate": "1968-08-01",
-            "latitude": 67.73333,
-            "name": "COLLEEN RIVER, AK US",
-            "datacoverage": 0.6983,
-            "id": "COOP:502105",
-            "elevationUnit": "METERS",
-            "longitude": -142.46667
-        },
-        {
             "elevation": 182,
             "mindate": "1948-06-01",
             "maxdate": "2015-11-01",
@@ -1348,17 +1106,6 @@
             "longitude": -149.66611
         },
         {
-            "elevation": 127.7,
-            "mindate": "1941-10-01",
-            "maxdate": "1956-02-01",
-            "latitude": 60.49222,
-            "name": "COOPER LANDING KENAI R, AK US",
-            "datacoverage": 0.5434,
-            "id": "COOP:502147",
-            "elevationUnit": "METERS",
-            "longitude": -149.80889
-        },
-        {
             "elevation": 114.3,
             "mindate": "1975-01-01",
             "maxdate": "2015-11-01",
@@ -1379,17 +1126,6 @@
             "id": "COOP:502156",
             "elevationUnit": "METERS",
             "longitude": -145.31667
-        },
-        {
-            "elevation": 313.9,
-            "mindate": "1962-11-01",
-            "maxdate": "1969-04-01",
-            "latitude": 62.08333,
-            "name": "COPPER VALLEY SCHOOL, AK US",
-            "datacoverage": 0.8337,
-            "id": "COOP:502161",
-            "elevationUnit": "METERS",
-            "longitude": -145.3
         },
         {
             "elevation": 7.6,
@@ -1425,17 +1161,6 @@
             "longitude": -145.778
         },
         {
-            "elevation": 29,
-            "mindate": "1937-08-01",
-            "maxdate": "1942-09-01",
-            "latitude": 64.88333,
-            "name": "COUNCIL, AK US",
-            "datacoverage": 1,
-            "id": "COOP:502217",
-            "elevationUnit": "METERS",
-            "longitude": -163.68333
-        },
-        {
             "elevation": 21,
             "mindate": "1975-01-01",
             "maxdate": "1979-04-01",
@@ -1456,17 +1181,6 @@
             "id": "COOP:502227",
             "elevationUnit": "METERS",
             "longitude": -133.1408
-        },
-        {
-            "elevation": 78.9,
-            "mindate": "1962-11-01",
-            "maxdate": "1968-05-01",
-            "latitude": 61.21667,
-            "name": "CREEKSIDE PARK SCHOOL, AK US",
-            "datacoverage": 0.5374,
-            "id": "COOP:502235",
-            "elevationUnit": "METERS",
-            "longitude": -149.73333
         },
         {
             "elevation": 341.4,
@@ -1500,17 +1214,6 @@
             "id": "COOP:502252",
             "elevationUnit": "METERS",
             "longitude": -143.3
-        },
-        {
-            "elevation": 157,
-            "mindate": "1942-03-01",
-            "maxdate": "1947-08-01",
-            "latitude": 62.61667,
-            "name": "CURRY, AK US",
-            "datacoverage": 0.9994,
-            "id": "COOP:502266",
-            "elevationUnit": "METERS",
-            "longitude": -150.03333
         },
         {
             "elevation": 14.9,
@@ -1557,17 +1260,6 @@
             "longitude": -145.34194
         },
         {
-            "elevation": 363,
-            "mindate": "1966-10-01",
-            "maxdate": "1969-04-01",
-            "latitude": 64.01667,
-            "name": "DELTA JUNCTION, AK US",
-            "datacoverage": 1,
-            "id": "COOP:502347",
-            "elevationUnit": "METERS",
-            "longitude": -145.7
-        },
-        {
             "elevation": 373.4,
             "mindate": "1984-11-01",
             "maxdate": "1985-01-01",
@@ -1599,17 +1291,6 @@
             "id": "COOP:502352",
             "elevationUnit": "METERS",
             "longitude": -145.105
-        },
-        {
-            "elevation": 110,
-            "mindate": "1958-12-01",
-            "maxdate": "1962-06-01",
-            "latitude": 60.96667,
-            "name": "DEVILS CLUB, AK US",
-            "datacoverage": 1,
-            "id": "COOP:502393",
-            "elevationUnit": "METERS",
-            "longitude": -149.18333
         },
         {
             "mindate": "1970-10-01",
@@ -1775,17 +1456,6 @@
             "longitude": -150.31167
         },
         {
-            "elevation": 7.9,
-            "mindate": "1941-05-01",
-            "maxdate": "1955-02-01",
-            "latitude": 61.45,
-            "name": "EKLUTNA, AK US",
-            "datacoverage": 0.9579,
-            "id": "COOP:502717",
-            "elevationUnit": "METERS",
-            "longitude": -149.33333
-        },
-        {
             "elevation": 267.9,
             "mindate": "1946-06-01",
             "maxdate": "1976-08-01",
@@ -1918,17 +1588,6 @@
             "longitude": -148.04639
         },
         {
-            "elevation": 1018.9,
-            "mindate": "1953-08-01",
-            "maxdate": "1968-12-01",
-            "latitude": 61.95,
-            "name": "EUREKA, AK US",
-            "datacoverage": 0.8269,
-            "id": "COOP:502952",
-            "elevationUnit": "METERS",
-            "longitude": -147.16667
-        },
-        {
             "elevation": 161.5,
             "mindate": "1976-01-01",
             "maxdate": "1979-01-01",
@@ -2037,28 +1696,6 @@
             "id": "COOP:503083",
             "elevationUnit": "METERS",
             "longitude": -146.94861
-        },
-        {
-            "elevation": 99.1,
-            "mindate": "1932-08-01",
-            "maxdate": "1961-05-01",
-            "latitude": 62.45,
-            "name": "FLAT, AK US",
-            "datacoverage": 0.8729,
-            "id": "COOP:503085",
-            "elevationUnit": "METERS",
-            "longitude": -158
-        },
-        {
-            "elevation": 39.9,
-            "mindate": "1922-01-01",
-            "maxdate": "1927-05-01",
-            "latitude": 55.6,
-            "name": "FORTMANN HATCHERY, AK US",
-            "datacoverage": 1,
-            "id": "COOP:503125",
-            "elevationUnit": "METERS",
-            "longitude": -131.41667
         },
         {
             "elevation": 494.1,
@@ -2356,17 +1993,6 @@
             "longitude": -145.4588
         },
         {
-            "elevation": 4.9,
-            "mindate": "1940-09-01",
-            "maxdate": "1952-07-01",
-            "latitude": 58.2,
-            "name": "GULL COVE, AK US",
-            "datacoverage": 0.9582,
-            "id": "COOP:503470",
-            "elevationUnit": "METERS",
-            "longitude": -136.15
-        },
-        {
             "elevation": 901.9,
             "mindate": "1966-06-01",
             "maxdate": "1974-03-01",
@@ -2396,28 +2022,6 @@
             "name": "HAINES AIRPORT, AK US",
             "datacoverage": 0.8549,
             "id": "COOP:503490",
-            "elevationUnit": "METERS",
-            "longitude": -135.5094
-        },
-        {
-            "elevation": 4.6,
-            "mindate": "1953-09-01",
-            "maxdate": "1956-09-01",
-            "latitude": 59.2433,
-            "name": "HAINES AIRPORT, AK US",
-            "datacoverage": 1,
-            "id": "COOP:503492",
-            "elevationUnit": "METERS",
-            "longitude": -135.5094
-        },
-        {
-            "elevation": 4.6,
-            "mindate": "1925-05-01",
-            "maxdate": "1953-09-01",
-            "latitude": 59.2433,
-            "name": "HAINES AIRPORT, AK US",
-            "datacoverage": 0.9765,
-            "id": "COOP:503495",
             "elevationUnit": "METERS",
             "longitude": -135.5094
         },
@@ -2530,17 +2134,6 @@
             "id": "COOP:503605",
             "elevationUnit": "METERS",
             "longitude": -134.8769
-        },
-        {
-            "elevation": 732.1,
-            "mindate": "1964-06-01",
-            "maxdate": "1968-08-01",
-            "latitude": 62.85,
-            "name": "HIGH LAKE LODGE, AK US",
-            "datacoverage": 0.98,
-            "id": "COOP:503628",
-            "elevationUnit": "METERS",
-            "longitude": -149.11667
         },
         {
             "elevation": 9.1,
@@ -2675,17 +2268,6 @@
             "longitude": -135.4277
         },
         {
-            "elevation": 11.9,
-            "mindate": "1926-09-01",
-            "maxdate": "1939-02-01",
-            "latitude": 61.53333,
-            "name": "HOOPER BAY, AK US",
-            "datacoverage": 0.5068,
-            "id": "COOP:503705",
-            "elevationUnit": "METERS",
-            "longitude": -166.08333
-        },
-        {
             "elevation": 54.9,
             "mindate": "1979-03-01",
             "maxdate": "2011-12-01",
@@ -2774,17 +2356,6 @@
             "longitude": -149.3
         },
         {
-            "elevation": 92,
-            "mindate": "1954-11-01",
-            "maxdate": "1962-03-01",
-            "latitude": 59.75,
-            "name": "INISKIN, AK US",
-            "datacoverage": 0.9891,
-            "id": "COOP:503925",
-            "elevationUnit": "METERS",
-            "longitude": -153.23333
-        },
-        {
             "elevation": 36.6,
             "mindate": "1959-08-01",
             "maxdate": "2006-07-01",
@@ -2794,17 +2365,6 @@
             "id": "COOP:503933",
             "elevationUnit": "METERS",
             "longitude": -154.49833
-        },
-        {
-            "elevation": 15.2,
-            "mindate": "1922-01-01",
-            "maxdate": "1965-06-01",
-            "latitude": 58.2988,
-            "name": "JUNEAU DOWNTOWN, AK US",
-            "datacoverage": 0.9867,
-            "id": "COOP:504092",
-            "elevationUnit": "METERS",
-            "longitude": -134.4111
         },
         {
             "elevation": 15.2,
@@ -2917,28 +2477,6 @@
             "longitude": -141.5205
         },
         {
-            "elevation": 116.1,
-            "mindate": "1951-07-01",
-            "maxdate": "1953-11-01",
-            "latitude": 57.35,
-            "name": "KARLUK LAKE 2, AK US",
-            "datacoverage": 0.482,
-            "id": "COOP:504329",
-            "elevationUnit": "METERS",
-            "longitude": -154.03333
-        },
-        {
-            "elevation": 116.1,
-            "mindate": "1963-04-01",
-            "maxdate": "1969-08-01",
-            "latitude": 57.35,
-            "name": "KARLUK LAKE 2, AK US",
-            "datacoverage": 0.5322,
-            "id": "COOP:504331",
-            "elevationUnit": "METERS",
-            "longitude": -154.03333
-        },
-        {
             "elevation": 110,
             "mindate": "1954-05-01",
             "maxdate": "1972-08-01",
@@ -2948,17 +2486,6 @@
             "id": "COOP:504333",
             "elevationUnit": "METERS",
             "longitude": -154.13333
-        },
-        {
-            "elevation": 9.1,
-            "mindate": "1924-12-01",
-            "maxdate": "1942-02-01",
-            "latitude": 55.633333,
-            "name": "KASAAN, AK US",
-            "datacoverage": 0.8021,
-            "id": "COOP:504342",
-            "elevationUnit": "METERS",
-            "longitude": -132.56667
         },
         {
             "elevation": 21.3,
@@ -3025,28 +2552,6 @@
             "id": "COOP:504550",
             "elevationUnit": "METERS",
             "longitude": -151.32278
-        },
-        {
-            "elevation": 673.9,
-            "mindate": "1922-01-01",
-            "maxdate": "1947-08-01",
-            "latitude": 61.48333,
-            "name": "KENNECOTT, AK US",
-            "datacoverage": 0.9741,
-            "id": "COOP:504555",
-            "elevationUnit": "METERS",
-            "longitude": -142.88333
-        },
-        {
-            "elevation": 366.1,
-            "mindate": "1961-08-01",
-            "maxdate": "1969-04-01",
-            "latitude": 61.73333,
-            "name": "KENNEY LAKE, AK US",
-            "datacoverage": 0.9142,
-            "id": "COOP:504560",
-            "elevationUnit": "METERS",
-            "longitude": -144.95
         },
         {
             "elevation": 378,
@@ -3126,17 +2631,6 @@
             "longitude": -152.3722
         },
         {
-            "elevation": 45.7,
-            "mindate": "1948-01-01",
-            "maxdate": "1949-01-01",
-            "latitude": 61.08333,
-            "name": "KLATTS FARM, AK US",
-            "datacoverage": 0.9967,
-            "id": "COOP:504887",
-            "elevationUnit": "METERS",
-            "longitude": -149.83148
-        },
-        {
             "elevation": 3,
             "mindate": "1980-09-01",
             "maxdate": "1989-01-01",
@@ -3159,17 +2653,6 @@
             "longitude": -133.075
         },
         {
-            "elevation": 24.1,
-            "mindate": "1951-08-01",
-            "maxdate": "1952-03-01",
-            "latitude": 61.46667,
-            "name": "KNIK, AK US",
-            "datacoverage": 0.998,
-            "id": "COOP:504943",
-            "elevationUnit": "METERS",
-            "longitude": -149.71667
-        },
-        {
             "elevation": 42.7,
             "mindate": "1953-08-01",
             "maxdate": "1979-12-01",
@@ -3190,17 +2673,6 @@
             "id": "COOP:504971",
             "elevationUnit": "METERS",
             "longitude": -149.43139
-        },
-        {
-            "elevation": 11.9,
-            "mindate": "1922-01-01",
-            "maxdate": "1941-06-01",
-            "latitude": 57.75,
-            "name": "KODIAK NF, AK US",
-            "datacoverage": 0.8677,
-            "id": "COOP:504984",
-            "elevationUnit": "METERS",
-            "longitude": -152.51667
         },
         {
             "elevation": 24.4,
@@ -3234,17 +2706,6 @@
             "id": "COOP:504991",
             "elevationUnit": "METERS",
             "longitude": -152.3561
-        },
-        {
-            "elevation": 36.9,
-            "mindate": "1955-02-01",
-            "maxdate": "1959-07-01",
-            "latitude": 59.41667,
-            "name": "KOKHANOK BAY, AK US",
-            "datacoverage": 0.8527,
-            "id": "COOP:505010",
-            "elevationUnit": "METERS",
-            "longitude": -154.86667
         },
         {
             "elevation": 9.1,
@@ -3291,39 +2752,6 @@
             "longitude": -149.6114
         },
         {
-            "elevation": 136.9,
-            "mindate": "1943-07-01",
-            "maxdate": "1960-12-01",
-            "latitude": 64.83333,
-            "name": "FORT WAINWRIGHT, AK US",
-            "datacoverage": 0.9473,
-            "id": "COOP:505318",
-            "elevationUnit": "METERS",
-            "longitude": -147.61667
-        },
-        {
-            "elevation": 18,
-            "mindate": "1950-03-01",
-            "maxdate": "1954-09-01",
-            "latitude": 59.45,
-            "name": "LAKE ALEKNAGIK, AK US",
-            "datacoverage": 0.7451,
-            "id": "COOP:505346",
-            "elevationUnit": "METERS",
-            "longitude": -158.9
-        },
-        {
-            "elevation": 577.6,
-            "mindate": "1963-06-01",
-            "maxdate": "1965-05-01",
-            "latitude": 67.5111,
-            "name": "CHANDALAR LAKE, AK US",
-            "datacoverage": 0.916,
-            "id": "COOP:505354",
-            "elevationUnit": "METERS",
-            "longitude": -148.4925
-        },
-        {
             "elevation": 747.1,
             "mindate": "1972-01-01",
             "maxdate": "1973-05-01",
@@ -3333,28 +2761,6 @@
             "id": "COOP:505364",
             "elevationUnit": "METERS",
             "longitude": -146.58333
-        },
-        {
-            "elevation": 312.4,
-            "mindate": "1944-03-01",
-            "maxdate": "1967-05-01",
-            "latitude": 63.9033,
-            "name": "MINCHUMINA, AK US",
-            "datacoverage": 0.9785,
-            "id": "COOP:505366",
-            "elevationUnit": "METERS",
-            "longitude": -152.2816
-        },
-        {
-            "elevation": 21,
-            "mindate": "1952-01-01",
-            "maxdate": "1965-05-01",
-            "latitude": 59.56667,
-            "name": "LAKE NERKA, AK US",
-            "datacoverage": 0.5715,
-            "id": "COOP:505374",
-            "elevationUnit": "METERS",
-            "longitude": -159.03333
         },
         {
             "elevation": 723.9,
@@ -3388,17 +2794,6 @@
             "id": "COOP:505456",
             "elevationUnit": "METERS",
             "longitude": -149.37028
-        },
-        {
-            "elevation": 3,
-            "mindate": "1954-06-01",
-            "maxdate": "1964-02-01",
-            "latitude": 56.88333,
-            "name": "LAZY BAY, AK ",
-            "datacoverage": 0.5898,
-            "id": "COOP:505458",
-            "elevationUnit": "METERS",
-            "longitude": -154.25
         },
         {
             "elevation": 223.4,
@@ -3476,17 +2871,6 @@
             "id": "COOP:505519",
             "elevationUnit": "METERS",
             "longitude": -134.6497
-        },
-        {
-            "elevation": 136.9,
-            "mindate": "1962-11-01",
-            "maxdate": "1963-12-01",
-            "latitude": 61.63333,
-            "name": "LITTLE SUSITNA, AK US",
-            "datacoverage": 0.9288,
-            "id": "COOP:505525",
-            "elevationUnit": "METERS",
-            "longitude": -149.81667
         },
         {
             "elevation": 274.9,
@@ -3588,39 +2972,6 @@
             "longitude": -150.6127
         },
         {
-            "elevation": 54.9,
-            "mindate": "1941-08-01",
-            "maxdate": "1953-06-01",
-            "latitude": 61.53333,
-            "name": "PALMER 4 SSE, AK US",
-            "datacoverage": 0.9301,
-            "id": "COOP:505721",
-            "elevationUnit": "METERS",
-            "longitude": -149.08333
-        },
-        {
-            "elevation": 128,
-            "mindate": "1941-08-01",
-            "maxdate": "1954-10-01",
-            "latitude": 61.65,
-            "name": "MATANUSKA VALLEY 9, AK US",
-            "datacoverage": 0.8112,
-            "id": "COOP:505728",
-            "elevationUnit": "METERS",
-            "longitude": -149.2
-        },
-        {
-            "elevation": 67.1,
-            "mindate": "1941-08-01",
-            "maxdate": "1954-10-01",
-            "latitude": 61.61667,
-            "name": "MATANUSKA VALLEY 12, AK US",
-            "datacoverage": 0.9622,
-            "id": "COOP:505731",
-            "elevationUnit": "METERS",
-            "longitude": -149.1
-        },
-        {
             "elevation": 52.4,
             "mindate": "1922-01-01",
             "maxdate": "2015-11-01",
@@ -3630,28 +2981,6 @@
             "id": "COOP:505733",
             "elevationUnit": "METERS",
             "longitude": -149.2541
-        },
-        {
-            "elevation": 107,
-            "mindate": "1942-07-01",
-            "maxdate": "1952-08-01",
-            "latitude": 61.61667,
-            "name": "MATANUSKA VALLEY 15, AK US",
-            "datacoverage": 0.7292,
-            "id": "COOP:505734",
-            "elevationUnit": "METERS",
-            "longitude": -149.21667
-        },
-        {
-            "elevation": 15.2,
-            "mindate": "1951-07-01",
-            "maxdate": "1954-10-01",
-            "latitude": 61.53333,
-            "name": "WASILLA 3 S, AK US",
-            "datacoverage": 0.9738,
-            "id": "COOP:505735",
-            "elevationUnit": "METERS",
-            "longitude": -149.43333
         },
         {
             "elevation": 469.4,
@@ -3731,39 +3060,6 @@
             "longitude": -150.23333
         },
         {
-            "elevation": 458.1,
-            "mindate": "1963-11-01",
-            "maxdate": "1966-12-01",
-            "latitude": 61.35,
-            "name": "MAY CREEK, AK US",
-            "datacoverage": 0.9997,
-            "id": "COOP:505810",
-            "elevationUnit": "METERS",
-            "longitude": -142.68333
-        },
-        {
-            "elevation": 830,
-            "mindate": "1950-07-01",
-            "maxdate": "1956-03-01",
-            "latitude": 62.78333,
-            "name": "MEIER, AK US",
-            "datacoverage": 0.6229,
-            "id": "COOP:505843",
-            "elevationUnit": "METERS",
-            "longitude": -145.45
-        },
-        {
-            "elevation": 27.1,
-            "mindate": "1937-05-01",
-            "maxdate": "1944-03-01",
-            "latitude": 58.4,
-            "name": "MENDENHALL, AK US",
-            "datacoverage": 0.9997,
-            "id": "COOP:505851",
-            "elevationUnit": "METERS",
-            "longitude": -134.53333
-        },
-        {
             "elevation": 720.5,
             "mindate": "2009-02-01",
             "maxdate": "2015-11-01",
@@ -3806,17 +3102,6 @@
             "id": "COOP:505875",
             "elevationUnit": "METERS",
             "longitude": -145.33333
-        },
-        {
-            "elevation": 350.5,
-            "mindate": "1960-01-01",
-            "maxdate": "1964-04-01",
-            "latitude": 61.26667,
-            "name": "MILE 47 CAMP, AK US",
-            "datacoverage": 0.6157,
-            "id": "COOP:505878",
-            "elevationUnit": "METERS",
-            "longitude": -145.26667
         },
         {
             "elevation": 267.9,
@@ -3883,17 +3168,6 @@
             "id": "COOP:505884",
             "elevationUnit": "METERS",
             "longitude": -152.4585
-        },
-        {
-            "elevation": 92,
-            "mindate": "1962-11-01",
-            "maxdate": "1962-12-01",
-            "latitude": 62.08333,
-            "name": "MONTANA, AK US",
-            "datacoverage": 0.998,
-            "id": "COOP:505886",
-            "elevationUnit": "METERS",
-            "longitude": -150.06667
         },
         {
             "elevation": 74.7,
@@ -3973,50 +3247,6 @@
             "longitude": -149.66667
         },
         {
-            "elevation": 121.9,
-            "mindate": "1945-09-01",
-            "maxdate": "1958-03-01",
-            "latitude": 59.4,
-            "name": "HAINES HIGHWAY MILE, AK US",
-            "datacoverage": 0.8678,
-            "id": "COOP:505898",
-            "elevationUnit": "METERS",
-            "longitude": -135.9
-        },
-        {
-            "elevation": 6.1,
-            "mindate": "1943-03-01",
-            "maxdate": "1967-07-01",
-            "latitude": 64.7,
-            "name": "MOSES POINT, AK US",
-            "datacoverage": 0.9624,
-            "id": "COOP:506058",
-            "elevationUnit": "METERS",
-            "longitude": -162.05
-        },
-        {
-            "elevation": 18,
-            "mindate": "1950-06-01",
-            "maxdate": "1951-08-01",
-            "latitude": 59.28333,
-            "name": "MOSQUITO POINT, AK US",
-            "datacoverage": 0.333,
-            "id": "COOP:506062",
-            "elevationUnit": "METERS",
-            "longitude": -158.58333
-        },
-        {
-            "elevation": 14.9,
-            "mindate": "1944-11-01",
-            "maxdate": "1963-10-01",
-            "latitude": 62.11667,
-            "name": "MOUNTAIN VILLAGE, AK US",
-            "datacoverage": 0.8203,
-            "id": "COOP:506078",
-            "elevationUnit": "METERS",
-            "longitude": -163.71667
-        },
-        {
             "elevation": 305.1,
             "mindate": "1974-01-01",
             "maxdate": "1978-07-01",
@@ -4092,17 +3322,6 @@
             "longitude": -151.92111
         },
         {
-            "elevation": 54.9,
-            "mindate": "1950-10-01",
-            "maxdate": "1954-09-01",
-            "latitude": 60.53333,
-            "name": "STERLING, AK ",
-            "datacoverage": 1,
-            "id": "COOP:506227",
-            "elevationUnit": "METERS",
-            "longitude": -150.75
-        },
-        {
             "elevation": 757.7,
             "mindate": "1978-08-01",
             "maxdate": "1983-05-01",
@@ -4147,28 +3366,6 @@
             "longitude": -154.36389
         },
         {
-            "elevation": 36.9,
-            "mindate": "1957-06-01",
-            "maxdate": "1968-05-01",
-            "latitude": 60.05,
-            "name": "NINILCHIK, AK US",
-            "datacoverage": 0.5303,
-            "id": "COOP:506441",
-            "elevationUnit": "METERS",
-            "longitude": -151.66667
-        },
-        {
-            "elevation": 64,
-            "mindate": "1968-07-01",
-            "maxdate": "1969-06-01",
-            "latitude": 60.1,
-            "name": "NINILCHIK 5 NE, AK US",
-            "datacoverage": 1,
-            "id": "COOP:506450",
-            "elevationUnit": "METERS",
-            "longitude": -151.58333
-        },
-        {
             "elevation": 18.3,
             "mindate": "1996-12-01",
             "maxdate": "2009-02-01",
@@ -4202,17 +3399,6 @@
             "longitude": -161.04778
         },
         {
-            "elevation": 9.1,
-            "mindate": "1954-02-01",
-            "maxdate": "1969-07-01",
-            "latitude": 63.31667,
-            "name": "NORTHEAST CAPE, AK US",
-            "datacoverage": 0.9196,
-            "id": "COOP:506566",
-            "elevationUnit": "METERS",
-            "longitude": -168.96667
-        },
-        {
             "elevation": 144.8,
             "mindate": "1968-10-01",
             "maxdate": "2015-11-01",
@@ -4244,17 +3430,6 @@
             "id": "COOP:506656",
             "elevationUnit": "METERS",
             "longitude": -158.10222
-        },
-        {
-            "elevation": 136.9,
-            "mindate": "1926-10-01",
-            "maxdate": "1963-12-01",
-            "latitude": 61,
-            "name": "NYAC, AK US",
-            "datacoverage": 0.3624,
-            "id": "COOP:506760",
-            "elevationUnit": "METERS",
-            "longitude": -159.98333
         },
         {
             "elevation": 113.1,
@@ -4297,15 +3472,6 @@
             "datacoverage": 0.9994,
             "id": "COOP:506800",
             "longitude": -150.58333
-        },
-        {
-            "mindate": "1951-08-01",
-            "maxdate": "1952-02-01",
-            "latitude": 57.16667,
-            "name": "OLGA, AK US",
-            "datacoverage": 0.5716,
-            "id": "COOP:506812",
-            "longitude": -154.23333
         },
         {
             "elevation": 12.2,
@@ -4352,50 +3518,6 @@
             "longitude": -149.1
         },
         {
-            "elevation": 39.9,
-            "mindate": "1961-06-01",
-            "maxdate": "1962-12-01",
-            "latitude": 61.58333,
-            "name": "PALMER 2 ESE, AK US",
-            "datacoverage": 0.9988,
-            "id": "COOP:506872",
-            "elevationUnit": "METERS",
-            "longitude": -149.05
-        },
-        {
-            "elevation": 31.1,
-            "mindate": "1956-06-01",
-            "maxdate": "1960-12-01",
-            "latitude": 61.53333,
-            "name": "PALMER 4 SE, AK US",
-            "datacoverage": 0.945,
-            "id": "COOP:506873",
-            "elevationUnit": "METERS",
-            "longitude": -149.08333
-        },
-        {
-            "elevation": 54.9,
-            "mindate": "1954-11-01",
-            "maxdate": "1955-07-01",
-            "latitude": 61.53333,
-            "name": "PALMER 4 SSE, AK US",
-            "datacoverage": 0.7804,
-            "id": "COOP:506874",
-            "elevationUnit": "METERS",
-            "longitude": -149.08333
-        },
-        {
-            "elevation": 128,
-            "mindate": "1954-11-01",
-            "maxdate": "1963-05-01",
-            "latitude": 61.65,
-            "name": "MATANUSKA VALLEY 9, AK US",
-            "datacoverage": 0.8158,
-            "id": "COOP:506875",
-            "elevationUnit": "METERS",
-            "longitude": -149.2
-        },
-        {
             "elevation": 253,
             "mindate": "1975-06-01",
             "maxdate": "1978-11-01",
@@ -4427,17 +3549,6 @@
             "id": "COOP:506884",
             "elevationUnit": "METERS",
             "longitude": -149.2
-        },
-        {
-            "elevation": 823,
-            "mindate": "1960-07-01",
-            "maxdate": "1968-01-01",
-            "latitude": 63.03222,
-            "name": "PAXSON, AK US",
-            "datacoverage": 0.9336,
-            "id": "COOP:507095",
-            "elevationUnit": "METERS",
-            "longitude": -145.49833
         },
         {
             "elevation": 823,
@@ -4506,26 +3617,6 @@
             "longitude": -132.9372
         },
         {
-            "elevation": 14.9,
-            "mindate": "1939-11-01",
-            "maxdate": "1945-07-01",
-            "latitude": 57.61667,
-            "name": "PILOT POINT, AK US",
-            "datacoverage": 0.8696,
-            "id": "COOP:507304",
-            "elevationUnit": "METERS",
-            "longitude": -157.56667
-        },
-        {
-            "mindate": "1923-07-01",
-            "maxdate": "1933-06-01",
-            "latitude": 61.96667,
-            "name": "PILOT STATION, AK US",
-            "datacoverage": 0.6666,
-            "id": "COOP:507314",
-            "longitude": -163
-        },
-        {
             "elevation": 20.4,
             "mindate": "1975-05-01",
             "maxdate": "1994-04-01",
@@ -4535,39 +3626,6 @@
             "id": "COOP:507352",
             "elevationUnit": "METERS",
             "longitude": -149.08333
-        },
-        {
-            "elevation": 6.1,
-            "mindate": "1939-10-01",
-            "maxdate": "1964-06-01",
-            "latitude": 59.01667,
-            "name": "PLATINUM, AK US",
-            "datacoverage": 0.9158,
-            "id": "COOP:507365",
-            "elevationUnit": "METERS",
-            "longitude": -161.78333
-        },
-        {
-            "elevation": 4,
-            "mindate": "1924-02-01",
-            "maxdate": "1982-02-01",
-            "latitude": 68.35,
-            "name": "POINT HOPE AIRPORT, AK US",
-            "datacoverage": 0.1894,
-            "id": "COOP:507431",
-            "elevationUnit": "METERS",
-            "longitude": -166.8
-        },
-        {
-            "elevation": 7.6,
-            "mindate": "1941-09-01",
-            "maxdate": "1958-03-01",
-            "latitude": 69.73288,
-            "name": "POINT LAY, AK US",
-            "datacoverage": 0.7991,
-            "id": "COOP:507442",
-            "elevationUnit": "METERS",
-            "longitude": -163.00533
         },
         {
             "elevation": 48.8,
@@ -4581,17 +3639,6 @@
             "longitude": -150.08194
         },
         {
-            "elevation": 3,
-            "mindate": "1963-05-01",
-            "maxdate": "1964-02-01",
-            "latitude": 60.435,
-            "name": "POINT NOWELL, AK ",
-            "datacoverage": 0.998,
-            "id": "COOP:507447",
-            "elevationUnit": "METERS",
-            "longitude": -147.94666
-        },
-        {
             "elevation": 264.9,
             "mindate": "1976-01-01",
             "maxdate": "1979-01-01",
@@ -4601,28 +3648,6 @@
             "id": "COOP:507461",
             "elevationUnit": "METERS",
             "longitude": -147.5
-        },
-        {
-            "elevation": 488,
-            "mindate": "1927-06-01",
-            "maxdate": "1936-09-01",
-            "latitude": 59.36667,
-            "name": "PORCUPINE CREEK, AK US",
-            "datacoverage": 0.8301,
-            "id": "COOP:507465",
-            "elevationUnit": "METERS",
-            "longitude": -136.26667
-        },
-        {
-            "elevation": 11.9,
-            "mindate": "1936-06-01",
-            "maxdate": "1949-09-01",
-            "latitude": 60.85,
-            "name": "PORTAGE, AK US",
-            "datacoverage": 0.7188,
-            "id": "COOP:507486",
-            "elevationUnit": "METERS",
-            "longitude": -148.98333
         },
         {
             "elevation": 12.2,
@@ -4768,17 +3793,6 @@
             "longitude": -152.7349
         },
         {
-            "elevation": 116.1,
-            "mindate": "1922-01-01",
-            "maxdate": "1933-08-01",
-            "latitude": 65.5,
-            "name": "RAMPART, AK US",
-            "datacoverage": 0.9501,
-            "id": "COOP:507891",
-            "elevationUnit": "METERS",
-            "longitude": -150.25
-        },
-        {
             "elevation": 121.9,
             "mindate": "1963-06-01",
             "maxdate": "1979-01-01",
@@ -4788,17 +3802,6 @@
             "id": "COOP:507900",
             "elevationUnit": "METERS",
             "longitude": -150.13333
-        },
-        {
-            "elevation": 648.9,
-            "mindate": "1935-11-01",
-            "maxdate": "1944-06-01",
-            "latitude": 63.53333,
-            "name": "RAPIDS, AK US",
-            "datacoverage": 0.9136,
-            "id": "COOP:507916",
-            "elevationUnit": "METERS",
-            "longitude": -145.85
         },
         {
             "elevation": 271,
@@ -4834,17 +3837,6 @@
             "longitude": -149.75
         },
         {
-            "elevation": 214.9,
-            "mindate": "1922-01-01",
-            "maxdate": "1942-08-01",
-            "latitude": 64.73333,
-            "name": "RUBY, AK US",
-            "datacoverage": 0.3589,
-            "id": "COOP:508039",
-            "elevationUnit": "METERS",
-            "longitude": -155.43333
-        },
-        {
             "elevation": 121.9,
             "mindate": "1977-02-01",
             "maxdate": "2000-11-01",
@@ -4878,17 +3870,6 @@
             "longitude": -161.31667
         },
         {
-            "elevation": 31.1,
-            "mindate": "1954-12-01",
-            "maxdate": "1960-03-01",
-            "latitude": 56.6,
-            "name": "ST GEORGE ISLAND, AK US",
-            "datacoverage": 1,
-            "id": "COOP:508100",
-            "elevationUnit": "METERS",
-            "longitude": -169.53333
-        },
-        {
             "elevation": 94.8,
             "mindate": "1967-07-01",
             "maxdate": "2000-05-01",
@@ -4909,17 +3890,6 @@
             "id": "COOP:508107",
             "elevationUnit": "METERS",
             "longitude": -163.3
-        },
-        {
-            "elevation": 11,
-            "mindate": "1922-01-01",
-            "maxdate": "1933-08-01",
-            "latitude": 63.5,
-            "name": "ST MICHAEL, AK US",
-            "datacoverage": 0.8858,
-            "id": "COOP:508114",
-            "elevationUnit": "METERS",
-            "longitude": -162
         },
         {
             "elevation": 10.7,
@@ -4977,17 +3947,6 @@
             "longitude": -160.52083
         },
         {
-            "elevation": 18,
-            "mindate": "1964-06-01",
-            "maxdate": "1965-01-01",
-            "latitude": 59.96667,
-            "name": "SARGENT CREEK, AK US",
-            "datacoverage": 0.9939,
-            "id": "COOP:508211",
-            "elevationUnit": "METERS",
-            "longitude": -152.71667
-        },
-        {
             "elevation": 16.2,
             "mindate": "1929-09-01",
             "maxdate": "1989-09-01",
@@ -4997,50 +3956,6 @@
             "id": "COOP:508239",
             "elevationUnit": "METERS",
             "longitude": -170.48083
-        },
-        {
-            "elevation": 6.1,
-            "mindate": "1936-08-01",
-            "maxdate": "1942-02-01",
-            "latitude": 54.41667,
-            "name": "SCOTCH CAPE LIGHT STATION, AK US",
-            "datacoverage": 0.9857,
-            "id": "COOP:508273",
-            "elevationUnit": "METERS",
-            "longitude": -164.75
-        },
-        {
-            "elevation": 6.1,
-            "mindate": "1932-11-01",
-            "maxdate": "1942-01-01",
-            "latitude": 56.55,
-            "name": "SECLUSION HARBOR, AK US",
-            "datacoverage": 0.9819,
-            "id": "COOP:508307",
-            "elevationUnit": "METERS",
-            "longitude": -134.05
-        },
-        {
-            "elevation": 6.1,
-            "mindate": "1953-01-01",
-            "maxdate": "1955-04-01",
-            "latitude": 66.6,
-            "name": "SELAWIK, AK US",
-            "datacoverage": 0.9668,
-            "id": "COOP:508341",
-            "elevationUnit": "METERS",
-            "longitude": -160.03333
-        },
-        {
-            "elevation": 6.1,
-            "mindate": "1961-02-01",
-            "maxdate": "1964-06-01",
-            "latitude": 59.43333,
-            "name": "SELDOVIA, AK US",
-            "datacoverage": 0.342,
-            "id": "COOP:508350",
-            "elevationUnit": "METERS",
-            "longitude": -151.7
         },
         {
             "elevation": 9.1,
@@ -5109,28 +4024,6 @@
             "longitude": -159.56667
         },
         {
-            "elevation": 3,
-            "mindate": "1951-09-01",
-            "maxdate": "1964-02-01",
-            "latitude": 57.35,
-            "name": "SHEARWATER BAY, AK US",
-            "datacoverage": 0.9668,
-            "id": "COOP:508400",
-            "elevationUnit": "METERS",
-            "longitude": -152.91667
-        },
-        {
-            "elevation": 853.4,
-            "mindate": "1943-07-01",
-            "maxdate": "1966-05-01",
-            "latitude": 61.81194,
-            "name": "SHEEP MOUNTAIN AIRPORT, AK US",
-            "datacoverage": 0.9636,
-            "id": "COOP:508407",
-            "elevationUnit": "METERS",
-            "longitude": -147.50694
-        },
-        {
             "elevation": 847.3,
             "mindate": "2001-10-01",
             "maxdate": "2011-12-01",
@@ -5162,28 +4055,6 @@
             "id": "COOP:508437",
             "elevationUnit": "METERS",
             "longitude": -166.08936
-        },
-        {
-            "elevation": 6.1,
-            "mindate": "1949-02-01",
-            "maxdate": "1949-05-01",
-            "latitude": 64.783333,
-            "name": "SHOTGUN COVE, AK US",
-            "datacoverage": 1,
-            "id": "COOP:508448",
-            "elevationUnit": "METERS",
-            "longitude": -148.56667
-        },
-        {
-            "elevation": 42.1,
-            "mindate": "1941-09-01",
-            "maxdate": "1950-08-01",
-            "latitude": 66.9,
-            "name": "SHUNGNAK CAA, AK US",
-            "datacoverage": 0.8519,
-            "id": "COOP:508459",
-            "elevationUnit": "METERS",
-            "longitude": -157.03333
         },
         {
             "elevation": 289.6,
@@ -5318,17 +4189,6 @@
             "longitude": -143.91667
         },
         {
-            "elevation": 86.9,
-            "mindate": "1957-10-01",
-            "maxdate": "1963-12-01",
-            "latitude": 61.7,
-            "name": "SLEETMUTE, AK US",
-            "datacoverage": 0.9866,
-            "id": "COOP:508554",
-            "elevationUnit": "METERS",
-            "longitude": -157.18333
-        },
-        {
             "elevation": 757.7,
             "mindate": "1969-04-01",
             "maxdate": "1976-10-01",
@@ -5338,17 +4198,6 @@
             "id": "COOP:508556",
             "elevationUnit": "METERS",
             "longitude": -146.86667
-        },
-        {
-            "elevation": 6.1,
-            "mindate": "1949-08-01",
-            "maxdate": "1950-09-01",
-            "latitude": 55.31667,
-            "name": "SMEATON BAY, AK US",
-            "datacoverage": 0.784,
-            "id": "COOP:508558",
-            "elevationUnit": "METERS",
-            "longitude": -130.78333
         },
         {
             "elevation": 8.8,
@@ -5371,17 +4220,6 @@
             "id": "COOP:508594",
             "elevationUnit": "METERS",
             "longitude": -146.693
-        },
-        {
-            "elevation": 34.1,
-            "mindate": "1962-03-01",
-            "maxdate": "1969-09-01",
-            "latitude": 60.46667,
-            "name": "SOLDOTNA, AK US",
-            "datacoverage": 0.9337,
-            "id": "COOP:508612",
-            "elevationUnit": "METERS",
-            "longitude": -151.03333
         },
         {
             "elevation": 3,
@@ -5439,28 +4277,6 @@
             "longitude": -155.55
         },
         {
-            "elevation": 6.1,
-            "mindate": "1922-08-01",
-            "maxdate": "1931-05-01",
-            "latitude": 58.13333,
-            "name": "SPEEL RIVER, AK US",
-            "datacoverage": 1,
-            "id": "COOP:508672",
-            "elevationUnit": "METERS",
-            "longitude": -134.23333
-        },
-        {
-            "elevation": 54.9,
-            "mindate": "1954-10-01",
-            "maxdate": "1968-04-01",
-            "latitude": 60.53333,
-            "name": "STERLING, AK ",
-            "datacoverage": 0.6258,
-            "id": "COOP:508727",
-            "elevationUnit": "METERS",
-            "longitude": -150.75
-        },
-        {
             "elevation": 89,
             "mindate": "2013-01-01",
             "maxdate": "2015-11-01",
@@ -5470,15 +4286,6 @@
             "id": "COOP:508731",
             "elevationUnit": "METERS",
             "longitude": -150.9188
-        },
-        {
-            "mindate": "1948-01-01",
-            "maxdate": "1968-06-01",
-            "latitude": 61.766667,
-            "name": "STONY RIVER, AK US",
-            "datacoverage": 0.1789,
-            "id": "COOP:508745",
-            "longitude": -156.63333
         },
         {
             "elevation": 274.3,
@@ -5523,15 +4330,6 @@
             "id": "COOP:508815",
             "elevationUnit": "METERS",
             "longitude": -149.55
-        },
-        {
-            "mindate": "1932-07-01",
-            "maxdate": "1947-07-01",
-            "latitude": 61.33333,
-            "name": "SUSITNA, AK US",
-            "datacoverage": 0.9724,
-            "id": "COOP:508882",
-            "longitude": -150.66667
         },
         {
             "elevation": 45.1,
@@ -5589,17 +4387,6 @@
             "longitude": -147.55
         },
         {
-            "elevation": 131.1,
-            "mindate": "1960-06-01",
-            "maxdate": "1962-12-01",
-            "latitude": 62.31667,
-            "name": "TALKEETNA 5 W, AK US",
-            "datacoverage": 0.7738,
-            "id": "COOP:508970",
-            "elevationUnit": "METERS",
-            "longitude": -150.25
-        },
-        {
             "elevation": 106.7,
             "mindate": "1922-01-01",
             "maxdate": "2015-11-01",
@@ -5620,28 +4407,6 @@
             "id": "COOP:508987",
             "elevationUnit": "METERS",
             "longitude": -143.34833
-        },
-        {
-            "elevation": 44.2,
-            "mindate": "1948-01-01",
-            "maxdate": "1949-02-01",
-            "latitude": 51.77861,
-            "name": "TANAGA ISLAND, AK US",
-            "datacoverage": 0.7878,
-            "id": "COOP:508995",
-            "elevationUnit": "METERS",
-            "longitude": -177.97166
-        },
-        {
-            "elevation": 92,
-            "mindate": "1940-04-01",
-            "maxdate": "1959-01-01",
-            "latitude": 60.21667,
-            "name": "TANALIAN POINT, AK US",
-            "datacoverage": 0.4822,
-            "id": "COOP:509005",
-            "elevationUnit": "METERS",
-            "longitude": -154.36667
         },
         {
             "elevation": 67.7,
@@ -5711,17 +4476,6 @@
         },
         {
             "elevation": 6.1,
-            "mindate": "1941-09-01",
-            "maxdate": "1951-02-01",
-            "latitude": 57.78333,
-            "name": "TENAKEE, AK US",
-            "datacoverage": 0.7372,
-            "id": "COOP:509113",
-            "elevationUnit": "METERS",
-            "longitude": -135.78333
-        },
-        {
-            "elevation": 6.1,
             "mindate": "1969-08-01",
             "maxdate": "1983-01-01",
             "latitude": 57.78333,
@@ -5785,17 +4539,6 @@
             "id": "COOP:509148",
             "elevationUnit": "METERS",
             "longitude": -132.5246
-        },
-        {
-            "elevation": 29.9,
-            "mindate": "1948-01-01",
-            "maxdate": "1950-02-01",
-            "latitude": 55.2,
-            "name": "COLD BAY THORNBROUGH AFB, AK US",
-            "datacoverage": 1,
-            "id": "COOP:509153",
-            "elevationUnit": "METERS",
-            "longitude": -162.71667
         },
         {
             "elevation": 82.6,
@@ -5864,17 +4607,6 @@
             "longitude": -142.95778
         },
         {
-            "elevation": 143,
-            "mindate": "1963-10-01",
-            "maxdate": "1965-09-01",
-            "latitude": 62.31667,
-            "name": "TOLOVAMKORGA, AK US",
-            "datacoverage": 0.5829,
-            "id": "COOP:509349",
-            "elevationUnit": "METERS",
-            "longitude": -150.45
-        },
-        {
             "elevation": 481.3,
             "mindate": "1963-07-01",
             "maxdate": "2015-11-01",
@@ -5884,17 +4616,6 @@
             "id": "COOP:509385",
             "elevationUnit": "METERS",
             "longitude": -145.1702
-        },
-        {
-            "elevation": 6.1,
-            "mindate": "1966-05-01",
-            "maxdate": "1967-06-01",
-            "latitude": 55.7,
-            "name": "TRAITORS COVE, AK US",
-            "datacoverage": 0.1429,
-            "id": "COOP:509394",
-            "elevationUnit": "METERS",
-            "longitude": -131.63333
         },
         {
             "elevation": 110,
@@ -6029,17 +4750,6 @@
             "longitude": -146.7
         },
         {
-            "elevation": 14.9,
-            "mindate": "1951-08-01",
-            "maxdate": "1965-03-01",
-            "latitude": 57.71667,
-            "name": "UGANIK BAY, AK ",
-            "datacoverage": 0.9329,
-            "id": "COOP:509511",
-            "elevationUnit": "METERS",
-            "longitude": -153.31667
-        },
-        {
             "elevation": 81.1,
             "mindate": "1948-01-01",
             "maxdate": "2001-04-01",
@@ -6051,17 +4761,6 @@
             "longitude": -152.14
         },
         {
-            "elevation": 39.6,
-            "mindate": "1950-03-01",
-            "maxdate": "1969-11-01",
-            "latitude": 53.38333,
-            "name": "UMNAK AIRPORT, AK US",
-            "datacoverage": 0.3079,
-            "id": "COOP:509551",
-            "elevationUnit": "METERS",
-            "longitude": -167.9
-        },
-        {
             "elevation": 5.5,
             "mindate": "1941-09-01",
             "maxdate": "1998-10-01",
@@ -6071,17 +4770,6 @@
             "id": "COOP:509564",
             "elevationUnit": "METERS",
             "longitude": -160.8
-        },
-        {
-            "elevation": 6.7,
-            "mindate": "1948-11-01",
-            "maxdate": "1950-12-01",
-            "latitude": 53.88333,
-            "name": "UNALASKA, AK US",
-            "datacoverage": 0.7696,
-            "id": "COOP:509575",
-            "elevationUnit": "METERS",
-            "longitude": -166.53333
         },
         {
             "elevation": 144.8,
@@ -6150,50 +4838,6 @@
             "longitude": -146.4325
         },
         {
-            "elevation": 189,
-            "mindate": "1962-08-01",
-            "maxdate": "1966-09-01",
-            "latitude": 67,
-            "name": "VENETIE, AK US",
-            "datacoverage": 0.82,
-            "id": "COOP:509694",
-            "elevationUnit": "METERS",
-            "longitude": -146.56667
-        },
-        {
-            "elevation": 46,
-            "mindate": "1958-09-01",
-            "maxdate": "1967-04-01",
-            "latitude": 59.83333,
-            "name": "VENTA, AK US",
-            "datacoverage": 0.9812,
-            "id": "COOP:509699",
-            "elevationUnit": "METERS",
-            "longitude": -150.96667
-        },
-        {
-            "elevation": 3,
-            "mindate": "1932-04-01",
-            "maxdate": "1946-06-01",
-            "latitude": 55.06667,
-            "name": "VIEW COVE, AK US",
-            "datacoverage": 0.9709,
-            "id": "COOP:509702",
-            "elevationUnit": "METERS",
-            "longitude": -133.06667
-        },
-        {
-            "elevation": 9.1,
-            "mindate": "1935-10-01",
-            "maxdate": "1969-01-01",
-            "latitude": 70.63778,
-            "name": "WAINWRIGHT, AK US",
-            "datacoverage": 0.7424,
-            "id": "COOP:509729",
-            "elevationUnit": "METERS",
-            "longitude": -160.01444
-        },
-        {
             "elevation": 7.6,
             "mindate": "1925-10-01",
             "maxdate": "1995-08-01",
@@ -6225,17 +4869,6 @@
             "id": "COOP:509759",
             "elevationUnit": "METERS",
             "longitude": -149.43333
-        },
-        {
-            "elevation": 107,
-            "mindate": "1964-07-01",
-            "maxdate": "1968-06-01",
-            "latitude": 61.58333,
-            "name": "WASILLA, AK US",
-            "datacoverage": 1,
-            "id": "COOP:509763",
-            "elevationUnit": "METERS",
-            "longitude": -149.45
         },
         {
             "elevation": 152.4,
@@ -6315,28 +4948,6 @@
             "longitude": -148.68583
         },
         {
-            "elevation": 6.1,
-            "mindate": "1963-02-01",
-            "maxdate": "1963-09-01",
-            "latitude": 57.36972,
-            "name": "WIDE BAY, AK US",
-            "datacoverage": 1,
-            "id": "COOP:509845",
-            "elevationUnit": "METERS",
-            "longitude": -156.41781
-        },
-        {
-            "elevation": 366.1,
-            "mindate": "1955-01-01",
-            "maxdate": "1960-09-01",
-            "latitude": 67.48333,
-            "name": "WILD LAKE, AK US",
-            "datacoverage": 0.8117,
-            "id": "COOP:509858",
-            "elevationUnit": "METERS",
-            "longitude": -151.6
-        },
-        {
             "elevation": 363,
             "mindate": "1963-12-01",
             "maxdate": "1976-02-01",
@@ -6414,17 +5025,6 @@
             "longitude": -150.10958
         },
         {
-            "elevation": 3,
-            "mindate": "1952-07-01",
-            "maxdate": "1956-04-01",
-            "latitude": 57.6,
-            "name": "WINDHAM, AK US",
-            "datacoverage": 1,
-            "id": "COOP:509873",
-            "elevationUnit": "METERS",
-            "longitude": -133.35
-        },
-        {
             "elevation": 640.1,
             "mindate": "1967-07-01",
             "maxdate": "1973-09-01",
@@ -6445,17 +5045,6 @@
             "id": "COOP:509891",
             "elevationUnit": "METERS",
             "longitude": -147.34
-        },
-        {
-            "elevation": 31.1,
-            "mindate": "1922-01-01",
-            "maxdate": "1942-01-01",
-            "latitude": 57.8,
-            "name": "WOODY ISLAND, AK US",
-            "datacoverage": 0.4771,
-            "id": "COOP:509902",
-            "elevationUnit": "METERS",
-            "longitude": -152.4
         },
         {
             "elevation": 182.9,
@@ -7091,17 +5680,6 @@
             "longitude": -148.98333
         },
         {
-            "elevation": 9.1,
-            "mindate": "1916-08-01",
-            "maxdate": "1944-08-28",
-            "latitude": 62.5,
-            "name": "AKULURAK, AK US",
-            "datacoverage": 0.3887,
-            "id": "GHCND:USC00500125",
-            "elevationUnit": "METERS",
-            "longitude": -164.41667
-        },
-        {
             "elevation": 67.1,
             "mindate": "1993-01-01",
             "maxdate": "2004-10-31",
@@ -7114,11 +5692,11 @@
         },
         {
             "elevation": 21,
-            "mindate": "1958-01-01",
+            "mindate": "1958-09-01",
             "maxdate": "1973-02-28",
             "latitude": 59.28333,
             "name": "ALEKNAGIK, AK US",
-            "datacoverage": 0.7495,
+            "datacoverage": 0.6553,
             "id": "GHCND:USC00500201",
             "elevationUnit": "METERS",
             "longitude": -158.56667
@@ -7201,17 +5779,6 @@
             "longitude": -157.85
         },
         {
-            "elevation": 30.5,
-            "mindate": "1944-06-01",
-            "maxdate": "1945-08-31",
-            "latitude": 65.5,
-            "name": "AMERICAN RIVER, AK US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00500258",
-            "elevationUnit": "METERS",
-            "longitude": -165.75
-        },
-        {
             "elevation": 36.6,
             "mindate": "1981-12-01",
             "maxdate": "1992-03-31",
@@ -7224,11 +5791,11 @@
         },
         {
             "elevation": 640.1,
-            "mindate": "1953-01-01",
+            "mindate": "1953-07-01",
             "maxdate": "1973-09-09",
             "latitude": 68.16667,
             "name": "ANAKTUVUK AUTO, AK US",
-            "datacoverage": 0.9994,
+            "datacoverage": 0.5473,
             "id": "GHCND:USC00500270",
             "elevationUnit": "METERS",
             "longitude": -151.76667
@@ -7311,17 +5878,6 @@
             "longitude": -149.91056
         },
         {
-            "elevation": 54.9,
-            "mindate": "1957-01-01",
-            "maxdate": "1962-10-31",
-            "latitude": 61.2,
-            "name": "ANCHORAGE 4 ESE, AK US",
-            "datacoverage": 0.9847,
-            "id": "GHCND:USC00500288",
-            "elevationUnit": "METERS",
-            "longitude": -149.78333
-        },
-        {
             "elevation": 155.4,
             "mindate": "1997-01-01",
             "maxdate": "2001-11-30",
@@ -7377,17 +5933,6 @@
             "longitude": -145.53333
         },
         {
-            "elevation": 17.1,
-            "mindate": "1916-10-01",
-            "maxdate": "1949-08-31",
-            "latitude": 52.22028,
-            "name": "ATKA AIRPORT, AK US",
-            "datacoverage": 0.4228,
-            "id": "GHCND:USC00500433",
-            "elevationUnit": "METERS",
-            "longitude": -174.20611
-        },
-        {
             "elevation": 21.3,
             "mindate": "1917-07-01",
             "maxdate": "1993-08-31",
@@ -7419,17 +5964,6 @@
             "id": "GHCND:USC00500490",
             "elevationUnit": "METERS",
             "longitude": -147.72167
-        },
-        {
-            "elevation": 6.1,
-            "mindate": "1936-11-01",
-            "maxdate": "1966-03-25",
-            "latitude": 57.08333,
-            "name": "BARANOF, AK US",
-            "datacoverage": 0.901,
-            "id": "GHCND:USC00500522",
-            "elevationUnit": "METERS",
-            "longitude": -134.83333
         },
         {
             "elevation": 49.1,
@@ -7465,17 +5999,6 @@
             "longitude": -147.40139
         },
         {
-            "elevation": 121.9,
-            "mindate": "1919-03-01",
-            "maxdate": "1920-09-30",
-            "latitude": 61.2333,
-            "name": "BEAVER DAM, AK US",
-            "datacoverage": 0.9971,
-            "id": "GHCND:USC00500655",
-            "elevationUnit": "METERS",
-            "longitude": -145.4
-        },
-        {
             "elevation": 10.7,
             "mindate": "1948-05-01",
             "maxdate": "2016-12-31",
@@ -7496,17 +6019,6 @@
             "id": "GHCND:USC00500685",
             "elevationUnit": "METERS",
             "longitude": -151.03333
-        },
-        {
-            "elevation": 39.9,
-            "mindate": "1966-01-01",
-            "maxdate": "1969-05-31",
-            "latitude": 61.55,
-            "name": "BRVRUD, AK US",
-            "datacoverage": 0.9726,
-            "id": "GHCND:USC00500702",
-            "elevationUnit": "METERS",
-            "longitude": -149.08333
         },
         {
             "elevation": 38.7,
@@ -7532,25 +6044,14 @@
         },
         {
             "elevation": 92,
-            "mindate": "1968-01-01",
+            "mindate": "1968-05-01",
             "maxdate": "1970-04-26",
             "latitude": 60.55,
             "name": "BIG DIPPER FARM, AK US",
-            "datacoverage": 0.9973,
+            "datacoverage": 0.7088,
             "id": "GHCND:USC00500775",
             "elevationUnit": "METERS",
             "longitude": -150.88333
-        },
-        {
-            "elevation": 67.1,
-            "mindate": "1957-01-01",
-            "maxdate": "1961-12-31",
-            "latitude": 61.53333,
-            "name": "BIG LAKE, AK US",
-            "datacoverage": 0.5997,
-            "id": "GHCND:USC00500777",
-            "elevationUnit": "METERS",
-            "longitude": -149.83333
         },
         {
             "elevation": 54.9,
@@ -7597,23 +6098,12 @@
             "longitude": -149.75
         },
         {
-            "elevation": 793.1,
-            "mindate": "1947-10-01",
-            "maxdate": "1957-10-14",
-            "latitude": 64.06667,
-            "name": "BOUNDARY, AK US",
-            "datacoverage": 0.9994,
-            "id": "GHCND:USC00500910",
-            "elevationUnit": "METERS",
-            "longitude": -141.11667
-        },
-        {
             "elevation": 11.9,
             "mindate": "1951-05-01",
             "maxdate": "1972-09-30",
             "latitude": 58.55,
             "name": "BROOKS LAKE, AK US",
-            "datacoverage": 0.9223,
+            "datacoverage": 0.5135,
             "id": "GHCND:USC00500986",
             "elevationUnit": "METERS",
             "longitude": -155.81667
@@ -7652,17 +6142,6 @@
             "longitude": -149.0561
         },
         {
-            "elevation": 6.1,
-            "mindate": "1908-04-01",
-            "maxdate": "1932-04-30",
-            "latitude": 56.16667,
-            "name": "CALDER, AK US",
-            "datacoverage": 0.8824,
-            "id": "GHCND:USC00501201",
-            "elevationUnit": "METERS",
-            "longitude": -132.45
-        },
-        {
             "elevation": 78.6,
             "mindate": "2000-05-01",
             "maxdate": "2020-03-16",
@@ -7672,17 +6151,6 @@
             "id": "GHCND:USC00501220",
             "elevationUnit": "METERS",
             "longitude": -149.7777
-        },
-        {
-            "elevation": 846.1,
-            "mindate": "1915-11-01",
-            "maxdate": "1918-03-31",
-            "latitude": 58.2833,
-            "name": "CAMP NUMBER 6 NEAR THANE, AK US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00501225",
-            "elevationUnit": "METERS",
-            "longitude": -134.4167
         },
         {
             "elevation": 14.9,
@@ -7705,17 +6173,6 @@
             "id": "GHCND:USC00501228",
             "elevationUnit": "METERS",
             "longitude": -149.75722
-        },
-        {
-            "elevation": 7,
-            "mindate": "1903-10-01",
-            "maxdate": "1950-10-26",
-            "latitude": 65.93333,
-            "name": "CANDLE, AK US",
-            "datacoverage": 0.4743,
-            "id": "GHCND:USC00501230",
-            "elevationUnit": "METERS",
-            "longitude": -161.91667
         },
         {
             "elevation": 25.9,
@@ -7762,17 +6219,6 @@
             "longitude": -133.67889
         },
         {
-            "elevation": 302.1,
-            "mindate": "1963-01-01",
-            "maxdate": "1968-06-30",
-            "latitude": 67.15,
-            "name": "CANYON VILLAGE, AK US",
-            "datacoverage": 0.9671,
-            "id": "GHCND:USC00501254",
-            "elevationUnit": "METERS",
-            "longitude": -141.75
-        },
-        {
             "elevation": 13.7,
             "mindate": "1954-01-01",
             "maxdate": "1984-11-30",
@@ -7804,28 +6250,6 @@
             "longitude": -133.8
         },
         {
-            "elevation": 11,
-            "mindate": "1960-01-01",
-            "maxdate": "1963-04-30",
-            "latitude": 68.1,
-            "name": "CAPE THOMPSON, AK US",
-            "datacoverage": 0.9011,
-            "id": "GHCND:USC00501341",
-            "elevationUnit": "METERS",
-            "longitude": -165.76667
-        },
-        {
-            "elevation": 88.1,
-            "mindate": "1949-01-01",
-            "maxdate": "1958-08-31",
-            "latitude": 61.96667,
-            "name": "CASWELL, AK US",
-            "datacoverage": 0.926,
-            "id": "GHCND:USC00501447",
-            "elevationUnit": "METERS",
-            "longitude": -149.9
-        },
-        {
             "elevation": 76.2,
             "mindate": "1996-01-01",
             "maxdate": "1998-04-30",
@@ -7849,17 +6273,6 @@
         },
         {
             "elevation": 280.4,
-            "mindate": "1905-05-01",
-            "maxdate": "1954-05-31",
-            "latitude": 65.5667,
-            "name": "CENTRAL NUMBER 2, AK US",
-            "datacoverage": 0.18,
-            "id": "GHCND:USC00501458",
-            "elevationUnit": "METERS",
-            "longitude": -144.7653
-        },
-        {
-            "elevation": 280.4,
             "mindate": "1962-01-01",
             "maxdate": "2011-06-01",
             "latitude": 65.5667,
@@ -7871,11 +6284,11 @@
         },
         {
             "elevation": 171,
-            "mindate": "1962-01-01",
+            "mindate": "1962-08-01",
             "maxdate": "1972-11-30",
             "latitude": 66.63333,
             "name": "CHALKYITSIK, AK US",
-            "datacoverage": 0.8565,
+            "datacoverage": 0.8063,
             "id": "GHCND:USC00501475",
             "elevationUnit": "METERS",
             "longitude": -143.71667
@@ -7925,48 +6338,6 @@
             "longitude": -146.0561
         },
         {
-            "elevation": 9.1,
-            "mindate": "1925-01-01",
-            "maxdate": "1942-07-31",
-            "latitude": 53.435,
-            "name": "CHERNOFSKI HARBOR, AK US",
-            "datacoverage": 0.455,
-            "id": "GHCND:USC00501601",
-            "elevationUnit": "METERS",
-            "longitude": -167.331667
-        },
-        {
-            "mindate": "1904-04-01",
-            "maxdate": "1907-10-31",
-            "latitude": 62.6667,
-            "name": "CHESTOCHENA, AK US",
-            "datacoverage": 0.9068,
-            "id": "GHCND:USC00501629",
-            "longitude": -144.4167
-        },
-        {
-            "elevation": 3,
-            "mindate": "1951-01-01",
-            "maxdate": "1957-10-31",
-            "latitude": 57.66667,
-            "name": "CHICHAGOF, AK ",
-            "datacoverage": 0.9997,
-            "id": "GHCND:USC00501641",
-            "elevationUnit": "METERS",
-            "longitude": -136.08333
-        },
-        {
-            "elevation": 284.1,
-            "mindate": "1910-03-01",
-            "maxdate": "1933-07-31",
-            "latitude": 61.8,
-            "name": "CHICKALOON, AK US",
-            "datacoverage": 0.6832,
-            "id": "GHCND:USC00501662",
-            "elevationUnit": "METERS",
-            "longitude": -148.45
-        },
-        {
             "elevation": 548.6,
             "mindate": "1911-01-01",
             "maxdate": "2020-05-17",
@@ -7989,17 +6360,6 @@
             "longitude": -152.36444
         },
         {
-            "elevation": 92,
-            "mindate": "1936-07-01",
-            "maxdate": "1939-08-31",
-            "latitude": 59.75,
-            "name": "CHINITNA BAY, AK US",
-            "datacoverage": 0.342,
-            "id": "GHCND:USC00501810",
-            "elevationUnit": "METERS",
-            "longitude": -153.23333
-        },
-        {
             "elevation": 967.1,
             "mindate": "1966-10-01",
             "maxdate": "1972-08-31",
@@ -8009,17 +6369,6 @@
             "id": "GHCND:USC00501814",
             "elevationUnit": "METERS",
             "longitude": -142.01667
-        },
-        {
-            "elevation": 9.1,
-            "mindate": "1967-01-01",
-            "maxdate": "1969-05-15",
-            "latitude": 60.06666,
-            "name": "CHISIK ISLAND, AK US",
-            "datacoverage": 0.9986,
-            "id": "GHCND:USC00501818",
-            "elevationUnit": "METERS",
-            "longitude": -152.58333
         },
         {
             "elevation": 592.8,
@@ -8121,17 +6470,6 @@
             "longitude": -145.51667
         },
         {
-            "elevation": 121.9,
-            "mindate": "1893-01-01",
-            "maxdate": "1911-07-31",
-            "latitude": 55.3866,
-            "name": "COAL HARBOR, AK US",
-            "datacoverage": 0.9196,
-            "id": "GHCND:USC00502041",
-            "elevationUnit": "METERS",
-            "longitude": -160.7775
-        },
-        {
             "elevation": 3,
             "mindate": "1970-10-01",
             "maxdate": "2018-03-31",
@@ -8174,17 +6512,6 @@
             "id": "GHCND:USC00502104",
             "elevationUnit": "METERS",
             "longitude": -150.1875
-        },
-        {
-            "elevation": 274,
-            "mindate": "1962-01-01",
-            "maxdate": "1968-08-31",
-            "latitude": 67.73333,
-            "name": "COLLEEN RIVER, AK US",
-            "datacoverage": 0.8565,
-            "id": "GHCND:USC00502105",
-            "elevationUnit": "METERS",
-            "longitude": -142.46667
         },
         {
             "elevation": 182,
@@ -8243,11 +6570,11 @@
         },
         {
             "elevation": 127.7,
-            "mindate": "1941-01-01",
+            "mindate": "1941-09-01",
             "maxdate": "2016-03-01",
             "latitude": 60.49222,
             "name": "COOPER LANDING KENAI R, AK US",
-            "datacoverage": 0.533,
+            "datacoverage": 0.1575,
             "id": "GHCND:USC00502147",
             "elevationUnit": "METERS",
             "longitude": -149.80889
@@ -8276,11 +6603,11 @@
         },
         {
             "elevation": 313.9,
-            "mindate": "1962-01-01",
+            "mindate": "1962-11-01",
             "maxdate": "1971-02-28",
             "latitude": 62.08333,
             "name": "COPPER VALLEY SCHOOL, AK US",
-            "datacoverage": 0.7568,
+            "datacoverage": 0.6904,
             "id": "GHCND:USC00502161",
             "elevationUnit": "METERS",
             "longitude": -145.3
@@ -8308,17 +6635,6 @@
             "longitude": -145.778
         },
         {
-            "elevation": 29,
-            "mindate": "1937-01-01",
-            "maxdate": "1942-07-31",
-            "latitude": 64.88333,
-            "name": "COUNCIL, AK US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00502217",
-            "elevationUnit": "METERS",
-            "longitude": -163.68333
-        },
-        {
             "elevation": 21,
             "mindate": "1975-01-01",
             "maxdate": "1979-04-30",
@@ -8339,17 +6655,6 @@
             "id": "GHCND:USC00502227",
             "elevationUnit": "METERS",
             "longitude": -133.1408
-        },
-        {
-            "elevation": 78.9,
-            "mindate": "1962-11-01",
-            "maxdate": "1968-05-31",
-            "latitude": 61.21667,
-            "name": "CREEKSIDE PARK SCHOOL, AK US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00502235",
-            "elevationUnit": "METERS",
-            "longitude": -149.73333
         },
         {
             "elevation": 341.4,
@@ -8385,17 +6690,6 @@
             "longitude": -143.3
         },
         {
-            "elevation": 157,
-            "mindate": "1942-02-01",
-            "maxdate": "1948-01-22",
-            "latitude": 62.61667,
-            "name": "CURRY, AK US",
-            "datacoverage": 0.9994,
-            "id": "GHCND:USC00502266",
-            "elevationUnit": "METERS",
-            "longitude": -150.03333
-        },
-        {
             "elevation": 322.8,
             "mindate": "1996-01-01",
             "maxdate": "2020-03-31",
@@ -8418,17 +6712,6 @@
             "longitude": -145.34194
         },
         {
-            "elevation": 363,
-            "mindate": "1966-10-01",
-            "maxdate": "1969-04-30",
-            "latitude": 64.01667,
-            "name": "DELTA JUNCTION, AK US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00502347",
-            "elevationUnit": "METERS",
-            "longitude": -145.7
-        },
-        {
             "elevation": 323.1,
             "mindate": "1994-01-01",
             "maxdate": "2015-07-31",
@@ -8449,17 +6732,6 @@
             "id": "GHCND:USC00502352",
             "elevationUnit": "METERS",
             "longitude": -145.105
-        },
-        {
-            "elevation": 110,
-            "mindate": "1958-12-01",
-            "maxdate": "1962-06-30",
-            "latitude": 60.96667,
-            "name": "DEVILS CLUB, AK US",
-            "datacoverage": 0.9993,
-            "id": "GHCND:USC00502393",
-            "elevationUnit": "METERS",
-            "longitude": -149.18333
         },
         {
             "mindate": "1970-10-01",
@@ -8493,15 +6765,6 @@
             "longitude": -158.83333
         },
         {
-            "mindate": "1917-04-01",
-            "maxdate": "1919-12-31",
-            "latitude": 63.6667,
-            "name": "DONNELLY, AK US",
-            "datacoverage": 0.3331,
-            "id": "GHCND:USC00502493",
-            "longitude": -145.9
-        },
-        {
             "elevation": 420.6,
             "mindate": "1905-02-01",
             "maxdate": "1975-04-30",
@@ -8522,17 +6785,6 @@
             "id": "GHCND:USC00502568",
             "elevationUnit": "METERS",
             "longitude": -144.6011
-        },
-        {
-            "elevation": 15.2,
-            "mindate": "1905-06-01",
-            "maxdate": "1920-09-30",
-            "latitude": 53.91666,
-            "name": "DUTCH HARBOR, AK US",
-            "datacoverage": 0.9293,
-            "id": "GHCND:USC00502586",
-            "elevationUnit": "METERS",
-            "longitude": -166.50359
         },
         {
             "elevation": 3,
@@ -8656,17 +6908,6 @@
             "longitude": -150.31167
         },
         {
-            "elevation": 7.9,
-            "mindate": "1941-05-01",
-            "maxdate": "1955-02-28",
-            "latitude": 61.45,
-            "name": "EKLUTNA, AK US",
-            "datacoverage": 0.9994,
-            "id": "GHCND:USC00502717",
-            "elevationUnit": "METERS",
-            "longitude": -149.33333
-        },
-        {
             "elevation": 267.9,
             "mindate": "1946-06-01",
             "maxdate": "1976-08-31",
@@ -8788,28 +7029,6 @@
             "longitude": -148.04639
         },
         {
-            "elevation": 1018.9,
-            "mindate": "1953-01-01",
-            "maxdate": "1968-09-30",
-            "latitude": 61.95,
-            "name": "EUREKA, AK US",
-            "datacoverage": 0.825,
-            "id": "GHCND:USC00502952",
-            "elevationUnit": "METERS",
-            "longitude": -147.16667
-        },
-        {
-            "elevation": 7.6,
-            "mindate": "1943-02-01",
-            "maxdate": "1944-03-31",
-            "latitude": 58.4167,
-            "name": "EXCURSION INLET, AK US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00502960",
-            "elevationUnit": "METERS",
-            "longitude": -135.4333
-        },
-        {
             "elevation": 298.7,
             "mindate": "2000-01-01",
             "maxdate": "2001-03-31",
@@ -8874,28 +7093,6 @@
             "id": "GHCND:USC00503083",
             "elevationUnit": "METERS",
             "longitude": -146.94861
-        },
-        {
-            "elevation": 99.1,
-            "mindate": "1932-08-01",
-            "maxdate": "1961-05-31",
-            "latitude": 62.45,
-            "name": "FLAT, AK US",
-            "datacoverage": 0.896,
-            "id": "GHCND:USC00503085",
-            "elevationUnit": "METERS",
-            "longitude": -158
-        },
-        {
-            "elevation": 39.9,
-            "mindate": "1904-01-01",
-            "maxdate": "1927-05-31",
-            "latitude": 55.6,
-            "name": "FORTMANN HATCHERY, AK US",
-            "datacoverage": 0.9857,
-            "id": "GHCND:USC00503125",
-            "elevationUnit": "METERS",
-            "longitude": -131.41667
         },
         {
             "elevation": 494.1,
@@ -9033,7 +7230,7 @@
             "maxdate": "1978-12-31",
             "latitude": 60.93333,
             "name": "GIRDWOOD, AK US",
-            "datacoverage": 0.9991,
+            "datacoverage": 0.188,
             "id": "GHCND:USC00503283",
             "elevationUnit": "METERS",
             "longitude": -149.16667
@@ -9072,17 +7269,6 @@
             "longitude": -145.5331
         },
         {
-            "elevation": 214,
-            "mindate": "1918-01-01",
-            "maxdate": "1920-12-31",
-            "latitude": 62.76667,
-            "name": "GOLD CREEK, AK US",
-            "datacoverage": 0.9991,
-            "id": "GHCND:USC00503347",
-            "elevationUnit": "METERS",
-            "longitude": -149.68333
-        },
-        {
             "elevation": 289.6,
             "mindate": "1996-12-01",
             "maxdate": "2005-01-31",
@@ -9105,17 +7291,6 @@
             "longitude": -147.87528
         },
         {
-            "elevation": 3.7,
-            "mindate": "1941-07-01",
-            "maxdate": "1945-10-31",
-            "latitude": 64.55,
-            "name": "GOLOVIN, AK US",
-            "datacoverage": 0.9992,
-            "id": "GHCND:USC00503378",
-            "elevationUnit": "METERS",
-            "longitude": -163.0167
-        },
-        {
             "elevation": 31.1,
             "mindate": "1967-07-01",
             "maxdate": "1976-12-31",
@@ -9136,17 +7311,6 @@
             "id": "GHCND:USC00503438",
             "elevationUnit": "METERS",
             "longitude": -160.08333
-        },
-        {
-            "elevation": 4.9,
-            "mindate": "1940-08-01",
-            "maxdate": "1952-07-31",
-            "latitude": 58.2,
-            "name": "GULL COVE, AK US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00503470",
-            "elevationUnit": "METERS",
-            "longitude": -136.15
         },
         {
             "elevation": 901.9,
@@ -9242,7 +7406,7 @@
             "maxdate": "2010-10-01",
             "latitude": 63.84528,
             "name": "HEALY, AK US",
-            "datacoverage": 0.9973,
+            "datacoverage": 0.0817,
             "id": "GHCND:USC00503581",
             "elevationUnit": "METERS",
             "longitude": -148.94361
@@ -9259,17 +7423,6 @@
             "longitude": -148.9943
         },
         {
-            "elevation": 4.6,
-            "mindate": "1919-01-01",
-            "maxdate": "1920-03-31",
-            "latitude": 55.85,
-            "name": "HERENDEEN BAY, AK ",
-            "datacoverage": 1,
-            "id": "GHCND:USC00503591",
-            "elevationUnit": "METERS",
-            "longitude": -160.25
-        },
-        {
             "elevation": 6.7,
             "mindate": "1992-01-01",
             "maxdate": "2020-05-11",
@@ -9279,17 +7432,6 @@
             "id": "GHCND:USC00503605",
             "elevationUnit": "METERS",
             "longitude": -134.8769
-        },
-        {
-            "elevation": 732.1,
-            "mindate": "1964-01-01",
-            "maxdate": "1968-08-31",
-            "latitude": 62.85,
-            "name": "HIGH LAKE LODGE, AK US",
-            "datacoverage": 0.9604,
-            "id": "GHCND:USC00503628",
-            "elevationUnit": "METERS",
-            "longitude": -149.11667
         },
         {
             "elevation": 9.1,
@@ -9402,17 +7544,6 @@
             "longitude": -135.4277
         },
         {
-            "elevation": 11.9,
-            "mindate": "1926-09-01",
-            "maxdate": "1939-02-28",
-            "latitude": 61.53333,
-            "name": "HOOPER BAY, AK US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00503705",
-            "elevationUnit": "METERS",
-            "longitude": -166.08333
-        },
-        {
             "elevation": 54.9,
             "mindate": "1979-03-01",
             "maxdate": "2012-06-30",
@@ -9444,17 +7575,6 @@
             "id": "GHCND:USC00503765",
             "elevationUnit": "METERS",
             "longitude": -154.23333
-        },
-        {
-            "elevation": 0.9,
-            "mindate": "1919-11-01",
-            "maxdate": "1928-12-31",
-            "latitude": 65.15,
-            "name": "IGLOO, AK US",
-            "datacoverage": 0.5271,
-            "id": "GHCND:USC00503868",
-            "elevationUnit": "METERS",
-            "longitude": -165.06667
         },
         {
             "elevation": 658.4,
@@ -9501,17 +7621,6 @@
             "longitude": -149.3
         },
         {
-            "elevation": 92,
-            "mindate": "1954-11-01",
-            "maxdate": "1962-03-22",
-            "latitude": 59.75,
-            "name": "INISKIN, AK US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00503925",
-            "elevationUnit": "METERS",
-            "longitude": -153.23333
-        },
-        {
             "elevation": 36.6,
             "mindate": "1959-01-01",
             "maxdate": "2010-12-31",
@@ -9521,39 +7630,6 @@
             "id": "GHCND:USC00503933",
             "elevationUnit": "METERS",
             "longitude": -154.49833
-        },
-        {
-            "elevation": 216.4,
-            "mindate": "1927-12-01",
-            "maxdate": "1929-08-31",
-            "latitude": 58.85,
-            "name": "JUALIN, AK US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00504062",
-            "elevationUnit": "METERS",
-            "longitude": -135.3333
-        },
-        {
-            "elevation": 457.2,
-            "mindate": "1915-08-01",
-            "maxdate": "1919-01-31",
-            "latitude": 55.2167,
-            "name": "JUMBO MINE, AK US",
-            "datacoverage": 0.9987,
-            "id": "GHCND:USC00504089",
-            "elevationUnit": "METERS",
-            "longitude": -132.5333
-        },
-        {
-            "elevation": 15.2,
-            "mindate": "1890-01-01",
-            "maxdate": "1965-06-30",
-            "latitude": 58.2988,
-            "name": "JUNEAU DOWNTOWN, AK US",
-            "datacoverage": 0.5497,
-            "id": "GHCND:USC00504092",
-            "elevationUnit": "METERS",
-            "longitude": -134.4111
         },
         {
             "elevation": 15.2,
@@ -9655,34 +7731,12 @@
             "longitude": -133.9
         },
         {
-            "elevation": 6.1,
-            "mindate": "1928-08-01",
-            "maxdate": "1931-06-11",
-            "latitude": 57.5667,
-            "name": "KALSIN BAY, AK US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00504161",
-            "elevationUnit": "METERS",
-            "longitude": -152.45
-        },
-        {
-            "elevation": 27.4,
-            "mindate": "1932-12-01",
-            "maxdate": "1934-06-30",
-            "latitude": 61.45,
-            "name": "KALSKAG, AK US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00504163",
-            "elevationUnit": "METERS",
-            "longitude": -160.8167
-        },
-        {
             "elevation": 55.2,
             "mindate": "1944-06-01",
             "maxdate": "2016-03-01",
             "latitude": 64.32667,
             "name": "KALTAG AIRPORT, AK US",
-            "datacoverage": 0.9384,
+            "datacoverage": 0.1821,
             "id": "GHCND:USC00504165",
             "elevationUnit": "METERS",
             "longitude": -158.74167
@@ -9699,48 +7753,15 @@
             "longitude": -141.5205
         },
         {
-            "elevation": 116.1,
-            "mindate": "1937-06-01",
-            "maxdate": "1953-11-30",
-            "latitude": 57.35,
-            "name": "KARLUK LAKE 2, AK US",
-            "datacoverage": 0.9991,
-            "id": "GHCND:USC00504329",
-            "elevationUnit": "METERS",
-            "longitude": -154.03333
-        },
-        {
-            "elevation": 116.1,
-            "mindate": "1963-01-01",
-            "maxdate": "1969-08-31",
-            "latitude": 57.35,
-            "name": "KARLUK LAKE 2, AK US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00504331",
-            "elevationUnit": "METERS",
-            "longitude": -154.03333
-        },
-        {
             "elevation": 110,
-            "mindate": "1954-01-01",
+            "mindate": "1954-05-01",
             "maxdate": "1972-08-31",
             "latitude": 57.45,
             "name": "KARLUK RIVER, AK US",
-            "datacoverage": 0.9995,
+            "datacoverage": 0.2499,
             "id": "GHCND:USC00504333",
             "elevationUnit": "METERS",
             "longitude": -154.13333
-        },
-        {
-            "elevation": 9.1,
-            "mindate": "1918-09-01",
-            "maxdate": "1942-02-28",
-            "latitude": 55.633333,
-            "name": "KASAAN, AK US",
-            "datacoverage": 0.7642,
-            "id": "GHCND:USC00504342",
-            "elevationUnit": "METERS",
-            "longitude": -132.56667
         },
         {
             "elevation": 21.3,
@@ -9763,17 +7784,6 @@
             "id": "GHCND:USC00504429",
             "elevationUnit": "METERS",
             "longitude": -151.55
-        },
-        {
-            "elevation": 3,
-            "mindate": "1907-04-01",
-            "maxdate": "1927-09-30",
-            "latitude": 60.2,
-            "name": "KATALA, AK US",
-            "datacoverage": 0.3171,
-            "id": "GHCND:USC00504444",
-            "elevationUnit": "METERS",
-            "longitude": -144.55
         },
         {
             "elevation": 46,
@@ -9809,28 +7819,6 @@
             "longitude": -151.32278
         },
         {
-            "elevation": 673.9,
-            "mindate": "1905-01-01",
-            "maxdate": "1947-08-31",
-            "latitude": 61.48333,
-            "name": "KENNECOTT, AK US",
-            "datacoverage": 0.7996,
-            "id": "GHCND:USC00504555",
-            "elevationUnit": "METERS",
-            "longitude": -142.88333
-        },
-        {
-            "elevation": 366.1,
-            "mindate": "1961-01-01",
-            "maxdate": "1969-04-30",
-            "latitude": 61.73333,
-            "name": "KENNEY LAKE, AK US",
-            "datacoverage": 0.8927,
-            "id": "GHCND:USC00504560",
-            "elevationUnit": "METERS",
-            "longitude": -144.95
-        },
-        {
             "elevation": 378,
             "mindate": "2000-05-01",
             "maxdate": "2012-03-31",
@@ -9840,26 +7828,6 @@
             "id": "GHCND:USC00504567",
             "elevationUnit": "METERS",
             "longitude": -144.7633
-        },
-        {
-            "elevation": 617.2,
-            "mindate": "1936-01-01",
-            "maxdate": "1941-12-31",
-            "latitude": 58.8667,
-            "name": "KENSINGTON MINE, AK US",
-            "datacoverage": 0.7572,
-            "id": "GHCND:USC00504570",
-            "elevationUnit": "METERS",
-            "longitude": -135.1333
-        },
-        {
-            "mindate": "1904-05-01",
-            "maxdate": "1909-07-31",
-            "latitude": 64.1167,
-            "name": "KETCHEMSTOCK, AK US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00504575",
-            "longitude": -142.3333
         },
         {
             "elevation": 62.5,
@@ -9906,26 +7874,6 @@
             "longitude": -154.3
         },
         {
-            "mindate": "1940-08-01",
-            "maxdate": "1943-08-31",
-            "latitude": 57.6833,
-            "name": "KISHMAN COVE, AK US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00504701",
-            "longitude": -136.1
-        },
-        {
-            "elevation": 30.5,
-            "mindate": "1936-11-01",
-            "maxdate": "1941-08-18",
-            "latitude": 64.970386,
-            "name": "KING ISLAND, AK US",
-            "datacoverage": 0.6381,
-            "id": "GHCND:USC00504762",
-            "elevationUnit": "METERS",
-            "longitude": -168.053192
-        },
-        {
             "elevation": 18.3,
             "mindate": "1954-11-01",
             "maxdate": "2020-03-31",
@@ -9937,26 +7885,6 @@
             "longitude": -152.3722
         },
         {
-            "mindate": "1927-07-01",
-            "maxdate": "1928-12-31",
-            "latitude": 58.6167,
-            "name": "KIUPOLIK ISLAND, AK US",
-            "datacoverage": 0.9973,
-            "id": "GHCND:USC00504823",
-            "longitude": -153.9167
-        },
-        {
-            "elevation": 45.7,
-            "mindate": "1947-11-01",
-            "maxdate": "1949-01-31",
-            "latitude": 61.08333,
-            "name": "KLATTS FARM, AK US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00504887",
-            "elevationUnit": "METERS",
-            "longitude": -149.83148
-        },
-        {
             "elevation": 3,
             "mindate": "1929-01-01",
             "maxdate": "1989-01-30",
@@ -9966,28 +7894,6 @@
             "id": "GHCND:USC00504898",
             "elevationUnit": "METERS",
             "longitude": -133.08333
-        },
-        {
-            "elevation": 27.7,
-            "mindate": "1908-01-01",
-            "maxdate": "1922-04-29",
-            "latitude": 59.4,
-            "name": "KLUKWAN, AK US",
-            "datacoverage": 0.8549,
-            "id": "GHCND:USC00504929",
-            "elevationUnit": "METERS",
-            "longitude": -135.9
-        },
-        {
-            "elevation": 24.1,
-            "mindate": "1951-01-01",
-            "maxdate": "1952-03-31",
-            "latitude": 61.46667,
-            "name": "KNIK, AK US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00504943",
-            "elevationUnit": "METERS",
-            "longitude": -149.71667
         },
         {
             "elevation": 42.7,
@@ -10012,17 +7918,6 @@
             "longitude": -149.43139
         },
         {
-            "elevation": 11.9,
-            "mindate": "1913-09-01",
-            "maxdate": "1949-12-31",
-            "latitude": 57.75,
-            "name": "KODIAK NF, AK US",
-            "datacoverage": 0.9449,
-            "id": "GHCND:USC00504984",
-            "elevationUnit": "METERS",
-            "longitude": -152.51667
-        },
-        {
             "elevation": 16.5,
             "mindate": "2005-01-01",
             "maxdate": "2020-03-31",
@@ -10032,28 +7927,6 @@
             "id": "GHCND:USC00504991",
             "elevationUnit": "METERS",
             "longitude": -152.3561
-        },
-        {
-            "elevation": 36.9,
-            "mindate": "1955-01-01",
-            "maxdate": "1959-07-31",
-            "latitude": 59.41667,
-            "name": "KOKHANOK BAY, AK US",
-            "datacoverage": 0.9995,
-            "id": "GHCND:USC00505010",
-            "elevationUnit": "METERS",
-            "longitude": -154.86667
-        },
-        {
-            "elevation": 56.4,
-            "mindate": "1944-06-01",
-            "maxdate": "1945-09-30",
-            "latitude": 64.9333,
-            "name": "KOKRINES, AK US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00505021",
-            "elevationUnit": "METERS",
-            "longitude": -154.6667
         },
         {
             "elevation": 9.1,
@@ -10089,39 +7962,6 @@
             "longitude": -149.6114
         },
         {
-            "elevation": 136.9,
-            "mindate": "1943-07-01",
-            "maxdate": "1960-10-31",
-            "latitude": 64.83333,
-            "name": "FORT WAINWRIGHT, AK US",
-            "datacoverage": 0.8747,
-            "id": "GHCND:USC00505318",
-            "elevationUnit": "METERS",
-            "longitude": -147.61667
-        },
-        {
-            "elevation": 18,
-            "mindate": "1950-01-01",
-            "maxdate": "1954-09-30",
-            "latitude": 59.45,
-            "name": "LAKE ALEKNAGIK, AK US",
-            "datacoverage": 0.9995,
-            "id": "GHCND:USC00505346",
-            "elevationUnit": "METERS",
-            "longitude": -158.9
-        },
-        {
-            "elevation": 577.6,
-            "mindate": "1963-01-01",
-            "maxdate": "1965-05-31",
-            "latitude": 67.5111,
-            "name": "CHANDALAR LAKE, AK US",
-            "datacoverage": 0.9986,
-            "id": "GHCND:USC00505354",
-            "elevationUnit": "METERS",
-            "longitude": -148.4925
-        },
-        {
             "elevation": 747.1,
             "mindate": "1972-04-01",
             "maxdate": "1973-05-31",
@@ -10131,17 +7971,6 @@
             "id": "GHCND:USC00505364",
             "elevationUnit": "METERS",
             "longitude": -146.58333
-        },
-        {
-            "elevation": 21,
-            "mindate": "1952-01-01",
-            "maxdate": "1965-05-31",
-            "latitude": 59.56667,
-            "name": "LAKE NERKA, AK US",
-            "datacoverage": 0.7993,
-            "id": "GHCND:USC00505374",
-            "elevationUnit": "METERS",
-            "longitude": -159.03333
         },
         {
             "elevation": 723.9,
@@ -10164,17 +7993,6 @@
             "id": "GHCND:USC00505425",
             "elevationUnit": "METERS",
             "longitude": -153.96667
-        },
-        {
-            "elevation": 3,
-            "mindate": "1954-05-01",
-            "maxdate": "1963-12-31",
-            "latitude": 56.88333,
-            "name": "LAZY BAY, AK ",
-            "datacoverage": 0.9995,
-            "id": "GHCND:USC00505458",
-            "elevationUnit": "METERS",
-            "longitude": -154.25
         },
         {
             "elevation": 223.4,
@@ -10232,17 +8050,6 @@
             "longitude": -147.24944
         },
         {
-            "elevation": 137.2,
-            "mindate": "1938-01-01",
-            "maxdate": "1941-06-30",
-            "latitude": 65.75,
-            "name": "LITTLE DIOMEDE, AK RS",
-            "datacoverage": 0.8104,
-            "id": "GHCND:USC00505517",
-            "elevationUnit": "METERS",
-            "longitude": -168.93333
-        },
-        {
             "elevation": 4.3,
             "mindate": "1936-07-01",
             "maxdate": "2020-05-06",
@@ -10252,17 +8059,6 @@
             "id": "GHCND:USC00505519",
             "elevationUnit": "METERS",
             "longitude": -134.6497
-        },
-        {
-            "elevation": 136.9,
-            "mindate": "1962-01-01",
-            "maxdate": "1963-10-31",
-            "latitude": 61.63333,
-            "name": "LITTLE SUSITNA, AK US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00505525",
-            "elevationUnit": "METERS",
-            "longitude": -149.81667
         },
         {
             "elevation": 274.9,
@@ -10353,50 +8149,6 @@
             "longitude": -150.638
         },
         {
-            "elevation": 54.9,
-            "mindate": "1941-08-01",
-            "maxdate": "1953-06-30",
-            "latitude": 61.53333,
-            "name": "PALMER 4 SSE, AK US",
-            "datacoverage": 0.9791,
-            "id": "GHCND:USC00505721",
-            "elevationUnit": "METERS",
-            "longitude": -149.08333
-        },
-        {
-            "elevation": 44.8,
-            "mindate": "1941-09-01",
-            "maxdate": "1943-09-30",
-            "latitude": 61.5761,
-            "name": "MATANUSKA NUMBER 6, AK US",
-            "datacoverage": 0.6808,
-            "id": "GHCND:USC00505725",
-            "elevationUnit": "METERS",
-            "longitude": -149.0944
-        },
-        {
-            "elevation": 128,
-            "mindate": "1941-01-01",
-            "maxdate": "1954-10-31",
-            "latitude": 61.65,
-            "name": "MATANUSKA VALLEY 9, AK US",
-            "datacoverage": 0.8686,
-            "id": "GHCND:USC00505728",
-            "elevationUnit": "METERS",
-            "longitude": -149.2
-        },
-        {
-            "elevation": 67.1,
-            "mindate": "1941-07-01",
-            "maxdate": "1954-10-31",
-            "latitude": 61.61667,
-            "name": "MATANUSKA VALLEY 12, AK US",
-            "datacoverage": 0.9935,
-            "id": "GHCND:USC00505731",
-            "elevationUnit": "METERS",
-            "longitude": -149.1
-        },
-        {
             "elevation": 52.4,
             "mindate": "1917-07-01",
             "maxdate": "2020-03-31",
@@ -10406,28 +8158,6 @@
             "id": "GHCND:USC00505733",
             "elevationUnit": "METERS",
             "longitude": -149.2541
-        },
-        {
-            "elevation": 107,
-            "mindate": "1942-07-01",
-            "maxdate": "1952-08-31",
-            "latitude": 61.61667,
-            "name": "MATANUSKA VALLEY 15, AK US",
-            "datacoverage": 0.7456,
-            "id": "GHCND:USC00505734",
-            "elevationUnit": "METERS",
-            "longitude": -149.21667
-        },
-        {
-            "elevation": 15.2,
-            "mindate": "1951-01-01",
-            "maxdate": "1954-10-31",
-            "latitude": 61.53333,
-            "name": "WASILLA 3 S, AK US",
-            "datacoverage": 0.9988,
-            "id": "GHCND:USC00505735",
-            "elevationUnit": "METERS",
-            "longitude": -149.43333
         },
         {
             "elevation": 469.4,
@@ -10468,7 +8198,7 @@
             "maxdate": "2015-11-01",
             "latitude": 62.95833,
             "name": "MC GRATH ON KUSKOKWI, AK US",
-            "datacoverage": 0.3997,
+            "datacoverage": 0.1061,
             "id": "GHCND:USC00505770",
             "elevationUnit": "METERS",
             "longitude": -155.59028
@@ -10501,43 +8231,10 @@
             "maxdate": "1970-04-30",
             "latitude": 62.58333,
             "name": "MC KINLEY VIEW, AK US",
-            "datacoverage": 0.9993,
+            "datacoverage": 0.6256,
             "id": "GHCND:USC00505789",
             "elevationUnit": "METERS",
             "longitude": -150.23333
-        },
-        {
-            "elevation": 458.1,
-            "mindate": "1963-11-01",
-            "maxdate": "1966-12-31",
-            "latitude": 61.35,
-            "name": "MAY CREEK, AK US",
-            "datacoverage": 0.9991,
-            "id": "GHCND:USC00505810",
-            "elevationUnit": "METERS",
-            "longitude": -142.68333
-        },
-        {
-            "elevation": 830,
-            "mindate": "1950-06-01",
-            "maxdate": "1956-03-31",
-            "latitude": 62.78333,
-            "name": "MEIER, AK US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00505843",
-            "elevationUnit": "METERS",
-            "longitude": -145.45
-        },
-        {
-            "elevation": 27.1,
-            "mindate": "1939-07-01",
-            "maxdate": "1944-04-08",
-            "latitude": 58.4,
-            "name": "MENDENHALL, AK US",
-            "datacoverage": 0.9996,
-            "id": "GHCND:USC00505851",
-            "elevationUnit": "METERS",
-            "longitude": -134.53333
         },
         {
             "elevation": 720.5,
@@ -10582,17 +8279,6 @@
             "id": "GHCND:USC00505875",
             "elevationUnit": "METERS",
             "longitude": -145.33333
-        },
-        {
-            "elevation": 350.5,
-            "mindate": "1959-01-01",
-            "maxdate": "1964-04-30",
-            "latitude": 61.26667,
-            "name": "MILE 47 CAMP, AK US",
-            "datacoverage": 0.6728,
-            "id": "GHCND:USC00505878",
-            "elevationUnit": "METERS",
-            "longitude": -145.26667
         },
         {
             "elevation": 267.9,
@@ -10661,15 +8347,6 @@
             "longitude": -152.4585
         },
         {
-            "mindate": "1902-01-01",
-            "maxdate": "1904-08-31",
-            "latitude": 55.75,
-            "name": "MINE HARBOR, AK US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00505885",
-            "longitude": -160.6667
-        },
-        {
             "elevation": 74.7,
             "mindate": "1963-06-01",
             "maxdate": "2016-03-01",
@@ -10730,43 +8407,10 @@
             "maxdate": "1971-02-28",
             "latitude": 61.25,
             "name": "MOOSE RUN FORT RICHA, AK US",
-            "datacoverage": 0.9986,
+            "datacoverage": 0.7711,
             "id": "GHCND:USC00505896",
             "elevationUnit": "METERS",
             "longitude": -149.66667
-        },
-        {
-            "elevation": 121.9,
-            "mindate": "1946-11-01",
-            "maxdate": "1958-03-26",
-            "latitude": 59.4,
-            "name": "HAINES HIGHWAY MILE, AK US",
-            "datacoverage": 0.9491,
-            "id": "GHCND:USC00505898",
-            "elevationUnit": "METERS",
-            "longitude": -135.9
-        },
-        {
-            "elevation": 18,
-            "mindate": "1950-01-01",
-            "maxdate": "1951-08-31",
-            "latitude": 59.28333,
-            "name": "MOSQUITO POINT, AK US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00506062",
-            "elevationUnit": "METERS",
-            "longitude": -158.58333
-        },
-        {
-            "elevation": 14.9,
-            "mindate": "1946-01-01",
-            "maxdate": "1963-10-31",
-            "latitude": 62.11667,
-            "name": "MOUNTAIN VILLAGE, AK US",
-            "datacoverage": 0.9995,
-            "id": "GHCND:USC00506078",
-            "elevationUnit": "METERS",
-            "longitude": -163.71667
         },
         {
             "elevation": 305.1,
@@ -10778,17 +8422,6 @@
             "id": "GHCND:USC00506086",
             "elevationUnit": "METERS",
             "longitude": -149.43333
-        },
-        {
-            "elevation": 524.3,
-            "mindate": "1949-01-01",
-            "maxdate": "1950-02-28",
-            "latitude": 63.73333,
-            "name": "MCKINLEY NATIONAL PARK AIRPORT, AK US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00506089",
-            "elevationUnit": "METERS",
-            "longitude": -148.91667
         },
         {
             "elevation": 625.1,
@@ -10833,28 +8466,6 @@
             "longitude": -149.975
         },
         {
-            "elevation": 23.8,
-            "mindate": "1917-06-01",
-            "maxdate": "1941-11-30",
-            "latitude": 58.7,
-            "name": "NAKNEK, AK US",
-            "datacoverage": 0.7177,
-            "id": "GHCND:USC00506166",
-            "elevationUnit": "METERS",
-            "longitude": -157.033333
-        },
-        {
-            "elevation": 54.9,
-            "mindate": "1950-01-01",
-            "maxdate": "1954-09-30",
-            "latitude": 60.53333,
-            "name": "STERLING, AK ",
-            "datacoverage": 1,
-            "id": "GHCND:USC00506227",
-            "elevationUnit": "METERS",
-            "longitude": -150.75
-        },
-        {
             "elevation": 757.7,
             "mindate": "1978-08-01",
             "maxdate": "1983-05-31",
@@ -10888,28 +8499,6 @@
             "longitude": -154.36389
         },
         {
-            "elevation": 36.9,
-            "mindate": "1940-10-01",
-            "maxdate": "1968-05-31",
-            "latitude": 60.05,
-            "name": "NINILCHIK, AK US",
-            "datacoverage": 0.7996,
-            "id": "GHCND:USC00506441",
-            "elevationUnit": "METERS",
-            "longitude": -151.66667
-        },
-        {
-            "elevation": 64,
-            "mindate": "1968-01-01",
-            "maxdate": "1971-11-30",
-            "latitude": 60.1,
-            "name": "NINILCHIK 5 NE, AK US",
-            "datacoverage": 0.9973,
-            "id": "GHCND:USC00506450",
-            "elevationUnit": "METERS",
-            "longitude": -151.58333
-        },
-        {
             "elevation": 18.3,
             "mindate": "1917-10-01",
             "maxdate": "2009-02-28",
@@ -10921,26 +8510,6 @@
             "longitude": -162.96972
         },
         {
-            "elevation": 20.7,
-            "mindate": "1917-09-01",
-            "maxdate": "1927-06-30",
-            "latitude": 66.8333,
-            "name": "NOORVIK, AK US",
-            "datacoverage": 0.9581,
-            "id": "GHCND:USC00506503",
-            "elevationUnit": "METERS",
-            "longitude": -161
-        },
-        {
-            "mindate": "1905-08-01",
-            "maxdate": "1909-09-30",
-            "latitude": 64.5,
-            "name": "NORTH FORK, AK US",
-            "datacoverage": 0.7199,
-            "id": "GHCND:USC00506564",
-            "longitude": -142.1667
-        },
-        {
             "elevation": 144.8,
             "mindate": "1968-10-01",
             "maxdate": "2020-05-16",
@@ -10950,6 +8519,2457 @@
             "id": "GHCND:USC00506581",
             "elevationUnit": "METERS",
             "longitude": -147.3253
+        },
+        {
+            "elevation": 34.1,
+            "mindate": "1917-08-01",
+            "maxdate": "2004-07-31",
+            "latitude": 64.71861,
+            "name": "NULATO, AK US",
+            "datacoverage": 0.2644,
+            "id": "GHCND:USC00506656",
+            "elevationUnit": "METERS",
+            "longitude": -158.10222
+        },
+        {
+            "elevation": 113.1,
+            "mindate": "1967-11-01",
+            "maxdate": "1974-07-31",
+            "latitude": 61.23333,
+            "name": "OIL WELL ROAD E P, AK US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00506769",
+            "elevationUnit": "METERS",
+            "longitude": -149.71667
+        },
+        {
+            "elevation": 402.3,
+            "mindate": "1970-01-01",
+            "maxdate": "2010-12-31",
+            "latitude": 61.8,
+            "name": "OLD EDGERTON, AK US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00506777",
+            "elevationUnit": "METERS",
+            "longitude": -144.98333
+        },
+        {
+            "elevation": 15.2,
+            "mindate": "1968-04-01",
+            "maxdate": "1986-02-28",
+            "latitude": 57.2,
+            "name": "OLD HARBOR, AK ",
+            "datacoverage": 0.1861,
+            "id": "GHCND:USC00506783",
+            "elevationUnit": "METERS",
+            "longitude": -153.3
+        },
+        {
+            "mindate": "1975-02-01",
+            "maxdate": "1976-10-31",
+            "latitude": 66.45,
+            "name": "OLD MAN, AK US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00506800",
+            "longitude": -150.58333
+        },
+        {
+            "elevation": 12.2,
+            "mindate": "1989-05-01",
+            "maxdate": "2010-12-31",
+            "latitude": 57.92556,
+            "name": "OUZINKIE, AK US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00506853",
+            "elevationUnit": "METERS",
+            "longitude": -152.50111
+        },
+        {
+            "elevation": 65.8,
+            "mindate": "1948-11-01",
+            "maxdate": "2020-03-31",
+            "latitude": 61.5888,
+            "name": "PALMER JOB CORPS, AK US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00506870",
+            "elevationUnit": "METERS",
+            "longitude": -149.0992
+        },
+        {
+            "elevation": 67.1,
+            "mindate": "1954-01-01",
+            "maxdate": "1977-12-25",
+            "latitude": 61.61667,
+            "name": "PALMER 1 N, AK US",
+            "datacoverage": 0.9388,
+            "id": "GHCND:USC00506871",
+            "elevationUnit": "METERS",
+            "longitude": -149.1
+        },
+        {
+            "elevation": 253,
+            "mindate": "1975-06-01",
+            "maxdate": "1978-10-31",
+            "latitude": 61.7,
+            "name": "PALMER CORRECTION CE, AK US",
+            "datacoverage": 0.7067,
+            "id": "GHCND:USC00506876",
+            "elevationUnit": "METERS",
+            "longitude": -148.98333
+        },
+        {
+            "elevation": 100.9,
+            "mindate": "1975-08-01",
+            "maxdate": "1978-10-31",
+            "latitude": 61.6,
+            "name": "PALMER OBSERVATORY, AK US",
+            "datacoverage": 0.9992,
+            "id": "GHCND:USC00506880",
+            "elevationUnit": "METERS",
+            "longitude": -149.13333
+        },
+        {
+            "elevation": 823,
+            "mindate": "1975-01-01",
+            "maxdate": "2010-12-31",
+            "latitude": 63.03222,
+            "name": "PAXSON, AK US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00507097",
+            "elevationUnit": "METERS",
+            "longitude": -145.49833
+        },
+        {
+            "elevation": 839.1,
+            "mindate": "1968-10-01",
+            "maxdate": "1979-08-31",
+            "latitude": 62.95,
+            "name": "PAXSON RIVER, AK US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00507105",
+            "elevationUnit": "METERS",
+            "longitude": -145.5
+        },
+        {
+            "elevation": 229.8,
+            "mindate": "1997-02-01",
+            "maxdate": "1998-06-30",
+            "latitude": 64.89222,
+            "name": "PEARL CREEK, AK US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00507108",
+            "elevationUnit": "METERS",
+            "longitude": -147.79611
+        },
+        {
+            "elevation": 3.7,
+            "mindate": "1967-01-01",
+            "maxdate": "2020-05-16",
+            "latitude": 57.9577,
+            "name": "PELICAN, AK US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00507141",
+            "elevationUnit": "METERS",
+            "longitude": -136.2213
+        },
+        {
+            "elevation": 20.4,
+            "mindate": "1975-08-01",
+            "maxdate": "2010-12-31",
+            "latitude": 61.53333,
+            "name": "PLANT MATERIALS CNTR, AK US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00507352",
+            "elevationUnit": "METERS",
+            "longitude": -149.08333
+        },
+        {
+            "elevation": 48.8,
+            "mindate": "1980-12-01",
+            "maxdate": "2015-08-01",
+            "latitude": 61.41694,
+            "name": "POINT MACKENZIE, AK US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00507444",
+            "elevationUnit": "METERS",
+            "longitude": -150.08194
+        },
+        {
+            "elevation": 12.2,
+            "mindate": "1973-01-01",
+            "maxdate": "1995-02-28",
+            "latitude": 60.81667,
+            "name": "PORTAGE 1 S, AK US",
+            "datacoverage": 0.4663,
+            "id": "GHCND:USC00507494",
+            "elevationUnit": "METERS",
+            "longitude": -148.98333
+        },
+        {
+            "elevation": 31.4,
+            "mindate": "1972-11-01",
+            "maxdate": "2016-03-01",
+            "latitude": 60.785,
+            "name": "PORTAGE GLACIER VISITOR CENTER, AK US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00507502",
+            "elevationUnit": "METERS",
+            "longitude": -148.83889
+        },
+        {
+            "elevation": 576.7,
+            "mindate": "1985-09-01",
+            "maxdate": "2020-04-14",
+            "latitude": 62.6211,
+            "name": "PORT ALCAN, AK US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00507513",
+            "elevationUnit": "METERS",
+            "longitude": -141.006
+        },
+        {
+            "elevation": 3.7,
+            "mindate": "1949-01-01",
+            "maxdate": "2017-09-05",
+            "latitude": 56.2472,
+            "name": "PORT ALEXANDER, AK US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00507557",
+            "elevationUnit": "METERS",
+            "longitude": -134.6447
+        },
+        {
+            "elevation": 79.2,
+            "mindate": "1960-01-01",
+            "maxdate": "2020-04-01",
+            "latitude": 60.2036,
+            "name": "PORT ALSWORTH, AK US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00507570",
+            "elevationUnit": "METERS",
+            "longitude": -154.3163
+        },
+        {
+            "elevation": 3.7,
+            "mindate": "1895-01-01",
+            "maxdate": "1995-08-31",
+            "latitude": 65.25,
+            "name": "PORT CLARENCE, AK US",
+            "datacoverage": 0.1705,
+            "id": "GHCND:USC00507669",
+            "elevationUnit": "METERS",
+            "longitude": -166.86667
+        },
+        {
+            "elevation": 22.9,
+            "mindate": "2002-08-01",
+            "maxdate": "2009-04-30",
+            "latitude": 57.86778,
+            "name": "PORT LIONS, AK US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00507708",
+            "elevationUnit": "METERS",
+            "longitude": -152.87861
+        },
+        {
+            "elevation": 13.4,
+            "mindate": "1984-01-01",
+            "maxdate": "1987-03-25",
+            "latitude": 56.31667,
+            "name": "PORT PROTECTION, AK ",
+            "datacoverage": 0.9991,
+            "id": "GHCND:USC00507721",
+            "elevationUnit": "METERS",
+            "longitude": -133.61667
+        },
+        {
+            "elevation": 12.2,
+            "mindate": "1980-01-01",
+            "maxdate": "2020-04-30",
+            "latitude": 60.0502,
+            "name": "PORT SAN JUAN, AK US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00507738",
+            "elevationUnit": "METERS",
+            "longitude": -148.0672
+        },
+        {
+            "elevation": 291.1,
+            "mindate": "1970-10-01",
+            "maxdate": "2016-02-01",
+            "latitude": 66.82361,
+            "name": "PROSPECT CREEK, AK US",
+            "datacoverage": 0.5995,
+            "id": "GHCND:USC00507778",
+            "elevationUnit": "METERS",
+            "longitude": -150.66889
+        },
+        {
+            "elevation": 22.9,
+            "mindate": "1986-04-01",
+            "maxdate": "2010-12-31",
+            "latitude": 70.25,
+            "name": "PRUDHOE BAY, AK US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00507780",
+            "elevationUnit": "METERS",
+            "longitude": -148.33333
+        },
+        {
+            "elevation": 566.3,
+            "mindate": "1942-01-01",
+            "maxdate": "2020-04-14",
+            "latitude": 62.0911,
+            "name": "PUNTILLA, AK US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00507783",
+            "elevationUnit": "METERS",
+            "longitude": -152.7349
+        },
+        {
+            "elevation": 121.9,
+            "mindate": "1963-06-01",
+            "maxdate": "1978-03-31",
+            "latitude": 65.5,
+            "name": "RAMPART 2, AK US",
+            "datacoverage": 0.5618,
+            "id": "GHCND:USC00507900",
+            "elevationUnit": "METERS",
+            "longitude": -150.13333
+        },
+        {
+            "elevation": 271,
+            "mindate": "1917-01-01",
+            "maxdate": "1971-07-31",
+            "latitude": 64.28333,
+            "name": "RICHARDSON, AK US",
+            "datacoverage": 0.296,
+            "id": "GHCND:USC00507977",
+            "elevationUnit": "METERS",
+            "longitude": -146.33333
+        },
+        {
+            "elevation": 386.5,
+            "mindate": "1969-06-01",
+            "maxdate": "1982-11-30",
+            "latitude": 64.15,
+            "name": "RIKAS LANDING, AK US",
+            "datacoverage": 0.9568,
+            "id": "GHCND:USC00507989",
+            "elevationUnit": "METERS",
+            "longitude": -145.85
+        },
+        {
+            "elevation": 256,
+            "mindate": "1972-10-01",
+            "maxdate": "1980-10-31",
+            "latitude": 61.11667,
+            "name": "ROCK RIDGE DRIVE, AK US",
+            "datacoverage": 0.9998,
+            "id": "GHCND:USC00508025",
+            "elevationUnit": "METERS",
+            "longitude": -149.75
+        },
+        {
+            "elevation": 121.9,
+            "mindate": "1977-02-01",
+            "maxdate": "2000-11-30",
+            "latitude": 64.7425,
+            "name": "RUBY WEST, AK US",
+            "datacoverage": 0.9986,
+            "id": "GHCND:USC00508044",
+            "elevationUnit": "METERS",
+            "longitude": -155.48417
+        },
+        {
+            "elevation": 78.9,
+            "mindate": "2009-01-01",
+            "maxdate": "2013-09-28",
+            "latitude": 64.8694,
+            "name": "RUBY 14 NE, AK US",
+            "datacoverage": 0.9791,
+            "id": "GHCND:USC00508047",
+            "elevationUnit": "METERS",
+            "longitude": -155.1177
+        },
+        {
+            "elevation": 15.2,
+            "mindate": "1928-07-01",
+            "maxdate": "1987-10-29",
+            "latitude": 61.78333,
+            "name": "RUSSIAN MISSION, AK US",
+            "datacoverage": 0.4759,
+            "id": "GHCND:USC00508054",
+            "elevationUnit": "METERS",
+            "longitude": -161.31667
+        },
+        {
+            "elevation": 94.8,
+            "mindate": "1967-07-01",
+            "maxdate": "2000-05-31",
+            "latitude": 62.05278,
+            "name": "ST MARYS, AK US",
+            "datacoverage": 0.5622,
+            "id": "GHCND:USC00508105",
+            "elevationUnit": "METERS",
+            "longitude": -163.17111
+        },
+        {
+            "elevation": 97.5,
+            "mindate": "1980-09-01",
+            "maxdate": "1991-06-30",
+            "latitude": 62.06667,
+            "name": "ST MARYS AIRPORT, AK US",
+            "datacoverage": 0.9543,
+            "id": "GHCND:USC00508107",
+            "elevationUnit": "METERS",
+            "longitude": -163.3
+        },
+        {
+            "elevation": 496.8,
+            "mindate": "1999-01-01",
+            "maxdate": "2006-06-30",
+            "latitude": 68.76083,
+            "name": "SAG RIVER D O T, AK US",
+            "datacoverage": 0.8744,
+            "id": "GHCND:USC00508130",
+            "elevationUnit": "METERS",
+            "longitude": -148.87306
+        },
+        {
+            "elevation": 207.3,
+            "mindate": "1919-06-01",
+            "maxdate": "2010-12-31",
+            "latitude": 64.49417,
+            "name": "SALCHA, AK US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00508140",
+            "elevationUnit": "METERS",
+            "longitude": -146.97667
+        },
+        {
+            "elevation": 233.8,
+            "mindate": "1996-12-01",
+            "maxdate": "2014-09-27",
+            "latitude": 64.5254,
+            "name": "SALCHA RIVER AT JOHNSON S, AK US",
+            "datacoverage": 0.1764,
+            "id": "GHCND:USC00508156",
+            "elevationUnit": "METERS",
+            "longitude": -146.3726
+        },
+        {
+            "elevation": 6.4,
+            "mindate": "1941-09-01",
+            "maxdate": "2010-12-31",
+            "latitude": 55.31944,
+            "name": "SAND POINT AIRPORT, AK US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00508183",
+            "elevationUnit": "METERS",
+            "longitude": -160.52083
+        },
+        {
+            "elevation": 16.2,
+            "mindate": "1929-09-01",
+            "maxdate": "1989-09-30",
+            "latitude": 63.69361,
+            "name": "SAVOONGA, AK US",
+            "datacoverage": 0.1956,
+            "id": "GHCND:USC00508239",
+            "elevationUnit": "METERS",
+            "longitude": -170.48083
+        },
+        {
+            "elevation": 9.1,
+            "mindate": "1967-06-01",
+            "maxdate": "1975-06-30",
+            "latitude": 59.43333,
+            "name": "SELDOVIA DOCK, AK US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00508355",
+            "elevationUnit": "METERS",
+            "longitude": -151.7
+        },
+        {
+            "elevation": 129.2,
+            "mindate": "1983-01-01",
+            "maxdate": "2016-08-31",
+            "latitude": 60.1883,
+            "name": "SEWARD 8 NW, AK US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00508375",
+            "elevationUnit": "METERS",
+            "longitude": -149.6274
+        },
+        {
+            "elevation": 157.9,
+            "mindate": "1986-01-01",
+            "maxdate": "2014-02-28",
+            "latitude": 60.3538,
+            "name": "SEWARD 19 N, AK US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00508377",
+            "elevationUnit": "METERS",
+            "longitude": -149.3483
+        },
+        {
+            "elevation": 21.3,
+            "mindate": "1985-01-01",
+            "maxdate": "1986-12-18",
+            "latitude": 62.7,
+            "name": "SHAGELUK, AK US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00508379",
+            "elevationUnit": "METERS",
+            "longitude": -159.56667
+        },
+        {
+            "elevation": 847.3,
+            "mindate": "2001-10-01",
+            "maxdate": "2011-10-31",
+            "latitude": 61.8125,
+            "name": "SHEEP MOUNTAIN LODGE, AK US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00508409",
+            "elevationUnit": "METERS",
+            "longitude": -147.4992
+        },
+        {
+            "elevation": 2.1,
+            "mindate": "1919-10-01",
+            "maxdate": "1973-11-30",
+            "latitude": 66.24958,
+            "name": "SHISHMAREF AIRPORT, AK US",
+            "datacoverage": 0.4754,
+            "id": "GHCND:USC00508437",
+            "elevationUnit": "METERS",
+            "longitude": -166.08936
+        },
+        {
+            "elevation": 289.6,
+            "mindate": "1996-12-01",
+            "maxdate": "1998-08-31",
+            "latitude": 64.89806,
+            "name": "SILVER BIRCH ESTATES, AK US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00508466",
+            "elevationUnit": "METERS",
+            "longitude": -147.59417
+        },
+        {
+            "elevation": 365.8,
+            "mindate": "1993-01-01",
+            "maxdate": "2010-12-31",
+            "latitude": 61.5175,
+            "name": "SILVER LAKE, AK US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00508470",
+            "elevationUnit": "METERS",
+            "longitude": -144.19139
+        },
+        {
+            "elevation": 20.4,
+            "mindate": "1899-04-01",
+            "maxdate": "1989-12-18",
+            "latitude": 57.05,
+            "name": "SITKA MAGNETIC OBSERVATORY, AK US",
+            "datacoverage": 0.921,
+            "id": "GHCND:USC00508503",
+            "elevationUnit": "METERS",
+            "longitude": -135.33333
+        },
+        {
+            "elevation": 10.7,
+            "mindate": "2008-07-01",
+            "maxdate": "2020-05-05",
+            "latitude": 57.0466,
+            "name": "SITKA WATER TREATMENT PLANT, AK US",
+            "datacoverage": 0.9461,
+            "id": "GHCND:USC00508505",
+            "elevationUnit": "METERS",
+            "longitude": -135.3497
+        },
+        {
+            "elevation": 10.7,
+            "mindate": "1898-11-01",
+            "maxdate": "2020-05-15",
+            "latitude": 59.4547,
+            "name": "SKAGWAY, AK US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00508525",
+            "elevationUnit": "METERS",
+            "longitude": -135.3136
+        },
+        {
+            "elevation": 285.6,
+            "mindate": "2000-12-01",
+            "maxdate": "2015-10-31",
+            "latitude": 59.5272,
+            "name": "SKAGWAY 6 NE, AK US",
+            "datacoverage": 0.9993,
+            "id": "GHCND:USC00508530",
+            "elevationUnit": "METERS",
+            "longitude": -135.2319
+        },
+        {
+            "elevation": 173.7,
+            "mindate": "1972-11-01",
+            "maxdate": "1981-08-31",
+            "latitude": 59.46667,
+            "name": "SKAGWAY 1 NW, AK US",
+            "datacoverage": 0.9907,
+            "id": "GHCND:USC00508532",
+            "elevationUnit": "METERS",
+            "longitude": -135.31667
+        },
+        {
+            "elevation": 668.1,
+            "mindate": "1957-01-01",
+            "maxdate": "2010-12-31",
+            "latitude": 62.7089,
+            "name": "SLANA, AK US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00508547",
+            "elevationUnit": "METERS",
+            "longitude": -143.9808
+        },
+        {
+            "elevation": 737.6,
+            "mindate": "1974-01-01",
+            "maxdate": "1977-10-16",
+            "latitude": 62.71667,
+            "name": "SLANA AIRPORT, AK US",
+            "datacoverage": 0.9239,
+            "id": "GHCND:USC00508550",
+            "elevationUnit": "METERS",
+            "longitude": -143.91667
+        },
+        {
+            "elevation": 757.7,
+            "mindate": "1969-04-01",
+            "maxdate": "1976-10-30",
+            "latitude": 61.98333,
+            "name": "NELCHINA HIGHWAY CAM, AK US",
+            "datacoverage": 0.9776,
+            "id": "GHCND:USC00508556",
+            "elevationUnit": "METERS",
+            "longitude": -146.86667
+        },
+        {
+            "elevation": 8.8,
+            "mindate": "1964-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 58.1421,
+            "name": "SNETTISHAM POWER PLANT, AK US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00508584",
+            "elevationUnit": "METERS",
+            "longitude": -133.7385
+        },
+        {
+            "elevation": 704.7,
+            "mindate": "1963-01-01",
+            "maxdate": "2011-10-31",
+            "latitude": 62.0302,
+            "name": "SNOWSHOE LAKE, AK US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00508594",
+            "elevationUnit": "METERS",
+            "longitude": -146.693
+        },
+        {
+            "elevation": 3,
+            "mindate": "1970-08-01",
+            "maxdate": "1972-01-31",
+            "latitude": 60.46667,
+            "name": "SOLDOTNA 6 W, AK US",
+            "datacoverage": 0.998,
+            "id": "GHCND:USC00508613",
+            "elevationUnit": "METERS",
+            "longitude": -151.23333
+        },
+        {
+            "elevation": 54.9,
+            "mindate": "2004-01-01",
+            "maxdate": "2020-04-01",
+            "latitude": 60.4194,
+            "name": "SOLDOTNA 5 SSW, AK US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00508615",
+            "elevationUnit": "METERS",
+            "longitude": -151.1336
+        },
+        {
+            "elevation": 597.4,
+            "mindate": "1971-01-01",
+            "maxdate": "2010-12-31",
+            "latitude": 62.53333,
+            "name": "SOURDOUGH 1 N, AK US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00508625",
+            "elevationUnit": "METERS",
+            "longitude": -145.51667
+        },
+        {
+            "elevation": 335.9,
+            "mindate": "1964-07-01",
+            "maxdate": "1971-11-30",
+            "latitude": 61.28333,
+            "name": "SOUTH FORK, AK US",
+            "datacoverage": 0.7753,
+            "id": "GHCND:USC00508648",
+            "elevationUnit": "METERS",
+            "longitude": -149.46667
+        },
+        {
+            "elevation": 481.6,
+            "mindate": "1953-05-01",
+            "maxdate": "1985-01-31",
+            "latitude": 61.1,
+            "name": "SPARREVOHN, AK US",
+            "datacoverage": 0.8082,
+            "id": "GHCND:USC00508666",
+            "elevationUnit": "METERS",
+            "longitude": -155.55
+        },
+        {
+            "elevation": 89,
+            "mindate": "2011-02-01",
+            "maxdate": "2020-05-16",
+            "latitude": 60.4905,
+            "name": "STERLING 6 SW, AK US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00508731",
+            "elevationUnit": "METERS",
+            "longitude": -150.9188
+        },
+        {
+            "elevation": 990.6,
+            "mindate": "1967-12-01",
+            "maxdate": "1998-01-31",
+            "latitude": 63.14833,
+            "name": "SUMMIT LAKE, AK US",
+            "datacoverage": 0.1989,
+            "id": "GHCND:USC00508813",
+            "elevationUnit": "METERS",
+            "longitude": -145.54083
+        },
+        {
+            "elevation": 1214,
+            "mindate": "1961-01-01",
+            "maxdate": "1971-12-31",
+            "latitude": 61.25,
+            "name": "SUMMIT NIKE SITE, AK US",
+            "datacoverage": 0.6291,
+            "id": "GHCND:USC00508815",
+            "elevationUnit": "METERS",
+            "longitude": -149.55
+        },
+        {
+            "elevation": 45.1,
+            "mindate": "2003-06-01",
+            "maxdate": "2011-04-30",
+            "latitude": 61.91278,
+            "name": "SUSITNA LANDING, AK US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00508884",
+            "elevationUnit": "METERS",
+            "longitude": -150.09889
+        },
+        {
+            "elevation": 228.9,
+            "mindate": "1968-11-01",
+            "maxdate": "1975-03-19",
+            "latitude": 62.75,
+            "name": "SUSITNA MEADOWS, AK US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00508886",
+            "elevationUnit": "METERS",
+            "longitude": -149.7
+        },
+        {
+            "elevation": 167.6,
+            "mindate": "1978-01-01",
+            "maxdate": "2011-11-01",
+            "latitude": 61.7138,
+            "name": "SUTTON 1 W, AK US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00508915",
+            "elevationUnit": "METERS",
+            "longitude": -148.9088
+        },
+        {
+            "elevation": 798.6,
+            "mindate": "1978-04-01",
+            "maxdate": "2010-12-31",
+            "latitude": 61.81667,
+            "name": "TAHNETA PASS, AK US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00508945",
+            "elevationUnit": "METERS",
+            "longitude": -147.55
+        },
+        {
+            "elevation": 60.4,
+            "mindate": "1971-05-01",
+            "maxdate": "1977-08-31",
+            "latitude": 65.16667,
+            "name": "TANANA, AK US",
+            "datacoverage": 0.3813,
+            "id": "GHCND:USC00509015",
+            "elevationUnit": "METERS",
+            "longitude": -152.1
+        },
+        {
+            "elevation": 289.6,
+            "mindate": "1999-01-01",
+            "maxdate": "1999-11-30",
+            "latitude": 65.38444,
+            "name": "TATALINA RIVER, AK US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00509038",
+            "elevationUnit": "METERS",
+            "longitude": -148.24861
+        },
+        {
+            "elevation": 198.1,
+            "mindate": "1999-01-01",
+            "maxdate": "2004-02-28",
+            "latitude": 63.39611,
+            "name": "TELIDA, AK US",
+            "datacoverage": 0.9991,
+            "id": "GHCND:USC00509098",
+            "elevationUnit": "METERS",
+            "longitude": -153.27056
+        },
+        {
+            "elevation": 6.1,
+            "mindate": "1925-08-01",
+            "maxdate": "1997-04-30",
+            "latitude": 65.26083,
+            "name": "TELLER, AK US",
+            "datacoverage": 0.3833,
+            "id": "GHCND:USC00509102",
+            "elevationUnit": "METERS",
+            "longitude": -166.35944
+        },
+        {
+            "elevation": 6.1,
+            "mindate": "1969-01-01",
+            "maxdate": "1983-01-12",
+            "latitude": 57.78333,
+            "name": "TENAKEE SPRINGS, AK US",
+            "datacoverage": 0.8157,
+            "id": "GHCND:USC00509121",
+            "elevationUnit": "METERS",
+            "longitude": -135.23333
+        },
+        {
+            "elevation": 777.8,
+            "mindate": "1958-01-01",
+            "maxdate": "1978-10-31",
+            "latitude": 63.13333,
+            "name": "THE GRACIOUS HOUSE, AK US",
+            "datacoverage": 0.4207,
+            "id": "GHCND:USC00509139",
+            "elevationUnit": "METERS",
+            "longitude": -147.53333
+        },
+        {
+            "elevation": 630.9,
+            "mindate": "1971-06-01",
+            "maxdate": "1974-01-31",
+            "latitude": 63.61667,
+            "name": "THE HARRIS S, AK US",
+            "datacoverage": 0.7485,
+            "id": "GHCND:USC00509142",
+            "elevationUnit": "METERS",
+            "longitude": -148.78333
+        },
+        {
+            "elevation": 274.9,
+            "mindate": "1973-01-01",
+            "maxdate": "1975-04-30",
+            "latitude": 59.68333,
+            "name": "THE TICES, AK US",
+            "datacoverage": 0.9527,
+            "id": "GHCND:USC00509144",
+            "elevationUnit": "METERS",
+            "longitude": -151.65
+        },
+        {
+            "elevation": 762.9,
+            "mindate": "1952-01-01",
+            "maxdate": "1974-04-19",
+            "latitude": 61.13333,
+            "name": "THOMPSON PASS, AK US",
+            "datacoverage": 0.668,
+            "id": "GHCND:USC00509146",
+            "elevationUnit": "METERS",
+            "longitude": -145.75
+        },
+        {
+            "elevation": 87.2,
+            "mindate": "2011-01-01",
+            "maxdate": "2020-01-31",
+            "latitude": 55.6918,
+            "name": "THORNE BAY, AK US",
+            "datacoverage": 0.9994,
+            "id": "GHCND:USC00509148",
+            "elevationUnit": "METERS",
+            "longitude": -132.5246
+        },
+        {
+            "elevation": 495.3,
+            "mindate": "1954-06-01",
+            "maxdate": "2017-08-27",
+            "latitude": 63.3337,
+            "name": "TOK, AK US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00509313",
+            "elevationUnit": "METERS",
+            "longitude": -143.0372
+        },
+        {
+            "elevation": 505.4,
+            "mindate": "2011-11-01",
+            "maxdate": "2020-05-16",
+            "latitude": 63.31556,
+            "name": "TOK NUMBER 2, AK US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00509314",
+            "elevationUnit": "METERS",
+            "longitude": -143.00583
+        },
+        {
+            "elevation": 499.9,
+            "mindate": "1997-02-01",
+            "maxdate": "2009-03-31",
+            "latitude": 63.32833,
+            "name": "TOK D O T, AK US",
+            "datacoverage": 0.5829,
+            "id": "GHCND:USC00509315",
+            "elevationUnit": "METERS",
+            "longitude": -142.99722
+        },
+        {
+            "elevation": 498.7,
+            "mindate": "2010-01-01",
+            "maxdate": "2013-11-01",
+            "latitude": 63.32694,
+            "name": "TOK FORESTRY, AK US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00509316",
+            "elevationUnit": "METERS",
+            "longitude": -142.99556
+        },
+        {
+            "elevation": 481.3,
+            "mindate": "1907-04-01",
+            "maxdate": "2014-11-30",
+            "latitude": 61.651,
+            "name": "TONSINA, AK US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00509385",
+            "elevationUnit": "METERS",
+            "longitude": -145.1702
+        },
+        {
+            "elevation": 110,
+            "mindate": "1968-03-01",
+            "maxdate": "1970-05-31",
+            "latitude": 62.31667,
+            "name": "TRAPPERS CREEK, AK US",
+            "datacoverage": 0.7776,
+            "id": "GHCND:USC00509396",
+            "elevationUnit": "METERS",
+            "longitude": -150.23333
+        },
+        {
+            "elevation": 153,
+            "mindate": "1970-01-01",
+            "maxdate": "1972-05-31",
+            "latitude": 62.4,
+            "name": "TRAPPERS CREEK CAMP, AK US",
+            "datacoverage": 0.9577,
+            "id": "GHCND:USC00509397",
+            "elevationUnit": "METERS",
+            "longitude": -150.25
+        },
+        {
+            "elevation": 129.5,
+            "mindate": "1997-12-01",
+            "maxdate": "2008-06-30",
+            "latitude": 62.26222,
+            "name": "TRAPPER CREEK 7 SW, AK US",
+            "datacoverage": 0.9686,
+            "id": "GHCND:USC00509398",
+            "elevationUnit": "METERS",
+            "longitude": -150.42278
+        },
+        {
+            "elevation": 248.4,
+            "mindate": "2004-10-01",
+            "maxdate": "2005-02-28",
+            "latitude": 62.33389,
+            "name": "TRAPPER CREEK 10 W, AK US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00509402",
+            "elevationUnit": "METERS",
+            "longitude": -150.53778
+        },
+        {
+            "elevation": 734.9,
+            "mindate": "1953-01-01",
+            "maxdate": "1979-11-30",
+            "latitude": 63.43333,
+            "name": "TRIMS CAMP, AK US",
+            "datacoverage": 0.9266,
+            "id": "GHCND:USC00509410",
+            "elevationUnit": "METERS",
+            "longitude": -145.76667
+        },
+        {
+            "elevation": 99.1,
+            "mindate": "1971-01-01",
+            "maxdate": "1987-10-31",
+            "latitude": 60.55,
+            "name": "TRI NAL ACRES, AK US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00509421",
+            "elevationUnit": "METERS",
+            "longitude": -150.53333
+        },
+        {
+            "elevation": 502.9,
+            "mindate": "1971-11-01",
+            "maxdate": "1974-12-31",
+            "latitude": 61.2,
+            "name": "TSAINA LODGE, AK US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00509428",
+            "elevationUnit": "METERS",
+            "longitude": -145.53333
+        },
+        {
+            "elevation": 19.2,
+            "mindate": "1979-08-01",
+            "maxdate": "2010-12-31",
+            "latitude": 59.43556,
+            "name": "TUTKA BAY LAGOON, AK US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00509460",
+            "elevationUnit": "METERS",
+            "longitude": -151.41361
+        },
+        {
+            "elevation": 184.4,
+            "mindate": "1992-01-01",
+            "maxdate": "2016-03-01",
+            "latitude": 64.86556,
+            "name": "TWO RIVERS, AK US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00509489",
+            "elevationUnit": "METERS",
+            "longitude": -146.95417
+        },
+        {
+            "elevation": 14.9,
+            "mindate": "1884-09-01",
+            "maxdate": "1971-03-30",
+            "latitude": 61.083333,
+            "name": "TYONEK, AK US",
+            "datacoverage": 0.1623,
+            "id": "GHCND:USC00509494",
+            "elevationUnit": "METERS",
+            "longitude": -151.133333
+        },
+        {
+            "elevation": 723,
+            "mindate": "1969-01-01",
+            "maxdate": "1971-09-30",
+            "latitude": 62.51667,
+            "name": "TYONE LAKE, AK US",
+            "datacoverage": 0.6667,
+            "id": "GHCND:USC00509502",
+            "elevationUnit": "METERS",
+            "longitude": -146.7
+        },
+        {
+            "elevation": 144.8,
+            "mindate": "1904-09-01",
+            "maxdate": "2020-03-31",
+            "latitude": 64.8569,
+            "name": "UNIVERSITY EXPERIMENTAL STATION, AK US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00509641",
+            "elevationUnit": "METERS",
+            "longitude": -147.861
+        },
+        {
+            "elevation": 18.3,
+            "mindate": "2002-02-01",
+            "maxdate": "2013-03-06",
+            "latitude": 61.1315,
+            "name": "VALDEZ MUNICIPAL AIRPORT, AK US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00509685",
+            "elevationUnit": "METERS",
+            "longitude": -146.2435
+        },
+        {
+            "elevation": 18.9,
+            "mindate": "2012-10-01",
+            "maxdate": "2020-05-17",
+            "latitude": 61.1312,
+            "name": "VALDEZ, AK US",
+            "datacoverage": 0.9989,
+            "id": "GHCND:USC00509687",
+            "elevationUnit": "METERS",
+            "longitude": -146.3822
+        },
+        {
+            "elevation": 179.8,
+            "mindate": "2001-09-01",
+            "maxdate": "2009-04-30",
+            "latitude": 61.11194,
+            "name": "VALDEZ 18 E, AK US",
+            "datacoverage": 0.9243,
+            "id": "GHCND:USC00509690",
+            "elevationUnit": "METERS",
+            "longitude": -145.78917
+        },
+        {
+            "elevation": 167.6,
+            "mindate": "1997-01-01",
+            "maxdate": "1997-05-31",
+            "latitude": 67.01778,
+            "name": "VENETIE, AK US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00509693",
+            "elevationUnit": "METERS",
+            "longitude": -146.4325
+        },
+        {
+            "elevation": 10.7,
+            "mindate": "2002-01-01",
+            "maxdate": "2020-04-30",
+            "latitude": 60.7986,
+            "name": "WALLY NOERENBERG HATCH, AK US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00509747",
+            "elevationUnit": "METERS",
+            "longitude": -148.0872
+        },
+        {
+            "elevation": 15.2,
+            "mindate": "1944-10-01",
+            "maxdate": "2010-12-31",
+            "latitude": 61.53333,
+            "name": "WASILLA 3 S, AK US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00509759",
+            "elevationUnit": "METERS",
+            "longitude": -149.43333
+        },
+        {
+            "elevation": 152.4,
+            "mindate": "1968-01-01",
+            "maxdate": "1984-05-31",
+            "latitude": 61.61667,
+            "name": "WASILLA 2 NE, AK US",
+            "datacoverage": 0.9999,
+            "id": "GHCND:USC00509765",
+            "elevationUnit": "METERS",
+            "longitude": -149.4
+        },
+        {
+            "elevation": 148.1,
+            "mindate": "2006-04-01",
+            "maxdate": "2006-11-30",
+            "latitude": 61.65083,
+            "name": "WASILLA 4 N, AK US",
+            "datacoverage": 0.499,
+            "id": "GHCND:USC00509767",
+            "elevationUnit": "METERS",
+            "longitude": -149.41917
+        },
+        {
+            "elevation": 131.1,
+            "mindate": "1967-08-01",
+            "maxdate": "1973-10-31",
+            "latitude": 65.46667,
+            "name": "WEST FORK, AK US",
+            "datacoverage": 0.9862,
+            "id": "GHCND:USC00509769",
+            "elevationUnit": "METERS",
+            "longitude": -148.66667
+        },
+        {
+            "elevation": 82.3,
+            "mindate": "1971-01-01",
+            "maxdate": "2010-12-31",
+            "latitude": 61.7066,
+            "name": "WHITES CROSSING, AK US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00509790",
+            "elevationUnit": "METERS",
+            "longitude": -149.9977
+        },
+        {
+            "elevation": 303.3,
+            "mindate": "1996-01-01",
+            "maxdate": "2020-05-16",
+            "latitude": 64.1539,
+            "name": "WHITESTONE FARMS, AK US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00509793",
+            "elevationUnit": "METERS",
+            "longitude": -145.8894
+        },
+        {
+            "elevation": 6.1,
+            "mindate": "1922-01-01",
+            "maxdate": "1990-05-31",
+            "latitude": 64.68333,
+            "name": "WHITE MOUNTAIN, AK US",
+            "datacoverage": 0.3167,
+            "id": "GHCND:USC00509798",
+            "elevationUnit": "METERS",
+            "longitude": -163.4
+        },
+        {
+            "elevation": 18.3,
+            "mindate": "1942-01-01",
+            "maxdate": "2011-06-30",
+            "latitude": 60.77639,
+            "name": "WHITTIER, AK US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00509829",
+            "elevationUnit": "METERS",
+            "longitude": -148.68583
+        },
+        {
+            "elevation": 363,
+            "mindate": "1963-12-01",
+            "maxdate": "1976-02-29",
+            "latitude": 67.55,
+            "name": "WILD LAKE 2, AK US",
+            "datacoverage": 0.6661,
+            "id": "GHCND:USC00509859",
+            "elevationUnit": "METERS",
+            "longitude": -151.55
+        },
+        {
+            "elevation": 64.9,
+            "mindate": "2004-10-01",
+            "maxdate": "2005-04-30",
+            "latitude": 61.70639,
+            "name": "WILLOW 4 SW, AK US",
+            "datacoverage": 0.8614,
+            "id": "GHCND:USC00509860",
+            "elevationUnit": "METERS",
+            "longitude": -150.11389
+        },
+        {
+            "elevation": 62.5,
+            "mindate": "1960-01-01",
+            "maxdate": "2011-09-25",
+            "latitude": 61.748,
+            "name": "WILLOW WEST, AK US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00509861",
+            "elevationUnit": "METERS",
+            "longitude": -150.0541
+        },
+        {
+            "elevation": 70.1,
+            "mindate": "1977-02-01",
+            "maxdate": "1989-10-31",
+            "latitude": 61.76667,
+            "name": "WILLOW HIGHWAY CAMP, AK US",
+            "datacoverage": 0.961,
+            "id": "GHCND:USC00509864",
+            "elevationUnit": "METERS",
+            "longitude": -150.05
+        },
+        {
+            "elevation": 427,
+            "mindate": "1970-04-01",
+            "maxdate": "1978-04-30",
+            "latitude": 61.78333,
+            "name": "WILLOW LAKE, AK US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00509865",
+            "elevationUnit": "METERS",
+            "longitude": -145.18333
+        },
+        {
+            "elevation": 360,
+            "mindate": "1918-11-01",
+            "maxdate": "2020-05-17",
+            "latitude": 67.40822,
+            "name": "WISEMAN, AK US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00509869",
+            "elevationUnit": "METERS",
+            "longitude": -150.10958
+        },
+        {
+            "elevation": 640.1,
+            "mindate": "1925-01-01",
+            "maxdate": "2015-09-01",
+            "latitude": 63.49028,
+            "name": "WONDER LAKE, AK US",
+            "datacoverage": 0.1145,
+            "id": "GHCND:USC00509883",
+            "elevationUnit": "METERS",
+            "longitude": -150.86972
+        },
+        {
+            "elevation": 151.2,
+            "mindate": "1996-12-01",
+            "maxdate": "2020-05-17",
+            "latitude": 64.76,
+            "name": "NORTH POLE 1 N, AK US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00509891",
+            "elevationUnit": "METERS",
+            "longitude": -147.34
+        },
+        {
+            "elevation": 182.9,
+            "mindate": "1906-06-01",
+            "maxdate": "1981-10-30",
+            "latitude": 61.11667,
+            "name": "WORTMAN S, AK US",
+            "datacoverage": 0.7138,
+            "id": "GHCND:USC00509911",
+            "elevationUnit": "METERS",
+            "longitude": -145.81667
+        },
+        {
+            "elevation": 17.1,
+            "mindate": "1917-11-01",
+            "maxdate": "2013-02-19",
+            "latitude": 56.4732,
+            "name": "WRANGELL AIRPORT, AK US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00509919",
+            "elevationUnit": "METERS",
+            "longitude": -132.3874
+        },
+        {
+            "elevation": 548.6,
+            "mindate": "1990-06-01",
+            "maxdate": "2019-12-15",
+            "latitude": 62.8167,
+            "name": "ALCAN HIGHWAY MI 1244 ALASKA, AK US",
+            "datacoverage": 0.9193,
+            "id": "GHCND:USR0000AALC",
+            "elevationUnit": "METERS",
+            "longitude": -141.4667
+        },
+        {
+            "elevation": 335.3,
+            "mindate": "1999-07-01",
+            "maxdate": "2018-10-04",
+            "latitude": 65.02,
+            "name": "ANGEL CREEK ALASKA, AK US",
+            "datacoverage": 0.8804,
+            "id": "GHCND:USR0000AANG",
+            "elevationUnit": "METERS",
+            "longitude": -146.228
+        },
+        {
+            "elevation": 405.1,
+            "mindate": "2012-09-01",
+            "maxdate": "2020-05-17",
+            "latitude": 67.475,
+            "name": "ASIK ALASKA, AK US",
+            "datacoverage": 0.947,
+            "id": "GHCND:USR0000AASI",
+            "elevationUnit": "METERS",
+            "longitude": -162.2664
+        },
+        {
+            "elevation": 22.9,
+            "mindate": "2001-07-01",
+            "maxdate": "2015-09-28",
+            "latitude": 58.4067,
+            "name": "BLACK CAPE ALASKA, AK US",
+            "datacoverage": 0.7719,
+            "id": "GHCND:USR0000ABCA",
+            "elevationUnit": "METERS",
+            "longitude": -152.8864
+        },
+        {
+            "elevation": 259.1,
+            "mindate": "1998-07-01",
+            "maxdate": "2020-05-17",
+            "latitude": 65.5847,
+            "name": "BIRCH CREEK ALASKA, AK US",
+            "datacoverage": 0.8356,
+            "id": "GHCND:USR0000ABCK",
+            "elevationUnit": "METERS",
+            "longitude": -144.3636
+        },
+        {
+            "elevation": 586.7,
+            "mindate": "1990-08-01",
+            "maxdate": "2003-07-29",
+            "latitude": 66.0594,
+            "name": "BEAR MOUNTAIN ALASKA, AK US",
+            "datacoverage": 0.8847,
+            "id": "GHCND:USR0000ABEA",
+            "elevationUnit": "METERS",
+            "longitude": -142.7694
+        },
+        {
+            "elevation": 563.9,
+            "mindate": "1990-05-01",
+            "maxdate": "2020-05-17",
+            "latitude": 65.2833,
+            "name": "BEN CREEK ALASKA, AK US",
+            "datacoverage": 0.7523,
+            "id": "GHCND:USR0000ABEN",
+            "elevationUnit": "METERS",
+            "longitude": -143.0667
+        },
+        {
+            "elevation": 22.9,
+            "mindate": "1998-04-01",
+            "maxdate": "2015-06-24",
+            "latitude": 60.1186,
+            "name": "BERING GLACIER ALASKA, AK US",
+            "datacoverage": 0.86,
+            "id": "GHCND:USR0000ABER",
+            "elevationUnit": "METERS",
+            "longitude": -143.2833
+        },
+        {
+            "elevation": 147.2,
+            "mindate": "1990-05-01",
+            "maxdate": "2017-11-13",
+            "latitude": 66.2667,
+            "name": "BEAVER WBQ ALASKA, AK US",
+            "datacoverage": 0.7716,
+            "id": "GHCND:USR0000ABEV",
+            "elevationUnit": "METERS",
+            "longitude": -146.5167
+        },
+        {
+            "elevation": 30.5,
+            "mindate": "2000-04-01",
+            "maxdate": "2020-05-17",
+            "latitude": 61.5183,
+            "name": "BIG LAKE ALASKA, AK US",
+            "datacoverage": 0.7969,
+            "id": "GHCND:USR0000ABIL",
+            "elevationUnit": "METERS",
+            "longitude": -149.9078
+        },
+        {
+            "elevation": 45.7,
+            "mindate": "1999-07-01",
+            "maxdate": "2020-05-17",
+            "latitude": 61.9358,
+            "name": "BENTALIT ALASKA, AK US",
+            "datacoverage": 0.97,
+            "id": "GHCND:USR0000ABNT",
+            "elevationUnit": "METERS",
+            "longitude": -150.9858
+        },
+        {
+            "elevation": 746.8,
+            "mindate": "2004-12-05",
+            "maxdate": "2020-05-17",
+            "latitude": 63.8667,
+            "name": "BOLIO ALASKA, AK US",
+            "datacoverage": 0.6706,
+            "id": "GHCND:USR0000ABOL",
+            "elevationUnit": "METERS",
+            "longitude": -145.8333
+        },
+        {
+            "elevation": 52.1,
+            "mindate": "1995-07-01",
+            "maxdate": "2015-09-28",
+            "latitude": 57.2678,
+            "name": "BOOTH LAKE ALASKA, AK US",
+            "datacoverage": 0.9053,
+            "id": "GHCND:USR0000ABOO",
+            "elevationUnit": "METERS",
+            "longitude": -154.565
+        },
+        {
+            "elevation": 350.5,
+            "mindate": "2012-06-22",
+            "maxdate": "2020-05-17",
+            "latitude": 65.2989,
+            "name": "BOX RIVER ALASKA, AK US",
+            "datacoverage": 0.9169,
+            "id": "GHCND:USR0000ABOX",
+            "elevationUnit": "METERS",
+            "longitude": -158.9053
+        },
+        {
+            "elevation": 190.5,
+            "mindate": "1989-09-01",
+            "maxdate": "2020-05-17",
+            "latitude": 60.4833,
+            "name": "BROADVIEW ALASKA, AK US",
+            "datacoverage": 0.9406,
+            "id": "GHCND:USR0000ABRO",
+            "elevationUnit": "METERS",
+            "longitude": -149.7667
+        },
+        {
+            "elevation": 121.9,
+            "mindate": "2012-07-18",
+            "maxdate": "2020-05-17",
+            "latitude": 65.9081,
+            "name": "BUCKLAND UPLANDS ALASKA, AK US",
+            "datacoverage": 0.9231,
+            "id": "GHCND:USR0000ABUU",
+            "elevationUnit": "METERS",
+            "longitude": -160.8742
+        },
+        {
+            "elevation": 47.9,
+            "mindate": "2005-12-31",
+            "maxdate": "2020-05-17",
+            "latitude": 61.1586,
+            "name": "CAMPBELL CREEK ALASKA, AK US",
+            "datacoverage": 0.9128,
+            "id": "GHCND:USR0000ACAM",
+            "elevationUnit": "METERS",
+            "longitude": -149.7967
+        },
+        {
+            "elevation": 480.1,
+            "mindate": "1990-06-01",
+            "maxdate": "2020-05-17",
+            "latitude": 65.1892,
+            "name": "CARIBOU PEAK ALASKA, AK US",
+            "datacoverage": 0.8774,
+            "id": "GHCND:USR0000ACCR",
+            "elevationUnit": "METERS",
+            "longitude": -147.5003
+        },
+        {
+            "elevation": 442,
+            "mindate": "1990-05-01",
+            "maxdate": "2020-05-17",
+            "latitude": 65.0167,
+            "name": "CHATANIKA ALASKA, AK US",
+            "datacoverage": 0.8231,
+            "id": "GHCND:USR0000ACHA",
+            "elevationUnit": "METERS",
+            "longitude": -148.5833
+        },
+        {
+            "elevation": 1597.2,
+            "mindate": "2004-08-21",
+            "maxdate": "2020-05-17",
+            "latitude": 62.1242,
+            "name": "CHICKEN CREEK ALASKA, AK US",
+            "datacoverage": 1,
+            "id": "GHCND:USR0000ACHC",
+            "elevationUnit": "METERS",
+            "longitude": -141.8453
+        },
+        {
+            "elevation": 1371.6,
+            "mindate": "2009-06-30",
+            "maxdate": "2020-02-09",
+            "latitude": 60.2233,
+            "name": "CHIGMIT MTNS ALASKA, AK US",
+            "datacoverage": 0.9786,
+            "id": "GHCND:USR0000ACHG",
+            "elevationUnit": "METERS",
+            "longitude": -153.4664
+        },
+        {
+            "elevation": 1011.3,
+            "mindate": "1988-07-01",
+            "maxdate": "2020-05-17",
+            "latitude": 62.1333,
+            "name": "CHISANA ALASKA, AK US",
+            "datacoverage": 0.8536,
+            "id": "GHCND:USR0000ACHI",
+            "elevationUnit": "METERS",
+            "longitude": -142.0833
+        },
+        {
+            "elevation": 137.2,
+            "mindate": "1997-06-01",
+            "maxdate": "2020-04-28",
+            "latitude": 66.5906,
+            "name": "CHALKYITSIK ALASKA, AK US",
+            "datacoverage": 0.8274,
+            "id": "GHCND:USR0000ACHL",
+            "elevationUnit": "METERS",
+            "longitude": -144.3411
+        },
+        {
+            "elevation": 944.9,
+            "mindate": "2012-09-04",
+            "maxdate": "2020-05-17",
+            "latitude": 67.7558,
+            "name": "CHIMNEY LAKE ALASKA, AK US",
+            "datacoverage": 0.9822,
+            "id": "GHCND:USR0000ACHM",
+            "elevationUnit": "METERS",
+            "longitude": -150.4933
+        },
+        {
+            "elevation": 701,
+            "mindate": "2001-06-01",
+            "maxdate": "2020-05-17",
+            "latitude": 62.5653,
+            "name": "CHISTOCHINA ALASKA, AK US",
+            "datacoverage": 0.9483,
+            "id": "GHCND:USR0000ACHS",
+            "elevationUnit": "METERS",
+            "longitude": -144.6647
+        },
+        {
+            "elevation": 177.1,
+            "mindate": "1998-10-01",
+            "maxdate": "2020-05-17",
+            "latitude": 61.5319,
+            "name": "CHITNA ALASKA, AK US",
+            "datacoverage": 0.9716,
+            "id": "GHCND:USR0000ACHT",
+            "elevationUnit": "METERS",
+            "longitude": -144.4397
+        },
+        {
+            "elevation": 871.7,
+            "mindate": "1998-09-01",
+            "maxdate": "2020-05-17",
+            "latitude": 64.06,
+            "name": "CHICKEN ALASKA, AK US",
+            "datacoverage": 0.9195,
+            "id": "GHCND:USR0000ACKN",
+            "elevationUnit": "METERS",
+            "longitude": -141.9294
+        },
+        {
+            "elevation": 265.2,
+            "mindate": "2004-11-05",
+            "maxdate": "2020-05-17",
+            "latitude": 65.3139,
+            "name": "COAL CREEK ALASKA, AK US",
+            "datacoverage": 0.9977,
+            "id": "GHCND:USR0000ACOA",
+            "elevationUnit": "METERS",
+            "longitude": -143.1322
+        },
+        {
+            "elevation": 399.3,
+            "mindate": "1991-06-01",
+            "maxdate": "2020-05-17",
+            "latitude": 65.3458,
+            "name": "COTTONWOOD ALASKA, AK US",
+            "datacoverage": 0.7382,
+            "id": "GHCND:USR0000ACOT",
+            "elevationUnit": "METERS",
+            "longitude": -155.9361
+        },
+        {
+            "elevation": 457.2,
+            "mindate": "2008-06-01",
+            "maxdate": "2020-05-17",
+            "latitude": 58.8025,
+            "name": "COVILLE ALASKA, AK US",
+            "datacoverage": 0.9608,
+            "id": "GHCND:USR0000ACOV",
+            "elevationUnit": "METERS",
+            "longitude": -155.5628
+        },
+        {
+            "elevation": 548.6,
+            "mindate": "2004-07-14",
+            "maxdate": "2020-05-17",
+            "latitude": 63.7322,
+            "name": "DENALI VISITOR CENTER ALASKA, AK US",
+            "datacoverage": 0.6418,
+            "id": "GHCND:USR0000ADEN",
+            "elevationUnit": "METERS",
+            "longitude": -148.9055
+        },
+        {
+            "elevation": 86.9,
+            "mindate": "2005-12-31",
+            "maxdate": "2020-05-17",
+            "latitude": 66.2758,
+            "name": "DEVIL MOUNTAIN ALASKA, AK US",
+            "datacoverage": 0.9973,
+            "id": "GHCND:USR0000ADEV",
+            "elevationUnit": "METERS",
+            "longitude": -164.5308
+        },
+        {
+            "elevation": 914.4,
+            "mindate": "2004-12-05",
+            "maxdate": "2020-05-17",
+            "latitude": 63.9833,
+            "name": "DONNELLY ALASKA, AK US",
+            "datacoverage": 0.6904,
+            "id": "GHCND:USR0000ADON",
+            "elevationUnit": "METERS",
+            "longitude": -145.65
+        },
+        {
+            "elevation": 868.7,
+            "mindate": "2004-08-16",
+            "maxdate": "2020-03-09",
+            "latitude": 63.2675,
+            "name": "DUNKLE HILLS ALASKA, AK US",
+            "datacoverage": 0.9988,
+            "id": "GHCND:USR0000ADUN",
+            "elevationUnit": "METERS",
+            "longitude": -149.5392
+        },
+        {
+            "elevation": 268.2,
+            "mindate": "1992-06-01",
+            "maxdate": "2020-05-17",
+            "latitude": 64.7761,
+            "name": "EAGLE ALASKA, AK US",
+            "datacoverage": 0.9371,
+            "id": "GHCND:USR0000AEAG",
+            "elevationUnit": "METERS",
+            "longitude": -141.1619
+        },
+        {
+            "elevation": 1136.9,
+            "mindate": "2004-12-05",
+            "maxdate": "2020-04-26",
+            "latitude": 63.4314,
+            "name": "EIELSON VISITOR CENTER ALASKA, AK US",
+            "datacoverage": 0.9716,
+            "id": "GHCND:USR0000AEIE",
+            "elevationUnit": "METERS",
+            "longitude": -150.3094
+        },
+        {
+            "elevation": 128,
+            "mindate": "2005-12-31",
+            "maxdate": "2020-05-17",
+            "latitude": 61.2725,
+            "name": "EAGLE RIVER ALASKA, AK US",
+            "datacoverage": 0.8779,
+            "id": "GHCND:USR0000AERV",
+            "elevationUnit": "METERS",
+            "longitude": -149.3661
+        },
+        {
+            "elevation": 138.4,
+            "mindate": "1988-03-01",
+            "maxdate": "2020-05-17",
+            "latitude": 64.8367,
+            "name": "FAIRBANKS ALASKA, AK US",
+            "datacoverage": 0.9317,
+            "id": "GHCND:USR0000AFAI",
+            "elevationUnit": "METERS",
+            "longitude": -147.615
+        },
+        {
+            "elevation": 236.2,
+            "mindate": "1996-08-01",
+            "maxdate": "2020-05-17",
+            "latitude": 63.7233,
+            "name": "FAREWELL ALASKA, AK US",
+            "datacoverage": 0.9153,
+            "id": "GHCND:USR0000AFAR",
+            "elevationUnit": "METERS",
+            "longitude": -154.0767
+        },
+        {
+            "elevation": 451.1,
+            "mindate": "1996-08-01",
+            "maxdate": "2020-05-15",
+            "latitude": 62.8228,
+            "name": "FLAT ALASKA, AK US",
+            "datacoverage": 0.8546,
+            "id": "GHCND:USR0000AFLT",
+            "elevationUnit": "METERS",
+            "longitude": -156.6139
+        },
+        {
+            "elevation": 327.4,
+            "mindate": "2009-06-09",
+            "maxdate": "2020-05-17",
+            "latitude": 58.7058,
+            "name": "FOURPEAKED ALASKA, AK US",
+            "datacoverage": 0.8709,
+            "id": "GHCND:USR0000AFPK",
+            "elevationUnit": "METERS",
+            "longitude": -153.5181
+        },
+        {
+            "elevation": 141.7,
+            "mindate": "2005-12-31",
+            "maxdate": "2020-05-17",
+            "latitude": 66.57,
+            "name": "FORT YUKON ALASKA, AK US",
+            "datacoverage": 0.9859,
+            "id": "GHCND:USR0000AFYK",
+            "elevationUnit": "METERS",
+            "longitude": -145.2508
+        },
+        {
+            "elevation": 1237.5,
+            "mindate": "2004-12-05",
+            "maxdate": "2020-05-17",
+            "latitude": 61.6028,
+            "name": "GATES GLACIER ALASKA, AK US",
+            "datacoverage": 0.8927,
+            "id": "GHCND:USR0000AGAT",
+            "elevationUnit": "METERS",
+            "longitude": -143.0131
+        },
+        {
+            "elevation": 464.8,
+            "mindate": "1999-08-01",
+            "maxdate": "2020-05-17",
+            "latitude": 63.8375,
+            "name": "GEORGE CREEK ALASKA, AK US",
+            "datacoverage": 0.9999,
+            "id": "GHCND:USR0000AGEO",
+            "elevationUnit": "METERS",
+            "longitude": -144.3503
+        },
+        {
+            "elevation": 10.4,
+            "mindate": "2016-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 58.4564,
+            "name": "GLACIER BAY INNER DOCK, AK ",
+            "datacoverage": 1,
+            "id": "GHCND:USR0000AGLA",
+            "elevationUnit": "METERS",
+            "longitude": -135.8697
+        },
+        {
+            "elevation": 463.3,
+            "mindate": "1996-07-01",
+            "maxdate": "2020-05-17",
+            "latitude": 64.2381,
+            "name": "GOODPASTURE ALASKA, AK US",
+            "datacoverage": 0.9071,
+            "id": "GHCND:USR0000AGOP",
+            "elevationUnit": "METERS",
+            "longitude": -145.2669
+        },
+        {
+            "elevation": 259.1,
+            "mindate": "1991-06-01",
+            "maxdate": "2020-05-17",
+            "latitude": 67.0333,
+            "name": "GRAPHITE LAKE ALASKA, AK US",
+            "datacoverage": 0.7192,
+            "id": "GHCND:USR0000AGRA",
+            "elevationUnit": "METERS",
+            "longitude": -143.2833
+        },
+        {
+            "elevation": 156.1,
+            "mindate": "1997-05-01",
+            "maxdate": "2020-05-17",
+            "latitude": 60.7275,
+            "name": "GRANITE ALASKA, AK US",
+            "datacoverage": 0.925,
+            "id": "GHCND:USR0000AGRN",
+            "elevationUnit": "METERS",
+            "longitude": -149.287
+        },
+        {
+            "elevation": 762,
+            "mindate": "2004-12-05",
+            "maxdate": "2017-11-02",
+            "latitude": 61.2833,
+            "name": "GREZELKA RANGE ALASKA, AK US",
+            "datacoverage": 0.7182,
+            "id": "GHCND:USR0000AGRZ",
+            "elevationUnit": "METERS",
+            "longitude": -149.6167
+        },
+        {
+            "elevation": 457.2,
+            "mindate": "1989-09-01",
+            "maxdate": "2020-05-17",
+            "latitude": 55.3503,
+            "name": "HAIDA ALASKA, AK US",
+            "datacoverage": 0.6996,
+            "id": "GHCND:USR0000AHAI",
+            "elevationUnit": "METERS",
+            "longitude": -132.6983
+        },
+        {
+            "elevation": 1280.2,
+            "mindate": "2004-07-14",
+            "maxdate": "2019-09-07",
+            "latitude": 60.1489,
+            "name": "HARDING ICEFIELD ALASKA, AK US",
+            "datacoverage": 0.9707,
+            "id": "GHCND:USR0000AHAR",
+            "elevationUnit": "METERS",
+            "longitude": -149.7986
+        },
+        {
+            "elevation": 53.9,
+            "mindate": "1988-05-01",
+            "maxdate": "2020-05-17",
+            "latitude": 65.2017,
+            "name": "HAYCOCK ALASKA, AK US",
+            "datacoverage": 0.788,
+            "id": "GHCND:USR0000AHAY",
+            "elevationUnit": "METERS",
+            "longitude": -161.155
+        },
+        {
+            "elevation": 853.4,
+            "mindate": "1988-09-01",
+            "maxdate": "2020-05-17",
+            "latitude": 67.7414,
+            "name": "HELMUT MOUNTAIN ALASKA, AK US",
+            "datacoverage": 0.7584,
+            "id": "GHCND:USR0000AHEL",
+            "elevationUnit": "METERS",
+            "longitude": -144.1225
+        },
+        {
+            "elevation": 426.7,
+            "mindate": "1989-09-01",
+            "maxdate": "2020-05-17",
+            "latitude": 55.5297,
+            "name": "HELM ALASKA, AK US",
+            "datacoverage": 0.9995,
+            "id": "GHCND:USR0000AHLM",
+            "elevationUnit": "METERS",
+            "longitude": -131.3661
+        },
+        {
+            "elevation": 327.7,
+            "mindate": "1991-06-01",
+            "maxdate": "2017-06-02",
+            "latitude": 66.7417,
+            "name": "HODZANA ALASKA, AK US",
+            "datacoverage": 0.8156,
+            "id": "GHCND:USR0000AHOD",
+            "elevationUnit": "METERS",
+            "longitude": -148.6767
+        },
+        {
+            "elevation": 208.8,
+            "mindate": "1988-05-01",
+            "maxdate": "2020-05-17",
+            "latitude": 66.2167,
+            "name": "HOGATZA RIVER ALASKA, AK US",
+            "datacoverage": 0.7701,
+            "id": "GHCND:USR0000AHOG",
+            "elevationUnit": "METERS",
+            "longitude": -155.6667
+        },
+        {
+            "elevation": 217.9,
+            "mindate": "1998-05-01",
+            "maxdate": "2020-05-17",
+            "latitude": 59.7458,
+            "name": "HOMER ALASKA, AK US",
+            "datacoverage": 0.9534,
+            "id": "GHCND:USR0000AHOM",
+            "elevationUnit": "METERS",
+            "longitude": -151.2083
+        },
+        {
+            "elevation": 137.2,
+            "mindate": "1989-09-01",
+            "maxdate": "2020-05-17",
+            "latitude": 57.8,
+            "name": "HOONAH ALASKA, AK US",
+            "datacoverage": 0.7806,
+            "id": "GHCND:USR0000AHON",
+            "elevationUnit": "METERS",
+            "longitude": -135.1333
+        },
+        {
+            "elevation": 472.4,
+            "mindate": "1992-06-01",
+            "maxdate": "2018-11-15",
+            "latitude": 65.5858,
+            "name": "HOODOO HILL ALASKA, AK US",
+            "datacoverage": 0.8133,
+            "id": "GHCND:USR0000AHOO",
+            "elevationUnit": "METERS",
+            "longitude": -163.4081
+        },
+        {
+            "elevation": 628.5,
+            "mindate": "2012-08-03",
+            "maxdate": "2019-10-21",
+            "latitude": 68.1561,
+            "name": "HOWARD PASS ALASKA, AK US",
+            "datacoverage": 0.9871,
+            "id": "GHCND:USR0000AHOW",
+            "elevationUnit": "METERS",
+            "longitude": -156.8958
+        },
+        {
+            "elevation": 1087.8,
+            "mindate": "2012-08-01",
+            "maxdate": "2020-05-17",
+            "latitude": 67.5461,
+            "name": "IMELYAK ALASKA, AK US",
+            "datacoverage": 0.9743,
+            "id": "GHCND:USR0000AIMY",
+            "elevationUnit": "METERS",
+            "longitude": -157.0692
+        },
+        {
+            "elevation": 51.2,
+            "mindate": "2012-08-21",
+            "maxdate": "2020-04-16",
+            "latitude": 70.0036,
+            "name": "INIGOK AIRFIELD ALASKA, AK US",
+            "datacoverage": 0.7682,
+            "id": "GHCND:USR0000AINI",
+            "elevationUnit": "METERS",
+            "longitude": -153.0836
+        },
+        {
+            "elevation": 283.5,
+            "mindate": "1988-03-01",
+            "maxdate": "2018-05-17",
+            "latitude": 63.39,
+            "name": "INNOKO FLATS ALASKA, AK US",
+            "datacoverage": 0.8842,
+            "id": "GHCND:USR0000AINN",
+            "elevationUnit": "METERS",
+            "longitude": -158.8167
+        },
+        {
+            "elevation": 434.6,
+            "mindate": "2005-12-31",
+            "maxdate": "2020-05-17",
+            "latitude": 63.9486,
+            "name": "JARVIS CREEK ALASKA, AK US",
+            "datacoverage": 0.6231,
+            "id": "GHCND:USR0000AJAR",
+            "elevationUnit": "METERS",
+            "longitude": -145.6189
+        },
+        {
+            "elevation": 701,
+            "mindate": "1990-07-01",
+            "maxdate": "2019-12-12",
+            "latitude": 62.6,
+            "name": "JATAHMUND LAKE ALASKA, AK US",
+            "datacoverage": 0.9282,
+            "id": "GHCND:USR0000AJAT",
+            "elevationUnit": "METERS",
+            "longitude": -142.0833
+        },
+        {
+            "elevation": 79.9,
+            "mindate": "2012-10-01",
+            "maxdate": "2017-11-01",
+            "latitude": 61.3819,
+            "name": "JBER ALASKA, AK US",
+            "datacoverage": 0.5547,
+            "id": "GHCND:USR0000AJBE",
+            "elevationUnit": "METERS",
+            "longitude": -149.6503
+        },
+        {
+            "elevation": 7.6,
+            "mindate": "1997-04-01",
+            "maxdate": "2005-03-30",
+            "latitude": 58.3622,
+            "name": "JUNEAU RD ALASKA, AK US",
+            "datacoverage": 0.9995,
+            "id": "GHCND:USR0000AJUN",
+            "elevationUnit": "METERS",
+            "longitude": -134.5711
+        },
+        {
+            "elevation": 33.5,
+            "mindate": "1997-08-01",
+            "maxdate": "2020-05-17",
+            "latitude": 64.4256,
+            "name": "KAIYUH ALASKA, AK US",
+            "datacoverage": 0.9747,
+            "id": "GHCND:USR0000AKAI",
+            "elevationUnit": "METERS",
+            "longitude": -158.1058
+        },
+        {
+            "elevation": 121.9,
+            "mindate": "1989-09-01",
+            "maxdate": "2020-01-04",
+            "latitude": 56.9739,
+            "name": "KAKE ALASKA, AK US",
+            "datacoverage": 0.7248,
+            "id": "GHCND:USR0000AKAK",
+            "elevationUnit": "METERS",
+            "longitude": -133.66
+        },
+        {
+            "elevation": 757.7,
+            "mindate": "2012-09-01",
+            "maxdate": "2019-09-19",
+            "latitude": 67.5733,
+            "name": "KALUICH ALASKA, AK US",
+            "datacoverage": 1,
+            "id": "GHCND:USR0000AKAL",
+            "elevationUnit": "METERS",
+            "longitude": -158.4317
+        },
+        {
+            "elevation": 251.5,
+            "mindate": "1990-08-01",
+            "maxdate": "2020-05-15",
+            "latitude": 66.0933,
+            "name": "KANUTI NWR ALASKA, AK US",
+            "datacoverage": 0.9253,
+            "id": "GHCND:USR0000AKAN",
+            "elevationUnit": "METERS",
+            "longitude": -152.17
+        },
+        {
+            "elevation": 71.6,
+            "mindate": "1992-06-01",
+            "maxdate": "2020-05-17",
+            "latitude": 67.1386,
+            "name": "KAVET CREEK ALASKA, AK US",
+            "datacoverage": 0.9021,
+            "id": "GHCND:USR0000AKAV",
+            "elevationUnit": "METERS",
+            "longitude": -159.0436
+        },
+        {
+            "elevation": 125.6,
+            "mindate": "1990-04-01",
+            "maxdate": "2020-05-17",
+            "latitude": 67.9333,
+            "name": "KELLY ALASKA, AK US",
+            "datacoverage": 0.954,
+            "id": "GHCND:USR0000AKEL",
+            "elevationUnit": "METERS",
+            "longitude": -162.3
+        },
+        {
+            "elevation": 121.9,
+            "mindate": "1988-06-01",
+            "maxdate": "2018-12-10",
+            "latitude": 60.5917,
+            "name": "KENAI NWR ALASKA, AK US",
+            "datacoverage": 0.8862,
+            "id": "GHCND:USR0000AKEN",
+            "elevationUnit": "METERS",
+            "longitude": -150.3167
+        },
+        {
+            "elevation": 45.7,
+            "mindate": "1988-04-01",
+            "maxdate": "2020-05-17",
+            "latitude": 66.9767,
+            "name": "KIANA ALASKA, AK US",
+            "datacoverage": 0.8214,
+            "id": "GHCND:USR0000AKIA",
+            "elevationUnit": "METERS",
+            "longitude": -160.4375
+        },
+        {
+            "elevation": 582.2,
+            "mindate": "1991-07-01",
+            "maxdate": "2020-05-17",
+            "latitude": 60.32,
+            "name": "KILBUCK ALASKA, AK US",
+            "datacoverage": 0.9999,
+            "id": "GHCND:USR0000AKIL",
+            "elevationUnit": "METERS",
+            "longitude": -160.2
+        },
+        {
+            "elevation": 944.9,
+            "mindate": "1991-06-01",
+            "maxdate": "2020-05-17",
+            "latitude": 62.1472,
+            "name": "KLAWASI ALASKA, AK US",
+            "datacoverage": 0.8858,
+            "id": "GHCND:USR0000AKLA",
+            "elevationUnit": "METERS",
+            "longitude": -144.9281
+        },
+        {
+            "elevation": 144.8,
+            "mindate": "1989-09-01",
+            "maxdate": "2020-05-17",
+            "latitude": 60.3667,
+            "name": "KENAI LAKE ALASKA, AK US",
+            "datacoverage": 0.916,
+            "id": "GHCND:USR0000AKLK",
+            "elevationUnit": "METERS",
+            "longitude": -149.4
+        },
+        {
+            "elevation": 914.4,
+            "mindate": "2012-09-01",
+            "maxdate": "2020-05-17",
+            "latitude": 67.9703,
+            "name": "KILLIK PASS ALASKA, AK US",
+            "datacoverage": 0.9719,
+            "id": "GHCND:USR0000AKLP",
+            "elevationUnit": "METERS",
+            "longitude": -154.9242
+        },
+        {
+            "elevation": 30.5,
+            "mindate": "1990-07-01",
+            "maxdate": "2020-05-17",
+            "latitude": 66.0083,
+            "name": "KOYUKUK NWR ALASKA, AK US",
+            "datacoverage": 0.8327,
+            "id": "GHCND:USR0000AKOY",
+            "elevationUnit": "METERS",
+            "longitude": -157.57
+        },
+        {
+            "elevation": 378.3,
+            "mindate": "2003-07-01",
+            "maxdate": "2020-05-17",
+            "latitude": 66.0914,
+            "name": "LITTLE BLACK ALASKA, AK US",
+            "datacoverage": 0.856,
+            "id": "GHCND:USR0000ALIB",
+            "elevationUnit": "METERS",
+            "longitude": -143.3672
+        },
+        {
+            "elevation": 137.2,
+            "mindate": "1998-08-01",
+            "maxdate": "2020-05-17",
+            "latitude": 65.4236,
+            "name": "LIVENGOOD ALASKA, AK US",
+            "datacoverage": 0.9481,
+            "id": "GHCND:USR0000ALIV",
+            "elevationUnit": "METERS",
+            "longitude": -148.7217
+        },
+        {
+            "elevation": 225.6,
+            "mindate": "1992-06-01",
+            "maxdate": "2020-05-17",
+            "latitude": 63.8933,
+            "name": "LAKE MINCHUMINA ALASKA, AK US",
+            "datacoverage": 0.972,
+            "id": "GHCND:USR0000ALMI",
+            "elevationUnit": "METERS",
+            "longitude": -152.3106
+        },
+        {
+            "elevation": 213.4,
+            "mindate": "2003-07-01",
+            "maxdate": "2020-05-17",
+            "latitude": 66.0425,
+            "name": "LOST CREEK ALASKA, AK US",
+            "datacoverage": 0.8756,
+            "id": "GHCND:USR0000ALOS",
+            "elevationUnit": "METERS",
+            "longitude": -147.9714
+        },
+        {
+            "elevation": 204.5,
+            "mindate": "2004-12-05",
+            "maxdate": "2018-11-15",
+            "latitude": 64.7,
+            "name": "MANCHU ALASKA, AK US",
+            "datacoverage": 0.862,
+            "id": "GHCND:USR0000AMAN",
+            "elevationUnit": "METERS",
+            "longitude": -147.0167
+        },
+        {
+            "elevation": 487.7,
+            "mindate": "1990-05-01",
+            "maxdate": "2020-05-17",
+            "latitude": 61.3208,
+            "name": "MAY CREEK ALASKA, AK US",
+            "datacoverage": 0.926,
+            "id": "GHCND:USR0000AMAY",
+            "elevationUnit": "METERS",
+            "longitude": -142.5844
+        },
+        {
+            "elevation": 256,
+            "mindate": "1990-06-01",
+            "maxdate": "2020-05-17",
+            "latitude": 63.6492,
+            "name": "MCKINLEY RIVER ALASKA, AK US",
+            "datacoverage": 0.7455,
+            "id": "GHCND:USR0000AMCK",
+            "elevationUnit": "METERS",
+            "longitude": -151.6397
+        },
+        {
+            "elevation": 53.3,
+            "mindate": "2004-03-24",
+            "maxdate": "2018-07-20",
+            "latitude": 57.1792,
+            "name": "MOTHER GOOSE ALASKA, AK US",
+            "datacoverage": 0.6479,
+            "id": "GHCND:USR0000AMOT",
+            "elevationUnit": "METERS",
+            "longitude": -157.278
+        },
+        {
+            "elevation": 246.6,
+            "mindate": "2011-09-30",
+            "maxdate": "2019-06-25",
+            "latitude": 67.1414,
+            "name": "MOUNT NOAK ALASKA, AK US",
+            "datacoverage": 0.8616,
+            "id": "GHCND:USR0000AMTN",
+            "elevationUnit": "METERS",
+            "longitude": -162.9944
+        },
+        {
+            "elevation": 142.6,
+            "mindate": "1990-05-01",
+            "maxdate": "2003-07-29",
+            "latitude": 66.1617,
+            "name": "NEW LAKE ALASKA, AK US",
+            "datacoverage": 0.9986,
+            "id": "GHCND:USR0000ANEW",
+            "elevationUnit": "METERS",
+            "longitude": -148.0383
+        },
+        {
+            "elevation": 39.6,
+            "mindate": "1992-06-01",
+            "maxdate": "2020-05-17",
+            "latitude": 60.0433,
+            "name": "NINILCHIK ALASKA, AK US",
+            "datacoverage": 0.8433,
+            "id": "GHCND:USR0000ANIN",
+            "elevationUnit": "METERS",
+            "longitude": -151.6655
+        },
+        {
+            "elevation": 300.2,
+            "mindate": "1990-04-01",
+            "maxdate": "2019-09-28",
+            "latitude": 68.0708,
+            "name": "NOATAK ALASKA, AK US",
+            "datacoverage": 0.9198,
+            "id": "GHCND:USR0000ANOA",
+            "elevationUnit": "METERS",
+            "longitude": -158.7042
+        },
+        {
+            "elevation": 243.8,
+            "mindate": "1990-05-01",
+            "maxdate": "2020-05-17",
+            "latitude": 66.8333,
+            "name": "NORUTAK LAKE ALASKA, AK US",
+            "datacoverage": 0.8102,
+            "id": "GHCND:USR0000ANOR",
+            "elevationUnit": "METERS",
+            "longitude": -154.3333
+        },
+        {
+            "elevation": 483.7,
+            "mindate": "2004-12-30",
+            "maxdate": "2020-05-17",
+            "latitude": 64.0217,
+            "name": "OKLAHOMA ALASKA, AK US",
+            "datacoverage": 0.9636,
+            "id": "GHCND:USR0000AOKL",
+            "elevationUnit": "METERS",
+            "longitude": -146.2522
+        },
+        {
+            "elevation": 79.2,
+            "mindate": "1992-06-01",
+            "maxdate": "2020-05-17",
+            "latitude": 60.1958,
+            "name": "PORT ALSWORTH ALASKA, AK US",
+            "datacoverage": 0.9616,
+            "id": "GHCND:USR0000APAL",
+            "elevationUnit": "METERS",
+            "longitude": -154.32
+        },
+        {
+            "elevation": 823,
+            "mindate": "2012-09-01",
+            "maxdate": "2020-01-29",
+            "latitude": 67.7719,
+            "name": "PAMICHTUK LAKE ALASKA, AK US",
+            "datacoverage": 0.8221,
+            "id": "GHCND:USR0000APAM",
+            "elevationUnit": "METERS",
+            "longitude": -152.195
+        },
+        {
+            "elevation": 813.8,
+            "mindate": "1996-08-01",
+            "maxdate": "2020-05-17",
+            "latitude": 62.9453,
+            "name": "PAXSON ALASKA, AK US",
+            "datacoverage": 0.928,
+            "id": "GHCND:USR0000APAX",
+            "elevationUnit": "METERS",
+            "longitude": -145.5014
+        },
+        {
+            "elevation": 285,
+            "mindate": "1988-06-01",
+            "maxdate": "2020-05-17",
+            "latitude": 64.105,
+            "name": "POORMAN ALASKA, AK US",
+            "datacoverage": 0.8683,
+            "id": "GHCND:USR0000APOO",
+            "elevationUnit": "METERS",
+            "longitude": -155.5583
+        },
+        {
+            "elevation": 316.4,
+            "mindate": "1993-08-01",
+            "maxdate": "2020-05-17",
+            "latitude": 65.9233,
+            "name": "PREACHER CREEK ALASKA, AK US",
+            "datacoverage": 0.8493,
+            "id": "GHCND:USR0000APRE",
+            "elevationUnit": "METERS",
+            "longitude": -145.03
+        },
+        {
+            "elevation": 61,
+            "mindate": "2005-12-31",
+            "maxdate": "2020-05-17",
+            "latitude": 61.4225,
+            "name": "PT. MAC ALASKA, AK US",
+            "datacoverage": 0.8742,
+            "id": "GHCND:USR0000APTM",
+            "elevationUnit": "METERS",
+            "longitude": -150.0914
+        },
+        {
+            "elevation": 130.1,
+            "mindate": "1988-05-01",
+            "maxdate": "2020-05-17",
+            "latitude": 65.4,
+            "name": "QUARTZ CREEK ALASKA, AK US",
+            "datacoverage": 0.8418,
+            "id": "GHCND:USR0000AQTZ",
+            "elevationUnit": "METERS",
+            "longitude": -164.65
         }
     ]
 }

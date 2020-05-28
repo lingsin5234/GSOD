@@ -2,20 +2,11 @@
     "metadata": {
         "resultset": {
             "offset": 1,
-            "count": 2161,
+            "count": 1938,
             "limit": 1000
         }
     },
     "results": [
-        {
-            "mindate": "1956-08-01",
-            "maxdate": "1957-12-01",
-            "latitude": 29.88333,
-            "name": "ADAMS BEACH, FL US",
-            "datacoverage": 0.9989,
-            "id": "COOP:080025",
-            "longitude": -83.63333
-        },
         {
             "elevation": 21,
             "mindate": "1956-06-01",
@@ -72,17 +63,6 @@
             "longitude": -81.5266
         },
         {
-            "elevation": 46,
-            "mindate": "1948-01-01",
-            "maxdate": "1952-07-26",
-            "latitude": 27.6,
-            "name": "AVON PARK 1 NW, FL US",
-            "datacoverage": 0.9783,
-            "id": "COOP:080374",
-            "elevationUnit": "METERS",
-            "longitude": -81.5
-        },
-        {
             "elevation": 38.1,
             "mindate": "1955-09-01",
             "maxdate": "1992-07-01",
@@ -116,28 +96,6 @@
             "longitude": -81.83251
         },
         {
-            "elevation": 11.9,
-            "mindate": "1962-10-01",
-            "maxdate": "1964-12-01",
-            "latitude": 27.38333,
-            "name": "BASINGER, FL US",
-            "datacoverage": 0.9986,
-            "id": "COOP:080488",
-            "elevationUnit": "METERS",
-            "longitude": -81.03333
-        },
-        {
-            "elevation": 14.9,
-            "mindate": "1947-02-01",
-            "maxdate": "1966-12-01",
-            "latitude": 28.06667,
-            "name": "BAY LAKE, FL US",
-            "datacoverage": 0.9289,
-            "id": "COOP:080520",
-            "elevationUnit": "METERS",
-            "longitude": -82.5
-        },
-        {
             "elevation": 2.7,
             "mindate": "1992-03-01",
             "maxdate": "1994-10-01",
@@ -147,28 +105,6 @@
             "id": "COOP:080531",
             "elevationUnit": "METERS",
             "longitude": -85.72555
-        },
-        {
-            "elevation": 14.9,
-            "mindate": "1958-01-01",
-            "maxdate": "1968-12-01",
-            "latitude": 28.55,
-            "name": "BAYPORT, FL US",
-            "datacoverage": 0.9393,
-            "id": "COOP:080535",
-            "elevationUnit": "METERS",
-            "longitude": -82.63333
-        },
-        {
-            "elevation": 14.9,
-            "mindate": "1956-10-01",
-            "maxdate": "1957-12-01",
-            "latitude": 28.55,
-            "name": "BAYPORT, FL US",
-            "datacoverage": 0.999,
-            "id": "COOP:080540",
-            "elevationUnit": "METERS",
-            "longitude": -82.63333
         },
         {
             "elevation": 9.1,
@@ -198,7 +134,7 @@
             "maxdate": "1999-06-01",
             "latitude": 26.7,
             "name": "BELLE GLADE HRCN GT4, FL US",
-            "datacoverage": 0.9761,
+            "datacoverage": 0.0358,
             "id": "COOP:080616",
             "elevationUnit": "METERS",
             "longitude": -80.71667
@@ -226,30 +162,8 @@
             "longitude": -80.9958
         },
         {
-            "elevation": 4.9,
-            "mindate": "1950-05-01",
-            "maxdate": "1969-02-01",
-            "latitude": 26.31667,
-            "name": "BIG CYPRESS RESERVATION, FL US",
-            "datacoverage": 0.5581,
-            "id": "COOP:080739",
-            "elevationUnit": "METERS",
-            "longitude": -81
-        },
-        {
-            "elevation": 3,
-            "mindate": "1950-05-01",
-            "maxdate": "1955-11-01",
-            "latitude": 24.71667,
-            "name": "BIG PINE KEY, FL US",
-            "datacoverage": 0.9847,
-            "id": "COOP:080747",
-            "elevationUnit": "METERS",
-            "longitude": -81.38333
-        },
-        {
             "elevation": 19.8,
-            "mindate": "1954-01-01",
+            "mindate": "1958-08-01",
             "maxdate": "1987-11-01",
             "latitude": 28.55,
             "name": "BITHLO, FL US",
@@ -264,7 +178,7 @@
             "maxdate": "1990-03-01",
             "latitude": 30.98333,
             "name": "BLACKMAN, FL US",
-            "datacoverage": 0.7621,
+            "datacoverage": 0.0367,
             "id": "COOP:080765",
             "elevationUnit": "METERS",
             "longitude": -86.65
@@ -286,32 +200,10 @@
             "maxdate": "2014-01-01",
             "latitude": 26.3676,
             "name": "BOCA RATON, FL US",
-            "datacoverage": 0.3575,
+            "datacoverage": 0.0334,
             "id": "COOP:080845",
             "elevationUnit": "METERS",
             "longitude": -80.1107
-        },
-        {
-            "elevation": 3,
-            "mindate": "1942-12-01",
-            "maxdate": "1955-01-01",
-            "latitude": 26.33333,
-            "name": "BONITA SPRINGS 2 MI, FL US",
-            "datacoverage": 0.9107,
-            "id": "COOP:080887",
-            "elevationUnit": "METERS",
-            "longitude": -81.75
-        },
-        {
-            "elevation": 3,
-            "mindate": "1931-01-01",
-            "maxdate": "1965-03-01",
-            "latitude": 27.48333,
-            "name": "BRADENTON EXPERIMENT, FL US",
-            "datacoverage": 0.9903,
-            "id": "COOP:080940",
-            "elevationUnit": "METERS",
-            "longitude": -82.55
         },
         {
             "elevation": 6.1,
@@ -330,7 +222,7 @@
             "maxdate": "2014-01-01",
             "latitude": 29.9625,
             "name": "BRANFORD, FL US",
-            "datacoverage": 0.7214,
+            "datacoverage": 0.0198,
             "id": "COOP:080975",
             "elevationUnit": "METERS",
             "longitude": -82.9108
@@ -352,7 +244,7 @@
             "maxdate": "2003-09-01",
             "latitude": 30.41806,
             "name": "BRISTOL, FL US",
-            "datacoverage": 0.956,
+            "datacoverage": 0.0387,
             "id": "COOP:081020",
             "elevationUnit": "METERS",
             "longitude": -84.98611
@@ -391,28 +283,6 @@
             "longitude": -82.4353
         },
         {
-            "elevation": 61,
-            "mindate": "1948-09-01",
-            "maxdate": "1953-04-01",
-            "latitude": 28.63333,
-            "name": "BROOKSVILLE NURSY 1, FL US",
-            "datacoverage": 0.9825,
-            "id": "COOP:081051",
-            "elevationUnit": "METERS",
-            "longitude": -82.31667
-        },
-        {
-            "elevation": 61,
-            "mindate": "1948-01-01",
-            "maxdate": "1953-04-01",
-            "latitude": 28.63333,
-            "name": "BROOKSVILLE 2, FL US",
-            "datacoverage": 1,
-            "id": "COOP:081056",
-            "elevationUnit": "METERS",
-            "longitude": -82.33333
-        },
-        {
             "elevation": 24.4,
             "mindate": "1936-11-01",
             "maxdate": "2015-11-01",
@@ -424,23 +294,12 @@
             "longitude": -82.08947
         },
         {
-            "elevation": 57.9,
-            "mindate": "1941-02-01",
-            "maxdate": "1958-01-01",
-            "latitude": 29.98333,
-            "name": "CAMP BLANDING, FL US",
-            "datacoverage": 0.9314,
-            "id": "COOP:081218",
-            "elevationUnit": "METERS",
-            "longitude": -81.98333
-        },
-        {
             "elevation": 11.9,
             "mindate": "1942-01-01",
             "maxdate": "1995-09-01",
             "latitude": 26.86667,
             "name": "CANAL POINT GATE 5, FL US",
-            "datacoverage": 0.9783,
+            "datacoverage": 0.0416,
             "id": "COOP:081271",
             "elevationUnit": "METERS",
             "longitude": -80.63333
@@ -455,28 +314,6 @@
             "id": "COOP:081276",
             "elevationUnit": "METERS",
             "longitude": -80.6256
-        },
-        {
-            "elevation": 46,
-            "mindate": "1949-01-01",
-            "maxdate": "1952-03-01",
-            "latitude": 30.6,
-            "name": "CANTONMENT, FL US",
-            "datacoverage": 1,
-            "id": "COOP:081299",
-            "elevationUnit": "METERS",
-            "longitude": -87.31667
-        },
-        {
-            "elevation": 0.9,
-            "mindate": "1951-01-01",
-            "maxdate": "1961-06-01",
-            "latitude": 25.1422,
-            "name": "FLAMINGO RANGER STATION, FL US",
-            "datacoverage": 0.9685,
-            "id": "COOP:081305",
-            "elevationUnit": "METERS",
-            "longitude": -80.9144
         },
         {
             "elevation": 1.8,
@@ -523,17 +360,6 @@
             "longitude": -83.05
         },
         {
-            "elevation": 27.1,
-            "mindate": "1936-11-01",
-            "maxdate": "1958-12-01",
-            "latitude": 30.7,
-            "name": "CHATTAHOOCHEE 1 W, FL US",
-            "datacoverage": 1,
-            "id": "COOP:081502",
-            "elevationUnit": "METERS",
-            "longitude": -84.86667
-        },
-        {
             "elevation": 39.6,
             "mindate": "1939-04-01",
             "maxdate": "2015-11-01",
@@ -554,17 +380,6 @@
             "id": "COOP:081556",
             "elevationUnit": "METERS",
             "longitude": -81.36167
-        },
-        {
-            "elevation": 19.8,
-            "mindate": "1944-07-01",
-            "maxdate": "1954-02-01",
-            "latitude": 28.55,
-            "name": "BITHLO, FL US",
-            "datacoverage": 0.9116,
-            "id": "COOP:081565",
-            "elevationUnit": "METERS",
-            "longitude": -81.11667
         },
         {
             "elevation": 38.1,
@@ -589,17 +404,6 @@
             "longitude": -82.76667
         },
         {
-            "elevation": 3,
-            "mindate": "1954-01-01",
-            "maxdate": "1959-09-01",
-            "latitude": 27.966667,
-            "name": "CLEARWATER BEACH, FL US",
-            "datacoverage": 0.9426,
-            "id": "COOP:081635",
-            "elevationUnit": "METERS",
-            "longitude": -82.8
-        },
-        {
             "elevation": 39.6,
             "mindate": "1920-01-01",
             "maxdate": "2015-11-01",
@@ -609,17 +413,6 @@
             "id": "COOP:081641",
             "elevationUnit": "METERS",
             "longitude": -81.7234
-        },
-        {
-            "elevation": 6.1,
-            "mindate": "1948-03-01",
-            "maxdate": "1966-12-01",
-            "latitude": 26.73333,
-            "name": "CLEWISTON, FL US",
-            "datacoverage": 0.9025,
-            "id": "COOP:081649",
-            "elevationUnit": "METERS",
-            "longitude": -80.95
         },
         {
             "elevation": 5.5,
@@ -644,28 +437,6 @@
             "longitude": -80.94
         },
         {
-            "elevation": 3,
-            "mindate": "1931-01-01",
-            "maxdate": "1957-12-01",
-            "latitude": 25.65,
-            "name": "MIAMI 12 SSW, FL US",
-            "datacoverage": 0.9845,
-            "id": "COOP:081716",
-            "elevationUnit": "METERS",
-            "longitude": -80.3
-        },
-        {
-            "elevation": 64,
-            "mindate": "1931-01-01",
-            "maxdate": "1955-03-01",
-            "latitude": 30.6,
-            "name": "COMPASS LAKE, FL US",
-            "datacoverage": 1,
-            "id": "COOP:081775",
-            "elevationUnit": "METERS",
-            "longitude": -85.4
-        },
-        {
             "elevation": 1.2,
             "mindate": "1982-06-01",
             "maxdate": "1994-09-01",
@@ -686,15 +457,6 @@
             "id": "COOP:081800",
             "elevationUnit": "METERS",
             "longitude": -80.28389
-        },
-        {
-            "mindate": "1949-05-01",
-            "maxdate": "1950-12-01",
-            "latitude": 25.18333,
-            "name": "COOT BAY RANGER STATION, FL US",
-            "datacoverage": 0.7485,
-            "id": "COOP:081832",
-            "longitude": -80.9
         },
         {
             "elevation": 3,
@@ -719,17 +481,6 @@
             "longitude": -81.16667
         },
         {
-            "elevation": 39.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1942-01-01",
-            "latitude": 30.45,
-            "name": "COTTAGE HILL, FL US",
-            "datacoverage": 0.9998,
-            "id": "COOP:081896",
-            "elevationUnit": "METERS",
-            "longitude": -87.33333
-        },
-        {
             "elevation": 16.2,
             "mindate": "1931-01-01",
             "maxdate": "2015-11-01",
@@ -739,17 +490,6 @@
             "id": "COOP:081978",
             "elevationUnit": "METERS",
             "longitude": -81.5161
-        },
-        {
-            "elevation": 82.9,
-            "mindate": "1952-09-01",
-            "maxdate": "1957-06-01",
-            "latitude": 30.76667,
-            "name": "CRESTVIEW, FL US",
-            "datacoverage": 0.0474,
-            "id": "COOP:081983",
-            "elevationUnit": "METERS",
-            "longitude": -86.56667
         },
         {
             "elevation": 73.2,
@@ -774,17 +514,6 @@
             "longitude": -86.5225
         },
         {
-            "elevation": 11.9,
-            "mindate": "1952-05-01",
-            "maxdate": "1966-07-01",
-            "latitude": 29.63333,
-            "name": "CROSS CITY, FL US",
-            "datacoverage": 0.0452,
-            "id": "COOP:082006",
-            "elevationUnit": "METERS",
-            "longitude": -83.13333
-        },
-        {
             "elevation": 12.8,
             "mindate": "1960-04-01",
             "maxdate": "2015-11-01",
@@ -794,17 +523,6 @@
             "id": "COOP:082008",
             "elevationUnit": "METERS",
             "longitude": -83.1053
-        },
-        {
-            "elevation": 11.6,
-            "mindate": "1941-01-01",
-            "maxdate": "1960-05-01",
-            "latitude": 29.63333,
-            "name": "CROSS CITY AIRPORT, FL US",
-            "datacoverage": 0.9572,
-            "id": "COOP:082011",
-            "elevationUnit": "METERS",
-            "longitude": -83.10528
         },
         {
             "elevation": 1.2,
@@ -829,28 +547,6 @@
             "longitude": -80.2
         },
         {
-            "elevation": 49.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1946-05-01",
-            "latitude": 28.15,
-            "name": "DAVENPORT, FL US",
-            "datacoverage": 1,
-            "id": "COOP:082137",
-            "elevationUnit": "METERS",
-            "longitude": -81.6
-        },
-        {
-            "elevation": 3,
-            "mindate": "1931-01-01",
-            "maxdate": "1940-12-01",
-            "latitude": 26.05,
-            "name": "DAVIE, FL US",
-            "datacoverage": 0.9332,
-            "id": "COOP:082140",
-            "elevationUnit": "METERS",
-            "longitude": -80.21667
-        },
-        {
             "elevation": 8.8,
             "mindate": "1937-04-01",
             "maxdate": "2015-11-01",
@@ -871,17 +567,6 @@
             "id": "COOP:082158",
             "elevationUnit": "METERS",
             "longitude": -81.0483
-        },
-        {
-            "elevation": 14.9,
-            "mindate": "1957-01-01",
-            "maxdate": "1966-12-01",
-            "latitude": 28.1,
-            "name": "DEER PARK, FL US",
-            "datacoverage": 0.7751,
-            "id": "COOP:082200",
-            "elevationUnit": "METERS",
-            "longitude": -80.9
         },
         {
             "elevation": 74.7,
@@ -950,28 +635,6 @@
             "longitude": -80.9073
         },
         {
-            "elevation": 20.1,
-            "mindate": "1942-01-01",
-            "maxdate": "1950-08-01",
-            "latitude": 30.48333,
-            "name": "VALPARAISO EGLIN AFB, FL US",
-            "datacoverage": 0.7154,
-            "id": "COOP:082659",
-            "elevationUnit": "METERS",
-            "longitude": -86.51667
-        },
-        {
-            "elevation": 21,
-            "mindate": "1893-01-01",
-            "maxdate": "1958-12-01",
-            "latitude": 28.85,
-            "name": "EUSTIS 2 S, FL US",
-            "datacoverage": 0.9937,
-            "id": "COOP:082827",
-            "elevationUnit": "METERS",
-            "longitude": -81.68333
-        },
-        {
             "elevation": 36.9,
             "mindate": "1964-08-01",
             "maxdate": "1979-06-01",
@@ -1010,7 +673,7 @@
             "maxdate": "1972-06-27",
             "latitude": 26.53333,
             "name": "FELDA, FL US",
-            "datacoverage": 0.9783,
+            "datacoverage": 0.0165,
             "id": "COOP:082923",
             "elevationUnit": "METERS",
             "longitude": -81.43333
@@ -1170,17 +833,6 @@
             "longitude": -85.41667
         },
         {
-            "elevation": 52.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1957-05-30",
-            "latitude": 29.65,
-            "name": "GAINESVILLE UNIVERSITY OF FLORIDA, FL US",
-            "datacoverage": 1,
-            "id": "COOP:083316",
-            "elevationUnit": "METERS",
-            "longitude": -82.35
-        },
-        {
             "elevation": 29.3,
             "mindate": "1953-10-01",
             "maxdate": "1989-02-01",
@@ -1214,17 +866,6 @@
             "longitude": -82.2755
         },
         {
-            "elevation": 5.5,
-            "mindate": "1931-01-01",
-            "maxdate": "1938-04-01",
-            "latitude": 30.46667,
-            "name": "GARNIERS NEAR, FL US",
-            "datacoverage": 0.9778,
-            "id": "COOP:083366",
-            "elevationUnit": "METERS",
-            "longitude": -86.6
-        },
-        {
             "elevation": 39,
             "mindate": "1931-01-01",
             "maxdate": "2015-11-01",
@@ -1241,7 +882,7 @@
             "maxdate": "2014-01-01",
             "latitude": 30.9575,
             "name": "GRACEVILLE 1 SW, FL US",
-            "datacoverage": 0.4248,
+            "datacoverage": 0.0333,
             "id": "COOP:083538",
             "elevationUnit": "METERS",
             "longitude": -85.533
@@ -1258,35 +899,6 @@
             "longitude": -82.9108
         },
         {
-            "elevation": 14.6,
-            "mindate": "1940-04-01",
-            "maxdate": "1960-05-01",
-            "latitude": 27.8,
-            "name": "KISSIMMEE RIVER, FL US",
-            "datacoverage": 0.7257,
-            "id": "COOP:083571",
-            "elevationUnit": "METERS",
-            "longitude": -81.18333
-        },
-        {
-            "mindate": "1948-02-01",
-            "maxdate": "1949-07-12",
-            "latitude": 28.08333,
-            "name": "HAINES CITY 4 S, FL US",
-            "datacoverage": 0.9438,
-            "id": "COOP:083713",
-            "longitude": -81.61667
-        },
-        {
-            "mindate": "1948-01-01",
-            "maxdate": "1951-09-01",
-            "latitude": 28.1,
-            "name": "HAINES CITY 2 W, FL US",
-            "datacoverage": 0.9261,
-            "id": "COOP:083718",
-            "longitude": -81.65
-        },
-        {
             "elevation": 18,
             "mindate": "1942-08-01",
             "maxdate": "1980-06-01",
@@ -1296,17 +908,6 @@
             "id": "COOP:083840",
             "elevationUnit": "METERS",
             "longitude": -81.18333
-        },
-        {
-            "elevation": 3,
-            "mindate": "1931-01-01",
-            "maxdate": "1944-06-01",
-            "latitude": 29.8,
-            "name": "HASTINGS, FL US",
-            "datacoverage": 1,
-            "id": "COOP:083852",
-            "elevationUnit": "METERS",
-            "longitude": -81.58333
         },
         {
             "elevation": 3,
@@ -1340,17 +941,6 @@
             "id": "COOP:083956",
             "elevationUnit": "METERS",
             "longitude": -82.5972
-        },
-        {
-            "elevation": 21,
-            "mindate": "1931-01-01",
-            "maxdate": "1956-08-01",
-            "latitude": 30.7,
-            "name": "HILLIARD, FL US",
-            "datacoverage": 0.8084,
-            "id": "COOP:083978",
-            "elevationUnit": "METERS",
-            "longitude": -81.93333
         },
         {
             "elevation": 16.2,
@@ -1420,7 +1010,7 @@
         },
         {
             "elevation": 30.5,
-            "mindate": "1958-03-01",
+            "mindate": "1961-01-01",
             "maxdate": "1981-06-01",
             "latitude": 27.8,
             "name": "INDIAN LAKE ESTATES, FL US",
@@ -1431,22 +1021,11 @@
         },
         {
             "elevation": 9.1,
-            "mindate": "1962-01-01",
-            "maxdate": "1968-02-01",
-            "latitude": 27.01667,
-            "name": "INDIANTOWN, FL US",
-            "datacoverage": 0.9871,
-            "id": "COOP:084262",
-            "elevationUnit": "METERS",
-            "longitude": -80.46667
-        },
-        {
-            "elevation": 9.1,
             "mindate": "1942-01-01",
             "maxdate": "2014-01-01",
             "latitude": 29.02475,
             "name": "INGLIS 3 E, FL US",
-            "datacoverage": 0.8004,
+            "datacoverage": 0.0334,
             "id": "COOP:084273",
             "elevationUnit": "METERS",
             "longitude": -82.61566
@@ -1527,28 +1106,6 @@
             "id": "COOP:084370",
             "elevationUnit": "METERS",
             "longitude": -81.5147
-        },
-        {
-            "elevation": 25,
-            "mindate": "1942-01-01",
-            "maxdate": "1956-06-01",
-            "latitude": 30.33333,
-            "name": "JACKSONVILLE, FL US",
-            "datacoverage": 0.9868,
-            "id": "COOP:084371",
-            "elevationUnit": "METERS",
-            "longitude": -81.65
-        },
-        {
-            "elevation": 46,
-            "mindate": "1942-04-01",
-            "maxdate": "1949-10-01",
-            "latitude": 30.53333,
-            "name": "JASPER 5 WNW, FL US",
-            "datacoverage": 0.7689,
-            "id": "COOP:084393",
-            "elevationUnit": "METERS",
-            "longitude": -83.01667
         },
         {
             "elevation": 44.8,
@@ -1640,7 +1197,7 @@
         },
         {
             "elevation": 7.9,
-            "mindate": "1942-01-01",
+            "mindate": "1950-01-01",
             "maxdate": "1974-02-01",
             "latitude": 24.55,
             "name": "KEY WEST WEATHER BUREAU CITY, FL US",
@@ -1648,28 +1205,6 @@
             "id": "COOP:084575",
             "elevationUnit": "METERS",
             "longitude": -81.8
-        },
-        {
-            "elevation": 14.6,
-            "mindate": "1957-09-01",
-            "maxdate": "1958-01-01",
-            "latitude": 27.8,
-            "name": "KISSIMMEE RIVER, FL US",
-            "datacoverage": 0.998,
-            "id": "COOP:084588",
-            "elevationUnit": "METERS",
-            "longitude": -81.18333
-        },
-        {
-            "elevation": 21,
-            "mindate": "1929-03-01",
-            "maxdate": "1958-12-01",
-            "latitude": 28.3,
-            "name": "KISSIMMEE CITY HALL, FL US",
-            "datacoverage": 0.9747,
-            "id": "COOP:084620",
-            "elevationUnit": "METERS",
-            "longitude": -81.4
         },
         {
             "elevation": 21.9,
@@ -1716,17 +1251,6 @@
             "longitude": -81.4265
         },
         {
-            "elevation": 4.9,
-            "mindate": "1948-01-01",
-            "maxdate": "1952-06-27",
-            "latitude": 26.76667,
-            "name": "LA BELLE 2 NW, FL US",
-            "datacoverage": 0.956,
-            "id": "COOP:084667",
-            "elevationUnit": "METERS",
-            "longitude": -81.45
-        },
-        {
             "elevation": 42.1,
             "mindate": "1924-07-01",
             "maxdate": "2000-08-01",
@@ -1736,15 +1260,6 @@
             "id": "COOP:084707",
             "elevationUnit": "METERS",
             "longitude": -81.71444
-        },
-        {
-            "mindate": "1948-01-01",
-            "maxdate": "1950-10-23",
-            "latitude": 28.13333,
-            "name": "LAKE ALFRED 3 NNE, FL US",
-            "datacoverage": 0.9683,
-            "id": "COOP:084712",
-            "longitude": -81.71667
         },
         {
             "elevation": 41.1,
@@ -1769,17 +1284,6 @@
             "longitude": -82.5941
         },
         {
-            "elevation": 36.9,
-            "mindate": "1939-08-01",
-            "maxdate": "1964-12-01",
-            "latitude": 28.53333,
-            "name": "LAKE HIAWASSEE, FL US",
-            "datacoverage": 0.9867,
-            "id": "COOP:084771",
-            "elevationUnit": "METERS",
-            "longitude": -81.46667
-        },
-        {
             "elevation": 44.2,
             "mindate": "1943-03-01",
             "maxdate": "2003-05-01",
@@ -1802,48 +1306,15 @@
             "longitude": -82.0138
         },
         {
-            "elevation": 27.1,
-            "mindate": "1933-03-01",
-            "maxdate": "1968-12-01",
-            "latitude": 27.28333,
-            "name": "LAKE PLACID 2 SW, FL US",
-            "datacoverage": 0.9231,
-            "id": "COOP:084845",
-            "elevationUnit": "METERS",
-            "longitude": -81.38333
-        },
-        {
-            "elevation": 9.1,
-            "mindate": "1942-10-01",
-            "maxdate": "1968-07-01",
-            "latitude": 26.43333,
-            "name": "LAKE TRAFFORD, FL US",
-            "datacoverage": 0.8806,
-            "id": "COOP:084866",
-            "elevationUnit": "METERS",
-            "longitude": -81.48333
-        },
-        {
             "elevation": 64,
             "mindate": "1942-01-01",
             "maxdate": "1971-10-01",
             "latitude": 30.41667,
             "name": "LAMONT 6 WNW, FL US",
-            "datacoverage": 0.6138,
+            "datacoverage": 0.0469,
             "id": "COOP:084892",
             "elevationUnit": "METERS",
             "longitude": -83.91667
-        },
-        {
-            "elevation": 21,
-            "mindate": "1941-11-01",
-            "maxdate": "1959-01-01",
-            "latitude": 28.81667,
-            "name": "LEESBURG, FL US",
-            "datacoverage": 0.9684,
-            "id": "COOP:084980",
-            "elevationUnit": "METERS",
-            "longitude": -81.86667
         },
         {
             "elevation": 20.7,
@@ -1866,17 +1337,6 @@
             "id": "COOP:085099",
             "elevationUnit": "METERS",
             "longitude": -82.965
-        },
-        {
-            "elevation": 3,
-            "mindate": "1951-08-01",
-            "maxdate": "1965-07-01",
-            "latitude": 27.40848,
-            "name": "LONGBOAT KEY, FL US",
-            "datacoverage": 0.8094,
-            "id": "COOP:085124",
-            "elevationUnit": "METERS",
-            "longitude": -82.6545
         },
         {
             "elevation": 4.3,
@@ -1906,7 +1366,7 @@
             "maxdate": "2014-01-01",
             "latitude": 29.2003,
             "name": "LYNNE, FL US",
-            "datacoverage": 0.7627,
+            "datacoverage": 0.0361,
             "id": "COOP:085237",
             "elevationUnit": "METERS",
             "longitude": -81.9306
@@ -1956,28 +1416,6 @@
             "longitude": -81.7138
         },
         {
-            "elevation": 34.4,
-            "mindate": "1950-01-01",
-            "maxdate": "1959-09-01",
-            "latitude": 30.83556,
-            "name": "MARIANNA MUNICIPAL AIRPORT, FL US",
-            "datacoverage": 1,
-            "id": "COOP:085367",
-            "elevationUnit": "METERS",
-            "longitude": -85.18389
-        },
-        {
-            "elevation": 52.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1968-06-01",
-            "latitude": 30.76667,
-            "name": "MARIANNA SCHOOL FOR, FL US",
-            "datacoverage": 0.9845,
-            "id": "COOP:085372",
-            "elevationUnit": "METERS",
-            "longitude": -85.26667
-        },
-        {
             "elevation": 35.1,
             "mindate": "2001-11-01",
             "maxdate": "2015-11-01",
@@ -1994,7 +1432,7 @@
             "maxdate": "2014-01-01",
             "latitude": 29.67,
             "name": "MARINELAND, FL US",
-            "datacoverage": 0.8671,
+            "datacoverage": 0.0315,
             "id": "COOP:085391",
             "elevationUnit": "METERS",
             "longitude": -81.215
@@ -2033,15 +1471,6 @@
             "longitude": -80.6439
         },
         {
-            "mindate": "1948-02-01",
-            "maxdate": "1951-12-28",
-            "latitude": 28.11667,
-            "name": "MELBOURNE 10 WNW, FL US",
-            "datacoverage": 0.8189,
-            "id": "COOP:085607",
-            "longitude": -80.75
-        },
-        {
             "elevation": 10.7,
             "mindate": "1942-01-01",
             "maxdate": "2015-11-01",
@@ -2053,28 +1482,6 @@
             "longitude": -80.654
         },
         {
-            "elevation": 44.2,
-            "mindate": "1959-11-01",
-            "maxdate": "1969-02-01",
-            "latitude": 29.71667,
-            "name": "MELROSE, FL US",
-            "datacoverage": 1,
-            "id": "COOP:085622",
-            "elevationUnit": "METERS",
-            "longitude": -82.05
-        },
-        {
-            "elevation": 9.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1956-06-01",
-            "latitude": 28.35,
-            "name": "MERRITT ISLAND, FL US",
-            "datacoverage": 0.9772,
-            "id": "COOP:085643",
-            "elevationUnit": "METERS",
-            "longitude": -80.7
-        },
-        {
             "elevation": 2.4,
             "mindate": "1941-08-01",
             "maxdate": "2015-11-01",
@@ -2084,17 +1491,6 @@
             "id": "COOP:085658",
             "elevationUnit": "METERS",
             "longitude": -80.1334
-        },
-        {
-            "elevation": 3,
-            "mindate": "1949-01-01",
-            "maxdate": "1949-05-01",
-            "latitude": 25.88333,
-            "name": "MIAMI BEACH 2, FL US",
-            "datacoverage": 0.8063,
-            "id": "COOP:085660",
-            "elevationUnit": "METERS",
-            "longitude": -80.13333
         },
         {
             "elevation": 8.8,
@@ -2124,7 +1520,7 @@
             "maxdate": "1983-08-01",
             "latitude": 25.71667,
             "name": "MIAMI WEATHER SERVICE OFFICE CITY, FL US",
-            "datacoverage": 0.9457,
+            "datacoverage": 0.0469,
             "id": "COOP:085668",
             "elevationUnit": "METERS",
             "longitude": -80.28333
@@ -2150,28 +1546,6 @@
             "id": "COOP:085705",
             "elevationUnit": "METERS",
             "longitude": -81.8475
-        },
-        {
-            "elevation": 46,
-            "mindate": "1956-01-01",
-            "maxdate": "1969-12-01",
-            "latitude": 26.18333,
-            "name": "MILES CITY TOWER, FL US",
-            "datacoverage": 0.9999,
-            "id": "COOP:085719",
-            "elevationUnit": "METERS",
-            "longitude": -81.35
-        },
-        {
-            "elevation": 30.5,
-            "mindate": "1957-05-01",
-            "maxdate": "1959-01-01",
-            "latitude": 30.75,
-            "name": "MILLIGAN, FL US",
-            "datacoverage": 0.9462,
-            "id": "COOP:085756",
-            "elevationUnit": "METERS",
-            "longitude": -86.65
         },
         {
             "elevation": 66.1,
@@ -2227,17 +1601,6 @@
             "id": "COOP:085973",
             "elevationUnit": "METERS",
             "longitude": -81.59928
-        },
-        {
-            "elevation": 92,
-            "mindate": "1931-01-01",
-            "maxdate": "1959-07-01",
-            "latitude": 30.66667,
-            "name": "MOUNT PLEASANT 2 W, FL US",
-            "datacoverage": 0.9855,
-            "id": "COOP:085990",
-            "elevationUnit": "METERS",
-            "longitude": -84.7
         },
         {
             "elevation": 13.1,
@@ -2339,37 +1702,15 @@
             "longitude": -80.2158
         },
         {
-            "elevation": 6.1,
-            "mindate": "1942-01-01",
-            "maxdate": "1967-01-01",
-            "latitude": 26.56667,
-            "name": "NORTH NEW RIVER CANAL 1, FL US",
-            "datacoverage": 0.8189,
-            "id": "COOP:086318",
-            "elevationUnit": "METERS",
-            "longitude": -80.75
-        },
-        {
             "elevation": 4.9,
             "mindate": "1942-01-01",
             "maxdate": "2014-01-01",
             "latitude": 26.3354,
             "name": "NORTH NEW RVR CANAL 2, FL US",
-            "datacoverage": 0.7115,
+            "datacoverage": 0.0315,
             "id": "COOP:086323",
             "elevationUnit": "METERS",
             "longitude": -80.5373
-        },
-        {
-            "elevation": 14.6,
-            "mindate": "1955-01-01",
-            "maxdate": "1957-09-01",
-            "latitude": 27.8,
-            "name": "KISSIMMEE RIVER, FL US",
-            "datacoverage": 0.8328,
-            "id": "COOP:086404",
-            "elevationUnit": "METERS",
-            "longitude": -81.18333
         },
         {
             "elevation": 2.4,
@@ -2392,17 +1733,6 @@
             "id": "COOP:086414",
             "elevationUnit": "METERS",
             "longitude": -82.0777
-        },
-        {
-            "elevation": 21,
-            "mindate": "1941-01-01",
-            "maxdate": "1966-01-01",
-            "latitude": 29.2,
-            "name": "OCALA 2 NE, FL US",
-            "datacoverage": 0.9236,
-            "id": "COOP:086419",
-            "elevationUnit": "METERS",
-            "longitude": -82.1
         },
         {
             "elevation": 7.9,
@@ -2443,7 +1773,7 @@
             "maxdate": "1986-01-26",
             "latitude": 28.93333,
             "name": "ORANGE CITY, FL US",
-            "datacoverage": 0.6892,
+            "datacoverage": 0.0368,
             "id": "COOP:086584",
             "elevationUnit": "METERS",
             "longitude": -81.3
@@ -2460,17 +1790,6 @@
             "longitude": -81.9681
         },
         {
-            "elevation": 9.1,
-            "mindate": "1943-11-01",
-            "maxdate": "1952-12-01",
-            "latitude": 29.5,
-            "name": "ORANGE SPRINGS 1 E, FL US",
-            "datacoverage": 0.9907,
-            "id": "COOP:086620",
-            "elevationUnit": "METERS",
-            "longitude": -81.91667
-        },
-        {
             "elevation": 27.4,
             "mindate": "1974-01-01",
             "maxdate": "2015-11-01",
@@ -2480,17 +1799,6 @@
             "id": "COOP:086628",
             "elevationUnit": "METERS",
             "longitude": -81.325
-        },
-        {
-            "elevation": 34.1,
-            "mindate": "1950-02-01",
-            "maxdate": "1958-12-01",
-            "latitude": 28.55,
-            "name": "ORLANDO WATER PLANT, FL US",
-            "datacoverage": 0.9629,
-            "id": "COOP:086633",
-            "elevationUnit": "METERS",
-            "longitude": -81.35
         },
         {
             "elevation": 45.7,
@@ -2581,17 +1889,6 @@
             "longitude": -84.485
         },
         {
-            "elevation": 3,
-            "mindate": "1931-01-01",
-            "maxdate": "1955-06-01",
-            "latitude": 30.16667,
-            "name": "PANAMA CITY, FL US",
-            "datacoverage": 1,
-            "id": "COOP:086836",
-            "elevationUnit": "METERS",
-            "longitude": -85.7
-        },
-        {
             "elevation": 4.6,
             "mindate": "1942-01-01",
             "maxdate": "1972-01-01",
@@ -2630,7 +1927,7 @@
             "maxdate": "2003-09-01",
             "latitude": 25.92972,
             "name": "PENNSUCO 5 WNW, FL US",
-            "datacoverage": 0.7337,
+            "datacoverage": 0.0348,
             "id": "COOP:086988",
             "elevationUnit": "METERS",
             "longitude": -80.45389
@@ -2656,17 +1953,6 @@
             "id": "COOP:086999",
             "elevationUnit": "METERS",
             "longitude": -87.198847
-        },
-        {
-            "elevation": 15.8,
-            "mindate": "1942-01-01",
-            "maxdate": "1964-02-28",
-            "latitude": 30.41667,
-            "name": "PENSACOLA WEATHER BUREAU CITY, FL US",
-            "datacoverage": 1,
-            "id": "COOP:087002",
-            "elevationUnit": "METERS",
-            "longitude": -87.21667
         },
         {
             "elevation": 2.1,
@@ -2700,28 +1986,6 @@
             "id": "COOP:087025",
             "elevationUnit": "METERS",
             "longitude": -83.57417
-        },
-        {
-            "elevation": 3,
-            "mindate": "1942-05-01",
-            "maxdate": "1958-11-01",
-            "latitude": 25.5819,
-            "name": "PERRINE 4 W, FL US",
-            "datacoverage": 0.9194,
-            "id": "COOP:087033",
-            "elevationUnit": "METERS",
-            "longitude": -80.4361
-        },
-        {
-            "elevation": 6.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1937-02-01",
-            "latitude": 27.83333,
-            "name": "PINELLAS PARK, FL US",
-            "datacoverage": 1,
-            "id": "COOP:087135",
-            "elevationUnit": "METERS",
-            "longitude": -82.75
         },
         {
             "elevation": 2.1,
@@ -2780,11 +2044,11 @@
         },
         {
             "elevation": 11.9,
-            "mindate": "1940-04-01",
+            "mindate": "1942-01-01",
             "maxdate": "1995-08-01",
             "latitude": 26.98333,
             "name": "PORT MAYACA S L CNL, FL US",
-            "datacoverage": 0.966,
+            "datacoverage": 0.0421,
             "id": "COOP:087293",
             "elevationUnit": "METERS",
             "longitude": -80.61667
@@ -2801,17 +2065,6 @@
             "longitude": -80.2627
         },
         {
-            "elevation": 3,
-            "mindate": "1931-01-01",
-            "maxdate": "1965-10-01",
-            "latitude": 26.93333,
-            "name": "PUNTA GORDA, FL US",
-            "datacoverage": 0.9809,
-            "id": "COOP:087395",
-            "elevationUnit": "METERS",
-            "longitude": -82.05
-        },
-        {
             "elevation": 6.1,
             "mindate": "1965-10-01",
             "maxdate": "2015-11-01",
@@ -2821,17 +2074,6 @@
             "id": "COOP:087397",
             "elevationUnit": "METERS",
             "longitude": -81.99682
-        },
-        {
-            "elevation": 75.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1967-12-01",
-            "latitude": 30.58333,
-            "name": "QUINCY EXPERIMENT ST, FL US",
-            "datacoverage": 1,
-            "id": "COOP:087424",
-            "elevationUnit": "METERS",
-            "longitude": -84.58333
         },
         {
             "elevation": 74.7,
@@ -2846,11 +2088,11 @@
         },
         {
             "elevation": 36.6,
-            "mindate": "1931-01-01",
+            "mindate": "1949-03-01",
             "maxdate": "2014-01-01",
             "latitude": 30.0678,
             "name": "RAIFORD STATE PRISON, FL US",
-            "datacoverage": 0.9642,
+            "datacoverage": 0.0309,
             "id": "COOP:087440",
             "elevationUnit": "METERS",
             "longitude": -82.1928
@@ -2889,17 +2131,6 @@
             "longitude": -81.33333
         },
         {
-            "elevation": 3,
-            "mindate": "1949-01-01",
-            "maxdate": "1953-07-28",
-            "latitude": 29.83333,
-            "name": "ST AUGUSTINE BEACH, FL US",
-            "datacoverage": 1,
-            "id": "COOP:087820",
-            "elevationUnit": "METERS",
-            "longitude": -81.26667
-        },
-        {
             "elevation": 3.7,
             "mindate": "1973-04-01",
             "maxdate": "2015-11-01",
@@ -2927,7 +2158,7 @@
             "maxdate": "1995-08-01",
             "latitude": 27.11667,
             "name": "ST LUCIE NEW LOCK 1, FL US",
-            "datacoverage": 0.9775,
+            "datacoverage": 0.0497,
             "id": "COOP:087859",
             "elevationUnit": "METERS",
             "longitude": -80.28333
@@ -2977,28 +2208,6 @@
             "longitude": -84.6
         },
         {
-            "elevation": 67.1,
-            "mindate": "1965-10-01",
-            "maxdate": "1969-08-01",
-            "latitude": 30.98333,
-            "name": "BLACKMAN, FL US",
-            "datacoverage": 0.0383,
-            "id": "COOP:087962",
-            "elevationUnit": "METERS",
-            "longitude": -86.65
-        },
-        {
-            "elevation": 3.7,
-            "mindate": "1931-01-01",
-            "maxdate": "1955-06-01",
-            "latitude": 28.8147,
-            "name": "SANFORD, FL US",
-            "datacoverage": 1,
-            "id": "COOP:087977",
-            "elevationUnit": "METERS",
-            "longitude": -81.2778
-        },
-        {
             "elevation": 3.7,
             "mindate": "1955-07-01",
             "maxdate": "2015-11-01",
@@ -3021,17 +2230,6 @@
             "longitude": -82.53333
         },
         {
-            "elevation": 9.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1950-10-01",
-            "latitude": 27.33333,
-            "name": "SARASOTA 5 E, FL US",
-            "datacoverage": 1,
-            "id": "COOP:088024",
-            "elevationUnit": "METERS",
-            "longitude": -82.46667
-        },
-        {
             "elevation": 12.8,
             "mindate": "2011-01-01",
             "maxdate": "2015-11-01",
@@ -3052,28 +2250,6 @@
             "id": "COOP:088076",
             "elevationUnit": "METERS",
             "longitude": -83.38833
-        },
-        {
-            "elevation": 14.9,
-            "mindate": "1948-01-01",
-            "maxdate": "1956-12-01",
-            "latitude": 30.2,
-            "name": "SECOTAN, FL US",
-            "datacoverage": 0.8887,
-            "id": "COOP:088094",
-            "elevationUnit": "METERS",
-            "longitude": -83.65
-        },
-        {
-            "elevation": 14.6,
-            "mindate": "1960-05-01",
-            "maxdate": "1967-02-01",
-            "latitude": 27.8,
-            "name": "KISSIMMEE RIVER, FL US",
-            "datacoverage": 0.9947,
-            "id": "COOP:088165",
-            "elevationUnit": "METERS",
-            "longitude": -81.18333
         },
         {
             "elevation": 18.3,
@@ -3153,17 +2329,6 @@
             "longitude": -80.2397
         },
         {
-            "elevation": 3,
-            "mindate": "1952-10-01",
-            "maxdate": "1956-06-28",
-            "latitude": 26.26667,
-            "name": "SUNNILAND, FL US",
-            "datacoverage": 1,
-            "id": "COOP:088671",
-            "elevationUnit": "METERS",
-            "longitude": -81.35
-        },
-        {
             "elevation": 16.8,
             "mindate": "2003-01-01",
             "maxdate": "2015-11-01",
@@ -3184,17 +2349,6 @@
             "id": "COOP:088758",
             "elevationUnit": "METERS",
             "longitude": -84.35333
-        },
-        {
-            "elevation": 3,
-            "mindate": "1942-08-01",
-            "maxdate": "1967-01-01",
-            "latitude": 25.76667,
-            "name": "TAMIAMI CANAL, FL US",
-            "datacoverage": 0.8671,
-            "id": "COOP:088775",
-            "elevationUnit": "METERS",
-            "longitude": -80.45
         },
         {
             "elevation": 4.6,
@@ -3263,17 +2417,6 @@
             "longitude": -80.817
         },
         {
-            "elevation": 18,
-            "mindate": "1950-03-01",
-            "maxdate": "1951-04-01",
-            "latitude": 28.13333,
-            "name": "TOHOPEKALIGA CYP CAN, FL US",
-            "datacoverage": 1,
-            "id": "COOP:088967",
-            "elevationUnit": "METERS",
-            "longitude": -81.33333
-        },
-        {
             "elevation": 4,
             "mindate": "1966-12-01",
             "maxdate": "2014-01-01",
@@ -3294,17 +2437,6 @@
             "id": "COOP:089034",
             "elevationUnit": "METERS",
             "longitude": -82.9975
-        },
-        {
-            "elevation": 14.6,
-            "mindate": "1954-04-01",
-            "maxdate": "1955-08-01",
-            "latitude": 27.8,
-            "name": "KISSIMMEE RIVER, FL US",
-            "datacoverage": 0.9961,
-            "id": "COOP:089048",
-            "elevationUnit": "METERS",
-            "longitude": -81.18333
         },
         {
             "elevation": 10.1,
@@ -3334,21 +2466,10 @@
             "maxdate": "2014-01-01",
             "latitude": 27.1819,
             "name": "VENUS, FL US",
-            "datacoverage": 0.9554,
+            "datacoverage": 0.0321,
             "id": "COOP:089184",
             "elevationUnit": "METERS",
             "longitude": -81.3509
-        },
-        {
-            "elevation": 14.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1965-08-01",
-            "latitude": 30.61667,
-            "name": "VERNON, FL US",
-            "datacoverage": 0.9015,
-            "id": "COOP:089206",
-            "elevationUnit": "METERS",
-            "longitude": -85.71667
         },
         {
             "elevation": 8.5,
@@ -3415,28 +2536,6 @@
             "id": "COOP:089511",
             "elevationUnit": "METERS",
             "longitude": -80.39528
-        },
-        {
-            "elevation": 6.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1960-09-01",
-            "latitude": 26.71667,
-            "name": "WEST PALM BEACH, FL US",
-            "datacoverage": 0.9496,
-            "id": "COOP:089520",
-            "elevationUnit": "METERS",
-            "longitude": -80.05
-        },
-        {
-            "elevation": 2.4,
-            "mindate": "1961-03-01",
-            "maxdate": "1964-12-01",
-            "latitude": 26.73333,
-            "name": "WEST PALM BEACH RADIO WJN, FL US",
-            "datacoverage": 0.9335,
-            "id": "COOP:089521",
-            "elevationUnit": "METERS",
-            "longitude": -80.05
         },
         {
             "elevation": 5.8,
@@ -10990,6 +10089,919 @@
             "id": "GHCND:US1FLLN0062",
             "elevationUnit": "METERS",
             "longitude": -84.195006
+        },
+        {
+            "elevation": 21.9,
+            "mindate": "2017-03-08",
+            "maxdate": "2020-05-17",
+            "latitude": 30.4379405975342,
+            "name": "TALLAHASSEE 4.8 ESE, FL US",
+            "datacoverage": 0.9169,
+            "id": "GHCND:US1FLLN0063",
+            "elevationUnit": "METERS",
+            "longitude": -84.2041015625
+        },
+        {
+            "elevation": 57.6,
+            "mindate": "2017-03-08",
+            "maxdate": "2020-05-17",
+            "latitude": 30.5602550506592,
+            "name": "TALLAHASSEE 7.2 N, FL US",
+            "datacoverage": 0.8063,
+            "id": "GHCND:US1FLLN0064",
+            "elevationUnit": "METERS",
+            "longitude": -84.2729339599609
+        },
+        {
+            "elevation": 31.1,
+            "mindate": "2017-03-01",
+            "maxdate": "2019-11-15",
+            "latitude": 30.4755,
+            "name": "TALLAHASSEE 10.4 E, FL US",
+            "datacoverage": 0.904,
+            "id": "GHCND:US1FLLN0065",
+            "elevationUnit": "METERS",
+            "longitude": -84.1079
+        },
+        {
+            "elevation": 11,
+            "mindate": "2017-03-24",
+            "maxdate": "2019-01-01",
+            "latitude": 30.3101,
+            "name": "TALLAHASSEE 10.4 SSE, FL US",
+            "datacoverage": 0.812,
+            "id": "GHCND:US1FLLN0066",
+            "elevationUnit": "METERS",
+            "longitude": -84.240606
+        },
+        {
+            "elevation": 18.9,
+            "mindate": "2017-04-04",
+            "maxdate": "2019-10-20",
+            "latitude": 30.377475,
+            "name": "TALLAHASSEE 9.7 SE, FL US",
+            "datacoverage": 0.9925,
+            "id": "GHCND:US1FLLN0068",
+            "elevationUnit": "METERS",
+            "longitude": -84.146335
+        },
+        {
+            "elevation": 31.4,
+            "mindate": "2018-02-14",
+            "maxdate": "2020-05-17",
+            "latitude": 30.4106,
+            "name": "TALLAHASSEE 5.0 SE, FL US",
+            "datacoverage": 0.8726,
+            "id": "GHCND:US1FLLN0072",
+            "elevationUnit": "METERS",
+            "longitude": -84.21798
+        },
+        {
+            "elevation": 21.6,
+            "mindate": "2018-05-27",
+            "maxdate": "2020-05-17",
+            "latitude": 30.42558,
+            "name": "TALLAHASSEE 5.6 ESE, FL US",
+            "datacoverage": 0.9566,
+            "id": "GHCND:US1FLLN0074",
+            "elevationUnit": "METERS",
+            "longitude": -84.19498
+        },
+        {
+            "elevation": 18.9,
+            "mindate": "2007-09-01",
+            "maxdate": "2020-05-14",
+            "latitude": 29.15689,
+            "name": "DUNNELLON 10.1 NW, FL US",
+            "datacoverage": 1,
+            "id": "GHCND:US1FLLV0001",
+            "elevationUnit": "METERS",
+            "longitude": -82.561089
+        },
+        {
+            "elevation": 20.7,
+            "mindate": "2007-09-01",
+            "maxdate": "2018-01-29",
+            "latitude": 29.39628,
+            "name": "BRONSON 4.4 SE, FL US",
+            "datacoverage": 0.9709,
+            "id": "GHCND:US1FLLV0002",
+            "elevationUnit": "METERS",
+            "longitude": -82.59597
+        },
+        {
+            "elevation": 27.1,
+            "mindate": "2007-09-01",
+            "maxdate": "2020-05-17",
+            "latitude": 29.42081,
+            "name": "BRONSON 3.0 SE, FL US",
+            "datacoverage": 0.9223,
+            "id": "GHCND:US1FLLV0004",
+            "elevationUnit": "METERS",
+            "longitude": -82.60151
+        },
+        {
+            "elevation": 15.8,
+            "mindate": "2008-02-01",
+            "maxdate": "2019-11-24",
+            "latitude": 29.503061,
+            "name": "CHIEFLAND 8.5 ENE, FL US",
+            "datacoverage": 1,
+            "id": "GHCND:US1FLLV0009",
+            "elevationUnit": "METERS",
+            "longitude": -82.722588
+        },
+        {
+            "elevation": 9.1,
+            "mindate": "2011-03-01",
+            "maxdate": "2018-08-04",
+            "latitude": 29.46402223,
+            "name": "CHIEFLAND 2.4 WSW, FL US",
+            "datacoverage": 0.9993,
+            "id": "GHCND:US1FLLV0010",
+            "elevationUnit": "METERS",
+            "longitude": -82.89752784
+        },
+        {
+            "elevation": 1.2,
+            "mindate": "2012-09-01",
+            "maxdate": "2015-04-17",
+            "latitude": 29.0371953,
+            "name": "YANKEETOWN 4.2 E, FL US",
+            "datacoverage": 0.8768,
+            "id": "GHCND:US1FLLV0012",
+            "elevationUnit": "METERS",
+            "longitude": -82.6898279
+        },
+        {
+            "elevation": 10.4,
+            "mindate": "2019-06-25",
+            "maxdate": "2020-05-17",
+            "latitude": 29.04094,
+            "name": "INGLIS 0.6 N, FL US",
+            "datacoverage": 0.998,
+            "id": "GHCND:US1FLLV0015",
+            "elevationUnit": "METERS",
+            "longitude": -82.65981
+        },
+        {
+            "elevation": 1.2,
+            "mindate": "2007-10-01",
+            "maxdate": "2012-04-27",
+            "latitude": 27.403811,
+            "name": "LONGBOAT KEY 1.4 NW, FL US",
+            "datacoverage": 0.9455,
+            "id": "GHCND:US1FLMA0002",
+            "elevationUnit": "METERS",
+            "longitude": -82.650618
+        },
+        {
+            "elevation": 4.9,
+            "mindate": "2007-10-01",
+            "maxdate": "2019-03-20",
+            "latitude": 27.523677,
+            "name": "PALMETTO 1.2 W, FL US",
+            "datacoverage": 0.9803,
+            "id": "GHCND:US1FLMA0003",
+            "elevationUnit": "METERS",
+            "longitude": -82.597502
+        },
+        {
+            "elevation": 36,
+            "mindate": "2007-10-01",
+            "maxdate": "2015-11-01",
+            "latitude": 27.596917,
+            "name": "WIMAUMA 10.8 SE, FL US",
+            "datacoverage": 1,
+            "id": "GHCND:US1FLMA0004",
+            "elevationUnit": "METERS",
+            "longitude": -82.189485
+        },
+        {
+            "elevation": 2.1,
+            "mindate": "2007-10-01",
+            "maxdate": "2009-09-01",
+            "latitude": 27.533148,
+            "name": "ELLENTON 6.9 E, FL US",
+            "datacoverage": 0.9993,
+            "id": "GHCND:US1FLMA0005",
+            "elevationUnit": "METERS",
+            "longitude": -82.416175
+        },
+        {
+            "elevation": 10.1,
+            "mindate": "2007-11-01",
+            "maxdate": "2020-05-17",
+            "latitude": 27.54,
+            "name": "ELLENTON 6.6 E, FL US",
+            "datacoverage": 1,
+            "id": "GHCND:US1FLMA0006",
+            "elevationUnit": "METERS",
+            "longitude": -82.422
+        },
+        {
+            "elevation": 2.7,
+            "mindate": "2008-07-01",
+            "maxdate": "2018-01-13",
+            "latitude": 27.482778,
+            "name": "BRADENTON 0.4 SSE, FL US",
+            "datacoverage": 0.998,
+            "id": "GHCND:US1FLMA0007",
+            "elevationUnit": "METERS",
+            "longitude": -82.577475
+        },
+        {
+            "elevation": 7,
+            "mindate": "2008-07-01",
+            "maxdate": "2010-03-13",
+            "latitude": 27.494177,
+            "name": "BRADENTON 3.6 W, FL US",
+            "datacoverage": 1,
+            "id": "GHCND:US1FLMA0008",
+            "elevationUnit": "METERS",
+            "longitude": -82.637289
+        },
+        {
+            "elevation": 7.3,
+            "mindate": "2009-07-01",
+            "maxdate": "2012-09-01",
+            "latitude": 27.548149,
+            "name": "ELLENTON 2.2 NE, FL US",
+            "datacoverage": 1,
+            "id": "GHCND:US1FLMA0009",
+            "elevationUnit": "METERS",
+            "longitude": -82.504902
+        },
+        {
+            "elevation": 18,
+            "mindate": "2009-12-01",
+            "maxdate": "2020-05-16",
+            "latitude": 27.430921,
+            "name": "BRADENTON 10.8 SE, FL US",
+            "datacoverage": 1,
+            "id": "GHCND:US1FLMA0010",
+            "elevationUnit": "METERS",
+            "longitude": -82.415236
+        },
+        {
+            "elevation": 5.8,
+            "mindate": "2010-07-01",
+            "maxdate": "2020-05-14",
+            "latitude": 27.476793,
+            "name": "BRADENTON 2.0 WSW, FL US",
+            "datacoverage": 0.8083,
+            "id": "GHCND:US1FLMA0011",
+            "elevationUnit": "METERS",
+            "longitude": -82.609371
+        },
+        {
+            "elevation": 0,
+            "mindate": "2012-08-01",
+            "maxdate": "2016-08-20",
+            "latitude": 27.4050617218018,
+            "name": "LAKEWOOD RANCH 7.0 E, FL US",
+            "datacoverage": 1,
+            "id": "GHCND:US1FLMA0014",
+            "elevationUnit": "METERS",
+            "longitude": -82.3136749267578
+        },
+        {
+            "elevation": 6.1,
+            "mindate": "2013-07-01",
+            "maxdate": "2017-05-25",
+            "latitude": 27.4969043731689,
+            "name": "BRADENTON 8.8 E, FL US",
+            "datacoverage": 0.9599,
+            "id": "GHCND:US1FLMA0015",
+            "elevationUnit": "METERS",
+            "longitude": -82.431770324707
+        },
+        {
+            "elevation": 9.1,
+            "mindate": "2012-10-01",
+            "maxdate": "2015-04-25",
+            "latitude": 27.595696,
+            "name": "PALMETTO 5.8 NNE, FL US",
+            "datacoverage": 0.8142,
+            "id": "GHCND:US1FLMA0016",
+            "elevationUnit": "METERS",
+            "longitude": -82.531842
+        },
+        {
+            "elevation": 6.4,
+            "mindate": "2014-03-01",
+            "maxdate": "2020-05-17",
+            "latitude": 27.504967,
+            "name": "BRADENTON 11.0 E, FL US",
+            "datacoverage": 0.9986,
+            "id": "GHCND:US1FLMA0018",
+            "elevationUnit": "METERS",
+            "longitude": -82.400487
+        },
+        {
+            "elevation": 3.4,
+            "mindate": "2015-06-07",
+            "maxdate": "2020-04-25",
+            "latitude": 27.50992,
+            "name": "BRADENTON 3.5 WNW, FL US",
+            "datacoverage": 0.0796,
+            "id": "GHCND:US1FLMA0020",
+            "elevationUnit": "METERS",
+            "longitude": -82.62971
+        },
+        {
+            "elevation": 3.4,
+            "mindate": "2016-02-19",
+            "maxdate": "2019-05-06",
+            "latitude": 27.423676,
+            "name": "SARASOTA 6.4 NNE, FL US",
+            "datacoverage": 0.9154,
+            "id": "GHCND:US1FLMA0021",
+            "elevationUnit": "METERS",
+            "longitude": -82.492256
+        },
+        {
+            "elevation": 9.4,
+            "mindate": "2016-05-30",
+            "maxdate": "2020-05-17",
+            "latitude": 27.562194,
+            "name": "PALMETTO 6.4 ENE, FL US",
+            "datacoverage": 1,
+            "id": "GHCND:US1FLMA0022",
+            "elevationUnit": "METERS",
+            "longitude": -82.483024
+        },
+        {
+            "elevation": 0.9,
+            "mindate": "2018-03-08",
+            "maxdate": "2020-05-16",
+            "latitude": 27.497916,
+            "name": "SAMOSET 1.7 NNE, FL US",
+            "datacoverage": 1,
+            "id": "GHCND:US1FLMA0026",
+            "elevationUnit": "METERS",
+            "longitude": -82.528035
+        },
+        {
+            "elevation": 0.6,
+            "mindate": "2018-03-22",
+            "maxdate": "2020-05-16",
+            "latitude": 27.531919,
+            "name": "ANNA MARIA 0.2 NNE, FL US",
+            "datacoverage": 0.6671,
+            "id": "GHCND:US1FLMA0028",
+            "elevationUnit": "METERS",
+            "longitude": -82.731688
+        },
+        {
+            "elevation": 11.9,
+            "mindate": "2018-05-01",
+            "maxdate": "2020-05-17",
+            "latitude": 27.413209,
+            "name": "LAKEWOOD RANCH 3.5 E, FL US",
+            "datacoverage": 1,
+            "id": "GHCND:US1FLMA0029",
+            "elevationUnit": "METERS",
+            "longitude": -82.368345
+        },
+        {
+            "elevation": 8.2,
+            "mindate": "2018-05-28",
+            "maxdate": "2020-05-17",
+            "latitude": 27.5245,
+            "name": "PARRISH 5.5 SE, FL US",
+            "datacoverage": 0.509,
+            "id": "GHCND:US1FLMA0030",
+            "elevationUnit": "METERS",
+            "longitude": -82.36907
+        },
+        {
+            "elevation": 11.9,
+            "mindate": "2018-07-31",
+            "maxdate": "2020-05-16",
+            "latitude": 27.427464,
+            "name": "THE MEADOWS 6.2 NE, FL US",
+            "datacoverage": 1,
+            "id": "GHCND:US1FLMA0032",
+            "elevationUnit": "METERS",
+            "longitude": -82.400139
+        },
+        {
+            "elevation": 12.8,
+            "mindate": "2018-01-31",
+            "maxdate": "2020-05-17",
+            "latitude": 27.450213,
+            "name": "THE MEADOWS 7.0 NNE, FL US",
+            "datacoverage": 1,
+            "id": "GHCND:US1FLMA0033",
+            "elevationUnit": "METERS",
+            "longitude": -82.413666
+        },
+        {
+            "elevation": 7.9,
+            "mindate": "2019-03-11",
+            "maxdate": "2020-05-17",
+            "latitude": 27.45468,
+            "name": "SAMOSET 4.7 ESE, FL US",
+            "datacoverage": 0.9992,
+            "id": "GHCND:US1FLMA0034",
+            "elevationUnit": "METERS",
+            "longitude": -82.46942
+        },
+        {
+            "elevation": 0.9,
+            "mindate": "2007-09-01",
+            "maxdate": "2011-07-06",
+            "latitude": 25.8444,
+            "name": "MIAMI 4.9 NNE, FL US",
+            "datacoverage": 1,
+            "id": "GHCND:US1FLMD0002",
+            "elevationUnit": "METERS",
+            "longitude": -80.18033
+        },
+        {
+            "elevation": 7.9,
+            "mindate": "2007-09-01",
+            "maxdate": "2020-05-17",
+            "latitude": 25.6682,
+            "name": "LINDGREN ACRES 0.5 WSW, FL US",
+            "datacoverage": 1,
+            "id": "GHCND:US1FLMD0003",
+            "elevationUnit": "METERS",
+            "longitude": -80.4087
+        },
+        {
+            "elevation": 7.9,
+            "mindate": "2007-10-01",
+            "maxdate": "2014-11-14",
+            "latitude": 25.94,
+            "name": "MIAMI LAKES 2.1 N, FL US",
+            "datacoverage": 0.9882,
+            "id": "GHCND:US1FLMD0006",
+            "elevationUnit": "METERS",
+            "longitude": -80.32
+        },
+        {
+            "elevation": 11,
+            "mindate": "2007-10-01",
+            "maxdate": "2020-05-16",
+            "latitude": 25.683459,
+            "name": "SUNSET 2.4 SW, FL US",
+            "datacoverage": 0.9999,
+            "id": "GHCND:US1FLMD0007",
+            "elevationUnit": "METERS",
+            "longitude": -80.381546
+        },
+        {
+            "elevation": 10.1,
+            "mindate": "2007-10-01",
+            "maxdate": "2013-12-26",
+            "latitude": 25.780883,
+            "name": "TAMIAMI 1.6 N, FL US",
+            "datacoverage": 0.9462,
+            "id": "GHCND:US1FLMD0008",
+            "elevationUnit": "METERS",
+            "longitude": -80.398371
+        },
+        {
+            "elevation": 7,
+            "mindate": "2007-12-01",
+            "maxdate": "2010-12-03",
+            "latitude": 25.5715,
+            "name": "SOUTH MIAMI HEIGHTS 1.3 SSW, FL US",
+            "datacoverage": 0.8973,
+            "id": "GHCND:US1FLMD0010",
+            "elevationUnit": "METERS",
+            "longitude": -80.39476
+        },
+        {
+            "elevation": 1.5,
+            "mindate": "2008-06-01",
+            "maxdate": "2012-08-28",
+            "latitude": 25.616593,
+            "name": "CUTLER 1.3 SW, FL US",
+            "datacoverage": 1,
+            "id": "GHCND:US1FLMD0017",
+            "elevationUnit": "METERS",
+            "longitude": -80.332887
+        },
+        {
+            "elevation": 2.7,
+            "mindate": "2009-04-01",
+            "maxdate": "2020-05-16",
+            "latitude": 25.665,
+            "name": "HAMMOCKS 0.5 SSE, FL US",
+            "datacoverage": 0.9999,
+            "id": "GHCND:US1FLMD0022",
+            "elevationUnit": "METERS",
+            "longitude": -80.4395
+        },
+        {
+            "elevation": 1.2,
+            "mindate": "2009-05-01",
+            "maxdate": "2020-05-15",
+            "latitude": 25.734859,
+            "name": "MIAMI 4.1 SE, FL US",
+            "datacoverage": 0.9997,
+            "id": "GHCND:US1FLMD0023",
+            "elevationUnit": "METERS",
+            "longitude": -80.163581
+        },
+        {
+            "elevation": 0.9,
+            "mindate": "2009-11-01",
+            "maxdate": "2020-05-16",
+            "latitude": 25.913604,
+            "name": "MIAMI LAKES 0.3 NNW, FL US",
+            "datacoverage": 1,
+            "id": "GHCND:US1FLMD0026",
+            "elevationUnit": "METERS",
+            "longitude": -80.316509
+        },
+        {
+            "elevation": 1.5,
+            "mindate": "2011-09-01",
+            "maxdate": "2012-08-12",
+            "latitude": 25.717087,
+            "name": "CORAL GABLES 1.8 NNW, FL US",
+            "datacoverage": 0.9148,
+            "id": "GHCND:US1FLMD0029",
+            "elevationUnit": "METERS",
+            "longitude": -80.279506
+        },
+        {
+            "elevation": 1.2,
+            "mindate": "2011-01-01",
+            "maxdate": "2020-05-09",
+            "latitude": 25.715589,
+            "name": "SOUTH MIAMI 0.5 N, FL US",
+            "datacoverage": 1,
+            "id": "GHCND:US1FLMD0030",
+            "elevationUnit": "METERS",
+            "longitude": -80.296772
+        },
+        {
+            "elevation": 0.9,
+            "mindate": "2011-09-01",
+            "maxdate": "2014-08-13",
+            "latitude": 25.829661,
+            "name": "DORAL 1.9 WNW, FL US",
+            "datacoverage": 0.9998,
+            "id": "GHCND:US1FLMD0032",
+            "elevationUnit": "METERS",
+            "longitude": -80.384293
+        },
+        {
+            "elevation": 2.4,
+            "mindate": "2012-06-01",
+            "maxdate": "2020-05-17",
+            "latitude": 25.881971,
+            "name": "BISCAYNE PARK 0.3 E, FL US",
+            "datacoverage": 1,
+            "id": "GHCND:US1FLMD0033",
+            "elevationUnit": "METERS",
+            "longitude": -80.176893
+        },
+        {
+            "elevation": 2.4,
+            "mindate": "2013-01-01",
+            "maxdate": "2019-11-12",
+            "latitude": 25.71793,
+            "name": "SUNSET 1.1 NE, FL US",
+            "datacoverage": 1,
+            "id": "GHCND:US1FLMD0036",
+            "elevationUnit": "METERS",
+            "longitude": -80.340209
+        },
+        {
+            "elevation": 1.5,
+            "mindate": "2014-01-01",
+            "maxdate": "2017-09-07",
+            "latitude": 25.903217,
+            "name": "NORTH MIAMI 1.4 W, FL US",
+            "datacoverage": 0.6432,
+            "id": "GHCND:US1FLMD0039",
+            "elevationUnit": "METERS",
+            "longitude": -80.191433
+        },
+        {
+            "elevation": 1.8,
+            "mindate": "2014-03-01",
+            "maxdate": "2019-03-11",
+            "latitude": 25.7417011260986,
+            "name": "MIAMI 6.7 WSW, FL US",
+            "datacoverage": 0.9986,
+            "id": "GHCND:US1FLMD0040",
+            "elevationUnit": "METERS",
+            "longitude": -80.3221740722656
+        },
+        {
+            "elevation": 2.4,
+            "mindate": "2013-01-01",
+            "maxdate": "2020-05-16",
+            "latitude": 25.6633578,
+            "name": "LINDGREN ACRES 0.7 SW, FL US",
+            "datacoverage": 0.8028,
+            "id": "GHCND:US1FLMD0041",
+            "elevationUnit": "METERS",
+            "longitude": -80.4096612
+        },
+        {
+            "elevation": 2.4,
+            "mindate": "2014-03-01",
+            "maxdate": "2020-05-16",
+            "latitude": 25.6956787109375,
+            "name": "SOUTH MIAMI 0.9 SSE, FL US",
+            "datacoverage": 0.9986,
+            "id": "GHCND:US1FLMD0042",
+            "elevationUnit": "METERS",
+            "longitude": -80.2892990112305
+        },
+        {
+            "elevation": 3,
+            "mindate": "2014-03-01",
+            "maxdate": "2015-11-05",
+            "latitude": 25.8755,
+            "name": "MIAMI 6.4 NNE, FL US",
+            "datacoverage": 0.9987,
+            "id": "GHCND:US1FLMD0044",
+            "elevationUnit": "METERS",
+            "longitude": -80.1928
+        },
+        {
+            "elevation": 2.1,
+            "mindate": "2014-04-01",
+            "maxdate": "2020-05-16",
+            "latitude": 25.560043,
+            "name": "CUTLER RIDGE 1.7 SSW, FL US",
+            "datacoverage": 1,
+            "id": "GHCND:US1FLMD0049",
+            "elevationUnit": "METERS",
+            "longitude": -80.357536
+        },
+        {
+            "elevation": 2.1,
+            "mindate": "2014-04-01",
+            "maxdate": "2020-05-16",
+            "latitude": 25.5610046386719,
+            "name": "CUTLER RIDGE 1.5 SSW, FL US",
+            "datacoverage": 1,
+            "id": "GHCND:US1FLMD0051",
+            "elevationUnit": "METERS",
+            "longitude": -80.3526077270508
+        },
+        {
+            "elevation": 2.1,
+            "mindate": "2014-03-01",
+            "maxdate": "2015-06-15",
+            "latitude": 25.558895,
+            "name": "NARANJA 5.9 WNW, FL US",
+            "datacoverage": 1,
+            "id": "GHCND:US1FLMD0054",
+            "elevationUnit": "METERS",
+            "longitude": -80.503537
+        },
+        {
+            "elevation": 1.8,
+            "mindate": "2014-03-01",
+            "maxdate": "2014-09-21",
+            "latitude": 25.9633178710938,
+            "name": "MIAMI GARDENS 1.6 NNW, FL US",
+            "datacoverage": 0.998,
+            "id": "GHCND:US1FLMD0055",
+            "elevationUnit": "METERS",
+            "longitude": -80.2551345825195
+        },
+        {
+            "elevation": 0.9,
+            "mindate": "2014-04-01",
+            "maxdate": "2015-09-18",
+            "latitude": 25.9336,
+            "name": "NORTH MIAMI BEACH 2.0 E, FL US",
+            "datacoverage": 1,
+            "id": "GHCND:US1FLMD0058",
+            "elevationUnit": "METERS",
+            "longitude": -80.1355
+        },
+        {
+            "elevation": 2.1,
+            "mindate": "2014-06-01",
+            "maxdate": "2020-04-27",
+            "latitude": 25.5827601,
+            "name": "SOUTH MIAMI HEIGHTS 6.4 W, FL US",
+            "datacoverage": 0.9994,
+            "id": "GHCND:US1FLMD0059",
+            "elevationUnit": "METERS",
+            "longitude": -80.4879962
+        },
+        {
+            "elevation": 2.1,
+            "mindate": "2014-04-01",
+            "maxdate": "2015-08-19",
+            "latitude": 25.7267875671387,
+            "name": "WESTWOOD LAKES 0.4 NNE, FL US",
+            "datacoverage": 0.8063,
+            "id": "GHCND:US1FLMD0060",
+            "elevationUnit": "METERS",
+            "longitude": -80.3706970214844
+        },
+        {
+            "elevation": 2.4,
+            "mindate": "2014-11-01",
+            "maxdate": "2020-05-14",
+            "latitude": 25.741544,
+            "name": "MIAMI 15.1 WSW, FL US",
+            "datacoverage": 1,
+            "id": "GHCND:US1FLMD0061",
+            "elevationUnit": "METERS",
+            "longitude": -80.438633
+        },
+        {
+            "elevation": 2.4,
+            "mindate": "2015-09-01",
+            "maxdate": "2016-01-04",
+            "latitude": 25.65718,
+            "name": "KENDALL 1.7 WSW, FL US",
+            "datacoverage": 0.998,
+            "id": "GHCND:US1FLMD0062",
+            "elevationUnit": "METERS",
+            "longitude": -80.364496
+        },
+        {
+            "elevation": 2.1,
+            "mindate": "2016-03-27",
+            "maxdate": "2018-09-13",
+            "latitude": 25.599489,
+            "name": "PALMETTO BAY 1.6 SSE, FL US",
+            "datacoverage": 0.6673,
+            "id": "GHCND:US1FLMD0063",
+            "elevationUnit": "METERS",
+            "longitude": -80.314985
+        },
+        {
+            "elevation": 1.5,
+            "mindate": "2016-07-20",
+            "maxdate": "2017-08-25",
+            "latitude": 25.88722,
+            "name": "NORTH MIAMI 1.0 SSW, FL US",
+            "datacoverage": 0.7485,
+            "id": "GHCND:US1FLMD0064",
+            "elevationUnit": "METERS",
+            "longitude": -80.176666
+        },
+        {
+            "elevation": 2.7,
+            "mindate": "2016-04-22",
+            "maxdate": "2019-07-02",
+            "latitude": 25.625683,
+            "name": "PALMETTO BAY 0.6 WNW, FL US",
+            "datacoverage": 0.7221,
+            "id": "GHCND:US1FLMD0067",
+            "elevationUnit": "METERS",
+            "longitude": -80.333095
+        },
+        {
+            "elevation": 2.4,
+            "mindate": "2017-04-07",
+            "maxdate": "2020-05-16",
+            "latitude": 25.658996,
+            "name": "HAMMOCKS 0.9 SSE, FL US",
+            "datacoverage": 0.8609,
+            "id": "GHCND:US1FLMD0068",
+            "elevationUnit": "METERS",
+            "longitude": -80.438113
+        },
+        {
+            "elevation": 2.4,
+            "mindate": "2017-03-01",
+            "maxdate": "2020-05-16",
+            "latitude": 25.4897,
+            "name": "HOMESTEAD 3.0 NW, FL US",
+            "datacoverage": 1,
+            "id": "GHCND:US1FLMD0069",
+            "elevationUnit": "METERS",
+            "longitude": -80.4911
+        },
+        {
+            "elevation": 4,
+            "mindate": "2017-09-19",
+            "maxdate": "2020-03-11",
+            "latitude": 25.721918,
+            "name": "MIAMI 4.3 SSW, FL US",
+            "datacoverage": 0.3746,
+            "id": "GHCND:US1FLMD0075",
+            "elevationUnit": "METERS",
+            "longitude": -80.246201
+        },
+        {
+            "elevation": 1.2,
+            "mindate": "2019-02-02",
+            "maxdate": "2020-05-16",
+            "latitude": 25.84308,
+            "name": "MIAMI 5.7 N, FL US",
+            "datacoverage": 0.9223,
+            "id": "GHCND:US1FLMD0079",
+            "elevationUnit": "METERS",
+            "longitude": -80.18248
+        },
+        {
+            "elevation": 1.5,
+            "mindate": "2019-05-09",
+            "maxdate": "2020-05-17",
+            "latitude": 25.69003,
+            "name": "KENDALL 1.6 N, FL US",
+            "datacoverage": 0.896,
+            "id": "GHCND:US1FLMD0080",
+            "elevationUnit": "METERS",
+            "longitude": -80.33556
+        },
+        {
+            "elevation": 1.8,
+            "mindate": "2019-03-16",
+            "maxdate": "2020-05-17",
+            "latitude": 25.6360578,
+            "name": "CUTLER 0.7 NNW, FL US",
+            "datacoverage": 0.9223,
+            "id": "GHCND:US1FLMD0082",
+            "elevationUnit": "METERS",
+            "longitude": -80.319619
+        },
+        {
+            "elevation": 1.8,
+            "mindate": "2019-04-29",
+            "maxdate": "2020-03-12",
+            "latitude": 25.92112,
+            "name": "MIAMI LAKES 2.1 WNW, FL US",
+            "datacoverage": 0.7958,
+            "id": "GHCND:US1FLMD0083",
+            "elevationUnit": "METERS",
+            "longitude": -80.345436
+        },
+        {
+            "elevation": 2.4,
+            "mindate": "2019-03-20",
+            "maxdate": "2019-11-10",
+            "latitude": 25.71834,
+            "name": "KENDALE LAKES 1.5 WNW, FL US",
+            "datacoverage": 0.9153,
+            "id": "GHCND:US1FLMD0084",
+            "elevationUnit": "METERS",
+            "longitude": -80.4275
+        },
+        {
+            "elevation": 1.8,
+            "mindate": "2019-06-26",
+            "maxdate": "2020-05-17",
+            "latitude": 25.727376,
+            "name": "KENDALE LAKES 1.4 N, FL US",
+            "datacoverage": 0.998,
+            "id": "GHCND:US1FLMD0092",
+            "elevationUnit": "METERS",
+            "longitude": -80.405869
+        },
+        {
+            "elevation": 0,
+            "mindate": "2007-09-01",
+            "maxdate": "2017-11-01",
+            "latitude": 24.598584,
+            "name": "BIG COPPITT KEY 0.2 NW, FL US",
+            "datacoverage": 1,
+            "id": "GHCND:US1FLMN0001",
+            "elevationUnit": "METERS",
+            "longitude": -81.662159
+        },
+        {
+            "elevation": 0.6,
+            "mindate": "2007-10-01",
+            "maxdate": "2020-05-16",
+            "latitude": 25.045319,
+            "name": "KEY LARGO 5.3 SW, FL US",
+            "datacoverage": 0.9999,
+            "id": "GHCND:US1FLMN0004",
+            "elevationUnit": "METERS",
+            "longitude": -80.494216
+        },
+        {
+            "elevation": 4.9,
+            "mindate": "2007-10-01",
+            "maxdate": "2020-05-17",
+            "latitude": 24.659425,
+            "name": "CUDJOE KEY 0.9 SSW, FL US",
+            "datacoverage": 0.9999,
+            "id": "GHCND:US1FLMN0006",
+            "elevationUnit": "METERS",
+            "longitude": -81.506312
+        },
+        {
+            "elevation": 7,
+            "mindate": "2007-10-01",
+            "maxdate": "2020-05-17",
+            "latitude": 24.851492,
+            "name": "ISLAMORADA 7.8 SW, FL US",
+            "datacoverage": 0.9999,
+            "id": "GHCND:US1FLMN0008",
+            "elevationUnit": "METERS",
+            "longitude": -80.735242
         }
     ]
 }

@@ -2,7 +2,7 @@
     "metadata": {
         "resultset": {
             "offset": 1,
-            "count": 1168,
+            "count": 883,
             "limit": 1000
         }
     },
@@ -31,7 +31,7 @@
         },
         {
             "elevation": 7.6,
-            "mindate": "1947-10-01",
+            "mindate": "1948-01-01",
             "maxdate": "2014-12-01",
             "latitude": 30.4714,
             "name": "ABITA SPRINGS 1 SW, LA US",
@@ -50,17 +50,6 @@
             "id": "COOP:160021",
             "elevationUnit": "METERS",
             "longitude": -90.0519
-        },
-        {
-            "elevation": 14.9,
-            "mindate": "1951-10-01",
-            "maxdate": "1959-02-01",
-            "latitude": 31.28333,
-            "name": "ACME, LA US",
-            "datacoverage": 1,
-            "id": "COOP:160028",
-            "elevationUnit": "METERS",
-            "longitude": -91.81667
         },
         {
             "elevation": 67.1,
@@ -83,17 +72,6 @@
             "id": "COOP:160098",
             "elevationUnit": "METERS",
             "longitude": -92.4611
-        },
-        {
-            "elevation": 13.4,
-            "mindate": "1885-02-01",
-            "maxdate": "1967-05-01",
-            "latitude": 31.31667,
-            "name": "ALEXANDRIA NUMBER 2, LA US",
-            "datacoverage": 0.3219,
-            "id": "COOP:160101",
-            "elevationUnit": "METERS",
-            "longitude": -92.45
         },
         {
             "elevation": 25.9,
@@ -129,17 +107,6 @@
             "longitude": -90.525
         },
         {
-            "elevation": 6.1,
-            "mindate": "1943-03-01",
-            "maxdate": "1969-12-01",
-            "latitude": 30.08333,
-            "name": "ANDREW, LA US",
-            "datacoverage": 0.9749,
-            "id": "COOP:160232",
-            "elevationUnit": "METERS",
-            "longitude": -92.25
-        },
-        {
             "elevation": 39.6,
             "mindate": "1995-06-01",
             "maxdate": "2014-12-01",
@@ -149,17 +116,6 @@
             "id": "COOP:160238",
             "elevationUnit": "METERS",
             "longitude": -89.815
-        },
-        {
-            "elevation": 11.9,
-            "mindate": "1913-08-01",
-            "maxdate": "1965-02-01",
-            "latitude": 30.95,
-            "name": "ANGOLA, LA US",
-            "datacoverage": 0.9273,
-            "id": "COOP:160244",
-            "elevationUnit": "METERS",
-            "longitude": -91.58333
         },
         {
             "elevation": 106.1,
@@ -195,17 +151,6 @@
             "longitude": -93.1163
         },
         {
-            "elevation": 9.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1969-07-01",
-            "latitude": 30.35,
-            "name": "ATCHAFALAYA, LA US",
-            "datacoverage": 0.9201,
-            "id": "COOP:160367",
-            "elevationUnit": "METERS",
-            "longitude": -91.71667
-        },
-        {
             "elevation": 154.8,
             "mindate": "1984-02-01",
             "maxdate": "1985-05-01",
@@ -228,17 +173,6 @@
             "longitude": -91.1633
         },
         {
-            "elevation": 1.2,
-            "mindate": "1943-01-01",
-            "maxdate": "1957-12-01",
-            "latitude": 30.48333,
-            "name": "BASILE 2 W, LA US",
-            "datacoverage": 0.9277,
-            "id": "COOP:160526",
-            "elevationUnit": "METERS",
-            "longitude": -92.63333
-        },
-        {
             "elevation": 45.7,
             "mindate": "1893-12-01",
             "maxdate": "2015-11-01",
@@ -251,7 +185,7 @@
         },
         {
             "elevation": 13.7,
-            "mindate": "1947-10-01",
+            "mindate": "1948-01-01",
             "maxdate": "2005-08-01",
             "latitude": 30.82056,
             "name": "BATCHELOR, LA US",
@@ -292,28 +226,6 @@
             "id": "COOP:160549",
             "elevationUnit": "METERS",
             "longitude": -91.1469
-        },
-        {
-            "elevation": 14.9,
-            "mindate": "1947-11-01",
-            "maxdate": "1949-01-01",
-            "latitude": 30.43333,
-            "name": "BATON ROUGE LA UNIVERSITY, LA US",
-            "datacoverage": 0.9819,
-            "id": "COOP:160553",
-            "elevationUnit": "METERS",
-            "longitude": -91.16667
-        },
-        {
-            "elevation": 6.1,
-            "mindate": "1947-08-01",
-            "maxdate": "1948-05-01",
-            "latitude": 30.4291,
-            "name": "BATON ROUGE, LA US",
-            "datacoverage": 0.998,
-            "id": "COOP:160555",
-            "elevationUnit": "METERS",
-            "longitude": -91.2069
         },
         {
             "elevation": 16.8,
@@ -393,15 +305,6 @@
             "longitude": -93.0897
         },
         {
-            "mindate": "1935-06-01",
-            "maxdate": "1947-11-01",
-            "latitude": 29.88333,
-            "name": "BELLE CHASSE, LA US",
-            "datacoverage": 0.9066,
-            "id": "COOP:160662",
-            "longitude": -90
-        },
-        {
             "elevation": 61,
             "mindate": "1998-03-01",
             "maxdate": "2015-11-01",
@@ -411,17 +314,6 @@
             "id": "COOP:160718",
             "elevationUnit": "METERS",
             "longitude": -93.6619
-        },
-        {
-            "elevation": 54.3,
-            "mindate": "1947-10-01",
-            "maxdate": "1965-10-01",
-            "latitude": 32.78333,
-            "name": "BERNICE 2 S, LA US",
-            "datacoverage": 0.6846,
-            "id": "COOP:160761",
-            "elevationUnit": "METERS",
-            "longitude": -92.66667
         },
         {
             "elevation": 93.6,
@@ -455,26 +347,6 @@
             "id": "COOP:160945",
             "elevationUnit": "METERS",
             "longitude": -89.8567
-        },
-        {
-            "elevation": 16.8,
-            "mindate": "1930-07-01",
-            "maxdate": "1960-01-01",
-            "latitude": 30.7931,
-            "name": "BOGALUSA 2, LA US",
-            "datacoverage": 0.3999,
-            "id": "COOP:160947",
-            "elevationUnit": "METERS",
-            "longitude": -89.8208
-        },
-        {
-            "mindate": "1951-05-01",
-            "maxdate": "1964-08-01",
-            "latitude": 32.88333,
-            "name": "BONITA 3 S, LA US",
-            "datacoverage": 0.9184,
-            "id": "COOP:160989",
-            "longitude": -91.66667
         },
         {
             "elevation": 14.9,
@@ -598,39 +470,6 @@
             "longitude": -92.3487
         },
         {
-            "elevation": 3,
-            "mindate": "1893-01-01",
-            "maxdate": "1949-03-01",
-            "latitude": 29.8,
-            "name": "CAMERON, LA US",
-            "datacoverage": 0.323,
-            "id": "COOP:161425",
-            "elevationUnit": "METERS",
-            "longitude": -93.316667
-        },
-        {
-            "elevation": 70.1,
-            "mindate": "1941-09-01",
-            "maxdate": "1946-08-01",
-            "latitude": 31.45,
-            "name": "CAMP LIVINGSTON, LA US",
-            "datacoverage": 1,
-            "id": "COOP:161443",
-            "elevationUnit": "METERS",
-            "longitude": -92.36667
-        },
-        {
-            "elevation": 107,
-            "mindate": "1939-01-01",
-            "maxdate": "1959-12-01",
-            "latitude": 31.06667,
-            "name": "CAMP POLK, LA US",
-            "datacoverage": 0.9762,
-            "id": "COOP:161446",
-            "elevationUnit": "METERS",
-            "longitude": -93.2
-        },
-        {
             "elevation": 10.7,
             "mindate": "1986-05-01",
             "maxdate": "2014-12-01",
@@ -662,17 +501,6 @@
             "id": "COOP:161583",
             "elevationUnit": "METERS",
             "longitude": -92.01667
-        },
-        {
-            "elevation": 3,
-            "mindate": "1951-05-01",
-            "maxdate": "1966-12-01",
-            "latitude": 29.86667,
-            "name": "CATFISH POINT, LA US",
-            "datacoverage": 0.9838,
-            "id": "COOP:161601",
-            "elevationUnit": "METERS",
-            "longitude": -92.85
         },
         {
             "elevation": 0,
@@ -708,28 +536,6 @@
             "longitude": -90.5815
         },
         {
-            "elevation": 18,
-            "mindate": "1891-02-01",
-            "maxdate": "1956-11-01",
-            "latitude": 31.01667,
-            "name": "CHENEYVILLE, LA US",
-            "datacoverage": 0.9342,
-            "id": "COOP:161729",
-            "elevationUnit": "METERS",
-            "longitude": -92.28333
-        },
-        {
-            "elevation": 9.1,
-            "mindate": "1894-10-01",
-            "maxdate": "1965-08-01",
-            "latitude": 30.4,
-            "name": "CINCLARE, LA US",
-            "datacoverage": 0.7697,
-            "id": "COOP:161807",
-            "elevationUnit": "METERS",
-            "longitude": -91.23333
-        },
-        {
             "elevation": 22.3,
             "mindate": "2002-07-01",
             "maxdate": "2013-12-01",
@@ -752,17 +558,6 @@
             "longitude": -91.0091
         },
         {
-            "elevation": 64,
-            "mindate": "1947-10-01",
-            "maxdate": "1954-06-01",
-            "latitude": 30.88333,
-            "name": "CLINTON 2, LA US",
-            "datacoverage": 0.6411,
-            "id": "COOP:161894",
-            "elevationUnit": "METERS",
-            "longitude": -91.01667
-        },
-        {
             "elevation": 61,
             "mindate": "1974-07-01",
             "maxdate": "2015-11-01",
@@ -772,17 +567,6 @@
             "id": "COOP:161899",
             "elevationUnit": "METERS",
             "longitude": -90.9733
-        },
-        {
-            "elevation": 3,
-            "mindate": "1958-03-01",
-            "maxdate": "1966-07-01",
-            "latitude": 29.26667,
-            "name": "COCODRIE, LA US",
-            "datacoverage": 0.9898,
-            "id": "COOP:161929",
-            "elevationUnit": "METERS",
-            "longitude": -90.65
         },
         {
             "elevation": 0.9,
@@ -805,17 +589,6 @@
             "id": "COOP:161941",
             "elevationUnit": "METERS",
             "longitude": -92.7142
-        },
-        {
-            "elevation": 21,
-            "mindate": "1947-10-01",
-            "maxdate": "1951-10-11",
-            "latitude": 32.13333,
-            "name": "COLUMBIA 3 N, LA US",
-            "datacoverage": 0.9165,
-            "id": "COOP:161969",
-            "elevationUnit": "METERS",
-            "longitude": -92.08333
         },
         {
             "elevation": 25,
@@ -851,15 +624,6 @@
             "longitude": -93.7
         },
         {
-            "mindate": "1947-10-01",
-            "maxdate": "1949-02-01",
-            "latitude": 32.93333,
-            "name": "CORNEY LAKE, LA US",
-            "datacoverage": 0.0043,
-            "id": "COOP:162078",
-            "longitude": -92.76667
-        },
-        {
             "elevation": 78.6,
             "mindate": "1943-11-01",
             "maxdate": "2009-10-01",
@@ -869,17 +633,6 @@
             "id": "COOP:162121",
             "elevationUnit": "METERS",
             "longitude": -93.4569
-        },
-        {
-            "elevation": 46,
-            "mindate": "1893-01-01",
-            "maxdate": "1967-01-01",
-            "latitude": 32.01667,
-            "name": "COUSHATTA, LA US",
-            "datacoverage": 0.1896,
-            "id": "COOP:162140",
-            "elevationUnit": "METERS",
-            "longitude": -93.33333
         },
         {
             "elevation": 47.2,
@@ -926,17 +679,6 @@
             "longitude": -90.0899
         },
         {
-            "elevation": 75.9,
-            "mindate": "1942-03-01",
-            "maxdate": "1950-04-01",
-            "latitude": 31,
-            "name": "CRAVENS TOWER, LA US",
-            "datacoverage": 0.7143,
-            "id": "COOP:162165",
-            "elevationUnit": "METERS",
-            "longitude": -93.1
-        },
-        {
             "elevation": 7.6,
             "mindate": "1906-07-01",
             "maxdate": "2015-11-01",
@@ -959,17 +701,6 @@
             "longitude": -91.58889
         },
         {
-            "elevation": 31.1,
-            "mindate": "1947-10-01",
-            "maxdate": "1956-09-01",
-            "latitude": 32.25,
-            "name": "CROWVILLE 1 N, LA US",
-            "datacoverage": 0.9216,
-            "id": "COOP:162219",
-            "elevationUnit": "METERS",
-            "longitude": -91.58333
-        },
-        {
             "elevation": 47.2,
             "mindate": "1966-01-01",
             "maxdate": "1975-10-26",
@@ -979,37 +710,6 @@
             "id": "COOP:162235",
             "elevationUnit": "METERS",
             "longitude": -93.638
-        },
-        {
-            "elevation": 49.1,
-            "mindate": "1940-11-01",
-            "maxdate": "1949-03-01",
-            "latitude": 32.25,
-            "name": "DANVILLE, LA US",
-            "datacoverage": 0.9013,
-            "id": "COOP:162285",
-            "elevationUnit": "METERS",
-            "longitude": -92.81667
-        },
-        {
-            "mindate": "1952-03-01",
-            "maxdate": "1953-08-01",
-            "latitude": 32.68333,
-            "name": "D ARBONNE FIRE DNGR, LA US",
-            "datacoverage": 0.8871,
-            "id": "COOP:162287",
-            "longitude": -92.45
-        },
-        {
-            "elevation": 31.1,
-            "mindate": "1947-10-01",
-            "maxdate": "1966-06-29",
-            "latitude": 32.7,
-            "name": "DARNELL 2 N, LA US",
-            "datacoverage": 0.9783,
-            "id": "COOP:162297",
-            "elevationUnit": "METERS",
-            "longitude": -91.45
         },
         {
             "elevation": 3,
@@ -1067,37 +767,6 @@
             "longitude": -93.2869
         },
         {
-            "elevation": 24.1,
-            "mindate": "1940-10-01",
-            "maxdate": "1949-03-01",
-            "latitude": 32.9,
-            "name": "DEAN, LA US",
-            "datacoverage": 0.8629,
-            "id": "COOP:162372",
-            "elevationUnit": "METERS",
-            "longitude": -92.13333
-        },
-        {
-            "mindate": "1931-01-01",
-            "maxdate": "1946-11-01",
-            "latitude": 29.6,
-            "name": "DELTA FARMS, LA ",
-            "datacoverage": 0.7959,
-            "id": "COOP:162411",
-            "longitude": -90.35
-        },
-        {
-            "elevation": 78.9,
-            "mindate": "1947-01-01",
-            "maxdate": "1955-05-01",
-            "latitude": 31.96667,
-            "name": "DESOTO FIRE TOWER, LA US",
-            "datacoverage": 0.3764,
-            "id": "COOP:162439",
-            "elevationUnit": "METERS",
-            "longitude": -93.56667
-        },
-        {
             "elevation": 1.2,
             "mindate": "1958-09-01",
             "maxdate": "1975-07-01",
@@ -1107,28 +776,6 @@
             "id": "COOP:162478",
             "elevationUnit": "METERS",
             "longitude": -89.82222
-        },
-        {
-            "elevation": 61,
-            "mindate": "1947-10-01",
-            "maxdate": "1954-08-01",
-            "latitude": 32.1,
-            "name": "DODSON 6 ENE, LA US",
-            "datacoverage": 0.8449,
-            "id": "COOP:162525",
-            "elevationUnit": "METERS",
-            "longitude": -92.58333
-        },
-        {
-            "elevation": 64,
-            "mindate": "1931-01-01",
-            "maxdate": "1956-12-01",
-            "latitude": 32.1,
-            "name": "DODSON 6 WNW, LA US",
-            "datacoverage": 1,
-            "id": "COOP:162528",
-            "elevationUnit": "METERS",
-            "longitude": -92.76667
         },
         {
             "elevation": 9.1,
@@ -1217,17 +864,6 @@
             "longitude": -89.6
         },
         {
-            "elevation": 14.9,
-            "mindate": "1942-12-01",
-            "maxdate": "1964-12-01",
-            "latitude": 30.7,
-            "name": "ENON 7 WSW, LA US",
-            "datacoverage": 0.9395,
-            "id": "COOP:162916",
-            "elevationUnit": "METERS",
-            "longitude": -90.18333
-        },
-        {
             "elevation": 30.2,
             "mindate": "1966-09-01",
             "maxdate": "1987-02-01",
@@ -1261,15 +897,6 @@
             "longitude": -92.4302
         },
         {
-            "mindate": "1944-03-01",
-            "maxdate": "1957-04-01",
-            "latitude": 30.98333,
-            "name": "EVANS, LA US",
-            "datacoverage": 0.7722,
-            "id": "COOP:163009",
-            "longitude": -93.5
-        },
-        {
             "elevation": 54.9,
             "mindate": "1903-01-01",
             "maxdate": "2015-11-01",
@@ -1279,17 +906,6 @@
             "id": "COOP:163079",
             "elevationUnit": "METERS",
             "longitude": -92.4075
-        },
-        {
-            "elevation": 49.1,
-            "mindate": "1954-07-01",
-            "maxdate": "1965-06-01",
-            "latitude": 32.78333,
-            "name": "FARMERVILLE 6 E, LA US",
-            "datacoverage": 0.9999,
-            "id": "COOP:163087",
-            "elevationUnit": "METERS",
-            "longitude": -92.28333
         },
         {
             "elevation": 67.1,
@@ -1314,26 +930,6 @@
             "longitude": -90.19194
         },
         {
-            "mindate": "1956-05-01",
-            "maxdate": "1956-09-01",
-            "latitude": 30.35,
-            "name": "FONTAINBLEAU STATE P, LA US",
-            "datacoverage": 0.9947,
-            "id": "COOP:163218",
-            "longitude": -90.05
-        },
-        {
-            "elevation": 54.9,
-            "mindate": "1955-05-01",
-            "maxdate": "1967-12-01",
-            "latitude": 31.08333,
-            "name": "FOREST HILL 3 NNE, LA US",
-            "datacoverage": 0.046,
-            "id": "COOP:163262",
-            "elevationUnit": "METERS",
-            "longitude": -92.51667
-        },
-        {
             "elevation": 3.7,
             "mindate": "1931-01-01",
             "maxdate": "2015-11-01",
@@ -1345,17 +941,6 @@
             "longitude": -91.5441
         },
         {
-            "elevation": 37.8,
-            "mindate": "1931-01-01",
-            "maxdate": "1969-06-01",
-            "latitude": 30.84333,
-            "name": "FRANKLINTON, LA US",
-            "datacoverage": 0.9828,
-            "id": "COOP:163321",
-            "elevationUnit": "METERS",
-            "longitude": -90.16194
-        },
-        {
             "elevation": 44.2,
             "mindate": "1978-12-01",
             "maxdate": "2007-04-01",
@@ -1365,17 +950,6 @@
             "id": "COOP:163322",
             "elevationUnit": "METERS",
             "longitude": -90.1625
-        },
-        {
-            "elevation": 73.2,
-            "mindate": "1954-06-01",
-            "maxdate": "1956-07-01",
-            "latitude": 30.78417,
-            "name": "FRANKLINTON 5 SW, LA US",
-            "datacoverage": 0.9223,
-            "id": "COOP:163324",
-            "elevationUnit": "METERS",
-            "longitude": -90.20222
         },
         {
             "elevation": 61,
@@ -1411,17 +985,6 @@
             "longitude": -90.20222
         },
         {
-            "elevation": 3,
-            "mindate": "1947-10-01",
-            "maxdate": "1969-09-19",
-            "latitude": 30.3,
-            "name": "FRENCH SETTLEMENT, LA US",
-            "datacoverage": 0.6253,
-            "id": "COOP:163345",
-            "elevationUnit": "METERS",
-            "longitude": -90.8
-        },
-        {
             "elevation": 1.5,
             "mindate": "1968-01-01",
             "maxdate": "2015-11-01",
@@ -1431,28 +994,6 @@
             "id": "COOP:163433",
             "elevationUnit": "METERS",
             "longitude": -90.3072
-        },
-        {
-            "elevation": 3,
-            "mindate": "1947-04-01",
-            "maxdate": "1947-09-01",
-            "latitude": 29.7,
-            "name": "GHEENS, LA US",
-            "datacoverage": 0.8316,
-            "id": "COOP:163562",
-            "elevationUnit": "METERS",
-            "longitude": -90.46667
-        },
-        {
-            "elevation": 43,
-            "mindate": "1947-10-01",
-            "maxdate": "1955-06-01",
-            "latitude": 30.96667,
-            "name": "GLENMORA, LA US",
-            "datacoverage": 0.7753,
-            "id": "COOP:163639",
-            "elevationUnit": "METERS",
-            "longitude": -92.58333
         },
         {
             "elevation": 78.9,
@@ -1519,17 +1060,6 @@
             "id": "COOP:163794",
             "elevationUnit": "METERS",
             "longitude": -93.8
-        },
-        {
-            "elevation": 3,
-            "mindate": "1940-06-01",
-            "maxdate": "1969-12-01",
-            "latitude": 29.76667,
-            "name": "GRAND CHENIER, LA US",
-            "datacoverage": 0.7887,
-            "id": "COOP:163798",
-            "elevationUnit": "METERS",
-            "longitude": -92.95
         },
         {
             "elevation": 16.8,
@@ -1620,28 +1150,6 @@
             "longitude": -94.0002
         },
         {
-            "elevation": 3,
-            "mindate": "1938-11-01",
-            "maxdate": "1968-10-01",
-            "latitude": 29.95,
-            "name": "GUEYDAN 5 S, LA US",
-            "datacoverage": 0.9611,
-            "id": "COOP:163930",
-            "elevationUnit": "METERS",
-            "longitude": -92.51667
-        },
-        {
-            "elevation": 67.1,
-            "mindate": "1940-07-01",
-            "maxdate": "1954-12-01",
-            "latitude": 31.9,
-            "name": "GUM SPRINGS FIRE TOW, LA US",
-            "datacoverage": 0.7815,
-            "id": "COOP:163944",
-            "elevationUnit": "METERS",
-            "longitude": -92.78333
-        },
-        {
             "elevation": 1.8,
             "mindate": "1939-04-01",
             "maxdate": "2015-11-01",
@@ -1697,17 +1205,6 @@
             "longitude": -93.31017
         },
         {
-            "elevation": 43,
-            "mindate": "1947-08-01",
-            "maxdate": "1959-12-01",
-            "latitude": 32.06667,
-            "name": "HARMON, LA US",
-            "datacoverage": 0.7784,
-            "id": "COOP:164088",
-            "elevationUnit": "METERS",
-            "longitude": -93.43333
-        },
-        {
             "elevation": 18,
             "mindate": "1940-12-01",
             "maxdate": "1972-05-01",
@@ -1728,50 +1225,6 @@
             "id": "COOP:164131",
             "elevationUnit": "METERS",
             "longitude": -93.1297
-        },
-        {
-            "elevation": 6.1,
-            "mindate": "1954-06-01",
-            "maxdate": "1958-11-01",
-            "latitude": 30.35,
-            "name": "HECKER, LA US",
-            "datacoverage": 0.8887,
-            "id": "COOP:164164",
-            "elevationUnit": "METERS",
-            "longitude": -93.08333
-        },
-        {
-            "elevation": 6.1,
-            "mindate": "1962-04-01",
-            "maxdate": "1967-01-01",
-            "latitude": 30.31667,
-            "name": "HENDERSON 2 W, LA US",
-            "datacoverage": 0.9991,
-            "id": "COOP:164186",
-            "elevationUnit": "METERS",
-            "longitude": -91.81667
-        },
-        {
-            "elevation": 24.1,
-            "mindate": "1937-11-01",
-            "maxdate": "1961-12-01",
-            "latitude": 31.06667,
-            "name": "HESSMER, LA US",
-            "datacoverage": 0.9758,
-            "id": "COOP:164200",
-            "elevationUnit": "METERS",
-            "longitude": -92.11667
-        },
-        {
-            "elevation": 21,
-            "mindate": "1947-10-01",
-            "maxdate": "1958-11-28",
-            "latitude": 31.43333,
-            "name": "HICKORY GROVE, LA US",
-            "datacoverage": 0.3544,
-            "id": "COOP:164209",
-            "elevationUnit": "METERS",
-            "longitude": -92.23333
         },
         {
             "elevation": 73.2,
@@ -1796,39 +1249,6 @@
             "longitude": -93.3911
         },
         {
-            "elevation": 24.1,
-            "mindate": "1944-04-01",
-            "maxdate": "1951-11-01",
-            "latitude": 32.46667,
-            "name": "HOLLY RIDGE, LA US",
-            "datacoverage": 0.5979,
-            "id": "COOP:164315",
-            "elevationUnit": "METERS",
-            "longitude": -91.61667
-        },
-        {
-            "elevation": 70.1,
-            "mindate": "1947-10-01",
-            "maxdate": "1952-04-01",
-            "latitude": 32.0775,
-            "name": "MARTIN FIRE TOWER, LA US",
-            "datacoverage": 0.4213,
-            "id": "COOP:164316",
-            "elevationUnit": "METERS",
-            "longitude": -93.21667
-        },
-        {
-            "elevation": 27.1,
-            "mindate": "1957-12-01",
-            "maxdate": "1967-01-01",
-            "latitude": 32.61667,
-            "name": "HOLLY RIDGE 10 N, LA US",
-            "datacoverage": 0.9997,
-            "id": "COOP:164320",
-            "elevationUnit": "METERS",
-            "longitude": -91.63333
-        },
-        {
             "elevation": 65.5,
             "mindate": "1950-01-01",
             "maxdate": "2015-11-01",
@@ -1838,28 +1258,6 @@
             "id": "COOP:164355",
             "elevationUnit": "METERS",
             "longitude": -93.0626
-        },
-        {
-            "elevation": 0.9,
-            "mindate": "1957-09-01",
-            "maxdate": "1965-05-01",
-            "latitude": 29.81667,
-            "name": "HOPEDALE, LA US",
-            "datacoverage": 1,
-            "id": "COOP:164381",
-            "elevationUnit": "METERS",
-            "longitude": -89.65
-        },
-        {
-            "elevation": 128,
-            "mindate": "1947-09-01",
-            "maxdate": "1963-01-01",
-            "latitude": 31.3747,
-            "name": "HODGES GARDENS, LA US",
-            "datacoverage": 0.8701,
-            "id": "COOP:164384",
-            "elevationUnit": "METERS",
-            "longitude": -93.3911
         },
         {
             "elevation": 75,
@@ -1882,28 +1280,6 @@
             "id": "COOP:164407",
             "elevationUnit": "METERS",
             "longitude": -90.816
-        },
-        {
-            "elevation": 3,
-            "mindate": "1947-10-01",
-            "maxdate": "1954-07-01",
-            "latitude": 29.58333,
-            "name": "HOUMA 2, LA US",
-            "datacoverage": 0.8418,
-            "id": "COOP:164410",
-            "elevationUnit": "METERS",
-            "longitude": -90.73333
-        },
-        {
-            "elevation": 82,
-            "mindate": "1947-10-01",
-            "maxdate": "1955-08-01",
-            "latitude": 31.98333,
-            "name": "HUNTER, LA US",
-            "datacoverage": 0.6935,
-            "id": "COOP:164453",
-            "elevationUnit": "METERS",
-            "longitude": -93.83333
         },
         {
             "elevation": 45.7,
@@ -1950,17 +1326,6 @@
             "longitude": -91.7108
         },
         {
-            "elevation": 46,
-            "mindate": "1947-01-01",
-            "maxdate": "1951-12-01",
-            "latitude": 31.68333,
-            "name": "JENA 2 E, LA US",
-            "datacoverage": 0.2167,
-            "id": "COOP:164693",
-            "elevationUnit": "METERS",
-            "longitude": -92.08333
-        },
-        {
             "elevation": 43.6,
             "mindate": "1985-11-01",
             "maxdate": "2015-11-01",
@@ -1992,17 +1357,6 @@
             "id": "COOP:164702",
             "elevationUnit": "METERS",
             "longitude": -92.66667
-        },
-        {
-            "elevation": 31.1,
-            "mindate": "1940-04-01",
-            "maxdate": "1950-08-01",
-            "latitude": 32.96667,
-            "name": "JONES, LA US",
-            "datacoverage": 0.7839,
-            "id": "COOP:164730",
-            "elevationUnit": "METERS",
-            "longitude": -91.65
         },
         {
             "elevation": 100.6,
@@ -2137,15 +1491,6 @@
             "longitude": -91.75
         },
         {
-            "mindate": "1957-04-01",
-            "maxdate": "1957-05-01",
-            "latitude": 30.28333,
-            "name": "LACOMBE 2 SSW, LA US",
-            "datacoverage": 0.998,
-            "id": "COOP:165008",
-            "longitude": -89.95
-        },
-        {
             "elevation": 7.6,
             "mindate": "1952-03-01",
             "maxdate": "2015-11-01",
@@ -2166,15 +1511,6 @@
             "id": "COOP:165026",
             "elevationUnit": "METERS",
             "longitude": -91.9875
-        },
-        {
-            "mindate": "1947-08-01",
-            "maxdate": "1948-05-01",
-            "latitude": 30.23333,
-            "name": "LAFAYETTE 2 S, LA US",
-            "datacoverage": 0.998,
-            "id": "COOP:165028",
-            "longitude": -92
         },
         {
             "elevation": 3.4,
@@ -2210,15 +1546,6 @@
             "longitude": -93.2186
         },
         {
-            "mindate": "1948-09-01",
-            "maxdate": "1959-07-01",
-            "latitude": 30.21667,
-            "name": "LAKE CHARLES, LA US",
-            "datacoverage": 0.9698,
-            "id": "COOP:165075",
-            "longitude": -93.21667
-        },
-        {
             "elevation": 1.5,
             "mindate": "1994-09-01",
             "maxdate": "2015-11-01",
@@ -2228,17 +1555,6 @@
             "id": "COOP:165076",
             "elevationUnit": "METERS",
             "longitude": -93.2494
-        },
-        {
-            "elevation": 5.2,
-            "mindate": "1947-01-01",
-            "maxdate": "1961-12-26",
-            "latitude": 30.21028,
-            "name": "LAKE CHARLES CHENNAULT INTERNATIONAL AIRPORT, LA US",
-            "datacoverage": 0.9722,
-            "id": "COOP:165077",
-            "elevationUnit": "METERS",
-            "longitude": -93.14333
         },
         {
             "elevation": 2.7,
@@ -2329,17 +1645,6 @@
             "longitude": -92.2046
         },
         {
-            "elevation": 9.1,
-            "mindate": "1947-10-01",
-            "maxdate": "1968-12-30",
-            "latitude": 30.96667,
-            "name": "LETTSWORTH, LA US",
-            "datacoverage": 1,
-            "id": "COOP:165335",
-            "elevationUnit": "METERS",
-            "longitude": -91.71667
-        },
-        {
             "elevation": 76.2,
             "mindate": "1980-02-01",
             "maxdate": "2014-12-01",
@@ -2395,15 +1700,6 @@
             "longitude": -93.23333
         },
         {
-            "mindate": "1953-07-01",
-            "maxdate": "1955-06-01",
-            "latitude": 32.63333,
-            "name": "LONGWOOD FIRE TOWER, LA US",
-            "datacoverage": 1,
-            "id": "COOP:165596",
-            "longitude": -93.96667
-        },
-        {
             "elevation": -1.5,
             "mindate": "1981-01-01",
             "maxdate": "2005-08-01",
@@ -2448,15 +1744,6 @@
             "longitude": -92.4108
         },
         {
-            "mindate": "1952-01-01",
-            "maxdate": "1955-06-01",
-            "latitude": 32.36667,
-            "name": "LUNA FIRE TOWER, LA US",
-            "datacoverage": 1,
-            "id": "COOP:165713",
-            "longitude": -92.21667
-        },
-        {
             "elevation": 6.1,
             "mindate": "1993-02-01",
             "maxdate": "2015-11-01",
@@ -2499,17 +1786,6 @@
             "id": "COOP:165875",
             "elevationUnit": "METERS",
             "longitude": -93.7433
-        },
-        {
-            "elevation": 70.1,
-            "mindate": "1947-10-01",
-            "maxdate": "1957-12-01",
-            "latitude": 31.56667,
-            "name": "MANY, LA US",
-            "datacoverage": 0.5952,
-            "id": "COOP:165890",
-            "elevationUnit": "METERS",
-            "longitude": -93.48333
         },
         {
             "elevation": 77.7,
@@ -2589,15 +1865,6 @@
             "longitude": -91.73333
         },
         {
-            "mindate": "1953-08-01",
-            "maxdate": "1955-05-01",
-            "latitude": 30.95,
-            "name": "MERIDIAN FIRE TOWER, LA US",
-            "datacoverage": 1,
-            "id": "COOP:166132",
-            "longitude": -92.4
-        },
-        {
             "elevation": 4.9,
             "mindate": "1943-01-01",
             "maxdate": "1988-05-01",
@@ -2631,17 +1898,6 @@
             "longitude": -90.14306
         },
         {
-            "elevation": 39.9,
-            "mindate": "1951-01-01",
-            "maxdate": "1964-12-01",
-            "latitude": 31.46667,
-            "name": "MILAM TEXAS 8 E, LA US",
-            "datacoverage": 0.9999,
-            "id": "COOP:166202",
-            "elevationUnit": "METERS",
-            "longitude": -93.73333
-        },
-        {
             "elevation": 56.4,
             "mindate": "1931-01-01",
             "maxdate": "2015-11-01",
@@ -2653,28 +1909,6 @@
             "longitude": -93.2947
         },
         {
-            "elevation": 75.9,
-            "mindate": "1960-03-01",
-            "maxdate": "1964-04-01",
-            "latitude": 32.61667,
-            "name": "MINDEN 2, LA US",
-            "datacoverage": 0.0475,
-            "id": "COOP:166245",
-            "elevationUnit": "METERS",
-            "longitude": -93.28333
-        },
-        {
-            "elevation": 73.2,
-            "mindate": "1947-11-01",
-            "maxdate": "1960-04-01",
-            "latitude": 32.68333,
-            "name": "MINDEN 4 NNW, LA US",
-            "datacoverage": 0.7283,
-            "id": "COOP:166246",
-            "elevationUnit": "METERS",
-            "longitude": -93.3
-        },
-        {
             "elevation": 36.6,
             "mindate": "1954-06-01",
             "maxdate": "1985-12-01",
@@ -2684,17 +1918,6 @@
             "id": "COOP:166271",
             "elevationUnit": "METERS",
             "longitude": -92.88333
-        },
-        {
-            "elevation": 1.2,
-            "mindate": "1947-01-01",
-            "maxdate": "1953-12-30",
-            "latitude": 29.99691,
-            "name": "NEW ORLEANS AIRPORT, LA US",
-            "datacoverage": 0.9285,
-            "id": "COOP:166295",
-            "elevationUnit": "METERS",
-            "longitude": -90.27751
         },
         {
             "elevation": 24.1,
@@ -2719,17 +1942,6 @@
             "longitude": -92.11667
         },
         {
-            "elevation": 9.4,
-            "mindate": "1947-09-01",
-            "maxdate": "1965-05-01",
-            "latitude": 32.51806,
-            "name": "MONROE, LA US",
-            "datacoverage": 0.1033,
-            "id": "COOP:166308",
-            "elevationUnit": "METERS",
-            "longitude": -92.13611
-        },
-        {
             "elevation": 24.1,
             "mindate": "1965-05-01",
             "maxdate": "1977-08-01",
@@ -2750,28 +1962,6 @@
             "id": "COOP:166314",
             "elevationUnit": "METERS",
             "longitude": -92.0319
-        },
-        {
-            "elevation": 31.1,
-            "mindate": "1947-10-01",
-            "maxdate": "1968-06-26",
-            "latitude": 31.66667,
-            "name": "MONTGOMERY, LA US",
-            "datacoverage": 0.956,
-            "id": "COOP:166324",
-            "elevationUnit": "METERS",
-            "longitude": -92.9
-        },
-        {
-            "elevation": 31.1,
-            "mindate": "1947-09-01",
-            "maxdate": "1948-06-01",
-            "latitude": 31.55,
-            "name": "MONTROSE, LA US",
-            "datacoverage": 0.801,
-            "id": "COOP:166333",
-            "elevationUnit": "METERS",
-            "longitude": -93
         },
         {
             "elevation": 61,
@@ -2862,24 +2052,6 @@
             "longitude": -93.0856
         },
         {
-            "mindate": "1943-05-01",
-            "maxdate": "1960-05-01",
-            "latitude": 29.88333,
-            "name": "NAVAL AMMUNITION DEP, LA US",
-            "datacoverage": 0.9267,
-            "id": "COOP:166585",
-            "longitude": -89.98333
-        },
-        {
-            "mindate": "1947-09-01",
-            "maxdate": "1947-12-01",
-            "latitude": 31.36667,
-            "name": "NEW ERA, LA US",
-            "datacoverage": 0.7485,
-            "id": "COOP:166636",
-            "longitude": -91.83333
-        },
-        {
             "elevation": 7.3,
             "mindate": "1947-09-01",
             "maxdate": "2015-11-01",
@@ -2913,28 +2085,6 @@
             "longitude": -90.27751
         },
         {
-            "elevation": 2.7,
-            "mindate": "1937-01-01",
-            "maxdate": "1954-06-01",
-            "latitude": 30.0494,
-            "name": "NEW ORLEANS LAKEFRONT AIRPORT, LA US",
-            "datacoverage": 0.9765,
-            "id": "COOP:166661",
-            "elevationUnit": "METERS",
-            "longitude": -90.0288
-        },
-        {
-            "elevation": 1.5,
-            "mindate": "1956-06-01",
-            "maxdate": "1959-12-01",
-            "latitude": 29.81667,
-            "name": "NEW ORLEANS ALVIN CALLENDER FIELD, LA US",
-            "datacoverage": 0.9999,
-            "id": "COOP:166662",
-            "elevationUnit": "METERS",
-            "longitude": -90.01667
-        },
-        {
             "elevation": 6.1,
             "mindate": "1962-10-01",
             "maxdate": "2015-11-01",
@@ -2944,17 +2094,6 @@
             "id": "COOP:166664",
             "elevationUnit": "METERS",
             "longitude": -90.1302
-        },
-        {
-            "elevation": 3,
-            "mindate": "1931-01-01",
-            "maxdate": "1963-10-01",
-            "latitude": 29.91667,
-            "name": "NEW ORLEANS AUDUBON, LA US",
-            "datacoverage": 0.9056,
-            "id": "COOP:166665",
-            "elevationUnit": "METERS",
-            "longitude": -90.13333
         },
         {
             "elevation": 0.6,
@@ -3046,28 +2185,6 @@
         },
         {
             "elevation": 0,
-            "mindate": "1947-10-01",
-            "maxdate": "1947-12-01",
-            "latitude": 29.93472,
-            "name": "NEW ORLEANS CARROLLTON, LA US",
-            "datacoverage": 0.9925,
-            "id": "COOP:166676",
-            "elevationUnit": "METERS",
-            "longitude": -90.13611
-        },
-        {
-            "elevation": -0.6,
-            "mindate": "1954-07-01",
-            "maxdate": "1961-06-01",
-            "latitude": 30.01667,
-            "name": "NEW ORLEANS PINES VIL, LA US",
-            "datacoverage": 0.9999,
-            "id": "COOP:166678",
-            "elevationUnit": "METERS",
-            "longitude": -90.01667
-        },
-        {
-            "elevation": 0,
             "mindate": "1970-01-01",
             "maxdate": "1991-02-01",
             "latitude": 29.99028,
@@ -3089,17 +2206,6 @@
             "longitude": -91.3672
         },
         {
-            "elevation": 3,
-            "mindate": "1942-12-01",
-            "maxdate": "1955-04-01",
-            "latitude": 30.55,
-            "name": "NORTH LIVINGSTON, LA US",
-            "datacoverage": 0.8861,
-            "id": "COOP:166794",
-            "elevationUnit": "METERS",
-            "longitude": -90.75
-        },
-        {
             "elevation": 31.1,
             "mindate": "1999-02-01",
             "maxdate": "2015-11-01",
@@ -3109,17 +2215,6 @@
             "id": "COOP:166808",
             "elevationUnit": "METERS",
             "longitude": -91.1003
-        },
-        {
-            "elevation": 3,
-            "mindate": "1952-01-01",
-            "maxdate": "1954-12-01",
-            "latitude": 30.35,
-            "name": "NOTT FIRE TOWER, LA US",
-            "datacoverage": 0.9164,
-            "id": "COOP:166818",
-            "elevationUnit": "METERS",
-            "longitude": -90.01667
         },
         {
             "elevation": 33.5,
@@ -3221,17 +2316,6 @@
             "longitude": -92.0925
         },
         {
-            "elevation": 21,
-            "mindate": "1950-03-01",
-            "maxdate": "1968-12-31",
-            "latitude": 30.55,
-            "name": "OPELOUSAS AIRPORT, LA US",
-            "datacoverage": 0.6834,
-            "id": "COOP:167001",
-            "elevationUnit": "METERS",
-            "longitude": -92.08333
-        },
-        {
             "elevation": 1.5,
             "mindate": "1931-01-01",
             "maxdate": "2012-12-01",
@@ -3243,17 +2327,6 @@
             "longitude": -90.4286
         },
         {
-            "elevation": 4,
-            "mindate": "1931-01-01",
-            "maxdate": "1962-12-01",
-            "latitude": 30.385,
-            "name": "PEARL RIVER, LA US",
-            "datacoverage": 0.9714,
-            "id": "COOP:167160",
-            "elevationUnit": "METERS",
-            "longitude": -89.73667
-        },
-        {
             "elevation": 9.1,
             "mindate": "1948-01-01",
             "maxdate": "1985-03-01",
@@ -3263,26 +2336,6 @@
             "id": "COOP:167161",
             "elevationUnit": "METERS",
             "longitude": -89.78333
-        },
-        {
-            "elevation": 15.2,
-            "mindate": "1949-03-01",
-            "maxdate": "1950-05-01",
-            "latitude": 30.58333,
-            "name": "PEARL RIVER, LA US",
-            "datacoverage": 0.9324,
-            "id": "COOP:167162",
-            "elevationUnit": "METERS",
-            "longitude": -89.85
-        },
-        {
-            "mindate": "1947-01-01",
-            "maxdate": "1964-11-01",
-            "latitude": 29.65,
-            "name": "PECAN ISLAND, LA US",
-            "datacoverage": 0.5458,
-            "id": "COOP:167174",
-            "longitude": -92.43333
         },
         {
             "elevation": 57.9,
@@ -3307,17 +2360,6 @@
             "longitude": -91.535
         },
         {
-            "elevation": 46,
-            "mindate": "1953-02-01",
-            "maxdate": "1953-10-01",
-            "latitude": 30.91667,
-            "name": "PITKIN 1 SE, LA US",
-            "datacoverage": 0.5575,
-            "id": "COOP:167331",
-            "elevationUnit": "METERS",
-            "longitude": -92.91667
-        },
-        {
             "elevation": 76.5,
             "mindate": "1931-01-01",
             "maxdate": "2015-11-01",
@@ -3327,37 +2369,6 @@
             "id": "COOP:167344",
             "elevationUnit": "METERS",
             "longitude": -93.6944
-        },
-        {
-            "mindate": "1947-10-01",
-            "maxdate": "1949-01-01",
-            "latitude": 32.91667,
-            "name": "PLAIN DEALING 2, LA US",
-            "datacoverage": 0.0272,
-            "id": "COOP:167348",
-            "longitude": -93.7
-        },
-        {
-            "elevation": 107,
-            "mindate": "1967-06-01",
-            "maxdate": "1969-06-01",
-            "latitude": 32.9,
-            "name": "PLAIN DEALING FIRE T, LA US",
-            "datacoverage": 0.0563,
-            "id": "COOP:167352",
-            "elevationUnit": "METERS",
-            "longitude": -93.6
-        },
-        {
-            "elevation": 6.1,
-            "mindate": "1944-05-01",
-            "maxdate": "1964-12-01",
-            "latitude": 30.3214,
-            "name": "PLAQUEMINE 2 N, LA US",
-            "datacoverage": 0.9491,
-            "id": "COOP:167364",
-            "elevationUnit": "METERS",
-            "longitude": -91.2517
         },
         {
             "elevation": 6.1,
@@ -3382,17 +2393,6 @@
             "longitude": -89.82222
         },
         {
-            "elevation": 70.1,
-            "mindate": "1935-04-01",
-            "maxdate": "1965-12-01",
-            "latitude": 31.5,
-            "name": "POLLOCK FOREST NURSE, LA US",
-            "datacoverage": 0.9836,
-            "id": "COOP:167421",
-            "elevationUnit": "METERS",
-            "longitude": -92.46667
-        },
-        {
             "elevation": 61,
             "mindate": "1955-12-01",
             "maxdate": "1970-06-27",
@@ -3415,17 +2415,6 @@
             "longitude": -90.4497
         },
         {
-            "elevation": 9.1,
-            "mindate": "1956-12-01",
-            "maxdate": "1966-03-01",
-            "latitude": 30.25009,
-            "name": "PONTCHARTRAIN CAUSEW, LA ",
-            "datacoverage": 0.9378,
-            "id": "COOP:167432",
-            "elevationUnit": "METERS",
-            "longitude": -90.11401
-        },
-        {
             "elevation": 4.6,
             "mindate": "1975-03-01",
             "maxdate": "2015-11-01",
@@ -3435,28 +2424,6 @@
             "id": "COOP:167448",
             "elevationUnit": "METERS",
             "longitude": -91.2183
-        },
-        {
-            "elevation": 3,
-            "mindate": "1931-01-01",
-            "maxdate": "1942-02-01",
-            "latitude": 29.01694,
-            "name": "PORT EADS, LA US",
-            "datacoverage": 0.9855,
-            "id": "COOP:167457",
-            "elevationUnit": "METERS",
-            "longitude": -89.17027
-        },
-        {
-            "elevation": 3,
-            "mindate": "1935-08-01",
-            "maxdate": "1964-12-01",
-            "latitude": 29.48333,
-            "name": "PORT SULPHUR, LA US",
-            "datacoverage": 0.9744,
-            "id": "COOP:167471",
-            "elevationUnit": "METERS",
-            "longitude": -89.7
         },
         {
             "elevation": 4.6,
@@ -3503,28 +2470,6 @@
             "longitude": -93.21722
         },
         {
-            "elevation": 9.1,
-            "mindate": "1954-10-01",
-            "maxdate": "1968-03-01",
-            "latitude": 30.33333,
-            "name": "RAYNE 6 N, LA US",
-            "datacoverage": 1,
-            "id": "COOP:167678",
-            "elevationUnit": "METERS",
-            "longitude": -92.26667
-        },
-        {
-            "elevation": 24.1,
-            "mindate": "1953-08-01",
-            "maxdate": "1956-12-01",
-            "latitude": 32.5,
-            "name": "RAYVILLE 2 N, LA US",
-            "datacoverage": 0.9991,
-            "id": "COOP:167680",
-            "elevationUnit": "METERS",
-            "longitude": -91.76667
-        },
-        {
             "elevation": 27.1,
             "mindate": "1986-04-01",
             "maxdate": "2015-11-01",
@@ -3534,17 +2479,6 @@
             "id": "COOP:167691",
             "elevationUnit": "METERS",
             "longitude": -91.7486
-        },
-        {
-            "elevation": 0,
-            "mindate": "1947-08-01",
-            "maxdate": "1948-05-01",
-            "latitude": 30.96667,
-            "name": "RED RIVER LANDING, LA US",
-            "datacoverage": 0.998,
-            "id": "COOP:167726",
-            "elevationUnit": "METERS",
-            "longitude": -91.66667
         },
         {
             "elevation": 21.3,
@@ -3600,17 +2534,6 @@
             "id": "COOP:167897",
             "elevationUnit": "METERS",
             "longitude": -92.10769
-        },
-        {
-            "elevation": 46,
-            "mindate": "1931-01-01",
-            "maxdate": "1957-12-01",
-            "latitude": 31.68333,
-            "name": "ROBELINE, LA US",
-            "datacoverage": 0.9506,
-            "id": "COOP:167905",
-            "elevationUnit": "METERS",
-            "longitude": -93.3
         },
         {
             "elevation": 48.8,
@@ -3778,17 +2701,6 @@
             "longitude": -91.15806
         },
         {
-            "elevation": 73.2,
-            "mindate": "1947-04-01",
-            "maxdate": "1955-03-01",
-            "latitude": 32.9922,
-            "name": "SPRINGHILL, LA US",
-            "datacoverage": 0.8854,
-            "id": "COOP:168263",
-            "elevationUnit": "METERS",
-            "longitude": -93.4418
-        },
-        {
             "elevation": 4.6,
             "mindate": "1931-01-01",
             "maxdate": "1974-10-01",
@@ -3877,28 +2789,6 @@
             "longitude": -93.8416
         },
         {
-            "elevation": 54.9,
-            "mindate": "1953-07-01",
-            "maxdate": "1969-12-01",
-            "latitude": 32.08333,
-            "name": "SIKES 2 E, LA US",
-            "datacoverage": 0.9593,
-            "id": "COOP:168489",
-            "elevationUnit": "METERS",
-            "longitude": -92.46667
-        },
-        {
-            "elevation": 46,
-            "mindate": "1941-01-01",
-            "maxdate": "1951-02-01",
-            "latitude": 32.1,
-            "name": "SIKES 11 E, LA US",
-            "datacoverage": 0.5741,
-            "id": "COOP:168492",
-            "elevationUnit": "METERS",
-            "longitude": -92.33333
-        },
-        {
             "elevation": 14.9,
             "mindate": "1931-01-01",
             "maxdate": "1987-06-01",
@@ -3908,17 +2798,6 @@
             "id": "COOP:168507",
             "elevationUnit": "METERS",
             "longitude": -91.81667
-        },
-        {
-            "elevation": 92,
-            "mindate": "1944-06-01",
-            "maxdate": "1968-09-01",
-            "latitude": 31.26667,
-            "name": "SIMPSON, LA US",
-            "datacoverage": 0.9349,
-            "id": "COOP:168513",
-            "elevationUnit": "METERS",
-            "longitude": -93
         },
         {
             "elevation": 67.1,
@@ -4020,15 +2899,6 @@
             "longitude": -90.65
         },
         {
-            "mindate": "1952-08-01",
-            "maxdate": "1955-06-01",
-            "latitude": 30.31667,
-            "name": "STARKS FIRE TOWER, LA US",
-            "datacoverage": 0.801,
-            "id": "COOP:168750",
-            "longitude": -93.66667
-        },
-        {
             "elevation": 25.9,
             "mindate": "1940-09-01",
             "maxdate": "2010-04-01",
@@ -4060,15 +2930,6 @@
             "id": "COOP:168795",
             "elevationUnit": "METERS",
             "longitude": -91.96667
-        },
-        {
-            "mindate": "1957-03-01",
-            "maxdate": "1967-05-01",
-            "latitude": 30.65,
-            "name": "STONYPOINT, LA US",
-            "datacoverage": 0.943,
-            "id": "COOP:168813",
-            "longitude": -90.93333
         },
         {
             "elevation": 51.8,
@@ -4192,17 +3053,6 @@
             "longitude": -93.5726
         },
         {
-            "elevation": 31.1,
-            "mindate": "1929-07-01",
-            "maxdate": "1969-12-01",
-            "latitude": 31.86667,
-            "name": "URANIA, LA US",
-            "datacoverage": 0.9711,
-            "id": "COOP:169235",
-            "elevationUnit": "METERS",
-            "longitude": -92.3
-        },
-        {
             "elevation": 67.1,
             "mindate": "1982-10-01",
             "maxdate": "1985-05-01",
@@ -4269,17 +3119,6 @@
             "longitude": -93.6777
         },
         {
-            "elevation": 3,
-            "mindate": "1955-04-01",
-            "maxdate": "1968-09-01",
-            "latitude": 29.91667,
-            "name": "VIOLET, LA US",
-            "datacoverage": 0.9627,
-            "id": "COOP:169378",
-            "elevationUnit": "METERS",
-            "longitude": -89.9
-        },
-        {
             "elevation": 67.1,
             "mindate": "1985-04-01",
             "maxdate": "2013-12-01",
@@ -4302,17 +3141,6 @@
             "longitude": -90.92139
         },
         {
-            "elevation": 54.9,
-            "mindate": "1941-09-01",
-            "maxdate": "1951-08-01",
-            "latitude": 32.86667,
-            "name": "WELDON, LA US",
-            "datacoverage": 0.8418,
-            "id": "COOP:169583",
-            "elevationUnit": "METERS",
-            "longitude": -92.73333
-        },
-        {
             "mindate": "1953-04-01",
             "maxdate": "1980-03-01",
             "latitude": 32.16667,
@@ -4331,17 +3159,6 @@
             "id": "COOP:169631",
             "elevationUnit": "METERS",
             "longitude": -92.1483
-        },
-        {
-            "elevation": 73.2,
-            "mindate": "1947-10-01",
-            "maxdate": "1966-06-30",
-            "latitude": 30.91667,
-            "name": "WEYANOKE 2 SW, LA US",
-            "datacoverage": 0.7436,
-            "id": "COOP:169661",
-            "elevationUnit": "METERS",
-            "longitude": -91.46667
         },
         {
             "elevation": 48.8,
@@ -4388,39 +3205,6 @@
             "longitude": -92.65528
         },
         {
-            "elevation": 98.1,
-            "mindate": "1944-01-01",
-            "maxdate": "1957-12-01",
-            "latitude": 30.95,
-            "name": "WOODLAND, LA US",
-            "datacoverage": 0.9166,
-            "id": "COOP:169838",
-            "elevationUnit": "METERS",
-            "longitude": -90.93333
-        },
-        {
-            "elevation": 21,
-            "mindate": "1931-01-01",
-            "maxdate": "1956-08-01",
-            "latitude": 31.13333,
-            "name": "WOODWORTH 3 ESE, LA US",
-            "datacoverage": 0.9675,
-            "id": "COOP:169860",
-            "elevationUnit": "METERS",
-            "longitude": -92.45
-        },
-        {
-            "elevation": 27.1,
-            "mindate": "1948-04-01",
-            "maxdate": "1949-11-01",
-            "latitude": 31.18333,
-            "name": "WOODWORTH TOWER, LA US",
-            "datacoverage": 0.4998,
-            "id": "COOP:169864",
-            "elevationUnit": "METERS",
-            "longitude": -92.56667
-        },
-        {
             "elevation": 35.4,
             "mindate": "1956-09-01",
             "maxdate": "1985-06-01",
@@ -4452,28 +3236,6 @@
             "id": "COOP:169980",
             "elevationUnit": "METERS",
             "longitude": -93.6633
-        },
-        {
-            "elevation": 27.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1988-06-01",
-            "latitude": 30.73333,
-            "name": "BON WIER, TX US",
-            "datacoverage": 0.974,
-            "id": "COOP:410917",
-            "elevationUnit": "METERS",
-            "longitude": -93.65
-        },
-        {
-            "elevation": 61,
-            "mindate": "1948-03-01",
-            "maxdate": "1969-06-01",
-            "latitude": 31.46667,
-            "name": "MILAM 6 ENE, TX US",
-            "datacoverage": 0.2773,
-            "id": "COOP:415915",
-            "elevationUnit": "METERS",
-            "longitude": -93.75
         },
         {
             "elevation": 57.9,
@@ -6907,17 +5669,6 @@
             "longitude": -90.0519
         },
         {
-            "elevation": 14.9,
-            "mindate": "1951-10-01",
-            "maxdate": "1959-02-28",
-            "latitude": 31.28333,
-            "name": "ACME, LA US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00160028",
-            "elevationUnit": "METERS",
-            "longitude": -91.81667
-        },
-        {
             "elevation": 67.1,
             "mindate": "1982-10-01",
             "maxdate": "1985-05-31",
@@ -6938,17 +5689,6 @@
             "id": "GHCND:USC00160098",
             "elevationUnit": "METERS",
             "longitude": -92.4611
-        },
-        {
-            "elevation": 13.4,
-            "mindate": "1948-01-01",
-            "maxdate": "1967-05-31",
-            "latitude": 31.31667,
-            "name": "ALEXANDRIA NUMBER 2, LA US",
-            "datacoverage": 0.9572,
-            "id": "GHCND:USC00160101",
-            "elevationUnit": "METERS",
-            "longitude": -92.45
         },
         {
             "elevation": 25.9,
@@ -6973,17 +5713,6 @@
             "longitude": -90.525
         },
         {
-            "elevation": 6.1,
-            "mindate": "1943-02-01",
-            "maxdate": "1969-12-31",
-            "latitude": 30.08333,
-            "name": "ANDREW, LA US",
-            "datacoverage": 0.9907,
-            "id": "GHCND:USC00160232",
-            "elevationUnit": "METERS",
-            "longitude": -92.25
-        },
-        {
             "elevation": 39.6,
             "mindate": "1995-01-01",
             "maxdate": "2011-03-05",
@@ -6993,17 +5722,6 @@
             "id": "GHCND:USC00160238",
             "elevationUnit": "METERS",
             "longitude": -89.815
-        },
-        {
-            "elevation": 11.9,
-            "mindate": "1913-08-01",
-            "maxdate": "1965-01-31",
-            "latitude": 30.95,
-            "name": "ANGOLA, LA US",
-            "datacoverage": 0.9336,
-            "id": "GHCND:USC00160244",
-            "elevationUnit": "METERS",
-            "longitude": -91.58333
         },
         {
             "elevation": 106.1,
@@ -7039,17 +5757,6 @@
             "longitude": -93.1163
         },
         {
-            "elevation": 9.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1969-07-31",
-            "latitude": 30.35,
-            "name": "ATCHAFALAYA, LA US",
-            "datacoverage": 0.972,
-            "id": "GHCND:USC00160367",
-            "elevationUnit": "METERS",
-            "longitude": -91.71667
-        },
-        {
             "elevation": 154.8,
             "mindate": "1984-02-01",
             "maxdate": "1985-05-31",
@@ -7061,28 +5768,6 @@
             "longitude": -93.06667
         },
         {
-            "elevation": 2.7,
-            "mindate": "1911-10-01",
-            "maxdate": "1925-12-31",
-            "latitude": 29.683333,
-            "name": "AVOCA ISLAND, LA US",
-            "datacoverage": 0.9647,
-            "id": "GHCND:USC00160395",
-            "elevationUnit": "METERS",
-            "longitude": -91.2
-        },
-        {
-            "elevation": 73.2,
-            "mindate": "1935-03-01",
-            "maxdate": "1937-08-31",
-            "latitude": 30.81667,
-            "name": "BAINS, LA US",
-            "datacoverage": 0.9973,
-            "id": "GHCND:USC00160422",
-            "elevationUnit": "METERS",
-            "longitude": -91.38333
-        },
-        {
             "elevation": 21.3,
             "mindate": "1980-02-01",
             "maxdate": "2020-03-18",
@@ -7092,17 +5777,6 @@
             "id": "GHCND:USC00160462",
             "elevationUnit": "METERS",
             "longitude": -91.1633
-        },
-        {
-            "elevation": 1.2,
-            "mindate": "1943-01-01",
-            "maxdate": "1957-12-31",
-            "latitude": 30.48333,
-            "name": "BASILE 2 W, LA US",
-            "datacoverage": 0.9722,
-            "id": "GHCND:USC00160526",
-            "elevationUnit": "METERS",
-            "longitude": -92.63333
         },
         {
             "elevation": 45.7,
@@ -7154,7 +5828,7 @@
             "maxdate": "2018-07-11",
             "latitude": 30.4291,
             "name": "BATON ROUGE, LA US",
-            "datacoverage": 0.7773,
+            "datacoverage": 0.4859,
             "id": "GHCND:USC00160555",
             "elevationUnit": "METERS",
             "longitude": -91.2069
@@ -7259,17 +5933,6 @@
             "longitude": -93.6619
         },
         {
-            "elevation": 54.3,
-            "mindate": "1941-01-01",
-            "maxdate": "1951-09-30",
-            "latitude": 32.78333,
-            "name": "BERNICE 2 S, LA US",
-            "datacoverage": 0.5373,
-            "id": "GHCND:USC00160761",
-            "elevationUnit": "METERS",
-            "longitude": -92.66667
-        },
-        {
             "elevation": 93.6,
             "mindate": "1972-01-01",
             "maxdate": "2020-05-16",
@@ -7303,32 +5966,12 @@
             "longitude": -89.8567
         },
         {
-            "elevation": 16.8,
-            "mindate": "1948-01-01",
-            "maxdate": "1960-01-31",
-            "latitude": 30.7931,
-            "name": "BOGALUSA 2, LA US",
-            "datacoverage": 0.9925,
-            "id": "GHCND:USC00160947",
-            "elevationUnit": "METERS",
-            "longitude": -89.8208
-        },
-        {
-            "mindate": "1951-05-01",
-            "maxdate": "1964-06-30",
-            "latitude": 32.88333,
-            "name": "BONITA 3 S, LA US",
-            "datacoverage": 0.9176,
-            "id": "GHCND:USC00160989",
-            "longitude": -91.66667
-        },
-        {
             "elevation": 14.9,
             "mindate": "1959-11-01",
             "maxdate": "1970-01-31",
             "latitude": 31.33333,
             "name": "BOOK, LA US",
-            "datacoverage": 0.9992,
+            "datacoverage": 0.9839,
             "id": "GHCND:USC00161152",
             "elevationUnit": "METERS",
             "longitude": -91.86667
@@ -7411,24 +6054,6 @@
             "longitude": -89.51583
         },
         {
-            "mindate": "1900-03-01",
-            "maxdate": "1913-12-31",
-            "latitude": 30.15,
-            "name": "BURNSIDE, LA US",
-            "datacoverage": 0.9877,
-            "id": "GHCND:USC00161323",
-            "longitude": -90.91667
-        },
-        {
-            "mindate": "1944-02-01",
-            "maxdate": "1946-11-30",
-            "latitude": 31.06667,
-            "name": "BURR FERRY, LA US",
-            "datacoverage": 0.8242,
-            "id": "GHCND:USC00161331",
-            "longitude": -93.5
-        },
-        {
             "elevation": 1.5,
             "mindate": "1978-04-01",
             "maxdate": "2013-06-29",
@@ -7438,15 +6063,6 @@
             "id": "GHCND:USC00161365",
             "elevationUnit": "METERS",
             "longitude": -91.6911
-        },
-        {
-            "mindate": "1910-06-01",
-            "maxdate": "1919-12-31",
-            "latitude": 30.1,
-            "name": "CADES, LA US",
-            "datacoverage": 0.9911,
-            "id": "GHCND:USC00161380",
-            "longitude": -91.9
         },
         {
             "elevation": 36.6,
@@ -7460,50 +6076,6 @@
             "longitude": -92.3487
         },
         {
-            "elevation": 3,
-            "mindate": "1893-01-01",
-            "maxdate": "1949-04-22",
-            "latitude": 29.8,
-            "name": "CAMERON, LA US",
-            "datacoverage": 0.3595,
-            "id": "GHCND:USC00161425",
-            "elevationUnit": "METERS",
-            "longitude": -93.316667
-        },
-        {
-            "elevation": 47.9,
-            "mindate": "1919-01-01",
-            "maxdate": "1945-12-31",
-            "latitude": 31.36667,
-            "name": "CAMP BEAUREGARD ASC, LA US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00161431",
-            "elevationUnit": "METERS",
-            "longitude": -92.4
-        },
-        {
-            "elevation": 70.1,
-            "mindate": "1941-08-01",
-            "maxdate": "1946-08-31",
-            "latitude": 31.45,
-            "name": "CAMP LIVINGSTON, LA US",
-            "datacoverage": 0.9998,
-            "id": "GHCND:USC00161443",
-            "elevationUnit": "METERS",
-            "longitude": -92.36667
-        },
-        {
-            "elevation": 107,
-            "mindate": "1938-12-01",
-            "maxdate": "1959-10-31",
-            "latitude": 31.06667,
-            "name": "CAMP POLK, LA US",
-            "datacoverage": 0.992,
-            "id": "GHCND:USC00161446",
-            "elevationUnit": "METERS",
-            "longitude": -93.2
-        },
-        {
             "elevation": 10.7,
             "mindate": "1986-05-01",
             "maxdate": "2020-05-17",
@@ -7513,17 +6085,6 @@
             "id": "GHCND:USC00161535",
             "elevationUnit": "METERS",
             "longitude": -92.04455
-        },
-        {
-            "elevation": 2.1,
-            "mindate": "1911-03-01",
-            "maxdate": "1932-07-31",
-            "latitude": 29.933333,
-            "name": "CARROLLTON, LA US",
-            "datacoverage": 0.8131,
-            "id": "GHCND:USC00161560",
-            "elevationUnit": "METERS",
-            "longitude": -90.116667
         },
         {
             "elevation": 7.6,
@@ -7537,15 +6098,6 @@
             "longitude": -91.1255
         },
         {
-            "mindate": "1903-06-01",
-            "maxdate": "1905-12-31",
-            "latitude": 32.26667,
-            "name": "CASPIANA, LA US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00161577",
-            "longitude": -93.56667
-        },
-        {
             "elevation": 13.7,
             "mindate": "1984-04-01",
             "maxdate": "1988-12-31",
@@ -7555,17 +6107,6 @@
             "id": "GHCND:USC00161583",
             "elevationUnit": "METERS",
             "longitude": -92.01667
-        },
-        {
-            "elevation": 3,
-            "mindate": "1951-06-01",
-            "maxdate": "1966-12-31",
-            "latitude": 29.86667,
-            "name": "CATFISH POINT, LA US",
-            "datacoverage": 0.9944,
-            "id": "GHCND:USC00161601",
-            "elevationUnit": "METERS",
-            "longitude": -92.85
         },
         {
             "elevation": 0,
@@ -7601,28 +6142,6 @@
             "longitude": -90.5815
         },
         {
-            "elevation": 18,
-            "mindate": "1891-02-01",
-            "maxdate": "1956-09-30",
-            "latitude": 31.01667,
-            "name": "CHENEYVILLE, LA US",
-            "datacoverage": 0.9506,
-            "id": "GHCND:USC00161729",
-            "elevationUnit": "METERS",
-            "longitude": -92.28333
-        },
-        {
-            "elevation": 9.1,
-            "mindate": "1894-10-01",
-            "maxdate": "1965-08-31",
-            "latitude": 30.4,
-            "name": "CINCLARE, LA US",
-            "datacoverage": 0.9267,
-            "id": "GHCND:USC00161807",
-            "elevationUnit": "METERS",
-            "longitude": -91.23333
-        },
-        {
             "elevation": 22.3,
             "mindate": "2002-07-01",
             "maxdate": "2014-06-30",
@@ -7645,17 +6164,6 @@
             "longitude": -91.0091
         },
         {
-            "elevation": 64,
-            "mindate": "1948-06-01",
-            "maxdate": "1951-09-30",
-            "latitude": 30.88333,
-            "name": "CLINTON 2, LA US",
-            "datacoverage": 0.9004,
-            "id": "GHCND:USC00161894",
-            "elevationUnit": "METERS",
-            "longitude": -91.01667
-        },
-        {
             "elevation": 61,
             "mindate": "1974-08-01",
             "maxdate": "2020-01-31",
@@ -7665,17 +6173,6 @@
             "id": "GHCND:USC00161899",
             "elevationUnit": "METERS",
             "longitude": -90.9733
-        },
-        {
-            "elevation": 3,
-            "mindate": "1958-03-01",
-            "maxdate": "1966-07-28",
-            "latitude": 29.26667,
-            "name": "COCODRIE, LA US",
-            "datacoverage": 0.9991,
-            "id": "GHCND:USC00161929",
-            "elevationUnit": "METERS",
-            "longitude": -90.65
         },
         {
             "elevation": 0.9,
@@ -7700,28 +6197,6 @@
             "longitude": -92.7142
         },
         {
-            "elevation": 27.1,
-            "mindate": "1901-08-01",
-            "maxdate": "1917-10-31",
-            "latitude": 32.66667,
-            "name": "COLLINSTON, LA US",
-            "datacoverage": 0.9127,
-            "id": "GHCND:USC00161956",
-            "elevationUnit": "METERS",
-            "longitude": -91.86667
-        },
-        {
-            "elevation": 21,
-            "mindate": "1948-06-01",
-            "maxdate": "1951-07-21",
-            "latitude": 32.13333,
-            "name": "COLUMBIA 3 N, LA US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00161969",
-            "elevationUnit": "METERS",
-            "longitude": -92.08333
-        },
-        {
             "elevation": 25,
             "mindate": "1972-05-01",
             "maxdate": "2020-05-17",
@@ -7731,15 +6206,6 @@
             "id": "GHCND:USC00161979",
             "elevationUnit": "METERS",
             "longitude": -92.10769
-        },
-        {
-            "mindate": "1897-07-01",
-            "maxdate": "1901-04-30",
-            "latitude": 32.1,
-            "name": "COMO, LA US",
-            "datacoverage": 0.7832,
-            "id": "GHCND:USC00161981",
-            "longitude": -91.6
         },
         {
             "elevation": 7.6,
@@ -7773,17 +6239,6 @@
             "id": "GHCND:USC00162121",
             "elevationUnit": "METERS",
             "longitude": -93.4569
-        },
-        {
-            "elevation": 46,
-            "mindate": "1893-01-01",
-            "maxdate": "1951-11-30",
-            "latitude": 32.01667,
-            "name": "COUSHATTA, LA US",
-            "datacoverage": 0.2065,
-            "id": "GHCND:USC00162140",
-            "elevationUnit": "METERS",
-            "longitude": -93.33333
         },
         {
             "elevation": 47.2,
@@ -7830,17 +6285,6 @@
             "longitude": -90.0899
         },
         {
-            "elevation": 75.9,
-            "mindate": "1942-03-01",
-            "maxdate": "1950-04-30",
-            "latitude": 31,
-            "name": "CRAVENS TOWER, LA US",
-            "datacoverage": 0.8571,
-            "id": "GHCND:USC00162165",
-            "elevationUnit": "METERS",
-            "longitude": -93.1
-        },
-        {
             "elevation": 7.6,
             "mindate": "1906-06-01",
             "maxdate": "2020-05-14",
@@ -7863,17 +6307,6 @@
             "longitude": -91.58889
         },
         {
-            "elevation": 31.1,
-            "mindate": "1948-06-01",
-            "maxdate": "1951-09-30",
-            "latitude": 32.25,
-            "name": "CROWVILLE 1 N, LA US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00162219",
-            "elevationUnit": "METERS",
-            "longitude": -91.58333
-        },
-        {
             "elevation": 47.2,
             "mindate": "1966-02-01",
             "maxdate": "1975-10-31",
@@ -7885,57 +6318,6 @@
             "longitude": -93.638
         },
         {
-            "elevation": 24.1,
-            "mindate": "1929-08-01",
-            "maxdate": "1934-11-30",
-            "latitude": 29.81667,
-            "name": "DALCOUR, LA ",
-            "datacoverage": 1,
-            "id": "GHCND:USC00162271",
-            "elevationUnit": "METERS",
-            "longitude": -90
-        },
-        {
-            "elevation": 49.1,
-            "mindate": "1941-08-01",
-            "maxdate": "1949-04-22",
-            "latitude": 32.25,
-            "name": "DANVILLE, LA US",
-            "datacoverage": 0.9572,
-            "id": "GHCND:USC00162285",
-            "elevationUnit": "METERS",
-            "longitude": -92.81667
-        },
-        {
-            "mindate": "1952-03-01",
-            "maxdate": "1953-08-31",
-            "latitude": 32.68333,
-            "name": "D ARBONNE FIRE DNGR, LA US",
-            "datacoverage": 0.8871,
-            "id": "GHCND:USC00162287",
-            "longitude": -92.45
-        },
-        {
-            "elevation": 31.1,
-            "mindate": "1948-06-01",
-            "maxdate": "1951-09-30",
-            "latitude": 32.7,
-            "name": "DARNELL 2 N, LA US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00162297",
-            "elevationUnit": "METERS",
-            "longitude": -91.45
-        },
-        {
-            "mindate": "1892-05-01",
-            "maxdate": "1897-05-18",
-            "latitude": 31.88333,
-            "name": "DAVIS, LA US",
-            "datacoverage": 0.9986,
-            "id": "GHCND:USC00162309",
-            "longitude": -91.83333
-        },
-        {
             "elevation": 3,
             "mindate": "1978-02-01",
             "maxdate": "1983-12-31",
@@ -7945,17 +6327,6 @@
             "id": "GHCND:USC00162330",
             "elevationUnit": "METERS",
             "longitude": -89.26667
-        },
-        {
-            "elevation": 0.3,
-            "mindate": "1911-06-01",
-            "maxdate": "1947-01-31",
-            "latitude": 29.6,
-            "name": "DELTA FARMS, LA ",
-            "datacoverage": 0.7873,
-            "id": "GHCND:USC00162334",
-            "elevationUnit": "METERS",
-            "longitude": -90.35
         },
         {
             "elevation": 10.7,
@@ -8002,39 +6373,6 @@
             "longitude": -93.2869
         },
         {
-            "elevation": 24.1,
-            "mindate": "1941-08-01",
-            "maxdate": "1949-04-01",
-            "latitude": 32.9,
-            "name": "DEAN, LA US",
-            "datacoverage": 0.925,
-            "id": "GHCND:USC00162372",
-            "elevationUnit": "METERS",
-            "longitude": -92.13333
-        },
-        {
-            "elevation": 31.1,
-            "mindate": "1885-12-01",
-            "maxdate": "1926-08-31",
-            "latitude": 32.45,
-            "name": "DELHI, LA US",
-            "datacoverage": 0.2965,
-            "id": "GHCND:USC00162399",
-            "elevationUnit": "METERS",
-            "longitude": -91.5
-        },
-        {
-            "elevation": 78.9,
-            "mindate": "1952-01-01",
-            "maxdate": "1955-06-28",
-            "latitude": 31.96667,
-            "name": "DESOTO FIRE TOWER, LA US",
-            "datacoverage": 0.9993,
-            "id": "GHCND:USC00162439",
-            "elevationUnit": "METERS",
-            "longitude": -93.56667
-        },
-        {
             "elevation": 1.2,
             "mindate": "1958-01-01",
             "maxdate": "1975-07-31",
@@ -8044,17 +6382,6 @@
             "id": "GHCND:USC00162478",
             "elevationUnit": "METERS",
             "longitude": -89.82222
-        },
-        {
-            "elevation": 61,
-            "mindate": "1908-10-01",
-            "maxdate": "1951-09-30",
-            "latitude": 32.1,
-            "name": "DODSON 6 ENE, LA US",
-            "datacoverage": 0.9327,
-            "id": "GHCND:USC00162525",
-            "elevationUnit": "METERS",
-            "longitude": -92.58333
         },
         {
             "elevation": 9.1,
@@ -8079,17 +6406,6 @@
             "longitude": -90.9269
         },
         {
-            "elevation": 67.1,
-            "mindate": "1942-01-01",
-            "maxdate": "1945-08-31",
-            "latitude": 32.56667,
-            "name": "DOYLINE, LA US",
-            "datacoverage": 0.932,
-            "id": "GHCND:USC00162579",
-            "elevationUnit": "METERS",
-            "longitude": -93.41667
-        },
-        {
             "elevation": 29,
             "mindate": "1994-01-01",
             "maxdate": "2016-03-01",
@@ -8101,15 +6417,6 @@
             "longitude": -93.1386
         },
         {
-            "mindate": "1940-01-01",
-            "maxdate": "1942-04-30",
-            "latitude": 29.383333,
-            "name": "DULAC, LA US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00162672",
-            "longitude": -90.716667
-        },
-        {
             "elevation": 0.9,
             "mindate": "2015-10-01",
             "maxdate": "2020-05-17",
@@ -8119,15 +6426,6 @@
             "id": "GHCND:USC00162673",
             "elevationUnit": "METERS",
             "longitude": -90.7011
-        },
-        {
-            "mindate": "1911-06-01",
-            "maxdate": "1920-08-31",
-            "latitude": 30.25,
-            "name": "DUTCHTOWN, LA US",
-            "datacoverage": 0.9636,
-            "id": "GHCND:USC00162684",
-            "longitude": -90.98333
         },
         {
             "elevation": 5.5,
@@ -8163,17 +6461,6 @@
             "longitude": -92.705
         },
         {
-            "elevation": 6.1,
-            "mindate": "1892-12-01",
-            "maxdate": "1905-05-31",
-            "latitude": 30.06667,
-            "name": "EMILIE, LA US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00162872",
-            "elevationUnit": "METERS",
-            "longitude": -90.61667
-        },
-        {
             "mindate": "1970-09-01",
             "maxdate": "1970-12-31",
             "latitude": 29.4,
@@ -8181,26 +6468,6 @@
             "datacoverage": 1,
             "id": "GHCND:USC00162884",
             "longitude": -89.6
-        },
-        {
-            "elevation": 14.9,
-            "mindate": "1942-12-01",
-            "maxdate": "1965-01-31",
-            "latitude": 30.7,
-            "name": "ENON 7 WSW, LA US",
-            "datacoverage": 0.981,
-            "id": "GHCND:USC00162916",
-            "elevationUnit": "METERS",
-            "longitude": -90.18333
-        },
-        {
-            "mindate": "1943-01-01",
-            "maxdate": "1947-05-21",
-            "latitude": 29.85,
-            "name": "ESTHER, LA US",
-            "datacoverage": 0.9365,
-            "id": "GHCND:USC00162954",
-            "longitude": -92.233333
         },
         {
             "elevation": 30.2,
@@ -8214,15 +6481,6 @@
             "longitude": -91.56667
         },
         {
-            "mindate": "1942-09-01",
-            "maxdate": "1945-08-31",
-            "latitude": 31.383333,
-            "name": "ESLER FIELD, LA US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00162976",
-            "longitude": -92.3
-        },
-        {
             "elevation": 15.2,
             "mindate": "1940-05-01",
             "maxdate": "2015-02-01",
@@ -8234,24 +6492,6 @@
             "longitude": -92.4302
         },
         {
-            "mindate": "1943-04-01",
-            "maxdate": "1945-10-31",
-            "latitude": 31.2,
-            "name": "EVANGELINE GUARD STATION, LA US",
-            "datacoverage": 0.7408,
-            "id": "GHCND:USC00163001",
-            "longitude": -92.6
-        },
-        {
-            "mindate": "1948-05-01",
-            "maxdate": "1957-04-30",
-            "latitude": 30.98333,
-            "name": "EVANS, LA US",
-            "datacoverage": 0.9167,
-            "id": "GHCND:USC00163009",
-            "longitude": -93.5
-        },
-        {
             "elevation": 54.9,
             "mindate": "1891-02-01",
             "maxdate": "2017-04-03",
@@ -8261,26 +6501,6 @@
             "id": "GHCND:USC00163079",
             "elevationUnit": "METERS",
             "longitude": -92.4075
-        },
-        {
-            "elevation": 49.1,
-            "mindate": "1955-01-01",
-            "maxdate": "1965-08-31",
-            "latitude": 32.78333,
-            "name": "FARMERVILLE 6 E, LA US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00163087",
-            "elevationUnit": "METERS",
-            "longitude": -92.28333
-        },
-        {
-            "mindate": "1907-04-01",
-            "maxdate": "1912-11-30",
-            "latitude": 31.63333,
-            "name": "FERRIDAY, LA US",
-            "datacoverage": 0.9553,
-            "id": "GHCND:USC00163117",
-            "longitude": -91.56667
         },
         {
             "elevation": 67.1,
@@ -8305,15 +6525,6 @@
             "longitude": -90.19194
         },
         {
-            "mindate": "1956-05-01",
-            "maxdate": "1956-09-30",
-            "latitude": 30.35,
-            "name": "FONTAINBLEAU STATE P, LA US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00163218",
-            "longitude": -90.05
-        },
-        {
             "elevation": 3.7,
             "mindate": "1893-01-01",
             "maxdate": "2020-05-16",
@@ -8325,17 +6536,6 @@
             "longitude": -91.5441
         },
         {
-            "elevation": 37.8,
-            "mindate": "1910-09-01",
-            "maxdate": "1969-06-30",
-            "latitude": 30.84333,
-            "name": "FRANKLINTON, LA US",
-            "datacoverage": 0.9901,
-            "id": "GHCND:USC00163321",
-            "elevationUnit": "METERS",
-            "longitude": -90.16194
-        },
-        {
             "elevation": 44.2,
             "mindate": "1978-12-01",
             "maxdate": "2010-12-31",
@@ -8345,17 +6545,6 @@
             "id": "GHCND:USC00163322",
             "elevationUnit": "METERS",
             "longitude": -90.1625
-        },
-        {
-            "elevation": 73.2,
-            "mindate": "1954-01-01",
-            "maxdate": "1956-07-31",
-            "latitude": 30.78417,
-            "name": "FRANKLINTON 5 SW, LA US",
-            "datacoverage": 0.9991,
-            "id": "GHCND:USC00163324",
-            "elevationUnit": "METERS",
-            "longitude": -90.20222
         },
         {
             "elevation": 61,
@@ -8391,17 +6580,6 @@
             "longitude": -90.20222
         },
         {
-            "elevation": 3,
-            "mindate": "1948-06-01",
-            "maxdate": "1951-09-30",
-            "latitude": 30.3,
-            "name": "FRENCH SETTLEMENT, LA US",
-            "datacoverage": 0.9004,
-            "id": "GHCND:USC00163345",
-            "elevationUnit": "METERS",
-            "longitude": -90.8
-        },
-        {
             "elevation": 1.5,
             "mindate": "1968-01-01",
             "maxdate": "2020-05-17",
@@ -8411,61 +6589,6 @@
             "id": "GHCND:USC00163433",
             "elevationUnit": "METERS",
             "longitude": -90.3072
-        },
-        {
-            "elevation": 27.1,
-            "mindate": "1904-10-01",
-            "maxdate": "1907-05-31",
-            "latitude": 31.75,
-            "name": "GEORGETOWN, LA US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00163544",
-            "elevationUnit": "METERS",
-            "longitude": -92.38333
-        },
-        {
-            "elevation": 3,
-            "mindate": "1947-01-01",
-            "maxdate": "1947-11-21",
-            "latitude": 29.7,
-            "name": "GHEENS, LA US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00163562",
-            "elevationUnit": "METERS",
-            "longitude": -90.46667
-        },
-        {
-            "elevation": 70.7,
-            "mindate": "1941-01-01",
-            "maxdate": "1942-12-31",
-            "latitude": 32.533333,
-            "name": "GIBSLAND NEAR SOIL CONSERVATION SERVICE NUMBER 15, LA US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00163600",
-            "elevationUnit": "METERS",
-            "longitude": -93.033333
-        },
-        {
-            "elevation": 24.1,
-            "mindate": "1891-07-01",
-            "maxdate": "1895-01-31",
-            "latitude": 32.46667,
-            "name": "GIRARD, LA US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00163630",
-            "elevationUnit": "METERS",
-            "longitude": -91.8
-        },
-        {
-            "elevation": 43,
-            "mindate": "1948-06-01",
-            "maxdate": "1951-09-30",
-            "latitude": 30.96667,
-            "name": "GLENMORA, LA US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00163639",
-            "elevationUnit": "METERS",
-            "longitude": -92.58333
         },
         {
             "elevation": 78.9,
@@ -8532,17 +6655,6 @@
             "id": "GHCND:USC00163794",
             "elevationUnit": "METERS",
             "longitude": -93.8
-        },
-        {
-            "elevation": 3,
-            "mindate": "1923-07-01",
-            "maxdate": "1969-12-31",
-            "latitude": 29.76667,
-            "name": "GRAND CHENIER, LA US",
-            "datacoverage": 0.534,
-            "id": "GHCND:USC00163798",
-            "elevationUnit": "METERS",
-            "longitude": -92.95
         },
         {
             "elevation": 16.8,
@@ -8622,28 +6734,6 @@
             "longitude": -94.0002
         },
         {
-            "elevation": 3,
-            "mindate": "1912-09-01",
-            "maxdate": "1968-08-31",
-            "latitude": 29.95,
-            "name": "GUEYDAN 5 S, LA US",
-            "datacoverage": 0.5759,
-            "id": "GHCND:USC00163930",
-            "elevationUnit": "METERS",
-            "longitude": -92.51667
-        },
-        {
-            "elevation": 67.1,
-            "mindate": "1942-07-01",
-            "maxdate": "1954-12-31",
-            "latitude": 31.9,
-            "name": "GUM SPRINGS FIRE TOW, LA US",
-            "datacoverage": 0.7267,
-            "id": "GHCND:USC00163944",
-            "elevationUnit": "METERS",
-            "longitude": -92.78333
-        },
-        {
             "elevation": 1.8,
             "mindate": "1939-01-01",
             "maxdate": "2020-05-15",
@@ -8664,17 +6754,6 @@
             "id": "GHCND:USC00163981",
             "elevationUnit": "METERS",
             "longitude": -93.2694
-        },
-        {
-            "elevation": 14.9,
-            "mindate": "1893-05-01",
-            "maxdate": "1894-07-31",
-            "latitude": 31.01667,
-            "name": "HAMBURG, LA US",
-            "datacoverage": 0.7326,
-            "id": "GHCND:USC00164021",
-            "elevationUnit": "METERS",
-            "longitude": -91.93333
         },
         {
             "elevation": 10.7,
@@ -8710,17 +6789,6 @@
             "longitude": -93.31017
         },
         {
-            "elevation": 43,
-            "mindate": "1948-01-01",
-            "maxdate": "1959-10-31",
-            "latitude": 32.06667,
-            "name": "HARMON, LA US",
-            "datacoverage": 0.8733,
-            "id": "GHCND:USC00164088",
-            "elevationUnit": "METERS",
-            "longitude": -93.43333
-        },
-        {
             "elevation": 18,
             "mindate": "1940-12-01",
             "maxdate": "1972-03-31",
@@ -8741,50 +6809,6 @@
             "id": "GHCND:USC00164131",
             "elevationUnit": "METERS",
             "longitude": -93.1297
-        },
-        {
-            "elevation": 6.1,
-            "mindate": "1954-06-01",
-            "maxdate": "1958-11-30",
-            "latitude": 30.35,
-            "name": "HECKER, LA US",
-            "datacoverage": 0.9986,
-            "id": "GHCND:USC00164164",
-            "elevationUnit": "METERS",
-            "longitude": -93.08333
-        },
-        {
-            "elevation": 6.1,
-            "mindate": "1962-01-01",
-            "maxdate": "1967-01-31",
-            "latitude": 30.31667,
-            "name": "HENDERSON 2 W, LA US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00164186",
-            "elevationUnit": "METERS",
-            "longitude": -91.81667
-        },
-        {
-            "elevation": 24.1,
-            "mindate": "1937-10-01",
-            "maxdate": "1961-11-30",
-            "latitude": 31.06667,
-            "name": "HESSMER, LA US",
-            "datacoverage": 0.9793,
-            "id": "GHCND:USC00164200",
-            "elevationUnit": "METERS",
-            "longitude": -92.11667
-        },
-        {
-            "elevation": 21,
-            "mindate": "1948-03-01",
-            "maxdate": "1958-07-31",
-            "latitude": 31.43333,
-            "name": "HICKORY GROVE, LA US",
-            "datacoverage": 0.424,
-            "id": "GHCND:USC00164209",
-            "elevationUnit": "METERS",
-            "longitude": -92.23333
         },
         {
             "elevation": 73.2,
@@ -8809,48 +6833,6 @@
             "longitude": -93.3911
         },
         {
-            "elevation": 24.1,
-            "mindate": "1944-04-01",
-            "maxdate": "1951-11-30",
-            "latitude": 32.46667,
-            "name": "HOLLY RIDGE, LA US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00164315",
-            "elevationUnit": "METERS",
-            "longitude": -91.61667
-        },
-        {
-            "elevation": 70.1,
-            "mindate": "1948-06-01",
-            "maxdate": "1951-09-28",
-            "latitude": 32.0775,
-            "name": "MARTIN FIRE TOWER, LA US",
-            "datacoverage": 0.9004,
-            "id": "GHCND:USC00164316",
-            "elevationUnit": "METERS",
-            "longitude": -93.21667
-        },
-        {
-            "elevation": 27.1,
-            "mindate": "1957-12-01",
-            "maxdate": "1967-01-23",
-            "latitude": 32.61667,
-            "name": "HOLLY RIDGE 10 N, LA US",
-            "datacoverage": 0.9816,
-            "id": "GHCND:USC00164320",
-            "elevationUnit": "METERS",
-            "longitude": -91.63333
-        },
-        {
-            "mindate": "1922-12-01",
-            "maxdate": "1926-01-31",
-            "latitude": 29.46667,
-            "name": "HOMEPLACE, LA ",
-            "datacoverage": 1,
-            "id": "GHCND:USC00164348",
-            "longitude": -89.66667
-        },
-        {
             "elevation": 65.5,
             "mindate": "1893-01-01",
             "maxdate": "2020-05-17",
@@ -8860,37 +6842,6 @@
             "id": "GHCND:USC00164355",
             "elevationUnit": "METERS",
             "longitude": -93.0626
-        },
-        {
-            "mindate": "1917-06-01",
-            "maxdate": "1917-10-25",
-            "latitude": 32.5,
-            "name": "HONORE, LA US",
-            "datacoverage": 0.998,
-            "id": "GHCND:USC00164367",
-            "longitude": -93.66667
-        },
-        {
-            "elevation": 0.9,
-            "mindate": "1957-01-01",
-            "maxdate": "1965-11-30",
-            "latitude": 29.81667,
-            "name": "HOPEDALE, LA US",
-            "datacoverage": 0.9496,
-            "id": "GHCND:USC00164381",
-            "elevationUnit": "METERS",
-            "longitude": -89.65
-        },
-        {
-            "elevation": 128,
-            "mindate": "1943-11-01",
-            "maxdate": "1963-04-30",
-            "latitude": 31.3747,
-            "name": "HODGES GARDENS, LA US",
-            "datacoverage": 0.8335,
-            "id": "GHCND:USC00164384",
-            "elevationUnit": "METERS",
-            "longitude": -93.3911
         },
         {
             "elevation": 75,
@@ -8915,50 +6866,6 @@
             "longitude": -90.816
         },
         {
-            "elevation": 3,
-            "mindate": "1948-06-01",
-            "maxdate": "1951-09-30",
-            "latitude": 29.58333,
-            "name": "HOUMA 2, LA US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00164410",
-            "elevationUnit": "METERS",
-            "longitude": -90.73333
-        },
-        {
-            "elevation": 82,
-            "mindate": "1949-06-01",
-            "maxdate": "1951-09-30",
-            "latitude": 31.98333,
-            "name": "HUNTER, LA US",
-            "datacoverage": 0.6935,
-            "id": "GHCND:USC00164453",
-            "elevationUnit": "METERS",
-            "longitude": -93.83333
-        },
-        {
-            "elevation": 73.2,
-            "mindate": "1940-01-01",
-            "maxdate": "1942-12-31",
-            "latitude": 31.7,
-            "name": "INDIAN LOOKOUT, LA US",
-            "datacoverage": 0.9991,
-            "id": "GHCND:USC00164510",
-            "elevationUnit": "METERS",
-            "longitude": -92.5
-        },
-        {
-            "elevation": 7.6,
-            "mindate": "1941-01-01",
-            "maxdate": "1941-12-31",
-            "latitude": 32.216667,
-            "name": "IOWA NEAR SOIL CONSERVATION SERVICE, LA US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00164535",
-            "elevationUnit": "METERS",
-            "longitude": -93.033333
-        },
-        {
             "elevation": 45.7,
             "mindate": "1999-04-01",
             "maxdate": "2010-12-31",
@@ -8968,15 +6875,6 @@
             "id": "GHCND:USC00164573",
             "elevationUnit": "METERS",
             "longitude": -91.1261
-        },
-        {
-            "mindate": "1941-01-01",
-            "maxdate": "1943-11-17",
-            "latitude": 32.35,
-            "name": "JAMESTOWN NEAR SOIL CONSERVATION SERVICE 16, LA US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00164590",
-            "longitude": -93.15
         },
         {
             "elevation": 57.9,
@@ -9012,17 +6910,6 @@
             "longitude": -91.7108
         },
         {
-            "elevation": 46,
-            "mindate": "1911-01-01",
-            "maxdate": "1951-12-31",
-            "latitude": 31.68333,
-            "name": "JENA 2 E, LA US",
-            "datacoverage": 0.1706,
-            "id": "GHCND:USC00164693",
-            "elevationUnit": "METERS",
-            "longitude": -92.08333
-        },
-        {
             "elevation": 43.6,
             "mindate": "1985-01-01",
             "maxdate": "2020-04-01",
@@ -9043,17 +6930,6 @@
             "id": "GHCND:USC00164700",
             "elevationUnit": "METERS",
             "longitude": -92.6641
-        },
-        {
-            "elevation": 31.1,
-            "mindate": "1940-01-01",
-            "maxdate": "1950-08-31",
-            "latitude": 32.96667,
-            "name": "JONES, LA US",
-            "datacoverage": 0.8569,
-            "id": "GHCND:USC00164730",
-            "elevationUnit": "METERS",
-            "longitude": -91.65
         },
         {
             "elevation": 100.6,
@@ -9122,15 +6998,6 @@
             "longitude": -92.26667
         },
         {
-            "mindate": "1942-12-01",
-            "maxdate": "1946-12-31",
-            "latitude": 32.183333,
-            "name": "KEATCHIE, LA US",
-            "datacoverage": 0.8976,
-            "id": "GHCND:USC00164800",
-            "longitude": -93.9
-        },
-        {
             "elevation": 61,
             "mindate": "1940-01-01",
             "maxdate": "2020-05-17",
@@ -9140,15 +7007,6 @@
             "id": "GHCND:USC00164816",
             "elevationUnit": "METERS",
             "longitude": -93.8619
-        },
-        {
-            "mindate": "1914-11-01",
-            "maxdate": "1926-09-30",
-            "latitude": 31.91667,
-            "name": "KELLY, LA US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00164830",
-            "longitude": -92.15
         },
         {
             "elevation": 70.1,
@@ -9184,17 +7042,6 @@
             "longitude": -92.9
         },
         {
-            "elevation": 91.4,
-            "mindate": "1939-03-01",
-            "maxdate": "1946-02-28",
-            "latitude": 31.466667,
-            "name": "KISATCHIE, LA US",
-            "datacoverage": 0.9523,
-            "id": "GHCND:USC00164905",
-            "elevationUnit": "METERS",
-            "longitude": -93.183333
-        },
-        {
             "elevation": 53.3,
             "mindate": "1947-01-01",
             "maxdate": "2020-03-31",
@@ -9204,15 +7051,6 @@
             "id": "GHCND:USC00164931",
             "elevationUnit": "METERS",
             "longitude": -93.4428
-        },
-        {
-            "mindate": "1912-01-01",
-            "maxdate": "1914-06-30",
-            "latitude": 32.96667,
-            "name": "LAARK, LA US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00164958",
-            "longitude": -91.5
         },
         {
             "elevation": 7.6,
@@ -9259,15 +7097,6 @@
             "longitude": -93.2186
         },
         {
-            "mindate": "1949-01-01",
-            "maxdate": "1959-07-31",
-            "latitude": 30.21667,
-            "name": "LAKE CHARLES, LA US",
-            "datacoverage": 0.961,
-            "id": "GHCND:USC00165075",
-            "longitude": -93.21667
-        },
-        {
             "elevation": 1.5,
             "mindate": "1955-02-01",
             "maxdate": "2020-05-17",
@@ -9312,28 +7141,6 @@
             "longitude": -91.9052
         },
         {
-            "elevation": 21,
-            "mindate": "1899-05-01",
-            "maxdate": "1901-06-30",
-            "latitude": 31.75,
-            "name": "L ARGENT, LA US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00165156",
-            "elevationUnit": "METERS",
-            "longitude": -91.4
-        },
-        {
-            "elevation": 3,
-            "mindate": "1893-01-01",
-            "maxdate": "1920-06-30",
-            "latitude": 29.55,
-            "name": "LAWRENCE, LA US",
-            "datacoverage": 0.976,
-            "id": "GHCND:USC00165207",
-            "elevationUnit": "METERS",
-            "longitude": -89.8
-        },
-        {
             "elevation": 8.5,
             "mindate": "1903-03-01",
             "maxdate": "2020-05-17",
@@ -9376,37 +7183,6 @@
             "id": "GHCND:USC00165296",
             "elevationUnit": "METERS",
             "longitude": -92.2046
-        },
-        {
-            "elevation": 9.1,
-            "mindate": "1948-07-01",
-            "maxdate": "1951-09-30",
-            "latitude": 30.96667,
-            "name": "LETTSWORTH, LA US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00165335",
-            "elevationUnit": "METERS",
-            "longitude": -91.71667
-        },
-        {
-            "mindate": "1893-01-01",
-            "maxdate": "1918-05-31",
-            "latitude": 32.31667,
-            "name": "LIBERTY HILL, LA US",
-            "datacoverage": 0.9937,
-            "id": "GHCND:USC00165365",
-            "longitude": -92.91667
-        },
-        {
-            "elevation": 34.1,
-            "mindate": "1941-08-01",
-            "maxdate": "1943-10-31",
-            "latitude": 32.98333,
-            "name": "LITROE, LA US",
-            "datacoverage": 0.3333,
-            "id": "GHCND:USC00165419",
-            "elevationUnit": "METERS",
-            "longitude": -92.21667
         },
         {
             "elevation": 76.2,
@@ -9464,15 +7240,6 @@
             "longitude": -93.23333
         },
         {
-            "mindate": "1953-07-01",
-            "maxdate": "1955-06-30",
-            "latitude": 32.63333,
-            "name": "LONGWOOD FIRE TOWER, LA US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00165596",
-            "longitude": -93.96667
-        },
-        {
             "elevation": -1.5,
             "mindate": "1981-01-01",
             "maxdate": "2010-12-31",
@@ -9517,15 +7284,6 @@
             "longitude": -92.4108
         },
         {
-            "mindate": "1952-01-01",
-            "maxdate": "1955-06-30",
-            "latitude": 32.36667,
-            "name": "LUNA FIRE TOWER, LA US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00165713",
-            "longitude": -92.21667
-        },
-        {
             "elevation": 6.1,
             "mindate": "1993-02-01",
             "maxdate": "2020-03-31",
@@ -9568,17 +7326,6 @@
             "id": "GHCND:USC00165875",
             "elevationUnit": "METERS",
             "longitude": -93.7433
-        },
-        {
-            "elevation": 70.1,
-            "mindate": "1893-02-01",
-            "maxdate": "1951-09-30",
-            "latitude": 31.56667,
-            "name": "MANY, LA US",
-            "datacoverage": 0.0682,
-            "id": "GHCND:USC00165890",
-            "elevationUnit": "METERS",
-            "longitude": -93.48333
         },
         {
             "elevation": 77.7,
@@ -9647,17 +7394,6 @@
             "longitude": -93.21667
         },
         {
-            "elevation": 0,
-            "mindate": "1893-01-01",
-            "maxdate": "1896-12-31",
-            "latitude": 30.3,
-            "name": "MAUREPAS, LA US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00165980",
-            "elevationUnit": "METERS",
-            "longitude": -90.65
-        },
-        {
             "elevation": 9.1,
             "mindate": "1893-01-01",
             "maxdate": "1983-12-31",
@@ -9678,15 +7414,6 @@
             "id": "GHCND:USC00166130",
             "elevationUnit": "METERS",
             "longitude": -89.98563
-        },
-        {
-            "mindate": "1953-01-01",
-            "maxdate": "1955-06-19",
-            "latitude": 30.95,
-            "name": "MERIDIAN FIRE TOWER, LA US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00166132",
-            "longitude": -92.4
         },
         {
             "elevation": 4.9,
@@ -9720,17 +7447,6 @@
             "id": "GHCND:USC00166157",
             "elevationUnit": "METERS",
             "longitude": -90.14306
-        },
-        {
-            "elevation": 39.9,
-            "mindate": "1951-01-01",
-            "maxdate": "1964-12-31",
-            "latitude": 31.46667,
-            "name": "MILAM TEXAS 8 E, LA US",
-            "datacoverage": 0.988,
-            "id": "GHCND:USC00166202",
-            "elevationUnit": "METERS",
-            "longitude": -93.73333
         },
         {
             "elevation": 56.4,
@@ -9771,7 +7487,7 @@
             "maxdate": "2007-03-01",
             "latitude": 32.51806,
             "name": "MONROE, LA US",
-            "datacoverage": 0.7995,
+            "datacoverage": 0.4344,
             "id": "GHCND:USC00166308",
             "elevationUnit": "METERS",
             "longitude": -92.13611
@@ -9799,28 +7515,6 @@
             "longitude": -92.0319
         },
         {
-            "elevation": 31.1,
-            "mindate": "1896-11-01",
-            "maxdate": "1951-09-30",
-            "latitude": 31.66667,
-            "name": "MONTGOMERY, LA US",
-            "datacoverage": 0.1305,
-            "id": "GHCND:USC00166324",
-            "elevationUnit": "METERS",
-            "longitude": -92.9
-        },
-        {
-            "elevation": 31.1,
-            "mindate": "1943-11-01",
-            "maxdate": "1948-07-16",
-            "latitude": 31.55,
-            "name": "MONTROSE, LA US",
-            "datacoverage": 0.9973,
-            "id": "GHCND:USC00166333",
-            "elevationUnit": "METERS",
-            "longitude": -93
-        },
-        {
             "elevation": 61,
             "mindate": "1975-07-01",
             "maxdate": "2020-05-17",
@@ -9843,17 +7537,6 @@
             "longitude": -91.1761
         },
         {
-            "elevation": 14.9,
-            "mindate": "1940-05-01",
-            "maxdate": "1945-10-31",
-            "latitude": 30.83333,
-            "name": "MORROW, LA US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00166424",
-            "elevationUnit": "METERS",
-            "longitude": -92.08333
-        },
-        {
             "elevation": 5.8,
             "mindate": "1989-01-01",
             "maxdate": "2020-05-17",
@@ -9874,17 +7557,6 @@
             "id": "GHCND:USC00166434",
             "elevationUnit": "METERS",
             "longitude": -93.2151
-        },
-        {
-            "elevation": 27.1,
-            "mindate": "1914-05-01",
-            "maxdate": "1915-09-30",
-            "latitude": 32.33333,
-            "name": "MOUND, LA US",
-            "datacoverage": 0.9989,
-            "id": "GHCND:USC00166455",
-            "elevationUnit": "METERS",
-            "longitude": -91.01667
         },
         {
             "elevation": 97.5,
@@ -9931,24 +7603,6 @@
             "longitude": -93.0856
         },
         {
-            "mindate": "1943-01-01",
-            "maxdate": "1960-05-31",
-            "latitude": 29.88333,
-            "name": "NAVAL AMMUNITION DEP, LA US",
-            "datacoverage": 0.961,
-            "id": "GHCND:USC00166585",
-            "longitude": -89.98333
-        },
-        {
-            "mindate": "1940-12-01",
-            "maxdate": "1948-01-09",
-            "latitude": 31.36667,
-            "name": "NEW ERA, LA US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00166636",
-            "longitude": -91.83333
-        },
-        {
             "elevation": 7.6,
             "mindate": "1891-02-01",
             "maxdate": "2010-12-31",
@@ -9969,17 +7623,6 @@
             "id": "GHCND:USC00166659",
             "elevationUnit": "METERS",
             "longitude": -90.08333
-        },
-        {
-            "elevation": 2.7,
-            "mindate": "1937-01-01",
-            "maxdate": "1954-06-30",
-            "latitude": 30.0494,
-            "name": "NEW ORLEANS LAKEFRONT AIRPORT, LA US",
-            "datacoverage": 0.9431,
-            "id": "GHCND:USC00166661",
-            "elevationUnit": "METERS",
-            "longitude": -90.0288
         },
         {
             "elevation": 0.6,
@@ -10060,25 +7703,14 @@
         },
         {
             "elevation": 0,
-            "mindate": "1893-01-01",
+            "mindate": "1893-05-01",
             "maxdate": "2016-03-01",
             "latitude": 29.93472,
             "name": "NEW ORLEANS CARROLLTON, LA US",
-            "datacoverage": 0.8771,
+            "datacoverage": 0.3424,
             "id": "GHCND:USC00166676",
             "elevationUnit": "METERS",
             "longitude": -90.13611
-        },
-        {
-            "elevation": -0.6,
-            "mindate": "1954-07-01",
-            "maxdate": "1961-06-30",
-            "latitude": 30.01667,
-            "name": "NEW ORLEANS PINES VIL, LA US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00166678",
-            "elevationUnit": "METERS",
-            "longitude": -90.01667
         },
         {
             "elevation": 0,
@@ -10103,17 +7735,6 @@
             "longitude": -91.3672
         },
         {
-            "elevation": 3,
-            "mindate": "1942-12-01",
-            "maxdate": "1955-04-30",
-            "latitude": 30.55,
-            "name": "NORTH LIVINGSTON, LA US",
-            "datacoverage": 0.9331,
-            "id": "GHCND:USC00166794",
-            "elevationUnit": "METERS",
-            "longitude": -90.75
-        },
-        {
             "elevation": 31.1,
             "mindate": "1999-02-01",
             "maxdate": "2020-05-16",
@@ -10123,17 +7744,6 @@
             "id": "GHCND:USC00166808",
             "elevationUnit": "METERS",
             "longitude": -91.1003
-        },
-        {
-            "elevation": 3,
-            "mindate": "1952-03-01",
-            "maxdate": "1954-11-30",
-            "latitude": 30.35,
-            "name": "NOTT FIRE TOWER, LA US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00166818",
-            "elevationUnit": "METERS",
-            "longitude": -90.01667
         },
         {
             "elevation": 33.5,
@@ -10235,39 +7845,6 @@
             "longitude": -92.0925
         },
         {
-            "elevation": 21,
-            "mindate": "1893-01-01",
-            "maxdate": "1951-09-30",
-            "latitude": 30.55,
-            "name": "OPELOUSAS AIRPORT, LA US",
-            "datacoverage": 0.454,
-            "id": "GHCND:USC00167001",
-            "elevationUnit": "METERS",
-            "longitude": -92.08333
-        },
-        {
-            "elevation": 78.6,
-            "mindate": "1893-03-01",
-            "maxdate": "1906-12-31",
-            "latitude": 31.933333,
-            "name": "OXFORD, LA US",
-            "datacoverage": 0.8433,
-            "id": "GHCND:USC00167040",
-            "elevationUnit": "METERS",
-            "longitude": -93.633333
-        },
-        {
-            "elevation": 6.1,
-            "mindate": "1891-02-01",
-            "maxdate": "1903-06-30",
-            "latitude": 29.983333,
-            "name": "PAINCOURTVILLE, LA US",
-            "datacoverage": 0.8731,
-            "id": "GHCND:USC00167070",
-            "elevationUnit": "METERS",
-            "longitude": -91.083333
-        },
-        {
             "elevation": 1.5,
             "mindate": "1911-07-01",
             "maxdate": "2011-11-09",
@@ -10279,17 +7856,6 @@
             "longitude": -90.4286
         },
         {
-            "elevation": 4,
-            "mindate": "1906-06-01",
-            "maxdate": "1962-12-31",
-            "latitude": 30.385,
-            "name": "PEARL RIVER, LA US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00167160",
-            "elevationUnit": "METERS",
-            "longitude": -89.73667
-        },
-        {
             "elevation": 9.1,
             "mindate": "1948-01-01",
             "maxdate": "1985-03-31",
@@ -10299,26 +7865,6 @@
             "id": "GHCND:USC00167161",
             "elevationUnit": "METERS",
             "longitude": -89.78333
-        },
-        {
-            "elevation": 15.2,
-            "mindate": "1949-01-01",
-            "maxdate": "1950-05-31",
-            "latitude": 30.58333,
-            "name": "PEARL RIVER, LA US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00167162",
-            "elevationUnit": "METERS",
-            "longitude": -89.85
-        },
-        {
-            "mindate": "1947-03-01",
-            "maxdate": "1951-09-25",
-            "latitude": 29.65,
-            "name": "PECAN ISLAND, LA US",
-            "datacoverage": 0.9268,
-            "id": "GHCND:USC00167174",
-            "longitude": -92.43333
         },
         {
             "elevation": 57.9,
@@ -10343,17 +7889,6 @@
             "longitude": -91.535
         },
         {
-            "elevation": 46,
-            "mindate": "1953-02-01",
-            "maxdate": "1953-10-31",
-            "latitude": 30.91667,
-            "name": "PITKIN 1 SE, LA US",
-            "datacoverage": 0.5575,
-            "id": "GHCND:USC00167331",
-            "elevationUnit": "METERS",
-            "longitude": -92.91667
-        },
-        {
             "elevation": 76.5,
             "mindate": "1892-12-01",
             "maxdate": "2020-05-17",
@@ -10363,17 +7898,6 @@
             "id": "GHCND:USC00167344",
             "elevationUnit": "METERS",
             "longitude": -93.6944
-        },
-        {
-            "elevation": 6.1,
-            "mindate": "1892-02-01",
-            "maxdate": "1962-04-30",
-            "latitude": 30.3214,
-            "name": "PLAQUEMINE 2 N, LA US",
-            "datacoverage": 0.3108,
-            "id": "GHCND:USC00167364",
-            "elevationUnit": "METERS",
-            "longitude": -91.2517
         },
         {
             "elevation": 6.1,
@@ -10398,17 +7922,6 @@
             "longitude": -89.82222
         },
         {
-            "elevation": 70.1,
-            "mindate": "1935-04-01",
-            "maxdate": "1965-12-31",
-            "latitude": 31.5,
-            "name": "POLLOCK FOREST NURSE, LA US",
-            "datacoverage": 0.9999,
-            "id": "GHCND:USC00167421",
-            "elevationUnit": "METERS",
-            "longitude": -92.46667
-        },
-        {
             "elevation": 6.4,
             "mindate": "1988-01-01",
             "maxdate": "2020-02-20",
@@ -10418,28 +7931,6 @@
             "id": "GHCND:USC00167425",
             "elevationUnit": "METERS",
             "longitude": -90.4497
-        },
-        {
-            "elevation": 0,
-            "mindate": "1917-06-01",
-            "maxdate": "1918-10-26",
-            "latitude": 30.06666,
-            "name": "PONTCHARTRAIN GROVE, LA US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00167427",
-            "elevationUnit": "METERS",
-            "longitude": -89.95
-        },
-        {
-            "elevation": 9.1,
-            "mindate": "1956-01-01",
-            "maxdate": "1966-03-31",
-            "latitude": 30.25009,
-            "name": "PONTCHARTRAIN CAUSEW, LA ",
-            "datacoverage": 0.9824,
-            "id": "GHCND:USC00167432",
-            "elevationUnit": "METERS",
-            "longitude": -90.11401
         },
         {
             "elevation": 4.6,
@@ -10453,28 +7944,6 @@
             "longitude": -91.2183
         },
         {
-            "elevation": 3,
-            "mindate": "1893-01-01",
-            "maxdate": "1942-02-28",
-            "latitude": 29.01694,
-            "name": "PORT EADS, LA US",
-            "datacoverage": 0.5391,
-            "id": "GHCND:USC00167457",
-            "elevationUnit": "METERS",
-            "longitude": -89.17027
-        },
-        {
-            "elevation": 3,
-            "mindate": "1935-08-01",
-            "maxdate": "1964-12-31",
-            "latitude": 29.48333,
-            "name": "PORT SULPHUR, LA US",
-            "datacoverage": 0.997,
-            "id": "GHCND:USC00167471",
-            "elevationUnit": "METERS",
-            "longitude": -89.7
-        },
-        {
             "elevation": 4.6,
             "mindate": "1981-01-01",
             "maxdate": "1984-01-31",
@@ -10484,17 +7953,6 @@
             "id": "GHCND:USC00167485",
             "elevationUnit": "METERS",
             "longitude": -90.85
-        },
-        {
-            "elevation": 3,
-            "mindate": "1899-06-01",
-            "maxdate": "1902-07-31",
-            "latitude": 30.2,
-            "name": "PREVOST ISLAND, LA US",
-            "datacoverage": 0.8689,
-            "id": "GHCND:USC00167519",
-            "elevationUnit": "METERS",
-            "longitude": -89.73333
         },
         {
             "elevation": 3,
@@ -10528,28 +7986,6 @@
             "id": "GHCND:USC00167651",
             "elevationUnit": "METERS",
             "longitude": -93.21722
-        },
-        {
-            "elevation": 9.1,
-            "mindate": "1893-01-01",
-            "maxdate": "1968-03-31",
-            "latitude": 30.33333,
-            "name": "RAYNE 6 N, LA US",
-            "datacoverage": 0.5637,
-            "id": "GHCND:USC00167678",
-            "elevationUnit": "METERS",
-            "longitude": -92.26667
-        },
-        {
-            "elevation": 24.1,
-            "mindate": "1953-08-01",
-            "maxdate": "1956-11-30",
-            "latitude": 32.5,
-            "name": "RAYVILLE 2 N, LA US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00167680",
-            "elevationUnit": "METERS",
-            "longitude": -91.76667
         },
         {
             "elevation": 27.1,
@@ -10607,35 +8043,6 @@
             "longitude": -90.5802
         },
         {
-            "mindate": "1941-08-01",
-            "maxdate": "1943-12-31",
-            "latitude": 30.983333,
-            "name": "RICHLAND HILL NEAR SOIL CONSERVATION SERVICE NUMBER 4, LA US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00167822",
-            "longitude": -90.983333
-        },
-        {
-            "elevation": 27.1,
-            "mindate": "1912-05-01",
-            "maxdate": "1923-10-31",
-            "latitude": 31.28333,
-            "name": "RICHLAND PLANTATION, LA US",
-            "datacoverage": 0.9999,
-            "id": "GHCND:USC00167825",
-            "elevationUnit": "METERS",
-            "longitude": -92.41667
-        },
-        {
-            "mindate": "1941-09-01",
-            "maxdate": "1944-01-31",
-            "latitude": 32.33333,
-            "name": "RINGGOLD, LA US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00167861",
-            "longitude": -93.26667
-        },
-        {
             "elevation": 25,
             "mindate": "1940-12-01",
             "maxdate": "1972-03-31",
@@ -10645,17 +8052,6 @@
             "id": "GHCND:USC00167897",
             "elevationUnit": "METERS",
             "longitude": -92.10769
-        },
-        {
-            "elevation": 46,
-            "mindate": "1896-06-01",
-            "maxdate": "1957-12-31",
-            "latitude": 31.68333,
-            "name": "ROBELINE, LA US",
-            "datacoverage": 0.9797,
-            "id": "GHCND:USC00167905",
-            "elevationUnit": "METERS",
-            "longitude": -93.3
         },
         {
             "elevation": 48.8,
@@ -10689,15 +8085,6 @@
             "id": "GHCND:USC00167950",
             "elevationUnit": "METERS",
             "longitude": -94
-        },
-        {
-            "mindate": "1892-05-01",
-            "maxdate": "1894-09-30",
-            "latitude": 30.766667,
-            "name": "ROSELAND, LA US",
-            "datacoverage": 0.8273,
-            "id": "GHCND:USC00168004",
-            "longitude": -90.516667
         },
         {
             "elevation": 72.5,
@@ -10832,17 +8219,6 @@
             "longitude": -91.15806
         },
         {
-            "elevation": 73.2,
-            "mindate": "1947-04-01",
-            "maxdate": "1954-12-31",
-            "latitude": 32.9922,
-            "name": "SPRINGHILL, LA US",
-            "datacoverage": 0.9565,
-            "id": "GHCND:USC00168263",
-            "elevationUnit": "METERS",
-            "longitude": -93.4418
-        },
-        {
             "elevation": 4.6,
             "mindate": "1893-01-01",
             "maxdate": "1974-09-30",
@@ -10852,17 +8228,6 @@
             "id": "GHCND:USC00168295",
             "elevationUnit": "METERS",
             "longitude": -90.7748
-        },
-        {
-            "elevation": 6.1,
-            "mindate": "1891-02-01",
-            "maxdate": "1901-04-30",
-            "latitude": 30.06667,
-            "name": "SHELL BEACH, LA US",
-            "datacoverage": 0.7996,
-            "id": "GHCND:USC00168392",
-            "elevationUnit": "METERS",
-            "longitude": -92.63333
         },
         {
             "elevation": 100.6,
@@ -10876,17 +8241,6 @@
             "longitude": -89.98333
         },
         {
-            "elevation": 67.1,
-            "mindate": "1944-10-01",
-            "maxdate": "1947-04-30",
-            "latitude": 32.416667,
-            "name": "SHREVEPORT ASF DEPOT, LA US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00168430",
-            "elevationUnit": "METERS",
-            "longitude": -93.733333
-        },
-        {
             "elevation": 75.9,
             "mindate": "1994-01-01",
             "maxdate": "2003-06-30",
@@ -10896,6 +8250,1467 @@
             "id": "GHCND:USC00168431",
             "elevationUnit": "METERS",
             "longitude": -93.81861
+        },
+        {
+            "elevation": 54.9,
+            "mindate": "1977-10-01",
+            "maxdate": "2019-05-12",
+            "latitude": 32.5158,
+            "name": "SHREVEPORT DOWNTOWN, LA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00168436",
+            "elevationUnit": "METERS",
+            "longitude": -93.7447
+        },
+        {
+            "elevation": 61,
+            "mindate": "2003-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 32.3919,
+            "name": "SHREVEPORT SOUTHERN HILLS, LA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00168444",
+            "elevationUnit": "METERS",
+            "longitude": -93.7802
+        },
+        {
+            "elevation": 83.5,
+            "mindate": "2006-09-01",
+            "maxdate": "2020-05-16",
+            "latitude": 32.4513,
+            "name": "SHREVEPORT WEATHER FORECAST OFFICE, LA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00168448",
+            "elevationUnit": "METERS",
+            "longitude": -93.8416
+        },
+        {
+            "elevation": 14.9,
+            "mindate": "1904-12-01",
+            "maxdate": "1987-06-30",
+            "latitude": 30.98333,
+            "name": "SIMMESPORT, LA US",
+            "datacoverage": 0.9334,
+            "id": "GHCND:USC00168507",
+            "elevationUnit": "METERS",
+            "longitude": -91.81667
+        },
+        {
+            "elevation": 67.1,
+            "mindate": "1969-01-01",
+            "maxdate": "1972-06-30",
+            "latitude": 31.21667,
+            "name": "SIMPSON 10 ESE, LA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00168515",
+            "elevationUnit": "METERS",
+            "longitude": -92.83333
+        },
+        {
+            "elevation": 46,
+            "mindate": "1954-04-01",
+            "maxdate": "1974-05-31",
+            "latitude": 30.65,
+            "name": "SINGER, LA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00168519",
+            "elevationUnit": "METERS",
+            "longitude": -93.41667
+        },
+        {
+            "elevation": 92,
+            "mindate": "1973-11-01",
+            "maxdate": "1981-09-30",
+            "latitude": 31.2,
+            "name": "SLAGLE, LA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00168524",
+            "elevationUnit": "METERS",
+            "longitude": -93.13333
+        },
+        {
+            "elevation": 3,
+            "mindate": "1956-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 30.265,
+            "name": "SLIDELL, LA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00168539",
+            "elevationUnit": "METERS",
+            "longitude": -89.7697
+        },
+        {
+            "elevation": 73.2,
+            "mindate": "2002-05-01",
+            "maxdate": "2004-01-31",
+            "latitude": 32.55583,
+            "name": "SONDHEIMER, LA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00168586",
+            "elevationUnit": "METERS",
+            "longitude": -91.17472
+        },
+        {
+            "elevation": 61,
+            "mindate": "1943-10-01",
+            "maxdate": "2010-12-31",
+            "latitude": 32.90056,
+            "name": "SPEARSVILLE, LA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00168669",
+            "elevationUnit": "METERS",
+            "longitude": -92.57139
+        },
+        {
+            "elevation": 73.2,
+            "mindate": "1955-01-01",
+            "maxdate": "2020-04-01",
+            "latitude": 32.9922,
+            "name": "SPRINGHILL, LA US",
+            "datacoverage": 0.7494,
+            "id": "GHCND:USC00168683",
+            "elevationUnit": "METERS",
+            "longitude": -93.4418
+        },
+        {
+            "elevation": 9.1,
+            "mindate": "1955-01-01",
+            "maxdate": "1987-01-31",
+            "latitude": 30.43333,
+            "name": "SPRINGVILLE FIRE TWR, LA US",
+            "datacoverage": 0.9946,
+            "id": "GHCND:USC00168715",
+            "elevationUnit": "METERS",
+            "longitude": -90.65
+        },
+        {
+            "elevation": 25.9,
+            "mindate": "1940-01-01",
+            "maxdate": "2010-12-31",
+            "latitude": 32.7025,
+            "name": "STERLINGTON, LA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00168785",
+            "elevationUnit": "METERS",
+            "longitude": -92.0813
+        },
+        {
+            "elevation": 25.9,
+            "mindate": "1994-01-01",
+            "maxdate": "2002-06-30",
+            "latitude": 32.69333,
+            "name": "STERLINGTON NUMBER 2, LA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00168788",
+            "elevationUnit": "METERS",
+            "longitude": -92.05139
+        },
+        {
+            "elevation": 45.1,
+            "mindate": "1952-03-01",
+            "maxdate": "1985-05-31",
+            "latitude": 32.9,
+            "name": "STEVENSON FIRE TOWER, LA US",
+            "datacoverage": 0.6366,
+            "id": "GHCND:USC00168795",
+            "elevationUnit": "METERS",
+            "longitude": -91.96667
+        },
+        {
+            "elevation": 51.8,
+            "mindate": "1893-05-01",
+            "maxdate": "1992-12-31",
+            "latitude": 30.85,
+            "name": "SUGARTOWN, LA US",
+            "datacoverage": 0.5535,
+            "id": "GHCND:USC00168828",
+            "elevationUnit": "METERS",
+            "longitude": -93.01667
+        },
+        {
+            "elevation": 3,
+            "mindate": "1972-01-01",
+            "maxdate": "2020-05-11",
+            "latitude": 30.2383,
+            "name": "SULPHUR, LA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00168831",
+            "elevationUnit": "METERS",
+            "longitude": -93.3447
+        },
+        {
+            "elevation": 22.9,
+            "mindate": "1995-03-01",
+            "maxdate": "2020-05-17",
+            "latitude": 30.6434,
+            "name": "SUN, LA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00168861",
+            "elevationUnit": "METERS",
+            "longitude": -89.924
+        },
+        {
+            "elevation": 18.3,
+            "mindate": "1999-01-01",
+            "maxdate": "2020-05-16",
+            "latitude": 30.5225,
+            "name": "TALISHEEK, LA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00168906",
+            "elevationUnit": "METERS",
+            "longitude": -89.8742
+        },
+        {
+            "elevation": 25.9,
+            "mindate": "1907-08-01",
+            "maxdate": "2019-12-22",
+            "latitude": 32.3994,
+            "name": "TALLULAH, LA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00168923",
+            "elevationUnit": "METERS",
+            "longitude": -91.1841
+        },
+        {
+            "elevation": 3,
+            "mindate": "1997-01-01",
+            "maxdate": "2017-05-20",
+            "latitude": 29.91,
+            "name": "TERRYTOWN 3 S, LA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00168941",
+            "elevationUnit": "METERS",
+            "longitude": -90.0342
+        },
+        {
+            "elevation": 16.2,
+            "mindate": "2000-04-01",
+            "maxdate": "2009-01-31",
+            "latitude": 30.5981,
+            "name": "TICKFAW 3 ENE, LA US",
+            "datacoverage": 0.9995,
+            "id": "GHCND:USC00168945",
+            "elevationUnit": "METERS",
+            "longitude": -90.4472
+        },
+        {
+            "elevation": 4.6,
+            "mindate": "1893-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 29.7547,
+            "name": "THIBODAUX 4 SE, LA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00169013",
+            "elevationUnit": "METERS",
+            "longitude": -90.7748
+        },
+        {
+            "elevation": 6.1,
+            "mindate": "1992-01-01",
+            "maxdate": "1993-06-30",
+            "latitude": 29.8,
+            "name": "THIBODAUX NUMBER 2, LA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00169027",
+            "elevationUnit": "METERS",
+            "longitude": -90.8167
+        },
+        {
+            "elevation": 55.2,
+            "mindate": "2004-12-01",
+            "maxdate": "2020-05-14",
+            "latitude": 31.2021,
+            "name": "TOLEDO BEND LAKE, LA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00169074",
+            "elevationUnit": "METERS",
+            "longitude": -93.5726
+        },
+        {
+            "elevation": 67.1,
+            "mindate": "1982-10-01",
+            "maxdate": "1985-05-31",
+            "latitude": 31.66667,
+            "name": "VERDA FIRE TOWER, LA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00169303",
+            "elevationUnit": "METERS",
+            "longitude": -92.73333
+        },
+        {
+            "elevation": 12.2,
+            "mindate": "1950-06-01",
+            "maxdate": "1985-05-31",
+            "latitude": 29.7856,
+            "name": "LELAND BOWMAN LOCK, LA US",
+            "datacoverage": 0.9928,
+            "id": "GHCND:USC00169319",
+            "elevationUnit": "METERS",
+            "longitude": -92.2046
+        },
+        {
+            "elevation": 18.3,
+            "mindate": "1966-12-01",
+            "maxdate": "2018-05-31",
+            "latitude": 31.5652,
+            "name": "VIDALIA NUMBER 2, LA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00169357",
+            "elevationUnit": "METERS",
+            "longitude": -91.4332
+        },
+        {
+            "elevation": 21.3,
+            "mindate": "1926-04-01",
+            "maxdate": "2020-03-31",
+            "latitude": 30.6951,
+            "name": "VILLE PLATTE, LA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00169369",
+            "elevationUnit": "METERS",
+            "longitude": -92.2665
+        },
+        {
+            "elevation": 3.7,
+            "mindate": "1915-01-01",
+            "maxdate": "2003-01-31",
+            "latitude": 30.19222,
+            "name": "VINTON, LA US",
+            "datacoverage": 0.5528,
+            "id": "GHCND:USC00169375",
+            "elevationUnit": "METERS",
+            "longitude": -93.58111
+        },
+        {
+            "elevation": 3.4,
+            "mindate": "2009-05-01",
+            "maxdate": "2018-01-31",
+            "latitude": 30.1991,
+            "name": "VINTON 5 W, LA US",
+            "datacoverage": 0.9997,
+            "id": "GHCND:USC00169376",
+            "elevationUnit": "METERS",
+            "longitude": -93.6777
+        },
+        {
+            "elevation": 67.1,
+            "mindate": "1985-04-01",
+            "maxdate": "2013-11-22",
+            "latitude": 32.9033,
+            "name": "VIVIAN, LA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00169392",
+            "elevationUnit": "METERS",
+            "longitude": -93.9819
+        },
+        {
+            "elevation": 18.3,
+            "mindate": "1978-01-01",
+            "maxdate": "2010-12-31",
+            "latitude": 30.56222,
+            "name": "WATSON 3 ESE, LA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00169480",
+            "elevationUnit": "METERS",
+            "longitude": -90.92139
+        },
+        {
+            "mindate": "1953-03-01",
+            "maxdate": "1980-03-31",
+            "latitude": 32.16667,
+            "name": "WESTDALE 3 SW, LA US",
+            "datacoverage": 0.9568,
+            "id": "GHCND:USC00169610",
+            "longitude": -93.5
+        },
+        {
+            "elevation": 22.9,
+            "mindate": "1938-01-01",
+            "maxdate": "2020-04-30",
+            "latitude": 32.46,
+            "name": "WEST MONROE, LA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00169631",
+            "elevationUnit": "METERS",
+            "longitude": -92.1483
+        },
+        {
+            "elevation": 48.8,
+            "mindate": "1893-05-01",
+            "maxdate": "2010-12-31",
+            "latitude": 31.9622,
+            "name": "WINNFIELD 3 N, LA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00169803",
+            "elevationUnit": "METERS",
+            "longitude": -92.6561
+        },
+        {
+            "elevation": 22.6,
+            "mindate": "2004-01-01",
+            "maxdate": "2017-12-31",
+            "latitude": 32.141,
+            "name": "WINNSBORO 2 SE, LA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00169804",
+            "elevationUnit": "METERS",
+            "longitude": -91.7088
+        },
+        {
+            "elevation": 24.4,
+            "mindate": "1893-01-01",
+            "maxdate": "2018-05-31",
+            "latitude": 32.0997,
+            "name": "WINNSBORO 5 SSE, LA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00169806",
+            "elevationUnit": "METERS",
+            "longitude": -91.7022
+        },
+        {
+            "elevation": 67.1,
+            "mindate": "1952-01-01",
+            "maxdate": "2010-12-31",
+            "latitude": 32.02944,
+            "name": "WINONA FIRE TOWER, LA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00169809",
+            "elevationUnit": "METERS",
+            "longitude": -92.65528
+        },
+        {
+            "elevation": 35.4,
+            "mindate": "1956-09-01",
+            "maxdate": "1985-06-30",
+            "latitude": 31.11667,
+            "name": "WOODWORTH 2 SE, LA US",
+            "datacoverage": 0.9972,
+            "id": "GHCND:USC00169865",
+            "elevationUnit": "METERS",
+            "longitude": -92.46667
+        },
+        {
+            "elevation": 36.6,
+            "mindate": "1975-02-01",
+            "maxdate": "2010-12-31",
+            "latitude": 30.68139,
+            "name": "ZACHARY, LA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00169930",
+            "elevationUnit": "METERS",
+            "longitude": -91.125
+        },
+        {
+            "elevation": 63.7,
+            "mindate": "1989-01-01",
+            "maxdate": "2020-04-01",
+            "latitude": 31.6598,
+            "name": "ZWOLLE 2 NW, LA US",
+            "datacoverage": 0.9892,
+            "id": "GHCND:USC00169980",
+            "elevationUnit": "METERS",
+            "longitude": -93.6633
+        },
+        {
+            "elevation": 57.9,
+            "mindate": "1975-07-01",
+            "maxdate": "2010-12-31",
+            "latitude": 31.175,
+            "name": "TOLEDO BEND DAM, TX US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00419068",
+            "elevationUnit": "METERS",
+            "longitude": -93.56528
+        },
+        {
+            "elevation": 3.4,
+            "mindate": "2002-12-01",
+            "maxdate": "2020-05-17",
+            "latitude": 30.3167,
+            "name": "BIG BRANCH NWR LOUISIANA, LA US",
+            "datacoverage": 1,
+            "id": "GHCND:USR0000LBBR",
+            "elevationUnit": "METERS",
+            "longitude": -89.9333
+        },
+        {
+            "elevation": 70.1,
+            "mindate": "2002-02-01",
+            "maxdate": "2020-05-17",
+            "latitude": 32.8042,
+            "name": "CANEY FTS LOUISIANA, LA US",
+            "datacoverage": 1,
+            "id": "GHCND:USR0000LCAN",
+            "elevationUnit": "METERS",
+            "longitude": -93.0667
+        },
+        {
+            "elevation": 70.1,
+            "mindate": "1999-03-01",
+            "maxdate": "2020-05-17",
+            "latitude": 31.5022,
+            "name": "CATAHOULA FTS LOUISIANA, LA US",
+            "datacoverage": 0.9998,
+            "id": "GHCND:USR0000LCAT",
+            "elevationUnit": "METERS",
+            "longitude": -92.4617
+        },
+        {
+            "elevation": 56.4,
+            "mindate": "2000-02-01",
+            "maxdate": "2020-05-17",
+            "latitude": 31.185,
+            "name": "EVANGELINE GARDNER LOUISIANA, LA US",
+            "datacoverage": 0.995,
+            "id": "GHCND:USR0000LEVA",
+            "elevationUnit": "METERS",
+            "longitude": -92.6314
+        },
+        {
+            "elevation": 91.4,
+            "mindate": "2001-07-01",
+            "maxdate": "2020-05-17",
+            "latitude": 31.9,
+            "name": "GUM SPRINGS LOUISIANA, LA US",
+            "datacoverage": 0.9886,
+            "id": "GHCND:USR0000LGUM",
+            "elevationUnit": "METERS",
+            "longitude": -92.7672
+        },
+        {
+            "elevation": 61,
+            "mindate": "1999-03-01",
+            "maxdate": "2020-05-17",
+            "latitude": 31.495,
+            "name": "KISATCHIE FTS LOUISIANA, LA US",
+            "datacoverage": 0.9949,
+            "id": "GHCND:USR0000LKIS",
+            "elevationUnit": "METERS",
+            "longitude": -93.1981
+        },
+        {
+            "elevation": 0.9,
+            "mindate": "2003-06-01",
+            "maxdate": "2020-05-17",
+            "latitude": 29.8881,
+            "name": "SABINE LOUISIANA, LA US",
+            "datacoverage": 0.8273,
+            "id": "GHCND:USR0000LSAB",
+            "elevationUnit": "METERS",
+            "longitude": -93.4039
+        },
+        {
+            "elevation": 106.7,
+            "mindate": "2000-02-01",
+            "maxdate": "2020-05-17",
+            "latitude": 31.0167,
+            "name": "VERNON LOUISIANA, LA US",
+            "datacoverage": 0.995,
+            "id": "GHCND:USR0000LVER",
+            "elevationUnit": "METERS",
+            "longitude": -93.1869
+        },
+        {
+            "elevation": 100.6,
+            "mindate": "1955-01-01",
+            "maxdate": "2014-09-21",
+            "latitude": 31.05,
+            "name": "FORT POLK ARMY AIR FIELD, LA US",
+            "datacoverage": 1,
+            "id": "GHCND:USW00003931",
+            "elevationUnit": "METERS",
+            "longitude": -93.18333
+        },
+        {
+            "elevation": 2.7,
+            "mindate": "1942-05-02",
+            "maxdate": "2020-05-16",
+            "latitude": 30.12472,
+            "name": "LAKE CHARLES REGIONAL AIRPORT, LA US",
+            "datacoverage": 1,
+            "id": "GHCND:USW00003937",
+            "elevationUnit": "METERS",
+            "longitude": -93.22833
+        },
+        {
+            "elevation": 111.3,
+            "mindate": "2006-01-01",
+            "maxdate": "2020-05-14",
+            "latitude": 31.4,
+            "name": "PEASON RIDGE RANGE, LA US",
+            "datacoverage": 1,
+            "id": "GHCND:USW00003949",
+            "elevationUnit": "METERS",
+            "longitude": -93.28333
+        },
+        {
+            "elevation": 26.2,
+            "mindate": "1996-07-01",
+            "maxdate": "2020-05-16",
+            "latitude": 32.35,
+            "name": "TALLULAH VICKSBURG REGIONAL AIRPORT, LA US",
+            "datacoverage": 1,
+            "id": "GHCND:USW00003996",
+            "elevationUnit": "METERS",
+            "longitude": -91.02778
+        },
+        {
+            "elevation": 0.9,
+            "mindate": "1965-01-01",
+            "maxdate": "2019-12-02",
+            "latitude": 29.333,
+            "name": "BOOTHVILLE ASOS, LA US",
+            "datacoverage": 1,
+            "id": "GHCND:USW00012884",
+            "elevationUnit": "METERS",
+            "longitude": -89.4075
+        },
+        {
+            "elevation": 1.2,
+            "mindate": "1945-10-01",
+            "maxdate": "2020-05-16",
+            "latitude": 29.99691,
+            "name": "NEW ORLEANS AIRPORT, LA US",
+            "datacoverage": 1,
+            "id": "GHCND:USW00012916",
+            "elevationUnit": "METERS",
+            "longitude": -90.27751
+        },
+        {
+            "elevation": 6.1,
+            "mindate": "1893-01-01",
+            "maxdate": "2020-05-13",
+            "latitude": 29.9166,
+            "name": "NEW ORLEANS AUDUBON, LA US",
+            "datacoverage": 1,
+            "id": "GHCND:USW00012930",
+            "elevationUnit": "METERS",
+            "longitude": -90.1302
+        },
+        {
+            "elevation": 1.5,
+            "mindate": "1956-06-01",
+            "maxdate": "2016-03-01",
+            "latitude": 29.81667,
+            "name": "NEW ORLEANS ALVIN CALLENDER FIELD, LA US",
+            "datacoverage": 1,
+            "id": "GHCND:USW00012958",
+            "elevationUnit": "METERS",
+            "longitude": -90.01667
+        },
+        {
+            "elevation": 1.2,
+            "mindate": "1998-05-01",
+            "maxdate": "2020-05-15",
+            "latitude": 29.56222,
+            "name": "SALT POINT, LA US",
+            "datacoverage": 1,
+            "id": "GHCND:USW00012968",
+            "elevationUnit": "METERS",
+            "longitude": -91.52556
+        },
+        {
+            "elevation": 25.6,
+            "mindate": "1952-01-01",
+            "maxdate": "1970-12-31",
+            "latitude": 31.33472,
+            "name": "ALEXANDRIA INTERNATIONAL AIRPORT, LA US",
+            "datacoverage": 1,
+            "id": "GHCND:USW00013934",
+            "elevationUnit": "METERS",
+            "longitude": -92.55861
+        },
+        {
+            "elevation": 36,
+            "mindate": "1960-01-01",
+            "maxdate": "2020-05-14",
+            "latitude": 31.3953,
+            "name": "ALEXANDRIA ESLER FIELD, LA US",
+            "datacoverage": 1,
+            "id": "GHCND:USW00013935",
+            "elevationUnit": "METERS",
+            "longitude": -92.2907
+        },
+        {
+            "elevation": 24.1,
+            "mindate": "1930-01-01",
+            "maxdate": "2020-05-16",
+            "latitude": 32.5155,
+            "name": "MONROE REGIONAL AIRPORT, LA US",
+            "datacoverage": 1,
+            "id": "GHCND:USW00013942",
+            "elevationUnit": "METERS",
+            "longitude": -92.0405
+        },
+        {
+            "elevation": 50.6,
+            "mindate": "1949-01-01",
+            "maxdate": "1970-12-31",
+            "latitude": 32.5,
+            "name": "SHREVEPORT BARKSDALE AFB, LA US",
+            "datacoverage": 1,
+            "id": "GHCND:USW00013944",
+            "elevationUnit": "METERS",
+            "longitude": -93.66667
+        },
+        {
+            "elevation": 77.4,
+            "mindate": "1939-01-01",
+            "maxdate": "2020-05-16",
+            "latitude": 32.4472,
+            "name": "SHREVEPORT REGIONAL AIRPORT, LA US",
+            "datacoverage": 1,
+            "id": "GHCND:USW00013957",
+            "elevationUnit": "METERS",
+            "longitude": -93.8244
+        },
+        {
+            "elevation": 19.5,
+            "mindate": "1930-01-01",
+            "maxdate": "2020-05-16",
+            "latitude": 30.5372,
+            "name": "BATON ROUGE METRO AIRPORT, LA US",
+            "datacoverage": 1,
+            "id": "GHCND:USW00013970",
+            "elevationUnit": "METERS",
+            "longitude": -91.1469
+        },
+        {
+            "elevation": 11.6,
+            "mindate": "1893-01-01",
+            "maxdate": "2020-05-16",
+            "latitude": 30.205,
+            "name": "LAFAYETTE REGIONAL AIRPORT, LA US",
+            "datacoverage": 1,
+            "id": "GHCND:USW00013976",
+            "elevationUnit": "METERS",
+            "longitude": -91.9875
+        },
+        {
+            "elevation": 8.2,
+            "mindate": "1988-09-01",
+            "maxdate": "2020-05-15",
+            "latitude": 30.34333,
+            "name": "SLIDELL AIRPORT, LA US",
+            "datacoverage": 1,
+            "id": "GHCND:USW00053865",
+            "elevationUnit": "METERS",
+            "longitude": -89.82222
+        },
+        {
+            "elevation": 54.6,
+            "mindate": "1997-06-01",
+            "maxdate": "2020-05-15",
+            "latitude": 32.54278,
+            "name": "SHREVEPORT DOWNTOWN AIRPORT, LA US",
+            "datacoverage": 1,
+            "id": "GHCND:USW00053905",
+            "elevationUnit": "METERS",
+            "longitude": -93.745
+        },
+        {
+            "elevation": 7.3,
+            "mindate": "1998-05-01",
+            "maxdate": "2020-05-16",
+            "latitude": 30.0375,
+            "name": "NEW IBERIA AIRPORT ACADIANA REGIONAL, LA US",
+            "datacoverage": 1,
+            "id": "GHCND:USW00053915",
+            "elevationUnit": "METERS",
+            "longitude": -91.8839
+        },
+        {
+            "elevation": 2.7,
+            "mindate": "1991-08-01",
+            "maxdate": "2020-05-15",
+            "latitude": 30.0494,
+            "name": "NEW ORLEANS LAKEFRONT AIRPORT, LA US",
+            "datacoverage": 1,
+            "id": "GHCND:USW00053917",
+            "elevationUnit": "METERS",
+            "longitude": -90.0288
+        },
+        {
+            "elevation": 10.7,
+            "mindate": "2003-01-01",
+            "maxdate": "2020-05-16",
+            "latitude": 30.0918,
+            "name": "LAFAYETTE 13 SE, LA US",
+            "datacoverage": 1,
+            "id": "GHCND:USW00053960",
+            "elevationUnit": "METERS",
+            "longitude": -91.8731
+        },
+        {
+            "elevation": 26.8,
+            "mindate": "2003-01-01",
+            "maxdate": "2020-05-16",
+            "latitude": 32.8833,
+            "name": "MONROE 26 N, LA US",
+            "datacoverage": 1,
+            "id": "GHCND:USW00053961",
+            "elevationUnit": "METERS",
+            "longitude": -92.1165
+        },
+        {
+            "elevation": 94.5,
+            "mindate": "2006-01-01",
+            "maxdate": "2020-05-13",
+            "latitude": 31.0217,
+            "name": "FORT POLK FULLERTON LANDING STRIP, LA US",
+            "datacoverage": 1,
+            "id": "GHCND:USW00053988",
+            "elevationUnit": "METERS",
+            "longitude": -92.9107
+        },
+        {
+            "elevation": 114,
+            "mindate": "2010-01-01",
+            "maxdate": "2013-05-01",
+            "latitude": 31.1136,
+            "name": "FORT POLK SELF STRIP, LA US",
+            "datacoverage": 1,
+            "id": "GHCND:USW00063903",
+            "elevationUnit": "METERS",
+            "longitude": -92.9656
+        },
+        {
+            "elevation": 25.6,
+            "mindate": "1948-01-01",
+            "maxdate": "2020-05-16",
+            "latitude": 31.33472,
+            "name": "ALEXANDRIA INTERNATIONAL AIRPORT, LA US",
+            "datacoverage": 1,
+            "id": "GHCND:USW00093915",
+            "elevationUnit": "METERS",
+            "longitude": -92.55861
+        },
+        {
+            "elevation": 150.9,
+            "mindate": "2003-02-12",
+            "maxdate": "2020-05-26",
+            "latitude": 32.28,
+            "name": "JACKSON BRANDON, MS US",
+            "datacoverage": 0.95,
+            "id": "NEXRAD:KDGX",
+            "elevationUnit": "METERS",
+            "longitude": -89.98444
+        },
+        {
+            "elevation": 5.5,
+            "mindate": "1992-08-25",
+            "maxdate": "2020-05-26",
+            "latitude": 29.47194,
+            "name": "HOUSTON, TX US",
+            "datacoverage": 0.95,
+            "id": "NEXRAD:KHGX",
+            "elevationUnit": "METERS",
+            "longitude": -95.07889
+        },
+        {
+            "elevation": 4,
+            "mindate": "1995-05-09",
+            "maxdate": "2020-05-26",
+            "latitude": 30.125,
+            "name": "LAKE CHARLES, LA US",
+            "datacoverage": 0.95,
+            "id": "NEXRAD:KLCH",
+            "elevationUnit": "METERS",
+            "longitude": -93.21583
+        },
+        {
+            "elevation": 7.3,
+            "mindate": "1995-05-09",
+            "maxdate": "2020-05-26",
+            "latitude": 30.33667,
+            "name": "NEW ORLEANS, LA US",
+            "datacoverage": 0.95,
+            "id": "NEXRAD:KLIX",
+            "elevationUnit": "METERS",
+            "longitude": -89.82528
+        },
+        {
+            "elevation": 173.1,
+            "mindate": "1995-05-09",
+            "maxdate": "2020-05-26",
+            "latitude": 34.83639,
+            "name": "LITTLE ROCK, AR US",
+            "datacoverage": 0.95,
+            "id": "NEXRAD:KLZK",
+            "elevationUnit": "METERS",
+            "longitude": -92.26194
+        },
+        {
+            "elevation": 63.4,
+            "mindate": "1995-01-12",
+            "maxdate": "2020-05-26",
+            "latitude": 30.67944,
+            "name": "MOBILE, AL US",
+            "datacoverage": 0.95,
+            "id": "NEXRAD:KMOB",
+            "elevationUnit": "METERS",
+            "longitude": -88.23972
+        },
+        {
+            "elevation": 124.4,
+            "mindate": "1995-06-28",
+            "maxdate": "2020-05-26",
+            "latitude": 31.15528,
+            "name": "FORT POLK, LA US",
+            "datacoverage": 0.95,
+            "id": "NEXRAD:KPOE",
+            "elevationUnit": "METERS",
+            "longitude": -92.97583
+        },
+        {
+            "elevation": 83.2,
+            "mindate": "1995-08-28",
+            "maxdate": "2020-05-26",
+            "latitude": 32.45056,
+            "name": "SHREVEPORT, LA US",
+            "datacoverage": 0.95,
+            "id": "NEXRAD:KSHV",
+            "elevationUnit": "METERS",
+            "longitude": -93.84111
+        },
+        {
+            "elevation": 36.6,
+            "mindate": "2012-08-24",
+            "maxdate": "2020-05-27",
+            "latitude": 30.817,
+            "name": "GEORGE R CARR MEMORIAL AIR FIELD, LA US",
+            "datacoverage": 1,
+            "id": "WBAN:00148",
+            "elevationUnit": "METERS",
+            "longitude": -89.867
+        },
+        {
+            "elevation": 15.2,
+            "mindate": "2009-01-01",
+            "maxdate": "2020-05-27",
+            "latitude": 29.976,
+            "name": "ABBEVILLE CHRIS CRUSTA MEMORIAL AIRPORT, LA US",
+            "datacoverage": 1,
+            "id": "WBAN:00184",
+            "elevationUnit": "METERS",
+            "longitude": -92.084
+        },
+        {
+            "elevation": 85,
+            "mindate": "2011-05-01",
+            "maxdate": "2020-05-27",
+            "latitude": 32.646,
+            "name": "MINDEN AIRPORT, LA US",
+            "datacoverage": 1,
+            "id": "WBAN:00268",
+            "elevationUnit": "METERS",
+            "longitude": -93.298
+        },
+        {
+            "elevation": 30.2,
+            "mindate": "2011-10-01",
+            "maxdate": "2020-05-27",
+            "latitude": 29.117,
+            "name": "PORT FORCHON HELIPORT, LA US",
+            "datacoverage": 1,
+            "id": "WBAN:00333",
+            "elevationUnit": "METERS",
+            "longitude": -90.2
+        },
+        {
+            "elevation": 3,
+            "mindate": "2006-10-24",
+            "maxdate": "2020-05-27",
+            "latitude": 30.131,
+            "name": "SOUTHLAND FIELD AIRPORT, LA US",
+            "datacoverage": 1,
+            "id": "WBAN:00359",
+            "elevationUnit": "METERS",
+            "longitude": -93.376
+        },
+        {
+            "elevation": 7,
+            "mindate": "2014-07-31",
+            "maxdate": "2020-05-27",
+            "latitude": 30.243,
+            "name": "JENNINGS AIRPORT, LA US",
+            "datacoverage": 1,
+            "id": "WBAN:00381",
+            "elevationUnit": "METERS",
+            "longitude": -92.673
+        },
+        {
+            "elevation": 25.6,
+            "mindate": "2014-07-31",
+            "maxdate": "2020-05-27",
+            "latitude": 30.44105,
+            "name": "DE QUINCY INDUSTRIAL AIRPARK, LA US",
+            "datacoverage": 1,
+            "id": "WBAN:00423",
+            "elevationUnit": "METERS",
+            "longitude": -93.47361
+        },
+        {
+            "elevation": 2.1,
+            "mindate": "2005-01-03",
+            "maxdate": "2016-11-03",
+            "latitude": 29.25,
+            "name": "GRAND ISLE SAWRS, LA US",
+            "datacoverage": 0.05,
+            "id": "WBAN:00432",
+            "elevationUnit": "METERS",
+            "longitude": -89.966
+        },
+        {
+            "elevation": 12.2,
+            "mindate": "2011-12-21",
+            "maxdate": "2020-05-27",
+            "latitude": 30.7183,
+            "name": "FALSE RIVER REGIONAL AIRPORT, LA US",
+            "datacoverage": 1,
+            "id": "WBAN:00457",
+            "elevationUnit": "METERS",
+            "longitude": -91.4786
+        },
+        {
+            "elevation": 4.6,
+            "mindate": "2014-07-31",
+            "maxdate": "2020-05-27",
+            "latitude": 30.17272,
+            "name": "LOUISIANA REGIONAL AIRPORT, LA US",
+            "datacoverage": 1,
+            "id": "WBAN:00460",
+            "elevationUnit": "METERS",
+            "longitude": -90.94061
+        },
+        {
+            "elevation": 23.2,
+            "mindate": "2013-05-02",
+            "maxdate": "2020-05-27",
+            "latitude": 30.55838,
+            "name": "ST LANDRY PARISH AIRPORT AHART FIELD, LA US",
+            "datacoverage": 1,
+            "id": "WBAN:00466",
+            "elevationUnit": "METERS",
+            "longitude": -92.09938
+        },
+        {
+            "elevation": 9.1,
+            "mindate": "2014-07-31",
+            "maxdate": "2015-01-28",
+            "latitude": 29.95268,
+            "name": "NEW ORLEANS SUPERDOME HELIPORT, LA US",
+            "datacoverage": 1,
+            "id": "WBAN:00483",
+            "elevationUnit": "METERS",
+            "longitude": -90.08273
+        },
+        {
+            "elevation": 13.4,
+            "mindate": "2005-01-01",
+            "maxdate": "2020-05-27",
+            "latitude": 30.52083,
+            "name": "HAMMOND MUNICIPAL AIRPORT, LA US",
+            "datacoverage": 1,
+            "id": "WBAN:03908",
+            "elevationUnit": "METERS",
+            "longitude": -90.4175
+        },
+        {
+            "elevation": 100.6,
+            "mindate": "1957-11-01",
+            "maxdate": "2020-05-27",
+            "latitude": 31.05,
+            "name": "FORT POLK ARMY AIR FIELD, LA US",
+            "datacoverage": 0.82,
+            "id": "WBAN:03931",
+            "elevationUnit": "METERS",
+            "longitude": -93.18333
+        },
+        {
+            "elevation": 2.7,
+            "mindate": "1942-05-02",
+            "maxdate": "2020-05-27",
+            "latitude": 30.12472,
+            "name": "LAKE CHARLES REGIONAL AIRPORT, LA US",
+            "datacoverage": 1,
+            "id": "WBAN:03937",
+            "elevationUnit": "METERS",
+            "longitude": -93.22833
+        },
+        {
+            "elevation": 111.3,
+            "mindate": "2006-01-01",
+            "maxdate": "2020-05-27",
+            "latitude": 31.4,
+            "name": "PEASON RIDGE RANGE, LA US",
+            "datacoverage": 1,
+            "id": "WBAN:03949",
+            "elevationUnit": "METERS",
+            "longitude": -93.28333
+        },
+        {
+            "elevation": 62.2,
+            "mindate": "2006-01-01",
+            "maxdate": "2020-05-27",
+            "latitude": 30.83333,
+            "name": "DE RIDDER BEAUREGARD PARISH AIRPORT, LA US",
+            "datacoverage": 1,
+            "id": "WBAN:03976",
+            "elevationUnit": "METERS",
+            "longitude": -93.33333
+        },
+        {
+            "elevation": 26.2,
+            "mindate": "2005-01-01",
+            "maxdate": "2020-05-27",
+            "latitude": 32.35,
+            "name": "TALLULAH VICKSBURG REGIONAL AIRPORT, LA US",
+            "datacoverage": 1,
+            "id": "WBAN:03996",
+            "elevationUnit": "METERS",
+            "longitude": -91.02778
+        },
+        {
+            "elevation": 0.9,
+            "mindate": "1965-02-01",
+            "maxdate": "2019-12-02",
+            "latitude": 29.333,
+            "name": "BOOTHVILLE ASOS, LA US",
+            "datacoverage": 0.8,
+            "id": "WBAN:12884",
+            "elevationUnit": "METERS",
+            "longitude": -89.4075
+        },
+        {
+            "elevation": 1.2,
+            "mindate": "1945-10-01",
+            "maxdate": "2020-05-27",
+            "latitude": 29.99691,
+            "name": "NEW ORLEANS AIRPORT, LA US",
+            "datacoverage": 1,
+            "id": "WBAN:12916",
+            "elevationUnit": "METERS",
+            "longitude": -90.27751
+        },
+        {
+            "elevation": 4,
+            "mindate": "1945-03-01",
+            "maxdate": "2020-05-27",
+            "latitude": 29.56639,
+            "name": "HOUMA TERREBONNE AIRPORT, LA US",
+            "datacoverage": 0.29,
+            "id": "WBAN:12927",
+            "elevationUnit": "METERS",
+            "longitude": -90.66028
+        },
+        {
+            "elevation": 2.7,
+            "mindate": "2005-01-01",
+            "maxdate": "2020-05-27",
+            "latitude": 29.71667,
+            "name": "PATTERSON, LA US",
+            "datacoverage": 1,
+            "id": "WBAN:12936",
+            "elevationUnit": "METERS",
+            "longitude": -91.33333
+        },
+        {
+            "elevation": 1.5,
+            "mindate": "1958-01-01",
+            "maxdate": "2020-05-27",
+            "latitude": 29.81667,
+            "name": "NEW ORLEANS ALVIN CALLENDER FIELD, LA US",
+            "datacoverage": 1,
+            "id": "WBAN:12958",
+            "elevationUnit": "METERS",
+            "longitude": -90.01667
+        },
+        {
+            "elevation": 1.2,
+            "mindate": "2005-01-01",
+            "maxdate": "2020-05-27",
+            "latitude": 29.56222,
+            "name": "SALT POINT, LA US",
+            "datacoverage": 0.94,
+            "id": "WBAN:12968",
+            "elevationUnit": "METERS",
+            "longitude": -91.52556
+        },
+        {
+            "elevation": 1.5,
+            "mindate": "2014-08-01",
+            "maxdate": "2016-11-03",
+            "latitude": 29.69306,
+            "name": "LAKE PALOURD BASE HELIPORT, LA US",
+            "datacoverage": 0.18,
+            "id": "WBAN:12988",
+            "elevationUnit": "METERS",
+            "longitude": -91.09861
+        },
+        {
+            "elevation": 0.9,
+            "mindate": "2005-06-01",
+            "maxdate": "2005-09-12",
+            "latitude": 29.78333,
+            "name": "CAMERON HELIPORT, LA US",
+            "datacoverage": 0.08,
+            "id": "WBAN:12989",
+            "elevationUnit": "METERS",
+            "longitude": -93.3
+        },
+        {
+            "elevation": 2.1,
+            "mindate": "2005-06-01",
+            "maxdate": "2008-12-31",
+            "latitude": 29.19194,
+            "name": "GRAND ISLE SEAPLANE BASE, LA US",
+            "datacoverage": 0.03,
+            "id": "WBAN:12990",
+            "elevationUnit": "METERS",
+            "longitude": -90.07528
+        },
+        {
+            "elevation": 0.3,
+            "mindate": "2006-01-19",
+            "maxdate": "2020-05-27",
+            "latitude": 29.44472,
+            "name": "GALLIANO SOUTH LAFOURCHE AIRPORT, LA US",
+            "datacoverage": 1,
+            "id": "WBAN:12993",
+            "elevationUnit": "METERS",
+            "longitude": -90.26111
+        },
+        {
+            "elevation": 36,
+            "mindate": "1941-07-01",
+            "maxdate": "2020-05-27",
+            "latitude": 31.3953,
+            "name": "ALEXANDRIA ESLER FIELD, LA US",
+            "datacoverage": 0.99,
+            "id": "WBAN:13935",
+            "elevationUnit": "METERS",
+            "longitude": -92.2907
+        },
+        {
+            "elevation": 5.2,
+            "mindate": "1948-07-01",
+            "maxdate": "2020-05-27",
+            "latitude": 30.21028,
+            "name": "LAKE CHARLES CHENNAULT INTERNATIONAL AIRPORT, LA US",
+            "datacoverage": 0.67,
+            "id": "WBAN:13941",
+            "elevationUnit": "METERS",
+            "longitude": -93.14333
+        },
+        {
+            "elevation": 24.1,
+            "mindate": "1942-10-01",
+            "maxdate": "2020-05-27",
+            "latitude": 32.5155,
+            "name": "MONROE REGIONAL AIRPORT, LA US",
+            "datacoverage": 1,
+            "id": "WBAN:13942",
+            "elevationUnit": "METERS",
+            "longitude": -92.0405
+        },
+        {
+            "elevation": 50.6,
+            "mindate": "1937-03-01",
+            "maxdate": "2020-05-27",
+            "latitude": 32.5,
+            "name": "SHREVEPORT BARKSDALE AFB, LA US",
+            "datacoverage": 1,
+            "id": "WBAN:13944",
+            "elevationUnit": "METERS",
+            "longitude": -93.66667
+        },
+        {
+            "elevation": 77.4,
+            "mindate": "1948-07-01",
+            "maxdate": "2020-05-27",
+            "latitude": 32.4472,
+            "name": "SHREVEPORT REGIONAL AIRPORT, LA US",
+            "datacoverage": 1,
+            "id": "WBAN:13957",
+            "elevationUnit": "METERS",
+            "longitude": -93.8244
+        },
+        {
+            "elevation": 19.5,
+            "mindate": "1942-01-01",
+            "maxdate": "2020-05-27",
+            "latitude": 30.5372,
+            "name": "BATON ROUGE METRO AIRPORT, LA US",
+            "datacoverage": 1,
+            "id": "WBAN:13970",
+            "elevationUnit": "METERS",
+            "longitude": -91.1469
+        },
+        {
+            "elevation": 11.6,
+            "mindate": "1945-10-01",
+            "maxdate": "2020-05-27",
+            "latitude": 30.205,
+            "name": "LAFAYETTE REGIONAL AIRPORT, LA US",
+            "datacoverage": 1,
+            "id": "WBAN:13976",
+            "elevationUnit": "METERS",
+            "longitude": -91.9875
+        },
+        {
+            "elevation": 8.2,
+            "mindate": "2005-01-01",
+            "maxdate": "2020-05-27",
+            "latitude": 30.34333,
+            "name": "SLIDELL AIRPORT, LA US",
+            "datacoverage": 1,
+            "id": "WBAN:53865",
+            "elevationUnit": "METERS",
+            "longitude": -89.82222
+        },
+        {
+            "elevation": 54.6,
+            "mindate": "2000-01-01",
+            "maxdate": "2020-05-27",
+            "latitude": 32.54278,
+            "name": "SHREVEPORT DOWNTOWN AIRPORT, LA US",
+            "datacoverage": 1,
+            "id": "WBAN:53905",
+            "elevationUnit": "METERS",
+            "longitude": -93.745
+        },
+        {
+            "elevation": 7.3,
+            "mindate": "2005-01-01",
+            "maxdate": "2020-05-27",
+            "latitude": 30.0375,
+            "name": "NEW IBERIA AIRPORT ACADIANA REGIONAL, LA US",
+            "datacoverage": 1,
+            "id": "WBAN:53915",
+            "elevationUnit": "METERS",
+            "longitude": -91.8839
+        },
+        {
+            "elevation": 2.7,
+            "mindate": "1942-09-01",
+            "maxdate": "2020-05-27",
+            "latitude": 30.0494,
+            "name": "NEW ORLEANS LAKEFRONT AIRPORT, LA US",
+            "datacoverage": 0.78,
+            "id": "WBAN:53917",
+            "elevationUnit": "METERS",
+            "longitude": -90.0288
+        },
+        {
+            "elevation": 36.9,
+            "mindate": "2005-01-01",
+            "maxdate": "2020-05-27",
+            "latitude": 31.73583,
+            "name": "NATCHITOCHES REGIONAL AIRPORT, LA US",
+            "datacoverage": 1,
+            "id": "WBAN:53943",
+            "elevationUnit": "METERS",
+            "longitude": -93.09917
+        },
+        {
+            "elevation": 94.8,
+            "mindate": "2006-04-25",
+            "maxdate": "2020-05-27",
+            "latitude": 32.51444,
+            "name": "RUSTON REGIONAL AIRPORT, LA US",
+            "datacoverage": 1,
+            "id": "WBAN:53958",
+            "elevationUnit": "METERS",
+            "longitude": -92.58833
+        },
+        {
+            "elevation": 10.7,
+            "mindate": "2003-01-11",
+            "maxdate": "2020-05-27",
+            "latitude": 30.0918,
+            "name": "LAFAYETTE 13 SE, LA US",
+            "datacoverage": 1,
+            "id": "WBAN:53960",
+            "elevationUnit": "METERS",
+            "longitude": -91.8731
+        },
+        {
+            "elevation": 26.8,
+            "mindate": "2003-01-15",
+            "maxdate": "2020-05-27",
+            "latitude": 32.8833,
+            "name": "MONROE 26 N, LA US",
+            "datacoverage": 1,
+            "id": "WBAN:53961",
+            "elevationUnit": "METERS",
+            "longitude": -92.1165
+        },
+        {
+            "elevation": 94.5,
+            "mindate": "2006-01-01",
+            "maxdate": "2020-05-27",
+            "latitude": 31.0217,
+            "name": "FORT POLK FULLERTON LANDING STRIP, LA US",
+            "datacoverage": 1,
+            "id": "WBAN:53988",
+            "elevationUnit": "METERS",
+            "longitude": -92.9107
+        },
+        {
+            "elevation": 32.6,
+            "mindate": "2005-04-08",
+            "maxdate": "2020-05-27",
+            "latitude": 30.75028,
+            "name": "OAKDALE ALLEN PARISH AIRPORT, LA US",
+            "datacoverage": 1,
+            "id": "WBAN:53991",
+            "elevationUnit": "METERS",
+            "longitude": -92.68833
+        },
+        {
+            "elevation": 50.9,
+            "mindate": "2006-10-18",
+            "maxdate": "2020-05-27",
+            "latitude": 32.75611,
+            "name": "BASTROP MOREHOUSE MEMORIAL AIRPORT, LA US",
+            "datacoverage": 1,
+            "id": "WBAN:53992",
+            "elevationUnit": "METERS",
+            "longitude": -91.88056
+        },
+        {
+            "elevation": 3.4,
+            "mindate": "2006-11-04",
+            "maxdate": "2018-05-22",
+            "latitude": 30.13139,
+            "name": "SULPHUR SOUTHLAND FIELD AIRPORT, LA US",
+            "datacoverage": 0.36,
+            "id": "WBAN:53995",
+            "elevationUnit": "METERS",
+            "longitude": -93.37611
+        },
+        {
+            "elevation": 114,
+            "mindate": "2005-03-03",
+            "maxdate": "2013-05-02",
+            "latitude": 31.1136,
+            "name": "FORT POLK SELF STRIP, LA US",
+            "datacoverage": 1,
+            "id": "WBAN:63903",
+            "elevationUnit": "METERS",
+            "longitude": -92.9656
+        },
+        {
+            "elevation": 25.6,
+            "mindate": "2001-10-01",
+            "maxdate": "2020-05-27",
+            "latitude": 31.33472,
+            "name": "ALEXANDRIA INTERNATIONAL AIRPORT, LA US",
+            "datacoverage": 1,
+            "id": "WBAN:93915",
+            "elevationUnit": "METERS",
+            "longitude": -92.55861
         }
     ]
 }

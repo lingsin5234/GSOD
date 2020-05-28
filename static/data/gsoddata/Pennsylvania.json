@@ -2,7 +2,7 @@
     "metadata": {
         "resultset": {
             "offset": 1,
-            "count": 2030,
+            "count": 1483,
             "limit": 1000
         }
     },
@@ -52,15 +52,6 @@
             "longitude": -76.6384
         },
         {
-            "mindate": "1948-05-01",
-            "maxdate": "1948-12-01",
-            "latitude": 41.36667,
-            "name": "PORT JERVIS BRIDGE, PA US",
-            "datacoverage": 0.1242,
-            "id": "COOP:306779",
-            "longitude": -74.7
-        },
-        {
             "elevation": 228,
             "mindate": "1931-01-01",
             "maxdate": "2015-11-01",
@@ -70,17 +61,6 @@
             "id": "COOP:360022",
             "elevationUnit": "METERS",
             "longitude": -79.8152
-        },
-        {
-            "elevation": 281,
-            "mindate": "1944-05-01",
-            "maxdate": "1955-04-01",
-            "latitude": 41.9,
-            "name": "ALBION, PA US",
-            "datacoverage": 0.8169,
-            "id": "COOP:360062",
-            "elevationUnit": "METERS",
-            "longitude": -80.36667
         },
         {
             "elevation": 576.1,
@@ -94,17 +74,6 @@
             "longitude": -75.4861
         },
         {
-            "elevation": 488,
-            "mindate": "1948-01-01",
-            "maxdate": "1967-03-01",
-            "latitude": 41.2,
-            "name": "ALLENS MILLS, PA US",
-            "datacoverage": 0.9338,
-            "id": "COOP:360099",
-            "elevationUnit": "METERS",
-            "longitude": -78.9
-        },
-        {
             "elevation": 118.9,
             "mindate": "1948-01-01",
             "maxdate": "2015-11-01",
@@ -114,17 +83,6 @@
             "id": "COOP:360106",
             "elevationUnit": "METERS",
             "longitude": -75.44771
-        },
-        {
-            "elevation": 75.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1965-06-01",
-            "latitude": 40.6,
-            "name": "ALLENTOWN GAS COMPAN, PA US",
-            "datacoverage": 0.988,
-            "id": "COOP:360111",
-            "elevationUnit": "METERS",
-            "longitude": -75.46667
         },
         {
             "elevation": 451.1,
@@ -147,17 +105,6 @@
             "id": "COOP:360132",
             "elevationUnit": "METERS",
             "longitude": -78.41983
-        },
-        {
-            "elevation": 458.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1967-04-01",
-            "latitude": 40.5,
-            "name": "ALTOONA HORSESHOE CU, PA US",
-            "datacoverage": 0.9864,
-            "id": "COOP:360134",
-            "elevationUnit": "METERS",
-            "longitude": -78.48333
         },
         {
             "elevation": 402.3,
@@ -204,28 +151,6 @@
             "longitude": -77.3
         },
         {
-            "elevation": 281,
-            "mindate": "1950-05-01",
-            "maxdate": "1953-10-01",
-            "latitude": 39.75,
-            "name": "ARTEMAS, PA US",
-            "datacoverage": 0.9992,
-            "id": "COOP:360256",
-            "elevationUnit": "METERS",
-            "longitude": -78.43333
-        },
-        {
-            "elevation": 381,
-            "mindate": "1953-09-01",
-            "maxdate": "1957-06-01",
-            "latitude": 39.75,
-            "name": "ARTEMAS 1 WNW, PA US",
-            "datacoverage": 0.8645,
-            "id": "COOP:360259",
-            "elevationUnit": "METERS",
-            "longitude": -78.46667
-        },
-        {
             "elevation": 542.8,
             "mindate": "1963-11-01",
             "maxdate": "1981-10-01",
@@ -235,39 +160,6 @@
             "id": "COOP:360310",
             "elevationUnit": "METERS",
             "longitude": -78.11667
-        },
-        {
-            "elevation": 484.6,
-            "mindate": "1948-01-01",
-            "maxdate": "1981-10-28",
-            "latitude": 42,
-            "name": "AUSTINBURG 2 W, NY US",
-            "datacoverage": 0.8766,
-            "id": "COOP:360313",
-            "elevationUnit": "METERS",
-            "longitude": -77.53333
-        },
-        {
-            "elevation": 283.5,
-            "mindate": "1938-06-01",
-            "maxdate": "1954-06-01",
-            "latitude": 41.3336,
-            "name": "WILKES BARRE SCRANTON INTERNATIONAL AIRPORT, PA US",
-            "datacoverage": 0.9897,
-            "id": "COOP:360319",
-            "elevationUnit": "METERS",
-            "longitude": -75.7269
-        },
-        {
-            "elevation": 439.5,
-            "mindate": "1931-01-01",
-            "maxdate": "1942-02-01",
-            "latitude": 40.266667,
-            "name": "BAKERS SUMMIT, PA US",
-            "datacoverage": 0.9183,
-            "id": "COOP:360352",
-            "elevationUnit": "METERS",
-            "longitude": -78.416667
         },
         {
             "elevation": 374.9,
@@ -290,39 +182,6 @@
             "id": "COOP:360409",
             "elevationUnit": "METERS",
             "longitude": -79.01861
-        },
-        {
-            "elevation": 95.1,
-            "mindate": "1956-07-01",
-            "maxdate": "1957-11-01",
-            "latitude": 40.43333,
-            "name": "BARTO 4 NW, PA US",
-            "datacoverage": 0.5288,
-            "id": "COOP:360428",
-            "elevationUnit": "METERS",
-            "longitude": -75.65
-        },
-        {
-            "elevation": 519.1,
-            "mindate": "1953-04-01",
-            "maxdate": "1953-10-01",
-            "latitude": 41.18333,
-            "name": "BEAR CREEK, PA US",
-            "datacoverage": 0.0592,
-            "id": "COOP:360452",
-            "elevationUnit": "METERS",
-            "longitude": -75.76667
-        },
-        {
-            "elevation": 459.9,
-            "mindate": "1958-07-01",
-            "maxdate": "1963-07-30",
-            "latitude": 41.1184,
-            "name": "FRANCIS E WALTER DAM, PA US",
-            "datacoverage": 0.9807,
-            "id": "COOP:360455",
-            "elevationUnit": "METERS",
-            "longitude": -75.7277
         },
         {
             "elevation": 309.4,
@@ -367,17 +226,6 @@
             "id": "COOP:360488",
             "elevationUnit": "METERS",
             "longitude": -75.615
-        },
-        {
-            "elevation": 176.8,
-            "mindate": "1953-09-01",
-            "maxdate": "1957-11-01",
-            "latitude": 41.0808,
-            "name": "BEECH CREEK STATION, PA US",
-            "datacoverage": 0.9021,
-            "id": "COOP:360499",
-            "elevationUnit": "METERS",
-            "longitude": -77.5497
         },
         {
             "elevation": 338.9,
@@ -469,11 +317,11 @@
         },
         {
             "elevation": 110,
-            "mindate": "1931-01-01",
+            "mindate": "1948-06-01",
             "maxdate": "1978-01-26",
             "latitude": 40.6,
             "name": "BETHLEHEM LEHIGH UNI, PA US",
-            "datacoverage": 0.9678,
+            "datacoverage": 0.0499,
             "id": "COOP:360634",
             "elevationUnit": "METERS",
             "longitude": -75.36667
@@ -506,7 +354,7 @@
             "maxdate": "2014-01-01",
             "latitude": 40.3027,
             "name": "BLAIN 5 SW, PA US",
-            "datacoverage": 0.9754,
+            "datacoverage": 0.0452,
             "id": "COOP:360725",
             "elevationUnit": "METERS",
             "longitude": -77.5894
@@ -546,11 +394,11 @@
         },
         {
             "elevation": 502.9,
-            "mindate": "1948-01-01",
+            "mindate": "1948-05-01",
             "maxdate": "1983-12-01",
             "latitude": 41.1,
             "name": "BLAKESLEE CORNERS, PA US",
-            "datacoverage": 0.9783,
+            "datacoverage": 0.0728,
             "id": "COOP:360743",
             "elevationUnit": "METERS",
             "longitude": -75.6
@@ -611,17 +459,6 @@
             "longitude": -76.02745
         },
         {
-            "elevation": 783.9,
-            "mindate": "1942-01-01",
-            "maxdate": "1960-05-01",
-            "latitude": 40.16667,
-            "name": "BOSWELL 6 WNW, PA US",
-            "datacoverage": 0.8947,
-            "id": "COOP:360820",
-            "elevationUnit": "METERS",
-            "longitude": -79.13333
-        },
-        {
             "elevation": 570.6,
             "mindate": "1960-05-01",
             "maxdate": "2015-04-01",
@@ -642,17 +479,6 @@
             "id": "COOP:360861",
             "elevationUnit": "METERS",
             "longitude": -79.8594
-        },
-        {
-            "elevation": 220.1,
-            "mindate": "1948-12-01",
-            "maxdate": "1948-12-01",
-            "latitude": 40.4,
-            "name": "BRADDOCK UPPER LOCK, PA US",
-            "datacoverage": 0.9819,
-            "id": "COOP:360862",
-            "elevationUnit": "METERS",
-            "longitude": -79.86667
         },
         {
             "elevation": 652.9,
@@ -686,72 +512,6 @@
             "id": "COOP:360868",
             "elevationUnit": "METERS",
             "longitude": -78.71431
-        },
-        {
-            "elevation": 463.9,
-            "mindate": "1948-05-01",
-            "maxdate": "1948-12-01",
-            "latitude": 41.88333,
-            "name": "BRADFORD 5 S, PA US",
-            "datacoverage": 0.2485,
-            "id": "COOP:360869",
-            "elevationUnit": "METERS",
-            "longitude": -78.65
-        },
-        {
-            "elevation": 467,
-            "mindate": "1948-05-01",
-            "maxdate": "1948-12-01",
-            "latitude": 41.91667,
-            "name": "BRADFORD 4 SW, PA US",
-            "datacoverage": 0.2485,
-            "id": "COOP:360871",
-            "elevationUnit": "METERS",
-            "longitude": -78.7
-        },
-        {
-            "elevation": 702,
-            "mindate": "1949-03-01",
-            "maxdate": "1949-12-01",
-            "latitude": 41.96667,
-            "name": "BRADFORD 4 NW HH SUM, PA US",
-            "datacoverage": 0.6963,
-            "id": "COOP:360873",
-            "elevationUnit": "METERS",
-            "longitude": -78.73333
-        },
-        {
-            "elevation": 686.1,
-            "mindate": "1951-02-01",
-            "maxdate": "1954-12-01",
-            "latitude": 41.98333,
-            "name": "BRADFORD 3 NW HEDGEH, PA US",
-            "datacoverage": 0.8301,
-            "id": "COOP:360875",
-            "elevationUnit": "METERS",
-            "longitude": -78.7
-        },
-        {
-            "elevation": 412.1,
-            "mindate": "1942-01-01",
-            "maxdate": "1967-07-01",
-            "latitude": 40,
-            "name": "BREEZEWOOD, PA US",
-            "datacoverage": 0.9187,
-            "id": "COOP:360905",
-            "elevationUnit": "METERS",
-            "longitude": -78.23333
-        },
-        {
-            "elevation": 427,
-            "mindate": "1942-01-01",
-            "maxdate": "1962-07-01",
-            "latitude": 41.15,
-            "name": "BROOKVILLE FAA AIRPORT, PA US",
-            "datacoverage": 0.9394,
-            "id": "COOP:361002",
-            "elevationUnit": "METERS",
-            "longitude": -79.1
         },
         {
             "elevation": 368.8,
@@ -831,39 +591,6 @@
             "longitude": -77.86667
         },
         {
-            "elevation": 335.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1965-09-01",
-            "latitude": 40.86667,
-            "name": "BUTLER, PA US",
-            "datacoverage": 0.9521,
-            "id": "COOP:361130",
-            "elevationUnit": "METERS",
-            "longitude": -79.9
-        },
-        {
-            "elevation": 406,
-            "mindate": "1965-09-01",
-            "maxdate": "1967-07-01",
-            "latitude": 40.88333,
-            "name": "BUTLER 5 WNW, PA US",
-            "datacoverage": 0.9113,
-            "id": "COOP:361133",
-            "elevationUnit": "METERS",
-            "longitude": -79.98333
-        },
-        {
-            "elevation": 348.1,
-            "mindate": "1948-05-01",
-            "maxdate": "1966-08-01",
-            "latitude": 40.85,
-            "name": "BUTLER SUBSTN, PA US",
-            "datacoverage": 0.8805,
-            "id": "COOP:361135",
-            "elevationUnit": "METERS",
-            "longitude": -79.88333
-        },
-        {
             "elevation": 304.8,
             "mindate": "1967-06-01",
             "maxdate": "2015-11-01",
@@ -873,17 +600,6 @@
             "id": "COOP:361139",
             "elevationUnit": "METERS",
             "longitude": -79.9163
-        },
-        {
-            "elevation": 139.9,
-            "mindate": "1944-08-01",
-            "maxdate": "1961-12-01",
-            "latitude": 40.25,
-            "name": "CAMP HILL, PA US",
-            "datacoverage": 0.9616,
-            "id": "COOP:361198",
-            "elevationUnit": "METERS",
-            "longitude": -76.91667
         },
         {
             "elevation": 180.1,
@@ -1012,7 +728,7 @@
             "maxdate": "2005-09-01",
             "latitude": 40.13333,
             "name": "CHARLEROI, PA US",
-            "datacoverage": 0.9756,
+            "datacoverage": 0.0428,
             "id": "COOP:361372",
             "elevationUnit": "METERS",
             "longitude": -79.91667
@@ -1038,17 +754,6 @@
             "id": "COOP:361400",
             "elevationUnit": "METERS",
             "longitude": -77.82302
-        },
-        {
-            "elevation": 27.1,
-            "mindate": "1951-04-01",
-            "maxdate": "1958-12-01",
-            "latitude": 39.85,
-            "name": "CHESTER, PA US",
-            "datacoverage": 0.9136,
-            "id": "COOP:361423",
-            "elevationUnit": "METERS",
-            "longitude": -75.36667
         },
         {
             "elevation": 423.7,
@@ -1117,17 +822,6 @@
             "longitude": -78.45
         },
         {
-            "elevation": 647.1,
-            "mindate": "1952-05-01",
-            "maxdate": "1955-05-01",
-            "latitude": 41.11667,
-            "name": "CLEARFIELD 8 NW NURS, PA US",
-            "datacoverage": 0.9191,
-            "id": "COOP:361522",
-            "elevationUnit": "METERS",
-            "longitude": -78.53333
-        },
-        {
             "elevation": 634,
             "mindate": "2000-11-01",
             "maxdate": "2015-11-01",
@@ -1144,7 +838,7 @@
             "maxdate": "1985-02-01",
             "latitude": 41.68333,
             "name": "CLERMONT, PA US",
-            "datacoverage": 0.9365,
+            "datacoverage": 0.0717,
             "id": "COOP:361529",
             "elevationUnit": "METERS",
             "longitude": -78.5
@@ -1157,28 +851,6 @@
             "name": "CLERMONT 8 SW, PA US",
             "datacoverage": 0.9006,
             "id": "COOP:361534",
-            "elevationUnit": "METERS",
-            "longitude": -78.53333
-        },
-        {
-            "elevation": 313.9,
-            "mindate": "1942-02-01",
-            "maxdate": "1959-06-01",
-            "latitude": 40.83333,
-            "name": "GREENWOOD RESERVOIR, PA US",
-            "datacoverage": 0.9908,
-            "id": "COOP:361572",
-            "elevationUnit": "METERS",
-            "longitude": -75.93333
-        },
-        {
-            "elevation": 451.1,
-            "mindate": "1943-08-01",
-            "maxdate": "1949-11-14",
-            "latitude": 40.75,
-            "name": "COALPORT, PA US",
-            "datacoverage": 0.7863,
-            "id": "COOP:361581",
             "elevationUnit": "METERS",
             "longitude": -78.53333
         },
@@ -1214,50 +886,6 @@
             "id": "COOP:361591",
             "elevationUnit": "METERS",
             "longitude": -75.86
-        },
-        {
-            "elevation": 103.9,
-            "mindate": "1940-01-01",
-            "maxdate": "1955-07-01",
-            "latitude": 39.98333,
-            "name": "COATESVILLE, PA US",
-            "datacoverage": 0.9681,
-            "id": "COOP:361594",
-            "elevationUnit": "METERS",
-            "longitude": -75.81667
-        },
-        {
-            "elevation": 195.1,
-            "mindate": "1945-11-01",
-            "maxdate": "1956-02-01",
-            "latitude": 41.35,
-            "name": "COGAN STATION 2 N, PA US",
-            "datacoverage": 0.7502,
-            "id": "COOP:361631",
-            "elevationUnit": "METERS",
-            "longitude": -77.1
-        },
-        {
-            "elevation": 92,
-            "mindate": "1943-05-01",
-            "maxdate": "1959-06-01",
-            "latitude": 40.03333,
-            "name": "COLUMBIA, PA US",
-            "datacoverage": 0.9381,
-            "id": "COOP:361675",
-            "elevationUnit": "METERS",
-            "longitude": -76.5
-        },
-        {
-            "elevation": 335.9,
-            "mindate": "1949-02-01",
-            "maxdate": "1951-04-01",
-            "latitude": 41.83333,
-            "name": "COLUMBIA CROSS ROADS, PA US",
-            "datacoverage": 0.9291,
-            "id": "COOP:361680",
-            "elevationUnit": "METERS",
-            "longitude": -76.8
         },
         {
             "elevation": 454.2,
@@ -1304,17 +932,6 @@
             "longitude": -80.36667
         },
         {
-            "elevation": 338.9,
-            "mindate": "1960-02-01",
-            "maxdate": "1962-09-01",
-            "latitude": 41.76667,
-            "name": "CONNEAUTVILLE 6 E, PA US",
-            "datacoverage": 1,
-            "id": "COOP:361721",
-            "elevationUnit": "METERS",
-            "longitude": -80.25
-        },
-        {
             "elevation": 265.2,
             "mindate": "1931-01-01",
             "maxdate": "1976-03-01",
@@ -1346,28 +963,6 @@
             "id": "COOP:361727",
             "elevationUnit": "METERS",
             "longitude": -79.58333
-        },
-        {
-            "elevation": 396.8,
-            "mindate": "1948-05-01",
-            "maxdate": "1951-07-28",
-            "latitude": 40.01667,
-            "name": "CONNELLSVILLE 2 E, PA US",
-            "datacoverage": 0.8206,
-            "id": "COOP:361728",
-            "elevationUnit": "METERS",
-            "longitude": -79.55
-        },
-        {
-            "elevation": 396.8,
-            "mindate": "1951-07-01",
-            "maxdate": "1964-10-29",
-            "latitude": 40.01667,
-            "name": "CONNELLSVILLE 2 E, PA US",
-            "datacoverage": 0.6617,
-            "id": "COOP:361729",
-            "elevationUnit": "METERS",
-            "longitude": -79.55
         },
         {
             "elevation": 21.3,
@@ -1414,17 +1009,6 @@
             "longitude": -79.21723
         },
         {
-            "elevation": 445,
-            "mindate": "1955-04-01",
-            "maxdate": "1958-12-01",
-            "latitude": 41.35,
-            "name": "COOKSBURG 2 NNW, PA US",
-            "datacoverage": 0.8658,
-            "id": "COOP:361752",
-            "elevationUnit": "METERS",
-            "longitude": -79.21667
-        },
-        {
             "elevation": 219.5,
             "mindate": "1931-01-01",
             "maxdate": "1989-05-01",
@@ -1456,28 +1040,6 @@
             "id": "COOP:361802",
             "elevationUnit": "METERS",
             "longitude": -78.04077
-        },
-        {
-            "elevation": 515.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1954-07-01",
-            "latitude": 41.78333,
-            "name": "COUDERSPORT 1 NNE, PA US",
-            "datacoverage": 0.7881,
-            "id": "COOP:361804",
-            "elevationUnit": "METERS",
-            "longitude": -78.01667
-        },
-        {
-            "elevation": 677,
-            "mindate": "1954-07-01",
-            "maxdate": "1956-03-01",
-            "latitude": 41.8,
-            "name": "COUDERSPORT 2 NW, PA US",
-            "datacoverage": 0.7609,
-            "id": "COOP:361805",
-            "elevationUnit": "METERS",
-            "longitude": -78.05
         },
         {
             "elevation": 701.3,
@@ -1525,17 +1087,6 @@
         },
         {
             "elevation": 531.9,
-            "mindate": "1938-12-01",
-            "maxdate": "1956-09-01",
-            "latitude": 41.7375,
-            "name": "COVINGTON 2 WSW, PA US",
-            "datacoverage": 0.9439,
-            "id": "COOP:361832",
-            "elevationUnit": "METERS",
-            "longitude": -77.1158
-        },
-        {
-            "elevation": 531.9,
             "mindate": "1956-10-01",
             "maxdate": "2015-11-01",
             "latitude": 41.7375,
@@ -1566,28 +1117,6 @@
             "id": "COOP:361881",
             "elevationUnit": "METERS",
             "longitude": -79.2
-        },
-        {
-            "elevation": 702,
-            "mindate": "1931-01-01",
-            "maxdate": "1949-04-27",
-            "latitude": 40.46667,
-            "name": "CRESSON 1 E SUMMIT, PA US",
-            "datacoverage": 0.379,
-            "id": "COOP:361894",
-            "elevationUnit": "METERS",
-            "longitude": -78.56667
-        },
-        {
-            "elevation": 775.1,
-            "mindate": "1949-04-01",
-            "maxdate": "1965-09-01",
-            "latitude": 40.45,
-            "name": "CRESSON 2 SE, PA US",
-            "datacoverage": 0.8989,
-            "id": "COOP:361895",
-            "elevationUnit": "METERS",
-            "longitude": -78.56667
         },
         {
             "elevation": 680,
@@ -1623,17 +1152,6 @@
             "longitude": -78.5294
         },
         {
-            "elevation": 675.1,
-            "mindate": "1943-01-01",
-            "maxdate": "1952-06-01",
-            "latitude": 41.05,
-            "name": "CURWENSVILLE, PA US",
-            "datacoverage": 0.9824,
-            "id": "COOP:361966",
-            "elevationUnit": "METERS",
-            "longitude": -78.58333
-        },
-        {
             "elevation": 460.2,
             "mindate": "2013-01-01",
             "maxdate": "2015-04-01",
@@ -1645,17 +1163,6 @@
             "longitude": -78.65
         },
         {
-            "elevation": 647.1,
-            "mindate": "1948-05-01",
-            "maxdate": "1958-05-01",
-            "latitude": 41.91667,
-            "name": "CUSTER CITY 2 W, PA US",
-            "datacoverage": 0.9421,
-            "id": "COOP:361978",
-            "elevationUnit": "METERS",
-            "longitude": -78.68333
-        },
-        {
             "elevation": 145.7,
             "mindate": "1940-12-01",
             "maxdate": "2009-03-01",
@@ -1665,17 +1172,6 @@
             "id": "COOP:362013",
             "elevationUnit": "METERS",
             "longitude": -76.6176
-        },
-        {
-            "elevation": 396.8,
-            "mindate": "1941-05-01",
-            "maxdate": "1950-03-01",
-            "latitude": 40.41667,
-            "name": "DAUPHIN 3 N, PA US",
-            "datacoverage": 0.9719,
-            "id": "COOP:362029",
-            "elevationUnit": "METERS",
-            "longitude": -76.93333
         },
         {
             "elevation": 163.7,
@@ -1712,11 +1208,11 @@
         },
         {
             "elevation": 131.1,
-            "mindate": "1939-11-01",
+            "mindate": "1948-06-01",
             "maxdate": "1983-01-31",
             "latitude": 41.21667,
             "name": "DINGMANS FERRY, PA US",
-            "datacoverage": 0.8726,
+            "datacoverage": 0.0584,
             "id": "COOP:362160",
             "elevationUnit": "METERS",
             "longitude": -74.86667
@@ -1731,17 +1227,6 @@
             "id": "COOP:362163",
             "elevationUnit": "METERS",
             "longitude": -74.90722
-        },
-        {
-            "elevation": 189,
-            "mindate": "1949-04-01",
-            "maxdate": "1969-12-01",
-            "latitude": 41.56667,
-            "name": "DIXON, PA US",
-            "datacoverage": 0.9637,
-            "id": "COOP:362171",
-            "elevationUnit": "METERS",
-            "longitude": -75.9
         },
         {
             "elevation": 548.6,
@@ -1789,11 +1274,11 @@
         },
         {
             "elevation": 249.9,
-            "mindate": "1948-01-01",
+            "mindate": "1948-05-01",
             "maxdate": "2014-01-01",
             "latitude": 41.3421,
             "name": "DRIFTWOOD, PA US",
-            "datacoverage": 0.9547,
+            "datacoverage": 0.0519,
             "id": "COOP:362245",
             "elevationUnit": "METERS",
             "longitude": -78.1401
@@ -1852,17 +1337,6 @@
             "id": "COOP:362323",
             "elevationUnit": "METERS",
             "longitude": -76.4043
-        },
-        {
-            "elevation": 534,
-            "mindate": "1951-01-01",
-            "maxdate": "1959-12-01",
-            "latitude": 41.55,
-            "name": "DUSHORE 3 NE, PA US",
-            "datacoverage": 0.9538,
-            "id": "COOP:362324",
-            "elevationUnit": "METERS",
-            "longitude": -76.35
         },
         {
             "elevation": 576.1,
@@ -1931,28 +1405,6 @@
             "longitude": -75.16667
         },
         {
-            "elevation": 648,
-            "mindate": "1937-04-01",
-            "maxdate": "1955-05-01",
-            "latitude": 40.35,
-            "name": "EAST WATERFORD 3 E, PA US",
-            "datacoverage": 0.9953,
-            "id": "COOP:362459",
-            "elevationUnit": "METERS",
-            "longitude": -77.55
-        },
-        {
-            "elevation": 637,
-            "mindate": "1931-01-01",
-            "maxdate": "1963-12-01",
-            "latitude": 40.48333,
-            "name": "EBENSBURG, PA US",
-            "datacoverage": 0.9596,
-            "id": "COOP:362466",
-            "elevationUnit": "METERS",
-            "longitude": -78.71667
-        },
-        {
             "elevation": 591.3,
             "mindate": "1964-01-01",
             "maxdate": "2015-11-01",
@@ -1962,39 +1414,6 @@
             "id": "COOP:362470",
             "elevationUnit": "METERS",
             "longitude": -78.73092
-        },
-        {
-            "elevation": 396.8,
-            "mindate": "1949-05-01",
-            "maxdate": "1949-08-01",
-            "latitude": 41.26667,
-            "name": "EDGEMERE, PA US",
-            "datacoverage": 0.6617,
-            "id": "COOP:362501",
-            "elevationUnit": "METERS",
-            "longitude": -75
-        },
-        {
-            "elevation": 371.9,
-            "mindate": "1953-12-01",
-            "maxdate": "1962-10-01",
-            "latitude": 41.86667,
-            "name": "EDINBORO, PA US",
-            "datacoverage": 0.8785,
-            "id": "COOP:362514",
-            "elevationUnit": "METERS",
-            "longitude": -80.13333
-        },
-        {
-            "elevation": 348.1,
-            "mindate": "1958-01-01",
-            "maxdate": "1959-12-01",
-            "latitude": 41.83333,
-            "name": "EDINBORO 6 SW, PA US",
-            "datacoverage": 0.8339,
-            "id": "COOP:362519",
-            "elevationUnit": "METERS",
-            "longitude": -80.23333
         },
         {
             "elevation": 445,
@@ -2041,17 +1460,6 @@
             "longitude": -78.33333
         },
         {
-            "elevation": 146,
-            "mindate": "1932-01-01",
-            "maxdate": "1959-06-01",
-            "latitude": 40.13333,
-            "name": "ELIZABETHTOWN, PA US",
-            "datacoverage": 0.9668,
-            "id": "COOP:362560",
-            "elevationUnit": "METERS",
-            "longitude": -76.61667
-        },
-        {
             "elevation": 158.5,
             "mindate": "1992-06-01",
             "maxdate": "2013-12-29",
@@ -2085,39 +1493,6 @@
             "longitude": -78.2275
         },
         {
-            "elevation": 353.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1956-09-01",
-            "latitude": 41.51667,
-            "name": "EMPORIUM 1 E, PA US",
-            "datacoverage": 0.9577,
-            "id": "COOP:362633",
-            "elevationUnit": "METERS",
-            "longitude": -78.21667
-        },
-        {
-            "elevation": 531,
-            "mindate": "1956-08-01",
-            "maxdate": "1960-08-01",
-            "latitude": 41.46667,
-            "name": "EMPORIUM 2 SSW, PA US",
-            "datacoverage": 1,
-            "id": "COOP:362634",
-            "elevationUnit": "METERS",
-            "longitude": -78.25
-        },
-        {
-            "elevation": 476.1,
-            "mindate": "1960-07-01",
-            "maxdate": "1969-06-01",
-            "latitude": 41.53333,
-            "name": "EMPORIUM 1 N, PA US",
-            "datacoverage": 0.9908,
-            "id": "COOP:362635",
-            "elevationUnit": "METERS",
-            "longitude": -78.23333
-        },
-        {
             "elevation": 267.9,
             "mindate": "1938-01-01",
             "maxdate": "1985-02-01",
@@ -2141,17 +1516,6 @@
         },
         {
             "elevation": 271.3,
-            "mindate": "1945-08-01",
-            "maxdate": "1956-12-01",
-            "latitude": 41.8721,
-            "name": "EQUINUNK, PA US",
-            "datacoverage": 0.9487,
-            "id": "COOP:362669",
-            "elevationUnit": "METERS",
-            "longitude": -75.2656
-        },
-        {
-            "elevation": 271.3,
             "mindate": "1957-01-01",
             "maxdate": "2015-09-01",
             "latitude": 41.8721,
@@ -2160,17 +1524,6 @@
             "id": "COOP:362671",
             "elevationUnit": "METERS",
             "longitude": -75.2656
-        },
-        {
-            "elevation": 210,
-            "mindate": "1948-01-01",
-            "maxdate": "1953-08-31",
-            "latitude": 42.11667,
-            "name": "ERIE WEATHER BUREAU CITY, PA US",
-            "datacoverage": 0.9411,
-            "id": "COOP:362677",
-            "elevationUnit": "METERS",
-            "longitude": -80.08333
         },
         {
             "elevation": 222.2,
@@ -2248,17 +1601,6 @@
             "id": "COOP:363028",
             "elevationUnit": "METERS",
             "longitude": -79.8305
-        },
-        {
-            "elevation": 289.9,
-            "mindate": "1937-08-01",
-            "maxdate": "1955-12-01",
-            "latitude": 40.43333,
-            "name": "FREDERICKSVILLE 2 SE, PA US",
-            "datacoverage": 0.9094,
-            "id": "COOP:363047",
-            "elevationUnit": "METERS",
-            "longitude": -75.66667
         },
         {
             "elevation": 580,
@@ -2343,7 +1685,7 @@
             "maxdate": "1984-03-01",
             "latitude": 39.8,
             "name": "GETTYSBURG 1 S, PA US",
-            "datacoverage": 0.9512,
+            "datacoverage": 0.054,
             "id": "COOP:363223",
             "elevationUnit": "METERS",
             "longitude": -77.23333
@@ -2358,17 +1700,6 @@
             "id": "COOP:363226",
             "elevationUnit": "METERS",
             "longitude": -77.3506
-        },
-        {
-            "elevation": 677,
-            "mindate": "1948-05-01",
-            "maxdate": "1958-12-01",
-            "latitude": 41.85,
-            "name": "GIFFORD, PA US",
-            "datacoverage": 0.8826,
-            "id": "COOP:363237",
-            "elevationUnit": "METERS",
-            "longitude": -78.6
         },
         {
             "elevation": 485.9,
@@ -2394,25 +1725,14 @@
         },
         {
             "elevation": 491,
-            "mindate": "1940-11-01",
+            "mindate": "1948-05-01",
             "maxdate": "1979-12-25",
             "latitude": 39.81667,
             "name": "GLENCOE 1 ENE, PA US",
-            "datacoverage": 0.8561,
+            "datacoverage": 0.0628,
             "id": "COOP:363298",
             "elevationUnit": "METERS",
             "longitude": -78.83333
-        },
-        {
-            "elevation": 470,
-            "mindate": "1942-10-01",
-            "maxdate": "1953-01-01",
-            "latitude": 41.55,
-            "name": "GLEN HAZEL 1 NE DAM, PA US",
-            "datacoverage": 0.7152,
-            "id": "COOP:363310",
-            "elevationUnit": "METERS",
-            "longitude": -78.6
         },
         {
             "elevation": 524.3,
@@ -2449,11 +1769,11 @@
         },
         {
             "elevation": 189,
-            "mindate": "1948-01-01",
+            "mindate": "1948-05-01",
             "maxdate": "1971-06-01",
             "latitude": 39.8,
             "name": "GLEN ROCK, PA US",
-            "datacoverage": 0.9116,
+            "datacoverage": 0.0616,
             "id": "COOP:363330",
             "elevationUnit": "METERS",
             "longitude": -76.73333
@@ -2468,28 +1788,6 @@
             "id": "COOP:363343",
             "elevationUnit": "METERS",
             "longitude": -80.20578
-        },
-        {
-            "elevation": 458.1,
-            "mindate": "1948-05-01",
-            "maxdate": "1951-03-01",
-            "latitude": 40.63333,
-            "name": "GOOD SPRINGS 1 NW, PA US",
-            "datacoverage": 0.9673,
-            "id": "COOP:363372",
-            "elevationUnit": "METERS",
-            "longitude": -76.5
-        },
-        {
-            "elevation": 274.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1955-12-01",
-            "latitude": 40.75,
-            "name": "GORDON, PA US",
-            "datacoverage": 0.9933,
-            "id": "COOP:363379",
-            "elevationUnit": "METERS",
-            "longitude": -76.33333
         },
         {
             "elevation": 576.1,
@@ -2514,17 +1812,6 @@
             "longitude": -78.58718
         },
         {
-            "elevation": 156.1,
-            "mindate": "1937-10-01",
-            "maxdate": "1956-08-01",
-            "latitude": 40.36667,
-            "name": "GRANTVILLE 2 SW, PA US",
-            "datacoverage": 0.9691,
-            "id": "COOP:363422",
-            "elevationUnit": "METERS",
-            "longitude": -76.68333
-        },
-        {
             "elevation": 46,
             "mindate": "1931-01-01",
             "maxdate": "1972-02-01",
@@ -2545,17 +1832,6 @@
             "id": "COOP:363437",
             "elevationUnit": "METERS",
             "longitude": -75.43269
-        },
-        {
-            "elevation": 232,
-            "mindate": "1951-10-01",
-            "maxdate": "1961-04-01",
-            "latitude": 40.63333,
-            "name": "GRATZ 1 N, PA US",
-            "datacoverage": 0.9177,
-            "id": "COOP:363438",
-            "elevationUnit": "METERS",
-            "longitude": -76.71667
         },
         {
             "elevation": 243.8,
@@ -2580,37 +1856,15 @@
             "longitude": -79.91667
         },
         {
-            "elevation": 299,
-            "mindate": "1931-01-01",
-            "maxdate": "1951-12-01",
-            "latitude": 40.26667,
-            "name": "GREENSBURG 2 S, PA US",
-            "datacoverage": 0.9961,
-            "id": "COOP:363510",
-            "elevationUnit": "METERS",
-            "longitude": -79.55
-        },
-        {
             "elevation": 374.9,
             "mindate": "1948-05-01",
             "maxdate": "2014-01-01",
             "latitude": 40.3,
             "name": "GREENSBURG 2 E, PA US",
-            "datacoverage": 0.9268,
+            "datacoverage": 0.0372,
             "id": "COOP:363515",
             "elevationUnit": "METERS",
             "longitude": -79.51667
-        },
-        {
-            "elevation": 378,
-            "mindate": "1931-01-01",
-            "maxdate": "1959-06-01",
-            "latitude": 40.28333,
-            "name": "GREENSBURG 3 SE UNIT, PA US",
-            "datacoverage": 0.8978,
-            "id": "COOP:363516",
-            "elevationUnit": "METERS",
-            "longitude": -79.5
         },
         {
             "elevation": 512.1,
@@ -2701,17 +1955,6 @@
             "longitude": -76.85139
         },
         {
-            "elevation": 98.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1963-05-01",
-            "latitude": 40.3,
-            "name": "HARRISBURG NORTH, PA US",
-            "datacoverage": 0.9718,
-            "id": "COOP:363704",
-            "elevationUnit": "METERS",
-            "longitude": -76.9
-        },
-        {
             "elevation": 102.1,
             "mindate": "1979-03-01",
             "maxdate": "1988-01-01",
@@ -2732,17 +1975,6 @@
             "id": "COOP:363758",
             "elevationUnit": "METERS",
             "longitude": -75.1652
-        },
-        {
-            "elevation": 366.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1974-01-01",
-            "latitude": 41.46667,
-            "name": "HAWLEY 1 S WALLEN DA, PA US",
-            "datacoverage": 0.6964,
-            "id": "COOP:363761",
-            "elevationUnit": "METERS",
-            "longitude": -75.18333
         },
         {
             "elevation": 259.1,
@@ -2767,17 +1999,6 @@
             "longitude": -75.26667
         },
         {
-            "elevation": 256,
-            "mindate": "1940-01-01",
-            "maxdate": "1950-06-01",
-            "latitude": 39.73333,
-            "name": "HEWITT 2 S, PA US",
-            "datacoverage": 0.9277,
-            "id": "COOP:363897",
-            "elevationUnit": "METERS",
-            "longitude": -78.53333
-        },
-        {
             "elevation": 396.2,
             "mindate": "1985-10-01",
             "maxdate": "1989-07-01",
@@ -2794,7 +2015,7 @@
             "maxdate": "2014-01-01",
             "latitude": 40.43883,
             "name": "HOLLIDAYSBURG 2 NW, PA US",
-            "datacoverage": 0.9756,
+            "datacoverage": 0.0499,
             "id": "COOP:364001",
             "elevationUnit": "METERS",
             "longitude": -78.41726
@@ -2823,11 +2044,11 @@
         },
         {
             "elevation": 371.9,
-            "mindate": "1948-02-01",
+            "mindate": "1948-05-01",
             "maxdate": "1993-02-01",
             "latitude": 40.75,
             "name": "HOME, PA US",
-            "datacoverage": 0.8189,
+            "datacoverage": 0.0746,
             "id": "COOP:364027",
             "elevationUnit": "METERS",
             "longitude": -79.1
@@ -2845,11 +2066,11 @@
         },
         {
             "elevation": 317,
-            "mindate": "1940-07-01",
+            "mindate": "1948-05-01",
             "maxdate": "1980-10-01",
             "latitude": 41.65,
             "name": "HONESDALE 5 NNW, PA US",
-            "datacoverage": 0.5132,
+            "datacoverage": 0.0734,
             "id": "COOP:364044",
             "elevationUnit": "METERS",
             "longitude": -75.26667
@@ -2864,17 +2085,6 @@
             "id": "COOP:364047",
             "elevationUnit": "METERS",
             "longitude": -75.908
-        },
-        {
-            "elevation": 509,
-            "mindate": "1939-04-01",
-            "maxdate": "1961-02-01",
-            "latitude": 40.15,
-            "name": "HOOVERSVILLE, PA US",
-            "datacoverage": 0.8403,
-            "id": "COOP:364058",
-            "elevationUnit": "METERS",
-            "longitude": -78.91667
         },
         {
             "elevation": 274.9,
@@ -2897,17 +2107,6 @@
             "id": "COOP:364076",
             "elevationUnit": "METERS",
             "longitude": -75.88556
-        },
-        {
-            "elevation": 207,
-            "mindate": "1950-11-01",
-            "maxdate": "1953-06-01",
-            "latitude": 40.98333,
-            "name": "HOWARD 4 SW, PA US",
-            "datacoverage": 1,
-            "id": "COOP:364099",
-            "elevationUnit": "METERS",
-            "longitude": -77.71667
         },
         {
             "elevation": 360,
@@ -2976,34 +2175,12 @@
             "longitude": -79.1186
         },
         {
-            "elevation": 396.8,
-            "mindate": "1941-04-01",
-            "maxdate": "1953-01-01",
-            "latitude": 40.61667,
-            "name": "INDIANA, PA US",
-            "datacoverage": 0.9784,
-            "id": "COOP:364219",
-            "elevationUnit": "METERS",
-            "longitude": -79.16667
-        },
-        {
-            "elevation": 335.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1958-03-01",
-            "latitude": 40.33333,
-            "name": "IRWIN, PA US",
-            "datacoverage": 0.9665,
-            "id": "COOP:364276",
-            "elevationUnit": "METERS",
-            "longitude": -79.7
-        },
-        {
             "elevation": 515.1,
             "mindate": "1948-05-01",
             "maxdate": "1983-12-28",
             "latitude": 41.95,
             "name": "JACKSON SUMMIT, PA US",
-            "datacoverage": 0.9024,
+            "datacoverage": 0.0531,
             "id": "COOP:364304",
             "elevationUnit": "METERS",
             "longitude": -77.01667
@@ -3042,17 +2219,6 @@
             "longitude": -77.25
         },
         {
-            "elevation": 253,
-            "mindate": "1954-01-01",
-            "maxdate": "1959-06-01",
-            "latitude": 40.86667,
-            "name": "JIM THORPE, PA US",
-            "datacoverage": 1,
-            "id": "COOP:364370",
-            "elevationUnit": "METERS",
-            "longitude": -75.75
-        },
-        {
             "elevation": 370,
             "mindate": "1931-01-01",
             "maxdate": "1993-07-01",
@@ -3069,7 +2235,7 @@
             "maxdate": "2003-11-01",
             "latitude": 40.31667,
             "name": "JOHNSTOWN 2, PA US",
-            "datacoverage": 0.9756,
+            "datacoverage": 0.0672,
             "id": "COOP:364390",
             "elevationUnit": "METERS",
             "longitude": -78.91667
@@ -3108,17 +2274,6 @@
             "longitude": -75.93333
         },
         {
-            "elevation": 171,
-            "mindate": "1931-10-01",
-            "maxdate": "1948-08-01",
-            "latitude": 40.36667,
-            "name": "JUNIATA HOUSE, PA US",
-            "datacoverage": 0.9407,
-            "id": "COOP:364425",
-            "elevationUnit": "METERS",
-            "longitude": -77.81667
-        },
-        {
             "elevation": 533.4,
             "mindate": "1931-01-01",
             "maxdate": "2015-11-01",
@@ -3130,17 +2285,6 @@
             "longitude": -78.8036
         },
         {
-            "elevation": 613,
-            "mindate": "1932-07-01",
-            "maxdate": "1949-01-01",
-            "latitude": 41.6,
-            "name": "KANE 5 SE, PA US",
-            "datacoverage": 0.4898,
-            "id": "COOP:364437",
-            "elevationUnit": "METERS",
-            "longitude": -78.76667
-        },
-        {
             "elevation": 271.3,
             "mindate": "1941-03-01",
             "maxdate": "1973-01-01",
@@ -3150,17 +2294,6 @@
             "id": "COOP:364450",
             "elevationUnit": "METERS",
             "longitude": -78.1121
-        },
-        {
-            "elevation": 561.1,
-            "mindate": "1950-05-01",
-            "maxdate": "1957-09-01",
-            "latitude": 41.68333,
-            "name": "KEATING SUMMIT, PA US",
-            "datacoverage": 0.7301,
-            "id": "COOP:364466",
-            "elevationUnit": "METERS",
-            "longitude": -78.18333
         },
         {
             "elevation": 417.9,
@@ -3185,28 +2318,6 @@
             "longitude": -78.71667
         },
         {
-            "elevation": 283.5,
-            "mindate": "1960-04-01",
-            "maxdate": "1963-01-30",
-            "latitude": 41.35789,
-            "name": "ALVIN R BUSH DAM, PA US",
-            "datacoverage": 0.0689,
-            "id": "COOP:364545",
-            "elevationUnit": "METERS",
-            "longitude": -77.92644
-        },
-        {
-            "elevation": 131.1,
-            "mindate": "1940-12-01",
-            "maxdate": "1948-10-01",
-            "latitude": 39.85,
-            "name": "KIRKWOOD 1 SW, PA US",
-            "datacoverage": 0.7956,
-            "id": "COOP:364597",
-            "elevationUnit": "METERS",
-            "longitude": -76.08333
-        },
-        {
             "elevation": 240.8,
             "mindate": "1951-06-01",
             "maxdate": "2013-12-01",
@@ -3218,17 +2329,6 @@
             "longitude": -79.53333
         },
         {
-            "elevation": 772.1,
-            "mindate": "1942-01-01",
-            "maxdate": "1959-02-01",
-            "latitude": 40.1,
-            "name": "KREGAR 4 SE, PA US",
-            "datacoverage": 0.9712,
-            "id": "COOP:364667",
-            "elevationUnit": "METERS",
-            "longitude": -79.23333
-        },
-        {
             "elevation": 253,
             "mindate": "1943-04-01",
             "maxdate": "1990-04-01",
@@ -3238,17 +2338,6 @@
             "id": "COOP:364672",
             "elevationUnit": "METERS",
             "longitude": -75.53333
-        },
-        {
-            "elevation": 650.1,
-            "mindate": "1948-05-01",
-            "maxdate": "1957-04-01",
-            "latitude": 41.8,
-            "name": "LAFAYETTE MC KEAN PA, PA US",
-            "datacoverage": 0.8241,
-            "id": "COOP:364706",
-            "elevationUnit": "METERS",
-            "longitude": -78.66667
         },
         {
             "elevation": 415.1,
@@ -3273,17 +2362,6 @@
             "longitude": -75.26667
         },
         {
-            "elevation": 121.9,
-            "mindate": "1948-05-01",
-            "maxdate": "1948-10-01",
-            "latitude": 39.98333,
-            "name": "LAMPETER SOIL CONSERVATION SERVICE 1A, PA US",
-            "datacoverage": 0.6617,
-            "id": "COOP:364750",
-            "elevationUnit": "METERS",
-            "longitude": -76.23333
-        },
-        {
             "elevation": 78.9,
             "mindate": "1931-01-01",
             "maxdate": "1974-09-01",
@@ -3306,17 +2384,6 @@
             "longitude": -76.2742
         },
         {
-            "elevation": 110,
-            "mindate": "1932-01-01",
-            "maxdate": "1952-04-01",
-            "latitude": 40.06667,
-            "name": "LANCASTER 3 NE, PA US",
-            "datacoverage": 0.9959,
-            "id": "COOP:364768",
-            "elevationUnit": "METERS",
-            "longitude": -76.28333
-        },
-        {
             "elevation": 109.7,
             "mindate": "1950-03-01",
             "maxdate": "2015-11-01",
@@ -3328,28 +2395,6 @@
             "longitude": -76.4265
         },
         {
-            "elevation": 348.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1954-05-01",
-            "latitude": 40.83333,
-            "name": "LANSFORD, PA US",
-            "datacoverage": 0.9538,
-            "id": "COOP:364804",
-            "elevationUnit": "METERS",
-            "longitude": -75.88333
-        },
-        {
-            "elevation": 317,
-            "mindate": "1942-01-01",
-            "maxdate": "1952-12-01",
-            "latitude": 40.83333,
-            "name": "LANSFORD FOREMANS SH, PA US",
-            "datacoverage": 0.9015,
-            "id": "COOP:364809",
-            "elevationUnit": "METERS",
-            "longitude": -75.88333
-        },
-        {
             "elevation": 599.2,
             "mindate": "1991-09-01",
             "maxdate": "2015-11-01",
@@ -3359,17 +2404,6 @@
             "id": "COOP:364815",
             "elevationUnit": "METERS",
             "longitude": -76.4933
-        },
-        {
-            "elevation": 305.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1956-05-01",
-            "latitude": 40.31667,
-            "name": "LATROBE, PA US",
-            "datacoverage": 0.9804,
-            "id": "COOP:364832",
-            "elevationUnit": "METERS",
-            "longitude": -79.38333
         },
         {
             "elevation": 823,
@@ -3427,28 +2461,6 @@
             "longitude": -77.13333
         },
         {
-            "elevation": 180.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1962-09-01",
-            "latitude": 40.35,
-            "name": "LEBANON 4 WNW, PA US",
-            "datacoverage": 0.9659,
-            "id": "COOP:364891",
-            "elevationUnit": "METERS",
-            "longitude": -76.48333
-        },
-        {
-            "elevation": 180.1,
-            "mindate": "1962-10-01",
-            "maxdate": "1965-09-01",
-            "latitude": 40.35,
-            "name": "LEBANON 4 WNW, PA US",
-            "datacoverage": 0.9998,
-            "id": "COOP:364893",
-            "elevationUnit": "METERS",
-            "longitude": -76.48333
-        },
-        {
             "elevation": 137.2,
             "mindate": "1948-05-01",
             "maxdate": "2015-11-01",
@@ -3458,17 +2470,6 @@
             "id": "COOP:364896",
             "elevationUnit": "METERS",
             "longitude": -76.4667
-        },
-        {
-            "elevation": 708.1,
-            "mindate": "1943-03-01",
-            "maxdate": "1949-05-01",
-            "latitude": 41.15,
-            "name": "LECONTES MILLS 5 NW, PA US",
-            "datacoverage": 0.9595,
-            "id": "COOP:364904",
-            "elevationUnit": "METERS",
-            "longitude": -78.33333
         },
         {
             "elevation": 138.7,
@@ -3516,11 +2517,11 @@
         },
         {
             "elevation": 530.4,
-            "mindate": "1947-10-01",
+            "mindate": "1954-05-01",
             "maxdate": "2006-06-01",
             "latitude": 41.84167,
             "name": "LEWIS RUN 3 SE, PA US",
-            "datacoverage": 0.9247,
+            "datacoverage": 0.0485,
             "id": "COOP:364984",
             "elevationUnit": "METERS",
             "longitude": -78.64333
@@ -3592,39 +2593,6 @@
             "longitude": -79.4503
         },
         {
-            "elevation": 433.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1950-09-01",
-            "latitude": 40.23333,
-            "name": "LYCIPPUS 1 E, PA US",
-            "datacoverage": 0.9326,
-            "id": "COOP:365259",
-            "elevationUnit": "METERS",
-            "longitude": -79.4
-        },
-        {
-            "elevation": 396.8,
-            "mindate": "1957-08-01",
-            "maxdate": "1967-06-01",
-            "latitude": 41.6,
-            "name": "LYNCH, PA US",
-            "datacoverage": 0.9583,
-            "id": "COOP:365275",
-            "elevationUnit": "METERS",
-            "longitude": -79.05
-        },
-        {
-            "elevation": 152.4,
-            "mindate": "1956-12-01",
-            "maxdate": "1958-01-01",
-            "latitude": 40.0962,
-            "name": "GLENMOORE, PA US",
-            "datacoverage": 0.998,
-            "id": "COOP:365279",
-            "elevationUnit": "METERS",
-            "longitude": -75.7513
-        },
-        {
             "elevation": 487.7,
             "mindate": "1949-06-01",
             "maxdate": "1993-07-01",
@@ -3634,17 +2602,6 @@
             "id": "COOP:365336",
             "elevationUnit": "METERS",
             "longitude": -78.4
-        },
-        {
-            "elevation": 390.1,
-            "mindate": "1950-02-01",
-            "maxdate": "1969-12-01",
-            "latitude": 40.88333,
-            "name": "MAHAFFEY, PA US",
-            "datacoverage": 0.9792,
-            "id": "COOP:365342",
-            "elevationUnit": "METERS",
-            "longitude": -78.73333
         },
         {
             "elevation": 521.2,
@@ -3692,11 +2649,11 @@
         },
         {
             "elevation": 542.2,
-            "mindate": "1948-01-01",
+            "mindate": "1948-05-01",
             "maxdate": "1998-12-01",
             "latitude": 41.48333,
             "name": "MARIENVILLE 2 NE, PA US",
-            "datacoverage": 0.8449,
+            "datacoverage": 0.0766,
             "id": "COOP:365400",
             "elevationUnit": "METERS",
             "longitude": -79.1
@@ -3711,28 +2668,6 @@
             "id": "COOP:365408",
             "elevationUnit": "METERS",
             "longitude": -79.03333
-        },
-        {
-            "elevation": 647.1,
-            "mindate": "1948-05-01",
-            "maxdate": "1953-06-01",
-            "latitude": 41.85,
-            "name": "MARSHBURG, PA US",
-            "datacoverage": 0.7097,
-            "id": "COOP:365435",
-            "elevationUnit": "METERS",
-            "longitude": -78.75
-        },
-        {
-            "elevation": 415.1,
-            "mindate": "1938-12-01",
-            "maxdate": "1958-09-01",
-            "latitude": 40.3,
-            "name": "MARTINSBURG 1 SW, PA US",
-            "datacoverage": 0.9584,
-            "id": "COOP:365453",
-            "elevationUnit": "METERS",
-            "longitude": -78.33333
         },
         {
             "elevation": 451.1,
@@ -3757,59 +2692,15 @@
             "longitude": -74.7173
         },
         {
-            "elevation": 253,
-            "mindate": "1931-01-01",
-            "maxdate": "1953-12-01",
-            "latitude": 40.86667,
-            "name": "JIM THORPE, PA US",
-            "datacoverage": 0.9021,
-            "id": "COOP:365479",
-            "elevationUnit": "METERS",
-            "longitude": -75.75
-        },
-        {
-            "elevation": 351.1,
-            "mindate": "1945-11-01",
-            "maxdate": "1957-08-01",
-            "latitude": 41.6,
-            "name": "MAYBURG, PA US",
-            "datacoverage": 0.9225,
-            "id": "COOP:365490",
-            "elevationUnit": "METERS",
-            "longitude": -79.21667
-        },
-        {
             "elevation": 262.1,
-            "mindate": "1938-10-01",
+            "mindate": "1973-10-01",
             "maxdate": "1976-06-01",
             "latitude": 39.9258,
             "name": "MCCONNELLSBURG 1 SW, PA US",
-            "datacoverage": 0.9498,
+            "datacoverage": 0.0027,
             "id": "COOP:365526",
             "elevationUnit": "METERS",
             "longitude": -78.0047
-        },
-        {
-            "elevation": 714.1,
-            "mindate": "1940-10-01",
-            "maxdate": "1950-03-01",
-            "latitude": 40.5,
-            "name": "MC CONNELLSTOWN 4 NW, PA US",
-            "datacoverage": 0.9037,
-            "id": "COOP:365534",
-            "elevationUnit": "METERS",
-            "longitude": -78.13333
-        },
-        {
-            "elevation": 360,
-            "mindate": "1948-01-01",
-            "maxdate": "1948-05-01",
-            "latitude": 40.83333,
-            "name": "MC CORMICK, PA US",
-            "datacoverage": 0.7961,
-            "id": "COOP:365541",
-            "elevationUnit": "METERS",
-            "longitude": -79.11667
         },
         {
             "elevation": 225.6,
@@ -3828,7 +2719,7 @@
             "maxdate": "2009-07-01",
             "latitude": 41.21667,
             "name": "MEADOW RUN PONDS, PA US",
-            "datacoverage": 0.8339,
+            "datacoverage": 0.0538,
             "id": "COOP:365601",
             "elevationUnit": "METERS",
             "longitude": -75.63333
@@ -3845,50 +2736,6 @@
             "longitude": -80.16667
         },
         {
-            "elevation": 345,
-            "mindate": "1952-07-01",
-            "maxdate": "1953-09-01",
-            "latitude": 41.71667,
-            "name": "MEADVILLE 7 NW, PA US",
-            "datacoverage": 0.9324,
-            "id": "COOP:365611",
-            "elevationUnit": "METERS",
-            "longitude": -80.23333
-        },
-        {
-            "elevation": 335.9,
-            "mindate": "1948-01-01",
-            "maxdate": "1969-08-01",
-            "latitude": 41.28333,
-            "name": "MEDIX RUN, PA US",
-            "datacoverage": 0.9673,
-            "id": "COOP:365627",
-            "elevationUnit": "METERS",
-            "longitude": -78.4
-        },
-        {
-            "elevation": 394.1,
-            "mindate": "1938-06-01",
-            "maxdate": "1948-08-31",
-            "latitude": 41.28333,
-            "name": "MERCER WEATHER BUREAU AIRPORT, PA US",
-            "datacoverage": 0.9997,
-            "id": "COOP:365649",
-            "elevationUnit": "METERS",
-            "longitude": -80.2
-        },
-        {
-            "elevation": 390.1,
-            "mindate": "1949-01-01",
-            "maxdate": "1949-12-01",
-            "latitude": 41.2,
-            "name": "MERCER 6 W, PA US",
-            "datacoverage": 1,
-            "id": "COOP:365650",
-            "elevationUnit": "METERS",
-            "longitude": -80.35
-        },
-        {
             "elevation": 371.9,
             "mindate": "1950-03-01",
             "maxdate": "2011-12-01",
@@ -3900,23 +2747,12 @@
             "longitude": -80.2349
         },
         {
-            "elevation": 402.9,
-            "mindate": "1950-10-01",
-            "maxdate": "1955-02-01",
-            "latitude": 41.28333,
-            "name": "MERCER 4 NW, PA US",
-            "datacoverage": 0.3588,
-            "id": "COOP:365652",
-            "elevationUnit": "METERS",
-            "longitude": -80.28333
-        },
-        {
             "elevation": 381,
             "mindate": "1948-05-01",
             "maxdate": "1986-08-01",
             "latitude": 41.23333,
             "name": "MERCER HIGHWAY SHED, PA US",
-            "datacoverage": 0.8292,
+            "datacoverage": 0.0405,
             "id": "COOP:365654",
             "elevationUnit": "METERS",
             "longitude": -80.25
@@ -3934,36 +2770,14 @@
         },
         {
             "elevation": 300.2,
-            "mindate": "1931-01-01",
+            "mindate": "1948-07-01",
             "maxdate": "1996-02-01",
             "latitude": 40.96667,
             "name": "MERWINSBURG, PA US",
-            "datacoverage": 0.6806,
+            "datacoverage": 0.0539,
             "id": "COOP:365676",
             "elevationUnit": "METERS",
             "longitude": -75.46667
-        },
-        {
-            "elevation": 641,
-            "mindate": "1939-05-01",
-            "maxdate": "1962-12-01",
-            "latitude": 39.81667,
-            "name": "MEYERSDALE, PA US",
-            "datacoverage": 0.9012,
-            "id": "COOP:365684",
-            "elevationUnit": "METERS",
-            "longitude": -79.01667
-        },
-        {
-            "elevation": 698,
-            "mindate": "1956-01-01",
-            "maxdate": "1957-07-01",
-            "latitude": 39.81667,
-            "name": "MEYERSDALE 1 ENE, PA US",
-            "datacoverage": 0.8945,
-            "id": "COOP:365685",
-            "elevationUnit": "METERS",
-            "longitude": -79.01667
         },
         {
             "elevation": 609.6,
@@ -3999,17 +2813,6 @@
             "longitude": -76.7724
         },
         {
-            "elevation": 210,
-            "mindate": "1936-06-01",
-            "maxdate": "1961-05-01",
-            "latitude": 40.63333,
-            "name": "MIDLAND DAM 7, PA US",
-            "datacoverage": 0.9834,
-            "id": "COOP:365710",
-            "elevationUnit": "METERS",
-            "longitude": -80.46667
-        },
-        {
             "elevation": 222.5,
             "mindate": "2011-01-01",
             "maxdate": "2015-11-01",
@@ -4021,37 +2824,15 @@
             "longitude": -77.067
         },
         {
-            "elevation": 189,
-            "mindate": "1931-01-01",
-            "maxdate": "1938-03-01",
-            "latitude": 40.571667,
-            "name": "MIFFLINTOWN, PA US",
-            "datacoverage": 0.7819,
-            "id": "COOP:365726",
-            "elevationUnit": "METERS",
-            "longitude": -77.406667
-        },
-        {
             "elevation": 259.1,
             "mindate": "1948-05-01",
             "maxdate": "2014-01-01",
             "latitude": 41.928,
             "name": "MILAN 1 N, PA US",
-            "datacoverage": 0.878,
+            "datacoverage": 0.0307,
             "id": "COOP:365731",
             "elevationUnit": "METERS",
             "longitude": -76.5475
-        },
-        {
-            "elevation": 442,
-            "mindate": "1955-06-01",
-            "maxdate": "1960-12-01",
-            "latitude": 41.93333,
-            "name": "MILAN 4 WNW, PA US",
-            "datacoverage": 0.0512,
-            "id": "COOP:365732",
-            "elevationUnit": "METERS",
-            "longitude": -76.58333
         },
         {
             "elevation": 231.6,
@@ -4066,11 +2847,11 @@
         },
         {
             "elevation": 136.9,
-            "mindate": "1948-01-01",
+            "mindate": "1948-05-01",
             "maxdate": "1982-12-01",
             "latitude": 40.53333,
             "name": "MILLERSBURG 2 E, PA US",
-            "datacoverage": 0.8226,
+            "datacoverage": 0.0378,
             "id": "COOP:365775",
             "elevationUnit": "METERS",
             "longitude": -76.91667
@@ -4098,17 +2879,6 @@
             "longitude": -77.475
         },
         {
-            "elevation": 198.1,
-            "mindate": "1938-01-01",
-            "maxdate": "1950-09-23",
-            "latitude": 41.11667,
-            "name": "MILLVILLE, PA US",
-            "datacoverage": 0.9414,
-            "id": "COOP:365816",
-            "elevationUnit": "METERS",
-            "longitude": -76.53333
-        },
-        {
             "elevation": 262.1,
             "mindate": "1950-10-01",
             "maxdate": "1992-09-01",
@@ -4121,11 +2891,11 @@
         },
         {
             "elevation": 313.9,
-            "mindate": "1944-01-01",
+            "mindate": "1975-06-01",
             "maxdate": "2014-01-01",
             "latitude": 40.728,
             "name": "MILROY 2 WNW, PA US",
-            "datacoverage": 0.8322,
+            "datacoverage": 0.0278,
             "id": "COOP:365825",
             "elevationUnit": "METERS",
             "longitude": -77.6258
@@ -4140,28 +2910,6 @@
             "id": "COOP:365834",
             "elevationUnit": "METERS",
             "longitude": -76.35
-        },
-        {
-            "elevation": 366.1,
-            "mindate": "1948-05-01",
-            "maxdate": "1951-01-01",
-            "latitude": 40.7,
-            "name": "MONROE FURNACE, PA US",
-            "datacoverage": 0.7598,
-            "id": "COOP:365884",
-            "elevationUnit": "METERS",
-            "longitude": -77.9
-        },
-        {
-            "elevation": 670.9,
-            "mindate": "1940-10-01",
-            "maxdate": "1949-05-01",
-            "latitude": 41.7,
-            "name": "MONROETON 2 S, PA US",
-            "datacoverage": 0.9905,
-            "id": "COOP:365889",
-            "elevationUnit": "METERS",
-            "longitude": -76.46667
         },
         {
             "elevation": 210.3,
@@ -4197,17 +2945,6 @@
             "longitude": -80.2172
         },
         {
-            "elevation": 563.9,
-            "mindate": "1948-05-01",
-            "maxdate": "1949-07-31",
-            "latitude": 41.83333,
-            "name": "MONTROSE, PA US",
-            "datacoverage": 0.7326,
-            "id": "COOP:365920",
-            "elevationUnit": "METERS",
-            "longitude": -75.86667
-        },
-        {
             "elevation": 445,
             "mindate": "1971-11-01",
             "maxdate": "1971-12-01",
@@ -4231,25 +2968,14 @@
         },
         {
             "elevation": 542.5,
-            "mindate": "1931-01-01",
+            "mindate": "1984-08-01",
             "maxdate": "2012-04-01",
             "latitude": 41.67389,
             "name": "MORRIS RUN, PA US",
-            "datacoverage": 0.9914,
+            "datacoverage": 0.0236,
             "id": "COOP:365971",
             "elevationUnit": "METERS",
             "longitude": -77.02583
-        },
-        {
-            "elevation": 246.9,
-            "mindate": "1932-10-01",
-            "maxdate": "1951-05-01",
-            "latitude": 40.9,
-            "name": "MOSGROVE LOCK 8, PA US",
-            "datacoverage": 1,
-            "id": "COOP:365987",
-            "elevationUnit": "METERS",
-            "longitude": -79.48333
         },
         {
             "elevation": 304.8,
@@ -4307,17 +3033,6 @@
             "longitude": -79.43333
         },
         {
-            "elevation": 583.7,
-            "mindate": "1931-01-01",
-            "maxdate": "1961-12-01",
-            "latitude": 41.13867,
-            "name": "TOBYHANNA POCONO MOUNTAIN AIRPORT, PA US",
-            "datacoverage": 0.9273,
-            "id": "COOP:366055",
-            "elevationUnit": "METERS",
-            "longitude": -75.3742
-        },
-        {
             "elevation": 170.7,
             "mindate": "1972-07-01",
             "maxdate": "2014-01-01",
@@ -4334,32 +3049,10 @@
             "maxdate": "1972-08-01",
             "latitude": 40.4,
             "name": "MOUNT UNION I N, PA US",
-            "datacoverage": 0.8048,
+            "datacoverage": 0.0595,
             "id": "COOP:366067",
             "elevationUnit": "METERS",
             "longitude": -77.88333
-        },
-        {
-            "elevation": 338.9,
-            "mindate": "1953-09-01",
-            "maxdate": "1960-02-01",
-            "latitude": 41.21667,
-            "name": "MUHLENBURG 1 SE, PA US",
-            "datacoverage": 0.9235,
-            "id": "COOP:366090",
-            "elevationUnit": "METERS",
-            "longitude": -76.13333
-        },
-        {
-            "elevation": 286.5,
-            "mindate": "1931-01-01",
-            "maxdate": "1942-03-01",
-            "latitude": 41.352667,
-            "name": "MUNCY VALLEY, PA US",
-            "datacoverage": 0.9854,
-            "id": "COOP:366098",
-            "elevationUnit": "METERS",
-            "longitude": -76.586667
         },
         {
             "elevation": 262.1,
@@ -4395,17 +3088,6 @@
             "longitude": -79.7193
         },
         {
-            "elevation": 274.9,
-            "mindate": "1941-07-01",
-            "maxdate": "1965-11-01",
-            "latitude": 40.66667,
-            "name": "NEFFS MILLS 3 NE, PA US",
-            "datacoverage": 0.9616,
-            "id": "COOP:366174",
-            "elevationUnit": "METERS",
-            "longitude": -77.91667
-        },
-        {
             "elevation": 12.2,
             "mindate": "1931-01-01",
             "maxdate": "2015-11-01",
@@ -4415,17 +3097,6 @@
             "id": "COOP:366194",
             "elevationUnit": "METERS",
             "longitude": -74.95298
-        },
-        {
-            "elevation": 225.9,
-            "mindate": "1942-01-01",
-            "maxdate": "1959-06-01",
-            "latitude": 40.15,
-            "name": "NEWBURG 3 W, PA US",
-            "datacoverage": 0.9288,
-            "id": "COOP:366225",
-            "elevationUnit": "METERS",
-            "longitude": -77.61667
         },
         {
             "elevation": 251.5,
@@ -4554,7 +3225,7 @@
             "maxdate": "1989-04-01",
             "latitude": 40.07892,
             "name": "NORTHEAST PHILADELPHIA AIRPORT, PA US",
-            "datacoverage": 1,
+            "datacoverage": 0.0519,
             "id": "COOP:366419",
             "elevationUnit": "METERS",
             "longitude": -75.01341
@@ -4582,17 +3253,6 @@
             "longitude": -76.04404
         },
         {
-            "elevation": 494.1,
-            "mindate": "1943-01-01",
-            "maxdate": "1960-08-01",
-            "latitude": 41.91667,
-            "name": "ORWELL 3 N, PA US",
-            "datacoverage": 0.9575,
-            "id": "COOP:366621",
-            "elevationUnit": "METERS",
-            "longitude": -76.26667
-        },
-        {
             "elevation": 487.7,
             "mindate": "1961-05-01",
             "maxdate": "1993-12-01",
@@ -4613,17 +3273,6 @@
             "id": "COOP:366627",
             "elevationUnit": "METERS",
             "longitude": -77.37726
-        },
-        {
-            "elevation": 351.1,
-            "mindate": "1949-07-01",
-            "maxdate": "1951-05-01",
-            "latitude": 40.16667,
-            "name": "OSTERBURG, PA US",
-            "datacoverage": 1,
-            "id": "COOP:366636",
-            "elevationUnit": "METERS",
-            "longitude": -78.51667
         },
         {
             "elevation": 521.2,
@@ -4659,39 +3308,6 @@
             "longitude": -75.61667
         },
         {
-            "elevation": 146,
-            "mindate": "1956-09-01",
-            "maxdate": "1957-02-01",
-            "latitude": 40.3,
-            "name": "PALMYRA, PA US",
-            "datacoverage": 1,
-            "id": "COOP:366694",
-            "elevationUnit": "METERS",
-            "longitude": -76.58333
-        },
-        {
-            "elevation": 349.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1951-04-01",
-            "latitude": 41.1,
-            "name": "PARKER, PA US",
-            "datacoverage": 0.9592,
-            "id": "COOP:366719",
-            "elevationUnit": "METERS",
-            "longitude": -79.66667
-        },
-        {
-            "elevation": 349.9,
-            "mindate": "1951-05-01",
-            "maxdate": "1951-12-01",
-            "latitude": 41.1,
-            "name": "PARKER, PA US",
-            "datacoverage": 0.9939,
-            "id": "COOP:366720",
-            "elevationUnit": "METERS",
-            "longitude": -79.66667
-        },
-        {
             "elevation": 323.1,
             "mindate": "1952-01-01",
             "maxdate": "1987-10-01",
@@ -4704,25 +3320,14 @@
         },
         {
             "elevation": 335.3,
-            "mindate": "1948-01-01",
+            "mindate": "1948-05-01",
             "maxdate": "2010-03-01",
             "latitude": 41.0964,
             "name": "PARKER 1 E, PA US",
-            "datacoverage": 0.9783,
+            "datacoverage": 0.0474,
             "id": "COOP:366724",
             "elevationUnit": "METERS",
             "longitude": -79.6719
-        },
-        {
-            "elevation": 591,
-            "mindate": "1931-01-01",
-            "maxdate": "1954-05-01",
-            "latitude": 40.85,
-            "name": "PARK PLACE 1 NW WEATHER BUREAU, PA US",
-            "datacoverage": 0.9823,
-            "id": "COOP:366734",
-            "elevationUnit": "METERS",
-            "longitude": -76.11667
         },
         {
             "elevation": 414.5,
@@ -4747,17 +3352,6 @@
             "longitude": -78.583
         },
         {
-            "elevation": 420.9,
-            "mindate": "1945-08-01",
-            "maxdate": "1958-12-01",
-            "latitude": 41.28333,
-            "name": "PECKS POND, PA US",
-            "datacoverage": 0.9937,
-            "id": "COOP:366786",
-            "elevationUnit": "METERS",
-            "longitude": -75.1
-        },
-        {
             "elevation": 218.8,
             "mindate": "1967-09-01",
             "maxdate": "2012-07-01",
@@ -4767,17 +3361,6 @@
             "id": "COOP:366792",
             "elevationUnit": "METERS",
             "longitude": -75.2458
-        },
-        {
-            "elevation": 161.8,
-            "mindate": "1950-07-01",
-            "maxdate": "1952-07-01",
-            "latitude": 40.86667,
-            "name": "PENNS CREEK, PA US",
-            "datacoverage": 0.9986,
-            "id": "COOP:366822",
-            "elevationUnit": "METERS",
-            "longitude": -77.05
         },
         {
             "elevation": 121.9,
@@ -4813,17 +3396,6 @@
             "longitude": -75.18333
         },
         {
-            "elevation": 31.1,
-            "mindate": "1948-08-01",
-            "maxdate": "1951-09-01",
-            "latitude": 39.96667,
-            "name": "PHILADELPHIA FRANKLIN INSTITUTE, PA US",
-            "datacoverage": 0.9742,
-            "id": "COOP:366884",
-            "elevationUnit": "METERS",
-            "longitude": -75.16667
-        },
-        {
             "elevation": 18.3,
             "mindate": "1994-03-01",
             "maxdate": "2010-12-01",
@@ -4855,61 +3427,6 @@
             "id": "COOP:366889",
             "elevationUnit": "METERS",
             "longitude": -75.22678
-        },
-        {
-            "elevation": 4.6,
-            "mindate": "1931-01-01",
-            "maxdate": "1941-12-01",
-            "latitude": 39.89277,
-            "name": "PHILADELPHIA NAVY YARD, PA US",
-            "datacoverage": 0.9999,
-            "id": "COOP:366894",
-            "elevationUnit": "METERS",
-            "longitude": -75.175
-        },
-        {
-            "elevation": 9.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1963-09-01",
-            "latitude": 39.91667,
-            "name": "PHILADELPHIA POINT B, PA US",
-            "datacoverage": 0.9668,
-            "id": "COOP:366899",
-            "elevationUnit": "METERS",
-            "longitude": -75.2
-        },
-        {
-            "elevation": 21,
-            "mindate": "1931-01-01",
-            "maxdate": "1957-06-01",
-            "latitude": 40.03333,
-            "name": "PHILADELPHIA SHAWMON, PA US",
-            "datacoverage": 0.9781,
-            "id": "COOP:366904",
-            "elevationUnit": "METERS",
-            "longitude": -75.25
-        },
-        {
-            "elevation": 609.9,
-            "mindate": "1949-05-01",
-            "maxdate": "1949-11-01",
-            "latitude": 39.96667,
-            "name": "UPPER DARBY, PA US",
-            "datacoverage": 0.9956,
-            "id": "COOP:366907",
-            "elevationUnit": "METERS",
-            "longitude": -75.3
-        },
-        {
-            "elevation": 11,
-            "mindate": "1948-01-01",
-            "maxdate": "1957-12-01",
-            "latitude": 39.95,
-            "name": "PHILADELPHIA, PA US",
-            "datacoverage": 0.9333,
-            "id": "COOP:366909",
-            "elevationUnit": "METERS",
-            "longitude": -75.15
         },
         {
             "elevation": 6.1,
@@ -4956,39 +3473,6 @@
             "longitude": -75.49415
         },
         {
-            "elevation": 409,
-            "mindate": "1942-01-01",
-            "maxdate": "1965-06-01",
-            "latitude": 41.28333,
-            "name": "SWEET VALLEY, PA US",
-            "datacoverage": 0.9277,
-            "id": "COOP:366939",
-            "elevationUnit": "METERS",
-            "longitude": -76.13333
-        },
-        {
-            "elevation": 677,
-            "mindate": "1949-10-01",
-            "maxdate": "1959-11-01",
-            "latitude": 41.03333,
-            "name": "PIMPLE HILL, PA US",
-            "datacoverage": 1,
-            "id": "COOP:366944",
-            "elevationUnit": "METERS",
-            "longitude": -75.5
-        },
-        {
-            "elevation": 164.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1961-10-01",
-            "latitude": 40.56667,
-            "name": "PINE GROVE 1 NE, PA US",
-            "datacoverage": 0.9676,
-            "id": "COOP:366954",
-            "elevationUnit": "METERS",
-            "longitude": -76.36667
-        },
-        {
             "elevation": 269.7,
             "mindate": "1982-05-01",
             "maxdate": "2015-11-01",
@@ -4998,17 +3482,6 @@
             "id": "COOP:366955",
             "elevationUnit": "METERS",
             "longitude": -77.30417
-        },
-        {
-            "elevation": 627.9,
-            "mindate": "1948-05-01",
-            "maxdate": "1950-10-01",
-            "latitude": 40.71667,
-            "name": "PINE GROVE MILLS 1 S, PA US",
-            "datacoverage": 0.8547,
-            "id": "COOP:366962",
-            "elevationUnit": "METERS",
-            "longitude": -77.9
         },
         {
             "elevation": 643.1,
@@ -5033,17 +3506,6 @@
             "longitude": -80.01861
         },
         {
-            "elevation": 380.4,
-            "mindate": "1948-05-01",
-            "maxdate": "1952-09-21",
-            "latitude": 40.35472,
-            "name": "PITTSBURGH ALLEGHENY CO AIRPORT, PA US",
-            "datacoverage": 1,
-            "id": "COOP:366992",
-            "elevationUnit": "METERS",
-            "longitude": -79.92167
-        },
-        {
             "elevation": 366.7,
             "mindate": "1900-01-01",
             "maxdate": "2015-11-01",
@@ -5064,17 +3526,6 @@
             "id": "COOP:366997",
             "elevationUnit": "METERS",
             "longitude": -80
-        },
-        {
-            "elevation": 488,
-            "mindate": "1966-12-01",
-            "maxdate": "1967-12-01",
-            "latitude": 41.78333,
-            "name": "PITTSFIELD 9 WSW, PA US",
-            "datacoverage": 0.9992,
-            "id": "COOP:367000",
-            "elevationUnit": "METERS",
-            "longitude": -79.53333
         },
         {
             "elevation": 548.6,
@@ -5121,17 +3572,6 @@
             "longitude": -78.28734
         },
         {
-            "elevation": 481.9,
-            "mindate": "1942-10-01",
-            "maxdate": "1949-02-01",
-            "latitude": 41.78333,
-            "name": "PORT ALLEGANY 3 SW, PA US",
-            "datacoverage": 0.9094,
-            "id": "COOP:367108",
-            "elevationUnit": "METERS",
-            "longitude": -78.28333
-        },
-        {
             "elevation": 137.2,
             "mindate": "1931-01-01",
             "maxdate": "1979-08-01",
@@ -5141,39 +3581,6 @@
             "id": "COOP:367116",
             "elevationUnit": "METERS",
             "longitude": -76.03333
-        },
-        {
-            "elevation": 92,
-            "mindate": "1942-01-01",
-            "maxdate": "1955-07-01",
-            "latitude": 40.91667,
-            "name": "PORTLAND, PA US",
-            "datacoverage": 0.9757,
-            "id": "COOP:367127",
-            "elevationUnit": "METERS",
-            "longitude": -75.1
-        },
-        {
-            "elevation": 36.6,
-            "mindate": "1931-01-01",
-            "maxdate": "1956-09-01",
-            "latitude": 40.25,
-            "name": "POTTSTOWN, PA US",
-            "datacoverage": 0.8965,
-            "id": "COOP:367149",
-            "elevationUnit": "METERS",
-            "longitude": -75.65
-        },
-        {
-            "elevation": 249.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1949-03-01",
-            "latitude": 40.68333,
-            "name": "POTTSVILLE, PA US",
-            "datacoverage": 0.9545,
-            "id": "COOP:367156",
-            "elevationUnit": "METERS",
-            "longitude": -76.2
         },
         {
             "elevation": 210,
@@ -5210,25 +3617,14 @@
         },
         {
             "elevation": 396.2,
-            "mindate": "1931-01-01",
+            "mindate": "1949-09-01",
             "maxdate": "1996-06-01",
             "latitude": 40.95,
             "name": "PUNXSUTAWNEY, PA US",
-            "datacoverage": 0.9157,
+            "datacoverage": 0.0504,
             "id": "COOP:367217",
             "elevationUnit": "METERS",
             "longitude": -79
-        },
-        {
-            "elevation": 415.1,
-            "mindate": "1948-05-01",
-            "maxdate": "1949-09-01",
-            "latitude": 40.93333,
-            "name": "PUNXSUTAWNEY 2, PA US",
-            "datacoverage": 0.998,
-            "id": "COOP:367222",
-            "elevationUnit": "METERS",
-            "longitude": -78.96667
         },
         {
             "elevation": 390.1,
@@ -5240,28 +3636,6 @@
             "id": "COOP:367229",
             "elevationUnit": "METERS",
             "longitude": -79.2825
-        },
-        {
-            "elevation": 149,
-            "mindate": "1931-01-01",
-            "maxdate": "1969-09-01",
-            "latitude": 40.43333,
-            "name": "QUAKERTOWN, PA US",
-            "datacoverage": 0.9549,
-            "id": "COOP:367239",
-            "elevationUnit": "METERS",
-            "longitude": -75.33333
-        },
-        {
-            "elevation": 259.1,
-            "mindate": "1949-02-01",
-            "maxdate": "1950-04-01",
-            "latitude": 41.5,
-            "name": "RALSTON, PA US",
-            "datacoverage": 0.6704,
-            "id": "COOP:367272",
-            "elevationUnit": "METERS",
-            "longitude": -76.95
         },
         {
             "elevation": 281,
@@ -5319,17 +3693,6 @@
             "longitude": -78
         },
         {
-            "elevation": 88.1,
-            "mindate": "1948-01-01",
-            "maxdate": "1973-01-29",
-            "latitude": 40.33333,
-            "name": "READING, PA US",
-            "datacoverage": 0.9599,
-            "id": "COOP:367318",
-            "elevationUnit": "METERS",
-            "longitude": -75.96667
-        },
-        {
             "elevation": 109.7,
             "mindate": "1973-01-01",
             "maxdate": "2009-08-01",
@@ -5368,7 +3731,7 @@
             "maxdate": "1997-10-01",
             "latitude": 41.23333,
             "name": "RENOVO 6 S, PA US",
-            "datacoverage": 0.9512,
+            "datacoverage": 0.0549,
             "id": "COOP:367410",
             "elevationUnit": "METERS",
             "longitude": -77.76667
@@ -5385,39 +3748,6 @@
             "longitude": -77.73333
         },
         {
-            "elevation": 174,
-            "mindate": "1933-05-01",
-            "maxdate": "1953-09-01",
-            "latitude": 41.2,
-            "name": "RETREAT 1 SW, PA US",
-            "datacoverage": 0.9754,
-            "id": "COOP:367417",
-            "elevationUnit": "METERS",
-            "longitude": -76.1
-        },
-        {
-            "elevation": 686.1,
-            "mindate": "1948-05-01",
-            "maxdate": "1965-06-01",
-            "latitude": 41.9,
-            "name": "REW, PA US",
-            "datacoverage": 0.9515,
-            "id": "COOP:367425",
-            "elevationUnit": "METERS",
-            "longitude": -78.53333
-        },
-        {
-            "elevation": 238,
-            "mindate": "1943-06-01",
-            "maxdate": "1965-12-01",
-            "latitude": 39.95,
-            "name": "RICES LANDING L 6, PA US",
-            "datacoverage": 0.963,
-            "id": "COOP:367443",
-            "elevationUnit": "METERS",
-            "longitude": -80
-        },
-        {
             "elevation": 414.5,
             "mindate": "1931-01-01",
             "maxdate": "2015-11-01",
@@ -5429,23 +3759,12 @@
             "longitude": -78.74921
         },
         {
-            "elevation": 331.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1951-08-01",
-            "latitude": 40.86667,
-            "name": "RINGTOWN, PA US",
-            "datacoverage": 0.7783,
-            "id": "COOP:367497",
-            "elevationUnit": "METERS",
-            "longitude": -76.23333
-        },
-        {
             "elevation": 274.3,
             "mindate": "1948-05-01",
             "maxdate": "1992-04-01",
             "latitude": 40.71667,
             "name": "ROCHESTER 1 NW, PA US",
-            "datacoverage": 0.9024,
+            "datacoverage": 0.0529,
             "id": "COOP:367540",
             "elevationUnit": "METERS",
             "longitude": -80.3
@@ -5460,17 +3779,6 @@
             "id": "COOP:367578",
             "elevationUnit": "METERS",
             "longitude": -75.7222
-        },
-        {
-            "elevation": 305.1,
-            "mindate": "1943-01-01",
-            "maxdate": "1959-06-01",
-            "latitude": 41.78333,
-            "name": "RUSH, PA US",
-            "datacoverage": 0.9295,
-            "id": "COOP:367694",
-            "elevationUnit": "METERS",
-            "longitude": -76.05
         },
         {
             "elevation": 265.2,
@@ -5507,7 +3815,7 @@
         },
         {
             "elevation": 609.6,
-            "mindate": "1951-10-01",
+            "mindate": "1970-01-01",
             "maxdate": "2012-12-01",
             "latitude": 41.8422,
             "name": "SABINSVILLE 3 SE, PA US",
@@ -5539,17 +3847,6 @@
             "longitude": -79.2375
         },
         {
-            "elevation": 402.3,
-            "mindate": "1940-10-01",
-            "maxdate": "1974-11-01",
-            "latitude": 40.76667,
-            "name": "SAGAMORE 1 S, PA US",
-            "datacoverage": 0.9756,
-            "id": "COOP:367739",
-            "elevationUnit": "METERS",
-            "longitude": -79.23333
-        },
-        {
             "elevation": 338,
             "mindate": "1953-01-01",
             "maxdate": "2015-11-01",
@@ -5559,17 +3856,6 @@
             "id": "COOP:367782",
             "elevationUnit": "METERS",
             "longitude": -79.5459
-        },
-        {
-            "elevation": 259.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1952-08-01",
-            "latitude": 40.45,
-            "name": "SALTSBURG, PA US",
-            "datacoverage": 0.9577,
-            "id": "COOP:367796",
-            "elevationUnit": "METERS",
-            "longitude": -79.48333
         },
         {
             "elevation": 253,
@@ -5599,7 +3885,7 @@
             "maxdate": "1998-06-01",
             "latitude": 41.91667,
             "name": "SCANDIA 1 E, PA US",
-            "datacoverage": 0.878,
+            "datacoverage": 0.0672,
             "id": "COOP:367855",
             "elevationUnit": "METERS",
             "longitude": -79.03333
@@ -5625,17 +3911,6 @@
             "id": "COOP:367902",
             "elevationUnit": "METERS",
             "longitude": -75.66667
-        },
-        {
-            "elevation": 283.5,
-            "mindate": "1954-07-01",
-            "maxdate": "1964-02-01",
-            "latitude": 41.3336,
-            "name": "WILKES BARRE SCRANTON INTERNATIONAL AIRPORT, PA US",
-            "datacoverage": 0.9558,
-            "id": "COOP:367905",
-            "elevationUnit": "METERS",
-            "longitude": -75.7269
         },
         {
             "elevation": 128,
@@ -5671,23 +3946,12 @@
             "longitude": -79.3
         },
         {
-            "elevation": 342,
-            "mindate": "1938-06-01",
-            "maxdate": "1952-08-01",
-            "latitude": 40.41667,
-            "name": "SEWARD, PA US",
-            "datacoverage": 0.9998,
-            "id": "COOP:367956",
-            "elevationUnit": "METERS",
-            "longitude": -79.01667
-        },
-        {
             "elevation": 281,
-            "mindate": "1948-01-01",
+            "mindate": "1948-05-01",
             "maxdate": "1981-01-01",
             "latitude": 40.18333,
             "name": "SHADE GAP, PA US",
-            "datacoverage": 0.956,
+            "datacoverage": 0.0544,
             "id": "COOP:367965",
             "elevationUnit": "METERS",
             "longitude": -77.86667
@@ -5704,17 +3968,6 @@
             "longitude": -76.55
         },
         {
-            "elevation": 289.9,
-            "mindate": "1938-05-01",
-            "maxdate": "1952-03-01",
-            "latitude": 41.26667,
-            "name": "SHARPSVILLE, PA US",
-            "datacoverage": 0.9938,
-            "id": "COOP:368000",
-            "elevationUnit": "METERS",
-            "longitude": -80.46667
-        },
-        {
             "elevation": 388.6,
             "mindate": "1992-05-01",
             "maxdate": "2010-12-01",
@@ -5727,11 +3980,11 @@
         },
         {
             "elevation": 585.2,
-            "mindate": "1948-01-01",
+            "mindate": "1948-05-01",
             "maxdate": "2014-01-01",
             "latitude": 41.7095,
             "name": "SHEFFIELD 5 W, PA US",
-            "datacoverage": 0.956,
+            "datacoverage": 0.0657,
             "id": "COOP:368026",
             "elevationUnit": "METERS",
             "longitude": -79.1261
@@ -5759,17 +4012,6 @@
             "longitude": -77.52127
         },
         {
-            "elevation": 224,
-            "mindate": "1955-04-01",
-            "maxdate": "1966-09-22",
-            "latitude": 40.61667,
-            "name": "SHIPPINGPORT, PA US",
-            "datacoverage": 0.8774,
-            "id": "COOP:368078",
-            "elevationUnit": "METERS",
-            "longitude": -80.43333
-        },
-        {
             "elevation": 249.9,
             "mindate": "1951-02-01",
             "maxdate": "2011-12-01",
@@ -5782,11 +4024,11 @@
         },
         {
             "elevation": 393.2,
-            "mindate": "1957-12-01",
+            "mindate": "1983-11-01",
             "maxdate": "2014-01-01",
             "latitude": 41.5987,
             "name": "SIZERVILLE, PA US",
-            "datacoverage": 0.9843,
+            "datacoverage": 0.0321,
             "id": "COOP:368155",
             "elevationUnit": "METERS",
             "longitude": -78.1714
@@ -5815,11 +4057,11 @@
         },
         {
             "elevation": 447.8,
-            "mindate": "1931-01-01",
+            "mindate": "1948-05-01",
             "maxdate": "1992-04-01",
             "latitude": 41.81667,
             "name": "SMETHPORT, PA US",
-            "datacoverage": 0.8749,
+            "datacoverage": 0.063,
             "id": "COOP:368190",
             "elevationUnit": "METERS",
             "longitude": -78.43333
@@ -5847,34 +4089,12 @@
             "longitude": -79.08334
         },
         {
-            "elevation": 655.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1958-12-01",
-            "latitude": 40.01667,
-            "name": "SOMERSET WATER WORKS, PA US",
-            "datacoverage": 0.9851,
-            "id": "COOP:368249",
-            "elevationUnit": "METERS",
-            "longitude": -79.08333
-        },
-        {
-            "elevation": 640.1,
-            "mindate": "1938-04-01",
-            "maxdate": "1949-08-01",
-            "latitude": 39.997,
-            "name": "SOMERSET, PA US",
-            "datacoverage": 0.956,
-            "id": "COOP:368254",
-            "elevationUnit": "METERS",
-            "longitude": -79.08334
-        },
-        {
             "elevation": 426.7,
             "mindate": "1948-07-01",
             "maxdate": "1993-07-01",
             "latitude": 41.51667,
             "name": "SOUTH CANAAN 1 NE, PA US",
-            "datacoverage": 0.9744,
+            "datacoverage": 0.0471,
             "id": "COOP:368275",
             "elevationUnit": "METERS",
             "longitude": -75.4
@@ -5889,17 +4109,6 @@
             "id": "COOP:368308",
             "elevationUnit": "METERS",
             "longitude": -77.5039
-        },
-        {
-            "elevation": 274.9,
-            "mindate": "1955-03-01",
-            "maxdate": "1959-11-01",
-            "latitude": 41.8,
-            "name": "SPRINGBORO, PA US",
-            "datacoverage": 0.745,
-            "id": "COOP:368359",
-            "elevationUnit": "METERS",
-            "longitude": -80.38333
         },
         {
             "elevation": 306.3,
@@ -5946,17 +4155,6 @@
             "longitude": -75.21667
         },
         {
-            "elevation": 762.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1958-11-01",
-            "latitude": 39.73333,
-            "name": "SPRINGS 1 SW, PA US",
-            "datacoverage": 0.9433,
-            "id": "COOP:368395",
-            "elevationUnit": "METERS",
-            "longitude": -79.16667
-        },
-        {
             "elevation": 262.1,
             "mindate": "1991-12-01",
             "maxdate": "2015-11-01",
@@ -5966,17 +4164,6 @@
             "id": "COOP:368400",
             "elevationUnit": "METERS",
             "longitude": -75.2781
-        },
-        {
-            "elevation": 232,
-            "mindate": "1946-09-01",
-            "maxdate": "1953-02-01",
-            "latitude": 40.61667,
-            "name": "SPRUCE CREEK, PA US",
-            "datacoverage": 0.9107,
-            "id": "COOP:368405",
-            "elevationUnit": "METERS",
-            "longitude": -78.15
         },
         {
             "elevation": 310.9,
@@ -6078,28 +4265,6 @@
             "longitude": -75.20712
         },
         {
-            "elevation": 118.9,
-            "mindate": "1948-05-01",
-            "maxdate": "1952-12-01",
-            "latitude": 40.98333,
-            "name": "STROUDSBURG, PA US",
-            "datacoverage": 0.7247,
-            "id": "COOP:368601",
-            "elevationUnit": "METERS",
-            "longitude": -75.18333
-        },
-        {
-            "elevation": 402.9,
-            "mindate": "1941-06-01",
-            "maxdate": "1969-12-01",
-            "latitude": 41.01667,
-            "name": "STUMP CREEK, PA US",
-            "datacoverage": 0.9416,
-            "id": "COOP:368610",
-            "elevationUnit": "METERS",
-            "longitude": -78.83333
-        },
-        {
             "elevation": 444.1,
             "mindate": "1971-09-01",
             "maxdate": "1989-04-01",
@@ -6133,17 +4298,6 @@
             "longitude": -76.7891
         },
         {
-            "elevation": 136.2,
-            "mindate": "1942-11-01",
-            "maxdate": "1949-06-27",
-            "latitude": 40.88333,
-            "name": "SUNBURY AIRPORT, PA US",
-            "datacoverage": 0.9504,
-            "id": "COOP:368673",
-            "elevationUnit": "METERS",
-            "longitude": -76.76667
-        },
-        {
             "elevation": 277.4,
             "mindate": "1935-02-01",
             "maxdate": "2015-11-01",
@@ -6153,17 +4307,6 @@
             "id": "COOP:368692",
             "elevationUnit": "METERS",
             "longitude": -75.6047
-        },
-        {
-            "elevation": 223.4,
-            "mindate": "1940-02-01",
-            "maxdate": "1961-06-01",
-            "latitude": 40.23333,
-            "name": "SUTERSVILLE, PA US",
-            "datacoverage": 0.9457,
-            "id": "COOP:368699",
-            "elevationUnit": "METERS",
-            "longitude": -79.8
         },
         {
             "elevation": 409,
@@ -6199,17 +4342,6 @@
             "longitude": -75.9995
         },
         {
-            "elevation": 677,
-            "mindate": "1940-11-01",
-            "maxdate": "1961-12-01",
-            "latitude": 41.4,
-            "name": "TAMARACK 2 S FIRE TO, PA US",
-            "datacoverage": 0.878,
-            "id": "COOP:368770",
-            "elevationUnit": "METERS",
-            "longitude": -77.85
-        },
-        {
             "elevation": 277.4,
             "mindate": "2005-02-01",
             "maxdate": "2007-09-01",
@@ -6219,17 +4351,6 @@
             "id": "COOP:368776",
             "elevationUnit": "METERS",
             "longitude": -75.29028
-        },
-        {
-            "elevation": 512.1,
-            "mindate": "1951-08-01",
-            "maxdate": "1953-05-01",
-            "latitude": 41.18333,
-            "name": "THORNHURST 1 NW, PA US",
-            "datacoverage": 0.096,
-            "id": "COOP:368839",
-            "elevationUnit": "METERS",
-            "longitude": -75.58333
         },
         {
             "elevation": 246.9,
@@ -6265,23 +4386,12 @@
             "longitude": -79.4432
         },
         {
-            "elevation": 465.1,
-            "mindate": "1943-09-01",
-            "maxdate": "1954-07-01",
-            "latitude": 41.6,
-            "name": "TITUSVILLE 2 S, PA US",
-            "datacoverage": 1,
-            "id": "COOP:368880",
-            "elevationUnit": "METERS",
-            "longitude": -79.66667
-        },
-        {
             "elevation": 473,
             "mindate": "1948-05-01",
             "maxdate": "1976-12-01",
             "latitude": 41.63333,
             "name": "TITUSVILLE, PA US",
-            "datacoverage": 0.8207,
+            "datacoverage": 0.0902,
             "id": "COOP:368885",
             "elevationUnit": "METERS",
             "longitude": -79.66667
@@ -6320,17 +4430,6 @@
             "longitude": -79.46667
         },
         {
-            "elevation": 531,
-            "mindate": "1951-09-01",
-            "maxdate": "1966-11-01",
-            "latitude": 41.78333,
-            "name": "TORPEDO 4 W, PA US",
-            "datacoverage": 0.9618,
-            "id": "COOP:368901",
-            "elevationUnit": "METERS",
-            "longitude": -79.53333
-        },
-        {
             "elevation": 231.6,
             "mindate": "1931-01-01",
             "maxdate": "2015-11-01",
@@ -6340,39 +4439,6 @@
             "id": "COOP:368905",
             "elevationUnit": "METERS",
             "longitude": -76.443
-        },
-        {
-            "elevation": 262.1,
-            "mindate": "1949-01-01",
-            "maxdate": "1951-02-01",
-            "latitude": 40.58333,
-            "name": "TOWER CITY, PA US",
-            "datacoverage": 0.7715,
-            "id": "COOP:368908",
-            "elevationUnit": "METERS",
-            "longitude": -76.56667
-        },
-        {
-            "elevation": 225.9,
-            "mindate": "1937-10-01",
-            "maxdate": "1961-03-01",
-            "latitude": 40.51667,
-            "name": "TOWER CITY 5 SW, PA US",
-            "datacoverage": 0.9646,
-            "id": "COOP:368910",
-            "elevationUnit": "METERS",
-            "longitude": -76.61667
-        },
-        {
-            "elevation": 256,
-            "mindate": "1961-03-01",
-            "maxdate": "1965-05-01",
-            "latitude": 40.58333,
-            "name": "TOWER CITY 2 E, PA US",
-            "datacoverage": 0.8166,
-            "id": "COOP:368912",
-            "elevationUnit": "METERS",
-            "longitude": -76.51667
         },
         {
             "elevation": 460.2,
@@ -6413,7 +4479,7 @@
             "maxdate": "1984-03-01",
             "latitude": 40.45,
             "name": "TUNNELTON, PA US",
-            "datacoverage": 0.878,
+            "datacoverage": 0.0709,
             "id": "COOP:368989",
             "elevationUnit": "METERS",
             "longitude": -79.38333
@@ -6428,17 +4494,6 @@
             "id": "COOP:368992",
             "elevationUnit": "METERS",
             "longitude": -79.41667
-        },
-        {
-            "elevation": 499.9,
-            "mindate": "1951-10-01",
-            "maxdate": "1968-12-01",
-            "latitude": 41.9,
-            "name": "TURTLEPOINT 4 NE, PA US",
-            "datacoverage": 0.908,
-            "id": "COOP:369002",
-            "elevationUnit": "METERS",
-            "longitude": -78.26667
         },
         {
             "elevation": 271.3,
@@ -6461,17 +4516,6 @@
             "id": "COOP:369024",
             "elevationUnit": "METERS",
             "longitude": -78.2
-        },
-        {
-            "elevation": 378,
-            "mindate": "1938-01-01",
-            "maxdate": "1950-04-01",
-            "latitude": 41.9,
-            "name": "UNION CITY 1 W, PA US",
-            "datacoverage": 0.9867,
-            "id": "COOP:369041",
-            "elevationUnit": "METERS",
-            "longitude": -79.86667
         },
         {
             "elevation": 426.7,
@@ -6507,28 +4551,6 @@
             "longitude": -76.5273
         },
         {
-            "elevation": 609.9,
-            "mindate": "1950-03-01",
-            "maxdate": "1959-06-01",
-            "latitude": 39.96667,
-            "name": "UPPER DARBY, PA US",
-            "datacoverage": 0.9464,
-            "id": "COOP:369074",
-            "elevationUnit": "METERS",
-            "longitude": -75.3
-        },
-        {
-            "elevation": 313.9,
-            "mindate": "1955-07-01",
-            "maxdate": "1959-02-01",
-            "latitude": 41.43333,
-            "name": "UTICA, PA US",
-            "datacoverage": 0.8865,
-            "id": "COOP:369099",
-            "elevationUnit": "METERS",
-            "longitude": -79.95
-        },
-        {
             "elevation": 359.7,
             "mindate": "1981-10-01",
             "maxdate": "1996-06-01",
@@ -6551,17 +4573,6 @@
             "longitude": -79.55
         },
         {
-            "elevation": 323.1,
-            "mindate": "1948-05-01",
-            "maxdate": "1961-04-01",
-            "latitude": 40.58333,
-            "name": "APOLLO 2 W, PA US",
-            "datacoverage": 0.9268,
-            "id": "COOP:369133",
-            "elevationUnit": "METERS",
-            "longitude": -79.6
-        },
-        {
             "elevation": 342.9,
             "mindate": "1988-04-01",
             "maxdate": "2002-05-01",
@@ -6582,28 +4593,6 @@
             "id": "COOP:369196",
             "elevationUnit": "METERS",
             "longitude": -75.86667
-        },
-        {
-            "elevation": 494.1,
-            "mindate": "1955-04-01",
-            "maxdate": "1958-12-01",
-            "latitude": 41.41667,
-            "name": "VOWINCKEL, PA US",
-            "datacoverage": 0.8881,
-            "id": "COOP:369206",
-            "elevationUnit": "METERS",
-            "longitude": -79.23333
-        },
-        {
-            "elevation": 491,
-            "mindate": "1955-04-01",
-            "maxdate": "1958-12-01",
-            "latitude": 41.4,
-            "name": "VOWINCKEL 1 WSW, PA US",
-            "datacoverage": 0.8436,
-            "id": "COOP:369209",
-            "elevationUnit": "METERS",
-            "longitude": -79.25
         },
         {
             "elevation": 271.3,
@@ -6661,39 +4650,6 @@
             "longitude": -80.31667
         },
         {
-            "elevation": 737.9,
-            "mindate": "1943-07-01",
-            "maxdate": "1949-09-01",
-            "latitude": 41.61667,
-            "name": "WATROUS 9 S LEE FIRE, PA US",
-            "datacoverage": 0.9862,
-            "id": "COOP:369340",
-            "elevationUnit": "METERS",
-            "longitude": -77.55
-        },
-        {
-            "elevation": 149,
-            "mindate": "1948-05-01",
-            "maxdate": "1966-12-01",
-            "latitude": 41.08333,
-            "name": "WATSONTOWN, PA US",
-            "datacoverage": 0.9284,
-            "id": "COOP:369345",
-            "elevationUnit": "METERS",
-            "longitude": -76.86667
-        },
-        {
-            "elevation": 299,
-            "mindate": "1931-06-01",
-            "maxdate": "1962-04-01",
-            "latitude": 39.9,
-            "name": "WAYNESBURG 2 W, PA US",
-            "datacoverage": 0.9839,
-            "id": "COOP:369362",
-            "elevationUnit": "METERS",
-            "longitude": -80.21667
-        },
-        {
             "elevation": 286.5,
             "mindate": "1948-05-01",
             "maxdate": "2015-11-01",
@@ -6703,17 +4659,6 @@
             "id": "COOP:369367",
             "elevationUnit": "METERS",
             "longitude": -80.1656
-        },
-        {
-            "elevation": 278,
-            "mindate": "1948-05-01",
-            "maxdate": "1969-07-01",
-            "latitude": 39.81667,
-            "name": "BIG COVE TANNERY, PA US",
-            "datacoverage": 0.8503,
-            "id": "COOP:369380",
-            "elevationUnit": "METERS",
-            "longitude": -78.08333
         },
         {
             "elevation": 536.4,
@@ -6749,39 +4694,6 @@
             "longitude": -77.3871
         },
         {
-            "elevation": 473,
-            "mindate": "1948-05-01",
-            "maxdate": "1957-12-01",
-            "latitude": 41.75,
-            "name": "WELLSBORO 2 E, PA US",
-            "datacoverage": 0.9246,
-            "id": "COOP:369412",
-            "elevationUnit": "METERS",
-            "longitude": -77.26667
-        },
-        {
-            "elevation": 153,
-            "mindate": "1946-09-01",
-            "maxdate": "1958-05-01",
-            "latitude": 40.05,
-            "name": "WELLSVILLE, PA US",
-            "datacoverage": 0.9576,
-            "id": "COOP:369420",
-            "elevationUnit": "METERS",
-            "longitude": -76.95
-        },
-        {
-            "elevation": 125,
-            "mindate": "1937-12-01",
-            "maxdate": "1959-06-01",
-            "latitude": 40.33333,
-            "name": "WERNERSVILLE, PA US",
-            "datacoverage": 0.9461,
-            "id": "COOP:369430",
-            "elevationUnit": "METERS",
-            "longitude": -76.1
-        },
-        {
             "elevation": 114.3,
             "mindate": "1931-01-01",
             "maxdate": "2015-11-01",
@@ -6815,17 +4727,6 @@
             "longitude": -77.56667
         },
         {
-            "elevation": 335.3,
-            "mindate": "1931-01-01",
-            "maxdate": "1940-10-01",
-            "latitude": 41.554333,
-            "name": "WESTFORD, PA US",
-            "datacoverage": 0.9999,
-            "id": "COOP:369496",
-            "elevationUnit": "METERS",
-            "longitude": -80.475167
-        },
-        {
             "elevation": 136.9,
             "mindate": "1931-01-01",
             "maxdate": "1976-12-01",
@@ -6857,17 +4758,6 @@
             "id": "COOP:369510",
             "elevationUnit": "METERS",
             "longitude": -79.41056
-        },
-        {
-            "elevation": 235,
-            "mindate": "1931-01-01",
-            "maxdate": "1948-07-01",
-            "latitude": 40.21667,
-            "name": "WEST NEWTON, PA US",
-            "datacoverage": 0.9906,
-            "id": "COOP:369555",
-            "elevationUnit": "METERS",
-            "longitude": -79.76667
         },
         {
             "elevation": 411.5,
@@ -6914,17 +4804,6 @@
             "longitude": -78.2
         },
         {
-            "elevation": 606.9,
-            "mindate": "1940-10-01",
-            "maxdate": "1949-05-01",
-            "latitude": 41.21667,
-            "name": "WILLIAMSPORT 4 SE TO, PA US",
-            "datacoverage": 0.9905,
-            "id": "COOP:369723",
-            "elevationUnit": "METERS",
-            "longitude": -76.95
-        },
-        {
             "elevation": 158.5,
             "mindate": "1948-01-01",
             "maxdate": "2015-11-01",
@@ -6936,17 +4815,6 @@
             "longitude": -76.9217
         },
         {
-            "elevation": 150.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1949-10-31",
-            "latitude": 41.2358,
-            "name": "WILLIAMSPORT RIVER, PA US",
-            "datacoverage": 0.9956,
-            "id": "COOP:369733",
-            "elevationUnit": "METERS",
-            "longitude": -76.9974
-        },
-        {
             "elevation": 160,
             "mindate": "1997-07-01",
             "maxdate": "2015-11-01",
@@ -6956,39 +4824,6 @@
             "id": "COOP:369735",
             "elevationUnit": "METERS",
             "longitude": -76.9833
-        },
-        {
-            "elevation": 238,
-            "mindate": "1931-01-01",
-            "maxdate": "1948-12-01",
-            "latitude": 40.58333,
-            "name": "WILLIAMSTOWN, PA US",
-            "datacoverage": 0.949,
-            "id": "COOP:369741",
-            "elevationUnit": "METERS",
-            "longitude": -76.63333
-        },
-        {
-            "elevation": 360,
-            "mindate": "1951-02-01",
-            "maxdate": "1951-09-01",
-            "latitude": 40.58333,
-            "name": "WILLIAMSTOWN 1 NE, PA US",
-            "datacoverage": 0.8614,
-            "id": "COOP:369742",
-            "elevationUnit": "METERS",
-            "longitude": -76.61667
-        },
-        {
-            "elevation": 220.1,
-            "mindate": "1948-02-01",
-            "maxdate": "1967-09-01",
-            "latitude": 40.83333,
-            "name": "WIND GAP 1 S, PA US",
-            "datacoverage": 0.6825,
-            "id": "COOP:369781",
-            "elevationUnit": "METERS",
-            "longitude": -75.3
         },
         {
             "elevation": 361.2,
@@ -7029,21 +4864,10 @@
             "maxdate": "2007-05-01",
             "latitude": 39.94,
             "name": "YORK 1 S FILTER PLAN, PA US",
-            "datacoverage": 0.9268,
+            "datacoverage": 0.0487,
             "id": "COOP:369938",
             "elevationUnit": "METERS",
             "longitude": -76.72528
-        },
-        {
-            "elevation": 121.9,
-            "mindate": "1941-01-01",
-            "maxdate": "1948-04-01",
-            "latitude": 39.92,
-            "name": "YORK INDIAN ROCK DAM, PA US",
-            "datacoverage": 0.7277,
-            "id": "COOP:369943",
-            "elevationUnit": "METERS",
-            "longitude": -76.751833
         },
         {
             "elevation": 94.5,
@@ -7058,11 +4882,11 @@
         },
         {
             "elevation": 370.9,
-            "mindate": "1948-01-01",
+            "mindate": "1948-05-01",
             "maxdate": "1985-05-01",
             "latitude": 41.85,
             "name": "YOUNGSVILLE, PA US",
-            "datacoverage": 1,
+            "datacoverage": 0.069,
             "id": "COOP:369966",
             "elevationUnit": "METERS",
             "longitude": -79.31667
@@ -7091,17 +4915,6 @@
         },
         {
             "elevation": 178.3,
-            "mindate": "1931-12-01",
-            "maxdate": "1950-06-01",
-            "latitude": 40.46667,
-            "name": "ZIONSVILLE 3 ESE, PA US",
-            "datacoverage": 1,
-            "id": "COOP:369994",
-            "elevationUnit": "METERS",
-            "longitude": -75.45
-        },
-        {
-            "elevation": 178.3,
             "mindate": "1950-10-01",
             "maxdate": "1997-04-01",
             "latitude": 40.46667,
@@ -7110,17 +4923,6 @@
             "id": "COOP:369995",
             "elevationUnit": "METERS",
             "longitude": -75.45
-        },
-        {
-            "elevation": 320,
-            "mindate": "1931-01-01",
-            "maxdate": "1952-05-01",
-            "latitude": 39.63333,
-            "name": "MORGANTOWN 1, WV US",
-            "datacoverage": 0.9222,
-            "id": "COOP:466207",
-            "elevationUnit": "METERS",
-            "longitude": -79.95
         },
         {
             "elevation": 139,
@@ -11004,6 +8806,2206 @@
             "id": "GHCND:US1PALZ0017",
             "elevationUnit": "METERS",
             "longitude": -76.065817
+        },
+        {
+            "elevation": 377.3,
+            "mindate": "2011-12-01",
+            "maxdate": "2020-05-15",
+            "latitude": 41.3320096,
+            "name": "DALLAS 0.5 E, PA US",
+            "datacoverage": 0.9973,
+            "id": "GHCND:US1PALZ0018",
+            "elevationUnit": "METERS",
+            "longitude": -75.9631106
+        },
+        {
+            "elevation": 577,
+            "mindate": "2011-07-01",
+            "maxdate": "2017-12-17",
+            "latitude": 41.1925,
+            "name": "WILKES BARRE 5.2 SE, PA US",
+            "datacoverage": 0.6476,
+            "id": "GHCND:US1PALZ0022",
+            "elevationUnit": "METERS",
+            "longitude": -75.8061
+        },
+        {
+            "elevation": 409,
+            "mindate": "2012-09-01",
+            "maxdate": "2019-09-10",
+            "latitude": 41.070115,
+            "name": "WHITE HAVEN 1.5 NW, PA US",
+            "datacoverage": 0.9774,
+            "id": "GHCND:US1PALZ0023",
+            "elevationUnit": "METERS",
+            "longitude": -75.798618
+        },
+        {
+            "elevation": 170.1,
+            "mindate": "2012-11-01",
+            "maxdate": "2020-05-16",
+            "latitude": 41.294913,
+            "name": "FORTY FORT 0.4 NNE, PA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1PALZ0024",
+            "elevationUnit": "METERS",
+            "longitude": -75.868213
+        },
+        {
+            "elevation": 168.6,
+            "mindate": "2013-08-01",
+            "maxdate": "2020-05-17",
+            "latitude": 41.0695639997721,
+            "name": "BEACH HAVEN 0.8 E, PA US",
+            "datacoverage": 0.9375,
+            "id": "GHCND:US1PALZ0025",
+            "elevationUnit": "METERS",
+            "longitude": -76.1610668152571
+        },
+        {
+            "elevation": 415.1,
+            "mindate": "2013-08-01",
+            "maxdate": "2020-05-16",
+            "latitude": 41.150377,
+            "name": "MOUNTAIN TOP 1.0 SW, PA US",
+            "datacoverage": 0.8715,
+            "id": "GHCND:US1PALZ0026",
+            "elevationUnit": "METERS",
+            "longitude": -75.906238
+        },
+        {
+            "elevation": 484,
+            "mindate": "2014-05-01",
+            "maxdate": "2019-12-15",
+            "latitude": 40.968144312501,
+            "name": "HAZLETON 1.6 NW, PA US",
+            "datacoverage": 0.8684,
+            "id": "GHCND:US1PALZ0027",
+            "elevationUnit": "METERS",
+            "longitude": -75.9907203912735
+        },
+        {
+            "elevation": 510.8,
+            "mindate": "2007-04-01",
+            "maxdate": "2013-11-08",
+            "latitude": 41.95271,
+            "name": "ELDRED 5.1 W, PA US",
+            "datacoverage": 0.4623,
+            "id": "GHCND:US1PAMC0001",
+            "elevationUnit": "METERS",
+            "longitude": -78.479313
+        },
+        {
+            "elevation": 659.9,
+            "mindate": "2007-07-01",
+            "maxdate": "2010-05-31",
+            "latitude": 41.862341,
+            "name": "BRADFORD 6.8 S, PA US",
+            "datacoverage": 0.6617,
+            "id": "GHCND:US1PAMC0002",
+            "elevationUnit": "METERS",
+            "longitude": -78.63731
+        },
+        {
+            "elevation": 467.3,
+            "mindate": "2008-09-01",
+            "maxdate": "2012-05-05",
+            "latitude": 41.945635,
+            "name": "BRADFORD 2.8 WSW, PA US",
+            "datacoverage": 0.998,
+            "id": "GHCND:US1PAMC0004",
+            "elevationUnit": "METERS",
+            "longitude": -78.69153
+        },
+        {
+            "elevation": 437.7,
+            "mindate": "2012-04-01",
+            "maxdate": "2012-11-23",
+            "latitude": 41.9745668023825,
+            "name": "BRADFORD 1.4 NE, PA US",
+            "datacoverage": 0.998,
+            "id": "GHCND:US1PAMC0006",
+            "elevationUnit": "METERS",
+            "longitude": -78.6195333302021
+        },
+        {
+            "elevation": 253,
+            "mindate": "2006-01-01",
+            "maxdate": "2006-12-02",
+            "latitude": 40.455055,
+            "name": "MCVEYTOWN 5.1 SW, PA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1PAMF0001",
+            "elevationUnit": "METERS",
+            "longitude": -77.819106
+        },
+        {
+            "elevation": 217.9,
+            "mindate": "2006-02-01",
+            "maxdate": "2008-10-15",
+            "latitude": 40.65193,
+            "name": "BURNHAM 1.1 N, PA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1PAMF0002",
+            "elevationUnit": "METERS",
+            "longitude": -77.562801
+        },
+        {
+            "elevation": 645,
+            "mindate": "2007-09-01",
+            "maxdate": "2009-09-06",
+            "latitude": 41.221732,
+            "name": "TOBYHANNA 11.1 NE, PA US",
+            "datacoverage": 0.7199,
+            "id": "GHCND:US1PAMN0005",
+            "elevationUnit": "METERS",
+            "longitude": -75.370777
+        },
+        {
+            "elevation": 237.7,
+            "mindate": "2007-11-01",
+            "maxdate": "2008-03-09",
+            "latitude": 40.982,
+            "name": "STROUDSBURG 4.0 W, PA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1PAMN0006",
+            "elevationUnit": "METERS",
+            "longitude": -75.2748
+        },
+        {
+            "elevation": 254.5,
+            "mindate": "2011-06-01",
+            "maxdate": "2020-03-30",
+            "latitude": 40.988692,
+            "name": "STROUDSBURG 5.1 W, PA US",
+            "datacoverage": 0.9996,
+            "id": "GHCND:US1PAMN0007",
+            "elevationUnit": "METERS",
+            "longitude": -75.295929
+        },
+        {
+            "elevation": 335.9,
+            "mindate": "2012-01-01",
+            "maxdate": "2014-10-26",
+            "latitude": 41.013,
+            "name": "REEDERS 1.8 W, PA US",
+            "datacoverage": 0.9705,
+            "id": "GHCND:US1PAMN0008",
+            "elevationUnit": "METERS",
+            "longitude": -75.371
+        },
+        {
+            "elevation": 163.4,
+            "mindate": "2012-08-01",
+            "maxdate": "2019-04-09",
+            "latitude": 41.057809,
+            "name": "EAST STROUDSBURG 6.5 NE, PA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1PAMN0009",
+            "elevationUnit": "METERS",
+            "longitude": -75.079581
+        },
+        {
+            "elevation": 334.4,
+            "mindate": "2013-09-01",
+            "maxdate": "2020-05-17",
+            "latitude": 40.903357,
+            "name": "SAYLORSBURG 2.7 WNW, PA US",
+            "datacoverage": 0.7502,
+            "id": "GHCND:US1PAMN0011",
+            "elevationUnit": "METERS",
+            "longitude": -75.373678
+        },
+        {
+            "elevation": 339.2,
+            "mindate": "2014-10-01",
+            "maxdate": "2017-05-12",
+            "latitude": 40.903856,
+            "name": "SAYLORSBURG 2.8 W, PA US",
+            "datacoverage": 0.8887,
+            "id": "GHCND:US1PAMN0013",
+            "elevationUnit": "METERS",
+            "longitude": -75.374939
+        },
+        {
+            "elevation": 293.2,
+            "mindate": "2015-04-21",
+            "maxdate": "2020-05-17",
+            "latitude": 40.89333333,
+            "name": "SAYLORSBURG 4.0 W, PA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1PAMN0014",
+            "elevationUnit": "METERS",
+            "longitude": -75.39916667
+        },
+        {
+            "elevation": 338,
+            "mindate": "2006-03-01",
+            "maxdate": "2006-10-06",
+            "latitude": 41.197492,
+            "name": "HERMITAGE 3.2 SE, PA US",
+            "datacoverage": 0.9939,
+            "id": "GHCND:US1PAMR0001",
+            "elevationUnit": "METERS",
+            "longitude": -80.398116
+        },
+        {
+            "elevation": 439.8,
+            "mindate": "2009-05-01",
+            "maxdate": "2009-12-20",
+            "latitude": 41.249686,
+            "name": "MERCER 6.9 NE, PA US",
+            "datacoverage": 0.998,
+            "id": "GHCND:US1PAMR0004",
+            "elevationUnit": "METERS",
+            "longitude": -80.03582
+        },
+        {
+            "elevation": 281.6,
+            "mindate": "1998-06-17",
+            "maxdate": "2020-05-17",
+            "latitude": 41.143349,
+            "name": "WEST MIDDLESEX 2.1 S, PA US",
+            "datacoverage": 0.3238,
+            "id": "GHCND:US1PAMR0005",
+            "elevationUnit": "METERS",
+            "longitude": -80.455191
+        },
+        {
+            "elevation": 441.4,
+            "mindate": "2011-04-01",
+            "maxdate": "2012-03-13",
+            "latitude": 41.249686,
+            "name": "GROVE CITY 7.0 NNE, PA US",
+            "datacoverage": 0.998,
+            "id": "GHCND:US1PAMR0008",
+            "elevationUnit": "METERS",
+            "longitude": -80.03582
+        },
+        {
+            "elevation": 405.1,
+            "mindate": "2014-07-01",
+            "maxdate": "2019-01-19",
+            "latitude": 41.353744,
+            "name": "SANDY LAKE 1.8 ENE, PA US",
+            "datacoverage": 0.9995,
+            "id": "GHCND:US1PAMR0011",
+            "elevationUnit": "METERS",
+            "longitude": -80.050475
+        },
+        {
+            "elevation": 286.8,
+            "mindate": "2016-09-17",
+            "maxdate": "2020-05-16",
+            "latitude": 41.199416,
+            "name": "HERMITAGE 2.2 SSW, PA US",
+            "datacoverage": 0.7197,
+            "id": "GHCND:US1PAMR0012",
+            "elevationUnit": "METERS",
+            "longitude": -80.456453
+        },
+        {
+            "elevation": 332.8,
+            "mindate": "2019-05-21",
+            "maxdate": "2020-05-17",
+            "latitude": 41.154849,
+            "name": "WEST MIDDLESEX 2.2 SE, PA US",
+            "datacoverage": 0.7521,
+            "id": "GHCND:US1PAMR0022",
+            "elevationUnit": "METERS",
+            "longitude": -80.422309
+        },
+        {
+            "elevation": 93,
+            "mindate": "2005-10-01",
+            "maxdate": "2020-05-16",
+            "latitude": 40.31,
+            "name": "GILBERTSVILLE 0.9 S, PA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1PAMT0001",
+            "elevationUnit": "METERS",
+            "longitude": -75.607
+        },
+        {
+            "elevation": 67.1,
+            "mindate": "2006-02-01",
+            "maxdate": "2017-02-25",
+            "latitude": 40.2436,
+            "name": "POTTSTOWN 0.6 SE, PA US",
+            "datacoverage": 0.9991,
+            "id": "GHCND:US1PAMT0005",
+            "elevationUnit": "METERS",
+            "longitude": -75.6354
+        },
+        {
+            "elevation": 106.1,
+            "mindate": "2006-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 40.2763,
+            "name": "HATFIELD 0.1 SSW, PA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1PAMT0006",
+            "elevationUnit": "METERS",
+            "longitude": -75.3006
+        },
+        {
+            "elevation": 112.2,
+            "mindate": "1998-06-17",
+            "maxdate": "2020-05-17",
+            "latitude": 40.255622,
+            "name": "HARLEYSVILLE 2.1 SW, PA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1PAMT0007",
+            "elevationUnit": "METERS",
+            "longitude": -75.414367
+        },
+        {
+            "elevation": 129.8,
+            "mindate": "1998-06-01",
+            "maxdate": "2007-04-08",
+            "latitude": 40.085526,
+            "name": "WYNDMOOR 0.7 ENE, PA US",
+            "datacoverage": 0.6379,
+            "id": "GHCND:US1PAMT0008",
+            "elevationUnit": "METERS",
+            "longitude": -75.179981
+        },
+        {
+            "elevation": 85,
+            "mindate": "2006-01-01",
+            "maxdate": "2017-12-29",
+            "latitude": 40.217746,
+            "name": "COLLEGEVILLE 2.8 NW, PA US",
+            "datacoverage": 0.8168,
+            "id": "GHCND:US1PAMT0009",
+            "elevationUnit": "METERS",
+            "longitude": -75.493305
+        },
+        {
+            "elevation": 104.9,
+            "mindate": "2006-02-01",
+            "maxdate": "2012-05-24",
+            "latitude": 40.281883,
+            "name": "HATFIELD 2.0 W, PA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1PAMT0011",
+            "elevationUnit": "METERS",
+            "longitude": -75.335984
+        },
+        {
+            "elevation": 74.7,
+            "mindate": "2006-02-01",
+            "maxdate": "2020-04-16",
+            "latitude": 40.218173,
+            "name": "COLLEGEVILLE 2.9 NE, PA US",
+            "datacoverage": 0.9922,
+            "id": "GHCND:US1PAMT0012",
+            "elevationUnit": "METERS",
+            "longitude": -75.420164
+        },
+        {
+            "elevation": 84.1,
+            "mindate": "2006-02-01",
+            "maxdate": "2020-05-17",
+            "latitude": 40.168486,
+            "name": "BLUE BELL 2.3 NW, PA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1PAMT0013",
+            "elevationUnit": "METERS",
+            "longitude": -75.300545
+        },
+        {
+            "elevation": 95.1,
+            "mindate": "2006-02-01",
+            "maxdate": "2009-12-28",
+            "latitude": 40.266193,
+            "name": "HATFIELD 1.9 ESE, PA US",
+            "datacoverage": 0.8226,
+            "id": "GHCND:US1PAMT0015",
+            "elevationUnit": "METERS",
+            "longitude": -75.265652
+        },
+        {
+            "elevation": 100.9,
+            "mindate": "2006-03-01",
+            "maxdate": "2020-05-17",
+            "latitude": 40.206117,
+            "name": "NORTH WALES 1.3 WSW, PA US",
+            "datacoverage": 0.9997,
+            "id": "GHCND:US1PAMT0016",
+            "elevationUnit": "METERS",
+            "longitude": -75.2991
+        },
+        {
+            "elevation": 92,
+            "mindate": "1998-06-01",
+            "maxdate": "2019-06-11",
+            "latitude": 40.01243,
+            "name": "NARBERTH 0.5 NE, PA US",
+            "datacoverage": 0.0841,
+            "id": "GHCND:US1PAMT0017",
+            "elevationUnit": "METERS",
+            "longitude": -75.257
+        },
+        {
+            "elevation": 103.9,
+            "mindate": "2006-06-01",
+            "maxdate": "2011-06-24",
+            "latitude": 40.29191,
+            "name": "SPRING MOUNT 1.3 N, PA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1PAMT0019",
+            "elevationUnit": "METERS",
+            "longitude": -75.46685
+        },
+        {
+            "elevation": 71,
+            "mindate": "2006-06-01",
+            "maxdate": "2020-05-11",
+            "latitude": 40.201145,
+            "name": "SKIPPACK 1.4 SSW, PA US",
+            "datacoverage": 0.9067,
+            "id": "GHCND:US1PAMT0020",
+            "elevationUnit": "METERS",
+            "longitude": -75.409018
+        },
+        {
+            "elevation": 82.9,
+            "mindate": "2006-09-01",
+            "maxdate": "2017-10-20",
+            "latitude": 40.20769,
+            "name": "KULPSVILLE 2.6 SSW, PA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1PAMT0022",
+            "elevationUnit": "METERS",
+            "longitude": -75.35216
+        },
+        {
+            "elevation": 46,
+            "mindate": "2007-02-01",
+            "maxdate": "2013-09-24",
+            "latitude": 40.219182,
+            "name": "COLLEGEVILLE 2.2 N, PA US",
+            "datacoverage": 0.5377,
+            "id": "GHCND:US1PAMT0025",
+            "elevationUnit": "METERS",
+            "longitude": -75.453767
+        },
+        {
+            "elevation": 93,
+            "mindate": "2007-03-01",
+            "maxdate": "2014-04-02",
+            "latitude": 40.223793,
+            "name": "LANSDALE 1.9 SW, PA US",
+            "datacoverage": 0.779,
+            "id": "GHCND:US1PAMT0027",
+            "elevationUnit": "METERS",
+            "longitude": -75.309985
+        },
+        {
+            "elevation": 125,
+            "mindate": "2007-03-01",
+            "maxdate": "2016-10-12",
+            "latitude": 40.277861,
+            "name": "POTTSTOWN 2.0 NNE, PA US",
+            "datacoverage": 0.9904,
+            "id": "GHCND:US1PAMT0030",
+            "elevationUnit": "METERS",
+            "longitude": -75.630609
+        },
+        {
+            "elevation": 15.8,
+            "mindate": "2007-03-01",
+            "maxdate": "2009-02-09",
+            "latitude": 40.029053,
+            "name": "BALA CYNWYD 1.15 NNW, PA US",
+            "datacoverage": 0.9993,
+            "id": "GHCND:US1PAMT0031",
+            "elevationUnit": "METERS",
+            "longitude": -75.236588
+        },
+        {
+            "elevation": 171.9,
+            "mindate": "2007-06-01",
+            "maxdate": "2008-09-07",
+            "latitude": 40.375218,
+            "name": "BALLY 2.2 SE, PA US",
+            "datacoverage": 0.8108,
+            "id": "GHCND:US1PAMT0034",
+            "elevationUnit": "METERS",
+            "longitude": -75.563259
+        },
+        {
+            "elevation": 150,
+            "mindate": "2007-10-01",
+            "maxdate": "2016-04-19",
+            "latitude": 40.31843,
+            "name": "SOUDERTON 0.6 NNW, PA US",
+            "datacoverage": 0.9999,
+            "id": "GHCND:US1PAMT0037",
+            "elevationUnit": "METERS",
+            "longitude": -75.32429
+        },
+        {
+            "elevation": 47.5,
+            "mindate": "2008-03-01",
+            "maxdate": "2014-01-31",
+            "latitude": 40.2707,
+            "name": "SCHWENKSVILLE 0.9 N, PA US",
+            "datacoverage": 0.8443,
+            "id": "GHCND:US1PAMT0038",
+            "elevationUnit": "METERS",
+            "longitude": -75.4659
+        },
+        {
+            "elevation": 63.4,
+            "mindate": "2008-02-01",
+            "maxdate": "2010-06-10",
+            "latitude": 40.116213,
+            "name": "ORELAND 0.3 WNW, PA US",
+            "datacoverage": 0.8637,
+            "id": "GHCND:US1PAMT0040",
+            "elevationUnit": "METERS",
+            "longitude": -75.184776
+        },
+        {
+            "elevation": 88.4,
+            "mindate": "2008-04-01",
+            "maxdate": "2012-09-26",
+            "latitude": 40.288652,
+            "name": "CHALFONT 0.2 NW, PA US",
+            "datacoverage": 0.7776,
+            "id": "GHCND:US1PAMT0042",
+            "elevationUnit": "METERS",
+            "longitude": -75.21001
+        },
+        {
+            "elevation": 53.3,
+            "mindate": "2008-11-01",
+            "maxdate": "2010-03-18",
+            "latitude": 40.088491,
+            "name": "KING OF PRUSSIA 1.4 ESE, PA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1PAMT0043",
+            "elevationUnit": "METERS",
+            "longitude": -75.35807
+        },
+        {
+            "elevation": 76.5,
+            "mindate": "2008-04-01",
+            "maxdate": "2009-05-04",
+            "latitude": 40.138939,
+            "name": "WEST NORRITON 0.8 NNW, PA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1PAMT0044",
+            "elevationUnit": "METERS",
+            "longitude": -75.386031
+        },
+        {
+            "elevation": 66.1,
+            "mindate": "2009-01-01",
+            "maxdate": "2010-10-05",
+            "latitude": 40.10071,
+            "name": "FLOURTOWN 0.4 WSW, PA US",
+            "datacoverage": 0.8644,
+            "id": "GHCND:US1PAMT0046",
+            "elevationUnit": "METERS",
+            "longitude": -75.214821
+        },
+        {
+            "elevation": 75.3,
+            "mindate": "2009-05-01",
+            "maxdate": "2011-05-20",
+            "latitude": 40.1639,
+            "name": "AMBLER 0.8 NW, PA US",
+            "datacoverage": 0.7599,
+            "id": "GHCND:US1PAMT0047",
+            "elevationUnit": "METERS",
+            "longitude": -75.232053
+        },
+        {
+            "elevation": 98.8,
+            "mindate": "2009-06-01",
+            "maxdate": "2020-05-16",
+            "latitude": 40.008191,
+            "name": "ARDMORE 0.5 NW, PA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1PAMT0048",
+            "elevationUnit": "METERS",
+            "longitude": -75.300315
+        },
+        {
+            "elevation": 71.6,
+            "mindate": "2010-04-01",
+            "maxdate": "2020-05-17",
+            "latitude": 40.236345,
+            "name": "HARLEYSVILLE 2.9 S, PA US",
+            "datacoverage": 0.9998,
+            "id": "GHCND:US1PAMT0051",
+            "elevationUnit": "METERS",
+            "longitude": -75.38246
+        },
+        {
+            "elevation": 130.5,
+            "mindate": "2010-04-01",
+            "maxdate": "2011-01-12",
+            "latitude": 40.2632,
+            "name": "LANSDALE 3.2 ENE, PA US",
+            "datacoverage": 0.9947,
+            "id": "GHCND:US1PAMT0052",
+            "elevationUnit": "METERS",
+            "longitude": -75.2283
+        },
+        {
+            "elevation": 63.7,
+            "mindate": "2010-04-01",
+            "maxdate": "2018-11-03",
+            "latitude": 40.219886,
+            "name": "COLLEGEVILLE 2.3 N, PA US",
+            "datacoverage": 0.7637,
+            "id": "GHCND:US1PAMT0053",
+            "elevationUnit": "METERS",
+            "longitude": -75.465467
+        },
+        {
+            "elevation": 85.6,
+            "mindate": "2010-04-01",
+            "maxdate": "2012-10-03",
+            "latitude": 40.238379,
+            "name": "SCHWENKSVILLE 3.6 ESE, PA US",
+            "datacoverage": 0.9985,
+            "id": "GHCND:US1PAMT0055",
+            "elevationUnit": "METERS",
+            "longitude": -75.403329
+        },
+        {
+            "elevation": 85.6,
+            "mindate": "2010-05-01",
+            "maxdate": "2020-05-17",
+            "latitude": 40.265389,
+            "name": "HATFIELD 2.0 WSW, PA US",
+            "datacoverage": 0.9996,
+            "id": "GHCND:US1PAMT0056",
+            "elevationUnit": "METERS",
+            "longitude": -75.332941
+        },
+        {
+            "elevation": 64.6,
+            "mindate": "2011-03-01",
+            "maxdate": "2012-03-14",
+            "latitude": 40.101466,
+            "name": "PLYMOUTH MEETING 1.5 ESE, PA US",
+            "datacoverage": 0.9967,
+            "id": "GHCND:US1PAMT0060",
+            "elevationUnit": "METERS",
+            "longitude": -75.253841
+        },
+        {
+            "elevation": 74.4,
+            "mindate": "2011-10-01",
+            "maxdate": "2015-11-30",
+            "latitude": 40.15225,
+            "name": "WILLOW GROVE 0.8 ENE, PA US",
+            "datacoverage": 0.48,
+            "id": "GHCND:US1PAMT0063",
+            "elevationUnit": "METERS",
+            "longitude": -75.103753
+        },
+        {
+            "elevation": 58.2,
+            "mindate": "2011-10-01",
+            "maxdate": "2019-11-22",
+            "latitude": 40.130489,
+            "name": "WEST NORRITON 0.3 WNW, PA US",
+            "datacoverage": 0.9998,
+            "id": "GHCND:US1PAMT0064",
+            "elevationUnit": "METERS",
+            "longitude": -75.383888
+        },
+        {
+            "elevation": 51.5,
+            "mindate": "2011-10-01",
+            "maxdate": "2016-04-21",
+            "latitude": 40.199889,
+            "name": "COLLEGEVILLE 0.9 NNE, PA US",
+            "datacoverage": 0.9442,
+            "id": "GHCND:US1PAMT0065",
+            "elevationUnit": "METERS",
+            "longitude": -75.453398
+        },
+        {
+            "elevation": 88.4,
+            "mindate": "2011-11-01",
+            "maxdate": "2020-05-12",
+            "latitude": 40.14595,
+            "name": "FORT WASHINGTON 0.8 NW, PA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1PAMT0067",
+            "elevationUnit": "METERS",
+            "longitude": -75.2025
+        },
+        {
+            "elevation": 97.8,
+            "mindate": "2012-01-01",
+            "maxdate": "2019-10-27",
+            "latitude": 40.2329269,
+            "name": "LIMERICK 1.1 W, PA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1PAMT0068",
+            "elevationUnit": "METERS",
+            "longitude": -75.542248
+        },
+        {
+            "elevation": 178.9,
+            "mindate": "2011-02-01",
+            "maxdate": "2014-07-21",
+            "latitude": 40.413956,
+            "name": "EAST GREENVILLE 2.2 WNW, PA US",
+            "datacoverage": 0.7866,
+            "id": "GHCND:US1PAMT0069",
+            "elevationUnit": "METERS",
+            "longitude": -75.54659
+        },
+        {
+            "elevation": 103,
+            "mindate": "2012-05-01",
+            "maxdate": "2020-05-17",
+            "latitude": 40.195029,
+            "name": "NORTH WALES 1.3 SW, PA US",
+            "datacoverage": 0.9997,
+            "id": "GHCND:US1PAMT0072",
+            "elevationUnit": "METERS",
+            "longitude": -75.2907649
+        },
+        {
+            "elevation": 105.2,
+            "mindate": "2012-04-01",
+            "maxdate": "2014-07-23",
+            "latitude": 40.303583,
+            "name": "FREDERICK 0.1 NE, PA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1PAMT0075",
+            "elevationUnit": "METERS",
+            "longitude": -75.528813
+        },
+        {
+            "elevation": 68.9,
+            "mindate": "2012-05-01",
+            "maxdate": "2019-08-02",
+            "latitude": 40.2824821472168,
+            "name": "PERKIOMENVILLE 4.6 SW, PA US",
+            "datacoverage": 0.9784,
+            "id": "GHCND:US1PAMT0076",
+            "elevationUnit": "METERS",
+            "longitude": -75.5450973510742
+        },
+        {
+            "elevation": 106.7,
+            "mindate": "2012-02-01",
+            "maxdate": "2020-05-12",
+            "latitude": 40.152982,
+            "name": "BLUE BELL 0.8 NE, PA US",
+            "datacoverage": 0.8605,
+            "id": "GHCND:US1PAMT0078",
+            "elevationUnit": "METERS",
+            "longitude": -75.256429
+        },
+        {
+            "elevation": 39.3,
+            "mindate": "2013-10-01",
+            "maxdate": "2015-06-11",
+            "latitude": 40.05786,
+            "name": "CHELTENHAM 0.2 S, PA US",
+            "datacoverage": 0.9064,
+            "id": "GHCND:US1PAMT0081",
+            "elevationUnit": "METERS",
+            "longitude": -75.093597
+        },
+        {
+            "elevation": 64,
+            "mindate": "2014-06-01",
+            "maxdate": "2020-05-17",
+            "latitude": 40.204216,
+            "name": "SKIPPACK 2.6 ESE, PA US",
+            "datacoverage": 0.9994,
+            "id": "GHCND:US1PAMT0085",
+            "elevationUnit": "METERS",
+            "longitude": -75.357697
+        },
+        {
+            "elevation": 93.6,
+            "mindate": "2015-01-01",
+            "maxdate": "2019-01-12",
+            "latitude": 40.229118,
+            "name": "LIMERICK 1.0 W, PA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1PAMT0086",
+            "elevationUnit": "METERS",
+            "longitude": -75.541595
+        },
+        {
+            "elevation": 131.1,
+            "mindate": "2015-03-01",
+            "maxdate": "2020-05-15",
+            "latitude": 40.30873,
+            "name": "HARLEYSVILLE 3.9 WNW, PA US",
+            "datacoverage": 0.9967,
+            "id": "GHCND:US1PAMT0087",
+            "elevationUnit": "METERS",
+            "longitude": -75.44975
+        },
+        {
+            "elevation": 100.6,
+            "mindate": "2015-03-01",
+            "maxdate": "2020-05-09",
+            "latitude": 40.006172,
+            "name": "BALA CYNWYD 0.8 SSW, PA US",
+            "datacoverage": 0.9967,
+            "id": "GHCND:US1PAMT0088",
+            "elevationUnit": "METERS",
+            "longitude": -75.235988
+        },
+        {
+            "elevation": 84.4,
+            "mindate": "2015-07-01",
+            "maxdate": "2020-05-17",
+            "latitude": 40.094095,
+            "name": "WYNCOTE 0.3 ENE, PA US",
+            "datacoverage": 0.9986,
+            "id": "GHCND:US1PAMT0089",
+            "elevationUnit": "METERS",
+            "longitude": -75.14316
+        },
+        {
+            "elevation": 73.5,
+            "mindate": "2015-10-01",
+            "maxdate": "2020-05-16",
+            "latitude": 40.332373,
+            "name": "GREEN LANE 0.9 ESE, PA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1PAMT0090",
+            "elevationUnit": "METERS",
+            "longitude": -75.454108
+        },
+        {
+            "elevation": 47.5,
+            "mindate": "2015-11-01",
+            "maxdate": "2020-05-16",
+            "latitude": 40.198392,
+            "name": "COLLEGEVILLE 0.8 NNE, PA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1PAMT0091",
+            "elevationUnit": "METERS",
+            "longitude": -75.453469
+        },
+        {
+            "elevation": 103.3,
+            "mindate": "2016-01-01",
+            "maxdate": "2020-05-14",
+            "latitude": 40.3735046386719,
+            "name": "PENNSBURG 1.6 SSW, PA US",
+            "datacoverage": 0.9122,
+            "id": "GHCND:US1PAMT0092",
+            "elevationUnit": "METERS",
+            "longitude": -75.5127258300781
+        },
+        {
+            "elevation": 104.2,
+            "mindate": "2016-05-15",
+            "maxdate": "2020-05-16",
+            "latitude": 40.393281,
+            "name": "PENNSBURG 0.5 E, PA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1PAMT0093",
+            "elevationUnit": "METERS",
+            "longitude": -75.485871
+        },
+        {
+            "elevation": 99.1,
+            "mindate": "2016-04-13",
+            "maxdate": "2020-05-17",
+            "latitude": 40.2126350402832,
+            "name": "LANSDALE 2.9 SW, PA US",
+            "datacoverage": 0.99,
+            "id": "GHCND:US1PAMT0094",
+            "elevationUnit": "METERS",
+            "longitude": -75.3210906982422
+        },
+        {
+            "elevation": 70.1,
+            "mindate": "2016-10-31",
+            "maxdate": "2020-05-17",
+            "latitude": 40.2522239685059,
+            "name": "SCHWENKSVILLE 1.6 WSW, PA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1PAMT0096",
+            "elevationUnit": "METERS",
+            "longitude": -75.4953460693359
+        },
+        {
+            "elevation": 88.7,
+            "mindate": "2017-05-01",
+            "maxdate": "2020-05-12",
+            "latitude": 40.19694,
+            "name": "LANSDALE 3.9 SW, PA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1PAMT0102",
+            "elevationUnit": "METERS",
+            "longitude": -75.32585
+        },
+        {
+            "elevation": 102.1,
+            "mindate": "2017-09-20",
+            "maxdate": "2019-06-14",
+            "latitude": 40.398561,
+            "name": "PENNSBURG 0.6 WNW, PA US",
+            "datacoverage": 0.4297,
+            "id": "GHCND:US1PAMT0103",
+            "elevationUnit": "METERS",
+            "longitude": -75.505777
+        },
+        {
+            "elevation": 96.9,
+            "mindate": "2017-12-08",
+            "maxdate": "2020-04-08",
+            "latitude": 40.208405,
+            "name": "NORTH WALES 0.9 W, PA US",
+            "datacoverage": 0.4185,
+            "id": "GHCND:US1PAMT0105",
+            "elevationUnit": "METERS",
+            "longitude": -75.292251
+        },
+        {
+            "elevation": 143.6,
+            "mindate": "2018-09-08",
+            "maxdate": "2020-05-16",
+            "latitude": 40.400983,
+            "name": "PENNSBURG 1.3 ENE, PA US",
+            "datacoverage": 0.8882,
+            "id": "GHCND:US1PAMT0106",
+            "elevationUnit": "METERS",
+            "longitude": -75.472966
+        },
+        {
+            "elevation": 175.6,
+            "mindate": "2018-11-23",
+            "maxdate": "2020-05-16",
+            "latitude": 40.350365,
+            "name": "RED HILL 2.7 SW, PA US",
+            "datacoverage": 0.9394,
+            "id": "GHCND:US1PAMT0108",
+            "elevationUnit": "METERS",
+            "longitude": -75.52169
+        },
+        {
+            "elevation": 185,
+            "mindate": "1998-06-01",
+            "maxdate": "2015-04-13",
+            "latitude": 40.771236,
+            "name": "NAZARETH 2.2 N, PA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1PANH0001",
+            "elevationUnit": "METERS",
+            "longitude": -75.306881
+        },
+        {
+            "elevation": 121,
+            "mindate": "2006-05-01",
+            "maxdate": "2006-09-28",
+            "latitude": 40.663323,
+            "name": "OLD ORCHARD 1.3 WNW, PA US",
+            "datacoverage": 0.9947,
+            "id": "GHCND:US1PANH0003",
+            "elevationUnit": "METERS",
+            "longitude": -75.286728
+        },
+        {
+            "elevation": 103.9,
+            "mindate": "2007-08-01",
+            "maxdate": "2008-02-17",
+            "latitude": 40.584673,
+            "name": "HELLERTOWN 0.3 NNE, PA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1PANH0004",
+            "elevationUnit": "METERS",
+            "longitude": -75.335859
+        },
+        {
+            "elevation": 103.3,
+            "mindate": "2008-07-01",
+            "maxdate": "2016-01-10",
+            "latitude": 40.611372,
+            "name": "GLENDON 3.5 S, PA US",
+            "datacoverage": 0.9996,
+            "id": "GHCND:US1PANH0005",
+            "elevationUnit": "METERS",
+            "longitude": -75.225888
+        },
+        {
+            "elevation": 69.5,
+            "mindate": "2011-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 40.78285,
+            "name": "MARTINS CREEK 0.2 E, PA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1PANH0008",
+            "elevationUnit": "METERS",
+            "longitude": -75.1827
+        },
+        {
+            "elevation": 97.8,
+            "mindate": "2011-03-01",
+            "maxdate": "2013-12-09",
+            "latitude": 40.6569,
+            "name": "BETHLEHEM 2.9 NE, PA US",
+            "datacoverage": 0.998,
+            "id": "GHCND:US1PANH0009",
+            "elevationUnit": "METERS",
+            "longitude": -75.3295
+        },
+        {
+            "elevation": 128.6,
+            "mindate": "2012-08-01",
+            "maxdate": "2016-07-19",
+            "latitude": 40.602874,
+            "name": "HELLERTOWN 2.9 ENE, PA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1PANH0010",
+            "elevationUnit": "METERS",
+            "longitude": -75.289873
+        },
+        {
+            "elevation": 210.9,
+            "mindate": "2013-01-01",
+            "maxdate": "2014-05-03",
+            "latitude": 40.8006,
+            "name": "NAZARETH 4.3 NNW, PA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1PANH0011",
+            "elevationUnit": "METERS",
+            "longitude": -75.3293
+        },
+        {
+            "elevation": 109.1,
+            "mindate": "2015-06-01",
+            "maxdate": "2020-05-17",
+            "latitude": 40.646111,
+            "name": "BETHLEHEM 1.8 NW, PA US",
+            "datacoverage": 0.998,
+            "id": "GHCND:US1PANH0012",
+            "elevationUnit": "METERS",
+            "longitude": -75.39222
+        },
+        {
+            "elevation": 120.7,
+            "mindate": "2016-11-08",
+            "maxdate": "2019-07-23",
+            "latitude": 40.698441,
+            "name": "BETHLEHEM 5.2 NNE, PA US",
+            "datacoverage": 0.9819,
+            "id": "GHCND:US1PANH0013",
+            "elevationUnit": "METERS",
+            "longitude": -75.33812
+        },
+        {
+            "elevation": 150.3,
+            "mindate": "2016-11-15",
+            "maxdate": "2020-05-17",
+            "latitude": 40.739439,
+            "name": "NAZARETH 1.1 W, PA US",
+            "datacoverage": 0.8681,
+            "id": "GHCND:US1PANH0014",
+            "elevationUnit": "METERS",
+            "longitude": -75.334671
+        },
+        {
+            "elevation": 225.6,
+            "mindate": "2016-11-18",
+            "maxdate": "2020-05-17",
+            "latitude": 40.9375,
+            "name": "PORTLAND 2.7 WNW, PA US",
+            "datacoverage": 0.8904,
+            "id": "GHCND:US1PANH0015",
+            "elevationUnit": "METERS",
+            "longitude": -75.1445
+        },
+        {
+            "elevation": 124.1,
+            "mindate": "2017-09-16",
+            "maxdate": "2020-05-17",
+            "latitude": 40.74192,
+            "name": "TATAMY 0.2 WNW, PA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1PANH0018",
+            "elevationUnit": "METERS",
+            "longitude": -75.25893
+        },
+        {
+            "elevation": 148.1,
+            "mindate": "2007-07-01",
+            "maxdate": "2017-03-08",
+            "latitude": 41.087099,
+            "name": "WATSONTOWN 0.2 N, PA US",
+            "datacoverage": 0.9819,
+            "id": "GHCND:US1PANM0001",
+            "elevationUnit": "METERS",
+            "longitude": -76.864687
+        },
+        {
+            "elevation": 335.6,
+            "mindate": "2011-09-01",
+            "maxdate": "2020-05-17",
+            "latitude": 40.79898,
+            "name": "MOUNT CARMEL 1.1 WNW, PA US",
+            "datacoverage": 0.9637,
+            "id": "GHCND:US1PANM0002",
+            "elevationUnit": "METERS",
+            "longitude": -76.43217
+        },
+        {
+            "elevation": 213.1,
+            "mindate": "2018-03-01",
+            "maxdate": "2020-05-17",
+            "latitude": 41.136108,
+            "name": "MUNCY 4.7 SSE, PA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1PANM0003",
+            "elevationUnit": "METERS",
+            "longitude": -76.765089
+        },
+        {
+            "elevation": 104.9,
+            "mindate": "2006-01-01",
+            "maxdate": "2012-01-21",
+            "latitude": 40.073149,
+            "name": "WYNCOTE 1.5 SSW, PA US",
+            "datacoverage": 0.7511,
+            "id": "GHCND:US1PAPH0001",
+            "elevationUnit": "METERS",
+            "longitude": -75.159611
+        },
+        {
+            "elevation": 46.6,
+            "mindate": "2006-08-01",
+            "maxdate": "2020-05-17",
+            "latitude": 40.06771,
+            "name": "ROCKLEDGE 1.3 SE, PA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1PAPH0002",
+            "elevationUnit": "METERS",
+            "longitude": -75.074773
+        },
+        {
+            "elevation": 45.4,
+            "mindate": "2007-03-01",
+            "maxdate": "2020-05-17",
+            "latitude": 40.058599,
+            "name": "PHILADELPHIA 4.7 NE, PA US",
+            "datacoverage": 0.9996,
+            "id": "GHCND:US1PAPH0004",
+            "elevationUnit": "METERS",
+            "longitude": -75.07703
+        },
+        {
+            "elevation": 58.5,
+            "mindate": "2009-09-01",
+            "maxdate": "2020-05-16",
+            "latitude": 40.0455,
+            "name": "WYNDMOOR 3.0 SSW, PA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1PAPH0006",
+            "elevationUnit": "METERS",
+            "longitude": -75.2222
+        },
+        {
+            "elevation": 4.3,
+            "mindate": "2010-05-01",
+            "maxdate": "2010-12-02",
+            "latitude": 39.973797,
+            "name": "PHILADELPHIA 2.4 SSE, PA US",
+            "datacoverage": 0.9939,
+            "id": "GHCND:US1PAPH0007",
+            "elevationUnit": "METERS",
+            "longitude": -75.123682
+        },
+        {
+            "elevation": 73.5,
+            "mindate": "2011-06-01",
+            "maxdate": "2020-05-13",
+            "latitude": 40.025,
+            "name": "PHILADELPHIA 2.7 WNW, PA US",
+            "datacoverage": 0.9996,
+            "id": "GHCND:US1PAPH0008",
+            "elevationUnit": "METERS",
+            "longitude": -75.18
+        },
+        {
+            "elevation": 20.7,
+            "mindate": "1998-06-17",
+            "maxdate": "2020-05-16",
+            "latitude": 40.0315589904785,
+            "name": "PHILADELPHIA 2.1 NE, PA US",
+            "datacoverage": 0.3099,
+            "id": "GHCND:US1PAPH0012",
+            "elevationUnit": "METERS",
+            "longitude": -75.1101989746094
+        },
+        {
+            "elevation": 401.1,
+            "mindate": "2006-02-01",
+            "maxdate": "2007-04-16",
+            "latitude": 41.371744,
+            "name": "HAWLEY 9.4 SE, PA US",
+            "datacoverage": 0.8716,
+            "id": "GHCND:US1PAPK0001",
+            "elevationUnit": "METERS",
+            "longitude": -75.062512
+        },
+        {
+            "elevation": 414.8,
+            "mindate": "2007-09-01",
+            "maxdate": "2015-04-27",
+            "latitude": 41.50749,
+            "name": "HAWLEY 3.8 NE, PA US",
+            "datacoverage": 0.9678,
+            "id": "GHCND:US1PAPK0004",
+            "elevationUnit": "METERS",
+            "longitude": -75.1163
+        },
+        {
+            "elevation": 429.8,
+            "mindate": "2005-12-01",
+            "maxdate": "2008-04-06",
+            "latitude": 41.33,
+            "name": "MILFORD 7.7 W, PA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1PAPK0007",
+            "elevationUnit": "METERS",
+            "longitude": -74.95
+        },
+        {
+            "elevation": 423.1,
+            "mindate": "2007-09-01",
+            "maxdate": "2017-10-19",
+            "latitude": 41.3,
+            "name": "MILFORD 7.9 WSW, PA US",
+            "datacoverage": 0.6326,
+            "id": "GHCND:US1PAPK0008",
+            "elevationUnit": "METERS",
+            "longitude": -74.95
+        },
+        {
+            "elevation": 335.9,
+            "mindate": "2007-11-01",
+            "maxdate": "2014-05-01",
+            "latitude": 41.2084,
+            "name": "DINGMANS FERRY 3.9 WSW, PA US",
+            "datacoverage": 0.8736,
+            "id": "GHCND:US1PAPK0009",
+            "elevationUnit": "METERS",
+            "longitude": -74.9437
+        },
+        {
+            "elevation": 454.2,
+            "mindate": "2009-05-01",
+            "maxdate": "2011-08-18",
+            "latitude": 41.313376,
+            "name": "LORDS VALLEY 3.8 SSE, PA US",
+            "datacoverage": 0.9819,
+            "id": "GHCND:US1PAPK0011",
+            "elevationUnit": "METERS",
+            "longitude": -75.047025
+        },
+        {
+            "elevation": 199.3,
+            "mindate": "2010-10-01",
+            "maxdate": "2011-11-29",
+            "latitude": 41.4795,
+            "name": "ROWLAND 2.3 ENE, PA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1PAPK0012",
+            "elevationUnit": "METERS",
+            "longitude": -74.999639
+        },
+        {
+            "elevation": 423.4,
+            "mindate": "2012-09-19",
+            "maxdate": "2018-12-22",
+            "latitude": 41.4153329282999,
+            "name": "TAFTON 1.0 NE, PA US",
+            "datacoverage": 0.0459,
+            "id": "GHCND:US1PAPK0014",
+            "elevationUnit": "METERS",
+            "longitude": -75.1702165603638
+        },
+        {
+            "elevation": 132,
+            "mindate": "2016-10-27",
+            "maxdate": "2020-03-12",
+            "latitude": 41.365586,
+            "name": "MATAMORAS 0.2 ESE, PA US",
+            "datacoverage": 0.2839,
+            "id": "GHCND:US1PAPK0020",
+            "elevationUnit": "METERS",
+            "longitude": -74.696843
+        },
+        {
+            "elevation": 411.8,
+            "mindate": "2017-04-17",
+            "maxdate": "2018-11-16",
+            "latitude": 41.3260479604649,
+            "name": "MILFORD 6.2 W, PA US",
+            "datacoverage": 0.9956,
+            "id": "GHCND:US1PAPK0021",
+            "elevationUnit": "METERS",
+            "longitude": -74.9221547
+        },
+        {
+            "elevation": 387.4,
+            "mindate": "2017-12-15",
+            "maxdate": "2020-05-17",
+            "latitude": 41.420186,
+            "name": "MILFORD 8.7 NW, PA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1PAPK0022",
+            "elevationUnit": "METERS",
+            "longitude": -74.90953
+        },
+        {
+            "elevation": 237.7,
+            "mindate": "2006-03-01",
+            "maxdate": "2010-06-20",
+            "latitude": 40.316534,
+            "name": "MARYSVILLE 5.1 WSW, PA US",
+            "datacoverage": 0.9614,
+            "id": "GHCND:US1PAPR0002",
+            "elevationUnit": "METERS",
+            "longitude": -77.02744
+        },
+        {
+            "elevation": 214,
+            "mindate": "2006-09-01",
+            "maxdate": "2012-10-29",
+            "latitude": 40.470082,
+            "name": "BLOOMFIELD 6.0 NW, PA US",
+            "datacoverage": 0.5992,
+            "id": "GHCND:US1PAPR0003",
+            "elevationUnit": "METERS",
+            "longitude": -77.281664
+        },
+        {
+            "elevation": 495.3,
+            "mindate": "2009-09-01",
+            "maxdate": "2020-05-17",
+            "latitude": 41.807588,
+            "name": "ROULETTE 1.8 NNE, PA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1PAPT0002",
+            "elevationUnit": "METERS",
+            "longitude": -78.141449
+        },
+        {
+            "elevation": 523,
+            "mindate": "2011-06-01",
+            "maxdate": "2014-12-17",
+            "latitude": 41.78119,
+            "name": "ULYSSES 8.9 SSW, PA US",
+            "datacoverage": 0.79,
+            "id": "GHCND:US1PAPT0003",
+            "elevationUnit": "METERS",
+            "longitude": -77.80597
+        },
+        {
+            "elevation": 619,
+            "mindate": "2011-09-01",
+            "maxdate": "2019-10-13",
+            "latitude": 41.8042702,
+            "name": "COUDERSPORT 2.8 NW, PA US",
+            "datacoverage": 0.9273,
+            "id": "GHCND:US1PAPT0004",
+            "elevationUnit": "METERS",
+            "longitude": -78.0494936
+        },
+        {
+            "elevation": 699.2,
+            "mindate": "2011-12-01",
+            "maxdate": "2018-10-24",
+            "latitude": 41.71225,
+            "name": "COUDERSPORT 5.4 SE, PA US",
+            "datacoverage": 0.9991,
+            "id": "GHCND:US1PAPT0005",
+            "elevationUnit": "METERS",
+            "longitude": -77.95096
+        },
+        {
+            "elevation": 278.9,
+            "mindate": "2005-11-01",
+            "maxdate": "2018-10-31",
+            "latitude": 40.670244,
+            "name": "POTTSVILLE 1.3 WSW, PA US",
+            "datacoverage": 0.9842,
+            "id": "GHCND:US1PASC0001",
+            "elevationUnit": "METERS",
+            "longitude": -76.230758
+        },
+        {
+            "elevation": 220.1,
+            "mindate": "2006-09-01",
+            "maxdate": "2017-12-12",
+            "latitude": 40.65643,
+            "name": "ORWIGSBURG 1.9 W, PA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1PASC0003",
+            "elevationUnit": "METERS",
+            "longitude": -76.13943
+        },
+        {
+            "elevation": 267,
+            "mindate": "2007-02-01",
+            "maxdate": "2017-07-14",
+            "latitude": 40.592221,
+            "name": "TOWER CITY 1.1 E, PA US",
+            "datacoverage": 0.4137,
+            "id": "GHCND:US1PASC0005",
+            "elevationUnit": "METERS",
+            "longitude": -76.532401
+        },
+        {
+            "elevation": 239.9,
+            "mindate": "2016-12-23",
+            "maxdate": "2020-05-17",
+            "latitude": 40.6436958312988,
+            "name": "VALLEY VIEW 0.5 W, PA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1PASC0008",
+            "elevationUnit": "METERS",
+            "longitude": -76.5484771728516
+        },
+        {
+            "elevation": 838.2,
+            "mindate": "2014-10-01",
+            "maxdate": "2020-05-17",
+            "latitude": 40.058442,
+            "name": "HIDDEN VALLEY 0.3 ENE, PA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1PASM0001",
+            "elevationUnit": "METERS",
+            "longitude": -79.261568
+        },
+        {
+            "elevation": 766.6,
+            "mindate": "2015-02-01",
+            "maxdate": "2020-05-16",
+            "latitude": 39.954573,
+            "name": "BERLIN 3.1 NW, PA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1PASM0002",
+            "elevationUnit": "METERS",
+            "longitude": -78.992819
+        },
+        {
+            "elevation": 711.1,
+            "mindate": "2016-06-30",
+            "maxdate": "2018-04-28",
+            "latitude": 39.919087,
+            "name": "BERLIN 0.2 SSW, PA US",
+            "datacoverage": 0.9173,
+            "id": "GHCND:US1PASM0003",
+            "elevationUnit": "METERS",
+            "longitude": -78.953843
+        },
+        {
+            "elevation": 736.4,
+            "mindate": "2018-03-01",
+            "maxdate": "2019-09-05",
+            "latitude": 39.80796,
+            "name": "MEYERSDALE 3.4 E, PA US",
+            "datacoverage": 0.9332,
+            "id": "GHCND:US1PASM0005",
+            "elevationUnit": "METERS",
+            "longitude": -78.964
+        },
+        {
+            "elevation": 641,
+            "mindate": "2018-06-20",
+            "maxdate": "2020-05-17",
+            "latitude": 39.9215,
+            "name": "ROCKWOOD 4.3 W, PA US",
+            "datacoverage": 0.8098,
+            "id": "GHCND:US1PASM0006",
+            "elevationUnit": "METERS",
+            "longitude": -79.2377
+        },
+        {
+            "elevation": 463.6,
+            "mindate": "2019-05-30",
+            "maxdate": "2020-05-17",
+            "latitude": 39.9853,
+            "name": "BERLIN 9.6 ENE, PA US",
+            "datacoverage": 0.5621,
+            "id": "GHCND:US1PASM0007",
+            "elevationUnit": "METERS",
+            "longitude": -78.79065
+        },
+        {
+            "elevation": 178.6,
+            "mindate": "2012-07-01",
+            "maxdate": "2020-05-17",
+            "latitude": 40.817309,
+            "name": "SELINSGROVE 2.6 WNW, PA US",
+            "datacoverage": 0.9998,
+            "id": "GHCND:US1PASN0002",
+            "elevationUnit": "METERS",
+            "longitude": -76.9097029
+        },
+        {
+            "elevation": 367.9,
+            "mindate": "2006-05-01",
+            "maxdate": "2008-10-28",
+            "latitude": 41.6536,
+            "name": "MESHOPPEN 4.4 ENE, PA US",
+            "datacoverage": 0.8982,
+            "id": "GHCND:US1PASS0002",
+            "elevationUnit": "METERS",
+            "longitude": -76.03178
+        },
+        {
+            "elevation": 518.2,
+            "mindate": "1998-06-01",
+            "maxdate": "2020-05-15",
+            "latitude": 41.65,
+            "name": "FOREST CITY 0.2 SE, PA US",
+            "datacoverage": 0.9139,
+            "id": "GHCND:US1PASS0006",
+            "elevationUnit": "METERS",
+            "longitude": -75.466667
+        },
+        {
+            "elevation": 479.1,
+            "mindate": "2007-10-01",
+            "maxdate": "2013-03-25",
+            "latitude": 41.883333,
+            "name": "THOMPSON 3.9 WNW, PA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1PASS0007",
+            "elevationUnit": "METERS",
+            "longitude": -75.583333
+        },
+        {
+            "elevation": 481.6,
+            "mindate": "2007-08-01",
+            "maxdate": "2014-01-17",
+            "latitude": 41.75838,
+            "name": "MONTROSE 5.6 SSW, PA US",
+            "datacoverage": 0.9992,
+            "id": "GHCND:US1PASS0008",
+            "elevationUnit": "METERS",
+            "longitude": -75.91791
+        },
+        {
+            "elevation": 502.9,
+            "mindate": "2008-02-01",
+            "maxdate": "2016-01-17",
+            "latitude": 41.99497,
+            "name": "FRIENDSVILLE 6.8 NE, PA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1PASS0010",
+            "elevationUnit": "METERS",
+            "longitude": -75.96497
+        },
+        {
+            "elevation": 429.2,
+            "mindate": "2007-12-01",
+            "maxdate": "2010-09-30",
+            "latitude": 41.7685,
+            "name": "MONTROSE 4.5 S, PA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1PASS0011",
+            "elevationUnit": "METERS",
+            "longitude": -75.88
+        },
+        {
+            "elevation": 308.5,
+            "mindate": "2008-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 41.951761,
+            "name": "STANFORDVILLE 0.4 SE, PA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1PASS0012",
+            "elevationUnit": "METERS",
+            "longitude": -75.827199
+        },
+        {
+            "elevation": 530,
+            "mindate": "2009-01-01",
+            "maxdate": "2009-11-06",
+            "latitude": 41.859732,
+            "name": "NEW MILFORD 4.5 WSW, PA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1PASS0013",
+            "elevationUnit": "METERS",
+            "longitude": -75.812501
+        },
+        {
+            "elevation": 428.9,
+            "mindate": "2011-03-01",
+            "maxdate": "2020-05-17",
+            "latitude": 41.8554,
+            "name": "NEW MILFORD 1.6 SSE, PA US",
+            "datacoverage": 0.9665,
+            "id": "GHCND:US1PASS0016",
+            "elevationUnit": "METERS",
+            "longitude": -75.7111
+        },
+        {
+            "elevation": 481.3,
+            "mindate": "2011-07-01",
+            "maxdate": "2020-05-17",
+            "latitude": 41.850143,
+            "name": "MONTROSE 1.3 NNE, PA US",
+            "datacoverage": 0.8942,
+            "id": "GHCND:US1PASS0017",
+            "elevationUnit": "METERS",
+            "longitude": -75.865472
+        },
+        {
+            "elevation": 386.8,
+            "mindate": "2012-10-01",
+            "maxdate": "2019-11-08",
+            "latitude": 41.668724,
+            "name": "LENOX 3.0 SSE, PA US",
+            "datacoverage": 0.4103,
+            "id": "GHCND:US1PASS0018",
+            "elevationUnit": "METERS",
+            "longitude": -75.661992
+        },
+        {
+            "elevation": 430.4,
+            "mindate": "2012-10-01",
+            "maxdate": "2020-05-17",
+            "latitude": 41.802625,
+            "name": "HARFORD 1.4 NNE, PA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1PASS0019",
+            "elevationUnit": "METERS",
+            "longitude": -75.697158
+        },
+        {
+            "elevation": 485.9,
+            "mindate": "2014-09-01",
+            "maxdate": "2017-07-24",
+            "latitude": 41.78422,
+            "name": "MONTROSE 6.8 WSW, PA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1PASS0021",
+            "elevationUnit": "METERS",
+            "longitude": -75.99186
+        },
+        {
+            "elevation": 524.3,
+            "mindate": "2015-04-01",
+            "maxdate": "2020-05-16",
+            "latitude": 41.836573,
+            "name": "MONTROSE 0.4 ENE, PA US",
+            "datacoverage": 0.998,
+            "id": "GHCND:US1PASS0022",
+            "elevationUnit": "METERS",
+            "longitude": -75.870891
+        },
+        {
+            "elevation": 346.9,
+            "mindate": "2007-08-01",
+            "maxdate": "2013-09-01",
+            "latitude": 41.74679,
+            "name": "WELLSBORO 6.5 W, PA US",
+            "datacoverage": 0.9973,
+            "id": "GHCND:US1PATG0001",
+            "elevationUnit": "METERS",
+            "longitude": -77.42982
+        },
+        {
+            "elevation": 523,
+            "mindate": "2008-01-01",
+            "maxdate": "2011-03-12",
+            "latitude": 41.864274,
+            "name": "WESTFIELD 3.7 S, PA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1PATG0002",
+            "elevationUnit": "METERS",
+            "longitude": -77.537938
+        },
+        {
+            "elevation": 223.1,
+            "mindate": "2015-08-01",
+            "maxdate": "2016-10-19",
+            "latitude": 40.892109,
+            "name": "SHAMOKIN DAM 3.6 NW, PA US",
+            "datacoverage": 0.9925,
+            "id": "GHCND:US1PAUN0003",
+            "elevationUnit": "METERS",
+            "longitude": -76.867647
+        },
+        {
+            "elevation": 459.3,
+            "mindate": "2009-04-01",
+            "maxdate": "2020-05-17",
+            "latitude": 41.384553,
+            "name": "SENECA 0.7 NNE, PA US",
+            "datacoverage": 0.9999,
+            "id": "GHCND:US1PAVN0005",
+            "elevationUnit": "METERS",
+            "longitude": -79.697897
+        },
+        {
+            "elevation": 408.7,
+            "mindate": "2010-01-01",
+            "maxdate": "2020-05-14",
+            "latitude": 41.50067,
+            "name": "COOPERSTOWN 1.3 E, PA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1PAVN0007",
+            "elevationUnit": "METERS",
+            "longitude": -79.84969
+        },
+        {
+            "elevation": 438.9,
+            "mindate": "2014-07-01",
+            "maxdate": "2014-11-27",
+            "latitude": 41.2778576463461,
+            "name": "KENNERDELL 5.3 E, PA US",
+            "datacoverage": 0.9947,
+            "id": "GHCND:US1PAVN0008",
+            "elevationUnit": "METERS",
+            "longitude": -79.748630002141
+        },
+        {
+            "elevation": 395.9,
+            "mindate": "2014-07-01",
+            "maxdate": "2020-05-17",
+            "latitude": 41.567009,
+            "name": "TITUSVILLE 6.3 SW, PA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1PAVN0011",
+            "elevationUnit": "METERS",
+            "longitude": -79.763943
+        },
+        {
+            "elevation": 458.1,
+            "mindate": "2015-09-02",
+            "maxdate": "2017-12-21",
+            "latitude": 41.3813591003418,
+            "name": "FRANKLIN 0.8 SSW, PA US",
+            "datacoverage": 0.8142,
+            "id": "GHCND:US1PAVN0013",
+            "elevationUnit": "METERS",
+            "longitude": -79.8437576293945
+        },
+        {
+            "elevation": 416.7,
+            "mindate": "2015-06-01",
+            "maxdate": "2020-05-17",
+            "latitude": 41.333946,
+            "name": "KENNERDELL 8.3 ENE, PA US",
+            "datacoverage": 0.8982,
+            "id": "GHCND:US1PAVN0014",
+            "elevationUnit": "METERS",
+            "longitude": -79.713867
+        },
+        {
+            "elevation": 333.8,
+            "mindate": "2017-07-18",
+            "maxdate": "2019-07-18",
+            "latitude": 41.408103,
+            "name": "FRANKLIN 1.5 NE, PA US",
+            "datacoverage": 0.9819,
+            "id": "GHCND:US1PAVN0017",
+            "elevationUnit": "METERS",
+            "longitude": -79.819549
+        },
+        {
+            "elevation": 538.6,
+            "mindate": "2007-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 41.290845,
+            "name": "MOSCOW 9.7 ESE, PA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1PAWN0002",
+            "elevationUnit": "METERS",
+            "longitude": -75.355
+        },
+        {
+            "elevation": 355.4,
+            "mindate": "1998-06-17",
+            "maxdate": "2019-12-31",
+            "latitude": 41.65,
+            "name": "DAMASCUS 9, PA US",
+            "datacoverage": 0.9986,
+            "id": "GHCND:US1PAWN0003",
+            "elevationUnit": "METERS",
+            "longitude": -75.083333
+        },
+        {
+            "elevation": 271.3,
+            "mindate": "2007-09-01",
+            "maxdate": "2020-05-16",
+            "latitude": 41.283333,
+            "name": "STERLING 22, PA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1PAWN0004",
+            "elevationUnit": "METERS",
+            "longitude": -75.45
+        },
+        {
+            "elevation": 381,
+            "mindate": "2008-01-01",
+            "maxdate": "2008-09-30",
+            "latitude": 41.5,
+            "name": "S. CANAAN 26, PA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1PAWN0005",
+            "elevationUnit": "METERS",
+            "longitude": -75.3
+        },
+        {
+            "elevation": 435.9,
+            "mindate": "2007-11-01",
+            "maxdate": "2009-02-23",
+            "latitude": 41.383333,
+            "name": "LEDGEDALE 0.7 SE, PA US",
+            "datacoverage": 0.9819,
+            "id": "GHCND:US1PAWN0006",
+            "elevationUnit": "METERS",
+            "longitude": -75.333333
+        },
+        {
+            "elevation": 217,
+            "mindate": "2004-01-01",
+            "maxdate": "2013-09-25",
+            "latitude": 41.633333,
+            "name": "MILANVILLE 1.5 SE, PA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1PAWN0008",
+            "elevationUnit": "METERS",
+            "longitude": -75.05
+        },
+        {
+            "elevation": 405.1,
+            "mindate": "2007-12-01",
+            "maxdate": "2020-05-17",
+            "latitude": 41.899224,
+            "name": "STARRUCCA 27, PA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1PAWN0010",
+            "elevationUnit": "METERS",
+            "longitude": -75.471787
+        },
+        {
+            "elevation": 374.9,
+            "mindate": "2007-12-01",
+            "maxdate": "2020-05-17",
+            "latitude": 41.604779,
+            "name": "DYBERRY 19, PA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1PAWN0012",
+            "elevationUnit": "METERS",
+            "longitude": -75.283316
+        },
+        {
+            "elevation": 323.4,
+            "mindate": "2001-11-01",
+            "maxdate": "2020-05-17",
+            "latitude": 41.502728,
+            "name": "HAWLEY 15, PA US",
+            "datacoverage": 0.9529,
+            "id": "GHCND:US1PAWN0013",
+            "elevationUnit": "METERS",
+            "longitude": -75.159051
+        },
+        {
+            "elevation": 404.2,
+            "mindate": "2008-01-01",
+            "maxdate": "2014-10-11",
+            "latitude": 41.54,
+            "name": "TEXAS TWP. 1, PA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1PAWN0014",
+            "elevationUnit": "METERS",
+            "longitude": -75.25
+        },
+        {
+            "elevation": 384.7,
+            "mindate": "2008-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 41.5901832580566,
+            "name": "CANAAN 11, PA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1PAWN0026",
+            "elevationUnit": "METERS",
+            "longitude": -75.3590393066406
+        },
+        {
+            "elevation": 364.5,
+            "mindate": "2008-01-01",
+            "maxdate": "2020-05-16",
+            "latitude": 41.582352,
+            "name": "PROMPTON 25, PA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1PAWN0035",
+            "elevationUnit": "METERS",
+            "longitude": -75.335686
+        },
+        {
+            "elevation": 422.1,
+            "mindate": "2008-01-01",
+            "maxdate": "2012-01-27",
+            "latitude": 41.586772,
+            "name": "WAYMART 28, PA US",
+            "datacoverage": 0.9996,
+            "id": "GHCND:US1PAWN0036",
+            "elevationUnit": "METERS",
+            "longitude": -75.407945
+        },
+        {
+            "elevation": 420,
+            "mindate": "2008-01-01",
+            "maxdate": "2020-05-15",
+            "latitude": 41.625022,
+            "name": "OREGON 23, PA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1PAWN0037",
+            "elevationUnit": "METERS",
+            "longitude": -75.221987
+        },
+        {
+            "elevation": 419.4,
+            "mindate": "2008-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 41.523743,
+            "name": "CHERRY RIDGE 13A, PA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1PAWN0038",
+            "elevationUnit": "METERS",
+            "longitude": -75.269618
+        },
+        {
+            "elevation": 446.8,
+            "mindate": "2009-07-01",
+            "maxdate": "2014-06-19",
+            "latitude": 41.451061,
+            "name": "LAKE ARIEL 2.0 ESE, PA US",
+            "datacoverage": 0.7001,
+            "id": "GHCND:US1PAWN0041",
+            "elevationUnit": "METERS",
+            "longitude": -75.344978
+        },
+        {
+            "elevation": 581.6,
+            "mindate": "2009-09-01",
+            "maxdate": "2020-02-03",
+            "latitude": 41.739509,
+            "name": "PLEASANT MOUNT 1.0 E, PA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1PAWN0042",
+            "elevationUnit": "METERS",
+            "longitude": -75.442979
+        },
+        {
+            "elevation": 459.6,
+            "mindate": "2009-11-01",
+            "maxdate": "2014-07-21",
+            "latitude": 41.79735,
+            "name": "MANCHESTER 7A, PA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1PAWN0044",
+            "elevationUnit": "METERS",
+            "longitude": -75.2206959
+        },
+        {
+            "elevation": 412.1,
+            "mindate": "2010-02-01",
+            "maxdate": "2011-01-29",
+            "latitude": 41.5075716,
+            "name": "HAWLEY 2.2 NNW, PA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1PAWN0047",
+            "elevationUnit": "METERS",
+            "longitude": -75.1868783
+        },
+        {
+            "elevation": 378.9,
+            "mindate": "2010-09-01",
+            "maxdate": "2011-12-01",
+            "latitude": 41.567753,
+            "name": "BERLIN TWP. 20A, PA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1PAWN0048",
+            "elevationUnit": "METERS",
+            "longitude": -75.1908403
+        },
+        {
+            "elevation": 282.9,
+            "mindate": "2013-04-01",
+            "maxdate": "2015-03-27",
+            "latitude": 41.9534683227539,
+            "name": "STARLIGHT 3.8 NNE, PA US",
+            "datacoverage": 0.8339,
+            "id": "GHCND:US1PAWN0052",
+            "elevationUnit": "METERS",
+            "longitude": -75.2976913452148
+        },
+        {
+            "elevation": 222.8,
+            "mindate": "2013-09-01",
+            "maxdate": "2020-02-02",
+            "latitude": 41.7038447409868,
+            "name": "DAMASCUS 0.1 NE, PA US",
+            "datacoverage": 0.7785,
+            "id": "GHCND:US1PAWN0053",
+            "elevationUnit": "METERS",
+            "longitude": -75.0684273988009
+        },
+        {
+            "elevation": 387.7,
+            "mindate": "2015-04-01",
+            "maxdate": "2017-04-21",
+            "latitude": 41.689426,
+            "name": "TYLER HILL 1.1 WSW, PA US",
+            "datacoverage": 0.998,
+            "id": "GHCND:US1PAWN0055",
+            "elevationUnit": "METERS",
+            "longitude": -75.127593
+        },
+        {
+            "elevation": 350.5,
+            "mindate": "2006-07-01",
+            "maxdate": "2012-04-24",
+            "latitude": 40.224977,
+            "name": "WOLFDALE 3.3 WNW, PA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1PAWS0002",
+            "elevationUnit": "METERS",
+            "longitude": -80.352651
+        },
+        {
+            "elevation": 317.6,
+            "mindate": "2011-02-01",
+            "maxdate": "2020-05-17",
+            "latitude": 40.2831085,
+            "name": "MCMURRAY 0.2 NE, PA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1PAWS0005",
+            "elevationUnit": "METERS",
+            "longitude": -80.0857179
+        },
+        {
+            "elevation": 320.3,
+            "mindate": "2013-01-01",
+            "maxdate": "2014-06-30",
+            "latitude": 40.056165,
+            "name": "PROSPERITY 1.2 NW, PA US",
+            "datacoverage": 0.9041,
+            "id": "GHCND:US1PAWS0007",
+            "elevationUnit": "METERS",
+            "longitude": -80.313749
+        },
+        {
+            "elevation": 367.6,
+            "mindate": "2014-01-01",
+            "maxdate": "2020-02-07",
+            "latitude": 40.25222222,
+            "name": "VENETIA 0.7 WNW, PA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1PAWS0008",
+            "elevationUnit": "METERS",
+            "longitude": -80.05388889
+        },
+        {
+            "elevation": 299.3,
+            "mindate": "2014-05-01",
+            "maxdate": "2016-06-29",
+            "latitude": 40.2596931159496,
+            "name": "CANONSBURG 0.3 SSW, PA US",
+            "datacoverage": 0.825,
+            "id": "GHCND:US1PAWS0009",
+            "elevationUnit": "METERS",
+            "longitude": -80.1899861544371
+        },
+        {
+            "elevation": 336.5,
+            "mindate": "2015-03-01",
+            "maxdate": "2018-01-19",
+            "latitude": 40.026561,
+            "name": "FREDERICKTOWN MILLSBORO 2.0 N, PA US",
+            "datacoverage": 0.6149,
+            "id": "GHCND:US1PAWS0010",
+            "elevationUnit": "METERS",
+            "longitude": -79.9981
+        },
+        {
+            "elevation": 288.6,
+            "mindate": "2015-06-01",
+            "maxdate": "2015-12-18",
+            "latitude": 40.276053249836,
+            "name": "AVELLA 0.5 SE, PA US",
+            "datacoverage": 0.9956,
+            "id": "GHCND:US1PAWS0015",
+            "elevationUnit": "METERS",
+            "longitude": -80.4623054713011
+        },
+        {
+            "elevation": 357.5,
+            "mindate": "2017-04-16",
+            "maxdate": "2020-05-17",
+            "latitude": 40.2603,
+            "name": "FINLEYVILLE 0.5 NNW, PA US",
+            "datacoverage": 0.8085,
+            "id": "GHCND:US1PAWS0021",
+            "elevationUnit": "METERS",
+            "longitude": -80.0059
+        },
+        {
+            "elevation": 389.8,
+            "mindate": "2017-09-12",
+            "maxdate": "2020-05-17",
+            "latitude": 40.300544,
+            "name": "CANONSBURG 3.7 NW, PA US",
+            "datacoverage": 0.8018,
+            "id": "GHCND:US1PAWS0022",
+            "elevationUnit": "METERS",
+            "longitude": -80.238483
+        },
+        {
+            "elevation": 260.6,
+            "mindate": "2018-09-01",
+            "maxdate": "2020-05-14",
+            "latitude": 40.11073,
+            "name": "DUNLEVY 0.1 SSE, PA US",
+            "datacoverage": 0.851,
+            "id": "GHCND:US1PAWS0025",
+            "elevationUnit": "METERS",
+            "longitude": -79.85778
+        },
+        {
+            "elevation": 310.9,
+            "mindate": "2006-01-01",
+            "maxdate": "2016-09-23",
+            "latitude": 40.324303,
+            "name": "NORTH IRWIN 2.5 WSW, PA US",
+            "datacoverage": 0.3822,
+            "id": "GHCND:US1PAWT0001",
+            "elevationUnit": "METERS",
+            "longitude": -79.75561
+        },
+        {
+            "elevation": 296.9,
+            "mindate": "2006-01-01",
+            "maxdate": "2017-10-24",
+            "latitude": 40.318938,
+            "name": "LATROBE 0.6 NW, PA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1PAWT0002",
+            "elevationUnit": "METERS",
+            "longitude": -79.389371
         }
     ]
 }

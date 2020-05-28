@@ -2,44 +2,11 @@
     "metadata": {
         "resultset": {
             "offset": 1,
-            "count": 2315,
+            "count": 1747,
             "limit": 1000
         }
     },
     "results": [
-        {
-            "elevation": 146,
-            "mindate": "1941-04-01",
-            "maxdate": "1960-06-01",
-            "latitude": 41.2,
-            "name": "MEAD POND RESERVOIR, NY US",
-            "datacoverage": 0.9048,
-            "id": "COOP:064599",
-            "elevationUnit": "METERS",
-            "longitude": -73.51667
-        },
-        {
-            "elevation": 4,
-            "mindate": "1932-01-01",
-            "maxdate": "1937-05-01",
-            "latitude": 41.25,
-            "name": "OLD GREENWICH, NY US",
-            "datacoverage": 0.9848,
-            "id": "COOP:065984",
-            "elevationUnit": "METERS",
-            "longitude": -73.55
-        },
-        {
-            "elevation": 121.9,
-            "mindate": "1947-10-01",
-            "maxdate": "1950-11-01",
-            "latitude": 43.9,
-            "name": "ADAMS CENTER, NY US",
-            "datacoverage": 0.8681,
-            "id": "COOP:300015",
-            "elevationUnit": "METERS",
-            "longitude": -76.06667
-        },
         {
             "elevation": 195.1,
             "mindate": "1965-10-01",
@@ -173,50 +140,6 @@
             "longitude": -78.7497
         },
         {
-            "elevation": 116.1,
-            "mindate": "1948-05-01",
-            "maxdate": "1961-03-01",
-            "latitude": 41.28333,
-            "name": "AMAWALK, NY US",
-            "datacoverage": 0.9613,
-            "id": "COOP:300136",
-            "elevationUnit": "METERS",
-            "longitude": -73.75
-        },
-        {
-            "elevation": 85,
-            "mindate": "1948-05-01",
-            "maxdate": "1959-03-01",
-            "latitude": 42.91667,
-            "name": "AMSTERDAM LOCK 1O, NY US",
-            "datacoverage": 0.9848,
-            "id": "COOP:300159",
-            "elevationUnit": "METERS",
-            "longitude": -74.13333
-        },
-        {
-            "elevation": 488,
-            "mindate": "1948-05-01",
-            "maxdate": "1959-06-01",
-            "latitude": 42.2,
-            "name": "ANDES, NY US",
-            "datacoverage": 0.7538,
-            "id": "COOP:300167",
-            "elevationUnit": "METERS",
-            "longitude": -74.78333
-        },
-        {
-            "elevation": 509,
-            "mindate": "1931-01-01",
-            "maxdate": "1948-07-01",
-            "latitude": 42.15,
-            "name": "ANDOVER, NY US",
-            "datacoverage": 0.9621,
-            "id": "COOP:300175",
-            "elevationUnit": "METERS",
-            "longitude": -77.8
-        },
-        {
             "elevation": 449.6,
             "mindate": "1920-01-01",
             "maxdate": "2015-11-01",
@@ -261,17 +184,6 @@
             "longitude": -74.51667
         },
         {
-            "elevation": 494.1,
-            "mindate": "1948-05-01",
-            "maxdate": "1950-03-01",
-            "latitude": 42.4,
-            "name": "ARKPORT, NY US",
-            "datacoverage": 0.998,
-            "id": "COOP:300246",
-            "elevationUnit": "METERS",
-            "longitude": -77.71667
-        },
-        {
             "elevation": 399.3,
             "mindate": "1948-05-01",
             "maxdate": "2014-12-01",
@@ -281,17 +193,6 @@
             "id": "COOP:300254",
             "elevationUnit": "METERS",
             "longitude": -74.6536
-        },
-        {
-            "elevation": 586.1,
-            "mindate": "1948-05-01",
-            "maxdate": "1952-03-01",
-            "latitude": 42.26667,
-            "name": "ARNOT SOIL CONSERVATION SERVICE, NY US",
-            "datacoverage": 0.8049,
-            "id": "COOP:300268",
-            "elevationUnit": "METERS",
-            "longitude": -76.65
         },
         {
             "elevation": 365.8,
@@ -347,17 +248,6 @@
             "id": "COOP:300343",
             "elevationUnit": "METERS",
             "longitude": -77.7557
-        },
-        {
-            "elevation": 14.9,
-            "mindate": "1938-12-01",
-            "maxdate": "1959-08-01",
-            "latitude": 40.71667,
-            "name": "BABYLON, NY US",
-            "datacoverage": 0.8996,
-            "id": "COOP:300351",
-            "elevationUnit": "METERS",
-            "longitude": -73.36667
         },
         {
             "elevation": 303,
@@ -459,17 +349,6 @@
             "longitude": -73.43194
         },
         {
-            "elevation": 396.8,
-            "mindate": "1948-03-01",
-            "maxdate": "1953-06-01",
-            "latitude": 41.31667,
-            "name": "BEAR MOUNTAIN WEATHER BUREAU, NY US",
-            "datacoverage": 0.968,
-            "id": "COOP:300489",
-            "elevationUnit": "METERS",
-            "longitude": -74
-        },
-        {
             "elevation": 225.6,
             "mindate": "1934-04-01",
             "maxdate": "1996-11-01",
@@ -503,17 +382,6 @@
             "longitude": -73.71667
         },
         {
-            "elevation": 473,
-            "mindate": "1948-05-01",
-            "maxdate": "1951-01-01",
-            "latitude": 42.11667,
-            "name": "BEERSTON, NY US",
-            "datacoverage": 0.9984,
-            "id": "COOP:300540",
-            "elevationUnit": "METERS",
-            "longitude": -75.11667
-        },
-        {
             "elevation": 201.2,
             "mindate": "1941-06-01",
             "maxdate": "2015-11-01",
@@ -536,28 +404,6 @@
             "longitude": -78.39583
         },
         {
-            "elevation": 6.1,
-            "mindate": "1950-02-01",
-            "maxdate": "1951-03-01",
-            "latitude": 40.6,
-            "name": "NEW YORK BENSONHURST, NY US",
-            "datacoverage": 1,
-            "id": "COOP:300621",
-            "elevationUnit": "METERS",
-            "longitude": -73.96667
-        },
-        {
-            "elevation": 323.1,
-            "mindate": "1954-05-01",
-            "maxdate": "1954-07-01",
-            "latitude": 42.3,
-            "name": "BERKSHIRE, NY US",
-            "datacoverage": 0.0369,
-            "id": "COOP:300633",
-            "elevationUnit": "METERS",
-            "longitude": -76.18333
-        },
-        {
             "elevation": 347.5,
             "mindate": "1955-11-01",
             "maxdate": "2000-09-01",
@@ -569,39 +415,6 @@
             "longitude": -73.36667
         },
         {
-            "elevation": 267.9,
-            "mindate": "1956-01-01",
-            "maxdate": "1958-06-01",
-            "latitude": 42.68333,
-            "name": "BERLIN 1 S, NY US",
-            "datacoverage": 0.0579,
-            "id": "COOP:300646",
-            "elevationUnit": "METERS",
-            "longitude": -73.36667
-        },
-        {
-            "elevation": 335.9,
-            "mindate": "1956-04-01",
-            "maxdate": "1956-06-01",
-            "latitude": 42.66667,
-            "name": "BERLIN 2 SE, NY US",
-            "datacoverage": 1,
-            "id": "COOP:300649",
-            "elevationUnit": "METERS",
-            "longitude": -73.33333
-        },
-        {
-            "elevation": 338.9,
-            "mindate": "1956-01-01",
-            "maxdate": "1959-09-01",
-            "latitude": 42.71667,
-            "name": "BERLIN 3 ENE, NY US",
-            "datacoverage": 0.8671,
-            "id": "COOP:300652",
-            "elevationUnit": "METERS",
-            "longitude": -73.31667
-        },
-        {
             "elevation": 323.1,
             "mindate": "1966-06-01",
             "maxdate": "1983-07-01",
@@ -611,17 +424,6 @@
             "id": "COOP:300654",
             "elevationUnit": "METERS",
             "longitude": -74.15
-        },
-        {
-            "elevation": 378,
-            "mindate": "1963-08-01",
-            "maxdate": "1966-05-01",
-            "latitude": 42.65,
-            "name": "BERNE 2 NW, NY US",
-            "datacoverage": 0.9411,
-            "id": "COOP:300655",
-            "elevationUnit": "METERS",
-            "longitude": -74.16667
         },
         {
             "elevation": 563.9,
@@ -646,37 +448,6 @@
             "longitude": -74.8667
         },
         {
-            "mindate": "1948-08-01",
-            "maxdate": "1948-08-01",
-            "latitude": 42.1,
-            "name": "BINGHAMTON CHENANGO, NY US",
-            "datacoverage": 0.9819,
-            "id": "COOP:300676",
-            "longitude": -75.91667
-        },
-        {
-            "elevation": 260.3,
-            "mindate": "1948-08-01",
-            "maxdate": "1948-08-01",
-            "latitude": 42.1,
-            "name": "BINGHAMTON SUSQUEHANNA RIVER, NY US",
-            "datacoverage": 0.9819,
-            "id": "COOP:300681",
-            "elevationUnit": "METERS",
-            "longitude": -75.9
-        },
-        {
-            "elevation": 253.9,
-            "mindate": "1948-05-01",
-            "maxdate": "1951-07-01",
-            "latitude": 42.08333,
-            "name": "BINGHAMTON TRI CITIES AIRPORT, NY US",
-            "datacoverage": 0.9477,
-            "id": "COOP:300686",
-            "elevationUnit": "METERS",
-            "longitude": -76.1
-        },
-        {
             "elevation": 486.2,
             "mindate": "1951-01-01",
             "maxdate": "2015-11-01",
@@ -686,17 +457,6 @@
             "id": "COOP:300687",
             "elevationUnit": "METERS",
             "longitude": -75.98
-        },
-        {
-            "elevation": 277.1,
-            "mindate": "1948-01-01",
-            "maxdate": "1968-08-01",
-            "latitude": 42.1,
-            "name": "BINGHAMTON WEATHER BUREAU CITY, NY US",
-            "datacoverage": 0.9999,
-            "id": "COOP:300691",
-            "elevationUnit": "METERS",
-            "longitude": -75.91667
         },
         {
             "elevation": 161.8,
@@ -721,17 +481,6 @@
             "longitude": -74.4803
         },
         {
-            "elevation": 670.9,
-            "mindate": "1948-05-01",
-            "maxdate": "1951-12-01",
-            "latitude": 43.86667,
-            "name": "BLUE MOUNTAIN LAKE 2, NY US",
-            "datacoverage": 0.954,
-            "id": "COOP:300746",
-            "elevationUnit": "METERS",
-            "longitude": -74.43333
-        },
-        {
             "elevation": 545.6,
             "mindate": "1942-11-01",
             "maxdate": "2001-06-01",
@@ -743,28 +492,6 @@
             "longitude": -78.20639
         },
         {
-            "elevation": 253,
-            "mindate": "1934-01-01",
-            "maxdate": "1943-04-01",
-            "latitude": 44.133333,
-            "name": "BONAPARTE, NY US",
-            "datacoverage": 0.9202,
-            "id": "COOP:300774",
-            "elevationUnit": "METERS",
-            "longitude": -75.383333
-        },
-        {
-            "elevation": 360,
-            "mindate": "1933-01-01",
-            "maxdate": "1966-01-01",
-            "latitude": 43.51667,
-            "name": "BOONVILLE 2 N, NY US",
-            "datacoverage": 0.9975,
-            "id": "COOP:300780",
-            "elevationUnit": "METERS",
-            "longitude": -75.36667
-        },
-        {
             "elevation": 472.4,
             "mindate": "1949-10-01",
             "maxdate": "2015-11-01",
@@ -774,39 +501,6 @@
             "id": "COOP:300785",
             "elevationUnit": "METERS",
             "longitude": -75.3697
-        },
-        {
-            "elevation": 573,
-            "mindate": "1948-05-01",
-            "maxdate": "1959-06-01",
-            "latitude": 42.26667,
-            "name": "BOVINA, NY US",
-            "datacoverage": 0.9703,
-            "id": "COOP:300799",
-            "elevationUnit": "METERS",
-            "longitude": -74.73333
-        },
-        {
-            "elevation": 171,
-            "mindate": "1948-01-01",
-            "maxdate": "1961-03-01",
-            "latitude": 41.45,
-            "name": "BOYDS CORNERS, NY US",
-            "datacoverage": 0.9561,
-            "id": "COOP:300808",
-            "elevationUnit": "METERS",
-            "longitude": -73.73333
-        },
-        {
-            "elevation": 415.1,
-            "mindate": "1941-01-01",
-            "maxdate": "1961-01-01",
-            "latitude": 42.38333,
-            "name": "BRADFORD 1 NW, NY US",
-            "datacoverage": 0.9335,
-            "id": "COOP:300816",
-            "elevationUnit": "METERS",
-            "longitude": -77.11667
         },
         {
             "elevation": 415.1,
@@ -825,7 +519,7 @@
             "maxdate": "1976-09-01",
             "latitude": 40.78333,
             "name": "BRENTWOOD, NY US",
-            "datacoverage": 0.9512,
+            "datacoverage": 0.059,
             "id": "COOP:300862",
             "elevationUnit": "METERS",
             "longitude": -73.25
@@ -840,17 +534,6 @@
             "id": "COOP:300870",
             "elevationUnit": "METERS",
             "longitude": -76.1964
-        },
-        {
-            "elevation": 189,
-            "mindate": "1948-05-01",
-            "maxdate": "1948-10-25",
-            "latitude": 41.43333,
-            "name": "BREWSTER, NY US",
-            "datacoverage": 0.9925,
-            "id": "COOP:300878",
-            "elevationUnit": "METERS",
-            "longitude": -73.6
         },
         {
             "elevation": 12.8,
@@ -873,17 +556,6 @@
             "id": "COOP:300910",
             "elevationUnit": "METERS",
             "longitude": -77.3426
-        },
-        {
-            "elevation": 366.1,
-            "mindate": "1932-02-01",
-            "maxdate": "1967-04-01",
-            "latitude": 42.7,
-            "name": "BRISTOL SPRINGS, NY US",
-            "datacoverage": 0.9836,
-            "id": "COOP:300921",
-            "elevationUnit": "METERS",
-            "longitude": -77.38333
         },
         {
             "elevation": 256,
@@ -930,17 +602,6 @@
             "longitude": -75.06667
         },
         {
-            "elevation": 155.4,
-            "mindate": "1940-07-01",
-            "maxdate": "1952-12-01",
-            "latitude": 41.95,
-            "name": "SHOKAN BROWN STATION, NY US",
-            "datacoverage": 0.9464,
-            "id": "COOP:300985",
-            "elevationUnit": "METERS",
-            "longitude": -74.2
-        },
-        {
             "elevation": 190.5,
             "mindate": "2014-01-01",
             "maxdate": "2015-11-01",
@@ -963,39 +624,6 @@
             "longitude": -78.7358
         },
         {
-            "elevation": 313.9,
-            "mindate": "1932-02-01",
-            "maxdate": "1967-05-01",
-            "latitude": 42.41667,
-            "name": "BURDETT 1 NE, NY US",
-            "datacoverage": 0.9671,
-            "id": "COOP:301032",
-            "elevationUnit": "METERS",
-            "longitude": -76.83333
-        },
-        {
-            "elevation": 154.8,
-            "mindate": "1962-05-01",
-            "maxdate": "1966-05-01",
-            "latitude": 42.8,
-            "name": "BURTONSVILLE, NY US",
-            "datacoverage": 0.9996,
-            "id": "COOP:301052",
-            "elevationUnit": "METERS",
-            "longitude": -74.26667
-        },
-        {
-            "elevation": 463.9,
-            "mindate": "1948-05-01",
-            "maxdate": "1959-06-01",
-            "latitude": 42.16667,
-            "name": "BUSHNELLSVILLE 1 NE, NY US",
-            "datacoverage": 0.9031,
-            "id": "COOP:301065",
-            "elevationUnit": "METERS",
-            "longitude": -74.4
-        },
-        {
             "elevation": 152.1,
             "mindate": "2011-01-01",
             "maxdate": "2015-11-01",
@@ -1007,28 +635,6 @@
             "longitude": -73.43257
         },
         {
-            "elevation": 561.1,
-            "mindate": "1948-05-01",
-            "maxdate": "1959-06-01",
-            "latitude": 41.91667,
-            "name": "BUTTERNUT BROOK, NY US",
-            "datacoverage": 0.9106,
-            "id": "COOP:301079",
-            "elevationUnit": "METERS",
-            "longitude": -74.66667
-        },
-        {
-            "elevation": 92,
-            "mindate": "1931-01-01",
-            "maxdate": "1963-07-01",
-            "latitude": 42.31667,
-            "name": "CAIRO, NY US",
-            "datacoverage": 0.9873,
-            "id": "COOP:301093",
-            "elevationUnit": "METERS",
-            "longitude": -74.01667
-        },
-        {
             "elevation": 149.4,
             "mindate": "1979-07-01",
             "maxdate": "2011-12-01",
@@ -1038,17 +644,6 @@
             "id": "COOP:301095",
             "elevationUnit": "METERS",
             "longitude": -74.03306
-        },
-        {
-            "elevation": 244.1,
-            "mindate": "1949-04-01",
-            "maxdate": "1966-12-01",
-            "latitude": 41.76667,
-            "name": "CALLICOON, NY US",
-            "datacoverage": 0.9999,
-            "id": "COOP:301101",
-            "elevationUnit": "METERS",
-            "longitude": -75.05
         },
         {
             "elevation": 372.2,
@@ -1161,17 +756,6 @@
             "longitude": -76.3127
         },
         {
-            "elevation": 451.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1940-06-01",
-            "latitude": 42.383333,
-            "name": "CANEADEA DAM, NY US",
-            "datacoverage": 1,
-            "id": "COOP:301170",
-            "elevationUnit": "METERS",
-            "longitude": -78.183333
-        },
-        {
             "elevation": 352,
             "mindate": "1949-06-01",
             "maxdate": "2008-08-01",
@@ -1236,50 +820,6 @@
             "id": "COOP:301265",
             "elevationUnit": "METERS",
             "longitude": -76.7342
-        },
-        {
-            "elevation": 381,
-            "mindate": "1948-06-01",
-            "maxdate": "1951-11-01",
-            "latitude": 42.91667,
-            "name": "CAZENOVIA, NY US",
-            "datacoverage": 0.8336,
-            "id": "COOP:301272",
-            "elevationUnit": "METERS",
-            "longitude": -75.86667
-        },
-        {
-            "elevation": 384,
-            "mindate": "1953-07-01",
-            "maxdate": "1954-12-01",
-            "latitude": 42.93333,
-            "name": "CEDARVILLE 1 N, NY US",
-            "datacoverage": 0.9425,
-            "id": "COOP:301291",
-            "elevationUnit": "METERS",
-            "longitude": -75.11667
-        },
-        {
-            "elevation": 445,
-            "mindate": "1955-05-01",
-            "maxdate": "1955-08-01",
-            "latitude": 42.9,
-            "name": "CEDARVILLE 3 SE, NY US",
-            "datacoverage": 0.9898,
-            "id": "COOP:301292",
-            "elevationUnit": "METERS",
-            "longitude": -75.08333
-        },
-        {
-            "elevation": 292.6,
-            "mindate": "1958-05-01",
-            "maxdate": "1961-01-27",
-            "latitude": 42.666667,
-            "name": "CENTER BERLIN, NY US",
-            "datacoverage": 0.0772,
-            "id": "COOP:301302",
-            "elevationUnit": "METERS",
-            "longitude": -73.366667
         },
         {
             "elevation": 9.1,
@@ -1348,28 +888,6 @@
             "longitude": -75.1109
         },
         {
-            "elevation": 427,
-            "mindate": "1943-08-01",
-            "maxdate": "1949-11-01",
-            "latitude": 42.61667,
-            "name": "CHERRY PLAIN, NY US",
-            "datacoverage": 0.855,
-            "id": "COOP:301433",
-            "elevationUnit": "METERS",
-            "longitude": -73.41667
-        },
-        {
-            "elevation": 335.9,
-            "mindate": "1956-01-01",
-            "maxdate": "1961-01-01",
-            "latitude": 42.63333,
-            "name": "CHERRYPLAIN 2, NY US",
-            "datacoverage": 0.9993,
-            "id": "COOP:301434",
-            "elevationUnit": "METERS",
-            "longitude": -73.35
-        },
-        {
             "elevation": 414.5,
             "mindate": "1949-08-01",
             "maxdate": "2010-07-01",
@@ -1379,17 +897,6 @@
             "id": "COOP:301436",
             "elevationUnit": "METERS",
             "longitude": -74.7386
-        },
-        {
-            "elevation": 445,
-            "mindate": "1948-05-01",
-            "maxdate": "1969-11-01",
-            "latitude": 42.16667,
-            "name": "CHINA, NY US",
-            "datacoverage": 0.7804,
-            "id": "COOP:301466",
-            "elevationUnit": "METERS",
-            "longitude": -75.4
         },
         {
             "elevation": 351.1,
@@ -1458,17 +965,6 @@
             "longitude": -74.6
         },
         {
-            "elevation": 116.1,
-            "mindate": "1932-01-01",
-            "maxdate": "1951-09-01",
-            "latitude": 43.23333,
-            "name": "CLEVELAND, NY US",
-            "datacoverage": 0.9157,
-            "id": "COOP:301541",
-            "elevationUnit": "METERS",
-            "longitude": -75.88333
-        },
-        {
             "elevation": 85.3,
             "mindate": "1978-01-01",
             "maxdate": "2013-05-01",
@@ -1489,17 +985,6 @@
             "id": "COOP:301580",
             "elevationUnit": "METERS",
             "longitude": -76.83844
-        },
-        {
-            "elevation": 292.9,
-            "mindate": "1946-01-01",
-            "maxdate": "1956-04-01",
-            "latitude": 42.66667,
-            "name": "COBLESKILL, NY US",
-            "datacoverage": 0.9439,
-            "id": "COOP:301589",
-            "elevationUnit": "METERS",
-            "longitude": -74.5
         },
         {
             "elevation": 274.3,
@@ -1535,17 +1020,6 @@
             "longitude": -77.5
         },
         {
-            "elevation": 198.1,
-            "mindate": "1948-05-01",
-            "maxdate": "1959-06-01",
-            "latitude": 42.01667,
-            "name": "COLD BROOK, NY US",
-            "datacoverage": 0.9778,
-            "id": "COOP:301615",
-            "elevationUnit": "METERS",
-            "longitude": -74.26667
-        },
-        {
             "elevation": 312.4,
             "mindate": "1957-08-01",
             "maxdate": "2002-08-01",
@@ -1579,17 +1053,6 @@
             "longitude": -74.9573
         },
         {
-            "elevation": 256.3,
-            "mindate": "1953-07-01",
-            "maxdate": "1956-10-01",
-            "latitude": 42.03333,
-            "name": "CONKLIN, NY US",
-            "datacoverage": 0.9988,
-            "id": "COOP:301700",
-            "elevationUnit": "METERS",
-            "longitude": -75.8
-        },
-        {
             "elevation": 260.9,
             "mindate": "2009-05-01",
             "maxdate": "2009-12-01",
@@ -1612,28 +1075,6 @@
             "longitude": -73.9256
         },
         {
-            "elevation": 223.1,
-            "mindate": "1948-05-01",
-            "maxdate": "1961-07-01",
-            "latitude": 43.31667,
-            "name": "CONKLINGVILLE DAM 2, NY US",
-            "datacoverage": 0.9433,
-            "id": "COOP:301713",
-            "elevationUnit": "METERS",
-            "longitude": -73.91667
-        },
-        {
-            "elevation": 246.3,
-            "mindate": "1948-05-01",
-            "maxdate": "1953-07-01",
-            "latitude": 43.31667,
-            "name": "CONKLINGVILLE DAM NUMBER 3, NY US",
-            "datacoverage": 0.9512,
-            "id": "COOP:301718",
-            "elevationUnit": "METERS",
-            "longitude": -73.91667
-        },
-        {
             "elevation": 128,
             "mindate": "1965-11-01",
             "maxdate": "1982-02-01",
@@ -1643,17 +1084,6 @@
             "id": "COOP:301723",
             "elevationUnit": "METERS",
             "longitude": -74.3
-        },
-        {
-            "elevation": 116.1,
-            "mindate": "1952-01-01",
-            "maxdate": "1964-12-01",
-            "latitude": 43.25,
-            "name": "CONSTANTIA, NY US",
-            "datacoverage": 0.9421,
-            "id": "COOP:301728",
-            "elevationUnit": "METERS",
-            "longitude": -76
         },
         {
             "elevation": 177.1,
@@ -1733,50 +1163,6 @@
             "longitude": -76.18333
         },
         {
-            "elevation": 427,
-            "mindate": "1948-05-01",
-            "maxdate": "1959-06-01",
-            "latitude": 41.96667,
-            "name": "CRAIGIE CLAIR, NY US",
-            "datacoverage": 0.9703,
-            "id": "COOP:301850",
-            "elevationUnit": "METERS",
-            "longitude": -74.86667
-        },
-        {
-            "elevation": 73.2,
-            "mindate": "1948-05-01",
-            "maxdate": "1961-03-01",
-            "latitude": 41.26667,
-            "name": "CROSS RIVER, NY US",
-            "datacoverage": 0.9161,
-            "id": "COOP:301896",
-            "elevationUnit": "METERS",
-            "longitude": -73.68333
-        },
-        {
-            "elevation": 67.1,
-            "mindate": "1948-05-01",
-            "maxdate": "1961-03-01",
-            "latitude": 41.35,
-            "name": "CROTON FALLS 1 NE, NY US",
-            "datacoverage": 0.9032,
-            "id": "COOP:301904",
-            "elevationUnit": "METERS",
-            "longitude": -73.66667
-        },
-        {
-            "elevation": 75.9,
-            "mindate": "1948-05-01",
-            "maxdate": "1961-03-01",
-            "latitude": 41.23333,
-            "name": "CROTON LAKE, NY US",
-            "datacoverage": 0.9677,
-            "id": "COOP:301912",
-            "elevationUnit": "METERS",
-            "longitude": -73.8
-        },
-        {
             "elevation": 11.9,
             "mindate": "1931-01-01",
             "maxdate": "1976-07-30",
@@ -1811,11 +1197,11 @@
         },
         {
             "elevation": 208.8,
-            "mindate": "1945-12-01",
+            "mindate": "1948-05-01",
             "maxdate": "2010-03-01",
             "latitude": 42.57083,
             "name": "DANSVILLE MUNICIPAL AIRPORT, NY US",
-            "datacoverage": 0.8864,
+            "datacoverage": 0.0123,
             "id": "COOP:301979",
             "elevationUnit": "METERS",
             "longitude": -77.71333
@@ -1826,7 +1212,7 @@
             "maxdate": "1994-02-01",
             "latitude": 42.46667,
             "name": "DAVENPORT 2 E, NY US",
-            "datacoverage": 0.7073,
+            "datacoverage": 0.0525,
             "id": "COOP:301987",
             "elevationUnit": "METERS",
             "longitude": -74.8
@@ -1887,17 +1273,6 @@
             "longitude": -75.4263
         },
         {
-            "elevation": 200.9,
-            "mindate": "1945-05-01",
-            "maxdate": "1961-07-01",
-            "latitude": 42.7,
-            "name": "DERBY 2 NW, NY US",
-            "datacoverage": 0.9999,
-            "id": "COOP:302071",
-            "elevationUnit": "METERS",
-            "longitude": -79
-        },
-        {
             "elevation": 396.8,
             "mindate": "1932-01-01",
             "maxdate": "1984-03-01",
@@ -1953,17 +1328,6 @@
             "longitude": -73.0908
         },
         {
-            "elevation": 338.9,
-            "mindate": "1948-05-01",
-            "maxdate": "1967-10-01",
-            "latitude": 42.08333,
-            "name": "DOWNSVILLE, NY US",
-            "datacoverage": 0.9615,
-            "id": "COOP:302164",
-            "elevationUnit": "METERS",
-            "longitude": -75
-        },
-        {
             "elevation": 365.8,
             "mindate": "1959-05-01",
             "maxdate": "2015-11-01",
@@ -1991,7 +1355,7 @@
             "maxdate": "1977-05-01",
             "latitude": 42.48333,
             "name": "DUNKIRK POWER PLANT, NY US",
-            "datacoverage": 0.9406,
+            "datacoverage": 0.0614,
             "id": "COOP:302198",
             "elevationUnit": "METERS",
             "longitude": -79.35
@@ -2019,17 +1383,6 @@
             "longitude": -73.3667
         },
         {
-            "elevation": 396.8,
-            "mindate": "1931-01-01",
-            "maxdate": "1963-06-01",
-            "latitude": 43.91667,
-            "name": "EAGLE FALLS, NY US",
-            "datacoverage": 0.9976,
-            "id": "COOP:302239",
-            "elevationUnit": "METERS",
-            "longitude": -75.2
-        },
-        {
             "elevation": 265.2,
             "mindate": "1956-07-01",
             "maxdate": "1985-04-01",
@@ -2041,17 +1394,6 @@
             "longitude": -77.43333
         },
         {
-            "elevation": 139.9,
-            "mindate": "1948-05-01",
-            "maxdate": "1961-03-01",
-            "latitude": 41.4,
-            "name": "EAST BRANCH, NY US",
-            "datacoverage": 0.9161,
-            "id": "COOP:302282",
-            "elevationUnit": "METERS",
-            "longitude": -73.58333
-        },
-        {
             "elevation": 281.6,
             "mindate": "2001-05-01",
             "maxdate": "2009-03-01",
@@ -2061,61 +1403,6 @@
             "id": "COOP:302286",
             "elevationUnit": "METERS",
             "longitude": -73.50278
-        },
-        {
-            "elevation": 36.9,
-            "mindate": "1948-05-01",
-            "maxdate": "1958-11-01",
-            "latitude": 40.93333,
-            "name": "EASTCHESTER, NY US",
-            "datacoverage": 0.992,
-            "id": "COOP:302291",
-            "elevationUnit": "METERS",
-            "longitude": -73.8
-        },
-        {
-            "elevation": 509,
-            "mindate": "1948-05-01",
-            "maxdate": "1955-06-01",
-            "latitude": 42.3,
-            "name": "DELHI 1 NW, NY US",
-            "datacoverage": 0.8723,
-            "id": "COOP:302302",
-            "elevationUnit": "METERS",
-            "longitude": -74.93333
-        },
-        {
-            "elevation": 451.1,
-            "mindate": "1948-05-01",
-            "maxdate": "1967-09-01",
-            "latitude": 42.7,
-            "name": "EAST HOMER, NY US",
-            "datacoverage": 0.7805,
-            "id": "COOP:302351",
-            "elevationUnit": "METERS",
-            "longitude": -76.11667
-        },
-        {
-            "elevation": 476.1,
-            "mindate": "1949-03-01",
-            "maxdate": "1969-08-01",
-            "latitude": 42.71667,
-            "name": "EAST HOMER 2, NY US",
-            "datacoverage": 0.9673,
-            "id": "COOP:302356",
-            "elevationUnit": "METERS",
-            "longitude": -76.11667
-        },
-        {
-            "elevation": 566.9,
-            "mindate": "1948-05-01",
-            "maxdate": "1959-06-01",
-            "latitude": 42.25,
-            "name": "EAST JEWETT, NY US",
-            "datacoverage": 0.9852,
-            "id": "COOP:302362",
-            "elevationUnit": "METERS",
-            "longitude": -74.18333
         },
         {
             "elevation": 606.9,
@@ -2151,23 +1438,12 @@
             "longitude": -78.9
         },
         {
-            "elevation": 506,
-            "mindate": "1948-05-01",
-            "maxdate": "1963-06-01",
-            "latitude": 42.13333,
-            "name": "EDGEWOOD, NY US",
-            "datacoverage": 0.9342,
-            "id": "COOP:302517",
-            "elevationUnit": "METERS",
-            "longitude": -74.23333
-        },
-        {
             "elevation": 359.7,
             "mindate": "1948-05-01",
             "maxdate": "1990-05-01",
             "latitude": 42.68333,
             "name": "EDMESTON, NY US",
-            "datacoverage": 0.9512,
+            "datacoverage": 0.0835,
             "id": "COOP:302526",
             "elevationUnit": "METERS",
             "longitude": -75.25
@@ -2193,17 +1469,6 @@
             "id": "COOP:302554",
             "elevationUnit": "METERS",
             "longitude": -73.5986
-        },
-        {
-            "elevation": 686.1,
-            "mindate": "1948-05-01",
-            "maxdate": "1959-06-01",
-            "latitude": 42.16667,
-            "name": "ELKA PARK, NY US",
-            "datacoverage": 0.9778,
-            "id": "COOP:302562",
-            "elevationUnit": "METERS",
-            "longitude": -74.16667
         },
         {
             "elevation": 289.6,
@@ -2250,17 +1515,6 @@
             "longitude": -76.8358
         },
         {
-            "elevation": 291.1,
-            "mindate": "1938-07-01",
-            "maxdate": "1960-05-01",
-            "latitude": 42.15944,
-            "name": "ELMIRA CORNING REGIONAL AIRPORT, NY US",
-            "datacoverage": 0.7338,
-            "id": "COOP:302615",
-            "elevationUnit": "METERS",
-            "longitude": -76.89194
-        },
-        {
             "elevation": 252.1,
             "mindate": "1985-08-01",
             "maxdate": "2004-11-01",
@@ -2270,28 +1524,6 @@
             "id": "COOP:302627",
             "elevationUnit": "METERS",
             "longitude": -76.08778
-        },
-        {
-            "elevation": 238,
-            "mindate": "1948-05-01",
-            "maxdate": "1960-12-01",
-            "latitude": 43.01667,
-            "name": "EPHRATAH, NY US",
-            "datacoverage": 0.9931,
-            "id": "COOP:302666",
-            "elevationUnit": "METERS",
-            "longitude": -74.53333
-        },
-        {
-            "elevation": 167.9,
-            "mindate": "1955-11-01",
-            "maxdate": "1962-04-01",
-            "latitude": 42.76667,
-            "name": "ESPERANCE, NY US",
-            "datacoverage": 0.8594,
-            "id": "COOP:302683",
-            "elevationUnit": "METERS",
-            "longitude": -74.25
         },
         {
             "elevation": 335.3,
@@ -2316,17 +1548,6 @@
             "longitude": -74.9
         },
         {
-            "elevation": 24.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1956-11-01",
-            "latitude": 40.75,
-            "name": "FARMINGDALE 2 NE, NY US",
-            "datacoverage": 0.7492,
-            "id": "COOP:302760",
-            "elevationUnit": "METERS",
-            "longitude": -73.43333
-        },
-        {
             "elevation": 310.9,
             "mindate": "1953-04-01",
             "maxdate": "2006-11-01",
@@ -2336,17 +1557,6 @@
             "id": "COOP:302829",
             "elevationUnit": "METERS",
             "longitude": -75.18333
-        },
-        {
-            "elevation": 136.9,
-            "mindate": "1945-11-01",
-            "maxdate": "1949-05-01",
-            "latitude": 42.96667,
-            "name": "FONDA, NY US",
-            "datacoverage": 0.6283,
-            "id": "COOP:302888",
-            "elevationUnit": "METERS",
-            "longitude": -74.41667
         },
         {
             "elevation": 345,
@@ -2382,17 +1592,6 @@
             "longitude": -74.6228
         },
         {
-            "elevation": 217,
-            "mindate": "1948-01-01",
-            "maxdate": "1948-08-22",
-            "latitude": 42.96667,
-            "name": "FORT PLAIN WEATHER BUREAU AIRPORT, NY US",
-            "datacoverage": 0.998,
-            "id": "COOP:302956",
-            "elevationUnit": "METERS",
-            "longitude": -74.66667
-        },
-        {
             "elevation": 125,
             "mindate": "1931-01-01",
             "maxdate": "1997-10-01",
@@ -2402,17 +1601,6 @@
             "id": "COOP:303010",
             "elevationUnit": "METERS",
             "longitude": -75.11667
-        },
-        {
-            "elevation": 408.4,
-            "mindate": "1936-08-01",
-            "maxdate": "1943-06-01",
-            "latitude": 42.333333,
-            "name": "FRANKLIN, NY US",
-            "datacoverage": 1,
-            "id": "COOP:303020",
-            "elevationUnit": "METERS",
-            "longitude": -75.166667
         },
         {
             "elevation": 484.6,
@@ -2448,17 +1636,6 @@
             "longitude": -74.06667
         },
         {
-            "elevation": 6.1,
-            "mindate": "1948-05-01",
-            "maxdate": "1961-03-01",
-            "latitude": 40.66667,
-            "name": "FREEPORT, NY US",
-            "datacoverage": 0.8,
-            "id": "COOP:303042",
-            "elevationUnit": "METERS",
-            "longitude": -73.6
-        },
-        {
             "elevation": 320,
             "mindate": "1948-06-01",
             "maxdate": "2015-11-01",
@@ -2479,28 +1656,6 @@
             "id": "COOP:303065",
             "elevationUnit": "METERS",
             "longitude": -78.23722
-        },
-        {
-            "elevation": 473,
-            "mindate": "1951-10-01",
-            "maxdate": "1956-04-01",
-            "latitude": 42.19083,
-            "name": "FRIENDSHIP, NY US",
-            "datacoverage": 1,
-            "id": "COOP:303069",
-            "elevationUnit": "METERS",
-            "longitude": -78.14583
-        },
-        {
-            "elevation": 603.5,
-            "mindate": "1956-10-01",
-            "maxdate": "1968-12-01",
-            "latitude": 42.1625,
-            "name": "FRIENDSHIP 5 SW, NY US",
-            "datacoverage": 0.9523,
-            "id": "COOP:303070",
-            "elevationUnit": "METERS",
-            "longitude": -78.200278
         },
         {
             "elevation": 561.1,
@@ -2591,28 +1746,6 @@
             "longitude": -74
         },
         {
-            "elevation": 180.1,
-            "mindate": "1883-01-01",
-            "maxdate": "1968-12-01",
-            "latitude": 42.88333,
-            "name": "GENEVA EXPERIMENT ST, NY US",
-            "datacoverage": 0.9903,
-            "id": "COOP:303177",
-            "elevationUnit": "METERS",
-            "longitude": -77
-        },
-        {
-            "elevation": 189,
-            "mindate": "1948-05-01",
-            "maxdate": "1955-05-01",
-            "latitude": 42.88333,
-            "name": "GENEVA SOIL CONSERVATION SERVICE, NY US",
-            "datacoverage": 0.9999,
-            "id": "COOP:303182",
-            "elevationUnit": "METERS",
-            "longitude": -77.01667
-        },
-        {
             "elevation": 218.8,
             "mindate": "1968-05-01",
             "maxdate": "2015-11-01",
@@ -2633,17 +1766,6 @@
             "id": "COOP:303250",
             "elevationUnit": "METERS",
             "longitude": -75.4258
-        },
-        {
-            "elevation": 262.1,
-            "mindate": "1948-05-01",
-            "maxdate": "1959-06-01",
-            "latitude": 42.01667,
-            "name": "GLENFORD, NY US",
-            "datacoverage": 0.9106,
-            "id": "COOP:303251",
-            "elevationUnit": "METERS",
-            "longitude": -74.13333
         },
         {
             "elevation": 83.8,
@@ -2668,17 +1790,6 @@
             "longitude": -73.6781
         },
         {
-            "elevation": 107,
-            "mindate": "1932-01-01",
-            "maxdate": "1956-09-01",
-            "latitude": 43.31667,
-            "name": "GLENS FALLS FIRE STATION, NY US",
-            "datacoverage": 0.4478,
-            "id": "COOP:303289",
-            "elevationUnit": "METERS",
-            "longitude": -73.65
-        },
-        {
             "elevation": 97.8,
             "mindate": "1947-05-01",
             "maxdate": "2015-11-01",
@@ -2688,17 +1799,6 @@
             "id": "COOP:303294",
             "elevationUnit": "METERS",
             "longitude": -73.61028
-        },
-        {
-            "elevation": 92,
-            "mindate": "1948-05-01",
-            "maxdate": "1956-03-01",
-            "latitude": 43.28333,
-            "name": "GLENS FALLS FEDR DAM, NY US",
-            "datacoverage": 0.9788,
-            "id": "COOP:303299",
-            "elevationUnit": "METERS",
-            "longitude": -73.66667
         },
         {
             "elevation": 246.9,
@@ -2721,17 +1821,6 @@
             "id": "COOP:303322",
             "elevationUnit": "METERS",
             "longitude": -74.4236
-        },
-        {
-            "elevation": 415.1,
-            "mindate": "1948-05-01",
-            "maxdate": "1960-12-01",
-            "latitude": 43.1,
-            "name": "GLOVERSVILLE PECKS P, NY US",
-            "datacoverage": 0.9799,
-            "id": "COOP:303324",
-            "elevationUnit": "METERS",
-            "longitude": -74.43333
         },
         {
             "elevation": 128,
@@ -2789,17 +1878,6 @@
             "longitude": -74.48333
         },
         {
-            "elevation": 342,
-            "mindate": "1950-01-01",
-            "maxdate": "1960-02-01",
-            "latitude": 43.13333,
-            "name": "GRAVESVILLE 2 N, NY US",
-            "datacoverage": 1,
-            "id": "COOP:303416",
-            "elevationUnit": "METERS",
-            "longitude": -75.11667
-        },
-        {
             "elevation": 280.4,
             "mindate": "1936-08-01",
             "maxdate": "2015-11-01",
@@ -2809,17 +1887,6 @@
             "id": "COOP:303444",
             "elevationUnit": "METERS",
             "longitude": -75.7711
-        },
-        {
-            "elevation": 185.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1955-05-01",
-            "latitude": 43.11667,
-            "name": "GREENFIELD CENTER, NY US",
-            "datacoverage": 1,
-            "id": "COOP:303452",
-            "elevationUnit": "METERS",
-            "longitude": -73.83333
         },
         {
             "elevation": 4.9,
@@ -2855,39 +1922,6 @@
             "longitude": -77.76667
         },
         {
-            "elevation": 598,
-            "mindate": "1948-05-01",
-            "maxdate": "1951-02-01",
-            "latitude": 42.21667,
-            "name": "HALCOTT 2 NNE, NY US",
-            "datacoverage": 1,
-            "id": "COOP:303566",
-            "elevationUnit": "METERS",
-            "longitude": -74.46667
-        },
-        {
-            "elevation": 598,
-            "mindate": "1951-03-01",
-            "maxdate": "1959-06-01",
-            "latitude": 42.21667,
-            "name": "HALCOTT 2 NNE, NY US",
-            "datacoverage": 0.9899,
-            "id": "COOP:303567",
-            "elevationUnit": "METERS",
-            "longitude": -74.46667
-        },
-        {
-            "elevation": 297.5,
-            "mindate": "1953-05-01",
-            "maxdate": "1962-06-01",
-            "latitude": 42,
-            "name": "HALE EDDY, NY US",
-            "datacoverage": 0.9455,
-            "id": "COOP:303575",
-            "elevationUnit": "METERS",
-            "longitude": -75.38333
-        },
-        {
             "elevation": 185.9,
             "mindate": "2003-06-01",
             "maxdate": "2003-10-01",
@@ -2908,72 +1942,6 @@
             "id": "COOP:303591",
             "elevationUnit": "METERS",
             "longitude": -78.8812
-        },
-        {
-            "elevation": 369.1,
-            "mindate": "1937-03-01",
-            "maxdate": "1963-09-01",
-            "latitude": 42.81667,
-            "name": "HAMILTON, NY US",
-            "datacoverage": 0.8808,
-            "id": "COOP:303602",
-            "elevationUnit": "METERS",
-            "longitude": -75.53333
-        },
-        {
-            "elevation": 238,
-            "mindate": "1942-01-01",
-            "maxdate": "1954-04-01",
-            "latitude": 42.4,
-            "name": "HAMMONDSPORT 1 W, NY US",
-            "datacoverage": 0.9193,
-            "id": "COOP:303616",
-            "elevationUnit": "METERS",
-            "longitude": -77.25
-        },
-        {
-            "elevation": 238,
-            "mindate": "1954-05-01",
-            "maxdate": "1963-01-01",
-            "latitude": 42.4,
-            "name": "HAMMONDSPORT 1 W, NY US",
-            "datacoverage": 0.9994,
-            "id": "COOP:303617",
-            "elevationUnit": "METERS",
-            "longitude": -77.25
-        },
-        {
-            "elevation": 396.2,
-            "mindate": "1932-02-01",
-            "maxdate": "1941-12-01",
-            "latitude": 42.433333,
-            "name": "HAMMONDSPORT, NY US",
-            "datacoverage": 0.9076,
-            "id": "COOP:303619",
-            "elevationUnit": "METERS",
-            "longitude": -77.15
-        },
-        {
-            "elevation": 390.1,
-            "mindate": "1948-05-01",
-            "maxdate": "1956-03-01",
-            "latitude": 42.15,
-            "name": "HARPURSVILLE, NY US",
-            "datacoverage": 0.9788,
-            "id": "COOP:303669",
-            "elevationUnit": "METERS",
-            "longitude": -75.61667
-        },
-        {
-            "elevation": 306.9,
-            "mindate": "1948-05-01",
-            "maxdate": "1959-05-01",
-            "latitude": 42.01667,
-            "name": "HARVARD RIVER, NY US",
-            "datacoverage": 0.9925,
-            "id": "COOP:303714",
-            "elevationUnit": "METERS",
-            "longitude": -75.11667
         },
         {
             "elevation": 502.9,
@@ -3031,39 +1999,6 @@
             "longitude": -73.63333
         },
         {
-            "elevation": 11.9,
-            "mindate": "1948-05-01",
-            "maxdate": "1966-05-01",
-            "latitude": 40.68333,
-            "name": "HEMPSTEAD MALVERNE, NY US",
-            "datacoverage": 0.9539,
-            "id": "COOP:303786",
-            "elevationUnit": "METERS",
-            "longitude": -73.66667
-        },
-        {
-            "elevation": 512.1,
-            "mindate": "1948-05-01",
-            "maxdate": "1948-09-30",
-            "latitude": 43.4,
-            "name": "HIGGINS BAY, NY US",
-            "datacoverage": 0.9947,
-            "id": "COOP:303831",
-            "elevationUnit": "METERS",
-            "longitude": -74.53333
-        },
-        {
-            "elevation": 43,
-            "mindate": "1931-01-01",
-            "maxdate": "1967-11-01",
-            "latitude": 41.83333,
-            "name": "HIGH FALLS, NY US",
-            "datacoverage": 1,
-            "id": "COOP:303839",
-            "elevationUnit": "METERS",
-            "longitude": -74.13333
-        },
-        {
             "elevation": 537.4,
             "mindate": "1931-01-01",
             "maxdate": "2015-11-01",
@@ -3073,17 +2008,6 @@
             "id": "COOP:303851",
             "elevationUnit": "METERS",
             "longitude": -75.5207
-        },
-        {
-            "elevation": 542.8,
-            "mindate": "1948-05-01",
-            "maxdate": "1968-08-01",
-            "latitude": 43.58333,
-            "name": "HIGHMARKET 1 SE, NY US",
-            "datacoverage": 0.9024,
-            "id": "COOP:303856",
-            "elevationUnit": "METERS",
-            "longitude": -75.51667
         },
         {
             "elevation": 561.1,
@@ -3097,17 +2021,6 @@
             "longitude": -74.48333
         },
         {
-            "elevation": 88.1,
-            "mindate": "1945-07-01",
-            "maxdate": "1959-08-01",
-            "latitude": 43.28333,
-            "name": "HILTON, NY US",
-            "datacoverage": 0.9528,
-            "id": "COOP:303881",
-            "elevationUnit": "METERS",
-            "longitude": -77.78333
-        },
-        {
             "elevation": 347.8,
             "mindate": "1931-01-01",
             "maxdate": "1993-01-01",
@@ -3119,17 +2032,6 @@
             "longitude": -75.15
         },
         {
-            "elevation": 573,
-            "mindate": "1931-01-01",
-            "maxdate": "1965-03-01",
-            "latitude": 43.38333,
-            "name": "HOFFMEISTER 3 W, NY US",
-            "datacoverage": 0.9879,
-            "id": "COOP:303916",
-            "elevationUnit": "METERS",
-            "longitude": -74.73333
-        },
-        {
             "elevation": 24.1,
             "mindate": "1972-04-01",
             "maxdate": "1979-12-01",
@@ -3139,17 +2041,6 @@
             "id": "COOP:303919",
             "elevationUnit": "METERS",
             "longitude": -73.08333
-        },
-        {
-            "elevation": 131.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1952-05-01",
-            "latitude": 41.75,
-            "name": "HONK FALLS, NY US",
-            "datacoverage": 1,
-            "id": "COOP:303953",
-            "elevationUnit": "METERS",
-            "longitude": -74.38333
         },
         {
             "elevation": 243.8,
@@ -3218,17 +2109,6 @@
             "longitude": -77.7044
         },
         {
-            "elevation": 98.1,
-            "mindate": "1947-01-01",
-            "maxdate": "1957-03-01",
-            "latitude": 42.25,
-            "name": "HUDSON, NY US",
-            "datacoverage": 0.9501,
-            "id": "COOP:304024",
-            "elevationUnit": "METERS",
-            "longitude": -73.78333
-        },
-        {
             "elevation": 9.1,
             "mindate": "1957-03-01",
             "maxdate": "2013-02-01",
@@ -3240,23 +2120,12 @@
             "longitude": -73.79219
         },
         {
-            "elevation": 499.9,
-            "mindate": "1963-10-01",
-            "maxdate": "1964-12-01",
-            "latitude": 42.2,
-            "name": "HUNTER MOUNTAIN, NY US",
-            "datacoverage": 0.9969,
-            "id": "COOP:304052",
-            "elevationUnit": "METERS",
-            "longitude": -74.21667
-        },
-        {
             "elevation": 424.9,
             "mindate": "1948-05-01",
             "maxdate": "2011-05-01",
             "latitude": 42.4271,
             "name": "HUNTS CORNERS, NY US",
-            "datacoverage": 0.8536,
+            "datacoverage": 0.0397,
             "id": "COOP:304070",
             "elevationUnit": "METERS",
             "longitude": -76.1253
@@ -3271,17 +2140,6 @@
             "id": "COOP:304102",
             "elevationUnit": "METERS",
             "longitude": -74.27558
-        },
-        {
-            "elevation": 177.1,
-            "mindate": "1948-05-01",
-            "maxdate": "1960-09-01",
-            "latitude": 43.06667,
-            "name": "INGHAMS, NY US",
-            "datacoverage": 0.973,
-            "id": "COOP:304111",
-            "elevationUnit": "METERS",
-            "longitude": -74.76667
         },
         {
             "elevation": 25.6,
@@ -3306,39 +2164,6 @@
             "longitude": -76.4491
         },
         {
-            "elevation": 283.2,
-            "mindate": "1931-01-01",
-            "maxdate": "1942-12-01",
-            "latitude": 42.45,
-            "name": "ITHACA, NY US",
-            "datacoverage": 1,
-            "id": "COOP:304178",
-            "elevationUnit": "METERS",
-            "longitude": -76.483333
-        },
-        {
-            "elevation": 118.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1963-09-01",
-            "latitude": 43.01667,
-            "name": "JACKSONBURG, NY US",
-            "datacoverage": 0.9848,
-            "id": "COOP:304182",
-            "elevationUnit": "METERS",
-            "longitude": -74.91667
-        },
-        {
-            "elevation": 424,
-            "mindate": "1931-01-01",
-            "maxdate": "1960-10-01",
-            "latitude": 42.1,
-            "name": "JAMESTOWN, NY US",
-            "datacoverage": 0.9972,
-            "id": "COOP:304206",
-            "elevationUnit": "METERS",
-            "longitude": -79.25
-        },
-        {
             "elevation": 381,
             "mindate": "1960-09-01",
             "maxdate": "2015-11-01",
@@ -3361,56 +2186,12 @@
             "longitude": -79.23333
         },
         {
-            "elevation": 329.2,
-            "mindate": "1931-01-01",
-            "maxdate": "1947-07-01",
-            "latitude": 41.783333,
-            "name": "JEFFERSONVILLE, NY US",
-            "datacoverage": 1,
-            "id": "COOP:304234",
-            "elevationUnit": "METERS",
-            "longitude": -74.933333
-        },
-        {
-            "elevation": 107,
-            "mindate": "1948-05-01",
-            "maxdate": "1965-06-01",
-            "latitude": 42.91667,
-            "name": "JOHNSONVILLE, NY US",
-            "datacoverage": 0.9855,
-            "id": "COOP:304271",
-            "elevationUnit": "METERS",
-            "longitude": -73.51667
-        },
-        {
-            "elevation": 390.1,
-            "mindate": "1955-08-01",
-            "maxdate": "1969-12-01",
-            "latitude": 44.18333,
-            "name": "KEENE VALLEY 1 W, NY US",
-            "datacoverage": 0.0496,
-            "id": "COOP:304332",
-            "elevationUnit": "METERS",
-            "longitude": -73.8
-        },
-        {
-            "elevation": 98.1,
-            "mindate": "1941-07-01",
-            "maxdate": "1951-01-01",
-            "latitude": 43.33333,
-            "name": "KENDALL, NY US",
-            "datacoverage": 0.7214,
-            "id": "COOP:304353",
-            "elevationUnit": "METERS",
-            "longitude": -78.03333
-        },
-        {
             "elevation": 14.9,
             "mindate": "1948-05-01",
             "maxdate": "1973-01-01",
             "latitude": 41.91667,
             "name": "KINGSTON CITY HALL, NY US",
-            "datacoverage": 0.7805,
+            "datacoverage": 0.0673,
             "id": "COOP:304424",
             "elevationUnit": "METERS",
             "longitude": -73.98333
@@ -3427,39 +2208,6 @@
             "longitude": -73.98333
         },
         {
-            "elevation": 3,
-            "mindate": "1957-09-01",
-            "maxdate": "1959-06-01",
-            "latitude": 41.91667,
-            "name": "KINGSTON GAS PLANT, NY US",
-            "datacoverage": 1,
-            "id": "COOP:304429",
-            "elevationUnit": "METERS",
-            "longitude": -73.98333
-        },
-        {
-            "elevation": 723,
-            "mindate": "1937-09-01",
-            "maxdate": "1951-05-01",
-            "latitude": 42,
-            "name": "KNAPP CREEK, NY US",
-            "datacoverage": 1,
-            "id": "COOP:304450",
-            "elevationUnit": "METERS",
-            "longitude": -78.51667
-        },
-        {
-            "elevation": 580,
-            "mindate": "1948-05-01",
-            "maxdate": "1960-10-01",
-            "latitude": 42.4,
-            "name": "KORTRIGHT, NY US",
-            "datacoverage": 0.9797,
-            "id": "COOP:304472",
-            "elevationUnit": "METERS",
-            "longitude": -74.8
-        },
-        {
             "elevation": 527.3,
             "mindate": "1960-11-01",
             "maxdate": "1994-09-01",
@@ -3471,17 +2219,6 @@
             "longitude": -74.8
         },
         {
-            "elevation": 220.1,
-            "mindate": "1948-05-01",
-            "maxdate": "1961-06-01",
-            "latitude": 41.78333,
-            "name": "LACKAWACK, NY US",
-            "datacoverage": 0.9937,
-            "id": "COOP:304486",
-            "elevationUnit": "METERS",
-            "longitude": -74.4
-        },
-        {
             "elevation": 448.1,
             "mindate": "1948-05-01",
             "maxdate": "1981-02-01",
@@ -3491,17 +2228,6 @@
             "id": "COOP:304525",
             "elevationUnit": "METERS",
             "longitude": -74.9
-        },
-        {
-            "elevation": 342,
-            "mindate": "1948-05-01",
-            "maxdate": "1959-06-01",
-            "latitude": 42.06667,
-            "name": "LAKE HILL, NY US",
-            "datacoverage": 0.9927,
-            "id": "COOP:304533",
-            "elevationUnit": "METERS",
-            "longitude": -74.18333
         },
         {
             "elevation": 185.9,
@@ -3526,17 +2252,6 @@
             "longitude": -73.9839
         },
         {
-            "elevation": 24.1,
-            "mindate": "1948-05-01",
-            "maxdate": "1967-12-01",
-            "latitude": 40.83333,
-            "name": "LAKE RONKONKOMA, NY US",
-            "datacoverage": 0.8643,
-            "id": "COOP:304563",
-            "elevationUnit": "METERS",
-            "longitude": -73.13333
-        },
-        {
             "elevation": 335.3,
             "mindate": "1985-11-01",
             "maxdate": "2015-11-01",
@@ -3553,21 +2268,10 @@
             "maxdate": "1976-07-01",
             "latitude": 40.93333,
             "name": "LARCHMONT, NY US",
-            "datacoverage": 0.9999,
+            "datacoverage": 0.0722,
             "id": "COOP:304613",
             "elevationUnit": "METERS",
             "longitude": -73.75
-        },
-        {
-            "elevation": 3,
-            "mindate": "1950-08-01",
-            "maxdate": "1951-03-01",
-            "latitude": 40.73333,
-            "name": "NEW YORK LAUREL HILL, NY US",
-            "datacoverage": 1,
-            "id": "COOP:304632",
-            "elevationUnit": "METERS",
-            "longitude": -73.93333
         },
         {
             "elevation": 142,
@@ -3581,28 +2285,6 @@
             "longitude": -74.6692
         },
         {
-            "elevation": 384,
-            "mindate": "1931-01-01",
-            "maxdate": "1952-08-01",
-            "latitude": 42.58333,
-            "name": "LETCHWORTH PARK, NY US",
-            "datacoverage": 0.9654,
-            "id": "COOP:304698",
-            "elevationUnit": "METERS",
-            "longitude": -78.03333
-        },
-        {
-            "elevation": 580,
-            "mindate": "1948-05-01",
-            "maxdate": "1959-06-01",
-            "latitude": 41.95,
-            "name": "LEWBEACH, NY US",
-            "datacoverage": 0.9852,
-            "id": "COOP:304706",
-            "elevationUnit": "METERS",
-            "longitude": -74.83333
-        },
-        {
             "elevation": 192,
             "mindate": "1987-11-01",
             "maxdate": "1994-04-01",
@@ -3612,17 +2294,6 @@
             "id": "COOP:304717",
             "elevationUnit": "METERS",
             "longitude": -78.96667
-        },
-        {
-            "elevation": 451.1,
-            "mindate": "1948-05-01",
-            "maxdate": "1959-06-01",
-            "latitude": 42.23333,
-            "name": "LEXINGTON 1 SE, NY US",
-            "datacoverage": 0.9927,
-            "id": "COOP:304723",
-            "elevationUnit": "METERS",
-            "longitude": -74.33333
         },
         {
             "elevation": 481.6,
@@ -3645,17 +2316,6 @@
             "id": "COOP:304754",
             "elevationUnit": "METERS",
             "longitude": -75.88333
-        },
-        {
-            "elevation": 342,
-            "mindate": "1931-01-01",
-            "maxdate": "1965-04-01",
-            "latitude": 42.88333,
-            "name": "LINDEN, NY US",
-            "datacoverage": 0.9952,
-            "id": "COOP:304767",
-            "elevationUnit": "METERS",
-            "longitude": -78.16667
         },
         {
             "elevation": 317,
@@ -3834,17 +2494,6 @@
             "longitude": -74.31667
         },
         {
-            "elevation": 313.9,
-            "mindate": "1948-05-01",
-            "maxdate": "1968-02-01",
-            "latitude": 42.98333,
-            "name": "MARCELLUS SOIL CONSERVATION SERVICE, NY US",
-            "datacoverage": 0.9999,
-            "id": "COOP:305072",
-            "elevationUnit": "METERS",
-            "longitude": -76.38333
-        },
-        {
             "elevation": 373.4,
             "mindate": "1984-06-01",
             "maxdate": "2015-11-01",
@@ -3868,11 +2517,11 @@
         },
         {
             "elevation": 67.1,
-            "mindate": "1939-11-01",
+            "mindate": "1952-10-01",
             "maxdate": "1992-08-01",
             "latitude": 44.98333,
             "name": "MASSENA SNELL LOCK, NY US",
-            "datacoverage": 1,
+            "datacoverage": 0.0378,
             "id": "COOP:305129",
             "elevationUnit": "METERS",
             "longitude": -74.78333
@@ -3887,17 +2536,6 @@
             "id": "COOP:305134",
             "elevationUnit": "METERS",
             "longitude": -74.84583
-        },
-        {
-            "elevation": 92,
-            "mindate": "1948-05-01",
-            "maxdate": "1948-08-01",
-            "latitude": 44.93333,
-            "name": "MASSENA HIGH SCHOOL, NY US",
-            "datacoverage": 0.998,
-            "id": "COOP:305139",
-            "elevationUnit": "METERS",
-            "longitude": -74.88333
         },
         {
             "elevation": 6.1,
@@ -3931,17 +2569,6 @@
             "id": "COOP:305180",
             "elevationUnit": "METERS",
             "longitude": -79.50778
-        },
-        {
-            "elevation": 451.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1953-08-01",
-            "latitude": 43.61667,
-            "name": "MCKEEVER, NY US",
-            "datacoverage": 0.8566,
-            "id": "COOP:305199",
-            "elevationUnit": "METERS",
-            "longitude": -75.11667
         },
         {
             "elevation": 11.9,
@@ -4010,17 +2637,6 @@
             "longitude": -74.43306
         },
         {
-            "elevation": 116.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1961-03-01",
-            "latitude": 41.38333,
-            "name": "MIDDLE BRANCH RESERV, NY US",
-            "datacoverage": 0.9918,
-            "id": "COOP:305283",
-            "elevationUnit": "METERS",
-            "longitude": -73.65
-        },
-        {
             "elevation": 220.1,
             "mindate": "1942-09-01",
             "maxdate": "1977-09-01",
@@ -4066,11 +2682,11 @@
         },
         {
             "elevation": 223.1,
-            "mindate": "1941-07-01",
+            "mindate": "1948-05-01",
             "maxdate": "1985-10-01",
             "latitude": 41.95,
             "name": "MILLERTON, NY US",
-            "datacoverage": 0.959,
+            "datacoverage": 0.0603,
             "id": "COOP:305346",
             "elevationUnit": "METERS",
             "longitude": -73.51667
@@ -4096,28 +2712,6 @@
             "id": "COOP:305380",
             "elevationUnit": "METERS",
             "longitude": -73.62333
-        },
-        {
-            "elevation": 27.1,
-            "mindate": "1949-03-01",
-            "maxdate": "1963-05-01",
-            "latitude": 40.73333,
-            "name": "MINEOLA 1 W, NY US",
-            "datacoverage": 0.076,
-            "id": "COOP:305382",
-            "elevationUnit": "METERS",
-            "longitude": -73.65
-        },
-        {
-            "elevation": 38.1,
-            "mindate": "1948-05-01",
-            "maxdate": "1954-01-01",
-            "latitude": 40.73333,
-            "name": "HEMPSTEAD MITCHELL FIELD AFB, NY US",
-            "datacoverage": 0.7804,
-            "id": "COOP:305403",
-            "elevationUnit": "METERS",
-            "longitude": -73.6
         },
         {
             "elevation": 379.5,
@@ -4162,17 +2756,6 @@
             "id": "COOP:305441",
             "elevationUnit": "METERS",
             "longitude": -71.95
-        },
-        {
-            "elevation": 228.9,
-            "mindate": "1948-05-01",
-            "maxdate": "1948-05-01",
-            "latitude": 42.71667,
-            "name": "MORAVIA, NY US",
-            "datacoverage": 0.9819,
-            "id": "COOP:305478",
-            "elevationUnit": "METERS",
-            "longitude": -76.43333
         },
         {
             "elevation": 512.4,
@@ -4252,17 +2835,6 @@
             "longitude": -75.01667
         },
         {
-            "elevation": 396.8,
-            "mindate": "1948-05-01",
-            "maxdate": "1959-07-01",
-            "latitude": 41.83333,
-            "name": "NEVERSINK, NY US",
-            "datacoverage": 0.9629,
-            "id": "COOP:305671",
-            "elevationUnit": "METERS",
-            "longitude": -74.65
-        },
-        {
             "elevation": 413,
             "mindate": "1954-10-01",
             "maxdate": "1987-06-01",
@@ -4272,17 +2844,6 @@
             "id": "COOP:305673",
             "elevationUnit": "METERS",
             "longitude": -78.86701
-        },
-        {
-            "elevation": 601.1,
-            "mindate": "1951-09-01",
-            "maxdate": "1954-03-01",
-            "latitude": 42.28333,
-            "name": "NEW ALBION 1 W, NY US",
-            "datacoverage": 1,
-            "id": "COOP:305675",
-            "elevationUnit": "METERS",
-            "longitude": -78.91667
         },
         {
             "elevation": 606.6,
@@ -4329,28 +2890,6 @@
             "longitude": -75.33333
         },
         {
-            "elevation": 502.9,
-            "mindate": "1956-05-01",
-            "maxdate": "1957-09-01",
-            "latitude": 42.61667,
-            "name": "NEW BERLIN 5 WSW, NY US",
-            "datacoverage": 0.8814,
-            "id": "COOP:305692",
-            "elevationUnit": "METERS",
-            "longitude": -75.43333
-        },
-        {
-            "elevation": 540.1,
-            "mindate": "1956-05-01",
-            "maxdate": "1956-06-01",
-            "latitude": 42.6,
-            "name": "NEW BERLIN 6 WSW, NY US",
-            "datacoverage": 0.998,
-            "id": "COOP:305695",
-            "elevationUnit": "METERS",
-            "longitude": -75.43333
-        },
-        {
             "elevation": 494.1,
             "mindate": "1940-07-01",
             "maxdate": "1978-06-01",
@@ -4371,17 +2910,6 @@
             "id": "COOP:305714",
             "elevationUnit": "METERS",
             "longitude": -74.222
-        },
-        {
-            "elevation": 46,
-            "mindate": "1948-05-01",
-            "maxdate": "1948-10-25",
-            "latitude": 41.63333,
-            "name": "NEW HACKENSACK, NY US",
-            "datacoverage": 0.9925,
-            "id": "COOP:305728",
-            "elevationUnit": "METERS",
-            "longitude": -73.88333
         },
         {
             "elevation": 586.1,
@@ -4439,17 +2967,6 @@
             "longitude": -73.98083
         },
         {
-            "elevation": 6.1,
-            "mindate": "1951-01-01",
-            "maxdate": "1952-12-01",
-            "latitude": 40.6,
-            "name": "NEW YORK BENSONHURST, NY US",
-            "datacoverage": 0.9993,
-            "id": "COOP:305798",
-            "elevationUnit": "METERS",
-            "longitude": -73.96667
-        },
-        {
             "elevation": 27.1,
             "mindate": "1973-08-01",
             "maxdate": "1977-01-01",
@@ -4499,7 +3016,7 @@
             "maxdate": "1973-07-01",
             "latitude": 40.85,
             "name": "NEW YORK UNIVERSITY ST, NY US",
-            "datacoverage": 0.7636,
+            "datacoverage": 0.0574,
             "id": "COOP:305806",
             "elevationUnit": "METERS",
             "longitude": -73.91667
@@ -4514,17 +3031,6 @@
             "id": "COOP:305811",
             "elevationUnit": "METERS",
             "longitude": -73.88035
-        },
-        {
-            "elevation": 3,
-            "mindate": "1948-05-01",
-            "maxdate": "1960-12-30",
-            "latitude": 40.70111,
-            "name": "NEW YORK WEATHER BUREAU CITY, NY US",
-            "datacoverage": 0.9999,
-            "id": "COOP:305816",
-            "elevationUnit": "METERS",
-            "longitude": -74.01527
         },
         {
             "elevation": 24.4,
@@ -4571,17 +3077,6 @@
             "longitude": -74.99972
         },
         {
-            "elevation": 399.9,
-            "mindate": "1948-05-01",
-            "maxdate": "1948-11-01",
-            "latitude": 42.51667,
-            "name": "NORTH COHOCTON SOIL CONSERVATION SERVICE, NY US",
-            "datacoverage": 0.9956,
-            "id": "COOP:305917",
-            "elevationUnit": "METERS",
-            "longitude": -77.46667
-        },
-        {
             "elevation": 271.3,
             "mindate": "1948-05-01",
             "maxdate": "2015-11-01",
@@ -4591,39 +3086,6 @@
             "id": "COOP:305925",
             "elevationUnit": "METERS",
             "longitude": -73.8969
-        },
-        {
-            "elevation": 558.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1948-05-01",
-            "latitude": 43.53333,
-            "name": "NORTH LAKE, NY US",
-            "datacoverage": 0.8182,
-            "id": "COOP:305987",
-            "elevationUnit": "METERS",
-            "longitude": -74.95
-        },
-        {
-            "elevation": 6.1,
-            "mindate": "1942-01-01",
-            "maxdate": "1953-09-01",
-            "latitude": 40.9,
-            "name": "NORTHPORT, NY US",
-            "datacoverage": 0.7448,
-            "id": "COOP:306019",
-            "elevationUnit": "METERS",
-            "longitude": -73.35
-        },
-        {
-            "elevation": 579.1,
-            "mindate": "1948-05-01",
-            "maxdate": "1952-12-01",
-            "latitude": 42.35,
-            "name": "WINDHAM NORTH SETTLE, NY US",
-            "datacoverage": 0.9991,
-            "id": "COOP:306042",
-            "elevationUnit": "METERS",
-            "longitude": -74.28333
         },
         {
             "elevation": 176.2,
@@ -4659,23 +3121,12 @@
             "longitude": -75.5197
         },
         {
-            "elevation": 200.9,
-            "mindate": "1948-05-01",
-            "maxdate": "1962-09-01",
-            "latitude": 42.4,
-            "name": "OAK HILL, NY US",
-            "datacoverage": 0.9306,
-            "id": "COOP:306111",
-            "elevationUnit": "METERS",
-            "longitude": -74.15
-        },
-        {
             "elevation": 280.4,
             "mindate": "1948-05-01",
             "maxdate": "2004-05-01",
             "latitude": 41.5,
             "name": "OAKLAND VALLEY, NY US",
-            "datacoverage": 0.9512,
+            "datacoverage": 0.0407,
             "id": "COOP:306119",
             "elevationUnit": "METERS",
             "longitude": -74.65
@@ -4701,17 +3152,6 @@
             "id": "COOP:306164",
             "elevationUnit": "METERS",
             "longitude": -75.4442
-        },
-        {
-            "elevation": 519.1,
-            "mindate": "1948-05-01",
-            "maxdate": "1948-08-01",
-            "latitude": 43.7,
-            "name": "OLD FORGE THENDARA, NY US",
-            "datacoverage": 0.9898,
-            "id": "COOP:306179",
-            "elevationUnit": "METERS",
-            "longitude": -75
         },
         {
             "elevation": 532.8,
@@ -4747,39 +3187,6 @@
             "longitude": -75.0643
         },
         {
-            "elevation": 351.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1956-06-01",
-            "latitude": 42.45,
-            "name": "ONEONTA, NY US",
-            "datacoverage": 0.9805,
-            "id": "COOP:306224",
-            "elevationUnit": "METERS",
-            "longitude": -75.06667
-        },
-        {
-            "elevation": 351.1,
-            "mindate": "1956-07-01",
-            "maxdate": "1958-11-01",
-            "latitude": 42.45,
-            "name": "ONEONTA, NY US",
-            "datacoverage": 0.8273,
-            "id": "COOP:306225",
-            "elevationUnit": "METERS",
-            "longitude": -75.06667
-        },
-        {
-            "elevation": 353.9,
-            "mindate": "1948-01-01",
-            "maxdate": "1969-06-01",
-            "latitude": 42.45,
-            "name": "ONEONTA 3 SE, NY US",
-            "datacoverage": 0.9497,
-            "id": "COOP:306229",
-            "elevationUnit": "METERS",
-            "longitude": -75
-        },
-        {
             "elevation": 427,
             "mindate": "1971-06-01",
             "maxdate": "1983-06-01",
@@ -4791,28 +3198,6 @@
             "longitude": -75.06667
         },
         {
-            "elevation": 3,
-            "mindate": "1941-07-01",
-            "maxdate": "1960-12-01",
-            "latitude": 41.15,
-            "name": "ORIENT 2 E, NY US",
-            "datacoverage": 0.9998,
-            "id": "COOP:306275",
-            "elevationUnit": "METERS",
-            "longitude": -72.26667
-        },
-        {
-            "elevation": 9.1,
-            "mindate": "1940-10-01",
-            "maxdate": "1959-08-01",
-            "latitude": 41.15,
-            "name": "OSSINING SING SING, NY US",
-            "datacoverage": 0.9868,
-            "id": "COOP:306301",
-            "elevationUnit": "METERS",
-            "longitude": -73.86667
-        },
-        {
             "elevation": 98.8,
             "mindate": "1920-01-01",
             "maxdate": "2015-11-01",
@@ -4822,17 +3207,6 @@
             "id": "COOP:306314",
             "elevationUnit": "METERS",
             "longitude": -76.53685
-        },
-        {
-            "elevation": 460.9,
-            "mindate": "1948-05-01",
-            "maxdate": "1950-03-01",
-            "latitude": 42.46667,
-            "name": "OTEGO, NY US",
-            "datacoverage": 0.998,
-            "id": "COOP:306322",
-            "elevationUnit": "METERS",
-            "longitude": -75.2
         },
         {
             "elevation": 342,
@@ -4901,17 +3275,6 @@
             "longitude": -73.00139
         },
         {
-            "elevation": 509,
-            "mindate": "1949-07-01",
-            "maxdate": "1966-08-01",
-            "latitude": 44.43333,
-            "name": "PAUL SMITHS, NY US",
-            "datacoverage": 0.995,
-            "id": "COOP:306459",
-            "elevationUnit": "METERS",
-            "longitude": -74.26667
-        },
-        {
             "elevation": 310.9,
             "mindate": "1956-10-01",
             "maxdate": "2015-11-01",
@@ -4921,17 +3284,6 @@
             "id": "COOP:306464",
             "elevationUnit": "METERS",
             "longitude": -77.98088
-        },
-        {
-            "elevation": 445,
-            "mindate": "1948-05-01",
-            "maxdate": "1964-06-01",
-            "latitude": 41.93333,
-            "name": "PEEKAMOOSE, NY US",
-            "datacoverage": 0.9897,
-            "id": "COOP:306479",
-            "elevationUnit": "METERS",
-            "longitude": -74.38333
         },
         {
             "elevation": 253,
@@ -4998,39 +3350,6 @@
             "id": "COOP:306538",
             "elevationUnit": "METERS",
             "longitude": -73.57042
-        },
-        {
-            "elevation": 220.1,
-            "mindate": "1956-01-01",
-            "maxdate": "1961-02-01",
-            "latitude": 42.75,
-            "name": "PETERSBURG, NY US",
-            "datacoverage": 0.0545,
-            "id": "COOP:306546",
-            "elevationUnit": "METERS",
-            "longitude": -73.33333
-        },
-        {
-            "elevation": 353.9,
-            "mindate": "1956-01-01",
-            "maxdate": "1961-01-01",
-            "latitude": 42.73333,
-            "name": "PETERSBURG 2 SE, NY US",
-            "datacoverage": 0.9993,
-            "id": "COOP:306549",
-            "elevationUnit": "METERS",
-            "longitude": -73.3
-        },
-        {
-            "elevation": 134.1,
-            "mindate": "1956-12-01",
-            "maxdate": "1959-09-01",
-            "latitude": 41.43333,
-            "name": "PHILLIPSBURG, NY US",
-            "datacoverage": 0.9125,
-            "id": "COOP:306562",
-            "elevationUnit": "METERS",
-            "longitude": -74.36667
         },
         {
             "elevation": 265.2,
@@ -5115,7 +3434,7 @@
             "maxdate": "1997-11-01",
             "latitude": 42.61667,
             "name": "PLYMOUTH, NY US",
-            "datacoverage": 0.9756,
+            "datacoverage": 0.0492,
             "id": "COOP:306685",
             "elevationUnit": "METERS",
             "longitude": -75.6
@@ -5143,17 +3462,6 @@
             "longitude": -79.4866
         },
         {
-            "elevation": 36.9,
-            "mindate": "1948-05-01",
-            "maxdate": "1965-06-01",
-            "latitude": 44.05,
-            "name": "PORT HENRY, NY US",
-            "datacoverage": 0.9952,
-            "id": "COOP:306765",
-            "elevationUnit": "METERS",
-            "longitude": -73.45
-        },
-        {
             "elevation": 3,
             "mindate": "1953-05-01",
             "maxdate": "1976-07-24",
@@ -5174,17 +3482,6 @@
             "id": "COOP:306774",
             "elevationUnit": "METERS",
             "longitude": -74.6905
-        },
-        {
-            "elevation": 435.9,
-            "mindate": "1962-11-01",
-            "maxdate": "1968-12-01",
-            "latitude": 42.03333,
-            "name": "PORTVILLE, NY US",
-            "datacoverage": 0.9862,
-            "id": "COOP:306789",
-            "elevationUnit": "METERS",
-            "longitude": -78.33333
         },
         {
             "elevation": 31.1,
@@ -5264,28 +3561,6 @@
             "longitude": -74.44222
         },
         {
-            "elevation": 348.1,
-            "mindate": "1959-01-01",
-            "maxdate": "1960-02-01",
-            "latitude": 42.31667,
-            "name": "PRATTSVILLE 2, NY US",
-            "datacoverage": 1,
-            "id": "COOP:306842",
-            "elevationUnit": "METERS",
-            "longitude": -74.43333
-        },
-        {
-            "elevation": 267.9,
-            "mindate": "1948-05-01",
-            "maxdate": "1963-02-01",
-            "latitude": 42.43333,
-            "name": "PRESTON HOLLOW, NY US",
-            "datacoverage": 0.9889,
-            "id": "COOP:306848",
-            "elevationUnit": "METERS",
-            "longitude": -74.2
-        },
-        {
             "elevation": 121.6,
             "mindate": "1948-01-01",
             "maxdate": "2015-11-01",
@@ -5295,17 +3570,6 @@
             "id": "COOP:306867",
             "elevationUnit": "METERS",
             "longitude": -76.1163
-        },
-        {
-            "elevation": 542.8,
-            "mindate": "1931-01-01",
-            "maxdate": "1952-02-01",
-            "latitude": 43.81667,
-            "name": "RAQUETTE LAKE, NY US",
-            "datacoverage": 0.9529,
-            "id": "COOP:306941",
-            "elevationUnit": "METERS",
-            "longitude": -74.66667
         },
         {
             "elevation": 493.8,
@@ -5330,17 +3594,6 @@
             "longitude": -75.68333
         },
         {
-            "elevation": 622.1,
-            "mindate": "1948-05-01",
-            "maxdate": "1959-06-01",
-            "latitude": 42.31667,
-            "name": "RELAY, NY US",
-            "datacoverage": 0.9852,
-            "id": "COOP:306999",
-            "elevationUnit": "METERS",
-            "longitude": -74.63333
-        },
-        {
             "elevation": 527.9,
             "mindate": "1971-06-01",
             "maxdate": "1974-11-01",
@@ -5361,50 +3614,6 @@
             "id": "COOP:307035",
             "elevationUnit": "METERS",
             "longitude": -73.8686
-        },
-        {
-            "elevation": 448.1,
-            "mindate": "1948-05-01",
-            "maxdate": "1950-09-22",
-            "latitude": 42.36667,
-            "name": "RICHFORD, NY US",
-            "datacoverage": 0.9998,
-            "id": "COOP:307069",
-            "elevationUnit": "METERS",
-            "longitude": -76.21667
-        },
-        {
-            "elevation": 335.9,
-            "mindate": "1950-10-01",
-            "maxdate": "1954-06-01",
-            "latitude": 42.35,
-            "name": "RICHFORD, NY US",
-            "datacoverage": 0.6671,
-            "id": "COOP:307070",
-            "elevationUnit": "METERS",
-            "longitude": -76.2
-        },
-        {
-            "elevation": 159.1,
-            "mindate": "1947-07-01",
-            "maxdate": "1952-07-01",
-            "latitude": 43.56667,
-            "name": "RICHLAND, NY US",
-            "datacoverage": 0.9829,
-            "id": "COOP:307077",
-            "elevationUnit": "METERS",
-            "longitude": -76.05
-        },
-        {
-            "elevation": 11.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1967-11-01",
-            "latitude": 41.85,
-            "name": "RIFTON 1 N, NY US",
-            "datacoverage": 1,
-            "id": "COOP:307115",
-            "elevationUnit": "METERS",
-            "longitude": -74.05
         },
         {
             "elevation": 228.6,
@@ -5452,17 +3661,6 @@
         },
         {
             "elevation": 387.1,
-            "mindate": "1956-11-01",
-            "maxdate": "1963-05-01",
-            "latitude": 41.5916,
-            "name": "ROCK HILL 3 SW, NY US",
-            "datacoverage": 1,
-            "id": "COOP:307205",
-            "elevationUnit": "METERS",
-            "longitude": -74.6143
-        },
-        {
-            "elevation": 387.1,
             "mindate": "1963-06-01",
             "maxdate": "2015-11-01",
             "latitude": 41.5916,
@@ -5471,17 +3669,6 @@
             "id": "COOP:307210",
             "elevationUnit": "METERS",
             "longitude": -74.6143
-        },
-        {
-            "elevation": 158.2,
-            "mindate": "1948-05-01",
-            "maxdate": "1960-06-01",
-            "latitude": 43.23333,
-            "name": "GRIFFISS AFB, NY US",
-            "datacoverage": 0.9794,
-            "id": "COOP:307246",
-            "elevationUnit": "METERS",
-            "longitude": -75.4
         },
         {
             "elevation": 454.2,
@@ -5561,45 +3748,12 @@
             "longitude": -74.66667
         },
         {
-            "elevation": 527.9,
-            "mindate": "1956-06-01",
-            "maxdate": "1958-12-01",
-            "latitude": 44.05,
-            "name": "SABATTIS WHITNEY PAR, NY US",
-            "datacoverage": 0.9995,
-            "id": "COOP:307356",
-            "elevationUnit": "METERS",
-            "longitude": -74.63333
-        },
-        {
-            "elevation": 107,
-            "mindate": "1955-10-01",
-            "maxdate": "1960-10-01",
-            "latitude": 43,
-            "name": "ST JOHNSVILLE, NY US",
-            "datacoverage": 0.9993,
-            "id": "COOP:307382",
-            "elevationUnit": "METERS",
-            "longitude": -74.68333
-        },
-        {
-            "elevation": 418.2,
-            "mindate": "1948-05-01",
-            "maxdate": "1950-12-25",
-            "latitude": 42.159,
-            "name": "SALAMANCA, NY US",
-            "datacoverage": 0.8741,
-            "id": "COOP:307397",
-            "elevationUnit": "METERS",
-            "longitude": -78.722
-        },
-        {
             "elevation": 418.2,
             "mindate": "1951-01-01",
             "maxdate": "2009-01-01",
             "latitude": 42.159,
             "name": "SALAMANCA, NY US",
-            "datacoverage": 0.669,
+            "datacoverage": 0.0474,
             "id": "COOP:307398",
             "elevationUnit": "METERS",
             "longitude": -78.722
@@ -5649,28 +3803,6 @@
             "longitude": -76.0972
         },
         {
-            "elevation": 481.9,
-            "mindate": "1948-02-01",
-            "maxdate": "1966-04-01",
-            "latitude": 44.33333,
-            "name": "SARANAC LAKE, NY US",
-            "datacoverage": 1,
-            "id": "COOP:307472",
-            "elevationUnit": "METERS",
-            "longitude": -74.13333
-        },
-        {
-            "elevation": 167.9,
-            "mindate": "1941-09-01",
-            "maxdate": "1951-11-01",
-            "latitude": 43.1,
-            "name": "SARATOGA SPRINGS 4 N, NY US",
-            "datacoverage": 1,
-            "id": "COOP:307480",
-            "elevationUnit": "METERS",
-            "longitude": -73.83333
-        },
-        {
             "elevation": 99.4,
             "mindate": "1955-08-01",
             "maxdate": "2015-11-01",
@@ -5702,17 +3834,6 @@
             "id": "COOP:307498",
             "elevationUnit": "METERS",
             "longitude": -73.76667
-        },
-        {
-            "elevation": 39.9,
-            "mindate": "1948-05-01",
-            "maxdate": "1965-06-01",
-            "latitude": 42.9,
-            "name": "SCHAGHTICOKE 1 W, NY US",
-            "datacoverage": 0.9369,
-            "id": "COOP:307505",
-            "elevationUnit": "METERS",
-            "longitude": -73.6
         },
         {
             "elevation": 67.1,
@@ -5748,17 +3869,6 @@
             "longitude": -74.3036
         },
         {
-            "elevation": 262.1,
-            "mindate": "1948-08-01",
-            "maxdate": "1967-02-01",
-            "latitude": 43.83333,
-            "name": "SCHROON LAKE, NY US",
-            "datacoverage": 0.6324,
-            "id": "COOP:307524",
-            "elevationUnit": "METERS",
-            "longitude": -73.76667
-        },
-        {
             "elevation": 284.1,
             "mindate": "1948-05-01",
             "maxdate": "1978-11-01",
@@ -5770,23 +3880,12 @@
             "longitude": -73.7
         },
         {
-            "elevation": 34.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1963-07-01",
-            "latitude": 43.11667,
-            "name": "SCHUYLERVILLE LOCK 5, NY US",
-            "datacoverage": 0.9617,
-            "id": "COOP:307544",
-            "elevationUnit": "METERS",
-            "longitude": -73.58333
-        },
-        {
             "elevation": 36.6,
             "mindate": "1948-05-01",
             "maxdate": "2014-01-01",
             "latitude": 43.1131,
             "name": "SCHUYLERVILLE, NY US",
-            "datacoverage": 0.9512,
+            "datacoverage": 0.0488,
             "id": "COOP:307549",
             "elevationUnit": "METERS",
             "longitude": -73.5775
@@ -5801,17 +3900,6 @@
             "id": "COOP:307557",
             "elevationUnit": "METERS",
             "longitude": -77.98333
-        },
-        {
-            "elevation": 70.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1963-08-01",
-            "latitude": 42.81667,
-            "name": "SCOTIA, NY US",
-            "datacoverage": 0.9516,
-            "id": "COOP:307568",
-            "elevationUnit": "METERS",
-            "longitude": -73.98333
         },
         {
             "elevation": 30.5,
@@ -5845,28 +3933,6 @@
             "id": "COOP:307633",
             "elevationUnit": "METERS",
             "longitude": -73.1047
-        },
-        {
-            "elevation": 249.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1953-09-01",
-            "latitude": 42.8,
-            "name": "SHARON SPRINGS 1 N, NY US",
-            "datacoverage": 0.9414,
-            "id": "COOP:307659",
-            "elevationUnit": "METERS",
-            "longitude": -74.6
-        },
-        {
-            "elevation": 415.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1951-11-01",
-            "latitude": 42.78333,
-            "name": "SHARON SPRINGS 2 SW, NY US",
-            "datacoverage": 0.9124,
-            "id": "COOP:307664",
-            "elevationUnit": "METERS",
-            "longitude": -74.66667
         },
         {
             "elevation": 333.8,
@@ -5984,7 +4050,7 @@
             "maxdate": "2006-12-01",
             "latitude": 42.38333,
             "name": "SMITHVILLE FLATS, NY US",
-            "datacoverage": 0.9512,
+            "datacoverage": 0.0467,
             "id": "COOP:307830",
             "elevationUnit": "METERS",
             "longitude": -75.81667
@@ -6002,17 +4068,6 @@
         },
         {
             "elevation": 189,
-            "mindate": "1948-05-01",
-            "maxdate": "1950-07-01",
-            "latitude": 42.68333,
-            "name": "SONYEA, NY US",
-            "datacoverage": 0.9999,
-            "id": "COOP:307864",
-            "elevationUnit": "METERS",
-            "longitude": -77.85
-        },
-        {
-            "elevation": 189,
             "mindate": "1968-11-01",
             "maxdate": "1971-08-01",
             "latitude": 43.08333,
@@ -6021,17 +4076,6 @@
             "id": "COOP:307906",
             "elevationUnit": "METERS",
             "longitude": -78.06667
-        },
-        {
-            "elevation": 476.1,
-            "mindate": "1948-05-01",
-            "maxdate": "1949-05-01",
-            "latitude": 42.18333,
-            "name": "SOUTH CANISTEO, NY US",
-            "datacoverage": 0.9992,
-            "id": "COOP:307918",
-            "elevationUnit": "METERS",
-            "longitude": -77.55
         },
         {
             "elevation": 244.1,
@@ -6045,50 +4089,6 @@
             "longitude": -75.2
         },
         {
-            "elevation": 430.1,
-            "mindate": "1948-05-01",
-            "maxdate": "1953-01-01",
-            "latitude": 42.53333,
-            "name": "SOUTH NEW BERLIN, NY US",
-            "datacoverage": 0.8536,
-            "id": "COOP:307998",
-            "elevationUnit": "METERS",
-            "longitude": -75.43333
-        },
-        {
-            "elevation": 476.1,
-            "mindate": "1956-04-01",
-            "maxdate": "1958-05-01",
-            "latitude": 42.58333,
-            "name": "SOUTH NEW BERLIN 4 N, NY US",
-            "datacoverage": 0.049,
-            "id": "COOP:308003",
-            "elevationUnit": "METERS",
-            "longitude": -75.43333
-        },
-        {
-            "elevation": 537.1,
-            "mindate": "1956-04-01",
-            "maxdate": "1957-09-01",
-            "latitude": 42.6,
-            "name": "SOUTH NEW BERLIN 5 N, NY US",
-            "datacoverage": 0.9998,
-            "id": "COOP:308006",
-            "elevationUnit": "METERS",
-            "longitude": -75.43333
-        },
-        {
-            "elevation": 299,
-            "mindate": "1961-12-01",
-            "maxdate": "1965-05-01",
-            "latitude": 43.78333,
-            "name": "SOUTH SCHROON, NY US",
-            "datacoverage": 1,
-            "id": "COOP:308036",
-            "elevationUnit": "METERS",
-            "longitude": -73.8
-        },
-        {
             "elevation": 331.9,
             "mindate": "1931-10-01",
             "maxdate": "1982-08-01",
@@ -6098,17 +4098,6 @@
             "id": "COOP:308058",
             "elevationUnit": "METERS",
             "longitude": -78.6
-        },
-        {
-            "elevation": 18,
-            "mindate": "1948-05-01",
-            "maxdate": "1953-01-01",
-            "latitude": 41.03333,
-            "name": "SPARKILL, NY US",
-            "datacoverage": 0.9512,
-            "id": "COOP:308072",
-            "elevationUnit": "METERS",
-            "longitude": -73.93333
         },
         {
             "elevation": 530.4,
@@ -6144,83 +4133,6 @@
             "longitude": -76.5
         },
         {
-            "elevation": 323.1,
-            "mindate": "1956-04-01",
-            "maxdate": "1961-01-01",
-            "latitude": 42.2,
-            "name": "SPENCER 2 WSW, NY US",
-            "datacoverage": 0.9991,
-            "id": "COOP:308089",
-            "elevationUnit": "METERS",
-            "longitude": -76.53333
-        },
-        {
-            "elevation": 317,
-            "mindate": "1956-01-01",
-            "maxdate": "1956-07-01",
-            "latitude": 42.2,
-            "name": "SPENCER 2 W, NY US",
-            "datacoverage": 1,
-            "id": "COOP:308090",
-            "elevationUnit": "METERS",
-            "longitude": -76.53333
-        },
-        {
-            "elevation": 317,
-            "mindate": "1957-05-01",
-            "maxdate": "1961-01-01",
-            "latitude": 42.2,
-            "name": "SPENCER 2 W, NY US",
-            "datacoverage": 0.9983,
-            "id": "COOP:308091",
-            "elevationUnit": "METERS",
-            "longitude": -76.53333
-        },
-        {
-            "elevation": 384,
-            "mindate": "1956-01-01",
-            "maxdate": "1961-01-31",
-            "latitude": 42.16667,
-            "name": "SPENCER 4 SW, NY US",
-            "datacoverage": 0.0734,
-            "id": "COOP:308092",
-            "elevationUnit": "METERS",
-            "longitude": -76.51667
-        },
-        {
-            "elevation": 430.1,
-            "mindate": "1956-04-01",
-            "maxdate": "1957-04-26",
-            "latitude": 42.23333,
-            "name": "SPENCER 4 NW, NY US",
-            "datacoverage": 0.0376,
-            "id": "COOP:308094",
-            "elevationUnit": "METERS",
-            "longitude": -76.53333
-        },
-        {
-            "elevation": 313.9,
-            "mindate": "1957-04-01",
-            "maxdate": "1960-06-01",
-            "latitude": 42.23333,
-            "name": "SPENCER 2, NY US",
-            "datacoverage": 0.0519,
-            "id": "COOP:308095",
-            "elevationUnit": "METERS",
-            "longitude": -76.5
-        },
-        {
-            "elevation": 192,
-            "mindate": "1942-09-01",
-            "maxdate": "1959-05-01",
-            "latitude": 42.33333,
-            "name": "SPENCERTOWN, NY US",
-            "datacoverage": 0.9852,
-            "id": "COOP:308096",
-            "elevationUnit": "METERS",
-            "longitude": -73.55
-        },
-        {
             "elevation": 118.9,
             "mindate": "1931-01-01",
             "maxdate": "1975-08-01",
@@ -6230,17 +4142,6 @@
             "id": "COOP:308104",
             "elevationUnit": "METERS",
             "longitude": -73.75
-        },
-        {
-            "elevation": 136.9,
-            "mindate": "1948-05-01",
-            "maxdate": "1953-01-01",
-            "latitude": 41.11667,
-            "name": "SPRING VALLEY, NY US",
-            "datacoverage": 0.9024,
-            "id": "COOP:308130",
-            "elevationUnit": "METERS",
-            "longitude": -74.05
         },
         {
             "elevation": 459.6,
@@ -6265,28 +4166,6 @@
             "longitude": -78.5767
         },
         {
-            "elevation": 366.1,
-            "mindate": "1948-05-01",
-            "maxdate": "1959-12-01",
-            "latitude": 43.13333,
-            "name": "SPRITE CREEK, NY US",
-            "datacoverage": 0.9855,
-            "id": "COOP:308138",
-            "elevationUnit": "METERS",
-            "longitude": -74.66667
-        },
-        {
-            "elevation": 278,
-            "mindate": "1931-10-01",
-            "maxdate": "1967-09-01",
-            "latitude": 42.98333,
-            "name": "STAFFORD, NY US",
-            "datacoverage": 0.9931,
-            "id": "COOP:308152",
-            "elevationUnit": "METERS",
-            "longitude": -78.08333
-        },
-        {
             "elevation": 542.2,
             "mindate": "1948-05-01",
             "maxdate": "2004-09-01",
@@ -6307,28 +4186,6 @@
             "id": "COOP:308223",
             "elevationUnit": "METERS",
             "longitude": -74.23667
-        },
-        {
-            "elevation": 177.1,
-            "mindate": "1948-06-01",
-            "maxdate": "1964-02-01",
-            "latitude": 41.5,
-            "name": "STEWART FIELD, NY US",
-            "datacoverage": 1,
-            "id": "COOP:308232",
-            "elevationUnit": "METERS",
-            "longitude": -74.1
-        },
-        {
-            "elevation": 470,
-            "mindate": "1948-05-01",
-            "maxdate": "1958-10-01",
-            "latitude": 43.13333,
-            "name": "STEWARTS LANDING, NY US",
-            "datacoverage": 0.9443,
-            "id": "COOP:308240",
-            "elevationUnit": "METERS",
-            "longitude": -74.6
         },
         {
             "elevation": 515.1,
@@ -6375,17 +4232,6 @@
             "longitude": -73.75
         },
         {
-            "elevation": 153,
-            "mindate": "1940-07-01",
-            "maxdate": "1955-08-01",
-            "latitude": 41.11667,
-            "name": "SUFFERN, NY US",
-            "datacoverage": 0.7417,
-            "id": "COOP:308321",
-            "elevationUnit": "METERS",
-            "longitude": -74.11667
-        },
-        {
             "elevation": 82.3,
             "mindate": "1956-05-01",
             "maxdate": "1999-02-01",
@@ -6395,28 +4241,6 @@
             "id": "COOP:308322",
             "elevationUnit": "METERS",
             "longitude": -74.15722
-        },
-        {
-            "elevation": 625.1,
-            "mindate": "1948-05-01",
-            "maxdate": "1949-10-01",
-            "latitude": 42.58333,
-            "name": "SUMMIT, NY US",
-            "datacoverage": 0.998,
-            "id": "COOP:308338",
-            "elevationUnit": "METERS",
-            "longitude": -74.58333
-        },
-        {
-            "elevation": 305.1,
-            "mindate": "1948-05-01",
-            "maxdate": "1959-06-01",
-            "latitude": 41.88333,
-            "name": "SUNDOWN, NY US",
-            "datacoverage": 0.9778,
-            "id": "COOP:308352",
-            "elevationUnit": "METERS",
-            "longitude": -74.46667
         },
         {
             "elevation": 125.9,
@@ -6441,17 +4265,6 @@
             "longitude": -76.1344
         },
         {
-            "elevation": 548.9,
-            "mindate": "1948-05-01",
-            "maxdate": "1958-12-01",
-            "latitude": 42.18333,
-            "name": "TANNERSVILLE SEWAGE, NY US",
-            "datacoverage": 0.9997,
-            "id": "COOP:308403",
-            "elevationUnit": "METERS",
-            "longitude": -74.15
-        },
-        {
             "elevation": 586.1,
             "mindate": "1959-01-01",
             "maxdate": "1974-10-01",
@@ -6474,17 +4287,6 @@
             "longitude": -74.1572
         },
         {
-            "elevation": 420.9,
-            "mindate": "1948-05-01",
-            "maxdate": "1959-05-01",
-            "latitude": 42.13333,
-            "name": "TERRY CLOVE, NY US",
-            "datacoverage": 0.8873,
-            "id": "COOP:308432",
-            "elevationUnit": "METERS",
-            "longitude": -74.9
-        },
-        {
             "elevation": 110,
             "mindate": "1948-05-01",
             "maxdate": "1979-09-01",
@@ -6501,7 +4303,7 @@
             "maxdate": "2013-01-01",
             "latitude": 42.20722,
             "name": "THURSTON, NY US",
-            "datacoverage": 0.5793,
+            "datacoverage": 0.0402,
             "id": "COOP:308498",
             "elevationUnit": "METERS",
             "longitude": -77.33056
@@ -6538,28 +4340,6 @@
             "id": "COOP:308507",
             "elevationUnit": "METERS",
             "longitude": -73.4281
-        },
-        {
-            "elevation": 121.9,
-            "mindate": "1948-11-01",
-            "maxdate": "1954-01-01",
-            "latitude": 41.4,
-            "name": "TILLY FOSTER, NY US",
-            "datacoverage": 0.7283,
-            "id": "COOP:308512",
-            "elevationUnit": "METERS",
-            "longitude": -73.65
-        },
-        {
-            "elevation": 82,
-            "mindate": "1948-05-01",
-            "maxdate": "1961-03-01",
-            "latitude": 41.33333,
-            "name": "TITICUS, NY US",
-            "datacoverage": 0.9742,
-            "id": "COOP:308523",
-            "elevationUnit": "METERS",
-            "longitude": -73.65
         },
         {
             "elevation": 243.8,
@@ -6615,28 +4395,6 @@
             "id": "COOP:308611",
             "elevationUnit": "METERS",
             "longitude": -76.01667
-        },
-        {
-            "elevation": 427,
-            "mindate": "1948-05-01",
-            "maxdate": "1951-11-01",
-            "latitude": 42.76667,
-            "name": "TRUXTON 4 N, NY US",
-            "datacoverage": 0.998,
-            "id": "COOP:308614",
-            "elevationUnit": "METERS",
-            "longitude": -76.03333
-        },
-        {
-            "elevation": 534,
-            "mindate": "1948-05-01",
-            "maxdate": "1951-11-01",
-            "latitude": 42.78333,
-            "name": "TRUXTON 5 N, NY US",
-            "datacoverage": 0.6997,
-            "id": "COOP:308619",
-            "elevationUnit": "METERS",
-            "longitude": -76.03333
         },
         {
             "elevation": 396.2,
@@ -6710,21 +4468,10 @@
             "maxdate": "2014-01-01",
             "latitude": 40.87056,
             "name": "UPTON, NY US",
-            "datacoverage": 0.9216,
+            "datacoverage": 0.0389,
             "id": "COOP:308720",
             "elevationUnit": "METERS",
             "longitude": -72.89139
-        },
-        {
-            "elevation": 125,
-            "mindate": "1931-01-01",
-            "maxdate": "1948-11-01",
-            "latitude": 43.11667,
-            "name": "UTICA HARBOR POINT, NY US",
-            "datacoverage": 0.9768,
-            "id": "COOP:308733",
-            "elevationUnit": "METERS",
-            "longitude": -75.23333
         },
         {
             "elevation": 216.7,
@@ -6736,17 +4483,6 @@
             "id": "COOP:308737",
             "elevationUnit": "METERS",
             "longitude": -75.38389
-        },
-        {
-            "elevation": 163.1,
-            "mindate": "1945-11-01",
-            "maxdate": "1950-12-29",
-            "latitude": 43.16667,
-            "name": "UTICA CAA AIRPORT, NY US",
-            "datacoverage": 0.9512,
-            "id": "COOP:308738",
-            "elevationUnit": "METERS",
-            "longitude": -75.31667
         },
         {
             "elevation": 176.8,
@@ -6780,17 +4516,6 @@
             "id": "COOP:308746",
             "elevationUnit": "METERS",
             "longitude": -73.6833
-        },
-        {
-            "elevation": 113.1,
-            "mindate": "1948-05-01",
-            "maxdate": "1961-03-01",
-            "latitude": 41.06667,
-            "name": "VALHALLA 2 E, NY US",
-            "datacoverage": 0.8193,
-            "id": "COOP:308749",
-            "elevationUnit": "METERS",
-            "longitude": -73.76667
         },
         {
             "elevation": 33.5,
@@ -6837,28 +4562,6 @@
             "longitude": -77.4473
         },
         {
-            "elevation": 98.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1948-10-01",
-            "latitude": 42.7,
-            "name": "VOORHEESVILLE DEPOT, NY US",
-            "datacoverage": 0.6635,
-            "id": "COOP:308870",
-            "elevationUnit": "METERS",
-            "longitude": -73.95
-        },
-        {
-            "elevation": 121.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1959-06-01",
-            "latitude": 41.56667,
-            "name": "WALDEN 2 NE, NY US",
-            "datacoverage": 1,
-            "id": "COOP:308902",
-            "elevationUnit": "METERS",
-            "longitude": -74.16667
-        },
-        {
             "elevation": 115.8,
             "mindate": "1972-07-01",
             "maxdate": "2015-11-01",
@@ -6881,17 +4584,6 @@
             "longitude": -78.5878
         },
         {
-            "elevation": 488,
-            "mindate": "1948-05-01",
-            "maxdate": "1950-09-01",
-            "latitude": 42.43333,
-            "name": "WALLACE SOIL CONSERVATION SERVICE, NY US",
-            "datacoverage": 0.9996,
-            "id": "COOP:308924",
-            "elevationUnit": "METERS",
-            "longitude": -77.46667
-        },
-        {
             "elevation": 451.1,
             "mindate": "1997-01-01",
             "maxdate": "2015-11-01",
@@ -6901,17 +4593,6 @@
             "id": "COOP:308932",
             "elevationUnit": "METERS",
             "longitude": -75.1455
-        },
-        {
-            "elevation": 548.9,
-            "mindate": "1945-11-01",
-            "maxdate": "1956-07-01",
-            "latitude": 42.23333,
-            "name": "WALTON 5 NE, NY US",
-            "datacoverage": 1,
-            "id": "COOP:308935",
-            "elevationUnit": "METERS",
-            "longitude": -75.08333
         },
         {
             "elevation": 378,
@@ -6945,17 +4626,6 @@
             "id": "COOP:308946",
             "elevationUnit": "METERS",
             "longitude": -73.5053
-        },
-        {
-            "elevation": 34.7,
-            "mindate": "1931-01-01",
-            "maxdate": "1950-11-01",
-            "latitude": 41.65,
-            "name": "WAPPINGERS FALLS, NY US",
-            "datacoverage": 0.9833,
-            "id": "COOP:308949",
-            "elevationUnit": "METERS",
-            "longitude": -73.86667
         },
         {
             "elevation": 237.7,
@@ -7101,28 +4771,6 @@
             "longitude": -77.98333
         },
         {
-            "elevation": 598,
-            "mindate": "1948-01-01",
-            "maxdate": "1950-03-01",
-            "latitude": 42.3,
-            "name": "WEST ALMOND, NY US",
-            "datacoverage": 0.6662,
-            "id": "COOP:309087",
-            "elevationUnit": "METERS",
-            "longitude": -77.88333
-        },
-        {
-            "elevation": 531,
-            "mindate": "1950-01-01",
-            "maxdate": "1955-08-01",
-            "latitude": 42.28333,
-            "name": "WEST ALMOND 3 W, NY US",
-            "datacoverage": 0.998,
-            "id": "COOP:309088",
-            "elevationUnit": "METERS",
-            "longitude": -77.93333
-        },
-        {
             "elevation": 301.8,
             "mindate": "2015-07-01",
             "maxdate": "2015-11-01",
@@ -7132,17 +4780,6 @@
             "id": "COOP:309089",
             "elevationUnit": "METERS",
             "longitude": -77.534
-        },
-        {
-            "elevation": 153,
-            "mindate": "1948-05-01",
-            "maxdate": "1952-09-01",
-            "latitude": 41.41667,
-            "name": "WEST BRANCH, NY US",
-            "datacoverage": 0.9618,
-            "id": "COOP:309110",
-            "elevationUnit": "METERS",
-            "longitude": -73.7
         },
         {
             "elevation": 27.4,
@@ -7178,17 +4815,6 @@
             "longitude": -73.70463
         },
         {
-            "elevation": 353.9,
-            "mindate": "1948-05-01",
-            "maxdate": "1959-06-01",
-            "latitude": 42.51667,
-            "name": "WESTERLO, NY US",
-            "datacoverage": 0.8359,
-            "id": "COOP:309178",
-            "elevationUnit": "METERS",
-            "longitude": -74.05
-        },
-        {
             "elevation": 215.5,
             "mindate": "1941-07-01",
             "maxdate": "2003-02-01",
@@ -7205,21 +4831,10 @@
             "maxdate": "2011-04-01",
             "latitude": 42.1454,
             "name": "WEST JASPER, NY US",
-            "datacoverage": 0.8048,
+            "datacoverage": 0.0345,
             "id": "COOP:309229",
             "elevationUnit": "METERS",
             "longitude": -77.5661
-        },
-        {
-            "elevation": 458.1,
-            "mindate": "1948-05-01",
-            "maxdate": "1959-06-01",
-            "latitude": 42.2,
-            "name": "WEST KILL, NY US",
-            "datacoverage": 0.9778,
-            "id": "COOP:309237",
-            "elevationUnit": "METERS",
-            "longitude": -74.38333
         },
         {
             "elevation": 172.2,
@@ -7288,23 +4903,12 @@
             "longitude": -78.75
         },
         {
-            "elevation": 299,
-            "mindate": "1948-05-01",
-            "maxdate": "1959-06-01",
-            "latitude": 41.95,
-            "name": "WEST SHOKAN 3 SW, NY US",
-            "datacoverage": 0.9703,
-            "id": "COOP:309311",
-            "elevationUnit": "METERS",
-            "longitude": -74.31667
-        },
-        {
             "elevation": 226.2,
             "mindate": "1948-05-01",
             "maxdate": "2014-01-01",
             "latitude": 44.8418,
             "name": "WHIPPLEVILLE 2 NW, NY US",
-            "datacoverage": 0.9756,
+            "datacoverage": 0.059,
             "id": "COOP:309374",
             "elevationUnit": "METERS",
             "longitude": -74.2828
@@ -7326,7 +4930,7 @@
             "maxdate": "1992-03-01",
             "latitude": 41.01667,
             "name": "WHITE PLAINS MAPLE M, NY US",
-            "datacoverage": 0.9512,
+            "datacoverage": 0.0593,
             "id": "COOP:309400",
             "elevationUnit": "METERS",
             "longitude": -73.73333
@@ -7341,17 +4945,6 @@
             "id": "COOP:309405",
             "elevationUnit": "METERS",
             "longitude": -73.70463
-        },
-        {
-            "elevation": 241.1,
-            "mindate": "1948-05-01",
-            "maxdate": "1961-03-01",
-            "latitude": 41.5,
-            "name": "WHITE POND, NY US",
-            "datacoverage": 0.9225,
-            "id": "COOP:309413",
-            "elevationUnit": "METERS",
-            "longitude": -73.75
         },
         {
             "elevation": 661.4,
@@ -7442,28 +5035,6 @@
             "longitude": -78.83333
         },
         {
-            "elevation": 579.1,
-            "mindate": "1953-01-01",
-            "maxdate": "1959-06-01",
-            "latitude": 42.35,
-            "name": "WINDHAM NORTH SETTLE, NY US",
-            "datacoverage": 0.9881,
-            "id": "COOP:309512",
-            "elevationUnit": "METERS",
-            "longitude": -74.28333
-        },
-        {
-            "elevation": 458.1,
-            "mindate": "1960-07-01",
-            "maxdate": "1969-01-01",
-            "latitude": 42.3,
-            "name": "WINDHAM, NY US",
-            "datacoverage": 0.9994,
-            "id": "COOP:309514",
-            "elevationUnit": "METERS",
-            "longitude": -74.25
-        },
-        {
             "elevation": 512.1,
             "mindate": "1948-05-01",
             "maxdate": "2008-09-01",
@@ -7508,23 +5079,12 @@
             "longitude": -76.86667
         },
         {
-            "elevation": 556.3,
-            "mindate": "1933-07-01",
-            "maxdate": "1942-02-01",
-            "latitude": 42.033333,
-            "name": "WOODHULL, NY US",
-            "datacoverage": 0.7501,
-            "id": "COOP:309571",
-            "elevationUnit": "METERS",
-            "longitude": -77.483333
-        },
-        {
             "elevation": 42.7,
             "mindate": "1948-05-01",
             "maxdate": "1990-01-01",
             "latitude": 41.01667,
             "name": "WOODLANDS ARDSLEY, NY US",
-            "datacoverage": 0.878,
+            "datacoverage": 0.0697,
             "id": "COOP:309576",
             "elevationUnit": "METERS",
             "longitude": -73.85
@@ -7539,17 +5099,6 @@
             "id": "COOP:309593",
             "elevationUnit": "METERS",
             "longitude": -78.1481
-        },
-        {
-            "elevation": 128,
-            "mindate": "1942-01-01",
-            "maxdate": "1950-01-01",
-            "latitude": 41.26667,
-            "name": "YORKTOWN HEIGHTS, NY US",
-            "datacoverage": 0.9895,
-            "id": "COOP:309660",
-            "elevationUnit": "METERS",
-            "longitude": -73.76667
         },
         {
             "elevation": 204.2,
@@ -7594,17 +5143,6 @@
             "id": "COOP:364873",
             "elevationUnit": "METERS",
             "longitude": -77.13333
-        },
-        {
-            "elevation": 139.9,
-            "mindate": "1931-01-01",
-            "maxdate": "2011-12-01",
-            "latitude": 41.3913,
-            "name": "MATAMORAS, PA US",
-            "datacoverage": 0.9445,
-            "id": "COOP:365470",
-            "elevationUnit": "METERS",
-            "longitude": -74.7173
         },
         {
             "elevation": 469.4,
@@ -11004,6 +8542,2470 @@
             "id": "GHCND:US1NYMD0023",
             "elevationUnit": "METERS",
             "longitude": -75.744886547327
+        },
+        {
+            "elevation": 94.2,
+            "mindate": "2008-11-01",
+            "maxdate": "2020-05-17",
+            "latitude": 42.929985,
+            "name": "FORT PLAIN 0.2 SE, NY US",
+            "datacoverage": 1,
+            "id": "GHCND:US1NYMG0001",
+            "elevationUnit": "METERS",
+            "longitude": -74.62643
+        },
+        {
+            "elevation": 291.4,
+            "mindate": "2008-09-01",
+            "maxdate": "2020-05-17",
+            "latitude": 42.964282,
+            "name": "FONDA 5.2 W, NY US",
+            "datacoverage": 1,
+            "id": "GHCND:US1NYMG0002",
+            "elevationUnit": "METERS",
+            "longitude": -74.47564
+        },
+        {
+            "elevation": 320,
+            "mindate": "2016-05-01",
+            "maxdate": "2020-05-17",
+            "latitude": 42.8643,
+            "name": "HESSVILLE 1.8 WSW, NY US",
+            "datacoverage": 1,
+            "id": "GHCND:US1NYMG0003",
+            "elevationUnit": "METERS",
+            "longitude": -74.7214
+        },
+        {
+            "elevation": 163.1,
+            "mindate": "2018-03-12",
+            "maxdate": "2020-05-16",
+            "latitude": 42.95467,
+            "name": "AMSTERDAM 1.0 NNW, NY US",
+            "datacoverage": 0.286,
+            "id": "GHCND:US1NYMG0005",
+            "elevationUnit": "METERS",
+            "longitude": -74.20085
+        },
+        {
+            "elevation": 157,
+            "mindate": "2007-11-23",
+            "maxdate": "2009-12-17",
+            "latitude": 43.122316,
+            "name": "FAIRPORT 1.6 NNE, NY US",
+            "datacoverage": 0.8411,
+            "id": "GHCND:US1NYMR0001",
+            "elevationUnit": "METERS",
+            "longitude": -77.431418
+        },
+        {
+            "elevation": 228.9,
+            "mindate": "2007-11-01",
+            "maxdate": "2008-08-15",
+            "latitude": 43.041408,
+            "name": "FAIRPORT 4.1 S, NY US",
+            "datacoverage": 0.998,
+            "id": "GHCND:US1NYMR0002",
+            "elevationUnit": "METERS",
+            "longitude": -77.451561
+        },
+        {
+            "elevation": 128.9,
+            "mindate": "2007-12-01",
+            "maxdate": "2008-06-23",
+            "latitude": 43.1089,
+            "name": "EAST ROCHESTER 0.3 SE, NY US",
+            "datacoverage": 1,
+            "id": "GHCND:US1NYMR0004",
+            "elevationUnit": "METERS",
+            "longitude": -77.4823
+        },
+        {
+            "elevation": 106.1,
+            "mindate": "2008-04-01",
+            "maxdate": "2011-06-07",
+            "latitude": 43.1305,
+            "name": "EAST ROCHESTER 2.1 NW, NY US",
+            "datacoverage": 1,
+            "id": "GHCND:US1NYMR0005",
+            "elevationUnit": "METERS",
+            "longitude": -77.5202
+        },
+        {
+            "elevation": 100.3,
+            "mindate": "2009-03-01",
+            "maxdate": "2011-10-31",
+            "latitude": 43.301956,
+            "name": "HAMLIN 1.1 WSW, NY US",
+            "datacoverage": 0.999,
+            "id": "GHCND:US1NYMR0007",
+            "elevationUnit": "METERS",
+            "longitude": -77.943196
+        },
+        {
+            "elevation": 79.9,
+            "mindate": "2008-05-01",
+            "maxdate": "2009-11-30",
+            "latitude": 43.365233,
+            "name": "HAMLIN 5.5 NW, NY US",
+            "datacoverage": 0.8937,
+            "id": "GHCND:US1NYMR0008",
+            "elevationUnit": "METERS",
+            "longitude": -77.988276
+        },
+        {
+            "elevation": 185.3,
+            "mindate": "2009-03-01",
+            "maxdate": "2017-11-30",
+            "latitude": 43.122302,
+            "name": "NORTH CHILI 0.6 NW, NY US",
+            "datacoverage": 0.9997,
+            "id": "GHCND:US1NYMR0012",
+            "elevationUnit": "METERS",
+            "longitude": -77.816367
+        },
+        {
+            "elevation": 117.7,
+            "mindate": "2001-05-01",
+            "maxdate": "2020-05-16",
+            "latitude": 43.21615,
+            "name": "BROCKPORT 0.6 WNW, NY US",
+            "datacoverage": 0.9999,
+            "id": "GHCND:US1NYMR0015",
+            "elevationUnit": "METERS",
+            "longitude": -77.95253
+        },
+        {
+            "elevation": 138.1,
+            "mindate": "2009-04-01",
+            "maxdate": "2020-03-30",
+            "latitude": 43.153514,
+            "name": "ROCHESTER 6.6 E, NY US",
+            "datacoverage": 0.746,
+            "id": "GHCND:US1NYMR0016",
+            "elevationUnit": "METERS",
+            "longitude": -77.489055
+        },
+        {
+            "elevation": 97.5,
+            "mindate": "2009-05-01",
+            "maxdate": "2014-05-16",
+            "latitude": 43.1309,
+            "name": "ROCHESTER 5.7 ESE, NY US",
+            "datacoverage": 0.7868,
+            "id": "GHCND:US1NYMR0018",
+            "elevationUnit": "METERS",
+            "longitude": -77.5107
+        },
+        {
+            "elevation": 82.9,
+            "mindate": "2009-05-01",
+            "maxdate": "2020-05-16",
+            "latitude": 43.147877,
+            "name": "ROCHESTER 5.8 ESE, NY US",
+            "datacoverage": 0.8793,
+            "id": "GHCND:US1NYMR0020",
+            "elevationUnit": "METERS",
+            "longitude": -77.504501
+        },
+        {
+            "elevation": 169.8,
+            "mindate": "2009-05-01",
+            "maxdate": "2020-05-17",
+            "latitude": 43.03498,
+            "name": "PITTSFORD 4.0 SSE, NY US",
+            "datacoverage": 0.6909,
+            "id": "GHCND:US1NYMR0021",
+            "elevationUnit": "METERS",
+            "longitude": -77.49449
+        },
+        {
+            "elevation": 131.1,
+            "mindate": "2009-05-01",
+            "maxdate": "2020-05-16",
+            "latitude": 43.203563,
+            "name": "ROCHESTER 5.0 WNW, NY US",
+            "datacoverage": 0.9997,
+            "id": "GHCND:US1NYMR0023",
+            "elevationUnit": "METERS",
+            "longitude": -77.703112
+        },
+        {
+            "elevation": 94.2,
+            "mindate": "2009-06-01",
+            "maxdate": "2018-04-13",
+            "latitude": 43.247929,
+            "name": "WEBSTER 4.4 WNW, NY US",
+            "datacoverage": 0.9999,
+            "id": "GHCND:US1NYMR0024",
+            "elevationUnit": "METERS",
+            "longitude": -77.49656
+        },
+        {
+            "elevation": 125,
+            "mindate": "2009-12-01",
+            "maxdate": "2020-05-16",
+            "latitude": 43.209917,
+            "name": "WEBSTER 3.2 W, NY US",
+            "datacoverage": 0.5395,
+            "id": "GHCND:US1NYMR0026",
+            "elevationUnit": "METERS",
+            "longitude": -77.485066
+        },
+        {
+            "elevation": 147.2,
+            "mindate": "2009-11-01",
+            "maxdate": "2017-03-03",
+            "latitude": 43.219917,
+            "name": "BROCKPORT 1.5 ENE, NY US",
+            "datacoverage": 1,
+            "id": "GHCND:US1NYMR0029",
+            "elevationUnit": "METERS",
+            "longitude": -77.912445
+        },
+        {
+            "elevation": 186.8,
+            "mindate": "2010-07-01",
+            "maxdate": "2013-07-03",
+            "latitude": 43.1501,
+            "name": "SPENCERPORT 2.6 S, NY US",
+            "datacoverage": 0.6752,
+            "id": "GHCND:US1NYMR0032",
+            "elevationUnit": "METERS",
+            "longitude": -77.804
+        },
+        {
+            "elevation": 122.5,
+            "mindate": "2011-08-01",
+            "maxdate": "2019-08-04",
+            "latitude": 43.21425,
+            "name": "ROCHESTER 3.4 NNW, NY US",
+            "datacoverage": 0.998,
+            "id": "GHCND:US1NYMR0036",
+            "elevationUnit": "METERS",
+            "longitude": -77.64321
+        },
+        {
+            "elevation": 153.3,
+            "mindate": "2013-07-01",
+            "maxdate": "2014-06-23",
+            "latitude": 43.194641,
+            "name": "SPENCERPORT 0.8 NE, NY US",
+            "datacoverage": 0.998,
+            "id": "GHCND:US1NYMR0042",
+            "elevationUnit": "METERS",
+            "longitude": -77.796593
+        },
+        {
+            "elevation": 125,
+            "mindate": "2015-03-01",
+            "maxdate": "2016-03-04",
+            "latitude": 43.167655,
+            "name": "ROCHESTER 3.6 E, NY US",
+            "datacoverage": 0.9967,
+            "id": "GHCND:US1NYMR0044",
+            "elevationUnit": "METERS",
+            "longitude": -77.544914
+        },
+        {
+            "elevation": 164.3,
+            "mindate": "2015-04-01",
+            "maxdate": "2017-12-06",
+            "latitude": 43.176891,
+            "name": "ROCHESTER 5.0 W, NY US",
+            "datacoverage": 0.998,
+            "id": "GHCND:US1NYMR0047",
+            "elevationUnit": "METERS",
+            "longitude": -77.713684
+        },
+        {
+            "elevation": 124.4,
+            "mindate": "2015-05-01",
+            "maxdate": "2016-02-04",
+            "latitude": 43.201485,
+            "name": "ROCHESTER 2.3 N, NY US",
+            "datacoverage": 0.998,
+            "id": "GHCND:US1NYMR0048",
+            "elevationUnit": "METERS",
+            "longitude": -77.619592
+        },
+        {
+            "elevation": 119.8,
+            "mindate": "2016-03-01",
+            "maxdate": "2020-05-16",
+            "latitude": 43.212721,
+            "name": "WEBSTER 3.0 W, NY US",
+            "datacoverage": 1,
+            "id": "GHCND:US1NYMR0050",
+            "elevationUnit": "METERS",
+            "longitude": -77.481
+        },
+        {
+            "elevation": 199,
+            "mindate": "2017-04-01",
+            "maxdate": "2020-05-14",
+            "latitude": 42.9700669,
+            "name": "HONEOYE FALLS 1.7 NE, NY US",
+            "datacoverage": 0.705,
+            "id": "GHCND:US1NYMR0055",
+            "elevationUnit": "METERS",
+            "longitude": -77.5657322
+        },
+        {
+            "elevation": 87.5,
+            "mindate": "2017-04-01",
+            "maxdate": "2019-09-10",
+            "latitude": 43.3424,
+            "name": "HAMLIN 3.0 NNW, NY US",
+            "datacoverage": 0.7485,
+            "id": "GHCND:US1NYMR0056",
+            "elevationUnit": "METERS",
+            "longitude": -77.9465
+        },
+        {
+            "elevation": 191.1,
+            "mindate": "2017-12-11",
+            "maxdate": "2020-05-05",
+            "latitude": 43.152097,
+            "name": "CHURCHVILLE 3.5 N, NY US",
+            "datacoverage": 0.4196,
+            "id": "GHCND:US1NYMR0057",
+            "elevationUnit": "METERS",
+            "longitude": -77.878468
+        },
+        {
+            "elevation": 131.1,
+            "mindate": "2018-04-22",
+            "maxdate": "2020-05-17",
+            "latitude": 43.1134,
+            "name": "EAST ROCHESTER 0.1 NNW, NY US",
+            "datacoverage": 0.5413,
+            "id": "GHCND:US1NYMR0061",
+            "elevationUnit": "METERS",
+            "longitude": -77.48898
+        },
+        {
+            "elevation": 180.4,
+            "mindate": "2018-10-28",
+            "maxdate": "2020-05-17",
+            "latitude": 43.02539,
+            "name": "SCOTTSVILLE 0.4 NW, NY US",
+            "datacoverage": 1,
+            "id": "GHCND:US1NYMR0065",
+            "elevationUnit": "METERS",
+            "longitude": -77.75963
+        },
+        {
+            "elevation": 82,
+            "mindate": "2019-03-24",
+            "maxdate": "2019-10-27",
+            "latitude": 43.28142,
+            "name": "ROCHESTER 9.0 NNW, NY US",
+            "datacoverage": 0.998,
+            "id": "GHCND:US1NYMR0067",
+            "elevationUnit": "METERS",
+            "longitude": -77.70459
+        },
+        {
+            "elevation": 176.2,
+            "mindate": "2007-10-01",
+            "maxdate": "2020-05-17",
+            "latitude": 43.05725,
+            "name": "NORTH TONAWANDA 1.0 NNE, NY US",
+            "datacoverage": 1,
+            "id": "GHCND:US1NYNG0002",
+            "elevationUnit": "METERS",
+            "longitude": -78.86175
+        },
+        {
+            "elevation": 175.9,
+            "mindate": "2007-11-01",
+            "maxdate": "2014-01-21",
+            "latitude": 43.055793,
+            "name": "NORTH TONAWANDA 0.9 NNW, NY US",
+            "datacoverage": 0.5197,
+            "id": "GHCND:US1NYNG0003",
+            "elevationUnit": "METERS",
+            "longitude": -78.869851
+        },
+        {
+            "elevation": 198.4,
+            "mindate": "2008-07-01",
+            "maxdate": "2010-05-17",
+            "latitude": 43.138257,
+            "name": "SANBORN 0.2 NE, NY US",
+            "datacoverage": 1,
+            "id": "GHCND:US1NYNG0006",
+            "elevationUnit": "METERS",
+            "longitude": -78.886253
+        },
+        {
+            "elevation": 186.2,
+            "mindate": "2008-07-01",
+            "maxdate": "2012-12-21",
+            "latitude": 43.177291,
+            "name": "LOCKPORT 1.1 ENE, NY US",
+            "datacoverage": 1,
+            "id": "GHCND:US1NYNG0008",
+            "elevationUnit": "METERS",
+            "longitude": -78.677445
+        },
+        {
+            "elevation": 195.1,
+            "mindate": "2009-05-01",
+            "maxdate": "2015-03-02",
+            "latitude": 43.18288,
+            "name": "LOCKPORT 2.8 ENE, NY US",
+            "datacoverage": 0.9859,
+            "id": "GHCND:US1NYNG0010",
+            "elevationUnit": "METERS",
+            "longitude": -78.6441
+        },
+        {
+            "elevation": 178.9,
+            "mindate": "1998-06-01",
+            "maxdate": "2019-12-11",
+            "latitude": 43.096127,
+            "name": "NIAGARA FALLS 0.7 WNW, NY US",
+            "datacoverage": 0.9993,
+            "id": "GHCND:US1NYNG0011",
+            "elevationUnit": "METERS",
+            "longitude": -79.028108
+        },
+        {
+            "elevation": 158.8,
+            "mindate": "2009-07-01",
+            "maxdate": "2020-05-17",
+            "latitude": 43.176446,
+            "name": "LOCKPORT 0.8 NE, NY US",
+            "datacoverage": 0.9998,
+            "id": "GHCND:US1NYNG0012",
+            "elevationUnit": "METERS",
+            "longitude": -78.683391
+        },
+        {
+            "elevation": 178.6,
+            "mindate": "2010-02-01",
+            "maxdate": "2016-08-21",
+            "latitude": 43.101,
+            "name": "PENDLETON 1.4 NE, NY US",
+            "datacoverage": 0.9986,
+            "id": "GHCND:US1NYNG0017",
+            "elevationUnit": "METERS",
+            "longitude": -78.7083
+        },
+        {
+            "elevation": 175.3,
+            "mindate": "2011-01-01",
+            "maxdate": "2020-05-01",
+            "latitude": 43.058436,
+            "name": "NORTH TONAWANDA 1.7 NE, NY US",
+            "datacoverage": 0.8623,
+            "id": "GHCND:US1NYNG0018",
+            "elevationUnit": "METERS",
+            "longitude": -78.83951
+        },
+        {
+            "elevation": 176.2,
+            "mindate": "2014-06-01",
+            "maxdate": "2020-04-13",
+            "latitude": 43.082971,
+            "name": "NIAGARA FALLS 5.7 E, NY US",
+            "datacoverage": 0.9994,
+            "id": "GHCND:US1NYNG0022",
+            "elevationUnit": "METERS",
+            "longitude": -78.904567
+        },
+        {
+            "elevation": 139.6,
+            "mindate": "2017-04-28",
+            "maxdate": "2020-05-17",
+            "latitude": 43.189778,
+            "name": "LOCKPORT 2.8 WNW, NY US",
+            "datacoverage": 1,
+            "id": "GHCND:US1NYNG0027",
+            "elevationUnit": "METERS",
+            "longitude": -78.744251
+        },
+        {
+            "elevation": 177.1,
+            "mindate": "2017-09-28",
+            "maxdate": "2018-04-04",
+            "latitude": 43.02988,
+            "name": "NORTH TONAWANDA 1.1 SSE, NY US",
+            "datacoverage": 1,
+            "id": "GHCND:US1NYNG0029",
+            "elevationUnit": "METERS",
+            "longitude": -78.8572
+        },
+        {
+            "elevation": 195.7,
+            "mindate": "2017-09-11",
+            "maxdate": "2020-05-17",
+            "latitude": 43.15207,
+            "name": "LOCKPORT 2.5 ESE, NY US",
+            "datacoverage": 1,
+            "id": "GHCND:US1NYNG0030",
+            "elevationUnit": "METERS",
+            "longitude": -78.65338
+        },
+        {
+            "elevation": 178.9,
+            "mindate": "2018-02-27",
+            "maxdate": "2020-05-16",
+            "latitude": 43.0918,
+            "name": "RAPIDS 1.0 SW, NY US",
+            "datacoverage": 0.7259,
+            "id": "GHCND:US1NYNG0032",
+            "elevationUnit": "METERS",
+            "longitude": -78.6568
+        },
+        {
+            "elevation": 57.6,
+            "mindate": "2019-04-01",
+            "maxdate": "2020-05-17",
+            "latitude": 43.148203,
+            "name": "LOCKPORT 1.6 SSE, NY US",
+            "datacoverage": 0.9947,
+            "id": "GHCND:US1NYNG0037",
+            "elevationUnit": "METERS",
+            "longitude": -78.685757
+        },
+        {
+            "elevation": 43.9,
+            "mindate": "2007-11-01",
+            "maxdate": "2009-03-09",
+            "latitude": 40.762313,
+            "name": "BETHPAGE 0.9 NNW, NY US",
+            "datacoverage": 1,
+            "id": "GHCND:US1NYNS0001",
+            "elevationUnit": "METERS",
+            "longitude": -73.492033
+        },
+        {
+            "elevation": 27.1,
+            "mindate": "2008-10-01",
+            "maxdate": "2017-06-18",
+            "latitude": 40.72446,
+            "name": "LEVITTOWN 0.2 E, NY US",
+            "datacoverage": 0.6362,
+            "id": "GHCND:US1NYNS0006",
+            "elevationUnit": "METERS",
+            "longitude": -73.50859
+        },
+        {
+            "elevation": 24.1,
+            "mindate": "2008-10-01",
+            "maxdate": "2020-05-15",
+            "latitude": 40.7229996,
+            "name": "FLORAL PARK 0.4 W, NY US",
+            "datacoverage": 1,
+            "id": "GHCND:US1NYNS0007",
+            "elevationUnit": "METERS",
+            "longitude": -73.7109985
+        },
+        {
+            "elevation": 34.1,
+            "mindate": "2009-07-01",
+            "maxdate": "2010-03-30",
+            "latitude": 40.8704,
+            "name": "MILL NECK 1.1 SW, NY US",
+            "datacoverage": 0.6665,
+            "id": "GHCND:US1NYNS0009",
+            "elevationUnit": "METERS",
+            "longitude": -73.5717
+        },
+        {
+            "elevation": 7,
+            "mindate": "2015-05-01",
+            "maxdate": "2019-03-09",
+            "latitude": 40.662285,
+            "name": "LYNBROOK 0.3 NW, NY US",
+            "datacoverage": 0.9965,
+            "id": "GHCND:US1NYNS0014",
+            "elevationUnit": "METERS",
+            "longitude": -73.677957
+        },
+        {
+            "elevation": 2.4,
+            "mindate": "2016-03-14",
+            "maxdate": "2020-05-16",
+            "latitude": 40.655156,
+            "name": "MASSAPEQUA 0.9 SSW, NY US",
+            "datacoverage": 0.1974,
+            "id": "GHCND:US1NYNS0016",
+            "elevationUnit": "METERS",
+            "longitude": -73.475584
+        },
+        {
+            "elevation": 45.7,
+            "mindate": "2016-08-31",
+            "maxdate": "2020-05-16",
+            "latitude": 40.7686538696289,
+            "name": "HICKSVILLE 1.3 ENE, NY US",
+            "datacoverage": 1,
+            "id": "GHCND:US1NYNS0018",
+            "elevationUnit": "METERS",
+            "longitude": -73.5017013549805
+        },
+        {
+            "elevation": 26.2,
+            "mindate": "2016-08-20",
+            "maxdate": "2017-07-25",
+            "latitude": 40.719814,
+            "name": "FLORAL PARK 0.7 ESE, NY US",
+            "datacoverage": 1,
+            "id": "GHCND:US1NYNS0022",
+            "elevationUnit": "METERS",
+            "longitude": -73.690902
+        },
+        {
+            "elevation": 14.9,
+            "mindate": "2016-08-26",
+            "maxdate": "2018-02-18",
+            "latitude": 40.697201,
+            "name": "NORTH WANTAGH 0.4 WSW, NY US",
+            "datacoverage": 0.8819,
+            "id": "GHCND:US1NYNS0024",
+            "elevationUnit": "METERS",
+            "longitude": -73.51598
+        },
+        {
+            "elevation": 52.1,
+            "mindate": "2016-08-29",
+            "maxdate": "2020-05-17",
+            "latitude": 40.839167,
+            "name": "PORT WASHINGTON 0.8 N, NY US",
+            "datacoverage": 0.8049,
+            "id": "GHCND:US1NYNS0027",
+            "elevationUnit": "METERS",
+            "longitude": -73.68025
+        },
+        {
+            "elevation": 6.7,
+            "mindate": "2016-08-27",
+            "maxdate": "2017-11-16",
+            "latitude": 40.667854309082,
+            "name": "MERRICK 1.2 N, NY US",
+            "datacoverage": 1,
+            "id": "GHCND:US1NYNS0028",
+            "elevationUnit": "METERS",
+            "longitude": -73.5549468994141
+        },
+        {
+            "elevation": 22.9,
+            "mindate": "2016-08-27",
+            "maxdate": "2020-05-17",
+            "latitude": 40.721382,
+            "name": "PLAINEDGE 0.4 WSW, NY US",
+            "datacoverage": 0.9272,
+            "id": "GHCND:US1NYNS0030",
+            "elevationUnit": "METERS",
+            "longitude": -73.484241
+        },
+        {
+            "elevation": 31.1,
+            "mindate": "2016-09-16",
+            "maxdate": "2020-05-09",
+            "latitude": 40.8813,
+            "name": "LOCUST VALLEY 0.3 E, NY US",
+            "datacoverage": 0.2583,
+            "id": "GHCND:US1NYNS0032",
+            "elevationUnit": "METERS",
+            "longitude": -73.5813
+        },
+        {
+            "elevation": 4.3,
+            "mindate": "2016-10-12",
+            "maxdate": "2020-05-16",
+            "latitude": 40.666824,
+            "name": "WANTAGH 0.3 ESE, NY US",
+            "datacoverage": 1,
+            "id": "GHCND:US1NYNS0034",
+            "elevationUnit": "METERS",
+            "longitude": -73.505371
+        },
+        {
+            "elevation": 3.7,
+            "mindate": "2016-08-16",
+            "maxdate": "2018-07-14",
+            "latitude": 40.657136,
+            "name": "VALLEY STREAM 0.6 SE, NY US",
+            "datacoverage": 1,
+            "id": "GHCND:US1NYNS0035",
+            "elevationUnit": "METERS",
+            "longitude": -73.69783
+        },
+        {
+            "elevation": 54.9,
+            "mindate": "2016-08-25",
+            "maxdate": "2020-05-17",
+            "latitude": 40.787036,
+            "name": "SYOSSET 2.0 SSW, NY US",
+            "datacoverage": 0.8201,
+            "id": "GHCND:US1NYNS0036",
+            "elevationUnit": "METERS",
+            "longitude": -73.51329
+        },
+        {
+            "elevation": 10.4,
+            "mindate": "2016-08-26",
+            "maxdate": "2020-05-17",
+            "latitude": 40.683311,
+            "name": "WANTAGH 1.1 NNE, NY US",
+            "datacoverage": 0.7656,
+            "id": "GHCND:US1NYNS0037",
+            "elevationUnit": "METERS",
+            "longitude": -73.503837
+        },
+        {
+            "elevation": 4.6,
+            "mindate": "2016-10-08",
+            "maxdate": "2017-07-24",
+            "latitude": 40.6435317993164,
+            "name": "BALDWIN 1.3 S, NY US",
+            "datacoverage": 0.4552,
+            "id": "GHCND:US1NYNS0040",
+            "elevationUnit": "METERS",
+            "longitude": -73.609489440918
+        },
+        {
+            "elevation": 7.3,
+            "mindate": "2016-09-05",
+            "maxdate": "2019-04-27",
+            "latitude": 40.662239074707,
+            "name": "LYNBROOK 0.6 ENE, NY US",
+            "datacoverage": 0.6539,
+            "id": "GHCND:US1NYNS0041",
+            "elevationUnit": "METERS",
+            "longitude": -73.6639251708984
+        },
+        {
+            "elevation": 43.3,
+            "mindate": "2016-09-01",
+            "maxdate": "2020-05-17",
+            "latitude": 40.769131,
+            "name": "ALBERTSON 0.2 SSE, NY US",
+            "datacoverage": 1,
+            "id": "GHCND:US1NYNS0042",
+            "elevationUnit": "METERS",
+            "longitude": -73.647484
+        },
+        {
+            "elevation": 56.7,
+            "mindate": "2016-09-01",
+            "maxdate": "2019-01-23",
+            "latitude": 40.7859191894531,
+            "name": "PLAINVIEW 0.4 ENE, NY US",
+            "datacoverage": 0.928,
+            "id": "GHCND:US1NYNS0043",
+            "elevationUnit": "METERS",
+            "longitude": -73.4668731689453
+        },
+        {
+            "elevation": 34.4,
+            "mindate": "2016-10-09",
+            "maxdate": "2019-08-08",
+            "latitude": 40.7475433349609,
+            "name": "NEW HYDE PARK 1.6 NE, NY US",
+            "datacoverage": 0.1393,
+            "id": "GHCND:US1NYNS0045",
+            "elevationUnit": "METERS",
+            "longitude": -73.6644744873047
+        },
+        {
+            "elevation": 10.7,
+            "mindate": "2016-10-15",
+            "maxdate": "2020-05-15",
+            "latitude": 40.698077,
+            "name": "MASSAPEQUA PARK 1.2 N, NY US",
+            "datacoverage": 1,
+            "id": "GHCND:US1NYNS0046",
+            "elevationUnit": "METERS",
+            "longitude": -73.449893
+        },
+        {
+            "elevation": 6.1,
+            "mindate": "2018-07-13",
+            "maxdate": "2020-05-17",
+            "latitude": 40.79693,
+            "name": "NEW YORK 8.8 N, NY US",
+            "datacoverage": 0.7032,
+            "id": "GHCND:US1NYNY0074",
+            "elevationUnit": "METERS",
+            "longitude": -73.93296
+        },
+        {
+            "elevation": 440.4,
+            "mindate": "2005-04-01",
+            "maxdate": "2018-09-05",
+            "latitude": 43.47828,
+            "name": "BOONVILLE 8.0 E, NY US",
+            "datacoverage": 0.7272,
+            "id": "GHCND:US1NYOD0001",
+            "elevationUnit": "METERS",
+            "longitude": -75.16961
+        },
+        {
+            "elevation": 335.3,
+            "mindate": "2004-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 43.37335,
+            "name": "POINT ROCK 0.6 SE, NY US",
+            "datacoverage": 0.9066,
+            "id": "GHCND:US1NYOD0002",
+            "elevationUnit": "METERS",
+            "longitude": -75.53836
+        },
+        {
+            "elevation": 311.5,
+            "mindate": "2006-10-01",
+            "maxdate": "2019-09-12",
+            "latitude": 43.31665,
+            "name": "STOKES CORNER 1.4 NE, NY US",
+            "datacoverage": 0.4,
+            "id": "GHCND:US1NYOD0003",
+            "elevationUnit": "METERS",
+            "longitude": -75.44584
+        },
+        {
+            "elevation": 345.9,
+            "mindate": "2004-04-01",
+            "maxdate": "2020-05-15",
+            "latitude": 43.483333,
+            "name": "BOONVILLE 0.2 NW, NY US",
+            "datacoverage": 0.9973,
+            "id": "GHCND:US1NYOD0004",
+            "elevationUnit": "METERS",
+            "longitude": -75.333333
+        },
+        {
+            "elevation": 411.5,
+            "mindate": "2005-05-01",
+            "maxdate": "2014-01-03",
+            "latitude": 43.32456,
+            "name": "WESTERNVILLE 2 NW, NY US",
+            "datacoverage": 0.4188,
+            "id": "GHCND:US1NYOD0005",
+            "elevationUnit": "METERS",
+            "longitude": -75.378735
+        },
+        {
+            "elevation": 179.8,
+            "mindate": "2004-01-01",
+            "maxdate": "2019-06-06",
+            "latitude": 43.23627,
+            "name": "HOLLAND PATENT 1.5 WSW, NY US",
+            "datacoverage": 1,
+            "id": "GHCND:US1NYOD0007",
+            "elevationUnit": "METERS",
+            "longitude": -75.28584
+        },
+        {
+            "elevation": 187.1,
+            "mindate": "2007-11-01",
+            "maxdate": "2018-11-15",
+            "latitude": 43.08588,
+            "name": "VERNON 0.4 NNW, NY US",
+            "datacoverage": 1,
+            "id": "GHCND:US1NYOD0011",
+            "elevationUnit": "METERS",
+            "longitude": -75.54227
+        },
+        {
+            "elevation": 276.1,
+            "mindate": "2007-11-01",
+            "maxdate": "2014-01-21",
+            "latitude": 43.165833333,
+            "name": "WHITESBORO 3.9 NE, NY US",
+            "datacoverage": 0.9995,
+            "id": "GHCND:US1NYOD0014",
+            "elevationUnit": "METERS",
+            "longitude": -75.24508333
+        },
+        {
+            "elevation": 225.6,
+            "mindate": "2008-10-01",
+            "maxdate": "2009-01-29",
+            "latitude": 43.25518,
+            "name": "BARNEVELD 1.8 SE, NY US",
+            "datacoverage": 0.998,
+            "id": "GHCND:US1NYOD0016",
+            "elevationUnit": "METERS",
+            "longitude": -75.1641166
+        },
+        {
+            "elevation": 216.7,
+            "mindate": "2008-09-01",
+            "maxdate": "2015-09-20",
+            "latitude": 43.0614,
+            "name": "NEW HARTFORD 0.7 S, NY US",
+            "datacoverage": 0.3296,
+            "id": "GHCND:US1NYOD0017",
+            "elevationUnit": "METERS",
+            "longitude": -75.29135
+        },
+        {
+            "elevation": 211.8,
+            "mindate": "1998-06-17",
+            "maxdate": "2020-05-13",
+            "latitude": 43.06182,
+            "name": "NEW HARTFORD 0.8 S, NY US",
+            "datacoverage": 1,
+            "id": "GHCND:US1NYOD0019",
+            "elevationUnit": "METERS",
+            "longitude": -75.289864
+        },
+        {
+            "elevation": 120.1,
+            "mindate": "2009-05-01",
+            "maxdate": "2020-05-17",
+            "latitude": 43.17115,
+            "name": "DURHAMVILLE 3.5 NNW, NY US",
+            "datacoverage": 0.9997,
+            "id": "GHCND:US1NYOD0023",
+            "elevationUnit": "METERS",
+            "longitude": -75.68279
+        },
+        {
+            "elevation": 189.3,
+            "mindate": "2009-06-01",
+            "maxdate": "2010-09-20",
+            "latitude": 43.301769,
+            "name": "AVA 8.0 S, NY US",
+            "datacoverage": 0.75,
+            "id": "GHCND:US1NYOD0026",
+            "elevationUnit": "METERS",
+            "longitude": -75.439252
+        },
+        {
+            "elevation": 339.2,
+            "mindate": "2012-10-01",
+            "maxdate": "2013-12-15",
+            "latitude": 43.4527154266834,
+            "name": "CAMDEN 8.1 N, NY US",
+            "datacoverage": 0.7992,
+            "id": "GHCND:US1NYOD0040",
+            "elevationUnit": "METERS",
+            "longitude": -75.7342046499252
+        },
+        {
+            "elevation": 167,
+            "mindate": "2012-10-01",
+            "maxdate": "2019-12-31",
+            "latitude": 43.1001694,
+            "name": "WHITESBORO 2.3 SW, NY US",
+            "datacoverage": 1,
+            "id": "GHCND:US1NYOD0042",
+            "elevationUnit": "METERS",
+            "longitude": -75.3293528
+        },
+        {
+            "elevation": 237.4,
+            "mindate": "2013-02-01",
+            "maxdate": "2020-05-16",
+            "latitude": 43.2470657676458,
+            "name": "HOLLAND PATENT 1.1 WNW, NY US",
+            "datacoverage": 1,
+            "id": "GHCND:US1NYOD0043",
+            "elevationUnit": "METERS",
+            "longitude": -75.2775424718857
+        },
+        {
+            "elevation": 149.7,
+            "mindate": "2013-03-01",
+            "maxdate": "2013-11-10",
+            "latitude": 43.2405915856361,
+            "name": "ROME 2.2 ENE, NY US",
+            "datacoverage": 0.9961,
+            "id": "GHCND:US1NYOD0045",
+            "elevationUnit": "METERS",
+            "longitude": -75.4502539336681
+        },
+        {
+            "elevation": 384.4,
+            "mindate": "2013-11-01",
+            "maxdate": "2016-03-14",
+            "latitude": 43.3515042811632,
+            "name": "AVA 4.8 SSE, NY US",
+            "datacoverage": 1,
+            "id": "GHCND:US1NYOD0047",
+            "elevationUnit": "METERS",
+            "longitude": -75.4534269869328
+        },
+        {
+            "elevation": 387.1,
+            "mindate": "2015-04-01",
+            "maxdate": "2017-11-29",
+            "latitude": 43.476707,
+            "name": "BOONVILLE 2.7 W, NY US",
+            "datacoverage": 0.998,
+            "id": "GHCND:US1NYOD0051",
+            "elevationUnit": "METERS",
+            "longitude": -75.384188
+        },
+        {
+            "elevation": 143.6,
+            "mindate": "2015-05-01",
+            "maxdate": "2019-11-08",
+            "latitude": 43.195241,
+            "name": "ROME 3.7 SW, NY US",
+            "datacoverage": 0.9965,
+            "id": "GHCND:US1NYOD0052",
+            "elevationUnit": "METERS",
+            "longitude": -75.5509
+        },
+        {
+            "elevation": 432.8,
+            "mindate": "2018-05-07",
+            "maxdate": "2020-05-17",
+            "latitude": 42.995505,
+            "name": "SAUQUOIT 1.6 WSW, NY US",
+            "datacoverage": 1,
+            "id": "GHCND:US1NYOD0060",
+            "elevationUnit": "METERS",
+            "longitude": -75.288519
+        },
+        {
+            "elevation": 116.4,
+            "mindate": "2016-03-22",
+            "maxdate": "2020-05-16",
+            "latitude": 43.224075,
+            "name": "SYLVAN BEACH 1.6 NW, NY US",
+            "datacoverage": 0.9566,
+            "id": "GHCND:US1NYOD0061",
+            "elevationUnit": "METERS",
+            "longitude": -75.747136
+        },
+        {
+            "elevation": 192,
+            "mindate": "2004-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 43.033333,
+            "name": "DE WITT 1.4 WSW, NY US",
+            "datacoverage": 0.9933,
+            "id": "GHCND:US1NYOG0002",
+            "elevationUnit": "METERS",
+            "longitude": -76.1
+        },
+        {
+            "elevation": 369.4,
+            "mindate": "2004-01-01",
+            "maxdate": "2014-12-03",
+            "latitude": 42.79,
+            "name": "TULLY 1.7 WSW, NY US",
+            "datacoverage": 0.9621,
+            "id": "GHCND:US1NYOG0004",
+            "elevationUnit": "METERS",
+            "longitude": -76.14
+        },
+        {
+            "elevation": 206,
+            "mindate": "2004-05-01",
+            "maxdate": "2009-06-21",
+            "latitude": 43.033333,
+            "name": "FAIRMOUNT 0.9 SE, NY US",
+            "datacoverage": 0.6609,
+            "id": "GHCND:US1NYOG0005",
+            "elevationUnit": "METERS",
+            "longitude": -76.233333
+        },
+        {
+            "elevation": 129.5,
+            "mindate": "2007-09-01",
+            "maxdate": "2019-02-02",
+            "latitude": 43.116667,
+            "name": "VILLAGE GREEN 2.6 ESE, NY US",
+            "datacoverage": 0.6117,
+            "id": "GHCND:US1NYOG0006",
+            "elevationUnit": "METERS",
+            "longitude": -76.266667
+        },
+        {
+            "elevation": 247.5,
+            "mindate": "2005-01-01",
+            "maxdate": "2020-05-16",
+            "latitude": 43.039618,
+            "name": "CAMILLUS 1.0 W, NY US",
+            "datacoverage": 0.9484,
+            "id": "GHCND:US1NYOG0010",
+            "elevationUnit": "METERS",
+            "longitude": -76.328271
+        },
+        {
+            "elevation": 115.8,
+            "mindate": "1998-06-17",
+            "maxdate": "2020-05-16",
+            "latitude": 43.2,
+            "name": "CLAY 4.6 NW, NY US",
+            "datacoverage": 1,
+            "id": "GHCND:US1NYOG0012",
+            "elevationUnit": "METERS",
+            "longitude": -76.26
+        },
+        {
+            "elevation": 118.9,
+            "mindate": "2005-04-01",
+            "maxdate": "2009-07-23",
+            "latitude": 43.18729,
+            "name": "CICERO 1.6 NE, NY US",
+            "datacoverage": 0.6153,
+            "id": "GHCND:US1NYOG0013",
+            "elevationUnit": "METERS",
+            "longitude": -76.0946
+        },
+        {
+            "elevation": 381.6,
+            "mindate": "2005-09-01",
+            "maxdate": "2009-01-30",
+            "latitude": 42.79706,
+            "name": "TULLY 0.1 ESE, NY US",
+            "datacoverage": 0.7554,
+            "id": "GHCND:US1NYOG0016",
+            "elevationUnit": "METERS",
+            "longitude": -76.10539
+        },
+        {
+            "elevation": 178.3,
+            "mindate": "2008-05-01",
+            "maxdate": "2017-12-08",
+            "latitude": 43.02841,
+            "name": "SYRACUSE 1.4 SE, NY US",
+            "datacoverage": 0.6525,
+            "id": "GHCND:US1NYOG0020",
+            "elevationUnit": "METERS",
+            "longitude": -76.12122
+        },
+        {
+            "elevation": 140.8,
+            "mindate": "2008-09-01",
+            "maxdate": "2013-02-09",
+            "latitude": 43.032239,
+            "name": "DEWITT 0.5 SE, NY US",
+            "datacoverage": 0.7044,
+            "id": "GHCND:US1NYOG0025",
+            "elevationUnit": "METERS",
+            "longitude": -76.067527
+        },
+        {
+            "elevation": 116.4,
+            "mindate": "2008-10-01",
+            "maxdate": "2009-12-08",
+            "latitude": 43.232196,
+            "name": "BREWERTON 1.2 E, NY US",
+            "datacoverage": 1,
+            "id": "GHCND:US1NYOG0026",
+            "elevationUnit": "METERS",
+            "longitude": -76.118758
+        },
+        {
+            "elevation": 118.9,
+            "mindate": "2008-09-01",
+            "maxdate": "2020-05-16",
+            "latitude": 43.228345,
+            "name": "BREWERTON 1.5 ESE, NY US",
+            "datacoverage": 0.7247,
+            "id": "GHCND:US1NYOG0028",
+            "elevationUnit": "METERS",
+            "longitude": -76.113248
+        },
+        {
+            "elevation": 188.4,
+            "mindate": "2008-10-01",
+            "maxdate": "2012-11-20",
+            "latitude": 43.0225,
+            "name": "SYRACUSE 2.4 ESE, NY US",
+            "datacoverage": 0.8399,
+            "id": "GHCND:US1NYOG0030",
+            "elevationUnit": "METERS",
+            "longitude": -76.1025
+        },
+        {
+            "elevation": 325.5,
+            "mindate": "2008-09-01",
+            "maxdate": "2018-10-07",
+            "latitude": 42.98258,
+            "name": "MARCELLUS 1.6 E, NY US",
+            "datacoverage": 0.7589,
+            "id": "GHCND:US1NYOG0031",
+            "elevationUnit": "METERS",
+            "longitude": -76.30908
+        },
+        {
+            "elevation": 256.9,
+            "mindate": "2009-09-01",
+            "maxdate": "2011-10-30",
+            "latitude": 43.012788,
+            "name": "MARCELLUS 2.3 NNE, NY US",
+            "datacoverage": 1,
+            "id": "GHCND:US1NYOG0037",
+            "elevationUnit": "METERS",
+            "longitude": -76.315881
+        },
+        {
+            "elevation": 149.4,
+            "mindate": "2009-10-01",
+            "maxdate": "2011-01-16",
+            "latitude": 43.033776,
+            "name": "FAYETTEVILLE 1.6 W, NY US",
+            "datacoverage": 0.998,
+            "id": "GHCND:US1NYOG0038",
+            "elevationUnit": "METERS",
+            "longitude": -76.029973
+        },
+        {
+            "elevation": 395.9,
+            "mindate": "2010-06-01",
+            "maxdate": "2012-05-30",
+            "latitude": 42.92526944,
+            "name": "POMPEY 2.0 NNW, NY US",
+            "datacoverage": 0.8744,
+            "id": "GHCND:US1NYOG0040",
+            "elevationUnit": "METERS",
+            "longitude": -76.03284444
+        },
+        {
+            "elevation": 389.5,
+            "mindate": "2010-10-01",
+            "maxdate": "2015-03-23",
+            "latitude": 42.79931,
+            "name": "TULLY 0.7 E, NY US",
+            "datacoverage": 0.7505,
+            "id": "GHCND:US1NYOG0043",
+            "elevationUnit": "METERS",
+            "longitude": -76.09378
+        },
+        {
+            "elevation": 118.6,
+            "mindate": "2011-05-01",
+            "maxdate": "2014-12-11",
+            "latitude": 43.168189,
+            "name": "LIVERPOOL 4.4 NNW, NY US",
+            "datacoverage": 0.6355,
+            "id": "GHCND:US1NYOG0045",
+            "elevationUnit": "METERS",
+            "longitude": -76.228316
+        },
+        {
+            "elevation": 118.9,
+            "mindate": "2011-05-01",
+            "maxdate": "2020-05-16",
+            "latitude": 43.195063,
+            "name": "BALDWINSVILLE 3.5 NE, NY US",
+            "datacoverage": 0.9655,
+            "id": "GHCND:US1NYOG0046",
+            "elevationUnit": "METERS",
+            "longitude": -76.288349
+        },
+        {
+            "elevation": 154.5,
+            "mindate": "2012-12-01",
+            "maxdate": "2014-06-30",
+            "latitude": 43.0586280822754,
+            "name": "SOLVAY 0.1 ENE, NY US",
+            "datacoverage": 1,
+            "id": "GHCND:US1NYOG0048",
+            "elevationUnit": "METERS",
+            "longitude": -76.209831237793
+        },
+        {
+            "elevation": 119.2,
+            "mindate": "2013-06-01",
+            "maxdate": "2013-11-26",
+            "latitude": 43.1416702270508,
+            "name": "LIVERPOOL 2.6 NNW, NY US",
+            "datacoverage": 0.998,
+            "id": "GHCND:US1NYOG0050",
+            "elevationUnit": "METERS",
+            "longitude": -76.2272109985352
+        },
+        {
+            "elevation": 124.4,
+            "mindate": "2013-07-01",
+            "maxdate": "2014-04-15",
+            "latitude": 43.1355857849121,
+            "name": "NORTH SYRACUSE 0.4 WNW, NY US",
+            "datacoverage": 1,
+            "id": "GHCND:US1NYOG0051",
+            "elevationUnit": "METERS",
+            "longitude": -76.1379089355469
+        },
+        {
+            "elevation": 131.1,
+            "mindate": "2013-08-01",
+            "maxdate": "2020-05-17",
+            "latitude": 43.001525,
+            "name": "SYRACUSE 2.7 S, NY US",
+            "datacoverage": 1,
+            "id": "GHCND:US1NYOG0052",
+            "elevationUnit": "METERS",
+            "longitude": -76.139518
+        },
+        {
+            "elevation": 389.2,
+            "mindate": "2014-08-01",
+            "maxdate": "2016-07-14",
+            "latitude": 42.832569,
+            "name": "FABIUS 0.3 SE, NY US",
+            "datacoverage": 0.998,
+            "id": "GHCND:US1NYOG0056",
+            "elevationUnit": "METERS",
+            "longitude": -75.982216
+        },
+        {
+            "elevation": 407.5,
+            "mindate": "2014-10-08",
+            "maxdate": "2018-01-01",
+            "latitude": 42.812616,
+            "name": "TULLY 3.4 ENE, NY US",
+            "datacoverage": 0.4662,
+            "id": "GHCND:US1NYOG0057",
+            "elevationUnit": "METERS",
+            "longitude": -76.044812
+        },
+        {
+            "elevation": 285.6,
+            "mindate": "2016-02-10",
+            "maxdate": "2020-05-16",
+            "latitude": 42.95538,
+            "name": "SKANEATELES 0.8 NNW, NY US",
+            "datacoverage": 0.837,
+            "id": "GHCND:US1NYOG0061",
+            "elevationUnit": "METERS",
+            "longitude": -76.433621
+        },
+        {
+            "elevation": 136.9,
+            "mindate": "2016-11-17",
+            "maxdate": "2018-01-07",
+            "latitude": 43.089273,
+            "name": "WARNERS 0.7 WNW, NY US",
+            "datacoverage": 0.8417,
+            "id": "GHCND:US1NYOG0062",
+            "elevationUnit": "METERS",
+            "longitude": -76.341021
+        },
+        {
+            "elevation": 121,
+            "mindate": "2017-11-01",
+            "maxdate": "2019-11-11",
+            "latitude": 43.167364,
+            "name": "CLAY 2.0 SE, NY US",
+            "datacoverage": 0.5021,
+            "id": "GHCND:US1NYOG0066",
+            "elevationUnit": "METERS",
+            "longitude": -76.145587
+        },
+        {
+            "elevation": 151.8,
+            "mindate": "2008-06-01",
+            "maxdate": "2015-09-14",
+            "latitude": 43.227271,
+            "name": "MEDINA 0.5 N, NY US",
+            "datacoverage": 0.7724,
+            "id": "GHCND:US1NYOL0001",
+            "elevationUnit": "METERS",
+            "longitude": -78.388221
+        },
+        {
+            "elevation": 85.6,
+            "mindate": "2009-04-01",
+            "maxdate": "2020-04-19",
+            "latitude": 43.3562,
+            "name": "WATERPORT 2.7 N, NY US",
+            "datacoverage": 0.4394,
+            "id": "GHCND:US1NYOL0002",
+            "elevationUnit": "METERS",
+            "longitude": -78.25505
+        },
+        {
+            "elevation": 112.5,
+            "mindate": "2009-10-01",
+            "maxdate": "2010-12-30",
+            "latitude": 43.312995,
+            "name": "KENT 1.0 S, NY US",
+            "datacoverage": 0.999,
+            "id": "GHCND:US1NYOL0003",
+            "elevationUnit": "METERS",
+            "longitude": -78.136149
+        },
+        {
+            "elevation": 142.6,
+            "mindate": "2016-12-30",
+            "maxdate": "2020-02-15",
+            "latitude": 43.263744,
+            "name": "ALBION 1.9 NW, NY US",
+            "datacoverage": 0.7787,
+            "id": "GHCND:US1NYOL0004",
+            "elevationUnit": "METERS",
+            "longitude": -78.218593
+        },
+        {
+            "elevation": 164.6,
+            "mindate": "2017-05-13",
+            "maxdate": "2020-05-17",
+            "latitude": 43.223,
+            "name": "MEDINA 0.4 WNW, NY US",
+            "datacoverage": 1,
+            "id": "GHCND:US1NYOL0005",
+            "elevationUnit": "METERS",
+            "longitude": -78.39539
+        },
+        {
+            "elevation": 166.1,
+            "mindate": "2009-05-01",
+            "maxdate": "2010-12-07",
+            "latitude": 43.00659,
+            "name": "PHELPS 4.4 NW, NY US",
+            "datacoverage": 0.998,
+            "id": "GHCND:US1NYON0004",
+            "elevationUnit": "METERS",
+            "longitude": -77.11849
+        },
+        {
+            "elevation": 286.5,
+            "mindate": "2011-10-01",
+            "maxdate": "2016-10-30",
+            "latitude": 42.8532981872559,
+            "name": "CANANDAIGUA 2.6 SSW, NY US",
+            "datacoverage": 1,
+            "id": "GHCND:US1NYON0007",
+            "elevationUnit": "METERS",
+            "longitude": -77.2980575561523
+        },
+        {
+            "elevation": 286.5,
+            "mindate": "2016-05-10",
+            "maxdate": "2019-10-23",
+            "latitude": 42.787694,
+            "name": "GORHAM 0.8 S, NY US",
+            "datacoverage": 0.5491,
+            "id": "GHCND:US1NYON0011",
+            "elevationUnit": "METERS",
+            "longitude": -77.131484
+        },
+        {
+            "elevation": 50.9,
+            "mindate": "2007-11-01",
+            "maxdate": "2020-05-12",
+            "latitude": 41.446874,
+            "name": "CORNWALL ON HUDSON 0.6 NNW, NY US",
+            "datacoverage": 0.4159,
+            "id": "GHCND:US1NYOR0002",
+            "elevationUnit": "METERS",
+            "longitude": -74.021437
+        },
+        {
+            "elevation": 320.3,
+            "mindate": "2007-12-01",
+            "maxdate": "2010-02-26",
+            "latitude": 41.473,
+            "name": "OTISVILLE 0.6 WNW, NY US",
+            "datacoverage": 0.7667,
+            "id": "GHCND:US1NYOR0003",
+            "elevationUnit": "METERS",
+            "longitude": -74.5513
+        },
+        {
+            "elevation": 189.3,
+            "mindate": "2010-10-01",
+            "maxdate": "2020-05-16",
+            "latitude": 41.268357,
+            "name": "WARWICK 3.2 WNW, NY US",
+            "datacoverage": 0.9993,
+            "id": "GHCND:US1NYOR0004",
+            "elevationUnit": "METERS",
+            "longitude": -74.415952
+        },
+        {
+            "elevation": 253,
+            "mindate": "2009-09-01",
+            "maxdate": "2012-04-14",
+            "latitude": 41.30144501,
+            "name": "MONROE 1.7 SE, NY US",
+            "datacoverage": 1,
+            "id": "GHCND:US1NYOR0006",
+            "elevationUnit": "METERS",
+            "longitude": -74.1669693
+        },
+        {
+            "elevation": 142.3,
+            "mindate": "2014-10-01",
+            "maxdate": "2017-01-04",
+            "latitude": 41.374007,
+            "name": "PORT JERVIS 0.4 SE, NY US",
+            "datacoverage": 0.9998,
+            "id": "GHCND:US1NYOR0015",
+            "elevationUnit": "METERS",
+            "longitude": -74.684483
+        },
+        {
+            "elevation": 126.8,
+            "mindate": "2017-06-06",
+            "maxdate": "2020-05-16",
+            "latitude": 41.587962,
+            "name": "PINE BUSH 3.4 WSW, NY US",
+            "datacoverage": 1,
+            "id": "GHCND:US1NYOR0017",
+            "elevationUnit": "METERS",
+            "longitude": -74.357663
+        },
+        {
+            "elevation": 125.9,
+            "mindate": "2017-08-21",
+            "maxdate": "2019-06-30",
+            "latitude": 41.541027,
+            "name": "WALDEN 1.3 S, NY US",
+            "datacoverage": 1,
+            "id": "GHCND:US1NYOR0018",
+            "elevationUnit": "METERS",
+            "longitude": -74.1879
+        },
+        {
+            "elevation": 195.1,
+            "mindate": "2017-11-14",
+            "maxdate": "2020-05-17",
+            "latitude": 41.189,
+            "name": "GREENWOOD LAKE 3.0 SW, NY US",
+            "datacoverage": 0.8712,
+            "id": "GHCND:US1NYOR0019",
+            "elevationUnit": "METERS",
+            "longitude": -74.3265
+        },
+        {
+            "elevation": 155.8,
+            "mindate": "2019-03-20",
+            "maxdate": "2020-01-24",
+            "latitude": 41.60904,
+            "name": "WALLKILL 2.0 E, NY US",
+            "datacoverage": 0.9939,
+            "id": "GHCND:US1NYOR0020",
+            "elevationUnit": "METERS",
+            "longitude": -74.1269
+        },
+        {
+            "elevation": 191.4,
+            "mindate": "1998-06-01",
+            "maxdate": "2020-05-15",
+            "latitude": 43.59643,
+            "name": "LACONA 3.6 SSE, NY US",
+            "datacoverage": 0.9973,
+            "id": "GHCND:US1NYOS0001",
+            "elevationUnit": "METERS",
+            "longitude": -76.03732
+        },
+        {
+            "elevation": 139,
+            "mindate": "2007-10-01",
+            "maxdate": "2019-09-16",
+            "latitude": 43.443717,
+            "name": "OSWEGO 5.0 ESE, NY US",
+            "datacoverage": 0.9999,
+            "id": "GHCND:US1NYOS0003",
+            "elevationUnit": "METERS",
+            "longitude": -76.40515
+        },
+        {
+            "elevation": 75.9,
+            "mindate": "2008-07-01",
+            "maxdate": "2013-11-29",
+            "latitude": 43.465,
+            "name": "OSWEGO 0.9 WNW, NY US",
+            "datacoverage": 0.969,
+            "id": "GHCND:US1NYOS0006",
+            "elevationUnit": "METERS",
+            "longitude": -76.5194
+        },
+        {
+            "elevation": 140.2,
+            "mindate": "2008-09-01",
+            "maxdate": "2009-12-04",
+            "latitude": 43.3323,
+            "name": "PHOENIX 7.1 NNE, NY US",
+            "datacoverage": 0.8125,
+            "id": "GHCND:US1NYOS0008",
+            "elevationUnit": "METERS",
+            "longitude": -76.26663
+        },
+        {
+            "elevation": 395.9,
+            "mindate": "1998-06-01",
+            "maxdate": "2017-04-21",
+            "latitude": 43.6392,
+            "name": "REDFIELD 7.9 NNW, NY US",
+            "datacoverage": 0.1925,
+            "id": "GHCND:US1NYOS0013",
+            "elevationUnit": "METERS",
+            "longitude": -75.8825
+        },
+        {
+            "elevation": 107,
+            "mindate": "2009-06-01",
+            "maxdate": "2020-05-17",
+            "latitude": 43.397711,
+            "name": "MINETTO 0.1 SE, NY US",
+            "datacoverage": 0.9999,
+            "id": "GHCND:US1NYOS0015",
+            "elevationUnit": "METERS",
+            "longitude": -76.479583
+        },
+        {
+            "elevation": 121,
+            "mindate": "2010-01-01",
+            "maxdate": "2020-05-16",
+            "latitude": 43.3165,
+            "name": "FULTON 0.2 W, NY US",
+            "datacoverage": 0.9996,
+            "id": "GHCND:US1NYOS0020",
+            "elevationUnit": "METERS",
+            "longitude": -76.41855
+        },
+        {
+            "elevation": 87.5,
+            "mindate": "2010-04-01",
+            "maxdate": "2020-05-17",
+            "latitude": 43.569972,
+            "name": "PULASKI 0.5 NE, NY US",
+            "datacoverage": 0.9991,
+            "id": "GHCND:US1NYOS0021",
+            "elevationUnit": "METERS",
+            "longitude": -76.119542
+        },
+        {
+            "elevation": 116.4,
+            "mindate": "2012-04-01",
+            "maxdate": "2012-10-12",
+            "latitude": 43.42277778,
+            "name": "OSWEGO 2.5 S, NY US",
+            "datacoverage": 0.9956,
+            "id": "GHCND:US1NYOS0024",
+            "elevationUnit": "METERS",
+            "longitude": -76.50861111
+        },
+        {
+            "elevation": 104.9,
+            "mindate": "2012-08-01",
+            "maxdate": "2016-12-09",
+            "latitude": 43.3241491019726,
+            "name": "FULTON 0.5 NNW, NY US",
+            "datacoverage": 0.8638,
+            "id": "GHCND:US1NYOS0025",
+            "elevationUnit": "METERS",
+            "longitude": -76.4177763462067
+        },
+        {
+            "elevation": 133.8,
+            "mindate": "2012-11-01",
+            "maxdate": "2014-03-31",
+            "latitude": 43.4194,
+            "name": "MEXICO 3.6 SSW, NY US",
+            "datacoverage": 0.6489,
+            "id": "GHCND:US1NYOS0026",
+            "elevationUnit": "METERS",
+            "longitude": -76.2738
+        },
+        {
+            "elevation": 548.6,
+            "mindate": "2004-01-01",
+            "maxdate": "2008-05-06",
+            "latitude": 42.43094,
+            "name": "UNADILLA 7.2 N, NY US",
+            "datacoverage": 0.868,
+            "id": "GHCND:US1NYOT0001",
+            "elevationUnit": "METERS",
+            "longitude": -75.30471
+        },
+        {
+            "elevation": 374.9,
+            "mindate": "2005-05-01",
+            "maxdate": "2020-05-16",
+            "latitude": 42.695157,
+            "name": "COOPERSTOWN 0.3 S, NY US",
+            "datacoverage": 1,
+            "id": "GHCND:US1NYOT0002",
+            "elevationUnit": "METERS",
+            "longitude": -74.929993
+        },
+        {
+            "elevation": 359.1,
+            "mindate": "2005-05-01",
+            "maxdate": "2007-09-15",
+            "latitude": 42.664433,
+            "name": "COOPERSTOWN 2.8 SSW, NY US",
+            "datacoverage": 0.8226,
+            "id": "GHCND:US1NYOT0003",
+            "elevationUnit": "METERS",
+            "longitude": -74.9587
+        },
+        {
+            "elevation": 323.1,
+            "mindate": "2007-11-01",
+            "maxdate": "2020-03-14",
+            "latitude": 42.816667,
+            "name": "BRIDGEWATER 4.3 SSE, NY US",
+            "datacoverage": 1,
+            "id": "GHCND:US1NYOT0004",
+            "elevationUnit": "METERS",
+            "longitude": -75.233333
+        },
+        {
+            "elevation": 533.4,
+            "mindate": "2007-11-01",
+            "maxdate": "2011-02-28",
+            "latitude": 42.5555,
+            "name": "LAURENS 2.5 NW, NY US",
+            "datacoverage": 0.4756,
+            "id": "GHCND:US1NYOT0005",
+            "elevationUnit": "METERS",
+            "longitude": -75.1265
+        },
+        {
+            "elevation": 315.2,
+            "mindate": "2007-11-01",
+            "maxdate": "2014-11-19",
+            "latitude": 42.32348,
+            "name": "SIDNEY 2.1 NE, NY US",
+            "datacoverage": 0.2941,
+            "id": "GHCND:US1NYOT0008",
+            "elevationUnit": "METERS",
+            "longitude": -75.36435
+        },
+        {
+            "elevation": 411.5,
+            "mindate": "1998-10-01",
+            "maxdate": "2017-04-18",
+            "latitude": 42.85251,
+            "name": "RICHFIELD SPRINGS 0.5 ESE, NY US",
+            "datacoverage": 0.75,
+            "id": "GHCND:US1NYOT0009",
+            "elevationUnit": "METERS",
+            "longitude": -74.97748
+        },
+        {
+            "elevation": 406.9,
+            "mindate": "2008-09-01",
+            "maxdate": "2020-05-17",
+            "latitude": 42.6599,
+            "name": "HARTWICK, NY US",
+            "datacoverage": 1,
+            "id": "GHCND:US1NYOT0011",
+            "elevationUnit": "METERS",
+            "longitude": -75.05
+        },
+        {
+            "elevation": 345.3,
+            "mindate": "2009-11-01",
+            "maxdate": "2010-12-22",
+            "latitude": 42.6332375,
+            "name": "NEW BERLIN 1.0 NE, NY US",
+            "datacoverage": 1,
+            "id": "GHCND:US1NYOT0013",
+            "elevationUnit": "METERS",
+            "longitude": -75.3195499
+        },
+        {
+            "elevation": 512.1,
+            "mindate": "2009-11-01",
+            "maxdate": "2018-11-05",
+            "latitude": 42.544,
+            "name": "WORCESTER 4.0 SSW, NY US",
+            "datacoverage": 0.8834,
+            "id": "GHCND:US1NYOT0014",
+            "elevationUnit": "METERS",
+            "longitude": -74.7657
+        },
+        {
+            "elevation": 366.7,
+            "mindate": "2009-11-01",
+            "maxdate": "2013-07-23",
+            "latitude": 42.5721,
+            "name": "ONEONTA 7.0 NE, NY US",
+            "datacoverage": 0.5336,
+            "id": "GHCND:US1NYOT0015",
+            "elevationUnit": "METERS",
+            "longitude": -74.9797
+        },
+        {
+            "elevation": 404.8,
+            "mindate": "2011-11-01",
+            "maxdate": "2013-10-16",
+            "latitude": 42.7172,
+            "name": "CHERRY VALLEY 5.6 S, NY US",
+            "datacoverage": 0.9993,
+            "id": "GHCND:US1NYOT0018",
+            "elevationUnit": "METERS",
+            "longitude": -74.7583
+        },
+        {
+            "elevation": 455.1,
+            "mindate": "2013-09-01",
+            "maxdate": "2014-02-16",
+            "latitude": 42.628508,
+            "name": "MILFORD 4.8 NW, NY US",
+            "datacoverage": 1,
+            "id": "GHCND:US1NYOT0022",
+            "elevationUnit": "METERS",
+            "longitude": -75.024874
+        },
+        {
+            "elevation": 443.2,
+            "mindate": "2014-05-01",
+            "maxdate": "2016-07-10",
+            "latitude": 42.6222496032715,
+            "name": "EAST WORCESTER 0.1 SW, NY US",
+            "datacoverage": 0.9987,
+            "id": "GHCND:US1NYOT0024",
+            "elevationUnit": "METERS",
+            "longitude": -74.6733169555664
+        },
+        {
+            "elevation": 519.4,
+            "mindate": "2016-01-14",
+            "maxdate": "2019-04-09",
+            "latitude": 42.521663,
+            "name": "LAURENS 5.5 W, NY US",
+            "datacoverage": 0.896,
+            "id": "GHCND:US1NYOT0025",
+            "elevationUnit": "METERS",
+            "longitude": -75.195987
+        },
+        {
+            "elevation": 474.6,
+            "mindate": "2016-03-13",
+            "maxdate": "2020-05-16",
+            "latitude": 42.796397,
+            "name": "RICHFIELD SPRINGS 4.1 SSE, NY US",
+            "datacoverage": 0.6673,
+            "id": "GHCND:US1NYOT0026",
+            "elevationUnit": "METERS",
+            "longitude": -74.965803
+        },
+        {
+            "elevation": 364.5,
+            "mindate": "2018-02-24",
+            "maxdate": "2020-05-17",
+            "latitude": 42.636893,
+            "name": "NEW BERLIN 1.5 NE, NY US",
+            "datacoverage": 0.7101,
+            "id": "GHCND:US1NYOT0029",
+            "elevationUnit": "METERS",
+            "longitude": -75.310903
+        },
+        {
+            "elevation": 425.8,
+            "mindate": "2018-06-01",
+            "maxdate": "2020-05-16",
+            "latitude": 42.561726,
+            "name": "MOUNT VISION 1.4 SW, NY US",
+            "datacoverage": 0.7668,
+            "id": "GHCND:US1NYOT0030",
+            "elevationUnit": "METERS",
+            "longitude": -75.072693
+        },
+        {
+            "elevation": 249,
+            "mindate": "2008-03-01",
+            "maxdate": "2014-08-14",
+            "latitude": 41.496871,
+            "name": "CARMEL HAMLET 5.8 N, NY US",
+            "datacoverage": 0.7433,
+            "id": "GHCND:US1NYPT0001",
+            "elevationUnit": "METERS",
+            "longitude": -73.701681
+        },
+        {
+            "elevation": 260.3,
+            "mindate": "2008-04-01",
+            "maxdate": "2020-05-17",
+            "latitude": 41.4807,
+            "name": "BEACON 4.2 ESE, NY US",
+            "datacoverage": 1,
+            "id": "GHCND:US1NYPT0002",
+            "elevationUnit": "METERS",
+            "longitude": -73.8911
+        },
+        {
+            "elevation": 137.5,
+            "mindate": "2008-11-01",
+            "maxdate": "2019-06-15",
+            "latitude": 41.496961,
+            "name": "COLD SPRING 8.1 NE, NY US",
+            "datacoverage": 1,
+            "id": "GHCND:US1NYPT0004",
+            "elevationUnit": "METERS",
+            "longitude": -73.836911
+        },
+        {
+            "elevation": 191.1,
+            "mindate": "2016-08-07",
+            "maxdate": "2020-05-16",
+            "latitude": 41.352874,
+            "name": "MAHOPAC 2.5 WSW, NY US",
+            "datacoverage": 0.3634,
+            "id": "GHCND:US1NYPT0008",
+            "elevationUnit": "METERS",
+            "longitude": -73.784145
+        },
+        {
+            "elevation": 154.2,
+            "mindate": "2018-10-11",
+            "maxdate": "2020-05-09",
+            "latitude": 41.40388,
+            "name": "BREWSTER 0.5 N, NY US",
+            "datacoverage": 0.7546,
+            "id": "GHCND:US1NYPT0011",
+            "elevationUnit": "METERS",
+            "longitude": -73.61638
+        },
+        {
+            "elevation": 32.3,
+            "mindate": "2011-02-01",
+            "maxdate": "2020-02-26",
+            "latitude": 40.714521,
+            "name": "MIDDLE VILLAGE 0.5 SW, NY US",
+            "datacoverage": 0.9402,
+            "id": "GHCND:US1NYQN0002",
+            "elevationUnit": "METERS",
+            "longitude": -73.881893
+        },
+        {
+            "elevation": 18,
+            "mindate": "2017-09-06",
+            "maxdate": "2020-03-13",
+            "latitude": 40.754411,
+            "name": "JACKSON HEIGHTS 0.3 WSW, NY US",
+            "datacoverage": 0.998,
+            "id": "GHCND:US1NYQN0026",
+            "elevationUnit": "METERS",
+            "longitude": -73.888164
+        },
+        {
+            "elevation": 18,
+            "mindate": "2017-07-19",
+            "maxdate": "2020-05-17",
+            "latitude": 40.778064,
+            "name": "SADDLE ROCK 3.4 WSW, NY US",
+            "datacoverage": 1,
+            "id": "GHCND:US1NYQN0027",
+            "elevationUnit": "METERS",
+            "longitude": -73.810581
+        },
+        {
+            "elevation": 24.7,
+            "mindate": "2018-12-22",
+            "maxdate": "2020-05-16",
+            "latitude": 40.748246,
+            "name": "QUEENS 2.1 NE, NY US",
+            "datacoverage": 0.4492,
+            "id": "GHCND:US1NYQN0029",
+            "elevationUnit": "METERS",
+            "longitude": -73.765371
+        },
+        {
+            "elevation": 10.7,
+            "mindate": "2009-07-01",
+            "maxdate": "2020-05-14",
+            "latitude": 40.542096,
+            "name": "STATEN ISLAND 4.5 SSE, NY US",
+            "datacoverage": 0.864,
+            "id": "GHCND:US1NYRC0001",
+            "elevationUnit": "METERS",
+            "longitude": -74.147558
+        },
+        {
+            "elevation": 21.9,
+            "mindate": "2011-08-01",
+            "maxdate": "2020-05-17",
+            "latitude": 40.567385,
+            "name": "STATEN ISLAND 1.4 SE, NY US",
+            "datacoverage": 1,
+            "id": "GHCND:US1NYRC0002",
+            "elevationUnit": "METERS",
+            "longitude": -74.132695
+        },
+        {
+            "elevation": 135,
+            "mindate": "2007-12-01",
+            "maxdate": "2008-08-01",
+            "latitude": 41.077416,
+            "name": "CHESTNUT RIDGE 0.3 SSW, NY US",
+            "datacoverage": 1,
+            "id": "GHCND:US1NYRL0001",
+            "elevationUnit": "METERS",
+            "longitude": -74.054742
+        },
+        {
+            "elevation": 86.3,
+            "mindate": "2009-06-01",
+            "maxdate": "2011-05-19",
+            "latitude": 41.095511,
+            "name": "NANUET 0.3 E, NY US",
+            "datacoverage": 0.4949,
+            "id": "GHCND:US1NYRL0003",
+            "elevationUnit": "METERS",
+            "longitude": -74.009897
+        },
+        {
+            "elevation": 159.4,
+            "mindate": "2010-02-01",
+            "maxdate": "2013-07-23",
+            "latitude": 41.139406,
+            "name": "SPRING VALLEY 1.7 N, NY US",
+            "datacoverage": 0.5005,
+            "id": "GHCND:US1NYRL0004",
+            "elevationUnit": "METERS",
+            "longitude": -74.045686
+        },
+        {
+            "elevation": 81.7,
+            "mindate": "2012-03-01",
+            "maxdate": "2020-05-17",
+            "latitude": 41.0835456848145,
+            "name": "WEST NYACK 1.3 WSW, NY US",
+            "datacoverage": 0.9384,
+            "id": "GHCND:US1NYRL0005",
+            "elevationUnit": "METERS",
+            "longitude": -73.9930267333984
+        },
+        {
+            "elevation": 192.9,
+            "mindate": "2007-10-01",
+            "maxdate": "2020-05-16",
+            "latitude": 42.6391,
+            "name": "AVERILL PARK 0.9 WNW, NY US",
+            "datacoverage": 1,
+            "id": "GHCND:US1NYRN0001",
+            "elevationUnit": "METERS",
+            "longitude": -73.5698
+        },
+        {
+            "elevation": 193.9,
+            "mindate": "2010-03-01",
+            "maxdate": "2013-06-14",
+            "latitude": 42.6397,
+            "name": "AVERILL PARK 1.0 WNW, NY US",
+            "datacoverage": 0.669,
+            "id": "GHCND:US1NYRN0002",
+            "elevationUnit": "METERS",
+            "longitude": -73.5715
+        },
+        {
+            "elevation": 182,
+            "mindate": "2011-06-01",
+            "maxdate": "2013-03-18",
+            "latitude": 42.877953,
+            "name": "VALLEY FALLS 2.1 SE, NY US",
+            "datacoverage": 0.9994,
+            "id": "GHCND:US1NYRN0003",
+            "elevationUnit": "METERS",
+            "longitude": -73.535523
+        },
+        {
+            "elevation": 141.4,
+            "mindate": "2011-10-01",
+            "maxdate": "2012-09-23",
+            "latitude": 42.8962,
+            "name": "HOOSICK FALLS 0.3 SSW, NY US",
+            "datacoverage": 1,
+            "id": "GHCND:US1NYRN0004",
+            "elevationUnit": "METERS",
+            "longitude": -73.353843
+        },
+        {
+            "elevation": 163.7,
+            "mindate": "2012-04-01",
+            "maxdate": "2016-03-11",
+            "latitude": 42.773029,
+            "name": "TROY 3.3 NE, NY US",
+            "datacoverage": 0.9375,
+            "id": "GHCND:US1NYRN0005",
+            "elevationUnit": "METERS",
+            "longitude": -73.637435
+        },
+        {
+            "elevation": 49.4,
+            "mindate": "2013-05-01",
+            "maxdate": "2014-07-24",
+            "latitude": 42.528416,
+            "name": "CASTLETON ON HUDSON 0.3 SSE, NY US",
+            "datacoverage": 0.7326,
+            "id": "GHCND:US1NYRN0007",
+            "elevationUnit": "METERS",
+            "longitude": -73.74762
+        },
+        {
+            "elevation": 209.7,
+            "mindate": "2016-05-07",
+            "maxdate": "2020-05-17",
+            "latitude": 42.79035,
+            "name": "TROY 6.9 NE, NY US",
+            "datacoverage": 0.9402,
+            "id": "GHCND:US1NYRN0013",
+            "elevationUnit": "METERS",
+            "longitude": -73.56226
+        },
+        {
+            "elevation": 177.1,
+            "mindate": "2016-06-13",
+            "maxdate": "2017-09-11",
+            "latitude": 42.6665725708008,
+            "name": "WYANTSKILL 1.6 SSE, NY US",
+            "datacoverage": 0.875,
+            "id": "GHCND:US1NYRN0014",
+            "elevationUnit": "METERS",
+            "longitude": -73.642692565918
+        },
+        {
+            "elevation": 132.3,
+            "mindate": "2016-08-07",
+            "maxdate": "2020-05-16",
+            "latitude": 42.735585,
+            "name": "TROY 0.7 E, NY US",
+            "datacoverage": 1,
+            "id": "GHCND:US1NYRN0015",
+            "elevationUnit": "METERS",
+            "longitude": -73.662524
+        },
+        {
+            "elevation": 135.9,
+            "mindate": "2017-04-01",
+            "maxdate": "2020-05-17",
+            "latitude": 42.759301,
+            "name": "TROY 2.1 NNE, NY US",
+            "datacoverage": 1,
+            "id": "GHCND:US1NYRN0020",
+            "elevationUnit": "METERS",
+            "longitude": -73.65283
+        },
+        {
+            "elevation": 114,
+            "mindate": "2018-08-08",
+            "maxdate": "2020-05-17",
+            "latitude": 42.663699,
+            "name": "WYANTSKILL 2.6 SW, NY US",
+            "datacoverage": 0.8875,
+            "id": "GHCND:US1NYRN0023",
+            "elevationUnit": "METERS",
+            "longitude": -73.687678
+        },
+        {
+            "elevation": 152.7,
+            "mindate": "2018-02-14",
+            "maxdate": "2020-05-17",
+            "latitude": 42.490918,
+            "name": "NASSAU 4.2 ESE, NY US",
+            "datacoverage": 0.9608,
+            "id": "GHCND:US1NYRN0024",
+            "elevationUnit": "METERS",
+            "longitude": -73.534627
+        },
+        {
+            "elevation": 392.9,
+            "mindate": "2007-09-01",
+            "maxdate": "2012-10-11",
+            "latitude": 42.781735,
+            "name": "DELANSON 2.5 NNE, NY US",
+            "datacoverage": 0.9673,
+            "id": "GHCND:US1NYSC0001",
+            "elevationUnit": "METERS",
+            "longitude": -74.170769
+        },
+        {
+            "elevation": 83.5,
+            "mindate": "2008-09-01",
+            "maxdate": "2020-05-17",
+            "latitude": 42.844727,
+            "name": "SCOTIA 1.1 NW, NY US",
+            "datacoverage": 1,
+            "id": "GHCND:US1NYSC0002",
+            "elevationUnit": "METERS",
+            "longitude": -73.974841
+        },
+        {
+            "elevation": 100.6,
+            "mindate": "1998-06-01",
+            "maxdate": "2020-05-17",
+            "latitude": 42.79382,
+            "name": "SCHENECTADY 3.3 E, NY US",
+            "datacoverage": 0.6458,
+            "id": "GHCND:US1NYSC0011",
+            "elevationUnit": "METERS",
+            "longitude": -73.863886
+        },
+        {
+            "elevation": 82.9,
+            "mindate": "2013-05-01",
+            "maxdate": "2020-05-17",
+            "latitude": 42.846449,
+            "name": "NISKAYUNA 2.0 N, NY US",
+            "datacoverage": 0.9994,
+            "id": "GHCND:US1NYSC0016",
+            "elevationUnit": "METERS",
+            "longitude": -73.899173
+        },
+        {
+            "elevation": 389.2,
+            "mindate": "2013-07-01",
+            "maxdate": "2020-05-17",
+            "latitude": 42.831642,
+            "name": "PATTERSONVILLE 4.2 SSW, NY US",
+            "datacoverage": 1,
+            "id": "GHCND:US1NYSC0017",
+            "elevationUnit": "METERS",
+            "longitude": -74.115236
+        },
+        {
+            "elevation": 102.1,
+            "mindate": "2017-08-01",
+            "maxdate": "2020-05-16",
+            "latitude": 42.788626,
+            "name": "ROTTERDAM 0.9 NW, NY US",
+            "datacoverage": 0.8792,
+            "id": "GHCND:US1NYSC0020",
+            "elevationUnit": "METERS",
+            "longitude": -73.966719
+        },
+        {
+            "elevation": 125.9,
+            "mindate": "2019-03-17",
+            "maxdate": "2020-05-16",
+            "latitude": 42.81078,
+            "name": "NISKAYUNA 0.4 S, NY US",
+            "datacoverage": 0.815,
+            "id": "GHCND:US1NYSC0026",
+            "elevationUnit": "METERS",
+            "longitude": -73.89764
+        },
+        {
+            "elevation": 13.1,
+            "mindate": "2007-11-01",
+            "maxdate": "2020-05-16",
+            "latitude": 40.93,
+            "name": "RIVERHEAD 1.3 SSE, NY US",
+            "datacoverage": 0.901,
+            "id": "GHCND:US1NYSF0002",
+            "elevationUnit": "METERS",
+            "longitude": -72.67
+        },
+        {
+            "elevation": 25,
+            "mindate": "2007-11-01",
+            "maxdate": "2014-07-18",
+            "latitude": 40.880602,
+            "name": "MIDDLE ISLAND 0.8 ESE, NY US",
+            "datacoverage": 0.9137,
+            "id": "GHCND:US1NYSF0003",
+            "elevationUnit": "METERS",
+            "longitude": -72.929204
+        },
+        {
+            "elevation": 6.1,
+            "mindate": "2007-11-01",
+            "maxdate": "2020-05-17",
+            "latitude": 40.93639,
+            "name": "JAMESPORT 0.6 SSW, NY US",
+            "datacoverage": 1,
+            "id": "GHCND:US1NYSF0007",
+            "elevationUnit": "METERS",
+            "longitude": -72.57778
+        },
+        {
+            "elevation": 25.6,
+            "mindate": "2008-08-01",
+            "maxdate": "2020-05-17",
+            "latitude": 40.9234,
+            "name": "NORTHPORT 1.6 NNE, NY US",
+            "datacoverage": 1,
+            "id": "GHCND:US1NYSF0016",
+            "elevationUnit": "METERS",
+            "longitude": -73.3305
+        },
+        {
+            "elevation": 4.3,
+            "mindate": "2009-01-01",
+            "maxdate": "2017-10-02",
+            "latitude": 40.735077,
+            "name": "ISLIP 0.2 NW, NY US",
+            "datacoverage": 1,
+            "id": "GHCND:US1NYSF0017",
+            "elevationUnit": "METERS",
+            "longitude": -73.221241
+        },
+        {
+            "elevation": 34.4,
+            "mindate": "2009-01-01",
+            "maxdate": "2014-01-02",
+            "latitude": 40.9299,
+            "name": "SHOREHAM 1.8 SSE, NY US",
+            "datacoverage": 0.754,
+            "id": "GHCND:US1NYSF0018",
+            "elevationUnit": "METERS",
+            "longitude": -72.8988
+        },
+        {
+            "elevation": 12.8,
+            "mindate": "2009-06-01",
+            "maxdate": "2018-05-23",
+            "latitude": 40.8122876,
+            "name": "EAST MORICHES 0.6 WNW, NY US",
+            "datacoverage": 0.9999,
+            "id": "GHCND:US1NYSF0019",
+            "elevationUnit": "METERS",
+            "longitude": -72.771788
+        },
+        {
+            "elevation": 20.1,
+            "mindate": "2011-11-01",
+            "maxdate": "2020-01-23",
+            "latitude": 40.798232,
+            "name": "RONKONKOMA 1.4 WSW, NY US",
+            "datacoverage": 1,
+            "id": "GHCND:US1NYSF0024",
+            "elevationUnit": "METERS",
+            "longitude": -73.150036
+        },
+        {
+            "elevation": 60,
+            "mindate": "2001-06-01",
+            "maxdate": "2016-10-01",
+            "latitude": 40.956185,
+            "name": "ROCKY POINT 2.0 N, NY US",
+            "datacoverage": 0.2222,
+            "id": "GHCND:US1NYSF0030",
+            "elevationUnit": "METERS",
+            "longitude": -72.9196809
+        },
+        {
+            "elevation": 5.8,
+            "mindate": "2013-04-01",
+            "maxdate": "2015-02-02",
+            "latitude": 41.049709,
+            "name": "SOUTHOLD 0.7 S, NY US",
+            "datacoverage": 0.9173,
+            "id": "GHCND:US1NYSF0031",
+            "elevationUnit": "METERS",
+            "longitude": -72.430222
+        },
+        {
+            "elevation": 1.2,
+            "mindate": "2014-08-01",
+            "maxdate": "2020-05-17",
+            "latitude": 40.723405,
+            "name": "BAY SHORE 0.5 ESE, NY US",
+            "datacoverage": 0.9996,
+            "id": "GHCND:US1NYSF0034",
+            "elevationUnit": "METERS",
+            "longitude": -73.240982
+        },
+        {
+            "elevation": 41.1,
+            "mindate": "2015-03-01",
+            "maxdate": "2016-06-07",
+            "latitude": 40.936023,
+            "name": "MILLER PLACE 0.5 ENE, NY US",
+            "datacoverage": 1,
+            "id": "GHCND:US1NYSF0037",
+            "elevationUnit": "METERS",
+            "longitude": -72.979927
+        },
+        {
+            "elevation": 5.8,
+            "mindate": "2013-04-25",
+            "maxdate": "2019-12-14",
+            "latitude": 40.7369499206543,
+            "name": "SAYVILLE 0.0 N, NY US",
+            "datacoverage": 0.9985,
+            "id": "GHCND:US1NYSF0039",
+            "elevationUnit": "METERS",
+            "longitude": -73.0839004516602
+        },
+        {
+            "elevation": 20.7,
+            "mindate": "2016-01-01",
+            "maxdate": "2017-02-08",
+            "latitude": 40.727947,
+            "name": "EAST FARMINGDALE 0.9 W, NY US",
+            "datacoverage": 0.8222,
+            "id": "GHCND:US1NYSF0041",
+            "elevationUnit": "METERS",
+            "longitude": -73.434089
+        },
+        {
+            "elevation": 8.8,
+            "mindate": "2016-01-31",
+            "maxdate": "2017-10-16",
+            "latitude": 41.069047,
+            "name": "SOUTHOLD 0.7 NNE, NY US",
+            "datacoverage": 1,
+            "id": "GHCND:US1NYSF0042",
+            "elevationUnit": "METERS",
+            "longitude": -72.424272
+        },
+        {
+            "elevation": 29.3,
+            "mindate": "2016-05-15",
+            "maxdate": "2020-05-16",
+            "latitude": 40.8374,
+            "name": "SHIRLEY 2.9 N, NY US",
+            "datacoverage": 1,
+            "id": "GHCND:US1NYSF0044",
+            "elevationUnit": "METERS",
+            "longitude": -72.866779
+        },
+        {
+            "elevation": 4.6,
+            "mindate": "2007-01-22",
+            "maxdate": "2020-05-17",
+            "latitude": 40.732633,
+            "name": "SAYVILLE 1.0 SSE, NY US",
+            "datacoverage": 0.5585,
+            "id": "GHCND:US1NYSF0049",
+            "elevationUnit": "METERS",
+            "longitude": -73.080656
+        },
+        {
+            "elevation": 14.9,
+            "mindate": "2016-09-20",
+            "maxdate": "2017-12-27",
+            "latitude": 40.7718658447266,
+            "name": "PATCHOGUE 1.1 NW, NY US",
+            "datacoverage": 0.8614,
+            "id": "GHCND:US1NYSF0057",
+            "elevationUnit": "METERS",
+            "longitude": -73.0357360839844
+        },
+        {
+            "elevation": 34.4,
+            "mindate": "2016-08-26",
+            "maxdate": "2017-11-30",
+            "latitude": 40.8177261352539,
+            "name": "HOLTSVILLE 0.3 N, NY US",
+            "datacoverage": 0.6165,
+            "id": "GHCND:US1NYSF0058",
+            "elevationUnit": "METERS",
+            "longitude": -73.0478744506836
+        },
+        {
+            "elevation": 22.9,
+            "mindate": "2016-08-27",
+            "maxdate": "2018-05-04",
+            "latitude": 40.776294,
+            "name": "BOHEMIA 0.5 ENE, NY US",
+            "datacoverage": 0.8023,
+            "id": "GHCND:US1NYSF0059",
+            "elevationUnit": "METERS",
+            "longitude": -73.111945
+        },
+        {
+            "elevation": 5.2,
+            "mindate": "2016-11-15",
+            "maxdate": "2020-05-17",
+            "latitude": 40.750674,
+            "name": "BLUE POINT 0.4 E, NY US",
+            "datacoverage": 0.5641,
+            "id": "GHCND:US1NYSF0060",
+            "elevationUnit": "METERS",
+            "longitude": -73.027956
         }
     ]
 }

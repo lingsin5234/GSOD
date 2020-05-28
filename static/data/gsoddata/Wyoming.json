@@ -2,20 +2,11 @@
     "metadata": {
         "resultset": {
             "offset": 1,
-            "count": 1654,
+            "count": 1248,
             "limit": 1000
         }
     },
     "results": [
-        {
-            "mindate": "1937-07-01",
-            "maxdate": "1967-12-01",
-            "latitude": 45,
-            "name": "YELLOWSTONE NATIONAL PARK, WY US",
-            "datacoverage": 0.9644,
-            "id": "COOP:249211",
-            "longitude": -110
-        },
         {
             "elevation": 1948.6,
             "mindate": "1931-01-01",
@@ -37,28 +28,6 @@
             "id": "COOP:480027",
             "elevationUnit": "METERS",
             "longitude": -110.92168
-        },
-        {
-            "elevation": 1140.9,
-            "mindate": "1951-04-01",
-            "maxdate": "1952-02-02",
-            "latitude": 44.63333,
-            "name": "ALADDIN, WY US",
-            "datacoverage": 0.9939,
-            "id": "COOP:480050",
-            "elevationUnit": "METERS",
-            "longitude": -104.18333
-        },
-        {
-            "elevation": 1174.1,
-            "mindate": "1952-04-01",
-            "maxdate": "1952-07-01",
-            "latitude": 44.55,
-            "name": "ALADDIN 6 S, WY US",
-            "datacoverage": 0.0325,
-            "id": "COOP:480056",
-            "elevationUnit": "METERS",
-            "longitude": -104.2
         },
         {
             "elevation": 1629.2,
@@ -92,28 +61,6 @@
             "id": "COOP:480091",
             "elevationUnit": "METERS",
             "longitude": -107.01667
-        },
-        {
-            "elevation": 1940.1,
-            "mindate": "1956-04-01",
-            "maxdate": "1960-12-01",
-            "latitude": 42.61667,
-            "name": "ALCOVA 26 WNW, WY US",
-            "datacoverage": 0.9994,
-            "id": "COOP:480092",
-            "elevationUnit": "METERS",
-            "longitude": -107.2
-        },
-        {
-            "elevation": 2012.9,
-            "mindate": "1961-01-01",
-            "maxdate": "1961-12-01",
-            "latitude": 42.68333,
-            "name": "ALCOVA 29 WNW, WY US",
-            "datacoverage": 1,
-            "id": "COOP:480094",
-            "elevationUnit": "METERS",
-            "longitude": -107.25
         },
         {
             "elevation": 1962.9,
@@ -160,19 +107,8 @@
             "longitude": -108.83333
         },
         {
-            "elevation": 1464,
-            "mindate": "1960-03-01",
-            "maxdate": "1961-08-01",
-            "latitude": 43.45,
-            "name": "ANTELOPE CREEK RANCH, WY US",
-            "datacoverage": 0.6099,
-            "id": "COOP:480233",
-            "elevationUnit": "METERS",
-            "longitude": -105.5
-        },
-        {
             "elevation": 1577.6,
-            "mindate": "1950-08-01",
+            "mindate": "1966-09-01",
             "maxdate": "1982-08-01",
             "latitude": 43.43333,
             "name": "ANTELOPE SPRINGS, WY US",
@@ -180,15 +116,6 @@
             "id": "COOP:480237",
             "elevationUnit": "METERS",
             "longitude": -106.58333
-        },
-        {
-            "mindate": "1948-08-01",
-            "maxdate": "1950-04-08",
-            "latitude": 43.71667,
-            "name": "ARAPAHOE RANCH, WY US",
-            "datacoverage": 0.5,
-            "id": "COOP:480250",
-            "longitude": -108.53333
         },
         {
             "elevation": 1831.8,
@@ -200,17 +127,6 @@
             "id": "COOP:480270",
             "elevationUnit": "METERS",
             "longitude": -104.6575
-        },
-        {
-            "elevation": 1836.1,
-            "mindate": "1949-11-01",
-            "maxdate": "1966-06-01",
-            "latitude": 43.18333,
-            "name": "ARMINTO, WY US",
-            "datacoverage": 0.9852,
-            "id": "COOP:480324",
-            "elevationUnit": "METERS",
-            "longitude": -107.26667
         },
         {
             "elevation": 1135.1,
@@ -246,28 +162,6 @@
             "longitude": -108.73387
         },
         {
-            "elevation": 1894,
-            "mindate": "1949-07-01",
-            "maxdate": "1960-10-01",
-            "latitude": 42.61667,
-            "name": "ATLANTIC CITY 10 NE, WY US",
-            "datacoverage": 0.1764,
-            "id": "COOP:480434",
-            "elevationUnit": "METERS",
-            "longitude": -108.61667
-        },
-        {
-            "elevation": 1723,
-            "mindate": "1951-02-01",
-            "maxdate": "1960-12-01",
-            "latitude": 42.65,
-            "name": "ATLANTIC CITY 11 NNE, WY US",
-            "datacoverage": 0.7899,
-            "id": "COOP:480438",
-            "elevationUnit": "METERS",
-            "longitude": -108.65
-        },
-        {
             "elevation": 2499.4,
             "mindate": "1963-05-01",
             "maxdate": "1984-12-01",
@@ -277,17 +171,6 @@
             "id": "COOP:480443",
             "elevationUnit": "METERS",
             "longitude": -108.76667
-        },
-        {
-            "elevation": 1909,
-            "mindate": "1948-08-01",
-            "maxdate": "1960-04-01",
-            "latitude": 43.35,
-            "name": "BADWATER 2 N, WY US",
-            "datacoverage": 0.9479,
-            "id": "COOP:480470",
-            "elevationUnit": "METERS",
-            "longitude": -107.41667
         },
         {
             "elevation": 1926,
@@ -301,28 +184,6 @@
             "longitude": -107.6577
         },
         {
-            "elevation": 2101,
-            "mindate": "1948-01-01",
-            "maxdate": "1952-05-01",
-            "latitude": 42.25,
-            "name": "BAIROIL, WY US",
-            "datacoverage": 0.9058,
-            "id": "COOP:480498",
-            "elevationUnit": "METERS",
-            "longitude": -107.55
-        },
-        {
-            "elevation": 1570.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1958-06-24",
-            "latitude": 43.7,
-            "name": "BARNUM 1 N, WY US",
-            "datacoverage": 0.4621,
-            "id": "COOP:480528",
-            "elevationUnit": "METERS",
-            "longitude": -106.91667
-        },
-        {
             "elevation": 1170.4,
             "mindate": "1931-01-01",
             "maxdate": "2015-11-01",
@@ -332,17 +193,6 @@
             "id": "COOP:480540",
             "elevationUnit": "METERS",
             "longitude": -108.03495
-        },
-        {
-            "elevation": 1955,
-            "mindate": "1952-08-01",
-            "maxdate": "1968-12-01",
-            "latitude": 42.55,
-            "name": "BATES CREEK, WY US",
-            "datacoverage": 0.6801,
-            "id": "COOP:480550",
-            "elevationUnit": "METERS",
-            "longitude": -106.33333
         },
         {
             "elevation": 1841.6,
@@ -378,17 +228,6 @@
             "longitude": -110.90691
         },
         {
-            "elevation": 1930.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1967-08-01",
-            "latitude": 42.86667,
-            "name": "BEDFORD 2 SE, WY US",
-            "datacoverage": 0.9887,
-            "id": "COOP:480605",
-            "elevationUnit": "METERS",
-            "longitude": -110.9
-        },
-        {
             "elevation": 1830,
             "mindate": "1965-10-01",
             "maxdate": "1970-03-01",
@@ -398,17 +237,6 @@
             "id": "COOP:480614",
             "elevationUnit": "METERS",
             "longitude": -109.35
-        },
-        {
-            "elevation": 1271.9,
-            "mindate": "1952-08-01",
-            "maxdate": "1958-06-22",
-            "latitude": 44.51667,
-            "name": "BEULAH 8 WSW, WY US",
-            "datacoverage": 0.998,
-            "id": "COOP:480640",
-            "elevationUnit": "METERS",
-            "longitude": -104.26667
         },
         {
             "elevation": 1282.6,
@@ -444,28 +272,6 @@
             "longitude": -110.11271
         },
         {
-            "elevation": 2196.1,
-            "mindate": "1965-07-01",
-            "maxdate": "1968-03-01",
-            "latitude": 42.66667,
-            "name": "BIG SANDY, WY US",
-            "datacoverage": 0.848,
-            "id": "COOP:480698",
-            "elevationUnit": "METERS",
-            "longitude": -109.5
-        },
-        {
-            "elevation": 1455.1,
-            "mindate": "1964-06-01",
-            "maxdate": "1965-08-01",
-            "latitude": 43.78333,
-            "name": "BIG TRAILS, WY US",
-            "datacoverage": 0.999,
-            "id": "COOP:480708",
-            "elevationUnit": "METERS",
-            "longitude": -107.31667
-        },
-        {
             "elevation": 1437.1,
             "mindate": "1948-09-01",
             "maxdate": "1978-10-01",
@@ -475,59 +281,6 @@
             "id": "COOP:480725",
             "elevationUnit": "METERS",
             "longitude": -105.26667
-        },
-        {
-            "elevation": 1382,
-            "mindate": "1948-09-01",
-            "maxdate": "1958-06-01",
-            "latitude": 43.36667,
-            "name": "BILL 10 NE, WY US",
-            "datacoverage": 0.9581,
-            "id": "COOP:480727",
-            "elevationUnit": "METERS",
-            "longitude": -105.2
-        },
-        {
-            "elevation": 1470.1,
-            "mindate": "1948-09-01",
-            "maxdate": "1957-08-01",
-            "latitude": 43.25,
-            "name": "BILL 12 W, WY US",
-            "datacoverage": 0.9538,
-            "id": "COOP:480729",
-            "elevationUnit": "METERS",
-            "longitude": -105.48333
-        },
-        {
-            "mindate": "1948-09-01",
-            "maxdate": "1948-10-01",
-            "latitude": 43.03333,
-            "name": "BILL 14 S, WY US",
-            "datacoverage": 0.998,
-            "id": "COOP:480731",
-            "longitude": -105.21667
-        },
-        {
-            "elevation": 1382,
-            "mindate": "1948-10-01",
-            "maxdate": "1958-06-01",
-            "latitude": 43.11667,
-            "name": "BILL 14 SE, WY US",
-            "datacoverage": 0.9918,
-            "id": "COOP:480733",
-            "elevationUnit": "METERS",
-            "longitude": -105.01667
-        },
-        {
-            "elevation": 1649.9,
-            "mindate": "1948-09-01",
-            "maxdate": "1972-10-31",
-            "latitude": 43.11667,
-            "name": "BILL 15 SW, WY US",
-            "datacoverage": 0.9422,
-            "id": "COOP:480735",
-            "elevationUnit": "METERS",
-            "longitude": -105.5
         },
         {
             "elevation": 1516.4,
@@ -607,17 +360,6 @@
             "longitude": -108.16338
         },
         {
-            "elevation": 1129,
-            "mindate": "1948-09-01",
-            "maxdate": "1957-08-01",
-            "latitude": 43.35,
-            "name": "BRIGHT 7 NE, WY US",
-            "datacoverage": 1,
-            "id": "COOP:481032",
-            "elevationUnit": "METERS",
-            "longitude": -104.26667
-        },
-        {
             "elevation": 1853.2,
             "mindate": "2002-03-01",
             "maxdate": "2015-11-01",
@@ -627,17 +369,6 @@
             "id": "COOP:481131",
             "elevationUnit": "METERS",
             "longitude": -109.5966
-        },
-        {
-            "elevation": 1598.1,
-            "mindate": "1940-07-01",
-            "maxdate": "1964-05-01",
-            "latitude": 44.36667,
-            "name": "BUFFALO 5 W, WY US",
-            "datacoverage": 0.9651,
-            "id": "COOP:481160",
-            "elevationUnit": "METERS",
-            "longitude": -106.8
         },
         {
             "elevation": 1414,
@@ -662,17 +393,6 @@
             "longitude": -106.7887
         },
         {
-            "elevation": 1513,
-            "mindate": "1949-10-01",
-            "maxdate": "1954-05-01",
-            "latitude": 44.48333,
-            "name": "BUFFALO 11 NW, WY US",
-            "datacoverage": 0.9818,
-            "id": "COOP:481170",
-            "elevationUnit": "METERS",
-            "longitude": -106.8
-        },
-        {
             "elevation": 2535,
             "mindate": "1962-06-01",
             "maxdate": "1973-04-01",
@@ -682,17 +402,6 @@
             "id": "COOP:481171",
             "elevationUnit": "METERS",
             "longitude": -106.91667
-        },
-        {
-            "elevation": 1457.9,
-            "mindate": "1950-07-01",
-            "maxdate": "1958-06-01",
-            "latitude": 44.06667,
-            "name": "BUFFALO 21 S, WY US",
-            "datacoverage": 1,
-            "id": "COOP:481172",
-            "elevationUnit": "METERS",
-            "longitude": -106.66667
         },
         {
             "elevation": 1572.8,
@@ -717,19 +426,8 @@
             "longitude": -107.5216
         },
         {
-            "elevation": 1350.9,
-            "mindate": "1950-02-01",
-            "maxdate": "1957-12-01",
-            "latitude": 44.45,
-            "name": "BURLINGTON, WY US",
-            "datacoverage": 0.9682,
-            "id": "COOP:481240",
-            "elevationUnit": "METERS",
-            "longitude": -108.41667
-        },
-        {
             "elevation": 1866.9,
-            "mindate": "1951-11-01",
+            "mindate": "1951-12-01",
             "maxdate": "2015-11-01",
             "latitude": 43.36556,
             "name": "BURRIS, WY US",
@@ -827,17 +525,6 @@
             "longitude": -104.80622
         },
         {
-            "elevation": 1905.9,
-            "mindate": "1935-01-01",
-            "maxdate": "1957-08-01",
-            "latitude": 41.18333,
-            "name": "CHEYENNE HORT F STATION, WY US",
-            "datacoverage": 0.9191,
-            "id": "COOP:481680",
-            "elevationUnit": "METERS",
-            "longitude": -104.88333
-        },
-        {
             "elevation": 1852,
             "mindate": "2011-01-01",
             "maxdate": "2015-11-01",
@@ -871,61 +558,6 @@
             "longitude": -110.08837
         },
         {
-            "elevation": 1922.1,
-            "mindate": "1951-03-01",
-            "maxdate": "1957-11-01",
-            "latitude": 44.5,
-            "name": "CIRCLE H RANCH, WY US",
-            "datacoverage": 0.8072,
-            "id": "COOP:481743",
-            "elevationUnit": "METERS",
-            "longitude": -109.53333
-        },
-        {
-            "elevation": 1286.9,
-            "mindate": "1948-10-01",
-            "maxdate": "1955-08-01",
-            "latitude": 43.73333,
-            "name": "CLARETON 3 NE, WY US",
-            "datacoverage": 0.8036,
-            "id": "COOP:481750",
-            "elevationUnit": "METERS",
-            "longitude": -104.66667
-        },
-        {
-            "elevation": 1275,
-            "mindate": "1948-10-01",
-            "maxdate": "1957-08-01",
-            "latitude": 43.5,
-            "name": "CLARETON 16 SW, WY US",
-            "datacoverage": 0.8411,
-            "id": "COOP:481752",
-            "elevationUnit": "METERS",
-            "longitude": -104.86667
-        },
-        {
-            "elevation": 1286.9,
-            "mindate": "1958-06-01",
-            "maxdate": "1960-12-01",
-            "latitude": 44.85,
-            "name": "CLARK 4 S, WY US",
-            "datacoverage": 0.9985,
-            "id": "COOP:481768",
-            "elevationUnit": "METERS",
-            "longitude": -109.18333
-        },
-        {
-            "elevation": 1382,
-            "mindate": "1931-01-01",
-            "maxdate": "1958-05-01",
-            "latitude": 44.9,
-            "name": "CLARK 4 SW, WY US",
-            "datacoverage": 0.6414,
-            "id": "COOP:481770",
-            "elevationUnit": "METERS",
-            "longitude": -109.23333
-        },
-        {
             "elevation": 1254.9,
             "mindate": "1961-02-01",
             "maxdate": "2015-11-01",
@@ -935,17 +567,6 @@
             "id": "COOP:481775",
             "elevationUnit": "METERS",
             "longitude": -109.13736
-        },
-        {
-            "elevation": 1528,
-            "mindate": "1931-01-01",
-            "maxdate": "1948-09-01",
-            "latitude": 43.93333,
-            "name": "CLARKELEN 10 SW, WY US",
-            "datacoverage": 0.9953,
-            "id": "COOP:481780",
-            "elevationUnit": "METERS",
-            "longitude": -105.7
         },
         {
             "elevation": 1217.7,
@@ -968,17 +589,6 @@
             "id": "COOP:481840",
             "elevationUnit": "METERS",
             "longitude": -109.1112
-        },
-        {
-            "elevation": 1539.8,
-            "mindate": "1949-08-01",
-            "maxdate": "1960-01-01",
-            "latitude": 44.51667,
-            "name": "CODY 1 SSE, WY US",
-            "datacoverage": 0.9017,
-            "id": "COOP:481845",
-            "elevationUnit": "METERS",
-            "longitude": -109.05
         },
         {
             "elevation": 1599.6,
@@ -1047,48 +657,15 @@
             "longitude": -109.6436
         },
         {
-            "elevation": 2073.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1938-01-01",
-            "latitude": 44.83333,
-            "name": "CRANDALL CREEK NEAR, WY US",
-            "datacoverage": 0.9762,
-            "id": "COOP:482140",
-            "elevationUnit": "METERS",
-            "longitude": -109.66667
-        },
-        {
             "elevation": 2147,
-            "mindate": "1948-01-01",
+            "mindate": "1948-08-01",
             "maxdate": "1984-03-01",
             "latitude": 41.73333,
             "name": "CRESTON, WY US",
-            "datacoverage": 0.6892,
+            "datacoverage": 0.016,
             "id": "COOP:482175",
             "elevationUnit": "METERS",
             "longitude": -107.73333
-        },
-        {
-            "elevation": 1851.1,
-            "mindate": "1949-09-01",
-            "maxdate": "1950-02-12",
-            "latitude": 43.3,
-            "name": "CROWHEART, WY US",
-            "datacoverage": 0.6727,
-            "id": "COOP:482223",
-            "elevationUnit": "METERS",
-            "longitude": -109.18333
-        },
-        {
-            "elevation": 1815.1,
-            "mindate": "1950-06-01",
-            "maxdate": "1951-12-01",
-            "latitude": 43.3,
-            "name": "CROWHEART 2 E, WY US",
-            "datacoverage": 0.666,
-            "id": "COOP:482228",
-            "elevationUnit": "METERS",
-            "longitude": -109.13333
         },
         {
             "elevation": 2237.5,
@@ -1146,17 +723,6 @@
             "longitude": -108.59291
         },
         {
-            "elevation": 1321,
-            "mindate": "1932-07-01",
-            "maxdate": "1958-12-01",
-            "latitude": 44.58333,
-            "name": "DEVILS TOWER, WY US",
-            "datacoverage": 0.7484,
-            "id": "COOP:482465",
-            "elevationUnit": "METERS",
-            "longitude": -104.71667
-        },
-        {
             "elevation": 1177.1,
             "mindate": "1959-01-01",
             "maxdate": "2015-11-01",
@@ -1190,17 +756,6 @@
             "longitude": -108.91332
         },
         {
-            "elevation": 1695.9,
-            "mindate": "1955-04-01",
-            "maxdate": "1958-06-25",
-            "latitude": 43.23333,
-            "name": "DIVERSION DAM 1 E, WY US",
-            "datacoverage": 0.0198,
-            "id": "COOP:482596",
-            "elevationUnit": "METERS",
-            "longitude": -108.93333
-        },
-        {
             "elevation": 1940.1,
             "mindate": "1931-01-01",
             "maxdate": "1978-06-01",
@@ -1210,17 +765,6 @@
             "id": "COOP:482610",
             "elevationUnit": "METERS",
             "longitude": -107.53333
-        },
-        {
-            "elevation": 2689.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1944-04-01",
-            "latitude": 44.58333,
-            "name": "DOME LAKE, WY US",
-            "datacoverage": 0.9314,
-            "id": "COOP:482638",
-            "elevationUnit": "METERS",
-            "longitude": -107.28333
         },
         {
             "elevation": 1865.4,
@@ -1257,17 +801,6 @@
         },
         {
             "elevation": 1464.6,
-            "mindate": "1941-05-01",
-            "maxdate": "1960-03-01",
-            "latitude": 42.7444,
-            "name": "DOUGLAS, WY US",
-            "datacoverage": 0.9867,
-            "id": "COOP:482690",
-            "elevationUnit": "METERS",
-            "longitude": -105.3897
-        },
-        {
-            "elevation": 1464.6,
             "mindate": "1962-08-01",
             "maxdate": "2010-01-01",
             "latitude": 42.7444,
@@ -1279,11 +812,11 @@
         },
         {
             "elevation": 1502.7,
-            "mindate": "1949-07-01",
+            "mindate": "1957-09-01",
             "maxdate": "2014-01-01",
             "latitude": 42.9533,
             "name": "DOUGLAS 17 NE, WY US",
-            "datacoverage": 0.9998,
+            "datacoverage": 0.0184,
             "id": "COOP:482696",
             "elevationUnit": "METERS",
             "longitude": -105.165
@@ -1320,28 +853,6 @@
             "id": "COOP:482725",
             "elevationUnit": "METERS",
             "longitude": -104.9614
-        },
-        {
-            "elevation": 2135.1,
-            "mindate": "1951-06-01",
-            "maxdate": "1958-06-01",
-            "latitude": 43.61667,
-            "name": "DUNCAN, WY US",
-            "datacoverage": 0.8942,
-            "id": "COOP:482737",
-            "elevationUnit": "METERS",
-            "longitude": -109.4
-        },
-        {
-            "elevation": 2122.9,
-            "mindate": "1949-08-01",
-            "maxdate": "1952-12-01",
-            "latitude": 44.5,
-            "name": "EAST GATE Y NATIONAL PARK, WY US",
-            "datacoverage": 0.9991,
-            "id": "COOP:482845",
-            "elevationUnit": "METERS",
-            "longitude": -110
         },
         {
             "elevation": 1219.2,
@@ -1393,43 +904,10 @@
             "maxdate": "2014-01-01",
             "latitude": 41.2058,
             "name": "ENCAMPMENT, WY US",
-            "datacoverage": 0.9216,
+            "datacoverage": 0.0238,
             "id": "COOP:483050",
             "elevationUnit": "METERS",
             "longitude": -106.7883
-        },
-        {
-            "elevation": 2073.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1950-05-01",
-            "latitude": 42.85,
-            "name": "ERVAY, WY US",
-            "datacoverage": 0.6739,
-            "id": "COOP:483060",
-            "elevationUnit": "METERS",
-            "longitude": -107.35
-        },
-        {
-            "elevation": 2030.9,
-            "mindate": "1950-09-01",
-            "maxdate": "1954-07-01",
-            "latitude": 42.86667,
-            "name": "ERVAY 3 NW, WY US",
-            "datacoverage": 1,
-            "id": "COOP:483064",
-            "elevationUnit": "METERS",
-            "longitude": -107.4
-        },
-        {
-            "elevation": 1905.9,
-            "mindate": "1952-05-01",
-            "maxdate": "1958-06-01",
-            "latitude": 42.41667,
-            "name": "ESTERBROOK, WY US",
-            "datacoverage": 1,
-            "id": "COOP:483073",
-            "elevationUnit": "METERS",
-            "longitude": -105.36667
         },
         {
             "elevation": 2080.3,
@@ -1465,17 +943,6 @@
             "longitude": -110.06113
         },
         {
-            "elevation": 2140.9,
-            "mindate": "1940-09-01",
-            "maxdate": "1966-04-01",
-            "latitude": 41.4,
-            "name": "FORT BRIDGER AIRPORT, WY US",
-            "datacoverage": 0.847,
-            "id": "COOP:483430",
-            "elevationUnit": "METERS",
-            "longitude": -110.41667
-        },
-        {
             "elevation": 1452.1,
             "mindate": "1931-01-01",
             "maxdate": "1979-04-01",
@@ -1509,37 +976,6 @@
             "longitude": -110.77045
         },
         {
-            "elevation": 1769.1,
-            "mindate": "1948-01-01",
-            "maxdate": "1950-09-01",
-            "latitude": 44.13333,
-            "name": "FOUR CORNERS 5 NW, WY US",
-            "datacoverage": 1,
-            "id": "COOP:483614",
-            "elevationUnit": "METERS",
-            "longitude": -104.21667
-        },
-        {
-            "elevation": 1656,
-            "mindate": "1948-09-01",
-            "maxdate": "1957-08-01",
-            "latitude": 44.01667,
-            "name": "FOUR CORNERS 5 S, WY US",
-            "datacoverage": 1,
-            "id": "COOP:483616",
-            "elevationUnit": "METERS",
-            "longitude": -104.16667
-        },
-        {
-            "mindate": "1950-11-01",
-            "maxdate": "1952-07-01",
-            "latitude": 44.06667,
-            "name": "FOUR CORNERS 6 WSW, WY US",
-            "datacoverage": 1,
-            "id": "COOP:483618",
-            "longitude": -104.26667
-        },
-        {
             "elevation": 2763.6,
             "mindate": "1931-01-01",
             "maxdate": "1979-06-01",
@@ -1549,39 +985,6 @@
             "id": "COOP:483630",
             "elevationUnit": "METERS",
             "longitude": -106.15
-        },
-        {
-            "elevation": 1296,
-            "mindate": "1948-08-01",
-            "maxdate": "1966-09-01",
-            "latitude": 44.78333,
-            "name": "GARLAND, WY US",
-            "datacoverage": 0.9479,
-            "id": "COOP:483770",
-            "elevationUnit": "METERS",
-            "longitude": -108.66667
-        },
-        {
-            "elevation": 2080,
-            "mindate": "1951-09-01",
-            "maxdate": "1956-01-02",
-            "latitude": 42.11667,
-            "name": "GARRETT, WY US",
-            "datacoverage": 0.5689,
-            "id": "COOP:483784",
-            "elevationUnit": "METERS",
-            "longitude": -105.6
-        },
-        {
-            "elevation": 2169,
-            "mindate": "1956-05-01",
-            "maxdate": "1958-06-25",
-            "latitude": 42.13333,
-            "name": "GARRETT 3 WNW, WY US",
-            "datacoverage": 0.0258,
-            "id": "COOP:483787",
-            "elevationUnit": "METERS",
-            "longitude": -105.65
         },
         {
             "elevation": 1972.1,
@@ -1604,17 +1007,6 @@
             "id": "COOP:483855",
             "elevationUnit": "METERS",
             "longitude": -105.4489
-        },
-        {
-            "elevation": 1478.9,
-            "mindate": "1948-08-01",
-            "maxdate": "1960-06-01",
-            "latitude": 44.21667,
-            "name": "GILLETTE 9 SW, WY US",
-            "datacoverage": 0.6223,
-            "id": "COOP:483860",
-            "elevationUnit": "METERS",
-            "longitude": -105.63333
         },
         {
             "elevation": 1495,
@@ -1650,17 +1042,6 @@
             "longitude": -104.9152
         },
         {
-            "elevation": 1506.9,
-            "mindate": "1963-12-01",
-            "maxdate": "1966-10-01",
-            "latitude": 42.46667,
-            "name": "GLENDO 8 SW, WY US",
-            "datacoverage": 0.0571,
-            "id": "COOP:483940",
-            "elevationUnit": "METERS",
-            "longitude": -105.16667
-        },
-        {
             "elevation": 1508.2,
             "mindate": "1941-07-01",
             "maxdate": "2008-01-01",
@@ -1670,28 +1051,6 @@
             "id": "COOP:483950",
             "elevationUnit": "METERS",
             "longitude": -105.7877
-        },
-        {
-            "elevation": 1800.1,
-            "mindate": "1949-11-01",
-            "maxdate": "1950-05-01",
-            "latitude": 42.73333,
-            "name": "GLENROCK 12 SW, WY US",
-            "datacoverage": 0.8585,
-            "id": "COOP:483951",
-            "elevationUnit": "METERS",
-            "longitude": -106.01667
-        },
-        {
-            "elevation": 1741.9,
-            "mindate": "1948-09-01",
-            "maxdate": "1953-12-01",
-            "latitude": 43.1,
-            "name": "GLENROCK 16 N, WY US",
-            "datacoverage": 0.9844,
-            "id": "COOP:483952",
-            "elevationUnit": "METERS",
-            "longitude": -105.83333
         },
         {
             "elevation": 1961.1,
@@ -1705,28 +1064,6 @@
             "longitude": -105.81667
         },
         {
-            "elevation": 1705.1,
-            "mindate": "1954-01-01",
-            "maxdate": "1958-06-01",
-            "latitude": 43.06667,
-            "name": "GLENROCK 18 NE, WY US",
-            "datacoverage": 1,
-            "id": "COOP:483962",
-            "elevationUnit": "METERS",
-            "longitude": -105.65
-        },
-        {
-            "elevation": 1617,
-            "mindate": "1964-06-01",
-            "maxdate": "1966-05-01",
-            "latitude": 44.03333,
-            "name": "GOOSEBERRY CREEK, WY US",
-            "datacoverage": 0.6671,
-            "id": "COOP:483972",
-            "elevationUnit": "METERS",
-            "longitude": -108.6
-        },
-        {
             "elevation": 1700.5,
             "mindate": "1949-07-01",
             "maxdate": "1990-03-01",
@@ -1736,17 +1073,6 @@
             "id": "COOP:484036",
             "elevationUnit": "METERS",
             "longitude": -108.65
-        },
-        {
-            "elevation": 2208,
-            "mindate": "1942-09-01",
-            "maxdate": "1952-09-01",
-            "latitude": 44.13333,
-            "name": "GRASSY LAKE DAM, WY US",
-            "datacoverage": 0.6859,
-            "id": "COOP:484050",
-            "elevationUnit": "METERS",
-            "longitude": -110.83333
         },
         {
             "elevation": 1877.6,
@@ -1771,28 +1097,6 @@
             "longitude": -108.05359
         },
         {
-            "elevation": 1866.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1957-04-01",
-            "latitude": 42.75,
-            "name": "GROVER 2 S, WY US",
-            "datacoverage": 0.978,
-            "id": "COOP:484095",
-            "elevationUnit": "METERS",
-            "longitude": -110.91667
-        },
-        {
-            "elevation": 1373.1,
-            "mindate": "1944-09-01",
-            "maxdate": "1962-05-01",
-            "latitude": 42.3,
-            "name": "GUERNSEY DAM, WY US",
-            "datacoverage": 0.9955,
-            "id": "COOP:484125",
-            "elevationUnit": "METERS",
-            "longitude": -104.76667
-        },
-        {
             "elevation": 1327.4,
             "mindate": "1962-06-01",
             "maxdate": "2014-01-01",
@@ -1804,19 +1108,8 @@
             "longitude": -104.7625
         },
         {
-            "elevation": 2272,
-            "mindate": "1951-07-01",
-            "maxdate": "1955-12-01",
-            "latitude": 43.71667,
-            "name": "H M RANCH, WY US",
-            "datacoverage": 0.9066,
-            "id": "COOP:484169",
-            "elevationUnit": "METERS",
-            "longitude": -109.81667
-        },
-        {
             "elevation": 1709.9,
-            "mindate": "1950-06-01",
+            "mindate": "1950-08-01",
             "maxdate": "2015-11-01",
             "latitude": 43.7731,
             "name": "HAMILTON DOME, WY US",
@@ -1824,28 +1117,6 @@
             "id": "COOP:484205",
             "elevationUnit": "METERS",
             "longitude": -108.5727
-        },
-        {
-            "elevation": 1263.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1955-08-01",
-            "latitude": 43.55,
-            "name": "HAMPSHIRE 3 SW, WY US",
-            "datacoverage": 0.9325,
-            "id": "COOP:484225",
-            "elevationUnit": "METERS",
-            "longitude": -104.73333
-        },
-        {
-            "elevation": 1314.9,
-            "mindate": "1955-11-01",
-            "maxdate": "1960-01-01",
-            "latitude": 43.65,
-            "name": "HAMPSHIRE 9 NE, WY US",
-            "datacoverage": 0.9996,
-            "id": "COOP:484230",
-            "elevationUnit": "METERS",
-            "longitude": -104.55
         },
         {
             "elevation": 1582.2,
@@ -1859,17 +1130,6 @@
             "longitude": -104.69917
         },
         {
-            "elevation": 1373.1,
-            "mindate": "1948-09-01",
-            "maxdate": "1967-08-01",
-            "latitude": 42.93333,
-            "name": "HAT CREEK, WY US",
-            "datacoverage": 0.978,
-            "id": "COOP:484300",
-            "elevationUnit": "METERS",
-            "longitude": -104.36667
-        },
-        {
             "elevation": 1335,
             "mindate": "1967-08-01",
             "maxdate": "1983-11-01",
@@ -1881,46 +1141,15 @@
             "longitude": -104.31667
         },
         {
-            "mindate": "1948-09-01",
-            "maxdate": "1950-06-01",
-            "latitude": 42.93333,
-            "name": "HAT CREEK 9 E, WY US",
-            "datacoverage": 0.7746,
-            "id": "COOP:484305",
-            "longitude": -104.13333
-        },
-        {
             "elevation": 1318,
-            "mindate": "1948-09-01",
+            "mindate": "1950-08-01",
             "maxdate": "1984-02-01",
             "latitude": 43.13333,
             "name": "HAT CREEK 14 N, WY US",
-            "datacoverage": 0.9806,
+            "datacoverage": 0.0307,
             "id": "COOP:484310",
             "elevationUnit": "METERS",
             "longitude": -104.36667
-        },
-        {
-            "elevation": 1275,
-            "mindate": "1948-09-01",
-            "maxdate": "1957-08-01",
-            "latitude": 43.13333,
-            "name": "HAT CREEK 15 NNE, WY US",
-            "datacoverage": 0.889,
-            "id": "COOP:484315",
-            "elevationUnit": "METERS",
-            "longitude": -104.23333
-        },
-        {
-            "elevation": 1339,
-            "mindate": "1938-08-01",
-            "maxdate": "1947-06-01",
-            "latitude": 41.78333,
-            "name": "HAWK SPRINGS, WY US",
-            "datacoverage": 0.7759,
-            "id": "COOP:484360",
-            "elevationUnit": "METERS",
-            "longitude": -104.3
         },
         {
             "elevation": 1460,
@@ -1954,17 +1183,6 @@
             "id": "COOP:484442",
             "elevationUnit": "METERS",
             "longitude": -105.1667
-        },
-        {
-            "elevation": 1830,
-            "mindate": "1950-06-01",
-            "maxdate": "1958-06-24",
-            "latitude": 43.11667,
-            "name": "HILAND, WY US",
-            "datacoverage": 0.8982,
-            "id": "COOP:484546",
-            "elevationUnit": "METERS",
-            "longitude": -107.33333
         },
         {
             "elevation": 1925.1,
@@ -2011,28 +1229,6 @@
             "longitude": -104.6027
         },
         {
-            "elevation": 2257,
-            "mindate": "1931-01-01",
-            "maxdate": "1952-01-01",
-            "latitude": 44.36667,
-            "name": "HUNTERS STATION, WY US",
-            "datacoverage": 0.8339,
-            "id": "COOP:484770",
-            "elevationUnit": "METERS",
-            "longitude": -106.95
-        },
-        {
-            "elevation": 1363.1,
-            "mindate": "1949-08-01",
-            "maxdate": "1958-06-24",
-            "latitude": 44.25,
-            "name": "HYATTVILLE, WY US",
-            "datacoverage": 0.7311,
-            "id": "COOP:484796",
-            "elevationUnit": "METERS",
-            "longitude": -107.58333
-        },
-        {
             "elevation": 1174.4,
             "mindate": "2007-04-01",
             "maxdate": "2015-11-01",
@@ -2042,17 +1238,6 @@
             "id": "COOP:484799",
             "elevationUnit": "METERS",
             "longitude": -106.9644
-        },
-        {
-            "elevation": 1780,
-            "mindate": "1951-07-01",
-            "maxdate": "1958-08-01",
-            "latitude": 44.3366,
-            "name": "CODY 21 SW, WY US",
-            "datacoverage": 0.9995,
-            "id": "COOP:484885",
-            "elevationUnit": "METERS",
-            "longitude": -109.3913
         },
         {
             "elevation": 1892.8,
@@ -2093,43 +1278,10 @@
             "maxdate": "2014-01-01",
             "latitude": 41.0599,
             "name": "JELM 2 S, WY US",
-            "datacoverage": 0.9742,
+            "datacoverage": 0.0241,
             "id": "COOP:484930",
             "elevationUnit": "METERS",
             "longitude": -106.0263
-        },
-        {
-            "elevation": 1628.9,
-            "mindate": "1941-08-01",
-            "maxdate": "1952-12-01",
-            "latitude": 42.78333,
-            "name": "JIREH, WY US",
-            "datacoverage": 0.9706,
-            "id": "COOP:484970",
-            "elevationUnit": "METERS",
-            "longitude": -104.7
-        },
-        {
-            "elevation": 1110.1,
-            "mindate": "1949-08-01",
-            "maxdate": "1958-06-24",
-            "latitude": 44.85,
-            "name": "KANE, WY US",
-            "datacoverage": 0.885,
-            "id": "COOP:485021",
-            "elevationUnit": "METERS",
-            "longitude": -108.2
-        },
-        {
-            "elevation": 1150,
-            "mindate": "1951-11-01",
-            "maxdate": "1958-04-01",
-            "latitude": 44.83333,
-            "name": "KANE 2 SW, WY US",
-            "datacoverage": 0.9967,
-            "id": "COOP:485026",
-            "elevationUnit": "METERS",
-            "longitude": -108.23333
         },
         {
             "elevation": 1420.4,
@@ -2141,28 +1293,6 @@
             "id": "COOP:485055",
             "elevationUnit": "METERS",
             "longitude": -106.6375
-        },
-        {
-            "elevation": 1726.1,
-            "mindate": "1949-11-01",
-            "maxdate": "1958-06-01",
-            "latitude": 43.76667,
-            "name": "KAYCEE 17 WNW, WY US",
-            "datacoverage": 0.9428,
-            "id": "COOP:485060",
-            "elevationUnit": "METERS",
-            "longitude": -106.96667
-        },
-        {
-            "elevation": 1659,
-            "mindate": "1949-11-01",
-            "maxdate": "1966-08-01",
-            "latitude": 43.35,
-            "name": "KAYCEE 26 SSW, WY US",
-            "datacoverage": 1,
-            "id": "COOP:485065",
-            "elevationUnit": "METERS",
-            "longitude": -106.76667
         },
         {
             "elevation": 1609.3,
@@ -2209,28 +1339,6 @@
             "longitude": -109.98333
         },
         {
-            "elevation": 1278,
-            "mindate": "1949-10-01",
-            "maxdate": "1959-01-01",
-            "latitude": 44.38333,
-            "name": "KEYHOLE DAM, WY US",
-            "datacoverage": 0.9999,
-            "id": "COOP:485137",
-            "elevationUnit": "METERS",
-            "longitude": -104.76667
-        },
-        {
-            "elevation": 1524.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1964-09-01",
-            "latitude": 42.81667,
-            "name": "LUSK 18 ENE, WY US",
-            "datacoverage": 0.9902,
-            "id": "COOP:485170",
-            "elevationUnit": "METERS",
-            "longitude": -104.11667
-        },
-        {
             "elevation": 2799.9,
             "mindate": "1969-01-01",
             "maxdate": "1975-09-01",
@@ -2240,17 +1348,6 @@
             "id": "COOP:485186",
             "elevationUnit": "METERS",
             "longitude": -109.28333
-        },
-        {
-            "elevation": 1373.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1943-04-01",
-            "latitude": 44.75,
-            "name": "KNOWLES, WY US",
-            "datacoverage": 1,
-            "id": "COOP:485226",
-            "elevationUnit": "METERS",
-            "longitude": -104.36667
         },
         {
             "elevation": 2011.1,
@@ -2298,11 +1395,11 @@
         },
         {
             "elevation": 1344.8,
-            "mindate": "1948-09-01",
+            "mindate": "1950-08-01",
             "maxdate": "2014-01-01",
             "latitude": 43.0388,
             "name": "LANCE CREEK 1 W, WY US",
-            "datacoverage": 0.8845,
+            "datacoverage": 0.0257,
             "id": "COOP:485371",
             "elevationUnit": "METERS",
             "longitude": -104.6633
@@ -2319,17 +1416,6 @@
             "longitude": -104.7
         },
         {
-            "elevation": 1275,
-            "mindate": "1948-09-01",
-            "maxdate": "1958-06-01",
-            "latitude": 43.2,
-            "name": "LANCE CREEK 10 N, WY US",
-            "datacoverage": 0.975,
-            "id": "COOP:485373",
-            "elevationUnit": "METERS",
-            "longitude": -104.65
-        },
-        {
             "elevation": 1281.4,
             "mindate": "2005-10-01",
             "maxdate": "2015-11-01",
@@ -2339,24 +1425,6 @@
             "id": "COOP:485374",
             "elevationUnit": "METERS",
             "longitude": -104.6036
-        },
-        {
-            "mindate": "1948-09-01",
-            "maxdate": "1951-09-01",
-            "latitude": 43,
-            "name": "LANCE CREEK 12 WSW, WY US",
-            "datacoverage": 0.974,
-            "id": "COOP:485375",
-            "longitude": -104.9
-        },
-        {
-            "mindate": "1951-12-01",
-            "maxdate": "1957-09-01",
-            "latitude": 43.16667,
-            "name": "LANCE CREEK 14 NW, WY US",
-            "datacoverage": 0.9998,
-            "id": "COOP:485376",
-            "longitude": -104.85
         },
         {
             "elevation": 1255.8,
@@ -2390,28 +1458,6 @@
             "id": "COOP:485392",
             "elevationUnit": "METERS",
             "longitude": -108.73721
-        },
-        {
-            "elevation": 1723,
-            "mindate": "1961-01-01",
-            "maxdate": "1963-02-01",
-            "latitude": 42.66667,
-            "name": "LANDER 12 SSE, WY US",
-            "datacoverage": 1,
-            "id": "COOP:485400",
-            "elevationUnit": "METERS",
-            "longitude": -108.68333
-        },
-        {
-            "elevation": 2186.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1961-12-01",
-            "latitude": 41.31667,
-            "name": "LARAMIE 2, WY US",
-            "datacoverage": 1,
-            "id": "COOP:485410",
-            "elevationUnit": "METERS",
-            "longitude": -105.58333
         },
         {
             "elevation": 2186.9,
@@ -2463,21 +1509,10 @@
             "maxdate": "2010-06-01",
             "latitude": 41.3041,
             "name": "LARAMIE 2 WSW, WY US",
-            "datacoverage": 1,
+            "datacoverage": 0.0161,
             "id": "COOP:485420",
             "elevationUnit": "METERS",
             "longitude": -105.6408
-        },
-        {
-            "elevation": 2308.9,
-            "mindate": "1955-12-01",
-            "maxdate": "1958-04-01",
-            "latitude": 41.06667,
-            "name": "LARAMIE 18 SSW, WY US",
-            "datacoverage": 0.9649,
-            "id": "COOP:485430",
-            "elevationUnit": "METERS",
-            "longitude": -105.65
         },
         {
             "elevation": 2176.3,
@@ -2491,17 +1526,6 @@
             "longitude": -105.60647
         },
         {
-            "elevation": 1473.1,
-            "mindate": "1948-09-01",
-            "maxdate": "1957-08-01",
-            "latitude": 43.86667,
-            "name": "LAWVER, WY US",
-            "datacoverage": 0.9908,
-            "id": "COOP:485465",
-            "elevationUnit": "METERS",
-            "longitude": -105.23333
-        },
-        {
             "elevation": 1495,
             "mindate": "1941-08-01",
             "maxdate": "1978-05-01",
@@ -2511,17 +1535,6 @@
             "id": "COOP:485467",
             "elevationUnit": "METERS",
             "longitude": -105.38333
-        },
-        {
-            "elevation": 1238.1,
-            "mindate": "1950-11-01",
-            "maxdate": "1958-06-01",
-            "latitude": 44.25,
-            "name": "LEATH RANCH, WY US",
-            "datacoverage": 0.9896,
-            "id": "COOP:485486",
-            "elevationUnit": "METERS",
-            "longitude": -106.1
         },
         {
             "elevation": 1268,
@@ -2568,17 +1581,6 @@
             "longitude": -104.3899
         },
         {
-            "elevation": 2239.1,
-            "mindate": "1948-08-01",
-            "maxdate": "1961-07-01",
-            "latitude": 42.43333,
-            "name": "LITTLE MEDICINE 4 NN, WY US",
-            "datacoverage": 0.7636,
-            "id": "COOP:485685",
-            "elevationUnit": "METERS",
-            "longitude": -106.03333
-        },
-        {
             "elevation": 2301.8,
             "mindate": "1993-11-01",
             "maxdate": "2010-08-01",
@@ -2588,17 +1590,6 @@
             "id": "COOP:485703",
             "elevationUnit": "METERS",
             "longitude": -110.1541
-        },
-        {
-            "elevation": 2126,
-            "mindate": "1933-02-01",
-            "maxdate": "1965-07-01",
-            "latitude": 41.83333,
-            "name": "LOOKOUT 14 NE, WY US",
-            "datacoverage": 0.8847,
-            "id": "COOP:485720",
-            "elevationUnit": "METERS",
-            "longitude": -105.63333
         },
         {
             "elevation": 1650.5,
@@ -2623,17 +1614,6 @@
             "longitude": -108.404
         },
         {
-            "elevation": 1189.9,
-            "mindate": "1943-06-01",
-            "maxdate": "1956-12-01",
-            "latitude": 44.5,
-            "name": "LOWER CRAZY WOMAN CR, WY US",
-            "datacoverage": 0.9936,
-            "id": "COOP:485780",
-            "elevationUnit": "METERS",
-            "longitude": -106.18333
-        },
-        {
             "elevation": 1551.4,
             "mindate": "1931-01-01",
             "maxdate": "2007-11-01",
@@ -2643,17 +1623,6 @@
             "id": "COOP:485830",
             "elevationUnit": "METERS",
             "longitude": -104.4811
-        },
-        {
-            "elevation": 1524.9,
-            "mindate": "1964-10-01",
-            "maxdate": "1968-03-01",
-            "latitude": 42.81667,
-            "name": "LUSK 18 ENE, WY US",
-            "datacoverage": 0.9765,
-            "id": "COOP:485832",
-            "elevationUnit": "METERS",
-            "longitude": -104.11667
         },
         {
             "elevation": 1260.7,
@@ -2667,83 +1636,6 @@
             "longitude": -104.0669
         },
         {
-            "elevation": 2044,
-            "mindate": "1931-02-01",
-            "maxdate": "1960-04-01",
-            "latitude": 41.33333,
-            "name": "LYMAN, WY US",
-            "datacoverage": 0.4971,
-            "id": "COOP:485836",
-            "elevationUnit": "METERS",
-            "longitude": -110.3
-        },
-        {
-            "elevation": 1603.9,
-            "mindate": "1949-07-01",
-            "maxdate": "1961-05-01",
-            "latitude": 43.26667,
-            "name": "LYSITE, WY US",
-            "datacoverage": 0.979,
-            "id": "COOP:485843",
-            "elevationUnit": "METERS",
-            "longitude": -107.7
-        },
-        {
-            "elevation": 1708.1,
-            "mindate": "1950-08-01",
-            "maxdate": "1954-11-01",
-            "latitude": 43.43333,
-            "name": "LYSITE 12 NNW, WY US",
-            "datacoverage": 0.8952,
-            "id": "COOP:485850",
-            "elevationUnit": "METERS",
-            "longitude": -107.71667
-        },
-        {
-            "elevation": 1969.9,
-            "mindate": "1950-06-01",
-            "maxdate": "1954-04-01",
-            "latitude": 43.58333,
-            "name": "MAIL CAMP, WY US",
-            "datacoverage": 0.8649,
-            "id": "COOP:485878",
-            "elevationUnit": "METERS",
-            "longitude": -108.85
-        },
-        {
-            "elevation": 2137.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1959-02-01",
-            "latitude": 42.21667,
-            "name": "MARSHALL 7 SW, WY US",
-            "datacoverage": 0.9262,
-            "id": "COOP:486000",
-            "elevationUnit": "METERS",
-            "longitude": -105.93333
-        },
-        {
-            "elevation": 1592,
-            "mindate": "1949-11-01",
-            "maxdate": "1958-06-24",
-            "latitude": 43.83333,
-            "name": "MAYOWORTH, WY US",
-            "datacoverage": 0.8944,
-            "id": "COOP:486075",
-            "elevationUnit": "METERS",
-            "longitude": -106.78333
-        },
-        {
-            "elevation": 2199.1,
-            "mindate": "1949-12-01",
-            "maxdate": "1958-06-01",
-            "latitude": 41.65,
-            "name": "MCFADDEN, WY US",
-            "datacoverage": 0.8935,
-            "id": "COOP:486081",
-            "elevationUnit": "METERS",
-            "longitude": -106.13333
-        },
-        {
             "elevation": 2022.3,
             "mindate": "1947-12-01",
             "maxdate": "2015-11-01",
@@ -2753,17 +1645,6 @@
             "id": "COOP:486120",
             "elevationUnit": "METERS",
             "longitude": -106.206
-        },
-        {
-            "elevation": 2117.1,
-            "mindate": "1959-07-01",
-            "maxdate": "1963-05-01",
-            "latitude": 42.16667,
-            "name": "MEDICINE BOW 16 N, WY US",
-            "datacoverage": 0.9783,
-            "id": "COOP:486122",
-            "elevationUnit": "METERS",
-            "longitude": -106.26667
         },
         {
             "elevation": 2005.9,
@@ -2782,7 +1663,7 @@
             "maxdate": "1976-12-01",
             "latitude": 44.15,
             "name": "MEETEETSE 1 ESE, WY US",
-            "datacoverage": 1,
+            "datacoverage": 0.033,
             "id": "COOP:486140",
             "elevationUnit": "METERS",
             "longitude": -108.85
@@ -2810,28 +1691,6 @@
             "longitude": -110.36667
         },
         {
-            "elevation": 1610,
-            "mindate": "1939-05-01",
-            "maxdate": "1962-03-01",
-            "latitude": 44.21667,
-            "name": "METZ RANCH, WY US",
-            "datacoverage": 0.9926,
-            "id": "COOP:486175",
-            "elevationUnit": "METERS",
-            "longitude": -106.75
-        },
-        {
-            "elevation": 1915.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1955-12-31",
-            "latitude": 42.75,
-            "name": "MIDDLE FORK, WY US",
-            "datacoverage": 1,
-            "id": "COOP:486185",
-            "elevationUnit": "METERS",
-            "longitude": -108.8
-        },
-        {
             "elevation": 1481.3,
             "mindate": "1931-01-01",
             "maxdate": "2015-11-01",
@@ -2841,44 +1700,6 @@
             "id": "COOP:486195",
             "elevationUnit": "METERS",
             "longitude": -106.27727
-        },
-        {
-            "mindate": "1948-08-01",
-            "maxdate": "1958-11-01",
-            "latitude": 43.5,
-            "name": "MIDWEST 6 N, WY US",
-            "datacoverage": 1,
-            "id": "COOP:486200",
-            "longitude": -106.26667
-        },
-        {
-            "elevation": 1681,
-            "mindate": "1950-06-01",
-            "maxdate": "1950-07-29",
-            "latitude": 43.16667,
-            "name": "MONETA 2 NNE, WY US",
-            "datacoverage": 0.9819,
-            "id": "COOP:486381",
-            "elevationUnit": "METERS",
-            "longitude": -107.7
-        },
-        {
-            "mindate": "1953-08-01",
-            "maxdate": "1955-10-01",
-            "latitude": 42.86667,
-            "name": "MONETA 21 SSE, WY US",
-            "datacoverage": 0.0055,
-            "id": "COOP:486382",
-            "longitude": -107.6
-        },
-        {
-            "mindate": "1950-08-01",
-            "maxdate": "1953-09-01",
-            "latitude": 42.8,
-            "name": "MONETA 25 S, WY US",
-            "datacoverage": 0.5413,
-            "id": "COOP:486383",
-            "longitude": -107.71667
         },
         {
             "elevation": 1318.3,
@@ -2892,28 +1713,6 @@
             "longitude": -104.9291
         },
         {
-            "elevation": 1286.9,
-            "mindate": "1948-08-01",
-            "maxdate": "1948-10-29",
-            "latitude": 44.26667,
-            "name": "MOORCROFT 2, WY US",
-            "datacoverage": 0.998,
-            "id": "COOP:486410",
-            "elevationUnit": "METERS",
-            "longitude": -104.93333
-        },
-        {
-            "elevation": 1327.1,
-            "mindate": "1949-12-01",
-            "maxdate": "1950-04-29",
-            "latitude": 44.03333,
-            "name": "MOORCROFT 16 S, WY US",
-            "datacoverage": 0.9819,
-            "id": "COOP:486415",
-            "elevationUnit": "METERS",
-            "longitude": -104.96667
-        },
-        {
             "elevation": 1964.1,
             "mindate": "1958-12-01",
             "maxdate": "2015-11-01",
@@ -2923,17 +1722,6 @@
             "id": "COOP:486428",
             "elevationUnit": "METERS",
             "longitude": -110.71681
-        },
-        {
-            "elevation": 2022,
-            "mindate": "1935-10-01",
-            "maxdate": "1958-12-01",
-            "latitude": 43.7,
-            "name": "MOOSE 3 NW, WY US",
-            "datacoverage": 0.9963,
-            "id": "COOP:486430",
-            "elevationUnit": "METERS",
-            "longitude": -110.73333
         },
         {
             "elevation": 2074.2,
@@ -2956,28 +1744,6 @@
             "id": "COOP:486450",
             "elevationUnit": "METERS",
             "longitude": -104.33333
-        },
-        {
-            "elevation": 2179.9,
-            "mindate": "1949-07-01",
-            "maxdate": "1958-06-24",
-            "latitude": 43.51667,
-            "name": "MORTON 28 NW, WY US",
-            "datacoverage": 0.642,
-            "id": "COOP:486465",
-            "elevationUnit": "METERS",
-            "longitude": -109.06667
-        },
-        {
-            "elevation": 1674,
-            "mindate": "1949-07-01",
-            "maxdate": "1968-12-01",
-            "latitude": 43.21667,
-            "name": "MORTON 1 NW, WY US",
-            "datacoverage": 0.9998,
-            "id": "COOP:486470",
-            "elevationUnit": "METERS",
-            "longitude": -108.78333
         },
         {
             "elevation": 2072.6,
@@ -3014,11 +1780,11 @@
         },
         {
             "elevation": 1257,
-            "mindate": "1948-09-01",
+            "mindate": "1949-12-01",
             "maxdate": "1984-03-01",
             "latitude": 43.35,
             "name": "MULE CREEK, WY US",
-            "datacoverage": 0.9422,
+            "datacoverage": 0.0256,
             "id": "COOP:486600",
             "elevationUnit": "METERS",
             "longitude": -104.11667
@@ -3044,39 +1810,6 @@
             "id": "COOP:486660",
             "elevationUnit": "METERS",
             "longitude": -104.1886
-        },
-        {
-            "elevation": 1260,
-            "mindate": "1948-10-01",
-            "maxdate": "1958-06-01",
-            "latitude": 43.83333,
-            "name": "NEWCASTLE 14 W, WY US",
-            "datacoverage": 0.9661,
-            "id": "COOP:486662",
-            "elevationUnit": "METERS",
-            "longitude": -104.48333
-        },
-        {
-            "elevation": 1207.9,
-            "mindate": "1948-09-01",
-            "maxdate": "1958-06-01",
-            "latitude": 43.66667,
-            "name": "NEWCASTLE 15 SSE, WY US",
-            "datacoverage": 0.9835,
-            "id": "COOP:486664",
-            "elevationUnit": "METERS",
-            "longitude": -104.13333
-        },
-        {
-            "elevation": 1485,
-            "mindate": "1931-01-01",
-            "maxdate": "1960-12-01",
-            "latitude": 43.81667,
-            "name": "NINE MILE CREEK, WY US",
-            "datacoverage": 0.9972,
-            "id": "COOP:486680",
-            "elevationUnit": "METERS",
-            "longitude": -106.48333
         },
         {
             "elevation": 2240.6,
@@ -3106,61 +1839,21 @@
             "maxdate": "2014-01-01",
             "latitude": 42.53933,
             "name": "OREGON TRAIL CROSSING, WY US",
-            "datacoverage": 0.8952,
+            "datacoverage": 0.0129,
             "id": "COOP:486875",
             "elevationUnit": "METERS",
             "longitude": -108.18719
         },
         {
             "elevation": 1316.7,
-            "mindate": "1948-09-01",
+            "mindate": "1950-03-01",
             "maxdate": "2014-01-01",
             "latitude": 43.9781,
             "name": "OSAGE, WY US",
-            "datacoverage": 0.7917,
+            "datacoverage": 0.0228,
             "id": "COOP:486935",
             "elevationUnit": "METERS",
             "longitude": -104.4194
-        },
-        {
-            "mindate": "1948-10-01",
-            "maxdate": "1949-09-01",
-            "latitude": 43.95,
-            "name": "OSAGE 8 WSW, WY US",
-            "datacoverage": 1,
-            "id": "COOP:486937",
-            "longitude": -104.55
-        },
-        {
-            "mindate": "1948-09-01",
-            "maxdate": "1949-12-01",
-            "latitude": 44.1,
-            "name": "OSAGE 9 NNE, WY US",
-            "datacoverage": 0.875,
-            "id": "COOP:486939",
-            "longitude": -104.35
-        },
-        {
-            "elevation": 1478.9,
-            "mindate": "1950-05-01",
-            "maxdate": "1958-06-01",
-            "latitude": 44.13333,
-            "name": "OSAGE 10 NNE, WY US",
-            "datacoverage": 1,
-            "id": "COOP:486941",
-            "elevationUnit": "METERS",
-            "longitude": -104.38333
-        },
-        {
-            "elevation": 1257,
-            "mindate": "1951-05-01",
-            "maxdate": "1958-06-01",
-            "latitude": 44.58333,
-            "name": "OSHOTO, WY US",
-            "datacoverage": 0.8255,
-            "id": "COOP:486952",
-            "elevationUnit": "METERS",
-            "longitude": -104.93333
         },
         {
             "elevation": 1219.5,
@@ -3183,17 +1876,6 @@
             "id": "COOP:487031",
             "elevationUnit": "METERS",
             "longitude": -109.96418
-        },
-        {
-            "elevation": 1708.1,
-            "mindate": "1949-11-01",
-            "maxdate": "1951-11-01",
-            "latitude": 42.98333,
-            "name": "PARKERTON 12 NW, WY US",
-            "datacoverage": 0.9211,
-            "id": "COOP:487060",
-            "elevationUnit": "METERS",
-            "longitude": -106.08333
         },
         {
             "elevation": 1352.1,
@@ -3227,17 +1909,6 @@
             "id": "COOP:487115",
             "elevationUnit": "METERS",
             "longitude": -108.69417
-        },
-        {
-            "elevation": 1634.9,
-            "mindate": "1949-07-01",
-            "maxdate": "1949-12-01",
-            "latitude": 43.38333,
-            "name": "PAVILLION 9 NE, WY US",
-            "datacoverage": 0.9925,
-            "id": "COOP:487120",
-            "elevationUnit": "METERS",
-            "longitude": -108.61667
         },
         {
             "elevation": 1518.5,
@@ -3311,32 +1982,10 @@
             "maxdate": "1984-04-01",
             "latitude": 43.71667,
             "name": "PINE TREE 9 NE, WY US",
-            "datacoverage": 0.9183,
+            "datacoverage": 0.0262,
             "id": "COOP:487270",
             "elevationUnit": "METERS",
             "longitude": -105.63333
-        },
-        {
-            "elevation": 2513.1,
-            "mindate": "1951-01-01",
-            "maxdate": "1958-08-01",
-            "latitude": 41.2,
-            "name": "POLE MOUNTAIN, WY US",
-            "datacoverage": 0.9566,
-            "id": "COOP:487330",
-            "elevationUnit": "METERS",
-            "longitude": -105.38333
-        },
-        {
-            "elevation": 2602.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1949-06-01",
-            "latitude": 41.21667,
-            "name": "POLE MOUNTAIN NURSER, WY US",
-            "datacoverage": 0.8019,
-            "id": "COOP:487340",
-            "elevationUnit": "METERS",
-            "longitude": -105.4
         },
         {
             "elevation": 1744.1,
@@ -3383,17 +2032,6 @@
             "longitude": -108.75904
         },
         {
-            "elevation": 2272,
-            "mindate": "1931-01-01",
-            "maxdate": "1950-03-01",
-            "latitude": 43.98333,
-            "name": "QUAKING ASPEN CREEK, WY US",
-            "datacoverage": 1,
-            "id": "COOP:487420",
-            "elevationUnit": "METERS",
-            "longitude": -109.08333
-        },
-        {
             "elevation": 1225.3,
             "mindate": "1951-04-01",
             "maxdate": "2015-11-01",
@@ -3403,17 +2041,6 @@
             "id": "COOP:487473",
             "elevationUnit": "METERS",
             "longitude": -107.93813
-        },
-        {
-            "elevation": 1510,
-            "mindate": "1950-10-17",
-            "maxdate": "1958-06-22",
-            "latitude": 43.91667,
-            "name": "RAVEN, WY US",
-            "datacoverage": 0.8455,
-            "id": "COOP:487518",
-            "elevationUnit": "METERS",
-            "longitude": -104.91667
         },
         {
             "elevation": 2058.9,
@@ -3438,17 +2065,6 @@
             "longitude": -107.2411
         },
         {
-            "elevation": 2089.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1954-10-01",
-            "latitude": 41.78333,
-            "name": "RAWLINS, WY US",
-            "datacoverage": 0.5314,
-            "id": "COOP:487530",
-            "elevationUnit": "METERS",
-            "longitude": -107.25
-        },
-        {
             "elevation": 2053.1,
             "mindate": "1951-03-01",
             "maxdate": "2015-11-01",
@@ -3460,23 +2076,12 @@
             "longitude": -107.2
         },
         {
-            "elevation": 1281.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1966-02-01",
-            "latitude": 44.78333,
-            "name": "RECLUSE 3 NNE, WY US",
-            "datacoverage": 0.9314,
-            "id": "COOP:487540",
-            "elevationUnit": "METERS",
-            "longitude": -105.68333
-        },
-        {
             "elevation": 1264.9,
             "mindate": "1948-08-01",
             "maxdate": "2011-07-01",
             "latitude": 44.7408,
             "name": "RECLUSE, WY US",
-            "datacoverage": 0.9479,
+            "datacoverage": 0.0235,
             "id": "COOP:487545",
             "elevationUnit": "METERS",
             "longitude": -105.7261
@@ -3524,39 +2129,6 @@
             "id": "COOP:487760",
             "elevationUnit": "METERS",
             "longitude": -108.37432
-        },
-        {
-            "elevation": 1506.9,
-            "mindate": "1949-07-01",
-            "maxdate": "1955-10-01",
-            "latitude": 43.03333,
-            "name": "RIVERTON USBR, WY US",
-            "datacoverage": 0.8322,
-            "id": "COOP:487765",
-            "elevationUnit": "METERS",
-            "longitude": -108.36667
-        },
-        {
-            "elevation": 1542.9,
-            "mindate": "1949-07-01",
-            "maxdate": "1958-06-01",
-            "latitude": 43.13333,
-            "name": "RIVERTON 9 N, WY US",
-            "datacoverage": 0.9816,
-            "id": "COOP:487770",
-            "elevationUnit": "METERS",
-            "longitude": -108.33333
-        },
-        {
-            "elevation": 1524.9,
-            "mindate": "1951-09-01",
-            "maxdate": "1953-12-01",
-            "latitude": 43.3,
-            "name": "RIVERTON 19 N, WY US",
-            "datacoverage": 0.9999,
-            "id": "COOP:487780",
-            "elevationUnit": "METERS",
-            "longitude": -108.36667
         },
         {
             "elevation": 1292,
@@ -3625,39 +2197,6 @@
             "longitude": -105.0472
         },
         {
-            "elevation": 1601.1,
-            "mindate": "1938-09-01",
-            "maxdate": "1961-07-01",
-            "latitude": 43.45,
-            "name": "ROSS, WY US",
-            "datacoverage": 0.9419,
-            "id": "COOP:487895",
-            "elevationUnit": "METERS",
-            "longitude": -105.86667
-        },
-        {
-            "elevation": 1617,
-            "mindate": "1931-01-01",
-            "maxdate": "1937-07-01",
-            "latitude": 43.58333,
-            "name": "ROSS NEAR, WY US",
-            "datacoverage": 1,
-            "id": "COOP:487898",
-            "elevationUnit": "METERS",
-            "longitude": -105.66667
-        },
-        {
-            "elevation": 1307.9,
-            "mindate": "1951-05-01",
-            "maxdate": "1958-06-01",
-            "latitude": 44.28333,
-            "name": "ROZET, WY US",
-            "datacoverage": 0.9882,
-            "id": "COOP:487907",
-            "elevationUnit": "METERS",
-            "longitude": -105.18333
-        },
-        {
             "elevation": 1892.8,
             "mindate": "1923-01-01",
             "maxdate": "2001-07-01",
@@ -3678,15 +2217,6 @@
             "id": "COOP:487980",
             "elevationUnit": "METERS",
             "longitude": -108.18333
-        },
-        {
-            "mindate": "1949-07-01",
-            "maxdate": "1949-12-01",
-            "latitude": 42.78333,
-            "name": "SAND DRAW 21 ENE, WY US",
-            "datacoverage": 0.7958,
-            "id": "COOP:487982",
-            "longitude": -107.85
         },
         {
             "elevation": 2069.6,
@@ -3711,50 +2241,6 @@
             "longitude": -106.7888
         },
         {
-            "elevation": 2172,
-            "mindate": "1952-06-01",
-            "maxdate": "1953-08-01",
-            "latitude": 41.35,
-            "name": "SARATOGA 9 SW, WY US",
-            "datacoverage": 0.999,
-            "id": "COOP:487999",
-            "elevationUnit": "METERS",
-            "longitude": -106.86667
-        },
-        {
-            "elevation": 2165.9,
-            "mindate": "1949-10-01",
-            "maxdate": "1951-11-01",
-            "latitude": 41.31667,
-            "name": "SARATOGA 10 SW, WY US",
-            "datacoverage": 0.7696,
-            "id": "COOP:488000",
-            "elevationUnit": "METERS",
-            "longitude": -106.88333
-        },
-        {
-            "elevation": 2155.9,
-            "mindate": "1953-11-01",
-            "maxdate": "1958-05-01",
-            "latitude": 41.31667,
-            "name": "SARATOGA 10 S, WY US",
-            "datacoverage": 1,
-            "id": "COOP:488001",
-            "elevationUnit": "METERS",
-            "longitude": -106.76667
-        },
-        {
-            "elevation": 1559.1,
-            "mindate": "1948-10-01",
-            "maxdate": "1949-05-01",
-            "latitude": 43.86667,
-            "name": "SAVAGETON, WY US",
-            "datacoverage": 1,
-            "id": "COOP:488025",
-            "elevationUnit": "METERS",
-            "longitude": -105.78333
-        },
-        {
             "elevation": 2084.2,
             "mindate": "1937-07-01",
             "maxdate": "2014-01-01",
@@ -3766,50 +2252,8 @@
             "longitude": -106.9153
         },
         {
-            "elevation": 1528,
-            "mindate": "1941-10-01",
-            "maxdate": "1955-10-01",
-            "latitude": 42.75,
-            "name": "SHAWNEE, WY US",
-            "datacoverage": 0.852,
-            "id": "COOP:488095",
-            "elevationUnit": "METERS",
-            "longitude": -105
-        },
-        {
-            "elevation": 1455.1,
-            "mindate": "1952-07-01",
-            "maxdate": "1953-06-01",
-            "latitude": 42.66667,
-            "name": "SHAWNEE 5 S, WY US",
-            "datacoverage": 1,
-            "id": "COOP:488096",
-            "elevationUnit": "METERS",
-            "longitude": -105.01667
-        },
-        {
-            "mindate": "1948-09-01",
-            "maxdate": "1949-11-01",
-            "latitude": 42.88333,
-            "name": "SHAWNEE 10 N, WY US",
-            "datacoverage": 1,
-            "id": "COOP:488097",
-            "longitude": -105.03333
-        },
-        {
-            "elevation": 1491.1,
-            "mindate": "1948-09-01",
-            "maxdate": "1957-10-01",
-            "latitude": 42.93333,
-            "name": "SHAWNEE 14 N, WY US",
-            "datacoverage": 0.7499,
-            "id": "COOP:488099",
-            "elevationUnit": "METERS",
-            "longitude": -105.01667
-        },
-        {
             "elevation": 1293,
-            "mindate": "1953-08-01",
+            "mindate": "1958-10-01",
             "maxdate": "2015-11-01",
             "latitude": 44.53514,
             "name": "SHELL, WY US",
@@ -3817,17 +2261,6 @@
             "id": "COOP:488124",
             "elevationUnit": "METERS",
             "longitude": -107.7774
-        },
-        {
-            "elevation": 1284.1,
-            "mindate": "1949-06-01",
-            "maxdate": "1953-09-01",
-            "latitude": 44.6,
-            "name": "SHELL 5 N, WY US",
-            "datacoverage": 0.8364,
-            "id": "COOP:488127",
-            "elevationUnit": "METERS",
-            "longitude": -107.76667
         },
         {
             "elevation": 1202.4,
@@ -3863,17 +2296,6 @@
             "longitude": -106.8383
         },
         {
-            "elevation": 2196.1,
-            "mindate": "1959-03-01",
-            "maxdate": "1959-06-01",
-            "latitude": 42.21667,
-            "name": "SHIRLEY, WY US",
-            "datacoverage": 0.998,
-            "id": "COOP:488184",
-            "elevationUnit": "METERS",
-            "longitude": -106.51667
-        },
-        {
             "elevation": 2151,
             "mindate": "1961-06-01",
             "maxdate": "2015-11-01",
@@ -3894,17 +2316,6 @@
             "id": "COOP:488209",
             "elevationUnit": "METERS",
             "longitude": -108.10964
-        },
-        {
-            "elevation": 2000.1,
-            "mindate": "1939-01-01",
-            "maxdate": "1951-02-19",
-            "latitude": 41.8,
-            "name": "SINCLAIR CAA AIRPORT, WY US",
-            "datacoverage": 0.9936,
-            "id": "COOP:488285",
-            "elevationUnit": "METERS",
-            "longitude": -107.05
         },
         {
             "elevation": 2097.6,
@@ -3973,17 +2384,6 @@
             "longitude": -106.9062
         },
         {
-            "elevation": 1220.1,
-            "mindate": "1959-05-01",
-            "maxdate": "1968-12-01",
-            "latitude": 44.78333,
-            "name": "STRONER 2 NW, WY US",
-            "datacoverage": 0.9994,
-            "id": "COOP:488647",
-            "elevationUnit": "METERS",
-            "longitude": -105.08333
-        },
-        {
             "elevation": 1431,
             "mindate": "1931-01-01",
             "maxdate": "2015-11-01",
@@ -4006,17 +2406,6 @@
             "longitude": -109.45
         },
         {
-            "elevation": 2086.1,
-            "mindate": "1950-04-01",
-            "maxdate": "1963-05-01",
-            "latitude": 43.98333,
-            "name": "SUNSHINE 3 SW, WY US",
-            "datacoverage": 1,
-            "id": "COOP:488748",
-            "elevationUnit": "METERS",
-            "longitude": -109.08333
-        },
-        {
             "elevation": 1897.1,
             "mindate": "1963-07-01",
             "maxdate": "2015-11-01",
@@ -4028,28 +2417,6 @@
             "longitude": -108.95481
         },
         {
-            "elevation": 1373.1,
-            "mindate": "1949-11-01",
-            "maxdate": "1958-06-24",
-            "latitude": 43.7,
-            "name": "SUSSEX 3 W, WY US",
-            "datacoverage": 0.6577,
-            "id": "COOP:488801",
-            "elevationUnit": "METERS",
-            "longitude": -106.35
-        },
-        {
-            "elevation": 1449,
-            "mindate": "1951-05-01",
-            "maxdate": "1963-05-01",
-            "latitude": 43.78333,
-            "name": "SUSSEX 15 ENE, WY US",
-            "datacoverage": 0.9516,
-            "id": "COOP:488805",
-            "elevationUnit": "METERS",
-            "longitude": -105.98333
-        },
-        {
             "elevation": 1855,
             "mindate": "1964-05-01",
             "maxdate": "2015-11-01",
@@ -4059,39 +2426,6 @@
             "id": "COOP:488808",
             "elevationUnit": "METERS",
             "longitude": -105.375
-        },
-        {
-            "elevation": 1702,
-            "mindate": "1950-11-01",
-            "maxdate": "1957-08-01",
-            "latitude": 43.4,
-            "name": "TAYLOR RANCH, WY US",
-            "datacoverage": 0.9999,
-            "id": "COOP:488810",
-            "elevationUnit": "METERS",
-            "longitude": -106.8
-        },
-        {
-            "elevation": 2390.9,
-            "mindate": "1948-08-01",
-            "maxdate": "1968-10-01",
-            "latitude": 43.71667,
-            "name": "T CROSS RANCH, WY US",
-            "datacoverage": 0.7899,
-            "id": "COOP:488820",
-            "elevationUnit": "METERS",
-            "longitude": -109.63333
-        },
-        {
-            "elevation": 1457.9,
-            "mindate": "1948-09-01",
-            "maxdate": "1957-05-01",
-            "latitude": 43.58333,
-            "name": "TECKLA 3 E, WY US",
-            "datacoverage": 0.7499,
-            "id": "COOP:488830",
-            "elevationUnit": "METERS",
-            "longitude": -105.28333
         },
         {
             "elevation": 1711.8,
@@ -4114,37 +2448,6 @@
             "id": "COOP:488852",
             "elevationUnit": "METERS",
             "longitude": -107.38198
-        },
-        {
-            "elevation": 1375.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1964-06-01",
-            "latitude": 44.03333,
-            "name": "TEN SLEEP, WY US",
-            "datacoverage": 0.5187,
-            "id": "COOP:488855",
-            "elevationUnit": "METERS",
-            "longitude": -107.45
-        },
-        {
-            "elevation": 1585.9,
-            "mindate": "1952-10-01",
-            "maxdate": "1955-10-01",
-            "latitude": 43.7,
-            "name": "TEN SLEEP 24 SSE, WY US",
-            "datacoverage": 0.9191,
-            "id": "COOP:488856",
-            "elevationUnit": "METERS",
-            "longitude": -107.25
-        },
-        {
-            "mindate": "1949-07-01",
-            "maxdate": "1952-03-01",
-            "latitude": 43.66667,
-            "name": "TEN SLEEP 26 SSE, WY US",
-            "datacoverage": 0.7572,
-            "id": "COOP:488857",
-            "longitude": -107.23333
         },
         {
             "elevation": 1426.5,
@@ -4213,17 +2516,6 @@
             "longitude": -108.14303
         },
         {
-            "elevation": 1628.9,
-            "mindate": "1949-07-01",
-            "maxdate": "1951-11-01",
-            "latitude": 43.71667,
-            "name": "THERMOPOLIS 20 WNW, WY US",
-            "datacoverage": 0.6204,
-            "id": "COOP:488886",
-            "elevationUnit": "METERS",
-            "longitude": -108.61667
-        },
-        {
             "elevation": 1679.4,
             "mindate": "1951-05-01",
             "maxdate": "2013-07-29",
@@ -4233,48 +2525,6 @@
             "id": "COOP:488888",
             "elevationUnit": "METERS",
             "longitude": -108.6963
-        },
-        {
-            "elevation": 1795.9,
-            "mindate": "1949-09-01",
-            "maxdate": "1951-06-01",
-            "latitude": 43.71667,
-            "name": "THERMOPOLIS 27 WNW, WY US",
-            "datacoverage": 0.9026,
-            "id": "COOP:488889",
-            "elevationUnit": "METERS",
-            "longitude": -108.75
-        },
-        {
-            "elevation": 2239.1,
-            "mindate": "1932-11-01",
-            "maxdate": "1942-06-01",
-            "latitude": 43.68333,
-            "name": "TIM MC COY RANCH, WY US",
-            "datacoverage": 1,
-            "id": "COOP:488950",
-            "elevationUnit": "METERS",
-            "longitude": -108.96667
-        },
-        {
-            "mindate": "1950-05-01",
-            "maxdate": "1951-09-14",
-            "latitude": 42.3,
-            "name": "TOLTEC, WY US",
-            "datacoverage": 0.666,
-            "id": "COOP:488983",
-            "longitude": -105.65
-        },
-        {
-            "elevation": 1250.9,
-            "mindate": "1941-05-01",
-            "maxdate": "1948-07-01",
-            "latitude": 42.06667,
-            "name": "TORRINGTON, WY US",
-            "datacoverage": 0.9996,
-            "id": "COOP:488994",
-            "elevationUnit": "METERS",
-            "longitude": -104.18333
         },
         {
             "elevation": 1249.1,
@@ -4315,7 +2565,7 @@
             "maxdate": "1979-08-01",
             "latitude": 42.05,
             "name": "TORRINGTON 1 S, WY US",
-            "datacoverage": 0.9479,
+            "datacoverage": 0.031,
             "id": "COOP:489000",
             "elevationUnit": "METERS",
             "longitude": -104.18333
@@ -4332,17 +2582,6 @@
             "longitude": -110.42033
         },
         {
-            "elevation": 1922.1,
-            "mindate": "1938-10-01",
-            "maxdate": "1945-12-01",
-            "latitude": 43.3,
-            "name": "TRIANGLE F RANCH, WY US",
-            "datacoverage": 0.9996,
-            "id": "COOP:489043",
-            "elevationUnit": "METERS",
-            "longitude": -110.5
-        },
-        {
             "elevation": 1316.7,
             "mindate": "1948-09-01",
             "maxdate": "2015-11-01",
@@ -4352,17 +2591,6 @@
             "id": "COOP:489205",
             "elevationUnit": "METERS",
             "longitude": -104.6114
-        },
-        {
-            "elevation": 1324.1,
-            "mindate": "1949-11-01",
-            "maxdate": "1957-08-01",
-            "latitude": 43.91667,
-            "name": "UPTON 12 S, WY US",
-            "datacoverage": 0.9894,
-            "id": "COOP:489206",
-            "elevationUnit": "METERS",
-            "longitude": -104.63333
         },
         {
             "elevation": 1456.9,
@@ -4398,28 +2626,6 @@
             "longitude": -104.9289
         },
         {
-            "elevation": 1891,
-            "mindate": "1949-08-01",
-            "maxdate": "1958-06-25",
-            "latitude": 44.2,
-            "name": "VALLEY 5 NE, WY US",
-            "datacoverage": 0.9504,
-            "id": "COOP:489231",
-            "elevationUnit": "METERS",
-            "longitude": -109.55
-        },
-        {
-            "elevation": 1464,
-            "mindate": "1940-07-01",
-            "maxdate": "1959-09-01",
-            "latitude": 43.45,
-            "name": "ANTELOPE CREEK RANCH, WY US",
-            "datacoverage": 0.9957,
-            "id": "COOP:489305",
-            "elevationUnit": "METERS",
-            "longitude": -105.5
-        },
-        {
             "elevation": 2054.4,
             "mindate": "1931-01-01",
             "maxdate": "2015-11-01",
@@ -4431,17 +2637,8 @@
             "longitude": -107.97841
         },
         {
-            "mindate": "1948-08-01",
-            "maxdate": "1951-06-21",
-            "latitude": 41.65,
-            "name": "WAMSUTTER 8 W, WY US",
-            "datacoverage": 0.9125,
-            "id": "COOP:489460",
-            "longitude": -108.11667
-        },
-        {
             "elevation": 1694.1,
-            "mindate": "1950-06-01",
+            "mindate": "1989-06-01",
             "maxdate": "2015-11-01",
             "latitude": 44.45944,
             "name": "WAPITI 1 WSW, WY US",
@@ -4449,15 +2646,6 @@
             "id": "COOP:489467",
             "elevationUnit": "METERS",
             "longitude": -109.4164
-        },
-        {
-            "mindate": "1949-08-01",
-            "maxdate": "1950-03-01",
-            "latitude": 44.48333,
-            "name": "WAPITI 9 W, WY US",
-            "datacoverage": 0.998,
-            "id": "COOP:489471",
-            "longitude": -109.6
         },
         {
             "elevation": 2067.8,
@@ -4526,17 +2714,6 @@
             "longitude": -104.95
         },
         {
-            "elevation": 1327.1,
-            "mindate": "1951-05-01",
-            "maxdate": "1957-09-01",
-            "latitude": 42.91667,
-            "name": "WHITMAN 5 NW, WY US",
-            "datacoverage": 0.8696,
-            "id": "COOP:489644",
-            "elevationUnit": "METERS",
-            "longitude": -104.2
-        },
-        {
             "elevation": 1236.9,
             "mindate": "1931-01-01",
             "maxdate": "2015-11-01",
@@ -4546,37 +2723,6 @@
             "id": "COOP:489770",
             "elevationUnit": "METERS",
             "longitude": -107.96838
-        },
-        {
-            "elevation": 1266.1,
-            "mindate": "1948-08-01",
-            "maxdate": "1964-04-01",
-            "latitude": 43.95,
-            "name": "WORLAND 5 SW, WY US",
-            "datacoverage": 0.9479,
-            "id": "COOP:489775",
-            "elevationUnit": "METERS",
-            "longitude": -108.03333
-        },
-        {
-            "elevation": 1449,
-            "mindate": "1950-11-01",
-            "maxdate": "1950-12-09",
-            "latitude": 44,
-            "name": "WORLAND 18 W, WY US",
-            "datacoverage": 0.0526,
-            "id": "COOP:489780",
-            "elevationUnit": "METERS",
-            "longitude": -108.31667
-        },
-        {
-            "mindate": "1949-08-01",
-            "maxdate": "1950-09-30",
-            "latitude": 44,
-            "name": "WORLAND 21 W, WY US",
-            "datacoverage": 0.7686,
-            "id": "COOP:489782",
-            "longitude": -108.4
         },
         {
             "elevation": 1271.6,
@@ -10968,6 +9114,1898 @@
             "id": "GHCND:US1WYWH0017",
             "elevationUnit": "METERS",
             "longitude": -107.9566169
+        },
+        {
+            "elevation": 1240.8,
+            "mindate": "2016-09-07",
+            "maxdate": "2019-06-08",
+            "latitude": 44.009369,
+            "name": "WORLAND 0.3 NNW, WY US",
+            "datacoverage": 0.7682,
+            "id": "GHCND:US1WYWH0018",
+            "elevationUnit": "METERS",
+            "longitude": -107.960859
+        },
+        {
+            "elevation": 1462.1,
+            "mindate": "2004-05-01",
+            "maxdate": "2005-07-23",
+            "latitude": 43.9305,
+            "name": "UPTON 18.9 SW, WY US",
+            "datacoverage": 1,
+            "id": "GHCND:US1WYWS0002",
+            "elevationUnit": "METERS",
+            "longitude": -104.9289
+        },
+        {
+            "elevation": 1280.2,
+            "mindate": "2004-07-01",
+            "maxdate": "2005-10-17",
+            "latitude": 43.5645,
+            "name": "NEWCASTLE 33.4 SW, WY US",
+            "datacoverage": 0.998,
+            "id": "GHCND:US1WYWS0003",
+            "elevationUnit": "METERS",
+            "longitude": -104.7394
+        },
+        {
+            "elevation": 1320.1,
+            "mindate": "1998-06-01",
+            "maxdate": "2008-07-18",
+            "latitude": 43.6827,
+            "name": "NEWCASTLE 35.7 WSW, WY US",
+            "datacoverage": 0.7866,
+            "id": "GHCND:US1WYWS0004",
+            "elevationUnit": "METERS",
+            "longitude": -104.8799
+        },
+        {
+            "elevation": 1342.9,
+            "mindate": "2005-03-01",
+            "maxdate": "2020-05-15",
+            "latitude": 43.8486,
+            "name": "NEWCASTLE 0.8 ESE, WY US",
+            "datacoverage": 0.9848,
+            "id": "GHCND:US1WYWS0005",
+            "elevationUnit": "METERS",
+            "longitude": -104.1888
+        },
+        {
+            "elevation": 1282.9,
+            "mindate": "1998-06-01",
+            "maxdate": "2018-09-27",
+            "latitude": 43.644,
+            "name": "NEWCASTLE 33 WSW, WY US",
+            "datacoverage": 0.9375,
+            "id": "GHCND:US1WYWS0006",
+            "elevationUnit": "METERS",
+            "longitude": -104.8411
+        },
+        {
+            "elevation": 1321,
+            "mindate": "2007-03-31",
+            "maxdate": "2012-10-09",
+            "latitude": 44.05,
+            "name": "UPTON 5.6 SW, WY US",
+            "datacoverage": 1,
+            "id": "GHCND:US1WYWS0008",
+            "elevationUnit": "METERS",
+            "longitude": -104.71
+        },
+        {
+            "elevation": 1140.6,
+            "mindate": "2008-04-01",
+            "maxdate": "2011-09-15",
+            "latitude": 43.603738,
+            "name": "NEWCASTLE 17.0 S, WY US",
+            "datacoverage": 0.643,
+            "id": "GHCND:US1WYWS0009",
+            "elevationUnit": "METERS",
+            "longitude": -104.189101
+        },
+        {
+            "elevation": 1156.7,
+            "mindate": "2010-04-01",
+            "maxdate": "2020-05-17",
+            "latitude": 43.665595,
+            "name": "NEWCASTLE 13.0 SSW, WY US",
+            "datacoverage": 0.9303,
+            "id": "GHCND:US1WYWS0010",
+            "elevationUnit": "METERS",
+            "longitude": -104.2648721
+        },
+        {
+            "elevation": 1344.2,
+            "mindate": "2011-01-01",
+            "maxdate": "2016-09-24",
+            "latitude": 43.66058333,
+            "name": "WRIGHT 23.4 ESE, WY US",
+            "datacoverage": 0.6381,
+            "id": "GHCND:US1WYWS0012",
+            "elevationUnit": "METERS",
+            "longitude": -105.0456833
+        },
+        {
+            "elevation": 1206.1,
+            "mindate": "2012-06-01",
+            "maxdate": "2014-06-27",
+            "latitude": 43.786456,
+            "name": "NEWCASTLE 5.2 SW, WY US",
+            "datacoverage": 0.9819,
+            "id": "GHCND:US1WYWS0013",
+            "elevationUnit": "METERS",
+            "longitude": -104.269378
+        },
+        {
+            "elevation": 1262.2,
+            "mindate": "2014-05-01",
+            "maxdate": "2017-12-03",
+            "latitude": 43.53777778,
+            "name": "NEWCASTLE 36.1 SW, WY US",
+            "datacoverage": 0.825,
+            "id": "GHCND:US1WYWS0015",
+            "elevationUnit": "METERS",
+            "longitude": -104.7916667
+        },
+        {
+            "elevation": 1457.6,
+            "mindate": "2013-05-01",
+            "maxdate": "2020-01-10",
+            "latitude": 43.933371,
+            "name": "UPTON 18.8 SW, WY US",
+            "datacoverage": 0.9998,
+            "id": "GHCND:US1WYWS0016",
+            "elevationUnit": "METERS",
+            "longitude": -104.922066
+        },
+        {
+            "elevation": 1285.6,
+            "mindate": "2016-05-22",
+            "maxdate": "2020-05-16",
+            "latitude": 43.8498992919922,
+            "name": "NEWCASTLE 1.0 W, WY US",
+            "datacoverage": 0.9272,
+            "id": "GHCND:US1WYWS0020",
+            "elevationUnit": "METERS",
+            "longitude": -104.230850219727
+        },
+        {
+            "elevation": 1429.2,
+            "mindate": "2016-06-13",
+            "maxdate": "2020-05-16",
+            "latitude": 44.0202,
+            "name": "NEWCASTLE 12.5 NNW, WY US",
+            "datacoverage": 0.1848,
+            "id": "GHCND:US1WYWS0021",
+            "elevationUnit": "METERS",
+            "longitude": -104.293377
+        },
+        {
+            "elevation": 1429.8,
+            "mindate": "2016-06-27",
+            "maxdate": "2017-03-12",
+            "latitude": 44.01861,
+            "name": "NEWCASTLE 12.4 NNW, WY US",
+            "datacoverage": 0.7424,
+            "id": "GHCND:US1WYWS0022",
+            "elevationUnit": "METERS",
+            "longitude": -104.2933
+        },
+        {
+            "elevation": 1502.4,
+            "mindate": "2016-07-30",
+            "maxdate": "2020-05-17",
+            "latitude": 43.9685592651367,
+            "name": "NEWCASTLE 8.4 N, WY US",
+            "datacoverage": 0.6715,
+            "id": "GHCND:US1WYWS0023",
+            "elevationUnit": "METERS",
+            "longitude": -104.241676330566
+        },
+        {
+            "elevation": 1403.6,
+            "mindate": "2016-08-24",
+            "maxdate": "2020-05-16",
+            "latitude": 43.857493,
+            "name": "NEWCASTLE 3.5 E, WY US",
+            "datacoverage": 1,
+            "id": "GHCND:US1WYWS0024",
+            "elevationUnit": "METERS",
+            "longitude": -104.140239
+        },
+        {
+            "elevation": 1290.2,
+            "mindate": "2017-03-27",
+            "maxdate": "2018-10-09",
+            "latitude": 43.8303070068359,
+            "name": "NEWCASTLE 1.7 SW, WY US",
+            "datacoverage": 0.8732,
+            "id": "GHCND:US1WYWS0025",
+            "elevationUnit": "METERS",
+            "longitude": -104.233276367188
+        },
+        {
+            "elevation": 1314,
+            "mindate": "2017-03-27",
+            "maxdate": "2020-05-17",
+            "latitude": 44.115276,
+            "name": "UPTON 1.0 NNW, WY US",
+            "datacoverage": 0.6464,
+            "id": "GHCND:US1WYWS0026",
+            "elevationUnit": "METERS",
+            "longitude": -104.627762
+        },
+        {
+            "elevation": 1326.8,
+            "mindate": "2017-08-25",
+            "maxdate": "2020-05-17",
+            "latitude": 43.701922,
+            "name": "NEWCASTLE 26.2 WSW, WY US",
+            "datacoverage": 0.7511,
+            "id": "GHCND:US1WYWS0029",
+            "elevationUnit": "METERS",
+            "longitude": -104.694684
+        },
+        {
+            "elevation": 1488.6,
+            "mindate": "2017-09-01",
+            "maxdate": "2020-05-16",
+            "latitude": 44.1263333,
+            "name": "UPTON 11.5 E, WY US",
+            "datacoverage": 0.917,
+            "id": "GHCND:US1WYWS0030",
+            "elevationUnit": "METERS",
+            "longitude": -104.3947
+        },
+        {
+            "elevation": 1948.6,
+            "mindate": "1910-04-01",
+            "maxdate": "2020-04-01",
+            "latitude": 40.99,
+            "name": "MANILA, UT US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00425377",
+            "elevationUnit": "METERS",
+            "longitude": -109.7258
+        },
+        {
+            "elevation": 1904.4,
+            "mindate": "1957-05-01",
+            "maxdate": "2020-05-17",
+            "latitude": 42.73303,
+            "name": "AFTON, WY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00480027",
+            "elevationUnit": "METERS",
+            "longitude": -110.92168
+        },
+        {
+            "elevation": 1629.2,
+            "mindate": "1948-08-01",
+            "maxdate": "2010-12-31",
+            "latitude": 41.4,
+            "name": "ALBIN, WY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00480080",
+            "elevationUnit": "METERS",
+            "longitude": -104.1016
+        },
+        {
+            "elevation": 1630.7,
+            "mindate": "2011-01-01",
+            "maxdate": "2013-06-23",
+            "latitude": 41.4197,
+            "name": "ALBIN NUMBER 2, WY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00480082",
+            "elevationUnit": "METERS",
+            "longitude": -104.1011
+        },
+        {
+            "elevation": 2094,
+            "mindate": "1961-12-01",
+            "maxdate": "1987-01-31",
+            "latitude": 42.73333,
+            "name": "ALCOVA 17 NW, WY US",
+            "datacoverage": 0.8542,
+            "id": "GHCND:USC00480091",
+            "elevationUnit": "METERS",
+            "longitude": -107.01667
+        },
+        {
+            "elevation": 1962.9,
+            "mindate": "1909-07-01",
+            "maxdate": "2020-05-15",
+            "latitude": 43.7727,
+            "name": "ALTA 1 NNW, WY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00480140",
+            "elevationUnit": "METERS",
+            "longitude": -111.0338
+        },
+        {
+            "elevation": 1338.1,
+            "mindate": "1948-01-01",
+            "maxdate": "2001-11-30",
+            "latitude": 44.65222,
+            "name": "ALVA 5 ESE, WY US",
+            "datacoverage": 0.9993,
+            "id": "GHCND:USC00480200",
+            "elevationUnit": "METERS",
+            "longitude": -104.34917
+        },
+        {
+            "elevation": 1219.2,
+            "mindate": "1987-02-01",
+            "maxdate": "1996-10-09",
+            "latitude": 44.7,
+            "name": "ALVA, WY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00480206",
+            "elevationUnit": "METERS",
+            "longitude": -104.43333
+        },
+        {
+            "elevation": 1969.9,
+            "mindate": "1961-04-01",
+            "maxdate": "1979-09-30",
+            "latitude": 43.66667,
+            "name": "ANCHOR DAM, WY US",
+            "datacoverage": 0.991,
+            "id": "GHCND:USC00480228",
+            "elevationUnit": "METERS",
+            "longitude": -108.83333
+        },
+        {
+            "elevation": 1577.6,
+            "mindate": "1950-08-01",
+            "maxdate": "1982-08-31",
+            "latitude": 43.43333,
+            "name": "ANTELOPE SPRINGS, WY US",
+            "datacoverage": 0.7328,
+            "id": "GHCND:USC00480237",
+            "elevationUnit": "METERS",
+            "longitude": -106.58333
+        },
+        {
+            "elevation": 1831.8,
+            "mindate": "1911-07-01",
+            "maxdate": "2010-12-31",
+            "latitude": 41.15167,
+            "name": "ARCHER, WY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00480270",
+            "elevationUnit": "METERS",
+            "longitude": -104.6575
+        },
+        {
+            "elevation": 1135.1,
+            "mindate": "1977-11-01",
+            "maxdate": "1978-04-30",
+            "latitude": 44.63333,
+            "name": "ARVADA 2 SE, WY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00480377",
+            "elevationUnit": "METERS",
+            "longitude": -106.11667
+        },
+        {
+            "elevation": 1122,
+            "mindate": "1936-04-01",
+            "maxdate": "1977-02-28",
+            "latitude": 44.7,
+            "name": "ARVADA 3 N, WY US",
+            "datacoverage": 0.7312,
+            "id": "GHCND:USC00480380",
+            "elevationUnit": "METERS",
+            "longitude": -106.1
+        },
+        {
+            "elevation": 2383.8,
+            "mindate": "1897-06-01",
+            "maxdate": "2020-05-17",
+            "latitude": 42.50071,
+            "name": "ATLANTIC CITY, WY US",
+            "datacoverage": 0.8568,
+            "id": "GHCND:USC00480432",
+            "elevationUnit": "METERS",
+            "longitude": -108.73387
+        },
+        {
+            "elevation": 2499.4,
+            "mindate": "1963-01-01",
+            "maxdate": "1984-12-31",
+            "latitude": 42.53333,
+            "name": "ATLANTIC CITY ORE MINE, WY US",
+            "datacoverage": 0.8882,
+            "id": "GHCND:USC00480443",
+            "elevationUnit": "METERS",
+            "longitude": -108.76667
+        },
+        {
+            "elevation": 1926,
+            "mindate": "1979-01-01",
+            "maxdate": "2020-02-29",
+            "latitude": 41.0383,
+            "name": "BAGGS, WY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00480484",
+            "elevationUnit": "METERS",
+            "longitude": -107.6577
+        },
+        {
+            "elevation": 1170.4,
+            "mindate": "1898-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 44.37985,
+            "name": "BASIN, WY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00480540",
+            "elevationUnit": "METERS",
+            "longitude": -108.03495
+        },
+        {
+            "elevation": 1841.6,
+            "mindate": "1969-01-01",
+            "maxdate": "2020-04-01",
+            "latitude": 42.62336,
+            "name": "BATES CREEK NUMBER 2, WY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00480552",
+            "elevationUnit": "METERS",
+            "longitude": -106.35659
+        },
+        {
+            "elevation": 1960.5,
+            "mindate": "1911-04-01",
+            "maxdate": "2020-04-05",
+            "latitude": 44.14976,
+            "name": "BECHLER RIVER RANGER STATION, WY US",
+            "datacoverage": 0.2749,
+            "id": "GHCND:USC00480585",
+            "elevationUnit": "METERS",
+            "longitude": -111.04599
+        },
+        {
+            "elevation": 1937,
+            "mindate": "1975-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 42.87311,
+            "name": "BEDFORD 3 SE, WY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00480603",
+            "elevationUnit": "METERS",
+            "longitude": -110.90691
+        },
+        {
+            "elevation": 1830,
+            "mindate": "1965-10-01",
+            "maxdate": "1970-03-21",
+            "latitude": 44.35,
+            "name": "BELKNAP RANCH, WY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00480614",
+            "elevationUnit": "METERS",
+            "longitude": -109.35
+        },
+        {
+            "elevation": 1282.6,
+            "mindate": "1949-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 44.6828,
+            "name": "BIG HORN, WY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00480680",
+            "elevationUnit": "METERS",
+            "longitude": -107.0089
+        },
+        {
+            "elevation": 2083.3,
+            "mindate": "1948-01-01",
+            "maxdate": "2014-11-05",
+            "latitude": 42.5414,
+            "name": "BIG PINEY, WY US",
+            "datacoverage": 0.7299,
+            "id": "GHCND:USC00480695",
+            "elevationUnit": "METERS",
+            "longitude": -110.1252
+        },
+        {
+            "elevation": 1437.1,
+            "mindate": "1948-01-01",
+            "maxdate": "1978-07-31",
+            "latitude": 43.25,
+            "name": "BILL, WY US",
+            "datacoverage": 0.8887,
+            "id": "GHCND:USC00480725",
+            "elevationUnit": "METERS",
+            "longitude": -105.26667
+        },
+        {
+            "elevation": 1516.4,
+            "mindate": "1962-03-01",
+            "maxdate": "2013-05-31",
+            "latitude": 44.1241,
+            "name": "BILLY CREEK, WY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00480740",
+            "elevationUnit": "METERS",
+            "longitude": -106.7319
+        },
+        {
+            "elevation": 2048.9,
+            "mindate": "1962-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 41.58959,
+            "name": "BITTER CREEK 4 NE, WY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00480761",
+            "elevationUnit": "METERS",
+            "longitude": -108.50939
+        },
+        {
+            "elevation": 1717.5,
+            "mindate": "1963-01-01",
+            "maxdate": "2020-04-01",
+            "latitude": 43.65606,
+            "name": "BLACK MOUNTAIN, WY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00480778",
+            "elevationUnit": "METERS",
+            "longitude": -107.73741
+        },
+        {
+            "elevation": 2040,
+            "mindate": "1948-08-01",
+            "maxdate": "2020-05-16",
+            "latitude": 43.2095,
+            "name": "BONDURANT, WY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00480865",
+            "elevationUnit": "METERS",
+            "longitude": -110.40323
+        },
+        {
+            "elevation": 1849.8,
+            "mindate": "1902-01-01",
+            "maxdate": "2010-12-31",
+            "latitude": 42.21278,
+            "name": "BORDER 3 N, WY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00480915",
+            "elevationUnit": "METERS",
+            "longitude": -111.04556
+        },
+        {
+            "elevation": 2115.3,
+            "mindate": "1989-01-01",
+            "maxdate": "2020-05-16",
+            "latitude": 42.71554,
+            "name": "BOULDER REARING STATION, WY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00480951",
+            "elevationUnit": "METERS",
+            "longitude": -109.68956
+        },
+        {
+            "elevation": 1485.9,
+            "mindate": "1948-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 43.40536,
+            "name": "BOYSEN DAM, WY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00481000",
+            "elevationUnit": "METERS",
+            "longitude": -108.16338
+        },
+        {
+            "elevation": 1853.2,
+            "mindate": "2002-03-01",
+            "maxdate": "2019-09-30",
+            "latitude": 41.2468,
+            "name": "BUCKBOARD MARINA, WY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00481131",
+            "elevationUnit": "METERS",
+            "longitude": -109.5966
+        },
+        {
+            "elevation": 2375.9,
+            "mindate": "2011-01-01",
+            "maxdate": "2012-12-10",
+            "latitude": 41.0705,
+            "name": "BUFORD 5 SE, WY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00481139",
+            "elevationUnit": "METERS",
+            "longitude": -105.2519
+        },
+        {
+            "elevation": 2499.4,
+            "mindate": "2011-01-01",
+            "maxdate": "2014-03-30",
+            "latitude": 41.1306,
+            "name": "BUFORD 6 W, WY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00481141",
+            "elevationUnit": "METERS",
+            "longitude": -105.4042
+        },
+        {
+            "elevation": 2338.7,
+            "mindate": "2012-01-01",
+            "maxdate": "2020-05-16",
+            "latitude": 41.0844,
+            "name": "BUFORD 4 SE, WY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00481142",
+            "elevationUnit": "METERS",
+            "longitude": -105.2483
+        },
+        {
+            "elevation": 1414,
+            "mindate": "1899-04-01",
+            "maxdate": "2020-05-17",
+            "latitude": 44.35447,
+            "name": "BUFFALO, WY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00481165",
+            "elevationUnit": "METERS",
+            "longitude": -106.69937
+        },
+        {
+            "elevation": 1673.4,
+            "mindate": "2002-04-01",
+            "maxdate": "2018-12-31",
+            "latitude": 44.33641,
+            "name": "BUFFALO 5 WSW, WY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00481167",
+            "elevationUnit": "METERS",
+            "longitude": -106.7887
+        },
+        {
+            "elevation": 2535,
+            "mindate": "1962-01-01",
+            "maxdate": "1973-04-30",
+            "latitude": 44.21667,
+            "name": "BUFFALO 15 SW, WY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00481171",
+            "elevationUnit": "METERS",
+            "longitude": -106.91667
+        },
+        {
+            "elevation": 1572.8,
+            "mindate": "1905-01-01",
+            "maxdate": "2020-03-15",
+            "latitude": 44.50747,
+            "name": "BUFFALO BILL DAM, WY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00481175",
+            "elevationUnit": "METERS",
+            "longitude": -109.16745
+        },
+        {
+            "elevation": 2456.7,
+            "mindate": "1960-01-01",
+            "maxdate": "2020-05-15",
+            "latitude": 44.7741,
+            "name": "BURGESS JUNCTION, WY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00481220",
+            "elevationUnit": "METERS",
+            "longitude": -107.5216
+        },
+        {
+            "elevation": 1866.9,
+            "mindate": "1951-11-01",
+            "maxdate": "2020-04-06",
+            "latitude": 43.36556,
+            "name": "BURRIS, WY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00481284",
+            "elevationUnit": "METERS",
+            "longitude": -109.27545
+        },
+        {
+            "elevation": 1657.2,
+            "mindate": "1948-01-01",
+            "maxdate": "2010-12-31",
+            "latitude": 41.0844,
+            "name": "CARPENTER 3 N, WY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00481547",
+            "elevationUnit": "METERS",
+            "longitude": -104.3788
+        },
+        {
+            "elevation": 1585.9,
+            "mindate": "1900-11-01",
+            "maxdate": "1981-05-31",
+            "latitude": 42.85,
+            "name": "CASPER 2 E, WY US",
+            "datacoverage": 0.7343,
+            "id": "GHCND:USC00481565",
+            "elevationUnit": "METERS",
+            "longitude": -106.26667
+        },
+        {
+            "elevation": 1553.6,
+            "mindate": "2001-01-01",
+            "maxdate": "2020-05-15",
+            "latitude": 42.86149,
+            "name": "CASPER WASTE WATER TREATMENT PLANT, WY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00481569",
+            "elevationUnit": "METERS",
+            "longitude": -106.29239
+        },
+        {
+            "elevation": 1567.6,
+            "mindate": "2002-05-01",
+            "maxdate": "2020-05-17",
+            "latitude": 42.85186,
+            "name": "CASPER 1 SW, WY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00481572",
+            "elevationUnit": "METERS",
+            "longitude": -106.28434
+        },
+        {
+            "elevation": 2490.2,
+            "mindate": "1899-02-01",
+            "maxdate": "2010-12-31",
+            "latitude": 41.3136,
+            "name": "CENTENNIAL 1 NE, WY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00481610",
+            "elevationUnit": "METERS",
+            "longitude": -106.1291
+        },
+        {
+            "elevation": 1865.1,
+            "mindate": "2003-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 41.15166,
+            "name": "CHEYENNE WEATHER FORECAST OFFICE, WY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00481676",
+            "elevationUnit": "METERS",
+            "longitude": -104.80622
+        },
+        {
+            "elevation": 1852,
+            "mindate": "2011-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 41.19473,
+            "name": "CHEYENNE 7 NE, WY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00481687",
+            "elevationUnit": "METERS",
+            "longitude": -104.71194
+        },
+        {
+            "elevation": 1616.7,
+            "mindate": "1900-11-01",
+            "maxdate": "2020-03-26",
+            "latitude": 41.7594,
+            "name": "CHUGWATER, WY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00481730",
+            "elevationUnit": "METERS",
+            "longitude": -104.8222
+        },
+        {
+            "elevation": 2157.7,
+            "mindate": "1891-03-01",
+            "maxdate": "2020-02-29",
+            "latitude": 41.39748,
+            "name": "CHURCH BUTTES GAS PLANT, WY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00481736",
+            "elevationUnit": "METERS",
+            "longitude": -110.08837
+        },
+        {
+            "elevation": 1254.9,
+            "mindate": "1961-01-01",
+            "maxdate": "2020-05-16",
+            "latitude": 44.93651,
+            "name": "CLARK 3 NE, WY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00481775",
+            "elevationUnit": "METERS",
+            "longitude": -109.13736
+        },
+        {
+            "elevation": 1217.7,
+            "mindate": "1881-11-01",
+            "maxdate": "2020-05-15",
+            "latitude": 44.578,
+            "name": "CLEARMONT 5 SW, WY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00481816",
+            "elevationUnit": "METERS",
+            "longitude": -106.4472
+        },
+        {
+            "elevation": 1609.3,
+            "mindate": "1915-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 44.5021,
+            "name": "CODY, WY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00481840",
+            "elevationUnit": "METERS",
+            "longitude": -109.1112
+        },
+        {
+            "elevation": 1599.6,
+            "mindate": "1949-01-01",
+            "maxdate": "2020-05-12",
+            "latitude": 44.4138,
+            "name": "CODY 12 SE, WY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00481850",
+            "elevationUnit": "METERS",
+            "longitude": -108.90055
+        },
+        {
+            "elevation": 1780,
+            "mindate": "1958-09-01",
+            "maxdate": "2010-12-31",
+            "latitude": 44.3366,
+            "name": "CODY 21 SW, WY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00481855",
+            "elevationUnit": "METERS",
+            "longitude": -109.3913
+        },
+        {
+            "elevation": 1060.7,
+            "mindate": "1915-01-01",
+            "maxdate": "2012-10-31",
+            "latitude": 44.8711,
+            "name": "COLONY, WY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00481905",
+            "elevationUnit": "METERS",
+            "longitude": -104.1533
+        },
+        {
+            "elevation": 2239.4,
+            "mindate": "1979-09-01",
+            "maxdate": "2013-08-24",
+            "latitude": 42.9588,
+            "name": "CORA, WY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00482054",
+            "elevationUnit": "METERS",
+            "longitude": -109.9958
+        },
+        {
+            "elevation": 1983.9,
+            "mindate": "1913-06-01",
+            "maxdate": "2015-09-01",
+            "latitude": 44.8675,
+            "name": "CRANDALL CREEK, WY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00482135",
+            "elevationUnit": "METERS",
+            "longitude": -109.6436
+        },
+        {
+            "elevation": 2274.4,
+            "mindate": "2017-01-01",
+            "maxdate": "2018-09-26",
+            "latitude": 41.18511,
+            "name": "CURT GOWDY STATE PARK VISITOR S CENTER, WY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00482233",
+            "elevationUnit": "METERS",
+            "longitude": -105.24436
+        },
+        {
+            "elevation": 2237.5,
+            "mindate": "1989-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 42.92815,
+            "name": "DANIEL FISH HATCHERY, WY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00482242",
+            "elevationUnit": "METERS",
+            "longitude": -110.12729
+        },
+        {
+            "elevation": 2496.3,
+            "mindate": "1974-08-01",
+            "maxdate": "2020-05-16",
+            "latitude": 43.41269,
+            "name": "DARWIN RANCH, WY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00482375",
+            "elevationUnit": "METERS",
+            "longitude": -110.16331
+        },
+        {
+            "elevation": 1194.8,
+            "mindate": "1951-01-01",
+            "maxdate": "2020-05-16",
+            "latitude": 44.8767,
+            "name": "DAYTON, WY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00482399",
+            "elevationUnit": "METERS",
+            "longitude": -107.2631
+        },
+        {
+            "elevation": 1353.3,
+            "mindate": "1962-01-01",
+            "maxdate": "2010-12-31",
+            "latitude": 44.18333,
+            "name": "DEAD HORSE CREEK, WY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00482410",
+            "elevationUnit": "METERS",
+            "longitude": -105.9
+        },
+        {
+            "elevation": 1251.2,
+            "mindate": "1916-01-01",
+            "maxdate": "2020-05-15",
+            "latitude": 44.89201,
+            "name": "DEAVER, WY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00482415",
+            "elevationUnit": "METERS",
+            "longitude": -108.59291
+        },
+        {
+            "elevation": 1177.1,
+            "mindate": "1959-01-01",
+            "maxdate": "2020-03-31",
+            "latitude": 44.5833,
+            "name": "DEVILS TOWER NUMBER 2, WY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00482466",
+            "elevationUnit": "METERS",
+            "longitude": -104.7147
+        },
+        {
+            "elevation": 1313.7,
+            "mindate": "1941-07-01",
+            "maxdate": "2020-02-29",
+            "latitude": 44.0991,
+            "name": "DILLINGER, WY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00482580",
+            "elevationUnit": "METERS",
+            "longitude": -105.1175
+        },
+        {
+            "elevation": 1700.2,
+            "mindate": "1920-09-01",
+            "maxdate": "2020-04-01",
+            "latitude": 43.23348,
+            "name": "DIVERSION DAM, WY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00482595",
+            "elevationUnit": "METERS",
+            "longitude": -108.91332
+        },
+        {
+            "elevation": 1940.1,
+            "mindate": "1922-02-01",
+            "maxdate": "1978-04-30",
+            "latitude": 41.03333,
+            "name": "DIXON, WY US",
+            "datacoverage": 0.9957,
+            "id": "GHCND:USC00482610",
+            "elevationUnit": "METERS",
+            "longitude": -107.53333
+        },
+        {
+            "elevation": 1865.4,
+            "mindate": "1942-08-01",
+            "maxdate": "2010-12-31",
+            "latitude": 42.1794,
+            "name": "DOUBLE FOUR RANCH, WY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00482680",
+            "elevationUnit": "METERS",
+            "longitude": -105.4016
+        },
+        {
+            "elevation": 1484.4,
+            "mindate": "1909-04-01",
+            "maxdate": "2016-04-08",
+            "latitude": 42.7467,
+            "name": "DOUGLAS 1 SE, WY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00482685",
+            "elevationUnit": "METERS",
+            "longitude": -105.3603
+        },
+        {
+            "elevation": 1838.9,
+            "mindate": "1971-12-01",
+            "maxdate": "1975-01-31",
+            "latitude": 42.58333,
+            "name": "DOUGLAS 20 SW, WY US",
+            "datacoverage": 0.8674,
+            "id": "GHCND:USC00482700",
+            "elevationUnit": "METERS",
+            "longitude": -105.71667
+        },
+        {
+            "elevation": 2119.9,
+            "mindate": "1905-05-01",
+            "maxdate": "2020-05-17",
+            "latitude": 43.53976,
+            "name": "DUBOIS, WY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00482715",
+            "elevationUnit": "METERS",
+            "longitude": -109.65522
+        },
+        {
+            "elevation": 1345.7,
+            "mindate": "1926-05-01",
+            "maxdate": "2020-02-29",
+            "latitude": 43.4117,
+            "name": "DULL CENTER 1 SE, WY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00482725",
+            "elevationUnit": "METERS",
+            "longitude": -104.9614
+        },
+        {
+            "elevation": 1219.2,
+            "mindate": "1908-09-01",
+            "maxdate": "2010-12-31",
+            "latitude": 44.48278,
+            "name": "ECHETA 2 NW, WY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00482881",
+            "elevationUnit": "METERS",
+            "longitude": -105.89917
+        },
+        {
+            "elevation": 2214.4,
+            "mindate": "1948-08-01",
+            "maxdate": "2016-11-30",
+            "latitude": 41.6877,
+            "name": "ELK MOUNTAIN, WY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00482995",
+            "elevationUnit": "METERS",
+            "longitude": -106.4136
+        },
+        {
+            "elevation": 1355.8,
+            "mindate": "1911-05-01",
+            "maxdate": "2020-04-01",
+            "latitude": 44.4971,
+            "name": "EMBLEM, WY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00483031",
+            "elevationUnit": "METERS",
+            "longitude": -108.39057
+        },
+        {
+            "elevation": 2250.9,
+            "mindate": "1948-08-01",
+            "maxdate": "2010-12-31",
+            "latitude": 41.18333,
+            "name": "ENCAMPMENT 10 ESE, WY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00483045",
+            "elevationUnit": "METERS",
+            "longitude": -106.61667
+        },
+        {
+            "elevation": 2080.3,
+            "mindate": "1890-12-01",
+            "maxdate": "2020-03-31",
+            "latitude": 41.265,
+            "name": "EVANSTON 1 E, WY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00483100",
+            "elevationUnit": "METERS",
+            "longitude": -110.9508
+        },
+        {
+            "elevation": 2017.8,
+            "mindate": "1915-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 42.13976,
+            "name": "FARSON 2 NNE, WY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00483170",
+            "elevationUnit": "METERS",
+            "longitude": -109.43088
+        },
+        {
+            "elevation": 1976.6,
+            "mindate": "1963-01-01",
+            "maxdate": "2020-05-15",
+            "latitude": 41.98604,
+            "name": "FONTENELLE DAM, WY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00483396",
+            "elevationUnit": "METERS",
+            "longitude": -110.06113
+        },
+        {
+            "elevation": 1452.1,
+            "mindate": "1927-11-01",
+            "maxdate": "1979-03-31",
+            "latitude": 42.38333,
+            "name": "FORT LARAMIE 11 NNW, WY US",
+            "datacoverage": 0.8412,
+            "id": "GHCND:USC00483490",
+            "elevationUnit": "METERS",
+            "longitude": -104.53333
+        },
+        {
+            "elevation": 1692.9,
+            "mindate": "1929-01-01",
+            "maxdate": "1979-12-31",
+            "latitude": 42.98333,
+            "name": "FORT WASHAKIE 1 SE, WY US",
+            "datacoverage": 0.8154,
+            "id": "GHCND:USC00483570",
+            "elevationUnit": "METERS",
+            "longitude": -108.86667
+        },
+        {
+            "elevation": 2068.1,
+            "mindate": "1990-01-01",
+            "maxdate": "2020-05-15",
+            "latitude": 41.83684,
+            "name": "FOSSIL BUTTE, WY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00483582",
+            "elevationUnit": "METERS",
+            "longitude": -110.77045
+        },
+        {
+            "elevation": 2763.6,
+            "mindate": "1911-03-01",
+            "maxdate": "1979-02-28",
+            "latitude": 41.08333,
+            "name": "FOXPARK, WY US",
+            "datacoverage": 0.9142,
+            "id": "GHCND:USC00483630",
+            "elevationUnit": "METERS",
+            "longitude": -106.15
+        },
+        {
+            "elevation": 1972.1,
+            "mindate": "1962-01-01",
+            "maxdate": "2007-04-30",
+            "latitude": 42.8394,
+            "name": "GAS HILLS 4 E, WY US",
+            "datacoverage": 0.9367,
+            "id": "GHCND:USC00483801",
+            "elevationUnit": "METERS",
+            "longitude": -107.5133
+        },
+        {
+            "elevation": 1414.3,
+            "mindate": "1902-03-01",
+            "maxdate": "2020-05-16",
+            "latitude": 44.2666,
+            "name": "GILLETTE 4 SE, WY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00483855",
+            "elevationUnit": "METERS",
+            "longitude": -105.4489
+        },
+        {
+            "elevation": 1495,
+            "mindate": "1949-01-01",
+            "maxdate": "1985-09-30",
+            "latitude": 44.08333,
+            "name": "GILLETTE 18 SW, WY US",
+            "datacoverage": 0.9931,
+            "id": "GHCND:USC00483865",
+            "elevationUnit": "METERS",
+            "longitude": -105.71667
+        },
+        {
+            "elevation": 1449,
+            "mindate": "1964-04-01",
+            "maxdate": "1978-04-30",
+            "latitude": 42.45,
+            "name": "GLENDO 4 SW, WY US",
+            "datacoverage": 0.9824,
+            "id": "GHCND:USC00483930",
+            "elevationUnit": "METERS",
+            "longitude": -105.08333
+        },
+        {
+            "elevation": 1444.4,
+            "mindate": "2005-03-01",
+            "maxdate": "2019-11-30",
+            "latitude": 42.5283,
+            "name": "GLENDO 6 NE, WY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00483936",
+            "elevationUnit": "METERS",
+            "longitude": -104.9152
+        },
+        {
+            "elevation": 1456.9,
+            "mindate": "2012-02-01",
+            "maxdate": "2020-05-17",
+            "latitude": 42.4689,
+            "name": "GLENDO RSVR USBR, WY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00483944",
+            "elevationUnit": "METERS",
+            "longitude": -104.9658
+        },
+        {
+            "elevation": 1508.2,
+            "mindate": "1941-07-01",
+            "maxdate": "2016-03-01",
+            "latitude": 42.8266,
+            "name": "GLENROCK 5 ESE, WY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00483950",
+            "elevationUnit": "METERS",
+            "longitude": -105.7877
+        },
+        {
+            "elevation": 1961.1,
+            "mindate": "1949-11-01",
+            "maxdate": "1987-06-30",
+            "latitude": 42.66667,
+            "name": "GLENROCK 14 SSE, WY US",
+            "datacoverage": 0.9935,
+            "id": "GHCND:USC00483960",
+            "elevationUnit": "METERS",
+            "longitude": -105.81667
+        },
+        {
+            "elevation": 1700.5,
+            "mindate": "1949-01-01",
+            "maxdate": "1990-03-31",
+            "latitude": 43.95,
+            "name": "GRASS CREEK, WY US",
+            "datacoverage": 0.8977,
+            "id": "GHCND:USC00484036",
+            "elevationUnit": "METERS",
+            "longitude": -108.65
+        },
+        {
+            "elevation": 1877.6,
+            "mindate": "1897-04-01",
+            "maxdate": "2020-05-17",
+            "latitude": 41.51671,
+            "name": "GREEN RIVER, WY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00484065",
+            "elevationUnit": "METERS",
+            "longitude": -109.47017
+        },
+        {
+            "elevation": 1154.3,
+            "mindate": "1951-03-01",
+            "maxdate": "2019-09-10",
+            "latitude": 44.48934,
+            "name": "GREYBULL, WY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00484080",
+            "elevationUnit": "METERS",
+            "longitude": -108.05359
+        },
+        {
+            "elevation": 1327.4,
+            "mindate": "1962-01-01",
+            "maxdate": "2020-03-31",
+            "latitude": 42.2905,
+            "name": "GUERNSEY DAM NUMBER 2, WY US",
+            "datacoverage": 0.6062,
+            "id": "GHCND:USC00484126",
+            "elevationUnit": "METERS",
+            "longitude": -104.7625
+        },
+        {
+            "elevation": 1365.5,
+            "mindate": "2012-02-01",
+            "maxdate": "2020-05-17",
+            "latitude": 42.2833,
+            "name": "GUERNSEY 2 NW USBR, WY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00484131",
+            "elevationUnit": "METERS",
+            "longitude": -104.7667
+        },
+        {
+            "elevation": 1709.9,
+            "mindate": "1950-06-01",
+            "maxdate": "2015-11-30",
+            "latitude": 43.7731,
+            "name": "HAMILTON DOME, WY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00484205",
+            "elevationUnit": "METERS",
+            "longitude": -108.5727
+        },
+        {
+            "elevation": 1582.2,
+            "mindate": "2009-01-01",
+            "maxdate": "2010-08-31",
+            "latitude": 42.42556,
+            "name": "HARTVILLE 7 NNE, WY US",
+            "datacoverage": 0.9992,
+            "id": "GHCND:USC00484243",
+            "elevationUnit": "METERS",
+            "longitude": -104.69917
+        },
+        {
+            "elevation": 1335,
+            "mindate": "1967-09-01",
+            "maxdate": "1983-11-30",
+            "latitude": 42.93333,
+            "name": "HAT CREEK 5 E, WY US",
+            "datacoverage": 0.9488,
+            "id": "GHCND:USC00484303",
+            "elevationUnit": "METERS",
+            "longitude": -104.31667
+        },
+        {
+            "elevation": 1460,
+            "mindate": "1942-11-01",
+            "maxdate": "2010-12-31",
+            "latitude": 44.7052,
+            "name": "HEART MOUNTAIN, WY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00484411",
+            "elevationUnit": "METERS",
+            "longitude": -108.9558
+        },
+        {
+            "elevation": 2073.9,
+            "mindate": "1898-12-01",
+            "maxdate": "1979-03-31",
+            "latitude": 41.15,
+            "name": "HECLA, WY US",
+            "datacoverage": 0.8206,
+            "id": "GHCND:USC00484440",
+            "elevationUnit": "METERS",
+            "longitude": -105.18333
+        },
+        {
+            "elevation": 2039.1,
+            "mindate": "1979-01-01",
+            "maxdate": "2020-03-31",
+            "latitude": 41.15,
+            "name": "HECLA 1 E, WY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00484442",
+            "elevationUnit": "METERS",
+            "longitude": -105.1667
+        },
+        {
+            "elevation": 1925.1,
+            "mindate": "1955-01-01",
+            "maxdate": "1978-02-28",
+            "latitude": 41.45,
+            "name": "HORSE CREEK 2 NW, WY US",
+            "datacoverage": 0.9926,
+            "id": "GHCND:USC00484700",
+            "elevationUnit": "METERS",
+            "longitude": -105.23333
+        },
+        {
+            "elevation": 1145.4,
+            "mindate": "1941-07-01",
+            "maxdate": "2018-09-30",
+            "latitude": 44.6855,
+            "name": "HULETT, WY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00484760",
+            "elevationUnit": "METERS",
+            "longitude": -104.6027
+        },
+        {
+            "elevation": 1174.4,
+            "mindate": "2007-01-01",
+            "maxdate": "2020-05-12",
+            "latitude": 44.7812,
+            "name": "IML AIR SCIENCE, WY US",
+            "datacoverage": 0.9998,
+            "id": "GHCND:USC00484799",
+            "elevationUnit": "METERS",
+            "longitude": -106.9644
+        },
+        {
+            "elevation": 1892.8,
+            "mindate": "1905-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 43.48629,
+            "name": "JACKSON, WY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00484910",
+            "elevationUnit": "METERS",
+            "longitude": -110.76153
+        },
+        {
+            "elevation": 1406,
+            "mindate": "1949-05-01",
+            "maxdate": "1975-11-30",
+            "latitude": 42.46667,
+            "name": "JAY EM, WY US",
+            "datacoverage": 0.931,
+            "id": "GHCND:USC00484920",
+            "elevationUnit": "METERS",
+            "longitude": -104.36667
+        },
+        {
+            "elevation": 1926,
+            "mindate": "1964-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 42.4942,
+            "name": "JEFFREY CITY, WY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00484925",
+            "elevationUnit": "METERS",
+            "longitude": -107.82908
+        },
+        {
+            "elevation": 1420.4,
+            "mindate": "1900-11-01",
+            "maxdate": "2020-05-14",
+            "latitude": 43.7144,
+            "name": "KAYCEE, WY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00485055",
+            "elevationUnit": "METERS",
+            "longitude": -106.6375
+        },
+        {
+            "elevation": 1609.3,
+            "mindate": "1953-01-01",
+            "maxdate": "1987-02-28",
+            "latitude": 42.76667,
+            "name": "KEELINE 3 W, WY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00485085",
+            "elevationUnit": "METERS",
+            "longitude": -104.78333
+        },
+        {
+            "elevation": 1551.4,
+            "mindate": "1987-01-01",
+            "maxdate": "2010-12-31",
+            "latitude": 42.5155,
+            "name": "KEELINE 7 SW, WY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00485088",
+            "elevationUnit": "METERS",
+            "longitude": -104.8719
+        },
+        {
+            "elevation": 2114.4,
+            "mindate": "1902-01-01",
+            "maxdate": "2020-05-13",
+            "latitude": 41.81814,
+            "name": "KEMMERER 2 N, WY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00485105",
+            "elevationUnit": "METERS",
+            "longitude": -110.53328
+        },
+        {
+            "elevation": 2332.9,
+            "mindate": "1904-01-01",
+            "maxdate": "1976-05-31",
+            "latitude": 43.16667,
+            "name": "KENDALL, WY US",
+            "datacoverage": 0.7837,
+            "id": "GHCND:USC00485115",
+            "elevationUnit": "METERS",
+            "longitude": -109.98333
+        },
+        {
+            "elevation": 2011.1,
+            "mindate": "1958-01-01",
+            "maxdate": "2012-05-04",
+            "latitude": 42.2644,
+            "name": "LA BARGE, WY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00485252",
+            "elevationUnit": "METERS",
+            "longitude": -110.195
+        },
+        {
+            "elevation": 1399,
+            "mindate": "1948-08-01",
+            "maxdate": "2010-12-31",
+            "latitude": 41.6377,
+            "name": "LA GRANGE, WY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00485260",
+            "elevationUnit": "METERS",
+            "longitude": -104.1669
+        },
+        {
+            "elevation": 2405.5,
+            "mindate": "1904-01-01",
+            "maxdate": "2020-04-01",
+            "latitude": 44.56211,
+            "name": "LAKE YELLOWSTONE, WY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00485345",
+            "elevationUnit": "METERS",
+            "longitude": -110.3986
+        },
+        {
+            "elevation": 2004.1,
+            "mindate": "1881-02-01",
+            "maxdate": "2020-05-17",
+            "latitude": 44.89553,
+            "name": "LAMAR RANGER STATION, WY US",
+            "datacoverage": 0.55,
+            "id": "GHCND:USC00485355",
+            "elevationUnit": "METERS",
+            "longitude": -110.23416
+        },
+        {
+            "elevation": 1323.1,
+            "mindate": "1962-01-01",
+            "maxdate": "1984-03-31",
+            "latitude": 43.05,
+            "name": "LANCE CREEK 3 WNW, WY US",
+            "datacoverage": 0.9318,
+            "id": "GHCND:USC00485372",
+            "elevationUnit": "METERS",
+            "longitude": -104.7
+        },
+        {
+            "elevation": 1281.4,
+            "mindate": "2005-01-01",
+            "maxdate": "2020-05-16",
+            "latitude": 43.1827,
+            "name": "LANCE CREEK 8 N, WY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00485374",
+            "elevationUnit": "METERS",
+            "longitude": -104.6036
+        },
+        {
+            "elevation": 1255.8,
+            "mindate": "1948-01-01",
+            "maxdate": "1985-08-31",
+            "latitude": 43.3,
+            "name": "LANCE CREEK 18 N, WY US",
+            "datacoverage": 0.732,
+            "id": "GHCND:USC00485377",
+            "elevationUnit": "METERS",
+            "longitude": -104.66667
+        },
+        {
+            "elevation": 1621.5,
+            "mindate": "1999-09-01",
+            "maxdate": "2019-08-31",
+            "latitude": 42.84496,
+            "name": "LANDER 1 N, WY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00485392",
+            "elevationUnit": "METERS",
+            "longitude": -108.73721
+        },
+        {
+            "elevation": 2186.9,
+            "mindate": "1962-01-01",
+            "maxdate": "1976-02-29",
+            "latitude": 41.31667,
+            "name": "LARAMIE 2, WY US",
+            "datacoverage": 0.9944,
+            "id": "GHCND:USC00485411",
+            "elevationUnit": "METERS",
+            "longitude": -105.58333
+        },
+        {
+            "elevation": 2182.1,
+            "mindate": "2011-01-01",
+            "maxdate": "2014-01-31",
+            "latitude": 41.2975,
+            "name": "LARAMIE 2 WSW SITE 2, WY US",
+            "datacoverage": 0.9989,
+            "id": "GHCND:USC00485416",
+            "elevationUnit": "METERS",
+            "longitude": -105.6241
+        },
+        {
+            "elevation": 2252.5,
+            "mindate": "2009-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 41.2847,
+            "name": "LARAMIE 4 SE, WY US",
+            "datacoverage": 0.9999,
+            "id": "GHCND:USC00485417",
+            "elevationUnit": "METERS",
+            "longitude": -105.5319
+        },
+        {
+            "elevation": 2176.3,
+            "mindate": "1966-05-01",
+            "maxdate": "2020-05-17",
+            "latitude": 41.34002,
+            "name": "LARAMIE 2 NW, WY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00485435",
+            "elevationUnit": "METERS",
+            "longitude": -105.60647
+        },
+        {
+            "elevation": 1495,
+            "mindate": "1948-09-01",
+            "maxdate": "1978-05-31",
+            "latitude": 43.76667,
+            "name": "LAWVER 10 SW, WY US",
+            "datacoverage": 0.9497,
+            "id": "GHCND:USC00485467",
+            "elevationUnit": "METERS",
+            "longitude": -105.38333
+        },
+        {
+            "elevation": 1268,
+            "mindate": "1964-01-01",
+            "maxdate": "2020-04-30",
+            "latitude": 44.85,
+            "name": "LEITER 9 N, WY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00485506",
+            "elevationUnit": "METERS",
+            "longitude": -106.2888
+        },
+        {
+            "elevation": 1839.5,
+            "mindate": "1930-01-01",
+            "maxdate": "2020-03-31",
+            "latitude": 42.1952,
+            "name": "LEO 6 SW, WY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00485525",
+            "elevationUnit": "METERS",
+            "longitude": -106.8555
+        },
+        {
+            "elevation": 1513,
+            "mindate": "1961-09-01",
+            "maxdate": "1975-02-28",
+            "latitude": 43.55,
+            "name": "LINCH 10 ESE, WY US",
+            "datacoverage": 0.8151,
+            "id": "GHCND:USC00485581",
+            "elevationUnit": "METERS",
+            "longitude": -106.01667
+        },
+        {
+            "elevation": 1267.4,
+            "mindate": "1952-01-01",
+            "maxdate": "2020-05-04",
+            "latitude": 42.1298,
+            "name": "LINGLE 2 WSW, WY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00485612",
+            "elevationUnit": "METERS",
+            "longitude": -104.3899
+        },
+        {
+            "elevation": 2301.8,
+            "mindate": "1993-11-01",
+            "maxdate": "2010-12-31",
+            "latitude": 41.0547,
+            "name": "LONETREE NUMBER 1, WY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00485703",
+            "elevationUnit": "METERS",
+            "longitude": -110.1541
+        },
+        {
+            "elevation": 1650.5,
+            "mindate": "1961-01-01",
+            "maxdate": "1982-09-30",
+            "latitude": 43.28333,
+            "name": "LOST CABIN, WY US",
+            "datacoverage": 0.9445,
+            "id": "GHCND:USC00485734",
+            "elevationUnit": "METERS",
+            "longitude": -107.63333
+        },
+        {
+            "elevation": 1172.6,
+            "mindate": "1897-04-01",
+            "maxdate": "2020-05-12",
+            "latitude": 44.83772,
+            "name": "LOVELL, WY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00485770",
+            "elevationUnit": "METERS",
+            "longitude": -108.404
+        },
+        {
+            "elevation": 1551.4,
+            "mindate": "1893-01-01",
+            "maxdate": "2010-12-31",
+            "latitude": 42.7505,
+            "name": "LUSK 2 SW, WY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00485830",
+            "elevationUnit": "METERS",
+            "longitude": -104.4811
+        },
+        {
+            "elevation": 1260.7,
+            "mindate": "2003-01-01",
+            "maxdate": "2020-01-29",
+            "latitude": 42.9366,
+            "name": "LUSK 25 NE, WY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00485833",
+            "elevationUnit": "METERS",
+            "longitude": -104.0669
+        },
+        {
+            "elevation": 2027.5,
+            "mindate": "2018-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 41.31544,
+            "name": "LYMAN, WY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00485839",
+            "elevationUnit": "METERS",
+            "longitude": -110.27249
+        },
+        {
+            "elevation": 2022.3,
+            "mindate": "1881-11-01",
+            "maxdate": "2019-04-29",
+            "latitude": 41.897,
+            "name": "MEDICINE BOW, WY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00486120",
+            "elevationUnit": "METERS",
+            "longitude": -106.206
+        },
+        {
+            "elevation": 2346.4,
+            "mindate": "1963-10-01",
+            "maxdate": "1988-06-30",
+            "latitude": 42.95,
+            "name": "MERNA, WY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00486165",
+            "elevationUnit": "METERS",
+            "longitude": -110.36667
+        },
+        {
+            "elevation": 1481.3,
+            "mindate": "1939-01-01",
+            "maxdate": "2020-04-01",
+            "latitude": 43.41316,
+            "name": "MIDWEST, WY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00486195",
+            "elevationUnit": "METERS",
+            "longitude": -106.27727
+        },
+        {
+            "elevation": 1964.1,
+            "mindate": "1958-12-01",
+            "maxdate": "2020-04-21",
+            "latitude": 43.65358,
+            "name": "MOOSE, WY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00486428",
+            "elevationUnit": "METERS",
+            "longitude": -110.71681
+        },
+        {
+            "elevation": 2074.2,
+            "mindate": "1911-03-01",
+            "maxdate": "2020-05-16",
+            "latitude": 43.85664,
+            "name": "MORAN 5 WNW, WY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00486440",
+            "elevationUnit": "METERS",
+            "longitude": -110.58876
+        },
+        {
+            "elevation": 1250.9,
+            "mindate": "1948-01-01",
+            "maxdate": "1978-08-31",
+            "latitude": 43.51667,
+            "name": "MORRISEY, WY US",
+            "datacoverage": 0.9889,
+            "id": "GHCND:USC00486450",
+            "elevationUnit": "METERS",
+            "longitude": -104.33333
+        },
+        {
+            "elevation": 2072.6,
+            "mindate": "1966-04-01",
+            "maxdate": "2020-05-12",
+            "latitude": 41.26587,
+            "name": "MOUNTAIN VIEW, WY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00486555",
+            "elevationUnit": "METERS",
+            "longitude": -110.33747
+        },
+        {
+            "elevation": 1904.4,
+            "mindate": "1949-10-01",
+            "maxdate": "2010-12-31",
+            "latitude": 42.3627,
+            "name": "MUDDY GAP, WY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00486595",
+            "elevationUnit": "METERS",
+            "longitude": -107.4444
+        },
+        {
+            "elevation": 2053.1,
+            "mindate": "2014-10-01",
+            "maxdate": "2014-10-31",
+            "latitude": 41.3185,
+            "name": "MUD SPRINGS, WY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00486597",
+            "elevationUnit": "METERS",
+            "longitude": -108.91764
+        },
+        {
+            "elevation": 1155.2,
+            "mindate": "1996-12-01",
+            "maxdate": "2009-12-31",
+            "latitude": 43.3836,
+            "name": "MULE CREEK JCT, WY US",
+            "datacoverage": 0.9362,
+            "id": "GHCND:USC00486603",
+            "elevationUnit": "METERS",
+            "longitude": -104.2302
+        },
+        {
+            "elevation": 1345.7,
+            "mindate": "1906-07-01",
+            "maxdate": "2020-05-15",
+            "latitude": 43.8497,
+            "name": "NEWCASTLE, WY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00486660",
+            "elevationUnit": "METERS",
+            "longitude": -104.1886
+        },
+        {
+            "elevation": 2240.6,
+            "mindate": "1904-05-01",
+            "maxdate": "2020-05-16",
+            "latitude": 44.45684,
+            "name": "OLD FAITHFUL, WY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00486845",
+            "elevationUnit": "METERS",
+            "longitude": -110.83269
+        },
+        {
+            "elevation": 1295.4,
+            "mindate": "1989-12-01",
+            "maxdate": "2020-05-16",
+            "latitude": 42.2058,
+            "name": "OLD FORT LARAMIE, WY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00486852",
+            "elevationUnit": "METERS",
+            "longitude": -104.5561
         }
     ]
 }

@@ -2,7 +2,7 @@
     "metadata": {
         "resultset": {
             "offset": 1,
-            "count": 1403,
+            "count": 1205,
             "limit": 1000
         }
     },
@@ -28,17 +28,6 @@
             "id": "COOP:253165",
             "elevationUnit": "METERS",
             "longitude": -97.47333
-        },
-        {
-            "elevation": 376.1,
-            "mindate": "1939-01-01",
-            "maxdate": "2005-09-01",
-            "latitude": 42.7472,
-            "name": "NIOBRARA, NE US",
-            "datacoverage": 0.9538,
-            "id": "COOP:255960",
-            "elevationUnit": "METERS",
-            "longitude": -98.0466
         },
         {
             "elevation": 395.3,
@@ -74,92 +63,15 @@
             "longitude": -99.063
         },
         {
-            "elevation": 363,
-            "mindate": "1956-08-01",
-            "maxdate": "1959-06-01",
-            "latitude": 42.95,
-            "name": "ALCESTER 9 SE, SD US",
-            "datacoverage": 0.8868,
-            "id": "COOP:390107",
-            "elevationUnit": "METERS",
-            "longitude": -96.51667
-        },
-        {
-            "elevation": 378,
-            "mindate": "1956-08-01",
-            "maxdate": "1957-09-01",
-            "latitude": 42.96667,
-            "name": "ALCESTER 8 SE, SD US",
-            "datacoverage": 0.8574,
-            "id": "COOP:390108",
-            "elevationUnit": "METERS",
-            "longitude": -96.51667
-        },
-        {
-            "elevation": 374.9,
-            "mindate": "1956-08-01",
-            "maxdate": "1959-06-01",
-            "latitude": 42.96667,
-            "name": "ALCESTER 7 ESE, SD US",
-            "datacoverage": 0.944,
-            "id": "COOP:390109",
-            "elevationUnit": "METERS",
-            "longitude": -96.51667
-        },
-        {
-            "elevation": 390.1,
-            "mindate": "1956-07-01",
-            "maxdate": "1959-06-30",
-            "latitude": 42.96667,
-            "name": "ALCESTER 5 SE, SD US",
-            "datacoverage": 0.0332,
-            "id": "COOP:390111",
-            "elevationUnit": "METERS",
-            "longitude": -96.56667
-        },
-        {
-            "elevation": 409,
-            "mindate": "1956-08-01",
-            "maxdate": "1959-06-01",
-            "latitude": 42.98333,
-            "name": "ALCESTER 4 ESE, SD US",
-            "datacoverage": 0.944,
-            "id": "COOP:390112",
-            "elevationUnit": "METERS",
-            "longitude": -96.55
-        },
-        {
             "elevation": 431.3,
-            "mindate": "1948-08-01",
+            "mindate": "1948-08-06",
             "maxdate": "2002-12-01",
             "latitude": 43.02889,
             "name": "ALCESTER, SD US",
-            "datacoverage": 0.7724,
+            "datacoverage": 0.0244,
             "id": "COOP:390113",
             "elevationUnit": "METERS",
             "longitude": -96.62889
-        },
-        {
-            "elevation": 427,
-            "mindate": "1956-09-01",
-            "maxdate": "1958-09-01",
-            "latitude": 42.98333,
-            "name": "ALCESTER 4 SE, SD US",
-            "datacoverage": 0.6408,
-            "id": "COOP:390114",
-            "elevationUnit": "METERS",
-            "longitude": -96.56667
-        },
-        {
-            "elevation": 402.9,
-            "mindate": "1956-08-01",
-            "maxdate": "1956-09-01",
-            "latitude": 42.96667,
-            "name": "ALCESTER 6 SE, SD US",
-            "datacoverage": 0.998,
-            "id": "COOP:390115",
-            "elevationUnit": "METERS",
-            "longitude": -96.55
         },
         {
             "elevation": 448.1,
@@ -261,17 +173,6 @@
             "longitude": -99.79841
         },
         {
-            "elevation": 379.2,
-            "mindate": "1931-01-01",
-            "maxdate": "1968-12-01",
-            "latitude": 44.99583,
-            "name": "ASHTON, SD US",
-            "datacoverage": 0.8223,
-            "id": "COOP:390346",
-            "elevationUnit": "METERS",
-            "longitude": -98.48111
-        },
-        {
             "elevation": 390.1,
             "mindate": "1969-05-01",
             "maxdate": "2007-01-01",
@@ -360,17 +261,6 @@
             "longitude": -103.95
         },
         {
-            "elevation": 705,
-            "mindate": "1931-01-01",
-            "maxdate": "1951-11-01",
-            "latitude": 43.83333,
-            "name": "BELVIDERE, SD US",
-            "datacoverage": 0.9961,
-            "id": "COOP:390574",
-            "elevationUnit": "METERS",
-            "longitude": -101.26667
-        },
-        {
             "elevation": 445.3,
             "mindate": "1965-01-01",
             "maxdate": "1971-12-01",
@@ -404,17 +294,6 @@
             "longitude": -102.465
         },
         {
-            "elevation": 752.9,
-            "mindate": "1949-08-01",
-            "maxdate": "1952-11-01",
-            "latitude": 45.11667,
-            "name": "BIXBY DAM, SD US",
-            "datacoverage": 0.9723,
-            "id": "COOP:390706",
-            "elevationUnit": "METERS",
-            "longitude": -102.61667
-        },
-        {
             "elevation": 494.1,
             "mindate": "1950-07-01",
             "maxdate": "2010-12-01",
@@ -435,26 +314,6 @@
             "id": "COOP:390778",
             "elevationUnit": "METERS",
             "longitude": -98.95083
-        },
-        {
-            "elevation": 409,
-            "mindate": "1945-11-01",
-            "maxdate": "1957-09-01",
-            "latitude": 44.55,
-            "name": "BONILLA 3 SSW, SD US",
-            "datacoverage": 0.9861,
-            "id": "COOP:390796",
-            "elevationUnit": "METERS",
-            "longitude": -98.53333
-        },
-        {
-            "mindate": "1950-02-01",
-            "maxdate": "1951-09-01",
-            "latitude": 43.31667,
-            "name": "BOVEE, SD US",
-            "datacoverage": 0.9026,
-            "id": "COOP:390822",
-            "longitude": -98.75
         },
         {
             "elevation": 610.5,
@@ -535,11 +394,11 @@
         },
         {
             "elevation": 891.5,
-            "mindate": "1948-08-01",
+            "mindate": "1948-08-02",
             "maxdate": "2006-01-01",
             "latitude": 45.59583,
             "name": "BUFFALO, SD US",
-            "datacoverage": 0.9742,
+            "datacoverage": 0.0236,
             "id": "COOP:391114",
             "elevationUnit": "METERS",
             "longitude": -103.54528
@@ -612,11 +471,11 @@
         },
         {
             "elevation": 454.2,
-            "mindate": "1948-08-01",
+            "mindate": "1948-08-08",
             "maxdate": "2014-01-01",
             "latitude": 44.68893,
             "name": "CARPENTER 4 NNE, SD US",
-            "datacoverage": 0.9216,
+            "datacoverage": 0.0205,
             "id": "COOP:391452",
             "elevationUnit": "METERS",
             "longitude": -97.88955
@@ -633,35 +492,15 @@
             "longitude": -97.7202
         },
         {
-            "mindate": "1949-08-01",
-            "maxdate": "1950-10-01",
-            "latitude": 45.6,
-            "name": "CASH, SD US",
-            "datacoverage": 0.9947,
-            "id": "COOP:391496",
-            "longitude": -102.63333
-        },
-        {
             "elevation": 960.1,
-            "mindate": "1949-08-01",
+            "mindate": "1949-08-18",
             "maxdate": "1975-07-01",
             "latitude": 45.01,
             "name": "CASTLE ROCK 4 NW, SD US",
-            "datacoverage": 0.7747,
+            "datacoverage": 0.0253,
             "id": "COOP:391504",
             "elevationUnit": "METERS",
             "longitude": -103.48278
-        },
-        {
-            "elevation": 929.9,
-            "mindate": "1941-11-01",
-            "maxdate": "1951-09-01",
-            "latitude": 45.11667,
-            "name": "CASTLE ROCK 12 NNW, SD US",
-            "datacoverage": 0.9919,
-            "id": "COOP:391509",
-            "elevationUnit": "METERS",
-            "longitude": -103.48333
         },
         {
             "elevation": 513.6,
@@ -763,17 +602,6 @@
             "longitude": -96.93197
         },
         {
-            "elevation": 470,
-            "mindate": "1940-06-01",
-            "maxdate": "1960-03-01",
-            "latitude": 45.01667,
-            "name": "CHEYENNE AGENCY, SD US",
-            "datacoverage": 0.9916,
-            "id": "COOP:391649",
-            "elevationUnit": "METERS",
-            "longitude": -100.3
-        },
-        {
             "elevation": 549.9,
             "mindate": "1931-01-01",
             "maxdate": "2011-12-01",
@@ -862,17 +690,6 @@
             "longitude": -101.8605
         },
         {
-            "elevation": 458.1,
-            "mindate": "1951-07-01",
-            "maxdate": "1957-09-01",
-            "latitude": 45.25,
-            "name": "CRESBARD 8 NW, SD US",
-            "datacoverage": 0.9728,
-            "id": "COOP:392027",
-            "elevationUnit": "METERS",
-            "longitude": -99.03333
-        },
-        {
             "elevation": 1670.3,
             "mindate": "1931-01-01",
             "maxdate": "2015-11-01",
@@ -893,28 +710,6 @@
             "id": "COOP:392088",
             "elevationUnit": "METERS",
             "longitude": -103.64917
-        },
-        {
-            "elevation": 1580.1,
-            "mindate": "1948-11-01",
-            "maxdate": "1956-12-01",
-            "latitude": 43.7,
-            "name": "CUSTER 7 SW, SD US",
-            "datacoverage": 0.9694,
-            "id": "COOP:392089",
-            "elevationUnit": "METERS",
-            "longitude": -103.7
-        },
-        {
-            "elevation": 839.1,
-            "mindate": "1951-08-01",
-            "maxdate": "1956-12-01",
-            "latitude": 45.36667,
-            "name": "DATE, SD US",
-            "datacoverage": 0.8301,
-            "id": "COOP:392179",
-            "elevationUnit": "METERS",
-            "longitude": -102.68333
         },
         {
             "elevation": 1423.4,
@@ -940,7 +735,7 @@
         },
         {
             "elevation": 1895.9,
-            "mindate": "1952-08-01",
+            "mindate": "1952-10-01",
             "maxdate": "1980-08-01",
             "latitude": 44.06667,
             "name": "DEERFIELD 4 NW, SD US",
@@ -961,17 +756,6 @@
             "longitude": -103.78583
         },
         {
-            "elevation": 1790.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1955-11-01",
-            "latitude": 44.01667,
-            "name": "DEERFIELD DAM, SD US",
-            "datacoverage": 1,
-            "id": "COOP:392234",
-            "elevationUnit": "METERS",
-            "longitude": -103.78333
-        },
-        {
             "elevation": 519.7,
             "mindate": "1931-01-01",
             "maxdate": "2015-11-01",
@@ -983,45 +767,12 @@
             "longitude": -97.5497
         },
         {
-            "elevation": 1129,
-            "mindate": "1948-11-01",
-            "maxdate": "1957-08-01",
-            "latitude": 43.53333,
-            "name": "DEWEY, SD US",
-            "datacoverage": 0.9529,
-            "id": "COOP:392312",
-            "elevationUnit": "METERS",
-            "longitude": -104.03333
-        },
-        {
-            "elevation": 1241.1,
-            "mindate": "1948-11-01",
-            "maxdate": "1967-12-01",
-            "latitude": 43.55,
-            "name": "DEWEY 8 ENE, SD US",
-            "datacoverage": 0.8799,
-            "id": "COOP:392314",
-            "elevationUnit": "METERS",
-            "longitude": -103.9
-        },
-        {
-            "elevation": 1552,
-            "mindate": "1948-12-01",
-            "maxdate": "1958-06-01",
-            "latitude": 43.71667,
-            "name": "DEWEY 15 NNE, SD US",
-            "datacoverage": 0.8786,
-            "id": "COOP:392316",
-            "elevationUnit": "METERS",
-            "longitude": -103.91667
-        },
-        {
             "elevation": 573,
             "mindate": "1948-08-01",
             "maxdate": "1974-07-01",
             "latitude": 43.4,
             "name": "DIXON 2 WNW, SD US",
-            "datacoverage": 0.9479,
+            "datacoverage": 0.027,
             "id": "COOP:392334",
             "elevationUnit": "METERS",
             "longitude": -99.51667
@@ -1038,17 +789,6 @@
             "longitude": -98.10066
         },
         {
-            "elevation": 1873,
-            "mindate": "1931-01-01",
-            "maxdate": "1969-12-01",
-            "latitude": 44.25,
-            "name": "DUMONT 2 ENE, SD US",
-            "datacoverage": 0.9957,
-            "id": "COOP:392409",
-            "elevationUnit": "METERS",
-            "longitude": -103.76667
-        },
-        {
             "elevation": 727.9,
             "mindate": "1922-01-01",
             "maxdate": "2015-11-01",
@@ -1058,17 +798,6 @@
             "id": "COOP:392429",
             "elevationUnit": "METERS",
             "longitude": -101.60228
-        },
-        {
-            "elevation": 723,
-            "mindate": "1951-10-01",
-            "maxdate": "1963-06-01",
-            "latitude": 44.83333,
-            "name": "DUPREE 16 S, SD US",
-            "datacoverage": 0.9221,
-            "id": "COOP:392438",
-            "elevationUnit": "METERS",
-            "longitude": -101.61667
         },
         {
             "elevation": 640.1,
@@ -1104,17 +833,6 @@
             "longitude": -103.82151
         },
         {
-            "elevation": 1202.1,
-            "mindate": "1948-11-01",
-            "maxdate": "1957-08-01",
-            "latitude": 43.45,
-            "name": "EDGEMONT 10 N, SD US",
-            "datacoverage": 0.9624,
-            "id": "COOP:392559",
-            "elevationUnit": "METERS",
-            "longitude": -103.83333
-        },
-        {
             "elevation": 1341.7,
             "mindate": "1967-11-01",
             "maxdate": "2015-11-01",
@@ -1124,17 +842,6 @@
             "id": "COOP:392565",
             "elevationUnit": "METERS",
             "longitude": -103.9172
-        },
-        {
-            "elevation": 798.6,
-            "mindate": "1949-08-01",
-            "maxdate": "1963-08-01",
-            "latitude": 45.86667,
-            "name": "LODGEPOLE 10 NW, SD US",
-            "datacoverage": 0.9586,
-            "id": "COOP:392614",
-            "elevationUnit": "METERS",
-            "longitude": -102.85
         },
         {
             "elevation": 365.8,
@@ -1179,17 +886,6 @@
             "id": "COOP:392797",
             "elevationUnit": "METERS",
             "longitude": -99.6222
-        },
-        {
-            "elevation": 588.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1956-04-01",
-            "latitude": 43.03333,
-            "name": "FAIRFAX, SD US",
-            "datacoverage": 0.9869,
-            "id": "COOP:392820",
-            "elevationUnit": "METERS",
-            "longitude": -98.88333
         },
         {
             "elevation": 606.6,
@@ -1302,28 +998,6 @@
             "longitude": -100.43333
         },
         {
-            "elevation": 430.1,
-            "mindate": "1951-08-01",
-            "maxdate": "1964-12-01",
-            "latitude": 44.06667,
-            "name": "FORT THOMPSON 3 E, SD US",
-            "datacoverage": 0.9686,
-            "id": "COOP:393089",
-            "elevationUnit": "METERS",
-            "longitude": -99.36667
-        },
-        {
-            "elevation": 420.9,
-            "mindate": "1950-09-01",
-            "maxdate": "1958-06-01",
-            "latitude": 45.83333,
-            "name": "FREDERICK, SD US",
-            "datacoverage": 0.7237,
-            "id": "COOP:393129",
-            "elevationUnit": "METERS",
-            "longitude": -98.5
-        },
-        {
             "elevation": 501.7,
             "mindate": "2009-08-01",
             "maxdate": "2015-11-01",
@@ -1351,32 +1025,10 @@
             "maxdate": "1974-03-01",
             "latitude": 43.71667,
             "name": "GARRETSON, SD US",
-            "datacoverage": 0.6671,
+            "datacoverage": 0.037,
             "id": "COOP:393239",
             "elevationUnit": "METERS",
             "longitude": -96.5
-        },
-        {
-            "elevation": 491,
-            "mindate": "1931-09-01",
-            "maxdate": "1949-12-01",
-            "latitude": 43.25,
-            "name": "GEDDES, SD US",
-            "datacoverage": 0.8726,
-            "id": "COOP:393274",
-            "elevationUnit": "METERS",
-            "longitude": -98.68333
-        },
-        {
-            "elevation": 558.1,
-            "mindate": "1932-05-01",
-            "maxdate": "1952-09-01",
-            "latitude": 45.25,
-            "name": "GELHAUS FARM, SD US",
-            "datacoverage": 0.9917,
-            "id": "COOP:393284",
-            "elevationUnit": "METERS",
-            "longitude": -97.45
         },
         {
             "elevation": 635.2,
@@ -1423,17 +1075,6 @@
             "longitude": -101.81033
         },
         {
-            "elevation": 509,
-            "mindate": "1931-01-01",
-            "maxdate": "1952-11-01",
-            "latitude": 45.53333,
-            "name": "GLENHAM, SD US",
-            "datacoverage": 0.9962,
-            "id": "COOP:393339",
-            "elevationUnit": "METERS",
-            "longitude": -100.26667
-        },
-        {
             "elevation": 658.4,
             "mindate": "1931-01-01",
             "maxdate": "2015-11-01",
@@ -1465,17 +1106,6 @@
             "id": "COOP:393560",
             "elevationUnit": "METERS",
             "longitude": -103.8116
-        },
-        {
-            "elevation": 1973,
-            "mindate": "1931-01-01",
-            "maxdate": "1951-09-01",
-            "latitude": 44.15,
-            "name": "HARDY RANGER STATION, SD US",
-            "datacoverage": 0.96,
-            "id": "COOP:393572",
-            "elevationUnit": "METERS",
-            "longitude": -103.95
         },
         {
             "elevation": 908.3,
@@ -1621,15 +1251,6 @@
             "longitude": -103.55735
         },
         {
-            "mindate": "1950-09-01",
-            "maxdate": "1952-04-01",
-            "latitude": 44.8,
-            "name": "HOLABIRD 22 N, SD US",
-            "datacoverage": 0.5507,
-            "id": "COOP:393937",
-            "longitude": -99.61667
-        },
-        {
             "elevation": 845.2,
             "mindate": "2004-06-01",
             "maxdate": "2015-11-01",
@@ -1674,28 +1295,6 @@
             "longitude": -103.4738
         },
         {
-            "elevation": 1214,
-            "mindate": "1948-11-01",
-            "maxdate": "1958-06-01",
-            "latitude": 43.43333,
-            "name": "HOT SPRINGS 7 W, SD US",
-            "datacoverage": 0.966,
-            "id": "COOP:394009",
-            "elevationUnit": "METERS",
-            "longitude": -103.6
-        },
-        {
-            "elevation": 1000,
-            "mindate": "1948-11-01",
-            "maxdate": "1957-08-01",
-            "latitude": 43.3,
-            "name": "HOT SPRINGS 9 SW, SD US",
-            "datacoverage": 0.9812,
-            "id": "COOP:394010",
-            "elevationUnit": "METERS",
-            "longitude": -103.55
-        },
-        {
             "elevation": 583.4,
             "mindate": "2005-06-01",
             "maxdate": "2006-05-01",
@@ -1718,15 +1317,6 @@
             "longitude": -97.53153
         },
         {
-            "mindate": "1962-03-31",
-            "maxdate": "1962-03-31",
-            "latitude": 44.76667,
-            "name": "HOWELL, SD US",
-            "datacoverage": 0.3,
-            "id": "COOP:394047",
-            "longitude": -98.93333
-        },
-        {
             "elevation": 390.1,
             "mindate": "1948-08-02",
             "maxdate": "2015-11-01",
@@ -1738,23 +1328,12 @@
             "longitude": -98.2231
         },
         {
-            "elevation": 372.8,
-            "mindate": "1950-06-01",
-            "maxdate": "1952-08-01",
-            "latitude": 44.3636,
-            "name": "HURON, SD US",
-            "datacoverage": 0.7027,
-            "id": "COOP:394132",
-            "elevationUnit": "METERS",
-            "longitude": -98.1989
-        },
-        {
             "elevation": 723.9,
-            "mindate": "1948-08-01",
+            "mindate": "1948-08-08",
             "maxdate": "1979-08-27",
             "latitude": 43.73333,
             "name": "INTERIOR, SD US",
-            "datacoverage": 0.9461,
+            "datacoverage": 0.034,
             "id": "COOP:394179",
             "elevationUnit": "METERS",
             "longitude": -101.98333
@@ -1826,17 +1405,6 @@
             "longitude": -101.34857
         },
         {
-            "elevation": 673.9,
-            "mindate": "1950-11-01",
-            "maxdate": "1957-12-01",
-            "latitude": 45.61667,
-            "name": "ISABEL 15 N, SD US",
-            "datacoverage": 0.6399,
-            "id": "COOP:394273",
-            "elevationUnit": "METERS",
-            "longitude": -101.4
-        },
-        {
             "elevation": 1275.3,
             "mindate": "1994-10-01",
             "maxdate": "2012-12-01",
@@ -1868,17 +1436,6 @@
             "id": "COOP:394490",
             "elevationUnit": "METERS",
             "longitude": -101.8665
-        },
-        {
-            "elevation": 663.5,
-            "mindate": "1951-08-01",
-            "maxdate": "1958-06-01",
-            "latitude": 45.69972,
-            "name": "KELDRON 22 SSW, SD US",
-            "datacoverage": 0.8194,
-            "id": "COOP:394493",
-            "elevationUnit": "METERS",
-            "longitude": -101.88056
         },
         {
             "elevation": 512.4,
@@ -1930,7 +1487,7 @@
             "maxdate": "2014-01-01",
             "latitude": 43.10013,
             "name": "LACREEK NATIONAL WILDLIFE REFUGE, SD US",
-            "datacoverage": 0.6846,
+            "datacoverage": 0.0226,
             "id": "COOP:394651",
             "elevationUnit": "METERS",
             "longitude": -101.56581
@@ -2035,23 +1592,12 @@
             "longitude": -98.9384
         },
         {
-            "elevation": 496.5,
-            "mindate": "1951-07-01",
-            "maxdate": "1958-06-01",
-            "latitude": 45.65,
-            "name": "LITTLE EAGLE 1 S, SD US",
-            "datacoverage": 0.8571,
-            "id": "COOP:394947",
-            "elevationUnit": "METERS",
-            "longitude": -100.81667
-        },
-        {
             "elevation": 787,
-            "mindate": "1950-11-01",
+            "mindate": "1950-12-01",
             "maxdate": "1974-10-01",
             "latitude": 45.68333,
             "name": "LODGEPOLE 9 S, SD US",
-            "datacoverage": 0.7302,
+            "datacoverage": 0.017,
             "id": "COOP:394955",
             "elevationUnit": "METERS",
             "longitude": -102.65
@@ -2110,17 +1656,6 @@
             "id": "COOP:395058",
             "elevationUnit": "METERS",
             "longitude": -96.9125
-        },
-        {
-            "elevation": 524.9,
-            "mindate": "1940-07-01",
-            "maxdate": "1962-04-01",
-            "latitude": 44,
-            "name": "MADISON, SD US",
-            "datacoverage": 0.9848,
-            "id": "COOP:395088",
-            "elevationUnit": "METERS",
-            "longitude": -97.13333
         },
         {
             "elevation": 501.1,
@@ -2249,7 +1784,7 @@
             "maxdate": "1977-09-01",
             "latitude": 45.53333,
             "name": "MEADOW, SD US",
-            "datacoverage": 0.5281,
+            "datacoverage": 0.0274,
             "id": "COOP:395421",
             "elevationUnit": "METERS",
             "longitude": -102.21667
@@ -2365,17 +1900,6 @@
             "longitude": -99.0044
         },
         {
-            "elevation": 445,
-            "mindate": "1951-11-01",
-            "maxdate": "1953-02-01",
-            "latitude": 44.75,
-            "name": "MILLER 16 N, SD US",
-            "datacoverage": 1,
-            "id": "COOP:395569",
-            "elevationUnit": "METERS",
-            "longitude": -98.98333
-        },
-        {
             "elevation": 788.5,
             "mindate": "1966-05-01",
             "maxdate": "2015-11-01",
@@ -2464,17 +1988,6 @@
             "longitude": -100.4488
         },
         {
-            "elevation": 698,
-            "mindate": "1940-08-01",
-            "maxdate": "1957-12-01",
-            "latitude": 44.5,
-            "name": "MOENVILLE 6 E, SD US",
-            "datacoverage": 0.8516,
-            "id": "COOP:395711",
-            "elevationUnit": "METERS",
-            "longitude": -101.15
-        },
-        {
             "elevation": 468.2,
             "mindate": "1963-08-01",
             "maxdate": "2015-11-01",
@@ -2495,17 +2008,6 @@
             "id": "COOP:395738",
             "elevationUnit": "METERS",
             "longitude": -97.2016
-        },
-        {
-            "elevation": 1937,
-            "mindate": "1949-12-01",
-            "maxdate": "1957-09-21",
-            "latitude": 43.95,
-            "name": "MOON, SD US",
-            "datacoverage": 0.8331,
-            "id": "COOP:395744",
-            "elevationUnit": "METERS",
-            "longitude": -104
         },
         {
             "elevation": 1951,
@@ -2542,11 +2044,11 @@
         },
         {
             "elevation": 869,
-            "mindate": "1948-09-01",
+            "mindate": "1948-10-01",
             "maxdate": "1975-12-01",
             "latitude": 44.95,
             "name": "MUD BUTTE 4 SSW, SD US",
-            "datacoverage": 0.5462,
+            "datacoverage": 0.0302,
             "id": "COOP:395876",
             "elevationUnit": "METERS",
             "longitude": -102.9
@@ -2561,26 +2063,6 @@
             "id": "COOP:395891",
             "elevationUnit": "METERS",
             "longitude": -100.7075
-        },
-        {
-            "mindate": "1948-08-01",
-            "maxdate": "1950-09-29",
-            "latitude": 43.9,
-            "name": "MURDO 2, SD US",
-            "datacoverage": 0.9512,
-            "id": "COOP:395896",
-            "longitude": -100.71667
-        },
-        {
-            "elevation": 1470.1,
-            "mindate": "1951-08-01",
-            "maxdate": "1958-06-01",
-            "latitude": 44.08333,
-            "name": "MYSTIC, SD US",
-            "datacoverage": 0.964,
-            "id": "COOP:395929",
-            "elevationUnit": "METERS",
-            "longitude": -103.65
         },
         {
             "elevation": 871.7,
@@ -2614,17 +2096,6 @@
             "id": "COOP:396212",
             "elevationUnit": "METERS",
             "longitude": -103.2371
-        },
-        {
-            "elevation": 1068,
-            "mindate": "1948-11-01",
-            "maxdate": "1958-06-01",
-            "latitude": 43.18333,
-            "name": "OELRICHS 8 W, SD US",
-            "datacoverage": 0.966,
-            "id": "COOP:396214",
-            "elevationUnit": "METERS",
-            "longitude": -103.36667
         },
         {
             "elevation": 912.9,
@@ -2682,17 +2153,6 @@
             "longitude": -99.0865
         },
         {
-            "elevation": 445,
-            "mindate": "1951-06-01",
-            "maxdate": "1951-09-01",
-            "latitude": 44.78333,
-            "name": "ORIENT 12 SSE, SD US",
-            "datacoverage": 0.998,
-            "id": "COOP:396337",
-            "elevationUnit": "METERS",
-            "longitude": -98.98333
-        },
-        {
             "elevation": 894,
             "mindate": "1931-01-01",
             "maxdate": "1974-07-01",
@@ -2702,17 +2162,6 @@
             "id": "COOP:396357",
             "elevationUnit": "METERS",
             "longitude": -103.66667
-        },
-        {
-            "elevation": 641,
-            "mindate": "1931-01-01",
-            "maxdate": "1945-01-01",
-            "latitude": 44.21667,
-            "name": "OTTUMWA, SD US",
-            "datacoverage": 0.9998,
-            "id": "COOP:396397",
-            "elevationUnit": "METERS",
-            "longitude": -101.36667
         },
         {
             "elevation": 1438.7,
@@ -2738,11 +2187,11 @@
         },
         {
             "elevation": 808,
-            "mindate": "1940-04-01",
+            "mindate": "1948-08-03",
             "maxdate": "1973-01-27",
             "latitude": 43.33333,
             "name": "PARMELEE, SD US",
-            "datacoverage": 0.8474,
+            "datacoverage": 0.032,
             "id": "COOP:396477",
             "elevationUnit": "METERS",
             "longitude": -101.03333
@@ -2847,17 +2296,6 @@
             "longitude": -102.3894
         },
         {
-            "elevation": 875.1,
-            "mindate": "1957-11-01",
-            "maxdate": "1958-06-15",
-            "latitude": 45.53333,
-            "name": "PRAIRIE CITY, SD US",
-            "datacoverage": 0.0285,
-            "id": "COOP:396772",
-            "elevationUnit": "METERS",
-            "longitude": -102.81667
-        },
-        {
             "elevation": 551.7,
             "mindate": "1975-10-01",
             "maxdate": "2007-03-01",
@@ -2867,28 +2305,6 @@
             "id": "COOP:396790",
             "elevationUnit": "METERS",
             "longitude": -100.1616
-        },
-        {
-            "elevation": 1132,
-            "mindate": "1948-11-01",
-            "maxdate": "1958-06-01",
-            "latitude": 43.2,
-            "name": "PROVO, SD US",
-            "datacoverage": 0.966,
-            "id": "COOP:396812",
-            "elevationUnit": "METERS",
-            "longitude": -103.83333
-        },
-        {
-            "elevation": 484.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1964-09-01",
-            "latitude": 43.78333,
-            "name": "PUKWANA 3 W, SD US",
-            "datacoverage": 0.9581,
-            "id": "COOP:396832",
-            "elevationUnit": "METERS",
-            "longitude": -99.23333
         },
         {
             "elevation": 850.4,
@@ -2957,17 +2373,6 @@
             "longitude": -97.9247
         },
         {
-            "elevation": 1681,
-            "mindate": "1951-08-01",
-            "maxdate": "1955-05-01",
-            "latitude": 44,
-            "name": "REDFERN, SD US",
-            "datacoverage": 0.9566,
-            "id": "COOP:397033",
-            "elevationUnit": "METERS",
-            "longitude": -103.65
-        },
-        {
             "elevation": 396.8,
             "mindate": "1931-01-01",
             "maxdate": "1977-12-01",
@@ -3023,17 +2428,6 @@
             "longitude": -99.19891
         },
         {
-            "elevation": 509,
-            "mindate": "1951-06-01",
-            "maxdate": "1957-09-01",
-            "latitude": 44.58333,
-            "name": "REE HEIGHTS 5 NNW, SD US",
-            "datacoverage": 0.9471,
-            "id": "COOP:397106",
-            "elevationUnit": "METERS",
-            "longitude": -99.25
-        },
-        {
             "elevation": 586.4,
             "mindate": "2002-10-01",
             "maxdate": "2009-10-01",
@@ -3045,15 +2439,6 @@
             "longitude": -99.205
         },
         {
-            "mindate": "1931-01-01",
-            "maxdate": "1941-05-01",
-            "latitude": 45.55,
-            "name": "REVA, SD US",
-            "datacoverage": 1,
-            "id": "COOP:397150",
-            "longitude": -103.08333
-        },
-        {
             "elevation": 723,
             "mindate": "1959-05-01",
             "maxdate": "1973-11-01",
@@ -3063,17 +2448,6 @@
             "id": "COOP:397191",
             "elevationUnit": "METERS",
             "longitude": -100.8
-        },
-        {
-            "elevation": 1613,
-            "mindate": "1931-01-01",
-            "maxdate": "1951-01-01",
-            "latitude": 44.13333,
-            "name": "ROCHFORD, SD US",
-            "datacoverage": 0.9999,
-            "id": "COOP:397222",
-            "elevationUnit": "METERS",
-            "longitude": -103.71667
         },
         {
             "elevation": 1661.2,
@@ -3098,28 +2472,6 @@
             "longitude": -98.85
         },
         {
-            "elevation": 420.9,
-            "mindate": "1953-03-01",
-            "maxdate": "1957-09-01",
-            "latitude": 44.81667,
-            "name": "ROCKHAM 8 SW, SD US",
-            "datacoverage": 0.7632,
-            "id": "COOP:397253",
-            "elevationUnit": "METERS",
-            "longitude": -98.91667
-        },
-        {
-            "elevation": 833,
-            "mindate": "1949-07-01",
-            "maxdate": "1956-07-01",
-            "latitude": 43.45,
-            "name": "ROCKYFORD 5 SW, SD US",
-            "datacoverage": 0.2609,
-            "id": "COOP:397267",
-            "elevationUnit": "METERS",
-            "longitude": -102.56667
-        },
-        {
             "elevation": 559.3,
             "mindate": "1934-12-01",
             "maxdate": "2015-11-01",
@@ -3131,28 +2483,6 @@
             "longitude": -99.33588
         },
         {
-            "elevation": 816.9,
-            "mindate": "1965-05-01",
-            "maxdate": "1966-05-01",
-            "latitude": 43.23333,
-            "name": "ROSEBUD, SD US",
-            "datacoverage": 0.9223,
-            "id": "COOP:397287",
-            "elevationUnit": "METERS",
-            "longitude": -100.85
-        },
-        {
-            "elevation": 561.1,
-            "mindate": "1948-08-01",
-            "maxdate": "1952-06-01",
-            "latitude": 45.5,
-            "name": "ROSLYN, SD US",
-            "datacoverage": 0.9338,
-            "id": "COOP:397307",
-            "elevationUnit": "METERS",
-            "longitude": -97.5
-        },
-        {
             "elevation": 551.7,
             "mindate": "1999-12-01",
             "maxdate": "2015-11-01",
@@ -3162,17 +2492,6 @@
             "id": "COOP:397326",
             "elevationUnit": "METERS",
             "longitude": -97.43398
-        },
-        {
-            "elevation": 1076.9,
-            "mindate": "1948-11-01",
-            "maxdate": "1958-06-01",
-            "latitude": 43.13333,
-            "name": "RUMFORD, SD US",
-            "datacoverage": 0.9315,
-            "id": "COOP:397367",
-            "elevationUnit": "METERS",
-            "longitude": -103.7
         },
         {
             "elevation": 1069.8,
@@ -3307,39 +2626,6 @@
             "longitude": -97.03933
         },
         {
-            "elevation": 976,
-            "mindate": "1948-11-01",
-            "maxdate": "1957-08-01",
-            "latitude": 43.26667,
-            "name": "SMITHWICK 6 SW, SD US",
-            "datacoverage": 0.9246,
-            "id": "COOP:397797",
-            "elevationUnit": "METERS",
-            "longitude": -103.31667
-        },
-        {
-            "elevation": 854,
-            "mindate": "1954-02-28",
-            "maxdate": "1957-12-01",
-            "latitude": 45.41667,
-            "name": "SORUM 3 SE, SD US",
-            "datacoverage": 0.0217,
-            "id": "COOP:397830",
-            "elevationUnit": "METERS",
-            "longitude": -102.9
-        },
-        {
-            "elevation": 1046.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1964-07-01",
-            "latitude": 44.55,
-            "name": "SPEARFISH 9 WNW, SD US",
-            "datacoverage": 0.9851,
-            "id": "COOP:397877",
-            "elevationUnit": "METERS",
-            "longitude": -104.01667
-        },
-        {
             "elevation": 1107.3,
             "mindate": "1931-01-01",
             "maxdate": "2015-11-01",
@@ -3349,17 +2635,6 @@
             "id": "COOP:397882",
             "elevationUnit": "METERS",
             "longitude": -103.87177
-        },
-        {
-            "elevation": 1677.9,
-            "mindate": "1952-07-01",
-            "maxdate": "1952-09-01",
-            "latitude": 44.33333,
-            "name": "SPEARFISH RANGER STATION, SD US",
-            "datacoverage": 0.9925,
-            "id": "COOP:397890",
-            "elevationUnit": "METERS",
-            "longitude": -103.98333
         },
         {
             "elevation": 550.2,
@@ -3374,25 +2649,14 @@
         },
         {
             "elevation": 497.4,
-            "mindate": "1948-08-01",
+            "mindate": "1948-08-02",
             "maxdate": "2014-01-01",
             "latitude": 43.59489,
             "name": "STICKNEY, SD US",
-            "datacoverage": 1,
+            "datacoverage": 0.0252,
             "id": "COOP:398007",
             "elevationUnit": "METERS",
             "longitude": -98.43567
-        },
-        {
-            "elevation": 396.8,
-            "mindate": "1951-06-01",
-            "maxdate": "1958-06-01",
-            "latitude": 45.31667,
-            "name": "STRATFORD, SD US",
-            "datacoverage": 0.953,
-            "id": "COOP:398073",
-            "elevationUnit": "METERS",
-            "longitude": -98.3
         },
         {
             "elevation": 396.2,
@@ -3407,17 +2671,6 @@
         },
         {
             "elevation": 869,
-            "mindate": "1949-08-01",
-            "maxdate": "1954-03-01",
-            "latitude": 45.53333,
-            "name": "STROOL 2 N, SD US",
-            "datacoverage": 0.7247,
-            "id": "COOP:398095",
-            "elevationUnit": "METERS",
-            "longitude": -102.81667
-        },
-        {
-            "elevation": 869,
             "mindate": "1975-01-01",
             "maxdate": "1975-04-01",
             "latitude": 44.38333,
@@ -3426,17 +2679,6 @@
             "id": "COOP:398100",
             "elevationUnit": "METERS",
             "longitude": -103.08333
-        },
-        {
-            "elevation": 865.9,
-            "mindate": "1949-08-01",
-            "maxdate": "1957-09-01",
-            "latitude": 44.88333,
-            "name": "SULPHUR 2 W, SD US",
-            "datacoverage": 0.8367,
-            "id": "COOP:398107",
-            "elevationUnit": "METERS",
-            "longitude": -102.95
         },
         {
             "elevation": 595.9,
@@ -3459,17 +2701,6 @@
             "id": "COOP:398240",
             "elevationUnit": "METERS",
             "longitude": -102.23778
-        },
-        {
-            "elevation": 783.9,
-            "mindate": "1949-08-01",
-            "maxdate": "1957-09-01",
-            "latitude": 45.93333,
-            "name": "THUNDER HAWK, SD US",
-            "datacoverage": 0.8571,
-            "id": "COOP:398277",
-            "elevationUnit": "METERS",
-            "longitude": -101.96667
         },
         {
             "elevation": 662.3,
@@ -3538,17 +2769,6 @@
             "longitude": -102.66667
         },
         {
-            "elevation": 716.9,
-            "mindate": "1951-07-01",
-            "maxdate": "1956-12-01",
-            "latitude": 45.21667,
-            "name": "USTA, SD US",
-            "datacoverage": 0.8173,
-            "id": "COOP:398527",
-            "elevationUnit": "METERS",
-            "longitude": -102.16667
-        },
-        {
             "elevation": 725.4,
             "mindate": "1957-07-01",
             "maxdate": "2009-12-01",
@@ -3569,17 +2789,6 @@
             "id": "COOP:398552",
             "elevationUnit": "METERS",
             "longitude": -103.4
-        },
-        {
-            "elevation": 519.1,
-            "mindate": "1941-01-01",
-            "maxdate": "1953-12-01",
-            "latitude": 44.15,
-            "name": "VAN METRE, SD US",
-            "datacoverage": 0.9616,
-            "id": "COOP:398572",
-            "elevationUnit": "METERS",
-            "longitude": -100.8
         },
         {
             "elevation": 346.6,
@@ -3692,28 +2901,6 @@
             "longitude": -97.5227
         },
         {
-            "elevation": 561.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1951-04-01",
-            "latitude": 45.48333,
-            "name": "WEBSTER 10 N, SD US",
-            "datacoverage": 0.9961,
-            "id": "COOP:399012",
-            "elevationUnit": "METERS",
-            "longitude": -97.55
-        },
-        {
-            "elevation": 484.6,
-            "mindate": "1954-05-01",
-            "maxdate": "1964-02-01",
-            "latitude": 44.2444,
-            "name": "FORT PIERRE 17 WSW, SD US",
-            "datacoverage": 0.9829,
-            "id": "COOP:399032",
-            "elevationUnit": "METERS",
-            "longitude": -100.6591
-        },
-        {
             "elevation": 524.9,
             "mindate": "1931-01-01",
             "maxdate": "2006-09-01",
@@ -3756,17 +2943,6 @@
             "id": "COOP:399077",
             "elevationUnit": "METERS",
             "longitude": -98.70889
-        },
-        {
-            "elevation": 417.9,
-            "mindate": "1951-06-01",
-            "maxdate": "1957-09-01",
-            "latitude": 45.63333,
-            "name": "WESTPORT 1 ESE, SD US",
-            "datacoverage": 0.8944,
-            "id": "COOP:399132",
-            "elevationUnit": "METERS",
-            "longitude": -98.48333
         },
         {
             "elevation": 404.8,
@@ -3824,17 +3000,6 @@
             "longitude": -99.78333
         },
         {
-            "elevation": 524.9,
-            "mindate": "1950-09-10",
-            "maxdate": "1959-09-01",
-            "latitude": 45.26667,
-            "name": "WHITEHORSE, SD US",
-            "datacoverage": 0.6918,
-            "id": "COOP:399220",
-            "elevationUnit": "METERS",
-            "longitude": -100.88333
-        },
-        {
             "elevation": 496.5,
             "mindate": "1931-01-01",
             "maxdate": "2015-11-01",
@@ -3855,15 +3020,6 @@
             "id": "COOP:399238",
             "elevationUnit": "METERS",
             "longitude": -100.75083
-        },
-        {
-            "mindate": "1950-09-01",
-            "maxdate": "1952-03-01",
-            "latitude": 45.85,
-            "name": "WILLETT, SD US",
-            "datacoverage": 0.8426,
-            "id": "COOP:399313",
-            "longitude": -103.96667
         },
         {
             "elevation": 451.1,
@@ -3943,17 +3099,6 @@
             "longitude": -100.4814
         },
         {
-            "elevation": 399.9,
-            "mindate": "1939-04-01",
-            "maxdate": "1958-06-01",
-            "latitude": 44.05,
-            "name": "WOONSOCKET, SD US",
-            "datacoverage": 0.8442,
-            "id": "COOP:399457",
-            "elevationUnit": "METERS",
-            "longitude": -98.26667
-        },
-        {
             "elevation": 357.2,
             "mindate": "1931-01-01",
             "maxdate": "2015-11-01",
@@ -3963,17 +3108,6 @@
             "id": "COOP:399502",
             "elevationUnit": "METERS",
             "longitude": -97.36361
-        },
-        {
-            "elevation": 353.9,
-            "mindate": "1948-06-01",
-            "maxdate": "1950-11-01",
-            "latitude": 42.86667,
-            "name": "YANKTON, SD US",
-            "datacoverage": 1,
-            "id": "COOP:399507",
-            "elevationUnit": "METERS",
-            "longitude": -97.4
         },
         {
             "elevation": 832.1,
@@ -10510,17 +9644,6 @@
             "longitude": -96.5514
         },
         {
-            "elevation": 823,
-            "mindate": "1906-01-01",
-            "maxdate": "1909-03-31",
-            "latitude": 45.366667,
-            "name": "ERICSON, SD US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00242805",
-            "elevationUnit": "METERS",
-            "longitude": -104.033333
-        },
-        {
             "elevation": 382.5,
             "mindate": "1961-01-01",
             "maxdate": "2010-12-31",
@@ -10530,17 +9653,6 @@
             "id": "GHCND:USC00253165",
             "elevationUnit": "METERS",
             "longitude": -97.47333
-        },
-        {
-            "elevation": 376.1,
-            "mindate": "1939-01-01",
-            "maxdate": "2010-12-31",
-            "latitude": 42.7472,
-            "name": "NIOBRARA, NE US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00255960",
-            "elevationUnit": "METERS",
-            "longitude": -98.0466
         },
         {
             "elevation": 396.5,
@@ -10563,72 +9675,6 @@
             "id": "GHCND:USC00390043",
             "elevationUnit": "METERS",
             "longitude": -99.063
-        },
-        {
-            "elevation": 363,
-            "mindate": "1956-01-01",
-            "maxdate": "1959-06-30",
-            "latitude": 42.95,
-            "name": "ALCESTER 9 SE, SD US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00390107",
-            "elevationUnit": "METERS",
-            "longitude": -96.51667
-        },
-        {
-            "elevation": 378,
-            "mindate": "1956-01-01",
-            "maxdate": "1957-09-30",
-            "latitude": 42.96667,
-            "name": "ALCESTER 8 SE, SD US",
-            "datacoverage": 0.9986,
-            "id": "GHCND:USC00390108",
-            "elevationUnit": "METERS",
-            "longitude": -96.51667
-        },
-        {
-            "elevation": 374.9,
-            "mindate": "1956-01-01",
-            "maxdate": "1959-06-30",
-            "latitude": 42.96667,
-            "name": "ALCESTER 7 ESE, SD US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00390109",
-            "elevationUnit": "METERS",
-            "longitude": -96.51667
-        },
-        {
-            "elevation": 409,
-            "mindate": "1956-01-01",
-            "maxdate": "1959-06-30",
-            "latitude": 42.98333,
-            "name": "ALCESTER 4 ESE, SD US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00390112",
-            "elevationUnit": "METERS",
-            "longitude": -96.55
-        },
-        {
-            "elevation": 431.3,
-            "mindate": "1948-08-01",
-            "maxdate": "1951-09-30",
-            "latitude": 43.02889,
-            "name": "ALCESTER, SD US",
-            "datacoverage": 0.9216,
-            "id": "GHCND:USC00390113",
-            "elevationUnit": "METERS",
-            "longitude": -96.62889
-        },
-        {
-            "elevation": 427,
-            "mindate": "1956-09-01",
-            "maxdate": "1958-09-30",
-            "latitude": 42.98333,
-            "name": "ALCESTER 4 SE, SD US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00390114",
-            "elevationUnit": "METERS",
-            "longitude": -96.56667
         },
         {
             "elevation": 448.1,
@@ -10735,7 +9781,7 @@
             "maxdate": "2016-03-01",
             "latitude": 44.99583,
             "name": "ASHTON, SD US",
-            "datacoverage": 0.8204,
+            "datacoverage": 0.4454,
             "id": "GHCND:USC00390346",
             "elevationUnit": "METERS",
             "longitude": -98.48111
@@ -10761,15 +9807,6 @@
             "id": "GHCND:USC00390422",
             "elevationUnit": "METERS",
             "longitude": -96.5319
-        },
-        {
-            "mindate": "1900-12-01",
-            "maxdate": "1902-11-30",
-            "latitude": 43.7,
-            "name": "BAD NATION, SD US",
-            "datacoverage": 0.8339,
-            "id": "GHCND:USC00390535",
-            "longitude": -100.3
         },
         {
             "elevation": 398.1,
@@ -10827,17 +9864,6 @@
             "longitude": -103.95
         },
         {
-            "elevation": 705,
-            "mindate": "1924-08-01",
-            "maxdate": "1951-11-30",
-            "latitude": 43.83333,
-            "name": "BELVIDERE, SD US",
-            "datacoverage": 0.9878,
-            "id": "GHCND:USC00390574",
-            "elevationUnit": "METERS",
-            "longitude": -101.26667
-        },
-        {
             "elevation": 445.3,
             "mindate": "1965-04-01",
             "maxdate": "1971-12-31",
@@ -10871,17 +9897,6 @@
             "longitude": -102.465
         },
         {
-            "elevation": 752.9,
-            "mindate": "1949-08-01",
-            "maxdate": "1952-08-31",
-            "latitude": 45.11667,
-            "name": "BIXBY DAM, SD US",
-            "datacoverage": 0.9993,
-            "id": "GHCND:USC00390706",
-            "elevationUnit": "METERS",
-            "longitude": -102.61667
-        },
-        {
             "elevation": 494.1,
             "mindate": "1913-01-01",
             "maxdate": "2011-05-31",
@@ -10902,26 +9917,6 @@
             "id": "GHCND:USC00390778",
             "elevationUnit": "METERS",
             "longitude": -98.95083
-        },
-        {
-            "elevation": 409,
-            "mindate": "1945-11-01",
-            "maxdate": "1957-09-30",
-            "latitude": 44.55,
-            "name": "BONILLA 3 SSW, SD US",
-            "datacoverage": 0.9931,
-            "id": "GHCND:USC00390796",
-            "elevationUnit": "METERS",
-            "longitude": -98.53333
-        },
-        {
-            "mindate": "1950-01-01",
-            "maxdate": "1951-09-30",
-            "latitude": 43.31667,
-            "name": "BOVEE, SD US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00390822",
-            "longitude": -98.75
         },
         {
             "elevation": 610.5,
@@ -10988,6 +9983,1029 @@
             "id": "GHCND:USC00391076",
             "elevationUnit": "METERS",
             "longitude": -96.76864
+        },
+        {
+            "elevation": 557.8,
+            "mindate": "1911-10-01",
+            "maxdate": "2016-10-31",
+            "latitude": 44.5547,
+            "name": "BRYANT 1 NE, SD US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00391102",
+            "elevationUnit": "METERS",
+            "longitude": -97.4686
+        },
+        {
+            "elevation": 971.7,
+            "mindate": "1951-01-01",
+            "maxdate": "2010-12-31",
+            "latitude": 43.4918,
+            "name": "BUFFALO GAP, SD US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00391124",
+            "elevationUnit": "METERS",
+            "longitude": -103.313
+        },
+        {
+            "elevation": 1862.3,
+            "mindate": "1909-08-01",
+            "maxdate": "1997-11-30",
+            "latitude": 44.21667,
+            "name": "BUSKALA RANCH, SD US",
+            "datacoverage": 0.9066,
+            "id": "GHCND:USC00391246",
+            "elevationUnit": "METERS",
+            "longitude": -103.81667
+        },
+        {
+            "elevation": 951,
+            "mindate": "1893-01-01",
+            "maxdate": "2020-05-16",
+            "latitude": 45.5488,
+            "name": "CAMP CROOK, SD US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00391294",
+            "elevationUnit": "METERS",
+            "longitude": -103.9744
+        },
+        {
+            "elevation": 474,
+            "mindate": "1922-01-01",
+            "maxdate": "1986-08-31",
+            "latitude": 43.63333,
+            "name": "CANISTOTA 2 N, SD US",
+            "datacoverage": 0.875,
+            "id": "GHCND:USC00391354",
+            "elevationUnit": "METERS",
+            "longitude": -97.3
+        },
+        {
+            "elevation": 472.4,
+            "mindate": "1999-10-01",
+            "maxdate": "2005-11-30",
+            "latitude": 44.3975,
+            "name": "CANNING 1 W, SD US",
+            "datacoverage": 0.9187,
+            "id": "GHCND:USC00391373",
+            "elevationUnit": "METERS",
+            "longitude": -100.0333
+        },
+        {
+            "elevation": 401.1,
+            "mindate": "1896-04-01",
+            "maxdate": "2020-05-17",
+            "latitude": 43.3112,
+            "name": "CANTON, SD US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00391392",
+            "elevationUnit": "METERS",
+            "longitude": -96.5877
+        },
+        {
+            "elevation": 435.9,
+            "mindate": "1951-01-01",
+            "maxdate": "2011-09-16",
+            "latitude": 44.1694,
+            "name": "CARTHAGE, SD US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00391474",
+            "elevationUnit": "METERS",
+            "longitude": -97.7202
+        },
+        {
+            "elevation": 513.6,
+            "mindate": "1893-01-01",
+            "maxdate": "2011-11-01",
+            "latitude": 44.727,
+            "name": "CASTLEWOOD, SD US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00391519",
+            "elevationUnit": "METERS",
+            "longitude": -97.026
+        },
+        {
+            "elevation": 514.8,
+            "mindate": "2011-11-01",
+            "maxdate": "2020-05-17",
+            "latitude": 44.72683,
+            "name": "CASTLEWOOD NUMBER 2, SD US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00391520",
+            "elevationUnit": "METERS",
+            "longitude": -97.02859
+        },
+        {
+            "elevation": 717.8,
+            "mindate": "1918-06-01",
+            "maxdate": "2017-06-30",
+            "latitude": 43.5771,
+            "name": "CEDAR BUTTE, SD US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00391539",
+            "elevationUnit": "METERS",
+            "longitude": -101.019
+        },
+        {
+            "elevation": 954.9,
+            "mindate": "1962-01-01",
+            "maxdate": "1970-05-31",
+            "latitude": 44.95,
+            "name": "BELLE FOURCHE 20 NNE, SD US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00391560",
+            "elevationUnit": "METERS",
+            "longitude": -103.76667
+        },
+        {
+            "elevation": 389.5,
+            "mindate": "1897-01-01",
+            "maxdate": "2020-05-15",
+            "latitude": 43.043,
+            "name": "CENTERVILLE 6 SE, SD US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00391579",
+            "elevationUnit": "METERS",
+            "longitude": -96.9033
+        },
+        {
+            "elevation": 427,
+            "mindate": "1896-08-01",
+            "maxdate": "1978-12-31",
+            "latitude": 43.8,
+            "name": "CHAMBERLAIN, SD US",
+            "datacoverage": 0.7058,
+            "id": "GHCND:USC00391609",
+            "elevationUnit": "METERS",
+            "longitude": -99.33333
+        },
+        {
+            "elevation": 519.4,
+            "mindate": "1980-10-01",
+            "maxdate": "2020-05-16",
+            "latitude": 43.73519,
+            "name": "CHAMBERLAIN 5 S, SD US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00391621",
+            "elevationUnit": "METERS",
+            "longitude": -99.31239
+        },
+        {
+            "elevation": 490.7,
+            "mindate": "1978-01-01",
+            "maxdate": "2010-12-31",
+            "latitude": 43.89611,
+            "name": "CHESTER, SD US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00391634",
+            "elevationUnit": "METERS",
+            "longitude": -96.92889
+        },
+        {
+            "elevation": 513.3,
+            "mindate": "2002-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 43.92808,
+            "name": "CHESTER 2 N, SD US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00391636",
+            "elevationUnit": "METERS",
+            "longitude": -96.93197
+        },
+        {
+            "elevation": 549.9,
+            "mindate": "1893-01-01",
+            "maxdate": "2012-04-30",
+            "latitude": 44.8818,
+            "name": "CLARK, SD US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00391739",
+            "elevationUnit": "METERS",
+            "longitude": -97.7325
+        },
+        {
+            "elevation": 552.9,
+            "mindate": "2012-05-01",
+            "maxdate": "2020-05-17",
+            "latitude": 44.88194,
+            "name": "CLARK NUMBER 2, SD US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00391740",
+            "elevationUnit": "METERS",
+            "longitude": -97.73417
+        },
+        {
+            "elevation": 552.3,
+            "mindate": "1903-06-01",
+            "maxdate": "2020-01-10",
+            "latitude": 44.7574,
+            "name": "CLEAR LAKE, SD US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00391777",
+            "elevationUnit": "METERS",
+            "longitude": -96.68314
+        },
+        {
+            "elevation": 491.6,
+            "mindate": "1978-01-01",
+            "maxdate": "2019-11-02",
+            "latitude": 43.78461,
+            "name": "COLTON, SD US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00391851",
+            "elevationUnit": "METERS",
+            "longitude": -96.92747
+        },
+        {
+            "elevation": 397.8,
+            "mindate": "1949-01-01",
+            "maxdate": "2020-04-30",
+            "latitude": 45.72302,
+            "name": "COLUMBIA 8 N, SD US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00391873",
+            "elevationUnit": "METERS",
+            "longitude": -98.30299
+        },
+        {
+            "elevation": 388,
+            "mindate": "2002-01-01",
+            "maxdate": "2010-12-31",
+            "latitude": 45.6055,
+            "name": "COLUMBIA 1 S, SD US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00391884",
+            "elevationUnit": "METERS",
+            "longitude": -98.3116
+        },
+        {
+            "elevation": 405.4,
+            "mindate": "1951-06-01",
+            "maxdate": "2010-12-31",
+            "latitude": 45.1538,
+            "name": "CONDE, SD US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00391917",
+            "elevationUnit": "METERS",
+            "longitude": -98.1008
+        },
+        {
+            "elevation": 723.3,
+            "mindate": "1909-01-01",
+            "maxdate": "2020-05-16",
+            "latitude": 43.9611,
+            "name": "COTTONWOOD 2 E, SD US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00391972",
+            "elevationUnit": "METERS",
+            "longitude": -101.8605
+        },
+        {
+            "elevation": 1670.3,
+            "mindate": "1911-06-01",
+            "maxdate": "2020-05-11",
+            "latitude": 43.7744,
+            "name": "CUSTER, SD US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00392087",
+            "elevationUnit": "METERS",
+            "longitude": -103.6119
+        },
+        {
+            "elevation": 1645.9,
+            "mindate": "2000-01-01",
+            "maxdate": "2003-02-28",
+            "latitude": 44.20583,
+            "name": "CUSTER CROSSING CAMP GROUND, SD US",
+            "datacoverage": 0.9986,
+            "id": "GHCND:USC00392088",
+            "elevationUnit": "METERS",
+            "longitude": -103.64917
+        },
+        {
+            "elevation": 1423.4,
+            "mindate": "1909-03-01",
+            "maxdate": "2010-12-31",
+            "latitude": 44.37361,
+            "name": "DEADWOOD, SD US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00392207",
+            "elevationUnit": "METERS",
+            "longitude": -103.73139
+        },
+        {
+            "elevation": 1405.7,
+            "mindate": "2000-01-01",
+            "maxdate": "2016-01-01",
+            "latitude": 44.39,
+            "name": "DEADWOOD 2 NE, SD US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00392209",
+            "elevationUnit": "METERS",
+            "longitude": -103.7005
+        },
+        {
+            "elevation": 1895.9,
+            "mindate": "1948-01-01",
+            "maxdate": "1980-05-31",
+            "latitude": 44.06667,
+            "name": "DEERFIELD 4 NW, SD US",
+            "datacoverage": 0.9608,
+            "id": "GHCND:USC00392228",
+            "elevationUnit": "METERS",
+            "longitude": -103.9
+        },
+        {
+            "elevation": 1847.1,
+            "mindate": "1981-07-01",
+            "maxdate": "2010-12-31",
+            "latitude": 43.99444,
+            "name": "DEERFIELD 3 SE, SD US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00392231",
+            "elevationUnit": "METERS",
+            "longitude": -103.78583
+        },
+        {
+            "elevation": 519.7,
+            "mindate": "1893-01-01",
+            "maxdate": "2020-05-12",
+            "latitude": 44.3826,
+            "name": "DE SMET, SD US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00392302",
+            "elevationUnit": "METERS",
+            "longitude": -97.5497
+        },
+        {
+            "elevation": 411.8,
+            "mindate": "2002-04-01",
+            "maxdate": "2020-05-17",
+            "latitude": 44.89642,
+            "name": "DOLAND, SD US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00392371",
+            "elevationUnit": "METERS",
+            "longitude": -98.10066
+        },
+        {
+            "elevation": 727.9,
+            "mindate": "1922-01-01",
+            "maxdate": "2020-05-15",
+            "latitude": 45.04689,
+            "name": "DUPREE, SD US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00392429",
+            "elevationUnit": "METERS",
+            "longitude": -101.60228
+        },
+        {
+            "elevation": 640.1,
+            "mindate": "1963-01-01",
+            "maxdate": "2020-05-07",
+            "latitude": 44.8658,
+            "name": "DUPREE 15 SSE, SD US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00392446",
+            "elevationUnit": "METERS",
+            "longitude": -101.4672
+        },
+        {
+            "elevation": 725.7,
+            "mindate": "1911-11-01",
+            "maxdate": "2017-10-31",
+            "latitude": 45.01178,
+            "name": "EAGLE BUTTE, SD US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00392468",
+            "elevationUnit": "METERS",
+            "longitude": -101.2482
+        },
+        {
+            "elevation": 1046.1,
+            "mindate": "1948-08-01",
+            "maxdate": "2020-05-17",
+            "latitude": 43.31359,
+            "name": "EDGEMONT, SD US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00392557",
+            "elevationUnit": "METERS",
+            "longitude": -103.82151
+        },
+        {
+            "elevation": 1341.7,
+            "mindate": "1989-10-01",
+            "maxdate": "2020-03-31",
+            "latitude": 43.6242,
+            "name": "EDGEMONT 23 NNW, SD US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00392565",
+            "elevationUnit": "METERS",
+            "longitude": -103.9172
+        },
+        {
+            "elevation": 365.8,
+            "mindate": "1986-01-01",
+            "maxdate": "2000-12-31",
+            "latitude": 42.85917,
+            "name": "ELK POINT 13 NE, SD US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00392622",
+            "elevationUnit": "METERS",
+            "longitude": -96.58194
+        },
+        {
+            "elevation": 472.4,
+            "mindate": "1999-10-01",
+            "maxdate": "2020-04-01",
+            "latitude": 45.93199,
+            "name": "ELM LAKE 4 NW, SD US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00392636",
+            "elevationUnit": "METERS",
+            "longitude": -98.76479
+        },
+        {
+            "elevation": 806.2,
+            "mindate": "1923-03-01",
+            "maxdate": "2020-05-10",
+            "latitude": 44.3186,
+            "name": "ELM SPRINGS 3 ESE, SD US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00392647",
+            "elevationUnit": "METERS",
+            "longitude": -102.4683
+        },
+        {
+            "elevation": 570.3,
+            "mindate": "1877-03-01",
+            "maxdate": "2020-05-16",
+            "latitude": 45.76542,
+            "name": "EUREKA, SD US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00392797",
+            "elevationUnit": "METERS",
+            "longitude": -99.6222
+        },
+        {
+            "elevation": 606.6,
+            "mindate": "2004-01-01",
+            "maxdate": "2010-12-31",
+            "latitude": 43.0311,
+            "name": "FAIRFAX NUMBER 2, SD US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00392822",
+            "elevationUnit": "METERS",
+            "longitude": -98.89
+        },
+        {
+            "elevation": 790,
+            "mindate": "1913-04-01",
+            "maxdate": "2012-09-30",
+            "latitude": 45.0203,
+            "name": "FAITH, SD US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00392852",
+            "elevationUnit": "METERS",
+            "longitude": -102.0367
+        },
+        {
+            "elevation": 961,
+            "mindate": "1894-12-01",
+            "maxdate": "1981-09-30",
+            "latitude": 44.03333,
+            "name": "FARMINGDALE 4 N, SD US",
+            "datacoverage": 0.4607,
+            "id": "GHCND:USC00392888",
+            "elevationUnit": "METERS",
+            "longitude": -102.9
+        },
+        {
+            "elevation": 486.8,
+            "mindate": "1893-01-01",
+            "maxdate": "2020-05-16",
+            "latitude": 45.0363,
+            "name": "FAULKTON 1 NW, SD US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00392927",
+            "elevationUnit": "METERS",
+            "longitude": -99.1342
+        },
+        {
+            "elevation": 477.6,
+            "mindate": "1893-01-01",
+            "maxdate": "2020-05-11",
+            "latitude": 44.05162,
+            "name": "FLANDREAU, SD US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00392984",
+            "elevationUnit": "METERS",
+            "longitude": -96.5927
+        },
+        {
+            "elevation": 389.2,
+            "mindate": "1893-01-01",
+            "maxdate": "2020-05-15",
+            "latitude": 44.06844,
+            "name": "FORESTBURG 4 NNE, SD US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00393029",
+            "elevationUnit": "METERS",
+            "longitude": -98.08333
+        },
+        {
+            "elevation": 1008.3,
+            "mindate": "1902-01-01",
+            "maxdate": "2020-05-16",
+            "latitude": 44.41066,
+            "name": "FORT MEADE, SD US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00393069",
+            "elevationUnit": "METERS",
+            "longitude": -103.47683
+        },
+        {
+            "elevation": 484.6,
+            "mindate": "1964-04-01",
+            "maxdate": "2019-04-30",
+            "latitude": 44.2444,
+            "name": "FORT PIERRE 17 WSW, SD US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00393076",
+            "elevationUnit": "METERS",
+            "longitude": -100.6591
+        },
+        {
+            "elevation": 495,
+            "mindate": "2011-12-01",
+            "maxdate": "2019-10-31",
+            "latitude": 44.2181,
+            "name": "FORT PIERRE 20 SW, SD US",
+            "datacoverage": 0.9986,
+            "id": "GHCND:USC00393077",
+            "elevationUnit": "METERS",
+            "longitude": -100.7194
+        },
+        {
+            "elevation": 502.9,
+            "mindate": "1959-01-01",
+            "maxdate": "1983-03-31",
+            "latitude": 44.63333,
+            "name": "FORT SULLY 8 NE, SD US",
+            "datacoverage": 0.9338,
+            "id": "GHCND:USC00393082",
+            "elevationUnit": "METERS",
+            "longitude": -100.43333
+        },
+        {
+            "elevation": 501.7,
+            "mindate": "2009-08-01",
+            "maxdate": "2020-05-17",
+            "latitude": 44.07994,
+            "name": "GANN VALLEY 3 NNE, SD US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00393211",
+            "elevationUnit": "METERS",
+            "longitude": -98.97307
+        },
+        {
+            "elevation": 524.3,
+            "mindate": "1897-09-01",
+            "maxdate": "2010-12-31",
+            "latitude": 44.0569,
+            "name": "GANN VALLEY 4 NW, SD US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00393217",
+            "elevationUnit": "METERS",
+            "longitude": -99.0719
+        },
+        {
+            "elevation": 635.2,
+            "mindate": "1901-03-01",
+            "maxdate": "2019-12-26",
+            "latitude": 45.0194,
+            "name": "GETTYSBURG, SD US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00393294",
+            "elevationUnit": "METERS",
+            "longitude": -99.9402
+        },
+        {
+            "elevation": 566.9,
+            "mindate": "1963-01-01",
+            "maxdate": "1977-12-31",
+            "latitude": 45,
+            "name": "GETTYSBURG 14 W, SD US",
+            "datacoverage": 0.9996,
+            "id": "GHCND:USC00393300",
+            "elevationUnit": "METERS",
+            "longitude": -100.23333
+        },
+        {
+            "elevation": 568.5,
+            "mindate": "1978-01-01",
+            "maxdate": "2013-05-31",
+            "latitude": 45.0136,
+            "name": "GETTYSBURG 13 W, SD US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00393302",
+            "elevationUnit": "METERS",
+            "longitude": -100.2175
+        },
+        {
+            "elevation": 758,
+            "mindate": "1949-01-01",
+            "maxdate": "2020-03-31",
+            "latitude": 45.40077,
+            "name": "GLAD VALLEY 2 W, SD US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00393316",
+            "elevationUnit": "METERS",
+            "longitude": -101.81033
+        },
+        {
+            "elevation": 658.4,
+            "mindate": "1906-12-01",
+            "maxdate": "2020-03-31",
+            "latitude": 43.2356,
+            "name": "GREGORY, SD US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00393452",
+            "elevationUnit": "METERS",
+            "longitude": -99.4341
+        },
+        {
+            "elevation": 397.8,
+            "mindate": "2002-11-01",
+            "maxdate": "2019-03-31",
+            "latitude": 45.4469,
+            "name": "GROTON, SD US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00393456",
+            "elevationUnit": "METERS",
+            "longitude": -98.0952
+        },
+        {
+            "elevation": 1036.3,
+            "mindate": "1951-01-01",
+            "maxdate": "2020-05-16",
+            "latitude": 45.36,
+            "name": "HARDING 3 SE, SD US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00393560",
+            "elevationUnit": "METERS",
+            "longitude": -103.8116
+        },
+        {
+            "elevation": 908.3,
+            "mindate": "1960-01-01",
+            "maxdate": "2010-12-31",
+            "latitude": 43.1647,
+            "name": "HARRINGTON, SD US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00393574",
+            "elevationUnit": "METERS",
+            "longitude": -101.2567
+        },
+        {
+            "elevation": 518.5,
+            "mindate": "1963-01-01",
+            "maxdate": "2020-01-31",
+            "latitude": 44.3628,
+            "name": "HARROLD 12 SSW, SD US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00393608",
+            "elevationUnit": "METERS",
+            "longitude": -99.8034
+        },
+        {
+            "elevation": 616,
+            "mindate": "1951-01-01",
+            "maxdate": "1977-12-31",
+            "latitude": 44.35,
+            "name": "HAYES 5 ESE, SD US",
+            "datacoverage": 0.9873,
+            "id": "GHCND:USC00393672",
+            "elevationUnit": "METERS",
+            "longitude": -100.93333
+        },
+        {
+            "elevation": 683.1,
+            "mindate": "1958-01-01",
+            "maxdate": "1970-08-31",
+            "latitude": 44.53333,
+            "name": "HAYES 12 NNW, SD US",
+            "datacoverage": 0.9994,
+            "id": "GHCND:USC00393677",
+            "elevationUnit": "METERS",
+            "longitude": -101.11667
+        },
+        {
+            "elevation": 510.8,
+            "mindate": "2002-01-01",
+            "maxdate": "2020-05-15",
+            "latitude": 44.66334,
+            "name": "HAYTI, SD US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00393681",
+            "elevationUnit": "METERS",
+            "longitude": -97.22663
+        },
+        {
+            "elevation": 798.9,
+            "mindate": "1960-10-01",
+            "maxdate": "1972-09-30",
+            "latitude": 44.38333,
+            "name": "HEREFORD, SD US",
+            "datacoverage": 0.9375,
+            "id": "GHCND:USC00393760",
+            "elevationUnit": "METERS",
+            "longitude": -102.9
+        },
+        {
+            "elevation": 856.5,
+            "mindate": "1998-01-01",
+            "maxdate": "2020-05-10",
+            "latitude": 44.3255,
+            "name": "HEREFORD 12 SW, SD US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00393764",
+            "elevationUnit": "METERS",
+            "longitude": -103.1086
+        },
+        {
+            "elevation": 1043.9,
+            "mindate": "1906-01-01",
+            "maxdate": "2012-12-31",
+            "latitude": 43.8069,
+            "name": "HERMOSA 3 SSW, SD US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00393775",
+            "elevationUnit": "METERS",
+            "longitude": -103.213
+        },
+        {
+            "elevation": 575.5,
+            "mindate": "1893-01-01",
+            "maxdate": "2020-04-01",
+            "latitude": 44.5222,
+            "name": "HIGHMORE 1 W, SD US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00393832",
+            "elevationUnit": "METERS",
+            "longitude": -99.455
+        },
+        {
+            "elevation": 570,
+            "mindate": "1952-01-01",
+            "maxdate": "2011-11-15",
+            "latitude": 44.8444,
+            "name": "HIGHMORE 23 N, SD US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00393838",
+            "elevationUnit": "METERS",
+            "longitude": -99.4894
+        },
+        {
+            "elevation": 771.1,
+            "mindate": "1909-04-01",
+            "maxdate": "2010-12-31",
+            "latitude": 44.30833,
+            "name": "HILLAND 2 NW, SD US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00393857",
+            "elevationUnit": "METERS",
+            "longitude": -101.86833
+        },
+        {
+            "elevation": 1507.5,
+            "mindate": "1909-01-01",
+            "maxdate": "2020-05-16",
+            "latitude": 43.93425,
+            "name": "HILL CITY, SD US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00393868",
+            "elevationUnit": "METERS",
+            "longitude": -103.55735
+        },
+        {
+            "elevation": 845.2,
+            "mindate": "2004-06-01",
+            "maxdate": "2020-05-11",
+            "latitude": 45.11262,
+            "name": "HOOVER, SD US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00393945",
+            "elevationUnit": "METERS",
+            "longitude": -103.2682
+        },
+        {
+            "elevation": 585.8,
+            "mindate": "1909-09-01",
+            "maxdate": "1983-12-25",
+            "latitude": 44.5,
+            "name": "HOPEWELL 1 SE, SD US",
+            "datacoverage": 0.8946,
+            "id": "GHCND:USC00393987",
+            "elevationUnit": "METERS",
+            "longitude": -100.86667
+        },
+        {
+            "elevation": 579.4,
+            "mindate": "2004-01-01",
+            "maxdate": "2009-10-31",
+            "latitude": 45.57972,
+            "name": "HOSMER 1 E, SD US",
+            "datacoverage": 0.9991,
+            "id": "GHCND:USC00393990",
+            "elevationUnit": "METERS",
+            "longitude": -99.45944
+        },
+        {
+            "elevation": 1085.1,
+            "mindate": "1894-02-01",
+            "maxdate": "2020-05-16",
+            "latitude": 43.4377,
+            "name": "HOT SPRINGS, SD US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00394007",
+            "elevationUnit": "METERS",
+            "longitude": -103.4738
+        },
+        {
+            "elevation": 583.4,
+            "mindate": "2005-01-01",
+            "maxdate": "2006-05-31",
+            "latitude": 45.24056,
+            "name": "HOVEN, SD US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00394025",
+            "elevationUnit": "METERS",
+            "longitude": -99.77444
+        },
+        {
+            "elevation": 478.5,
+            "mindate": "1893-01-01",
+            "maxdate": "2020-05-15",
+            "latitude": 44.01214,
+            "name": "HOWARD, SD US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00394037",
+            "elevationUnit": "METERS",
+            "longitude": -97.53153
+        },
+        {
+            "elevation": 372.8,
+            "mindate": "1902-07-01",
+            "maxdate": "2016-03-01",
+            "latitude": 44.3636,
+            "name": "HURON, SD US",
+            "datacoverage": 0.1861,
+            "id": "GHCND:USC00394132",
+            "elevationUnit": "METERS",
+            "longitude": -98.1989
+        },
+        {
+            "elevation": 743.7,
+            "mindate": "1949-11-01",
+            "maxdate": "2020-05-16",
+            "latitude": 43.7483,
+            "name": "INTERIOR 3 NE, SD US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00394184",
+            "elevationUnit": "METERS",
+            "longitude": -101.9413
+        },
+        {
+            "elevation": 545.6,
+            "mindate": "2000-11-01",
+            "maxdate": "2008-01-31",
+            "latitude": 43.5702,
+            "name": "IONA 2 NE, SD US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00394195",
+            "elevationUnit": "METERS",
+            "longitude": -99.3983
+        },
+        {
+            "elevation": 471.5,
+            "mindate": "1894-01-01",
+            "maxdate": "2020-05-16",
+            "latitude": 45.44719,
+            "name": "IPSWICH, SD US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00394206",
+            "elevationUnit": "METERS",
+            "longitude": -99.03853
+        },
+        {
+            "elevation": 426.7,
+            "mindate": "1951-01-01",
+            "maxdate": "2020-05-16",
+            "latitude": 44.3647,
+            "name": "IROQUOIS, SD US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00394254",
+            "elevationUnit": "METERS",
+            "longitude": -97.8486
+        },
+        {
+            "elevation": 732.1,
+            "mindate": "1920-11-01",
+            "maxdate": "2011-10-26",
+            "latitude": 45.39533,
+            "name": "ISABEL, SD US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00394268",
+            "elevationUnit": "METERS",
+            "longitude": -101.42919
+        },
+        {
+            "elevation": 650.1,
+            "mindate": "1999-10-01",
+            "maxdate": "2020-03-31",
+            "latitude": 45.60253,
+            "name": "ISABEL 14 NNE, SD US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00394271",
+            "elevationUnit": "METERS",
+            "longitude": -101.34857
+        },
+        {
+            "elevation": 1275.3,
+            "mindate": "1994-01-01",
+            "maxdate": "2011-10-31",
+            "latitude": 44.08389,
+            "name": "JOHNSON SIDING, SD US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00394343",
+            "elevationUnit": "METERS",
+            "longitude": -103.43417
+        },
+        {
+            "elevation": 746.8,
+            "mindate": "1909-05-01",
+            "maxdate": "2007-07-01",
+            "latitude": 43.8353,
+            "name": "KADOKA, SD US",
+            "datacoverage": 0.4546,
+            "id": "GHCND:USC00394413",
+            "elevationUnit": "METERS",
+            "longitude": -101.5147
+        },
+        {
+            "elevation": 723.6,
+            "mindate": "1999-10-01",
+            "maxdate": "2020-01-31",
+            "latitude": 45.8361,
+            "name": "KELDRON 8 SSW, SD US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00394490",
+            "elevationUnit": "METERS",
+            "longitude": -101.8665
+        },
+        {
+            "elevation": 512.4,
+            "mindate": "1893-01-01",
+            "maxdate": "2020-05-16",
+            "latitude": 43.9024,
+            "name": "KENNEBEC, SD US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00394516",
+            "elevationUnit": "METERS",
+            "longitude": -99.8582
+        },
+        {
+            "elevation": 1352.1,
+            "mindate": "1990-09-01",
+            "maxdate": "1997-09-30",
+            "latitude": 43.90389,
+            "name": "KEYSTONE, SD US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00394556",
+            "elevationUnit": "METERS",
+            "longitude": -103.41
+        },
+        {
+            "elevation": 658.4,
+            "mindate": "1970-01-01",
+            "maxdate": "2020-03-31",
+            "latitude": 44.6122,
+            "name": "KIRLEY 6 N, SD US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00394596",
+            "elevationUnit": "METERS",
+            "longitude": -101.3369
+        },
+        {
+            "elevation": 901.6,
+            "mindate": "1956-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 43.4402,
+            "name": "KYLE 2 E, SD US",
+            "datacoverage": 0.3811,
+            "id": "GHCND:USC00394630",
+            "elevationUnit": "METERS",
+            "longitude": -102.1431
         }
     ]
 }

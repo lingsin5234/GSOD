@@ -2,22 +2,11 @@
     "metadata": {
         "resultset": {
             "offset": 1,
-            "count": 1953,
+            "count": 1653,
             "limit": 1000
         }
     },
     "results": [
-        {
-            "elevation": 91.4,
-            "mindate": "1931-01-01",
-            "maxdate": "2015-11-01",
-            "latitude": 36.4546,
-            "name": "SAINT FRANCIS, AR US",
-            "datacoverage": 0.9843,
-            "id": "COOP:036380",
-            "elevationUnit": "METERS",
-            "longitude": -90.1459
-        },
         {
             "elevation": 132.6,
             "mindate": "1943-09-01",
@@ -107,15 +96,6 @@
             "longitude": -91.4438
         },
         {
-            "mindate": "1940-08-01",
-            "maxdate": "1947-12-01",
-            "latitude": 36.63333,
-            "name": "ALTON 10 SE, MO US",
-            "datacoverage": 1,
-            "id": "COOP:230122",
-            "longitude": -91.23333
-        },
-        {
             "elevation": 247.8,
             "mindate": "1948-08-01",
             "maxdate": "2014-12-01",
@@ -125,15 +105,6 @@
             "id": "COOP:230127",
             "elevationUnit": "METERS",
             "longitude": -91.39902
-        },
-        {
-            "mindate": "1937-07-01",
-            "maxdate": "1950-09-01",
-            "latitude": 38.4,
-            "name": "ALTONA, MO US",
-            "datacoverage": 0.9999,
-            "id": "COOP:230135",
-            "longitude": -94.21667
         },
         {
             "elevation": 296.9,
@@ -152,7 +123,7 @@
             "maxdate": "1973-08-23",
             "latitude": 38.35,
             "name": "AMSTERDAM, MO US",
-            "datacoverage": 1,
+            "datacoverage": 0.0415,
             "id": "COOP:230151",
             "elevationUnit": "METERS",
             "longitude": -94.58333
@@ -178,17 +149,6 @@
             "id": "COOP:230164",
             "elevationUnit": "METERS",
             "longitude": -94.43861
-        },
-        {
-            "elevation": 320,
-            "mindate": "1931-01-01",
-            "maxdate": "1943-05-01",
-            "latitude": 36.65,
-            "name": "ANDERSON, MO US",
-            "datacoverage": 0.9935,
-            "id": "COOP:230165",
-            "elevationUnit": "METERS",
-            "longitude": -94.51667
         },
         {
             "elevation": 180.1,
@@ -235,15 +195,6 @@
             "longitude": -93.59127
         },
         {
-            "mindate": "1948-08-01",
-            "maxdate": "1961-11-22",
-            "latitude": 40.45,
-            "name": "ASHTON 1 W, MO US",
-            "datacoverage": 0.9742,
-            "id": "COOP:230312",
-            "longitude": -91.81667
-        },
-        {
             "elevation": 262.1,
             "mindate": "1944-06-01",
             "maxdate": "1979-12-01",
@@ -286,15 +237,6 @@
             "id": "COOP:230368",
             "elevationUnit": "METERS",
             "longitude": -92.852
-        },
-        {
-            "mindate": "1948-08-01",
-            "maxdate": "1965-02-01",
-            "latitude": 39.68333,
-            "name": "BEDFORD 1 S, MO US",
-            "datacoverage": 1,
-            "id": "COOP:230503",
-            "longitude": -93.38333
         },
         {
             "elevation": 330.7,
@@ -363,26 +305,6 @@
             "longitude": -93.5756
         },
         {
-            "elevation": 305.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1968-12-01",
-            "latitude": 36.98333,
-            "name": "BIRCH TREE, MO US",
-            "datacoverage": 0.989,
-            "id": "COOP:230668",
-            "elevationUnit": "METERS",
-            "longitude": -91.5
-        },
-        {
-            "mindate": "1931-01-01",
-            "maxdate": "1954-12-01",
-            "latitude": 37.61667,
-            "name": "BLACK 6 NW, MO US",
-            "datacoverage": 0.9688,
-            "id": "COOP:230695",
-            "longitude": -90.98333
-        },
-        {
             "elevation": 240.8,
             "mindate": "2006-12-01",
             "maxdate": "2010-12-01",
@@ -425,15 +347,6 @@
             "id": "COOP:230789",
             "elevationUnit": "METERS",
             "longitude": -93.3914
-        },
-        {
-            "mindate": "1931-01-01",
-            "maxdate": "1950-10-01",
-            "latitude": 38.96667,
-            "name": "BOONVILLE, MO US",
-            "datacoverage": 0.9957,
-            "id": "COOP:230812",
-            "longitude": -92.75
         },
         {
             "elevation": 207,
@@ -491,24 +404,6 @@
             "longitude": -91.17098
         },
         {
-            "mindate": "1944-11-01",
-            "maxdate": "1951-09-01",
-            "latitude": 36.78333,
-            "name": "BRADLEYVILLE, MO US",
-            "datacoverage": 0.9765,
-            "id": "COOP:230878",
-            "longitude": -92.91667
-        },
-        {
-            "mindate": "1931-08-01",
-            "maxdate": "1943-09-01",
-            "latitude": 36.28333,
-            "name": "BRAGG CITY, MO US",
-            "datacoverage": 0.9794,
-            "id": "COOP:230881",
-            "longitude": -89.91667
-        },
-        {
             "elevation": 392,
             "mindate": "2009-06-01",
             "maxdate": "2015-11-01",
@@ -531,15 +426,6 @@
             "longitude": -93.0594
         },
         {
-            "mindate": "1944-08-01",
-            "maxdate": "1950-11-01",
-            "latitude": 40.05,
-            "name": "BROWNING 3 NE, MO US",
-            "datacoverage": 1,
-            "id": "COOP:231003",
-            "longitude": -93.1
-        },
-        {
             "elevation": 201.8,
             "mindate": "1931-01-01",
             "maxdate": "2015-11-01",
@@ -560,15 +446,6 @@
             "id": "COOP:231087",
             "elevationUnit": "METERS",
             "longitude": -93.10691
-        },
-        {
-            "mindate": "1956-01-01",
-            "maxdate": "1957-12-01",
-            "latitude": 37.61667,
-            "name": "BUICK TOWER, MO US",
-            "datacoverage": 0.9993,
-            "id": "COOP:231092",
-            "longitude": -91.13333
         },
         {
             "elevation": 315.8,
@@ -602,17 +479,6 @@
             "id": "COOP:231145",
             "elevationUnit": "METERS",
             "longitude": -94.405
-        },
-        {
-            "elevation": 264.9,
-            "mindate": "1949-09-01",
-            "maxdate": "1960-05-01",
-            "latitude": 38.3,
-            "name": "BUTLER FAA AIRPORT, MO US",
-            "datacoverage": 1,
-            "id": "COOP:231147",
-            "elevationUnit": "METERS",
-            "longitude": -94.33333
         },
         {
             "elevation": 256,
@@ -659,17 +525,6 @@
             "longitude": -94.253
         },
         {
-            "elevation": 95.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1951-05-01",
-            "latitude": 36.48333,
-            "name": "CAMPBELL, MO US",
-            "datacoverage": 0.992,
-            "id": "COOP:231221",
-            "elevationUnit": "METERS",
-            "longitude": -90.06667
-        },
-        {
             "elevation": 149.4,
             "mindate": "1932-03-01",
             "maxdate": "2015-11-01",
@@ -686,7 +541,7 @@
             "maxdate": "2014-01-01",
             "latitude": 39.00277,
             "name": "CAP AU GRIS LOCK AND DAM 25, MO US",
-            "datacoverage": 1,
+            "datacoverage": 0.0272,
             "id": "COOP:231283",
             "elevationUnit": "METERS",
             "longitude": -90.68922
@@ -701,28 +556,6 @@
             "id": "COOP:231289",
             "elevationUnit": "METERS",
             "longitude": -89.5705
-        },
-        {
-            "elevation": 149,
-            "mindate": "1945-12-01",
-            "maxdate": "1960-11-01",
-            "latitude": 37.31667,
-            "name": "CP GIRARDEAU ST UNIVERSITY, MO US",
-            "datacoverage": 0.95,
-            "id": "COOP:231291",
-            "elevationUnit": "METERS",
-            "longitude": -89.53333
-        },
-        {
-            "elevation": 91.4,
-            "mindate": "1931-01-01",
-            "maxdate": "1969-06-01",
-            "latitude": 37.30611,
-            "name": "CAPE GIRARDEAU, MO US",
-            "datacoverage": 0.9892,
-            "id": "COOP:231296",
-            "elevationUnit": "METERS",
-            "longitude": -89.53
         },
         {
             "elevation": 108.5,
@@ -813,15 +646,6 @@
             "longitude": -90.9225
         },
         {
-            "mindate": "1936-11-01",
-            "maxdate": "1960-08-01",
-            "latitude": 37.43333,
-            "name": "CENTERVILLE RANGER STATION, MO US",
-            "datacoverage": 0.9895,
-            "id": "COOP:231472",
-            "longitude": -90.95
-        },
-        {
             "elevation": 270.1,
             "mindate": "1938-09-01",
             "maxdate": "2014-12-01",
@@ -831,17 +655,6 @@
             "id": "COOP:231482",
             "elevationUnit": "METERS",
             "longitude": -92.1341
-        },
-        {
-            "elevation": 417.9,
-            "mindate": "1945-01-01",
-            "maxdate": "1955-09-01",
-            "latitude": 36.93333,
-            "name": "CHADWICK, MO US",
-            "datacoverage": 0.9849,
-            "id": "COOP:231490",
-            "elevationUnit": "METERS",
-            "longitude": -93.05
         },
         {
             "elevation": 100.6,
@@ -921,17 +734,6 @@
             "longitude": -93.01667
         },
         {
-            "elevation": 223.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1946-04-01",
-            "latitude": 39.45,
-            "name": "CLIFTON HILL, MO US",
-            "datacoverage": 1,
-            "id": "COOP:231708",
-            "elevationUnit": "METERS",
-            "longitude": -92.66667
-        },
-        {
             "elevation": 305.1,
             "mindate": "1973-09-01",
             "maxdate": "1981-12-01",
@@ -987,17 +789,6 @@
             "longitude": -93.529
         },
         {
-            "elevation": 237.1,
-            "mindate": "1948-09-01",
-            "maxdate": "1969-12-01",
-            "latitude": 38.96667,
-            "name": "COLUMBIA MUNICIPAL AIRPORT, MO US",
-            "datacoverage": 0.9833,
-            "id": "COOP:231790",
-            "elevationUnit": "METERS",
-            "longitude": -92.36667
-        },
-        {
             "elevation": 272.2,
             "mindate": "1969-10-01",
             "maxdate": "2015-11-01",
@@ -1007,35 +798,6 @@
             "id": "COOP:231791",
             "elevationUnit": "METERS",
             "longitude": -92.2183
-        },
-        {
-            "mindate": "1958-07-01",
-            "maxdate": "1959-12-01",
-            "latitude": 38.96667,
-            "name": "COLUMBIA 9 ENE, MO US",
-            "datacoverage": 0.998,
-            "id": "COOP:231792",
-            "longitude": -92.18333
-        },
-        {
-            "elevation": 231,
-            "mindate": "1948-01-01",
-            "maxdate": "1951-05-01",
-            "latitude": 38.95,
-            "name": "COLUMBIA, MO US",
-            "datacoverage": 0.9753,
-            "id": "COOP:231795",
-            "elevationUnit": "METERS",
-            "longitude": -92.33333
-        },
-        {
-            "mindate": "1944-06-01",
-            "maxdate": "1953-03-01",
-            "latitude": 38.98333,
-            "name": "COLUMBIA 9 WNW, MO US",
-            "datacoverage": 1,
-            "id": "COOP:231800",
-            "longitude": -92.46667
         },
         {
             "elevation": 234.7,
@@ -1115,28 +877,6 @@
             "longitude": -92.26667
         },
         {
-            "elevation": 128,
-            "mindate": "1934-05-01",
-            "maxdate": "1959-01-01",
-            "latitude": 38.23333,
-            "name": "CRYSTAL CITY, MO US",
-            "datacoverage": 0.9223,
-            "id": "COOP:232031",
-            "elevationUnit": "METERS",
-            "longitude": -90.38333
-        },
-        {
-            "elevation": 305.1,
-            "mindate": "1935-01-01",
-            "maxdate": "1964-12-01",
-            "latitude": 38.06667,
-            "name": "CUBA, MO US",
-            "datacoverage": 0.8861,
-            "id": "COOP:232043",
-            "elevationUnit": "METERS",
-            "longitude": -91.4
-        },
-        {
             "elevation": 320,
             "mindate": "2002-10-01",
             "maxdate": "2013-12-01",
@@ -1146,28 +886,6 @@
             "id": "COOP:232071",
             "elevationUnit": "METERS",
             "longitude": -93.6779
-        },
-        {
-            "elevation": 253,
-            "mindate": "1953-08-01",
-            "maxdate": "1962-11-01",
-            "latitude": 38.91667,
-            "name": "DANVILLE 1 ENE, MO US",
-            "datacoverage": 0.0449,
-            "id": "COOP:232095",
-            "elevationUnit": "METERS",
-            "longitude": -91.51667
-        },
-        {
-            "elevation": 78.9,
-            "mindate": "1941-09-01",
-            "maxdate": "1955-12-01",
-            "latitude": 36.2,
-            "name": "DEERING, MO US",
-            "datacoverage": 1,
-            "id": "COOP:232156",
-            "elevationUnit": "METERS",
-            "longitude": -89.88333
         },
         {
             "elevation": 222.8,
@@ -1214,17 +932,6 @@
             "longitude": -90.8125
         },
         {
-            "elevation": 98.1,
-            "mindate": "1935-08-01",
-            "maxdate": "1957-05-01",
-            "latitude": 36.61667,
-            "name": "DONIPHAN 1 W, MO US",
-            "datacoverage": 0.9961,
-            "id": "COOP:232294",
-            "elevationUnit": "METERS",
-            "longitude": -90.85
-        },
-        {
             "elevation": 294.4,
             "mindate": "1948-08-01",
             "maxdate": "2015-11-01",
@@ -1256,26 +963,6 @@
             "id": "COOP:232331",
             "elevationUnit": "METERS",
             "longitude": -94.6102
-        },
-        {
-            "mindate": "1941-10-01",
-            "maxdate": "1959-11-01",
-            "latitude": 37.68333,
-            "name": "EAST END, MO US",
-            "datacoverage": 0.8854,
-            "id": "COOP:232406",
-            "longitude": -91.03333
-        },
-        {
-            "elevation": 292.9,
-            "mindate": "1943-10-01",
-            "maxdate": "1947-08-01",
-            "latitude": 36.88333,
-            "name": "EASTWOOD LOOKOUT, MO US",
-            "datacoverage": 0.787,
-            "id": "COOP:232445",
-            "elevationUnit": "METERS",
-            "longitude": -91.03333
         },
         {
             "elevation": 256,
@@ -1322,17 +1009,6 @@
             "longitude": -94.01563
         },
         {
-            "elevation": 274.9,
-            "mindate": "1940-01-01",
-            "maxdate": "1961-06-01",
-            "latitude": 36.6,
-            "name": "ELIJAH, MO US",
-            "datacoverage": 0.9265,
-            "id": "COOP:232519",
-            "elevationUnit": "METERS",
-            "longitude": -92.15
-        },
-        {
             "elevation": 222.5,
             "mindate": "1940-04-01",
             "maxdate": "2014-12-01",
@@ -1366,28 +1042,6 @@
             "longitude": -94.0352
         },
         {
-            "elevation": 305.1,
-            "mindate": "1956-07-01",
-            "maxdate": "1961-06-28",
-            "latitude": 38.9,
-            "name": "ELM 4 NNW, MO US",
-            "datacoverage": 0.0434,
-            "id": "COOP:232569",
-            "elevationUnit": "METERS",
-            "longitude": -94.06667
-        },
-        {
-            "elevation": 267.9,
-            "mindate": "1956-07-01",
-            "maxdate": "1961-06-28",
-            "latitude": 38.81667,
-            "name": "ELM 1 S, MO US",
-            "datacoverage": 0.0471,
-            "id": "COOP:232570",
-            "elevationUnit": "METERS",
-            "longitude": -94.03333
-        },
-        {
             "elevation": 144.8,
             "mindate": "1931-01-01",
             "maxdate": "2015-11-01",
@@ -1399,34 +1053,12 @@
             "longitude": -90.78309
         },
         {
-            "elevation": 203.9,
-            "mindate": "1956-07-01",
-            "maxdate": "1961-06-30",
-            "latitude": 39.15,
-            "name": "ELSBERRY 4 WSW, MO US",
-            "datacoverage": 0.0409,
-            "id": "COOP:232592",
-            "elevationUnit": "METERS",
-            "longitude": -90.85
-        },
-        {
-            "elevation": 192,
-            "mindate": "1956-07-01",
-            "maxdate": "1961-06-30",
-            "latitude": 39.11667,
-            "name": "ELSBERRY 4 SW, MO US",
-            "datacoverage": 0.0481,
-            "id": "COOP:232593",
-            "elevationUnit": "METERS",
-            "longitude": -90.83333
-        },
-        {
             "elevation": 214,
             "mindate": "1948-08-01",
             "maxdate": "1973-05-29",
             "latitude": 37.15,
             "name": "EMINENCE 5 WNW, MO US",
-            "datacoverage": 0.9742,
+            "datacoverage": 0.0444,
             "id": "COOP:232617",
             "elevationUnit": "METERS",
             "longitude": -91.45
@@ -1465,17 +1097,6 @@
             "longitude": -95.391
         },
         {
-            "elevation": 232,
-            "mindate": "1931-01-01",
-            "maxdate": "1945-06-01",
-            "latitude": 39.26667,
-            "name": "FARBER, MO US",
-            "datacoverage": 0.9945,
-            "id": "COOP:232790",
-            "elevationUnit": "METERS",
-            "longitude": -91.56667
-        },
-        {
             "elevation": 274.3,
             "mindate": "1931-01-01",
             "maxdate": "2015-11-01",
@@ -1485,26 +1106,6 @@
             "id": "COOP:232809",
             "elevationUnit": "METERS",
             "longitude": -90.40978
-        },
-        {
-            "elevation": 288.6,
-            "mindate": "1949-10-01",
-            "maxdate": "1960-05-01",
-            "latitude": 37.76083,
-            "name": "FARMINGTON REGIONAL AIRPORT, MO US",
-            "datacoverage": 1,
-            "id": "COOP:232811",
-            "elevationUnit": "METERS",
-            "longitude": -90.42833
-        },
-        {
-            "mindate": "1950-12-01",
-            "maxdate": "1952-02-01",
-            "latitude": 39.63333,
-            "name": "FAUCETT SPEAS FARM, MO US",
-            "datacoverage": 1,
-            "id": "COOP:232821",
-            "longitude": -94.81667
         },
         {
             "elevation": 228.9,
@@ -1527,17 +1128,6 @@
             "id": "COOP:232825",
             "elevationUnit": "METERS",
             "longitude": -92.6217
-        },
-        {
-            "elevation": 195.1,
-            "mindate": "1957-08-01",
-            "maxdate": "1962-10-01",
-            "latitude": 39.13333,
-            "name": "FAYETTE EXPERIMENTAL LAGOON, MO US",
-            "datacoverage": 0.968,
-            "id": "COOP:232828",
-            "elevationUnit": "METERS",
-            "longitude": -92.66667
         },
         {
             "elevation": 182.9,
@@ -1571,17 +1161,6 @@
             "id": "COOP:232941",
             "elevationUnit": "METERS",
             "longitude": -93.4317
-        },
-        {
-            "elevation": 259.1,
-            "mindate": "1946-01-01",
-            "maxdate": "1968-12-01",
-            "latitude": 36.7,
-            "name": "FORSYTH, MO US",
-            "datacoverage": 0.987,
-            "id": "COOP:232975",
-            "elevationUnit": "METERS",
-            "longitude": -93.11667
         },
         {
             "elevation": 342.3,
@@ -1628,15 +1207,6 @@
             "longitude": -91.7029
         },
         {
-            "mindate": "1948-01-01",
-            "maxdate": "1960-05-01",
-            "latitude": 36.96667,
-            "name": "FREMONT TOWER, MO US",
-            "datacoverage": 0.9396,
-            "id": "COOP:233052",
-            "longitude": -91.23333
-        },
-        {
             "elevation": 234.7,
             "mindate": "1931-01-01",
             "maxdate": "2015-11-01",
@@ -1668,17 +1238,6 @@
             "id": "COOP:233102",
             "elevationUnit": "METERS",
             "longitude": -93.9698
-        },
-        {
-            "elevation": 289.9,
-            "mindate": "1934-08-01",
-            "maxdate": "1940-03-01",
-            "latitude": 36.7,
-            "name": "GARBER, MO US",
-            "datacoverage": 0.9999,
-            "id": "COOP:233119",
-            "elevationUnit": "METERS",
-            "longitude": -93.3
         },
         {
             "elevation": 335.3,
@@ -1747,23 +1306,12 @@
             "longitude": -92.76667
         },
         {
-            "elevation": 214,
-            "mindate": "1931-01-01",
-            "maxdate": "1942-01-01",
-            "latitude": 40.25,
-            "name": "GORIN, MO US",
-            "datacoverage": 0.9998,
-            "id": "COOP:233290",
-            "elevationUnit": "METERS",
-            "longitude": -92.08333
-        },
-        {
             "elevation": 299,
             "mindate": "1950-08-01",
             "maxdate": "1977-01-27",
             "latitude": 39.63333,
             "name": "GOWER 2 N, MO US",
-            "datacoverage": 0.7706,
+            "datacoverage": 0.0433,
             "id": "COOP:233300",
             "elevationUnit": "METERS",
             "longitude": -94.6
@@ -1857,17 +1405,6 @@
             "longitude": -92.593
         },
         {
-            "elevation": 399.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1969-12-01",
-            "latitude": 36.7,
-            "name": "HAILEY 3 WSW, MO US",
-            "datacoverage": 0.985,
-            "id": "COOP:233537",
-            "elevationUnit": "METERS",
-            "longitude": -93.76667
-        },
-        {
             "elevation": 311.8,
             "mindate": "2011-01-01",
             "maxdate": "2015-11-01",
@@ -1884,7 +1421,7 @@
             "maxdate": "1980-05-01",
             "latitude": 39.6,
             "name": "HAMDEN 2 NE, MO US",
-            "datacoverage": 0.9742,
+            "datacoverage": 0.0416,
             "id": "COOP:233565",
             "elevationUnit": "METERS",
             "longitude": -92.78333
@@ -1899,17 +1436,6 @@
             "id": "COOP:233568",
             "elevationUnit": "METERS",
             "longitude": -94.0347
-        },
-        {
-            "elevation": 149,
-            "mindate": "1933-08-01",
-            "maxdate": "1965-07-01",
-            "latitude": 39.7,
-            "name": "HANNIBAL 1 N, MO US",
-            "datacoverage": 0.9947,
-            "id": "COOP:233596",
-            "elevationUnit": "METERS",
-            "longitude": -91.35
         },
         {
             "elevation": 217,
@@ -1928,7 +1454,7 @@
             "maxdate": "1990-03-01",
             "latitude": 40.31667,
             "name": "HARRIS, MO US",
-            "datacoverage": 1,
+            "datacoverage": 0.0262,
             "id": "COOP:233641",
             "elevationUnit": "METERS",
             "longitude": -93.35
@@ -1965,17 +1491,6 @@
             "id": "COOP:233713",
             "elevationUnit": "METERS",
             "longitude": -92.46667
-        },
-        {
-            "elevation": 210,
-            "mindate": "1949-11-01",
-            "maxdate": "1969-01-01",
-            "latitude": 39.23333,
-            "name": "HENRIETTA, MO US",
-            "datacoverage": 0.9144,
-            "id": "COOP:233779",
-            "elevationUnit": "METERS",
-            "longitude": -93.93333
         },
         {
             "elevation": 156.7,
@@ -2020,15 +1535,6 @@
             "id": "COOP:233838",
             "elevationUnit": "METERS",
             "longitude": -93.7075
-        },
-        {
-            "mindate": "1940-07-01",
-            "maxdate": "1950-07-01",
-            "latitude": 36.88333,
-            "name": "HIGH LOOKOUT, MO US",
-            "datacoverage": 0.9669,
-            "id": "COOP:233845",
-            "longitude": -91.45
         },
         {
             "elevation": 277.4,
@@ -2084,15 +1590,6 @@
             "id": "COOP:234019",
             "elevationUnit": "METERS",
             "longitude": -91.96282
-        },
-        {
-            "mindate": "1948-08-01",
-            "maxdate": "1955-07-28",
-            "latitude": 37.31667,
-            "name": "HOUSTON 1 SE, MO US",
-            "datacoverage": 1,
-            "id": "COOP:234021",
-            "longitude": -91.96667
         },
         {
             "elevation": 327.7,
@@ -2183,17 +1680,6 @@
             "longitude": -90.28
         },
         {
-            "elevation": 185.9,
-            "mindate": "1945-01-01",
-            "maxdate": "1961-06-01",
-            "latitude": 38.58694,
-            "name": "JEFFERSON CITY, MO US",
-            "datacoverage": 1,
-            "id": "COOP:234276",
-            "elevationUnit": "METERS",
-            "longitude": -92.17972
-        },
-        {
             "elevation": 307.8,
             "mindate": "2012-01-01",
             "maxdate": "2015-11-01",
@@ -2216,15 +1702,6 @@
             "longitude": -91.97694
         },
         {
-            "mindate": "1948-08-01",
-            "maxdate": "1955-08-29",
-            "latitude": 37.38333,
-            "name": "JEWETT, MO US",
-            "datacoverage": 1,
-            "id": "COOP:234299",
-            "longitude": -90.48333
-        },
-        {
             "elevation": 189,
             "mindate": "1955-09-01",
             "maxdate": "1996-12-26",
@@ -2245,17 +1722,6 @@
             "id": "COOP:234315",
             "elevationUnit": "METERS",
             "longitude": -94.49527
-        },
-        {
-            "elevation": 307.8,
-            "mindate": "1931-01-01",
-            "maxdate": "1947-12-01",
-            "latitude": 37.08333,
-            "name": "JOPLIN, MO US",
-            "datacoverage": 1,
-            "id": "COOP:234316",
-            "elevationUnit": "METERS",
-            "longitude": -94.51667
         },
         {
             "elevation": 210,
@@ -2291,15 +1757,6 @@
             "longitude": -94.5969
         },
         {
-            "mindate": "1948-08-01",
-            "maxdate": "1956-11-20",
-            "latitude": 39.1,
-            "name": "KANSAS CITY ST JN ELMD, MO US",
-            "datacoverage": 0.5793,
-            "id": "COOP:234364",
-            "longitude": -94.53333
-        },
-        {
             "elevation": 303.3,
             "mindate": "2009-04-01",
             "maxdate": "2015-11-01",
@@ -2311,32 +1768,12 @@
             "longitude": -94.5388
         },
         {
-            "elevation": 274.3,
-            "mindate": "1954-09-01",
-            "maxdate": "1964-02-01",
-            "latitude": 39.24194,
-            "name": "KANSAS CITY BARRY HARBOR, MO US",
-            "datacoverage": 1,
-            "id": "COOP:234367",
-            "elevationUnit": "METERS",
-            "longitude": -94.64222
-        },
-        {
-            "mindate": "1948-08-01",
-            "maxdate": "1956-11-20",
-            "latitude": 39,
-            "name": "KANSAS CITY 75 HLM, MO US",
-            "datacoverage": 0.9216,
-            "id": "COOP:234369",
-            "longitude": -94.58333
-        },
-        {
             "elevation": 264.9,
             "mindate": "1948-08-01",
             "maxdate": "1977-06-01",
             "latitude": 39,
             "name": "KANSAS CITY SWOPE PK, MO US",
-            "datacoverage": 0.6056,
+            "datacoverage": 0.0236,
             "id": "COOP:234374",
             "elevationUnit": "METERS",
             "longitude": -94.53333
@@ -2384,26 +1821,6 @@
             "id": "COOP:234417",
             "elevationUnit": "METERS",
             "longitude": -90.0749
-        },
-        {
-            "mindate": "1948-11-01",
-            "maxdate": "1953-05-01",
-            "latitude": 39.45,
-            "name": "KEYTESVILLE 4 NE, MO US",
-            "datacoverage": 0.9642,
-            "id": "COOP:234449",
-            "longitude": -92.86667
-        },
-        {
-            "elevation": 307.8,
-            "mindate": "1931-01-01",
-            "maxdate": "1953-04-01",
-            "latitude": 39.78333,
-            "name": "KIDDER, MO US",
-            "datacoverage": 1,
-            "id": "COOP:234481",
-            "elevationUnit": "METERS",
-            "longitude": -94.1
         },
         {
             "elevation": 335.9,
@@ -2461,26 +1878,6 @@
             "longitude": -94.0115
         },
         {
-            "mindate": "1949-05-01",
-            "maxdate": "1952-02-22",
-            "latitude": 39.43333,
-            "name": "KNOXVILLE 2 SSE, MO US",
-            "datacoverage": 0.655,
-            "id": "COOP:234603",
-            "longitude": -94
-        },
-        {
-            "elevation": 292.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1960-07-01",
-            "latitude": 36.6,
-            "name": "KOSHKONONG, MO US",
-            "datacoverage": 0.9944,
-            "id": "COOP:234625",
-            "elevationUnit": "METERS",
-            "longitude": -91.65
-        },
-        {
             "elevation": 234.7,
             "mindate": "1931-01-01",
             "maxdate": "2008-02-01",
@@ -2525,44 +1922,6 @@
             "longitude": -94.2842
         },
         {
-            "mindate": "1931-01-01",
-            "maxdate": "1936-12-01",
-            "latitude": 38.78333,
-            "name": "LA MONTE, MO US",
-            "datacoverage": 0.9998,
-            "id": "COOP:234722",
-            "longitude": -93.4
-        },
-        {
-            "mindate": "1940-09-01",
-            "maxdate": "1960-07-01",
-            "latitude": 36.56667,
-            "name": "LAMPE FOREST SERVICE, MO US",
-            "datacoverage": 0.9708,
-            "id": "COOP:234727",
-            "longitude": -93.43333
-        },
-        {
-            "mindate": "1948-08-01",
-            "maxdate": "1956-05-01",
-            "latitude": 36.63333,
-            "name": "LAMPE 4 NNE, MO US",
-            "datacoverage": 1,
-            "id": "COOP:234732",
-            "longitude": -93.4
-        },
-        {
-            "elevation": 323.1,
-            "mindate": "1947-04-01",
-            "maxdate": "1965-02-01",
-            "latitude": 39.55,
-            "name": "LATHROP, MO US",
-            "datacoverage": 0.9023,
-            "id": "COOP:234773",
-            "elevationUnit": "METERS",
-            "longitude": -94.33333
-        },
-        {
             "elevation": 379.8,
             "mindate": "1931-01-01",
             "maxdate": "2015-11-01",
@@ -2572,37 +1931,6 @@
             "id": "COOP:234825",
             "elevationUnit": "METERS",
             "longitude": -92.69388
-        },
-        {
-            "elevation": 348.1,
-            "mindate": "1948-08-01",
-            "maxdate": "1950-10-01",
-            "latitude": 37.81667,
-            "name": "LECOMA 3 N, MO US",
-            "datacoverage": 0.8399,
-            "id": "COOP:234828",
-            "elevationUnit": "METERS",
-            "longitude": -91.73333
-        },
-        {
-            "mindate": "1931-01-01",
-            "maxdate": "1953-03-01",
-            "latitude": 37.06667,
-            "name": "LEEPER, MO US",
-            "datacoverage": 1,
-            "id": "COOP:234844",
-            "longitude": -90.7
-        },
-        {
-            "elevation": 287.1,
-            "mindate": "1949-05-01",
-            "maxdate": "1966-04-01",
-            "latitude": 38.9482,
-            "name": "UNITY VILLAGE, MO US",
-            "datacoverage": 0.9649,
-            "id": "COOP:234846",
-            "elevationUnit": "METERS",
-            "longitude": -94.397
         },
         {
             "elevation": 304.8,
@@ -2687,7 +2015,7 @@
             "maxdate": "1985-12-01",
             "latitude": 40.49,
             "name": "LIVONIA, MO US",
-            "datacoverage": 0.9742,
+            "datacoverage": 0.0332,
             "id": "COOP:235014",
             "elevationUnit": "METERS",
             "longitude": -92.6961
@@ -2759,15 +2087,6 @@
             "longitude": -91.8764
         },
         {
-            "mindate": "1940-06-01",
-            "maxdate": "1957-02-01",
-            "latitude": 36.75,
-            "name": "MACEDONIA LOOKOUT, MO US",
-            "datacoverage": 0.9802,
-            "id": "COOP:235164",
-            "longitude": -90.9
-        },
-        {
             "elevation": 262.1,
             "mindate": "1931-01-01",
             "maxdate": "1984-11-01",
@@ -2788,17 +2107,6 @@
             "id": "COOP:235183",
             "elevationUnit": "METERS",
             "longitude": -92.03056
-        },
-        {
-            "elevation": 92,
-            "mindate": "1940-12-01",
-            "maxdate": "1960-09-01",
-            "latitude": 36.6,
-            "name": "MALDEN FAA AIRPORT, MO US",
-            "datacoverage": 0.9202,
-            "id": "COOP:235205",
-            "elevationUnit": "METERS",
-            "longitude": -89.98333
         },
         {
             "elevation": 88.4,
@@ -2894,19 +2202,10 @@
             "maxdate": "1970-10-01",
             "latitude": 40.41667,
             "name": "MARYVILLE 6 NNW, MO US",
-            "datacoverage": 1,
+            "datacoverage": 0.0471,
             "id": "COOP:235345",
             "elevationUnit": "METERS",
             "longitude": -94.88333
-        },
-        {
-            "mindate": "1948-08-01",
-            "maxdate": "1958-04-01",
-            "latitude": 38.96667,
-            "name": "MC CREDIE 2 W, MO US",
-            "datacoverage": 1,
-            "id": "COOP:235410",
-            "longitude": -91.96667
         },
         {
             "elevation": 259.1,
@@ -2914,7 +2213,7 @@
             "maxdate": "2005-07-01",
             "latitude": 38.95,
             "name": "MC CREDIE EXPERIMENTAL STATION, MO US",
-            "datacoverage": 1,
+            "datacoverage": 0.0421,
             "id": "COOP:235415",
             "elevationUnit": "METERS",
             "longitude": -91.9
@@ -3057,7 +2356,7 @@
             "maxdate": "1990-03-01",
             "latitude": 38.53333,
             "name": "MORA, MO US",
-            "datacoverage": 1,
+            "datacoverage": 0.0477,
             "id": "COOP:235754",
             "elevationUnit": "METERS",
             "longitude": -93.21667
@@ -3083,17 +2382,6 @@
             "id": "COOP:235784",
             "elevationUnit": "METERS",
             "longitude": -93.44303
-        },
-        {
-            "elevation": 156.1,
-            "mindate": "1943-11-01",
-            "maxdate": "1969-12-01",
-            "latitude": 38.38333,
-            "name": "MOSELLE, MO US",
-            "datacoverage": 0.9203,
-            "id": "COOP:235816",
-            "elevationUnit": "METERS",
-            "longitude": -90.9
         },
         {
             "elevation": 446.8,
@@ -3127,17 +2415,6 @@
             "id": "COOP:235843",
             "elevationUnit": "METERS",
             "longitude": -91.7944
-        },
-        {
-            "elevation": 353.9,
-            "mindate": "1937-10-01",
-            "maxdate": "1968-10-01",
-            "latitude": 37.06667,
-            "name": "MOUNT VERNON 3 SW, MO US",
-            "datacoverage": 0.9651,
-            "id": "COOP:235861",
-            "elevationUnit": "METERS",
-            "longitude": -93.86667
         },
         {
             "elevation": 362.7,
@@ -3195,28 +2472,6 @@
             "longitude": -94.374
         },
         {
-            "elevation": 264.9,
-            "mindate": "1955-05-01",
-            "maxdate": "1956-09-01",
-            "latitude": 37.81667,
-            "name": "NEVADA CAMP CLARK, MO US",
-            "datacoverage": 0.0141,
-            "id": "COOP:235990",
-            "elevationUnit": "METERS",
-            "longitude": -94.31667
-        },
-        {
-            "elevation": 292.9,
-            "mindate": "1948-12-01",
-            "maxdate": "1961-09-01",
-            "latitude": 39.98333,
-            "name": "NEW BOSTON 3 NE, MO US",
-            "datacoverage": 0.9741,
-            "id": "COOP:235999",
-            "elevationUnit": "METERS",
-            "longitude": -92.81667
-        },
-        {
             "elevation": 268.2,
             "mindate": "1941-01-01",
             "maxdate": "1979-02-01",
@@ -3251,17 +2506,6 @@
         },
         {
             "elevation": 92,
-            "mindate": "1931-01-01",
-            "maxdate": "1965-12-01",
-            "latitude": 36.58333,
-            "name": "NEW MADRID, MO US",
-            "datacoverage": 0.9857,
-            "id": "COOP:236040",
-            "elevationUnit": "METERS",
-            "longitude": -89.51667
-        },
-        {
-            "elevation": 92,
             "mindate": "1963-11-01",
             "maxdate": "2011-12-01",
             "latitude": 36.5869,
@@ -3270,17 +2514,6 @@
             "id": "COOP:236045",
             "elevationUnit": "METERS",
             "longitude": -89.5325
-        },
-        {
-            "elevation": 235,
-            "mindate": "1948-11-01",
-            "maxdate": "1952-09-01",
-            "latitude": 40.23333,
-            "name": "NOVINGER, MO US",
-            "datacoverage": 0.8089,
-            "id": "COOP:236170",
-            "elevationUnit": "METERS",
-            "longitude": -92.7
         },
         {
             "elevation": 303.9,
@@ -3292,15 +2525,6 @@
             "id": "COOP:236258",
             "elevationUnit": "METERS",
             "longitude": -91.0569
-        },
-        {
-            "mindate": "1944-11-01",
-            "maxdate": "1951-06-01",
-            "latitude": 37.53333,
-            "name": "OATES TOWER, MO US",
-            "datacoverage": 0.9257,
-            "id": "COOP:236263",
-            "longitude": -91.05
         },
         {
             "elevation": 277.4,
@@ -3352,7 +2576,7 @@
             "maxdate": "1978-01-01",
             "latitude": 39.98333,
             "name": "OREGON 1 ENE, MO US",
-            "datacoverage": 0.8919,
+            "datacoverage": 0.0364,
             "id": "COOP:236359",
             "elevationUnit": "METERS",
             "longitude": -95.13333
@@ -3469,11 +2693,11 @@
         },
         {
             "elevation": 216.4,
-            "mindate": "1931-01-01",
+            "mindate": "1948-08-01",
             "maxdate": "1984-11-01",
             "latitude": 39.43333,
             "name": "PERRY, MO US",
-            "datacoverage": 0.9431,
+            "datacoverage": 0.0337,
             "id": "COOP:236633",
             "elevationUnit": "METERS",
             "longitude": -91.66667
@@ -3490,15 +2714,6 @@
             "longitude": -89.92
         },
         {
-            "mindate": "1931-01-01",
-            "maxdate": "1949-04-01",
-            "latitude": 39.83333,
-            "name": "PHILADELPHIA, MO US",
-            "datacoverage": 0.9002,
-            "id": "COOP:236667",
-            "longitude": -91.75
-        },
-        {
             "elevation": 374.9,
             "mindate": "1940-04-01",
             "maxdate": "2010-12-01",
@@ -3508,33 +2723,6 @@
             "id": "COOP:236678",
             "elevationUnit": "METERS",
             "longitude": -94.0077
-        },
-        {
-            "mindate": "1956-04-01",
-            "maxdate": "1959-12-01",
-            "latitude": 37,
-            "name": "PIERCE CITY 4 NNE, MO US",
-            "datacoverage": 0.9998,
-            "id": "COOP:236683",
-            "longitude": -93.98333
-        },
-        {
-            "mindate": "1940-06-01",
-            "maxdate": "1946-03-01",
-            "latitude": 37.5,
-            "name": "PILOT KNOB, MO US",
-            "datacoverage": 0.9288,
-            "id": "COOP:236689",
-            "longitude": -90.61667
-        },
-        {
-            "mindate": "1948-01-01",
-            "maxdate": "1950-04-01",
-            "latitude": 36.7,
-            "name": "PINEVIEW LOOKOUT, MO US",
-            "datacoverage": 0.608,
-            "id": "COOP:236700",
-            "longitude": -93.61667
         },
         {
             "elevation": 249.9,
@@ -3647,17 +2835,6 @@
             "longitude": -90.4055
         },
         {
-            "elevation": 85,
-            "mindate": "1952-03-01",
-            "maxdate": "1965-12-01",
-            "latitude": 36.43333,
-            "name": "PORTAGEVILLE, MO US",
-            "datacoverage": 0.9275,
-            "id": "COOP:236799",
-            "elevationUnit": "METERS",
-            "longitude": -89.68333
-        },
-        {
             "elevation": 85.3,
             "mindate": "1965-07-01",
             "maxdate": "2011-12-01",
@@ -3689,17 +2866,6 @@
             "id": "COOP:236834",
             "elevationUnit": "METERS",
             "longitude": -94.1844
-        },
-        {
-            "elevation": 198.1,
-            "mindate": "1954-12-01",
-            "maxdate": "1966-11-01",
-            "latitude": 39.54,
-            "name": "PRAIRIE HILL 2 WNW, MO US",
-            "datacoverage": 0.9513,
-            "id": "COOP:236846",
-            "elevationUnit": "METERS",
-            "longitude": -92.7907
         },
         {
             "elevation": 298.7,
@@ -3860,7 +3026,7 @@
             "maxdate": "1978-01-01",
             "latitude": 37.11667,
             "name": "ROGERSVILLE, MO US",
-            "datacoverage": 0.9216,
+            "datacoverage": 0.0423,
             "id": "COOP:237255",
             "longitude": -93.05
         },
@@ -3881,7 +3047,7 @@
             "maxdate": "1977-01-23",
             "latitude": 37.9,
             "name": "ROLLA 5 SE, MO US",
-            "datacoverage": 0.9742,
+            "datacoverage": 0.0474,
             "id": "COOP:237264",
             "elevationUnit": "METERS",
             "longitude": -91.71667
@@ -3892,32 +3058,10 @@
             "maxdate": "1977-02-01",
             "latitude": 37.95,
             "name": "ROLLA 3 W, MO US",
-            "datacoverage": 1,
+            "datacoverage": 0.0503,
             "id": "COOP:237265",
             "elevationUnit": "METERS",
             "longitude": -91.83333
-        },
-        {
-            "elevation": 317,
-            "mindate": "1948-08-01",
-            "maxdate": "1959-10-01",
-            "latitude": 37.93333,
-            "name": "ROLLA 4 SE, MO US",
-            "datacoverage": 0.9216,
-            "id": "COOP:237266",
-            "elevationUnit": "METERS",
-            "longitude": -91.71667
-        },
-        {
-            "elevation": 296,
-            "mindate": "1948-08-01",
-            "maxdate": "1955-09-01",
-            "latitude": 37.85,
-            "name": "ROLLA 7 S, MO US",
-            "datacoverage": 1,
-            "id": "COOP:237267",
-            "elevationUnit": "METERS",
-            "longitude": -91.76667
         },
         {
             "elevation": 292.6,
@@ -3969,7 +3113,7 @@
             "maxdate": "1978-02-01",
             "latitude": 38.01667,
             "name": "ST JAMES 3 NW, MO US",
-            "datacoverage": 0.9742,
+            "datacoverage": 0.0532,
             "id": "COOP:237424",
             "elevationUnit": "METERS",
             "longitude": -91.66667
@@ -4008,17 +3152,6 @@
             "longitude": -94.9233
         },
         {
-            "elevation": 249.3,
-            "mindate": "1948-01-01",
-            "maxdate": "1965-01-01",
-            "latitude": 39.7736,
-            "name": "ST JOSEPH ROSECRANS MEMORIAL AIRPORT, MO US",
-            "datacoverage": 0.9999,
-            "id": "COOP:237440",
-            "elevationUnit": "METERS",
-            "longitude": -94.9233
-        },
-        {
             "elevation": 237.7,
             "mindate": "1965-01-01",
             "maxdate": "1993-01-01",
@@ -4052,17 +3185,6 @@
             "longitude": -90.3736
         },
         {
-            "elevation": 123.1,
-            "mindate": "1948-08-01",
-            "maxdate": "1968-10-01",
-            "latitude": 38.6288,
-            "name": "ST LOUIS EADS BRIDGE, MO US",
-            "datacoverage": 0.9734,
-            "id": "COOP:237460",
-            "elevationUnit": "METERS",
-            "longitude": -90.1797
-        },
-        {
             "elevation": 171,
             "mindate": "1931-01-01",
             "maxdate": "1973-06-01",
@@ -4074,17 +3196,6 @@
             "longitude": -90.23333
         },
         {
-            "elevation": 164.9,
-            "mindate": "1938-06-01",
-            "maxdate": "1959-01-01",
-            "latitude": 38.65,
-            "name": "ST LOUIS WSHNGTN UNI, MO US",
-            "datacoverage": 1,
-            "id": "COOP:237470",
-            "elevationUnit": "METERS",
-            "longitude": -90.31667
-        },
-        {
             "elevation": 168.9,
             "mindate": "1980-01-01",
             "maxdate": "2015-11-01",
@@ -4094,17 +3205,6 @@
             "id": "COOP:237475",
             "elevationUnit": "METERS",
             "longitude": -90.6105
-        },
-        {
-            "elevation": 160.3,
-            "mindate": "1932-01-01",
-            "maxdate": "1949-12-01",
-            "latitude": 38.42167,
-            "name": "ST THOMAS, MO US",
-            "datacoverage": 0.9721,
-            "id": "COOP:237497",
-            "elevationUnit": "METERS",
-            "longitude": -92.20861
         },
         {
             "elevation": 367.3,
@@ -4173,15 +3273,6 @@
             "longitude": -94.62109
         },
         {
-            "mindate": "1931-01-01",
-            "maxdate": "1960-09-01",
-            "latitude": 37.15,
-            "name": "SEYMOUR 1 NNW, MO US",
-            "datacoverage": 0.8656,
-            "id": "COOP:237674",
-            "longitude": -92.76667
-        },
-        {
             "elevation": 227.7,
             "mindate": "1931-01-01",
             "maxdate": "2015-11-01",
@@ -4202,26 +3293,6 @@
             "id": "COOP:237728",
             "elevationUnit": "METERS",
             "longitude": -92.03333
-        },
-        {
-            "mindate": "1940-01-01",
-            "maxdate": "1950-05-01",
-            "latitude": 36.61667,
-            "name": "SHELL KNOB 3 ESE, MO US",
-            "datacoverage": 0.8402,
-            "id": "COOP:237740",
-            "longitude": -93.58333
-        },
-        {
-            "elevation": 92,
-            "mindate": "1931-01-01",
-            "maxdate": "1959-04-01",
-            "latitude": 36.86667,
-            "name": "SIKESTON, MO US",
-            "datacoverage": 0.9941,
-            "id": "COOP:237770",
-            "elevationUnit": "METERS",
-            "longitude": -89.6
         },
         {
             "elevation": 94.5,
@@ -4273,7 +3344,7 @@
             "maxdate": "1976-07-01",
             "latitude": 38.86667,
             "name": "SPEED 2 NW, MO US",
-            "datacoverage": 1,
+            "datacoverage": 0.0368,
             "id": "COOP:237960",
             "elevationUnit": "METERS",
             "longitude": -92.83333
@@ -4295,7 +3366,7 @@
             "maxdate": "2012-01-01",
             "latitude": 36.9838,
             "name": "SPRING CITY, MO US",
-            "datacoverage": 0.9472,
+            "datacoverage": 0.0329,
             "id": "COOP:237967",
             "elevationUnit": "METERS",
             "longitude": -94.5355
@@ -4387,15 +3458,6 @@
             "id": "COOP:238112",
             "elevationUnit": "METERS",
             "longitude": -92.995
-        },
-        {
-            "mindate": "1948-01-01",
-            "maxdate": "1950-04-01",
-            "latitude": 36.53333,
-            "name": "SUGAR CAMP LOOKOUT, MO US",
-            "datacoverage": 0.465,
-            "id": "COOP:238160",
-            "longitude": -93.83333
         },
         {
             "elevation": 279.2,
@@ -4497,17 +3559,6 @@
             "longitude": -92.2617
         },
         {
-            "elevation": 335.9,
-            "mindate": "1940-02-01",
-            "maxdate": "1969-06-01",
-            "latitude": 36.96667,
-            "name": "TOPAZ 4 NE, MO US",
-            "datacoverage": 0.9746,
-            "id": "COOP:238412",
-            "elevationUnit": "METERS",
-            "longitude": -92.2
-        },
-        {
             "elevation": 255.1,
             "mindate": "1931-01-01",
             "maxdate": "2015-11-01",
@@ -4546,7 +3597,7 @@
             "maxdate": "1978-01-01",
             "latitude": 37.23333,
             "name": "TYRONE 2 NNW, MO US",
-            "datacoverage": 1,
+            "datacoverage": 0.0535,
             "id": "COOP:238498",
             "elevationUnit": "METERS",
             "longitude": -91.88333
@@ -4673,15 +3724,6 @@
             "longitude": -92.2058
         },
         {
-            "mindate": "1941-10-01",
-            "maxdate": "1959-12-01",
-            "latitude": 36.93333,
-            "name": "VANZANT 4 SE, MO US",
-            "datacoverage": 0.9863,
-            "id": "COOP:238585",
-            "longitude": -92.26667
-        },
-        {
             "elevation": 305.7,
             "mindate": "1932-01-01",
             "maxdate": "2015-11-01",
@@ -4704,17 +3746,6 @@
             "longitude": -91.1336
         },
         {
-            "elevation": 317,
-            "mindate": "1948-08-01",
-            "maxdate": "1959-10-01",
-            "latitude": 38.08333,
-            "name": "VICHY 2 SE, MO US",
-            "datacoverage": 1,
-            "id": "COOP:238612",
-            "elevationUnit": "METERS",
-            "longitude": -91.73333
-        },
-        {
             "elevation": 338.3,
             "mindate": "1943-07-01",
             "maxdate": "2015-11-01",
@@ -4735,17 +3766,6 @@
             "id": "COOP:238620",
             "elevationUnit": "METERS",
             "longitude": -91.9811
-        },
-        {
-            "elevation": 182.9,
-            "mindate": "1948-08-01",
-            "maxdate": "1958-07-01",
-            "latitude": 38.5,
-            "name": "VILLA RIDGE 2 NW, MO US",
-            "datacoverage": 0.9742,
-            "id": "COOP:238630",
-            "elevationUnit": "METERS",
-            "longitude": -90.91667
         },
         {
             "elevation": 274,
@@ -4781,15 +3801,6 @@
             "longitude": -93.8008
         },
         {
-            "mindate": "1948-08-01",
-            "maxdate": "1953-04-01",
-            "latitude": 38.75,
-            "name": "WARRENSBURG 4 E, MO US",
-            "datacoverage": 1,
-            "id": "COOP:238717",
-            "longitude": -93.65
-        },
-        {
             "elevation": 252.1,
             "mindate": "1931-01-01",
             "maxdate": "2015-11-01",
@@ -4808,17 +3819,6 @@
             "name": "WARSAW 1, MO US",
             "datacoverage": 0.9891,
             "id": "COOP:238733",
-            "elevationUnit": "METERS",
-            "longitude": -93.36667
-        },
-        {
-            "elevation": 192,
-            "mindate": "1931-01-01",
-            "maxdate": "1960-10-01",
-            "latitude": 38.25,
-            "name": "WARSAW 2, MO US",
-            "datacoverage": 0.7737,
-            "id": "COOP:238738",
             "elevationUnit": "METERS",
             "longitude": -93.36667
         },
@@ -4900,17 +3900,6 @@
             "longitude": -90.36667
         },
         {
-            "elevation": 253,
-            "mindate": "1940-06-01",
-            "maxdate": "1964-02-01",
-            "latitude": 37.88333,
-            "name": "WEINGARTEN, MO US",
-            "datacoverage": 0.9369,
-            "id": "COOP:238799",
-            "elevationUnit": "METERS",
-            "longitude": -90.21667
-        },
-        {
             "elevation": 185.9,
             "mindate": "1957-06-01",
             "maxdate": "2015-11-01",
@@ -4944,17 +3933,6 @@
             "longitude": -91.87357
         },
         {
-            "elevation": 182.9,
-            "mindate": "1949-05-01",
-            "maxdate": "1949-10-01",
-            "latitude": 38.45,
-            "name": "WESTPHALIA, MO US",
-            "datacoverage": 0.9925,
-            "id": "COOP:238882",
-            "elevationUnit": "METERS",
-            "longitude": -92
-        },
-        {
             "elevation": 349.9,
             "mindate": "1996-05-01",
             "maxdate": "2015-11-01",
@@ -4964,17 +3942,6 @@
             "id": "COOP:238910",
             "elevationUnit": "METERS",
             "longitude": -91.76333
-        },
-        {
-            "elevation": 249.9,
-            "mindate": "1948-11-01",
-            "maxdate": "1954-08-01",
-            "latitude": 38.91667,
-            "name": "WILLIAMSBURG 2 WSW, MO US",
-            "datacoverage": 0.944,
-            "id": "COOP:238960",
-            "elevationUnit": "METERS",
-            "longitude": -91.75
         },
         {
             "elevation": 155.4,
@@ -5004,7 +3971,7 @@
             "maxdate": "1973-10-01",
             "latitude": 36.98333,
             "name": "WILLOW SPRGS FOREST, MO US",
-            "datacoverage": 0.9479,
+            "datacoverage": 0.0523,
             "id": "COOP:239000",
             "elevationUnit": "METERS",
             "longitude": -91.98333
@@ -5041,15 +4008,6 @@
             "id": "COOP:239056",
             "elevationUnit": "METERS",
             "longitude": -91.38456
-        },
-        {
-            "mindate": "1938-07-01",
-            "maxdate": "1948-01-01",
-            "latitude": 37,
-            "name": "WINONA RANGER STATION, MO US",
-            "datacoverage": 0.9126,
-            "id": "COOP:239059",
-            "longitude": -91.33333
         },
         {
             "elevation": 128,
@@ -10924,6 +9882,1128 @@
             "id": "GHCND:US1MOMA0005",
             "elevationUnit": "METERS",
             "longitude": -91.564134
+        },
+        {
+            "elevation": 224.6,
+            "mindate": "2015-10-01",
+            "maxdate": "2020-05-14",
+            "latitude": 39.657749,
+            "name": "MONROE CITY 0.3 NW, MO US",
+            "datacoverage": 0.998,
+            "id": "GHCND:US1MOMA0007",
+            "elevationUnit": "METERS",
+            "longitude": -91.736704
+        },
+        {
+            "elevation": 287.1,
+            "mindate": "2006-06-01",
+            "maxdate": "2011-11-08",
+            "latitude": 39.909572,
+            "name": "ETHEL 1.4 NW, MO US",
+            "datacoverage": 0.6969,
+            "id": "GHCND:US1MOMC0001",
+            "elevationUnit": "METERS",
+            "longitude": -92.757254
+        },
+        {
+            "elevation": 240.8,
+            "mindate": "2012-08-01",
+            "maxdate": "2020-05-17",
+            "latitude": 39.789509,
+            "name": "MACON 4.6 NE, MO US",
+            "datacoverage": 1,
+            "id": "GHCND:US1MOMC0002",
+            "elevationUnit": "METERS",
+            "longitude": -92.413763
+        },
+        {
+            "elevation": 267.6,
+            "mindate": "2014-06-01",
+            "maxdate": "2018-07-30",
+            "latitude": 39.744154,
+            "name": "MACON 0.4 NNW, MO US",
+            "datacoverage": 0.9994,
+            "id": "GHCND:US1MOMC0004",
+            "elevationUnit": "METERS",
+            "longitude": -92.473537
+        },
+        {
+            "elevation": 259.1,
+            "mindate": "2007-06-01",
+            "maxdate": "2020-05-17",
+            "latitude": 36.5921,
+            "name": "NOEL 3.8 NNE, MO US",
+            "datacoverage": 0.9998,
+            "id": "GHCND:US1MOMD0001",
+            "elevationUnit": "METERS",
+            "longitude": -94.4507
+        },
+        {
+            "elevation": 324,
+            "mindate": "2007-07-01",
+            "maxdate": "2017-12-21",
+            "latitude": 36.5952,
+            "name": "NOEL 3.7 NNW, MO US",
+            "datacoverage": 0.6731,
+            "id": "GHCND:US1MOMD0002",
+            "elevationUnit": "METERS",
+            "longitude": -94.508
+        },
+        {
+            "elevation": 271.6,
+            "mindate": "2013-10-01",
+            "maxdate": "2020-05-17",
+            "latitude": 36.66226389,
+            "name": "ANDERSON 6.8 W, MO US",
+            "datacoverage": 1,
+            "id": "GHCND:US1MOMD0005",
+            "elevationUnit": "METERS",
+            "longitude": -94.57025278
+        },
+        {
+            "elevation": 332.8,
+            "mindate": "2014-08-01",
+            "maxdate": "2017-05-04",
+            "latitude": 36.694889,
+            "name": "GOODMAN 3.2 SSW, MO US",
+            "datacoverage": 0.4113,
+            "id": "GHCND:US1MOMD0006",
+            "elevationUnit": "METERS",
+            "longitude": -94.431095
+        },
+        {
+            "elevation": 249,
+            "mindate": "2006-06-01",
+            "maxdate": "2008-02-21",
+            "latitude": 39.47349,
+            "name": "MADISON 0.1 WNW, MO US",
+            "datacoverage": 1,
+            "id": "GHCND:US1MOME0001",
+            "elevationUnit": "METERS",
+            "longitude": -92.213594
+        },
+        {
+            "elevation": 211.2,
+            "mindate": "2011-10-01",
+            "maxdate": "2019-02-04",
+            "latitude": 39.37917,
+            "name": "SANTA FE 1.4 WNW, MO US",
+            "datacoverage": 0.9998,
+            "id": "GHCND:US1MOME0004",
+            "elevationUnit": "METERS",
+            "longitude": -91.8413
+        },
+        {
+            "elevation": 217.6,
+            "mindate": "2011-10-01",
+            "maxdate": "2015-08-28",
+            "latitude": 39.562609,
+            "name": "PARIS 7.6 NW, MO US",
+            "datacoverage": 1,
+            "id": "GHCND:US1MOME0005",
+            "elevationUnit": "METERS",
+            "longitude": -92.093861
+        },
+        {
+            "elevation": 201.5,
+            "mindate": "2013-08-01",
+            "maxdate": "2017-12-22",
+            "latitude": 38.269027,
+            "name": "GRAVOIS MILLS 3.7 SE, MO US",
+            "datacoverage": 0.8125,
+            "id": "GHCND:US1MOMG0003",
+            "elevationUnit": "METERS",
+            "longitude": -92.778766
+        },
+        {
+            "elevation": 325.8,
+            "mindate": "2016-07-09",
+            "maxdate": "2020-05-17",
+            "latitude": 38.461993,
+            "name": "STOVER 2.3 NW, MO US",
+            "datacoverage": 1,
+            "id": "GHCND:US1MOMG0005",
+            "elevationUnit": "METERS",
+            "longitude": -93.023924
+        },
+        {
+            "elevation": 306,
+            "mindate": "2018-12-01",
+            "maxdate": "2020-05-17",
+            "latitude": 38.39807,
+            "name": "STOVER 3.2 SSE, MO US",
+            "datacoverage": 1,
+            "id": "GHCND:US1MOMG0006",
+            "elevationUnit": "METERS",
+            "longitude": -92.970118
+        },
+        {
+            "elevation": 271.9,
+            "mindate": "2006-08-01",
+            "maxdate": "2020-05-17",
+            "latitude": 38.3861,
+            "name": "ELDON 3.8 NW, MO US",
+            "datacoverage": 0.9999,
+            "id": "GHCND:US1MOML0001",
+            "elevationUnit": "METERS",
+            "longitude": -92.6308
+        },
+        {
+            "elevation": 255.1,
+            "mindate": "2007-03-01",
+            "maxdate": "2014-01-11",
+            "latitude": 38.14792,
+            "name": "IBERIA 6.6 NE, MO US",
+            "datacoverage": 0.7221,
+            "id": "GHCND:US1MOML0002",
+            "elevationUnit": "METERS",
+            "longitude": -92.19889
+        },
+        {
+            "elevation": 222.5,
+            "mindate": "2009-06-01",
+            "maxdate": "2011-07-13",
+            "latitude": 38.23523,
+            "name": "ROCKY MOUNT 3.0 SE, MO US",
+            "datacoverage": 0.962,
+            "id": "GHCND:US1MOML0003",
+            "elevationUnit": "METERS",
+            "longitude": -92.6884
+        },
+        {
+            "elevation": 210.6,
+            "mindate": "2014-10-01",
+            "maxdate": "2020-05-14",
+            "latitude": 38.233705,
+            "name": "TUSCUMBIA 0.1 S, MO US",
+            "datacoverage": 0.9998,
+            "id": "GHCND:US1MOML0004",
+            "elevationUnit": "METERS",
+            "longitude": -92.459785
+        },
+        {
+            "elevation": 93.3,
+            "mindate": "2008-04-01",
+            "maxdate": "2009-09-20",
+            "latitude": 36.908339,
+            "name": "BERTRAND 0.5 W, MO US",
+            "datacoverage": 1,
+            "id": "GHCND:US1MOMP0002",
+            "elevationUnit": "METERS",
+            "longitude": -89.458008
+        },
+        {
+            "elevation": 334.1,
+            "mindate": "2009-12-01",
+            "maxdate": "2013-04-17",
+            "latitude": 40.557,
+            "name": "MERCER 5.2 NE, MO US",
+            "datacoverage": 0.8299,
+            "id": "GHCND:US1MOMR0001",
+            "elevationUnit": "METERS",
+            "longitude": -93.4506
+        },
+        {
+            "elevation": 292.9,
+            "mindate": "2015-09-01",
+            "maxdate": "2019-05-28",
+            "latitude": 40.393215,
+            "name": "PRINCETON 0.4 SE, MO US",
+            "datacoverage": 1,
+            "id": "GHCND:US1MOMR0002",
+            "elevationUnit": "METERS",
+            "longitude": -93.581594
+        },
+        {
+            "elevation": 291.1,
+            "mindate": "2006-08-01",
+            "maxdate": "2007-09-26",
+            "latitude": 38.2167,
+            "name": "BELLE 4.9 SSW, MO US",
+            "datacoverage": 1,
+            "id": "GHCND:US1MOMS0001",
+            "elevationUnit": "METERS",
+            "longitude": -91.7417
+        },
+        {
+            "elevation": 305.1,
+            "mindate": "2015-03-01",
+            "maxdate": "2019-10-30",
+            "latitude": 38.2265143096447,
+            "name": "BELLE 4.4 SSE, MO US",
+            "datacoverage": 0.9967,
+            "id": "GHCND:US1MOMS0002",
+            "elevationUnit": "METERS",
+            "longitude": -91.6910100728273
+        },
+        {
+            "elevation": 306.6,
+            "mindate": "1998-06-17",
+            "maxdate": "2020-01-12",
+            "latitude": 38.0078048706055,
+            "name": "DIXON 1.2 NE, MO US",
+            "datacoverage": 1,
+            "id": "GHCND:US1MOMS0003",
+            "elevationUnit": "METERS",
+            "longitude": -92.0810241699219
+        },
+        {
+            "elevation": 301.8,
+            "mindate": "2018-08-01",
+            "maxdate": "2020-05-16",
+            "latitude": 38.038395,
+            "name": "DIXON 5.2 NE, MO US",
+            "datacoverage": 1,
+            "id": "GHCND:US1MOMS0006",
+            "elevationUnit": "METERS",
+            "longitude": -92.017987
+        },
+        {
+            "elevation": 264.9,
+            "mindate": "2006-05-01",
+            "maxdate": "2009-01-13",
+            "latitude": 38.558249,
+            "name": "CALIFORNIA 5.4 SSW, MO US",
+            "datacoverage": 0.9975,
+            "id": "GHCND:US1MOMT0001",
+            "elevationUnit": "METERS",
+            "longitude": -92.602703
+        },
+        {
+            "elevation": 271,
+            "mindate": "2006-11-01",
+            "maxdate": "2007-05-20",
+            "latitude": 38.63286,
+            "name": "CALIFORNIA 0.1 NE, MO US",
+            "datacoverage": 1,
+            "id": "GHCND:US1MOMT0002",
+            "elevationUnit": "METERS",
+            "longitude": -92.565556
+        },
+        {
+            "elevation": 239.9,
+            "mindate": "2014-10-01",
+            "maxdate": "2020-05-17",
+            "latitude": 38.668514251709,
+            "name": "CALIFORNIA 4.1 NE, MO US",
+            "datacoverage": 0.9998,
+            "id": "GHCND:US1MOMT0004",
+            "elevationUnit": "METERS",
+            "longitude": -92.5075988769531
+        },
+        {
+            "elevation": 175.6,
+            "mindate": "2015-12-09",
+            "maxdate": "2020-05-17",
+            "latitude": 38.847267,
+            "name": "LUPUS 0.1 NE, MO US",
+            "datacoverage": 0.7546,
+            "id": "GHCND:US1MOMT0005",
+            "elevationUnit": "METERS",
+            "longitude": -92.452477
+        },
+        {
+            "elevation": 255.4,
+            "mindate": "2016-03-20",
+            "maxdate": "2018-04-15",
+            "latitude": 38.779759,
+            "name": "JAMESTOWN 2.7 WNW, MO US",
+            "datacoverage": 1,
+            "id": "GHCND:US1MOMT0006",
+            "elevationUnit": "METERS",
+            "longitude": -92.523813
+        },
+        {
+            "elevation": 246,
+            "mindate": "2007-03-01",
+            "maxdate": "2007-10-03",
+            "latitude": 39.093449,
+            "name": "WELLSVILLE 2.4 NE, MO US",
+            "datacoverage": 0.998,
+            "id": "GHCND:US1MOMY0001",
+            "elevationUnit": "METERS",
+            "longitude": -91.530587
+        },
+        {
+            "elevation": 246.3,
+            "mindate": "2010-10-01",
+            "maxdate": "2020-05-17",
+            "latitude": 39.0922274,
+            "name": "MIDDLETOWN 3.5 SW, MO US",
+            "datacoverage": 1,
+            "id": "GHCND:US1MOMY0002",
+            "elevationUnit": "METERS",
+            "longitude": -91.461289
+        },
+        {
+            "elevation": 275.5,
+            "mindate": "2014-03-01",
+            "maxdate": "2019-01-07",
+            "latitude": 38.7526208907366,
+            "name": "RHINELAND 5.9 WNW, MO US",
+            "datacoverage": 0.9986,
+            "id": "GHCND:US1MOMY0003",
+            "elevationUnit": "METERS",
+            "longitude": -91.6169945150614
+        },
+        {
+            "elevation": 224.9,
+            "mindate": "2014-09-01",
+            "maxdate": "2015-02-27",
+            "latitude": 39.049585,
+            "name": "BELLFLOWER 3.8 NW, MO US",
+            "datacoverage": 1,
+            "id": "GHCND:US1MOMY0005",
+            "elevationUnit": "METERS",
+            "longitude": -91.392359
+        },
+        {
+            "elevation": 257.6,
+            "mindate": "2015-09-27",
+            "maxdate": "2020-05-17",
+            "latitude": 38.9045264571905,
+            "name": "HIGH HILL 2.0 N, MO US",
+            "datacoverage": 0.272,
+            "id": "GHCND:US1MOMY0006",
+            "elevationUnit": "METERS",
+            "longitude": -91.3690236210823
+        },
+        {
+            "elevation": 317,
+            "mindate": "2006-06-01",
+            "maxdate": "2020-05-17",
+            "latitude": 40.265746,
+            "name": "CONCEPTION JUNCTION 0.3 SE, MO US",
+            "datacoverage": 0.9999,
+            "id": "GHCND:US1MOND0002",
+            "elevationUnit": "METERS",
+            "longitude": -94.687196
+        },
+        {
+            "elevation": 332.8,
+            "mindate": "2006-06-01",
+            "maxdate": "2010-04-24",
+            "latitude": 40.259,
+            "name": "ARKOE 1.5 W, MO US",
+            "datacoverage": 0.7024,
+            "id": "GHCND:US1MOND0003",
+            "elevationUnit": "METERS",
+            "longitude": -94.8581
+        },
+        {
+            "elevation": 366.1,
+            "mindate": "2007-10-01",
+            "maxdate": "2020-05-17",
+            "latitude": 40.53581,
+            "name": "HOPKINS 3.9 WSW, MO US",
+            "datacoverage": 0.9999,
+            "id": "GHCND:US1MOND0006",
+            "elevationUnit": "METERS",
+            "longitude": -94.887882
+        },
+        {
+            "elevation": 339.9,
+            "mindate": "2011-04-01",
+            "maxdate": "2018-10-10",
+            "latitude": 40.3276918,
+            "name": "MARYVILLE 4.0 ESE, MO US",
+            "datacoverage": 0.7676,
+            "id": "GHCND:US1MOND0008",
+            "elevationUnit": "METERS",
+            "longitude": -94.7986182
+        },
+        {
+            "elevation": 79.9,
+            "mindate": "2007-04-01",
+            "maxdate": "2013-12-14",
+            "latitude": 36.424675,
+            "name": "GIDEON 2.1 SSW, MO US",
+            "datacoverage": 1,
+            "id": "GHCND:US1MONM0001",
+            "elevationUnit": "METERS",
+            "longitude": -89.929664
+        },
+        {
+            "elevation": 83.8,
+            "mindate": "2015-10-30",
+            "maxdate": "2017-08-06",
+            "latitude": 36.489200592041,
+            "name": "PORTAGEVILLE 4.2 N, MO US",
+            "datacoverage": 0.9784,
+            "id": "GHCND:US1MONM0005",
+            "elevationUnit": "METERS",
+            "longitude": -89.7017288208008
+        },
+        {
+            "elevation": 91.7,
+            "mindate": "2016-12-14",
+            "maxdate": "2020-05-11",
+            "latitude": 36.587109,
+            "name": "NEW MADRID 0.2 SE, MO US",
+            "datacoverage": 0.5004,
+            "id": "GHCND:US1MONM0007",
+            "elevationUnit": "METERS",
+            "longitude": -89.545051
+        },
+        {
+            "elevation": 92,
+            "mindate": "2019-04-18",
+            "maxdate": "2019-11-23",
+            "latitude": 36.597898,
+            "name": "NEW MADRID 1.1 ENE, MO US",
+            "datacoverage": 0.9925,
+            "id": "GHCND:US1MONM0008",
+            "elevationUnit": "METERS",
+            "longitude": -89.532166
+        },
+        {
+            "elevation": 312.1,
+            "mindate": "2006-02-01",
+            "maxdate": "2015-11-30",
+            "latitude": 37.050341,
+            "name": "IRON GATES 0.9 S, MO US",
+            "datacoverage": 0.7122,
+            "id": "GHCND:US1MONW0001",
+            "elevationUnit": "METERS",
+            "longitude": -94.556514
+        },
+        {
+            "elevation": 301.1,
+            "mindate": "2006-03-01",
+            "maxdate": "2020-05-17",
+            "latitude": 37.016871,
+            "name": "SHOAL CREEK ESTATES 0.2 SE, MO US",
+            "datacoverage": 0.9997,
+            "id": "GHCND:US1MONW0004",
+            "elevationUnit": "METERS",
+            "longitude": -94.492491
+        },
+        {
+            "elevation": 378,
+            "mindate": "2008-08-01",
+            "maxdate": "2015-01-04",
+            "latitude": 36.801113,
+            "name": "NEOSHO 3.2 SSW, MO US",
+            "datacoverage": 0.9996,
+            "id": "GHCND:US1MONW0013",
+            "elevationUnit": "METERS",
+            "longitude": -94.396153
+        },
+        {
+            "elevation": 311.5,
+            "mindate": "2011-01-01",
+            "maxdate": "2017-01-01",
+            "latitude": 37.047537,
+            "name": "JOPLIN 2.8 SSW, MO US",
+            "datacoverage": 1,
+            "id": "GHCND:US1MONW0014",
+            "elevationUnit": "METERS",
+            "longitude": -94.5361977
+        },
+        {
+            "elevation": 314.6,
+            "mindate": "2011-01-01",
+            "maxdate": "2011-05-21",
+            "latitude": 37.04111111,
+            "name": "JOPLIN 3.0 S, MO US",
+            "datacoverage": 1,
+            "id": "GHCND:US1MONW0015",
+            "elevationUnit": "METERS",
+            "longitude": -94.51888889
+        },
+        {
+            "elevation": 263.7,
+            "mindate": "2011-02-01",
+            "maxdate": "2020-05-17",
+            "latitude": 37.037586,
+            "name": "JOPLIN 4.2 SW, MO US",
+            "datacoverage": 1,
+            "id": "GHCND:US1MONW0017",
+            "elevationUnit": "METERS",
+            "longitude": -94.562028
+        },
+        {
+            "elevation": 331.6,
+            "mindate": "2011-03-01",
+            "maxdate": "2017-10-27",
+            "latitude": 37.0184466,
+            "name": "JOPLIN 5.2 SSW, MO US",
+            "datacoverage": 0.9992,
+            "id": "GHCND:US1MONW0018",
+            "elevationUnit": "METERS",
+            "longitude": -94.5594976
+        },
+        {
+            "elevation": 349.6,
+            "mindate": "2013-05-01",
+            "maxdate": "2020-05-15",
+            "latitude": 36.892347,
+            "name": "STARK CITY 5.5 ENE, MO US",
+            "datacoverage": 0.9994,
+            "id": "GHCND:US1MONW0019",
+            "elevationUnit": "METERS",
+            "longitude": -94.097773
+        },
+        {
+            "elevation": 193.9,
+            "mindate": "2006-07-01",
+            "maxdate": "2007-03-04",
+            "latitude": 36.559094,
+            "name": "THAYER 2.8 NNE, MO US",
+            "datacoverage": 0.9998,
+            "id": "GHCND:US1MOOR0001",
+            "elevationUnit": "METERS",
+            "longitude": -91.515467
+        },
+        {
+            "elevation": 295,
+            "mindate": "2008-04-01",
+            "maxdate": "2015-01-03",
+            "latitude": 36.6893,
+            "name": "ALTON 3.4 W, MO US",
+            "datacoverage": 0.6096,
+            "id": "GHCND:US1MOOR0005",
+            "elevationUnit": "METERS",
+            "longitude": -91.4594
+        },
+        {
+            "elevation": 306.6,
+            "mindate": "2008-04-01",
+            "maxdate": "2008-10-03",
+            "latitude": 36.7733,
+            "name": "PEACE VALLEY 8.0 SW, MO US",
+            "datacoverage": 0.9956,
+            "id": "GHCND:US1MOOR0006",
+            "elevationUnit": "METERS",
+            "longitude": -91.6723
+        },
+        {
+            "elevation": 260.6,
+            "mindate": "2009-03-01",
+            "maxdate": "2010-05-30",
+            "latitude": 36.73315,
+            "name": "ALTON 5.6 ENE, MO US",
+            "datacoverage": 1,
+            "id": "GHCND:US1MOOR0008",
+            "elevationUnit": "METERS",
+            "longitude": -91.31
+        },
+        {
+            "elevation": 207.6,
+            "mindate": "2010-02-01",
+            "maxdate": "2015-11-17",
+            "latitude": 36.5517,
+            "name": "THAYER 1.9 NNW, MO US",
+            "datacoverage": 0.4575,
+            "id": "GHCND:US1MOOR0009",
+            "elevationUnit": "METERS",
+            "longitude": -91.5494
+        },
+        {
+            "elevation": 287.1,
+            "mindate": "2010-12-01",
+            "maxdate": "2013-02-25",
+            "latitude": 36.716441,
+            "name": "ALTON 4.8 WNW, MO US",
+            "datacoverage": 1,
+            "id": "GHCND:US1MOOR0011",
+            "elevationUnit": "METERS",
+            "longitude": -91.481759
+        },
+        {
+            "elevation": 278,
+            "mindate": "2001-10-01",
+            "maxdate": "2014-03-27",
+            "latitude": 36.736081,
+            "name": "ALTON 3.0 NNE, MO US",
+            "datacoverage": 0.8658,
+            "id": "GHCND:US1MOOR0013",
+            "elevationUnit": "METERS",
+            "longitude": -91.387931
+        },
+        {
+            "elevation": 182,
+            "mindate": "2011-03-01",
+            "maxdate": "2012-11-13",
+            "latitude": 36.792,
+            "name": "ALTON 6.9 N, MO US",
+            "datacoverage": 0.9972,
+            "id": "GHCND:US1MOOR0014",
+            "elevationUnit": "METERS",
+            "longitude": -91.42
+        },
+        {
+            "elevation": 253,
+            "mindate": "2011-03-01",
+            "maxdate": "2011-09-26",
+            "latitude": 36.7489951,
+            "name": "ALTON 6.6 NW, MO US",
+            "datacoverage": 0.9956,
+            "id": "GHCND:US1MOOR0015",
+            "elevationUnit": "METERS",
+            "longitude": -91.4953502
+        },
+        {
+            "elevation": 165.5,
+            "mindate": "2011-03-01",
+            "maxdate": "2011-08-31",
+            "latitude": 36.5184614,
+            "name": "MYRTLE 2.6 NE, MO US",
+            "datacoverage": 0.9925,
+            "id": "GHCND:US1MOOR0017",
+            "elevationUnit": "METERS",
+            "longitude": -91.2221421
+        },
+        {
+            "elevation": 249.6,
+            "mindate": "2011-03-01",
+            "maxdate": "2018-03-28",
+            "latitude": 36.6846,
+            "name": "ALTON 2.9 ESE, MO US",
+            "datacoverage": 0.6225,
+            "id": "GHCND:US1MOOR0018",
+            "elevationUnit": "METERS",
+            "longitude": -91.34694
+        },
+        {
+            "elevation": 295,
+            "mindate": "2011-03-01",
+            "maxdate": "2017-12-22",
+            "latitude": 36.854961,
+            "name": "BIRCH TREE 10.1 SSW, MO US",
+            "datacoverage": 0.9947,
+            "id": "GHCND:US1MOOR0019",
+            "elevationUnit": "METERS",
+            "longitude": -91.558645
+        },
+        {
+            "elevation": 243.2,
+            "mindate": "2011-03-01",
+            "maxdate": "2015-01-12",
+            "latitude": 36.678889,
+            "name": "ALTON 7.2 E, MO US",
+            "datacoverage": 0.999,
+            "id": "GHCND:US1MOOR0020",
+            "elevationUnit": "METERS",
+            "longitude": -91.270025
+        },
+        {
+            "elevation": 170.7,
+            "mindate": "2012-01-01",
+            "maxdate": "2020-04-27",
+            "latitude": 36.508215,
+            "name": "MYRTLE 0.3 E, MO US",
+            "datacoverage": 1,
+            "id": "GHCND:US1MOOR0023",
+            "elevationUnit": "METERS",
+            "longitude": -91.261333
+        },
+        {
+            "elevation": 267.6,
+            "mindate": "2014-02-24",
+            "maxdate": "2020-05-14",
+            "latitude": 38.486,
+            "name": "LINN 0.5 NW, MO US",
+            "datacoverage": 0.0876,
+            "id": "GHCND:US1MOOS0003",
+            "elevationUnit": "METERS",
+            "longitude": -91.8517
+        },
+        {
+            "elevation": 165.2,
+            "mindate": "2014-03-01",
+            "maxdate": "2015-11-24",
+            "latitude": 38.670423,
+            "name": "CHAMOIS 0.5 SSW, MO US",
+            "datacoverage": 0.9988,
+            "id": "GHCND:US1MOOS0005",
+            "elevationUnit": "METERS",
+            "longitude": -91.77263
+        },
+        {
+            "elevation": 164,
+            "mindate": "2017-01-01",
+            "maxdate": "2019-12-26",
+            "latitude": 38.6729,
+            "name": "CHAMOIS 0.9 WSW, MO US",
+            "datacoverage": 0.6395,
+            "id": "GHCND:US1MOOS0007",
+            "elevationUnit": "METERS",
+            "longitude": -91.78522
+        },
+        {
+            "elevation": 227.4,
+            "mindate": "2018-09-21",
+            "maxdate": "2020-05-15",
+            "latitude": 38.365719,
+            "name": "META 4.5 NE, MO US",
+            "datacoverage": 0.9519,
+            "id": "GHCND:US1MOOS0009",
+            "elevationUnit": "METERS",
+            "longitude": -92.119795
+        },
+        {
+            "elevation": 277.1,
+            "mindate": "2018-10-16",
+            "maxdate": "2020-05-15",
+            "latitude": 38.3389,
+            "name": "WESTPHALIA 10.3 SW, MO US",
+            "datacoverage": 0.946,
+            "id": "GHCND:US1MOOS0010",
+            "elevationUnit": "METERS",
+            "longitude": -92.1385
+        },
+        {
+            "elevation": 281.9,
+            "mindate": "2006-06-01",
+            "maxdate": "2013-04-25",
+            "latitude": 36.67601,
+            "name": "GAINESVILLE 8.2 NE, MO US",
+            "datacoverage": 1,
+            "id": "GHCND:US1MOOZ0001",
+            "elevationUnit": "METERS",
+            "longitude": -92.30365
+        },
+        {
+            "elevation": 218.8,
+            "mindate": "2006-07-01",
+            "maxdate": "2020-04-29",
+            "latitude": 36.5245,
+            "name": "THEODOSIA 6.2 SW, MO US",
+            "datacoverage": 0.752,
+            "id": "GHCND:US1MOOZ0002",
+            "elevationUnit": "METERS",
+            "longitude": -92.752
+        },
+        {
+            "elevation": 374.9,
+            "mindate": "2006-09-01",
+            "maxdate": "2015-07-23",
+            "latitude": 36.776214,
+            "name": "AVA 13.6 SSE, MO US",
+            "datacoverage": 1,
+            "id": "GHCND:US1MOOZ0003",
+            "elevationUnit": "METERS",
+            "longitude": -92.557652
+        },
+        {
+            "elevation": 241.4,
+            "mindate": "2012-04-01",
+            "maxdate": "2013-12-24",
+            "latitude": 36.586042,
+            "name": "TECUMSEH 1.1 WSW, MO US",
+            "datacoverage": 0.9036,
+            "id": "GHCND:US1MOOZ0007",
+            "elevationUnit": "METERS",
+            "longitude": -92.305297
+        },
+        {
+            "elevation": 282.9,
+            "mindate": "2012-09-01",
+            "maxdate": "2019-02-20",
+            "latitude": 36.60725,
+            "name": "ISABELLA 2.0 NNW, MO US",
+            "datacoverage": 0.9774,
+            "id": "GHCND:US1MOOZ0008",
+            "elevationUnit": "METERS",
+            "longitude": -92.621931
+        },
+        {
+            "elevation": 324,
+            "mindate": "2006-02-01",
+            "maxdate": "2009-05-09",
+            "latitude": 37.97897,
+            "name": "ROLLA 3.0 N, MO US",
+            "datacoverage": 0.851,
+            "id": "GHCND:US1MOPH0002",
+            "elevationUnit": "METERS",
+            "longitude": -91.76459
+        },
+        {
+            "elevation": 328,
+            "mindate": "2006-05-01",
+            "maxdate": "2014-05-27",
+            "latitude": 37.957548,
+            "name": "ROLLA 0.7 NNE, MO US",
+            "datacoverage": 0.9586,
+            "id": "GHCND:US1MOPH0003",
+            "elevationUnit": "METERS",
+            "longitude": -91.759902
+        },
+        {
+            "elevation": 307.8,
+            "mindate": "2008-03-01",
+            "maxdate": "2010-01-02",
+            "latitude": 37.929145,
+            "name": "ROLLA 5.0 WSW, MO US",
+            "datacoverage": 0.9972,
+            "id": "GHCND:US1MOPH0005",
+            "elevationUnit": "METERS",
+            "longitude": -91.854347
+        },
+        {
+            "elevation": 372.8,
+            "mindate": "2009-02-01",
+            "maxdate": "2016-10-01",
+            "latitude": 37.670234,
+            "name": "EDGAR SPRINGS 2.2 SSW, MO US",
+            "datacoverage": 1,
+            "id": "GHCND:US1MOPH0009",
+            "elevationUnit": "METERS",
+            "longitude": -91.873856
+        },
+        {
+            "elevation": 262.7,
+            "mindate": "2009-02-01",
+            "maxdate": "2020-05-15",
+            "latitude": 38.0308,
+            "name": "ROLLA 6.4 NNW, MO US",
+            "datacoverage": 0.989,
+            "id": "GHCND:US1MOPH0010",
+            "elevationUnit": "METERS",
+            "longitude": -91.8198
+        },
+        {
+            "elevation": 321,
+            "mindate": "2009-05-01",
+            "maxdate": "2014-02-17",
+            "latitude": 37.9508181,
+            "name": "ROLLA 3.6 E, MO US",
+            "datacoverage": 1,
+            "id": "GHCND:US1MOPH0012",
+            "elevationUnit": "METERS",
+            "longitude": -91.7002567
+        },
+        {
+            "elevation": 343.8,
+            "mindate": "2009-09-01",
+            "maxdate": "2020-05-17",
+            "latitude": 37.8314357,
+            "name": "ROLLA 8.1 S, MO US",
+            "datacoverage": 1,
+            "id": "GHCND:US1MOPH0013",
+            "elevationUnit": "METERS",
+            "longitude": -91.7559255
+        },
+        {
+            "elevation": 329.2,
+            "mindate": "2009-09-01",
+            "maxdate": "2012-02-03",
+            "latitude": 37.844871,
+            "name": "ROLLA 9.9 SE, MO US",
+            "datacoverage": 0.9996,
+            "id": "GHCND:US1MOPH0014",
+            "elevationUnit": "METERS",
+            "longitude": -91.641723
+        },
+        {
+            "elevation": 341.1,
+            "mindate": "2009-09-01",
+            "maxdate": "2020-01-03",
+            "latitude": 37.9292,
+            "name": "ROLLA 1.3 S, MO US",
+            "datacoverage": 1,
+            "id": "GHCND:US1MOPH0015",
+            "elevationUnit": "METERS",
+            "longitude": -91.7648
+        },
+        {
+            "elevation": 330.4,
+            "mindate": "2009-10-01",
+            "maxdate": "2020-05-17",
+            "latitude": 37.9630166,
+            "name": "ROLLA 1.3 NE, MO US",
+            "datacoverage": 1,
+            "id": "GHCND:US1MOPH0016",
+            "elevationUnit": "METERS",
+            "longitude": -91.7514519
+        },
+        {
+            "elevation": 311.8,
+            "mindate": "2011-11-01",
+            "maxdate": "2020-05-17",
+            "latitude": 37.840139,
+            "name": "ROLLA 8.2 SSE, MO US",
+            "datacoverage": 1,
+            "id": "GHCND:US1MOPH0017",
+            "elevationUnit": "METERS",
+            "longitude": -91.702944
+        },
+        {
+            "elevation": 328,
+            "mindate": "2013-01-01",
+            "maxdate": "2014-10-14",
+            "latitude": 38.0260634422302,
+            "name": "ST. JAMES 4.6 ENE, MO US",
+            "datacoverage": 0.8644,
+            "id": "GHCND:US1MOPH0018",
+            "elevationUnit": "METERS",
+            "longitude": -91.5362640470266
+        },
+        {
+            "elevation": 289.3,
+            "mindate": "2013-04-01",
+            "maxdate": "2020-05-17",
+            "latitude": 37.98747,
+            "name": "ST. JAMES 1.2 SE, MO US",
+            "datacoverage": 0.9998,
+            "id": "GHCND:US1MOPH0020",
+            "elevationUnit": "METERS",
+            "longitude": -91.60106
+        },
+        {
+            "elevation": 317.3,
+            "mindate": "2013-05-01",
+            "maxdate": "2015-05-11",
+            "latitude": 38.0156,
+            "name": "ST. JAMES 1.3 NE, MO US",
+            "datacoverage": 0.9199,
+            "id": "GHCND:US1MOPH0023",
+            "elevationUnit": "METERS",
+            "longitude": -91.5994
+        },
+        {
+            "elevation": 335,
+            "mindate": "2013-06-01",
+            "maxdate": "2016-07-10",
+            "latitude": 37.87155,
+            "name": "ROLLA 6.4 SE, MO US",
+            "datacoverage": 0.9999,
+            "id": "GHCND:US1MOPH0024",
+            "elevationUnit": "METERS",
+            "longitude": -91.699365
+        },
+        {
+            "elevation": 348.7,
+            "mindate": "2013-12-01",
+            "maxdate": "2020-05-17",
+            "latitude": 37.78805,
+            "name": "NEWBURG 9.6 SSW, MO US",
+            "datacoverage": 1,
+            "id": "GHCND:US1MOPH0025",
+            "elevationUnit": "METERS",
+            "longitude": -91.96613333
+        },
+        {
+            "elevation": 324.9,
+            "mindate": "2014-06-01",
+            "maxdate": "2020-05-17",
+            "latitude": 37.8645,
+            "name": "ST. JAMES 10.1 SSE, MO US",
+            "datacoverage": 0.9994,
+            "id": "GHCND:US1MOPH0027",
+            "elevationUnit": "METERS",
+            "longitude": -91.5471
+        },
+        {
+            "elevation": 343.8,
+            "mindate": "2014-10-01",
+            "maxdate": "2020-05-17",
+            "latitude": 37.8503,
+            "name": "ROLLA 7.6 SSE, MO US",
+            "datacoverage": 1,
+            "id": "GHCND:US1MOPH0028",
+            "elevationUnit": "METERS",
+            "longitude": -91.7055
+        },
+        {
+            "elevation": 285.3,
+            "mindate": "2015-01-01",
+            "maxdate": "2020-05-14",
+            "latitude": 37.930382,
+            "name": "ROLLA 3.3 WSW, MO US",
+            "datacoverage": 1,
+            "id": "GHCND:US1MOPH0029",
+            "elevationUnit": "METERS",
+            "longitude": -91.822284
+        },
+        {
+            "elevation": 264,
+            "mindate": "2009-06-01",
+            "maxdate": "2020-05-16",
+            "latitude": 37.939713,
+            "name": "ROLLA 3.0 WSW, MO US",
+            "datacoverage": 0.9998,
+            "id": "GHCND:US1MOPH0030",
+            "elevationUnit": "METERS",
+            "longitude": -91.819721
+        },
+        {
+            "elevation": 325.5,
+            "mindate": "2015-08-01",
+            "maxdate": "2016-10-30",
+            "latitude": 37.8344802856445,
+            "name": "ROLLA 8.1 SSW, MO US",
+            "datacoverage": 0.998,
+            "id": "GHCND:US1MOPH0032",
+            "elevationUnit": "METERS",
+            "longitude": -91.799186706543
+        },
+        {
+            "elevation": 319.4,
+            "mindate": "2015-09-01",
+            "maxdate": "2020-05-17",
+            "latitude": 37.90376667,
+            "name": "ROLLA 3.2 SSW, MO US",
+            "datacoverage": 1,
+            "id": "GHCND:US1MOPH0033",
+            "elevationUnit": "METERS",
+            "longitude": -91.78125
+        },
+        {
+            "elevation": 313.3,
+            "mindate": "2015-11-23",
+            "maxdate": "2017-12-04",
+            "latitude": 37.976788,
+            "name": "ROLLA 2.5 NW, MO US",
+            "datacoverage": 0.9993,
+            "id": "GHCND:US1MOPH0034",
+            "elevationUnit": "METERS",
+            "longitude": -91.794798
+        },
+        {
+            "elevation": 336.2,
+            "mindate": "2016-08-08",
+            "maxdate": "2018-05-16",
+            "latitude": 37.944894,
+            "name": "ROLLA 0.4 SE, MO US",
+            "datacoverage": 0.9243,
+            "id": "GHCND:US1MOPH0035",
+            "elevationUnit": "METERS",
+            "longitude": -91.760368
+        },
+        {
+            "elevation": 355.1,
+            "mindate": "2017-04-01",
+            "maxdate": "2020-05-17",
+            "latitude": 37.8365463,
+            "name": "ROLLA 8.1 SSE, MO US",
+            "datacoverage": 1,
+            "id": "GHCND:US1MOPH0037",
+            "elevationUnit": "METERS",
+            "longitude": -91.7233813
+        },
+        {
+            "elevation": 222.8,
+            "mindate": "2017-05-01",
+            "maxdate": "2019-08-27",
+            "latitude": 37.92842,
+            "name": "NEWBURG 4.3 W, MO US",
+            "datacoverage": 0.6078,
+            "id": "GHCND:US1MOPH0038",
+            "elevationUnit": "METERS",
+            "longitude": -91.9789
+        },
+        {
+            "elevation": 339.2,
+            "mindate": "2017-08-27",
+            "maxdate": "2020-05-17",
+            "latitude": 37.95751,
+            "name": "ROLLA 1.2 ENE, MO US",
+            "datacoverage": 0.542,
+            "id": "GHCND:US1MOPH0043",
+            "elevationUnit": "METERS",
+            "longitude": -91.74647
         }
     ]
 }

@@ -2,7 +2,7 @@
     "metadata": {
         "resultset": {
             "offset": 1,
-            "count": 2700,
+            "count": 2338,
             "limit": 1000
         }
     },
@@ -19,17 +19,6 @@
             "longitude": -80.1994
         },
         {
-            "elevation": 841.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 35.9,
-            "name": "ALTAPASS, NC US",
-            "datacoverage": 0.9308,
-            "id": "COOP:310160",
-            "elevationUnit": "METERS",
-            "longitude": -82.01667
-        },
-        {
             "elevation": 533.1,
             "mindate": "1931-01-01",
             "maxdate": "2005-09-01",
@@ -39,17 +28,6 @@
             "id": "COOP:310184",
             "elevationUnit": "METERS",
             "longitude": -83.83861
-        },
-        {
-            "elevation": 519.1,
-            "mindate": "1949-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 35.06667,
-            "name": "ANDREWS DAM, NC US",
-            "datacoverage": 1,
-            "id": "COOP:310192",
-            "elevationUnit": "METERS",
-            "longitude": -83.91667
         },
         {
             "elevation": 137.2,
@@ -85,17 +63,6 @@
             "longitude": -79.83811
         },
         {
-            "elevation": 637.9,
-            "mindate": "1946-02-01",
-            "maxdate": "1958-06-01",
-            "latitude": 35.43333,
-            "name": "ASHEVILLE HENDERSONVILLE AIRPORT, NC US",
-            "datacoverage": 0.9468,
-            "id": "COOP:310296",
-            "elevationUnit": "METERS",
-            "longitude": -82.48333
-        },
-        {
             "elevation": 645.3,
             "mindate": "1964-09-01",
             "maxdate": "2015-11-01",
@@ -119,11 +86,11 @@
         },
         {
             "elevation": 571.5,
-            "mindate": "1948-01-01",
+            "mindate": "1948-06-01",
             "maxdate": "2014-01-01",
             "latitude": 35.8922,
             "name": "ASHFORD, NC US",
-            "datacoverage": 1,
+            "datacoverage": 0.0422,
             "id": "COOP:310312",
             "elevationUnit": "METERS",
             "longitude": -81.9352
@@ -163,25 +130,14 @@
         },
         {
             "elevation": 182.9,
-            "mindate": "1931-01-01",
+            "mindate": "1948-04-02",
             "maxdate": "2014-01-01",
             "latitude": 35.4591,
             "name": "BADIN, NC US",
-            "datacoverage": 0.9318,
+            "datacoverage": 0.0381,
             "id": "COOP:310438",
             "elevationUnit": "METERS",
             "longitude": -80.1827
-        },
-        {
-            "elevation": 755.9,
-            "mindate": "1949-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 36.01667,
-            "name": "BAKERSVILLE, NC US",
-            "datacoverage": 1,
-            "id": "COOP:310466",
-            "elevationUnit": "METERS",
-            "longitude": -82.16667
         },
         {
             "elevation": 1066.8,
@@ -207,17 +163,6 @@
         },
         {
             "elevation": 707.1,
-            "mindate": "1949-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 35.76,
-            "name": "BARNARDSVILLE 2 SE, NC US",
-            "datacoverage": 1,
-            "id": "COOP:310530",
-            "elevationUnit": "METERS",
-            "longitude": -82.4325
-        },
-        {
-            "elevation": 707.1,
             "mindate": "2011-01-01",
             "maxdate": "2015-11-01",
             "latitude": 35.76,
@@ -226,17 +171,6 @@
             "id": "COOP:310531",
             "elevationUnit": "METERS",
             "longitude": -82.4325
-        },
-        {
-            "elevation": 3,
-            "mindate": "1954-07-01",
-            "maxdate": "1967-06-01",
-            "latitude": 35.45,
-            "name": "BATH 2 WSW, NC US",
-            "datacoverage": 0.9359,
-            "id": "COOP:310562",
-            "elevationUnit": "METERS",
-            "longitude": -76.83333
         },
         {
             "elevation": 1.5,
@@ -248,50 +182,6 @@
             "id": "COOP:310576",
             "elevationUnit": "METERS",
             "longitude": -76.816
-        },
-        {
-            "elevation": 3,
-            "mindate": "1931-01-01",
-            "maxdate": "1947-12-01",
-            "latitude": 34.71861,
-            "name": "BEAUFORT, NC US",
-            "datacoverage": 1,
-            "id": "COOP:310626",
-            "elevationUnit": "METERS",
-            "longitude": -76.67222
-        },
-        {
-            "elevation": 641,
-            "mindate": "1949-01-01",
-            "maxdate": "1951-03-01",
-            "latitude": 35.23333,
-            "name": "BEAVERDAM CREEK, NC US",
-            "datacoverage": 1,
-            "id": "COOP:310634",
-            "elevationUnit": "METERS",
-            "longitude": -84.08333
-        },
-        {
-            "elevation": 573,
-            "mindate": "1951-04-01",
-            "maxdate": "1962-03-01",
-            "latitude": 35.21667,
-            "name": "BEAVERDAM CREEK, NC US",
-            "datacoverage": 0.9999,
-            "id": "COOP:310635",
-            "elevationUnit": "METERS",
-            "longitude": -84.1
-        },
-        {
-            "elevation": 1021.1,
-            "mindate": "1948-01-01",
-            "maxdate": "1951-12-01",
-            "latitude": 35.7,
-            "name": "BEECH, NC US",
-            "datacoverage": 0.8542,
-            "id": "COOP:310642",
-            "elevationUnit": "METERS",
-            "longitude": -82.43333
         },
         {
             "elevation": 1540.2,
@@ -312,28 +202,6 @@
             "name": "BEETREE DAM, NC US",
             "datacoverage": 0.9456,
             "id": "COOP:310650",
-            "elevationUnit": "METERS",
-            "longitude": -82.4
-        },
-        {
-            "elevation": 775.1,
-            "mindate": "1949-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 35.63333,
-            "name": "BEETREE DAM 2, NC US",
-            "datacoverage": 1,
-            "id": "COOP:310652",
-            "elevationUnit": "METERS",
-            "longitude": -82.4
-        },
-        {
-            "elevation": 1583.1,
-            "mindate": "1948-01-01",
-            "maxdate": "1950-12-29",
-            "latitude": 35.7,
-            "name": "BEETREE GAP, NC US",
-            "datacoverage": 0.8331,
-            "id": "COOP:310655",
             "elevationUnit": "METERS",
             "longitude": -82.4
         },
@@ -371,17 +239,6 @@
             "longitude": -79.0706
         },
         {
-            "elevation": 1030.2,
-            "mindate": "1949-01-01",
-            "maxdate": "1950-04-01",
-            "latitude": 35.36667,
-            "name": "BIG EAST FORK PIGEON, NC US",
-            "datacoverage": 1,
-            "id": "COOP:310795",
-            "elevationUnit": "METERS",
-            "longitude": -82.81667
-        },
-        {
             "elevation": 698,
             "mindate": "1949-11-01",
             "maxdate": "2010-01-01",
@@ -416,25 +273,14 @@
         },
         {
             "elevation": 694.9,
-            "mindate": "1948-01-01",
+            "mindate": "1948-09-01",
             "maxdate": "1972-08-27",
             "latitude": 35.35,
             "name": "BLUE RIDGE POST OFFI, NC US",
-            "datacoverage": 1,
+            "datacoverage": 0.0709,
             "id": "COOP:310909",
             "elevationUnit": "METERS",
             "longitude": -82.36667
-        },
-        {
-            "elevation": 990.9,
-            "mindate": "1949-01-01",
-            "maxdate": "1959-06-01",
-            "latitude": 36.4,
-            "name": "BLUFF, NC US",
-            "datacoverage": 0.9926,
-            "id": "COOP:310917",
-            "elevationUnit": "METERS",
-            "longitude": -81.21667
         },
         {
             "elevation": 341.4,
@@ -514,23 +360,12 @@
             "longitude": -83.4383
         },
         {
-            "elevation": 537.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1949-07-01",
-            "latitude": 35.43333,
-            "name": "BRYSON CITY, NC US",
-            "datacoverage": 0.9911,
-            "id": "COOP:311159",
-            "elevationUnit": "METERS",
-            "longitude": -83.45
-        },
-        {
             "elevation": 548.9,
-            "mindate": "1948-01-01",
+            "mindate": "1948-09-01",
             "maxdate": "1974-01-01",
             "latitude": 35.43333,
             "name": "BRYSON CITY 2, NC US",
-            "datacoverage": 1,
+            "datacoverage": 0.0691,
             "id": "COOP:311164",
             "elevationUnit": "METERS",
             "longitude": -83.45
@@ -580,19 +415,8 @@
             "longitude": -77.8638
         },
         {
-            "elevation": 200.9,
-            "mindate": "1945-07-01",
-            "maxdate": "1951-12-01",
-            "latitude": 36.08333,
-            "name": "BURLINGTON, NC US",
-            "datacoverage": 0.9996,
-            "id": "COOP:311236",
-            "elevationUnit": "METERS",
-            "longitude": -79.43333
-        },
-        {
             "elevation": 201.2,
-            "mindate": "1950-12-01",
+            "mindate": "1952-01-01",
             "maxdate": "2015-11-01",
             "latitude": 36.06003,
             "name": "BURLINGTON FIRE STATION NUMBER 5, NC US",
@@ -607,7 +431,7 @@
             "maxdate": "2014-01-01",
             "latitude": 36.09364,
             "name": "BURLINGTON, NC US",
-            "datacoverage": 0.4005,
+            "datacoverage": 0.033,
             "id": "COOP:311241",
             "elevationUnit": "METERS",
             "longitude": -79.43212
@@ -646,17 +470,6 @@
             "longitude": -82.6987
         },
         {
-            "elevation": 775.1,
-            "mindate": "1949-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 35.91667,
-            "name": "CANE RIVER, NC US",
-            "datacoverage": 1,
-            "id": "COOP:311433",
-            "elevationUnit": "METERS",
-            "longitude": -82.4
-        },
-        {
             "elevation": 620.9,
             "mindate": "1993-04-01",
             "maxdate": "2015-11-01",
@@ -677,17 +490,6 @@
             "id": "COOP:311441",
             "elevationUnit": "METERS",
             "longitude": -82.85
-        },
-        {
-            "elevation": 9.1,
-            "mindate": "1956-03-01",
-            "maxdate": "1966-01-01",
-            "latitude": 34.835,
-            "name": "WILLIAM O HUSKE LOCK AND DAM, NC US",
-            "datacoverage": 0.9995,
-            "id": "COOP:311449",
-            "elevationUnit": "METERS",
-            "longitude": -78.8252
         },
         {
             "elevation": 3.4,
@@ -723,28 +525,6 @@
             "longitude": -79.4066
         },
         {
-            "elevation": 182.9,
-            "mindate": "1948-01-01",
-            "maxdate": "1958-03-01",
-            "latitude": 35.31667,
-            "name": "CARTHAGE 2 S, NC US",
-            "datacoverage": 0.9116,
-            "id": "COOP:311520",
-            "elevationUnit": "METERS",
-            "longitude": -79.41667
-        },
-        {
-            "elevation": 670.9,
-            "mindate": "1949-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 35.15,
-            "name": "CARTOOGECHAYE CREEK, NC US",
-            "datacoverage": 0.994,
-            "id": "COOP:311528",
-            "elevationUnit": "METERS",
-            "longitude": -83.48333
-        },
-        {
             "elevation": 118.9,
             "mindate": "2000-07-01",
             "maxdate": "2015-11-01",
@@ -776,17 +556,6 @@
             "id": "COOP:311564",
             "elevationUnit": "METERS",
             "longitude": -83.09556
-        },
-        {
-            "elevation": 1464,
-            "mindate": "1949-02-01",
-            "maxdate": "1962-03-01",
-            "latitude": 35.55,
-            "name": "CATALOOCHEE RANCH, NC US",
-            "datacoverage": 0.9435,
-            "id": "COOP:311569",
-            "elevationUnit": "METERS",
-            "longitude": -83.1
         },
         {
             "elevation": 249.9,
@@ -845,11 +614,11 @@
         },
         {
             "elevation": 839.1,
-            "mindate": "1948-01-01",
+            "mindate": "1948-09-01",
             "maxdate": "1981-05-01",
             "latitude": 35.15,
             "name": "CEDAR MOUNTAIN, NC US",
-            "datacoverage": 1,
+            "datacoverage": 0.0846,
             "id": "COOP:311614",
             "elevationUnit": "METERS",
             "longitude": -82.63333
@@ -866,28 +635,6 @@
             "longitude": -82.1837
         },
         {
-            "elevation": 839.1,
-            "mindate": "1949-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 35.85,
-            "name": "CELO, NC US",
-            "datacoverage": 0.9877,
-            "id": "COOP:311629",
-            "elevationUnit": "METERS",
-            "longitude": -82.2
-        },
-        {
-            "elevation": 1311.9,
-            "mindate": "1948-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 35.56667,
-            "name": "CHAMBERS MOUNTAIN, NC US",
-            "datacoverage": 0.9943,
-            "id": "COOP:311663",
-            "elevationUnit": "METERS",
-            "longitude": -82.9
-        },
-        {
             "elevation": 152.4,
             "mindate": "1931-01-01",
             "maxdate": "2015-11-01",
@@ -897,17 +644,6 @@
             "id": "COOP:311677",
             "elevationUnit": "METERS",
             "longitude": -79.0794
-        },
-        {
-            "elevation": 153,
-            "mindate": "1948-01-01",
-            "maxdate": "1952-09-01",
-            "latitude": 35.91667,
-            "name": "CHAPEL HILL 2 E, NC US",
-            "datacoverage": 0.9783,
-            "id": "COOP:311682",
-            "elevationUnit": "METERS",
-            "longitude": -79.01667
         },
         {
             "elevation": 221.9,
@@ -921,17 +657,6 @@
             "longitude": -80.9552
         },
         {
-            "elevation": 235.9,
-            "mindate": "1948-01-01",
-            "maxdate": "1951-04-30",
-            "latitude": 35.23333,
-            "name": "CHARLOTTE, NC US",
-            "datacoverage": 1,
-            "id": "COOP:311695",
-            "elevationUnit": "METERS",
-            "longitude": -80.85
-        },
-        {
             "elevation": 93.9,
             "mindate": "2007-07-01",
             "maxdate": "2015-11-01",
@@ -941,28 +666,6 @@
             "id": "COOP:311700",
             "elevationUnit": "METERS",
             "longitude": -79.00322
-        },
-        {
-            "elevation": 558.1,
-            "mindate": "1949-01-01",
-            "maxdate": "1956-03-01",
-            "latitude": 35.01667,
-            "name": "CHATUGE DAM, NC US",
-            "datacoverage": 1,
-            "id": "COOP:311703",
-            "elevationUnit": "METERS",
-            "longitude": -83.8
-        },
-        {
-            "elevation": 616,
-            "mindate": "1949-01-01",
-            "maxdate": "1950-10-01",
-            "latitude": 35.48333,
-            "name": "CHEROKEE, NC US",
-            "datacoverage": 1,
-            "id": "COOP:311725",
-            "elevationUnit": "METERS",
-            "longitude": -83.31667
         },
         {
             "elevation": 12.2,
@@ -987,17 +690,6 @@
             "longitude": -78.4633
         },
         {
-            "elevation": 1905.9,
-            "mindate": "1948-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 35.55,
-            "name": "CLINGMANS DOME, NC US",
-            "datacoverage": 0.9768,
-            "id": "COOP:311869",
-            "elevationUnit": "METERS",
-            "longitude": -83.5
-        },
-        {
             "elevation": 46,
             "mindate": "1936-08-01",
             "maxdate": "1976-12-01",
@@ -1018,28 +710,6 @@
             "id": "COOP:311881",
             "elevationUnit": "METERS",
             "longitude": -78.276
-        },
-        {
-            "elevation": 747.1,
-            "mindate": "1949-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 35.91667,
-            "name": "CODY STORE, NC US",
-            "datacoverage": 1,
-            "id": "COOP:311901",
-            "elevationUnit": "METERS",
-            "longitude": -82.6
-        },
-        {
-            "elevation": 121.9,
-            "mindate": "1933-06-01",
-            "maxdate": "1949-12-01",
-            "latitude": 34.93333,
-            "name": "HAMLET 4 NE, NC US",
-            "datacoverage": 0.9948,
-            "id": "COOP:311913",
-            "elevationUnit": "METERS",
-            "longitude": -79.61667
         },
         {
             "elevation": 3,
@@ -1086,17 +756,6 @@
             "longitude": -81.1919
         },
         {
-            "elevation": 878.1,
-            "mindate": "1949-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 35.06667,
-            "name": "COWEETA, NC US",
-            "datacoverage": 0.994,
-            "id": "COOP:312097",
-            "elevationUnit": "METERS",
-            "longitude": -83.43333
-        },
-        {
             "elevation": 684.9,
             "mindate": "1943-03-01",
             "maxdate": "2015-11-01",
@@ -1106,59 +765,6 @@
             "id": "COOP:312102",
             "elevationUnit": "METERS",
             "longitude": -83.4301
-        },
-        {
-            "elevation": 1182.9,
-            "mindate": "1950-06-01",
-            "maxdate": "1962-03-01",
-            "latitude": 35.03333,
-            "name": "COWEETA 8, NC US",
-            "datacoverage": 0.993,
-            "id": "COOP:312107",
-            "elevationUnit": "METERS",
-            "longitude": -83.46667
-        },
-        {
-            "elevation": 1296,
-            "mindate": "1948-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 35.81667,
-            "name": "COXCOMBE MOUNTAIN, NC US",
-            "datacoverage": 0.9358,
-            "id": "COOP:312110",
-            "elevationUnit": "METERS",
-            "longitude": -82.35
-        },
-        {
-            "elevation": 1516.1,
-            "mindate": "1951-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 35.68333,
-            "name": "CRAGGY KNOB, NC US",
-            "datacoverage": 1,
-            "id": "COOP:312120",
-            "elevationUnit": "METERS",
-            "longitude": -82.38333
-        },
-        {
-            "mindate": "1948-01-01",
-            "maxdate": "1950-10-01",
-            "latitude": 34.98333,
-            "name": "CROATAN, NC US",
-            "datacoverage": 0.8822,
-            "id": "COOP:312154",
-            "longitude": -76.98333
-        },
-        {
-            "elevation": 1046.1,
-            "mindate": "1938-06-01",
-            "maxdate": "1959-06-01",
-            "latitude": 36.01667,
-            "name": "CROSSNORE, NC US",
-            "datacoverage": 1,
-            "id": "COOP:312172",
-            "elevationUnit": "METERS",
-            "longitude": -81.93333
         },
         {
             "elevation": 668.1,
@@ -1173,11 +779,11 @@
         },
         {
             "elevation": 307.8,
-            "mindate": "1948-01-01",
+            "mindate": "1948-06-01",
             "maxdate": "1999-07-01",
             "latitude": 36.3,
             "name": "DALTON, NC US",
-            "datacoverage": 0.8819,
+            "datacoverage": 0.0391,
             "id": "COOP:312230",
             "elevationUnit": "METERS",
             "longitude": -80.4
@@ -1194,112 +800,15 @@
             "longitude": -80.1789
         },
         {
-            "elevation": 841.9,
-            "mindate": "1948-01-01",
-            "maxdate": "1949-12-01",
-            "latitude": 35.28333,
-            "name": "PISGAH FOREST 8 W, NC US",
-            "datacoverage": 0.9577,
-            "id": "COOP:312253",
-            "elevationUnit": "METERS",
-            "longitude": -82.83333
-        },
-        {
-            "elevation": 716.9,
-            "mindate": "1949-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 35.98333,
-            "name": "DAYBOOK, NC US",
-            "datacoverage": 0.9248,
-            "id": "COOP:312270",
-            "elevationUnit": "METERS",
-            "longitude": -82.3
-        },
-        {
-            "mindate": "1931-01-01",
-            "maxdate": "1946-09-01",
-            "latitude": 36.33333,
-            "name": "DEEP CREEK, NC US",
-            "datacoverage": 1,
-            "id": "COOP:312280",
-            "longitude": -78.81667
-        },
-        {
-            "elevation": 566.9,
-            "mindate": "1954-12-01",
-            "maxdate": "1958-10-01",
-            "latitude": 35.46667,
-            "name": "DEEP CREEK, NC US",
-            "datacoverage": 0.9572,
-            "id": "COOP:312285",
-            "elevationUnit": "METERS",
-            "longitude": -83.43333
-        },
-        {
-            "elevation": 1000,
-            "mindate": "1949-01-01",
-            "maxdate": "1950-04-01",
-            "latitude": 35.43333,
-            "name": "DIX CREEK, NC US",
-            "datacoverage": 0.8786,
-            "id": "COOP:312370",
-            "elevationUnit": "METERS",
-            "longitude": -82.86667
-        },
-        {
-            "elevation": 1092.1,
-            "mindate": "1950-07-01",
-            "maxdate": "1950-09-01",
-            "latitude": 35.43333,
-            "name": "DIX CREEK TVA, NC US",
-            "datacoverage": 0.9925,
-            "id": "COOP:312372",
-            "elevationUnit": "METERS",
-            "longitude": -82.88333
-        },
-        {
-            "elevation": 933,
-            "mindate": "1951-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 35.45,
-            "name": "DIX CREEK, NC US",
-            "datacoverage": 1,
-            "id": "COOP:312373",
-            "elevationUnit": "METERS",
-            "longitude": -82.86667
-        },
-        {
             "elevation": 391.7,
             "mindate": "1942-10-01",
             "maxdate": "2006-02-01",
             "latitude": 36.41194,
             "name": "DOBSON, NC US",
-            "datacoverage": 0.956,
+            "datacoverage": 0.0416,
             "id": "COOP:312388",
             "elevationUnit": "METERS",
             "longitude": -80.71917
-        },
-        {
-            "elevation": 1158.8,
-            "mindate": "1949-01-01",
-            "maxdate": "1952-12-01",
-            "latitude": 35.71667,
-            "name": "DOGGETT GAP, NC US",
-            "datacoverage": 1,
-            "id": "COOP:312396",
-            "elevationUnit": "METERS",
-            "longitude": -82.83333
-        },
-        {
-            "elevation": 1064.1,
-            "mindate": "1953-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 35.71667,
-            "name": "DOGGETT GAP 2, NC US",
-            "datacoverage": 0.9914,
-            "id": "COOP:312397",
-            "elevationUnit": "METERS",
-            "longitude": -82.83333
         },
         {
             "elevation": 61,
@@ -1333,28 +842,6 @@
             "id": "COOP:312518",
             "elevationUnit": "METERS",
             "longitude": -78.9636
-        },
-        {
-            "elevation": 1000,
-            "mindate": "1949-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 35.48333,
-            "name": "EAGLENEST MOUNTAIN, NC US",
-            "datacoverage": 1,
-            "id": "COOP:312538",
-            "elevationUnit": "METERS",
-            "longitude": -83.03333
-        },
-        {
-            "elevation": 203.9,
-            "mindate": "1948-04-01",
-            "maxdate": "1951-09-01",
-            "latitude": 35.28333,
-            "name": "EAGLE SPRINGS, NC US",
-            "datacoverage": 0.9289,
-            "id": "COOP:312546",
-            "elevationUnit": "METERS",
-            "longitude": -79.63333
         },
         {
             "elevation": 15.5,
@@ -1399,28 +886,6 @@
             "id": "COOP:312635",
             "elevationUnit": "METERS",
             "longitude": -76.5516
-        },
-        {
-            "elevation": 683.1,
-            "mindate": "1951-06-01",
-            "maxdate": "1954-11-28",
-            "latitude": 35.41667,
-            "name": "EDNEYVILLE, NC US",
-            "datacoverage": 0.9991,
-            "id": "COOP:312661",
-            "elevationUnit": "METERS",
-            "longitude": -82.33333
-        },
-        {
-            "elevation": 558.1,
-            "mindate": "1949-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 35.45,
-            "name": "ELA, NC US",
-            "datacoverage": 0.9877,
-            "id": "COOP:312679",
-            "elevationUnit": "METERS",
-            "longitude": -83.36667
         },
         {
             "elevation": 2.4,
@@ -1468,11 +933,11 @@
         },
         {
             "elevation": 348.1,
-            "mindate": "1948-01-01",
+            "mindate": "1948-06-01",
             "maxdate": "1985-10-01",
             "latitude": 36.06667,
             "name": "ELKVILLE, NC US",
-            "datacoverage": 0.8893,
+            "datacoverage": 0.0532,
             "id": "COOP:312757",
             "elevationUnit": "METERS",
             "longitude": -81.4
@@ -1577,28 +1042,6 @@
             "longitude": -81.91352
         },
         {
-            "elevation": 878.1,
-            "mindate": "1949-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 36.03333,
-            "name": "FLAT TOP MOUNTAIN, NC US",
-            "datacoverage": 0.6291,
-            "id": "COOP:313089",
-            "elevationUnit": "METERS",
-            "longitude": -82.4
-        },
-        {
-            "elevation": 719.9,
-            "mindate": "1956-08-01",
-            "maxdate": "1961-06-01",
-            "latitude": 36.03333,
-            "name": "FLAT TOP MOUNTAIN 2, NC US",
-            "datacoverage": 1,
-            "id": "COOP:313090",
-            "elevationUnit": "METERS",
-            "longitude": -82.36667
-        },
-        {
             "elevation": 667.5,
             "mindate": "1956-10-01",
             "maxdate": "1995-07-01",
@@ -1619,17 +1062,6 @@
             "id": "COOP:313106",
             "elevationUnit": "METERS",
             "longitude": -82.557
-        },
-        {
-            "elevation": 399.9,
-            "mindate": "1948-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 35.45,
-            "name": "FONTANA DAM, NC US",
-            "datacoverage": 0.9943,
-            "id": "COOP:313127",
-            "elevationUnit": "METERS",
-            "longitude": -83.8
         },
         {
             "elevation": 301.8,
@@ -1654,17 +1086,6 @@
             "longitude": -81.9891
         },
         {
-            "elevation": 665.1,
-            "mindate": "1949-07-01",
-            "maxdate": "1955-02-01",
-            "latitude": 35.5,
-            "name": "FORNEY CREEK, NC US",
-            "datacoverage": 0.9709,
-            "id": "COOP:313160",
-            "elevationUnit": "METERS",
-            "longitude": -83.56667
-        },
-        {
             "elevation": 48.8,
             "mindate": "1964-03-01",
             "maxdate": "2010-03-01",
@@ -1674,28 +1095,6 @@
             "id": "COOP:313168",
             "elevationUnit": "METERS",
             "longitude": -79.0239
-        },
-        {
-            "elevation": 702,
-            "mindate": "1945-12-01",
-            "maxdate": "1949-07-01",
-            "latitude": 35.18333,
-            "name": "FRANKLIN, NC US",
-            "datacoverage": 1,
-            "id": "COOP:313216",
-            "elevationUnit": "METERS",
-            "longitude": -83.38333
-        },
-        {
-            "elevation": 609.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1950-03-01",
-            "latitude": 35.21667,
-            "name": "FRANKLIN POWER HOUSE, NC US",
-            "datacoverage": 0.8703,
-            "id": "COOP:313224",
-            "elevationUnit": "METERS",
-            "longitude": -83.36667
         },
         {
             "elevation": 647.7,
@@ -1710,11 +1109,11 @@
         },
         {
             "elevation": 114.3,
-            "mindate": "1948-03-01",
+            "mindate": "1948-06-01",
             "maxdate": "2006-03-01",
             "latitude": 36.105,
             "name": "FRANKLINTON, NC US",
-            "datacoverage": 0.9301,
+            "datacoverage": 0.0363,
             "id": "COOP:313232",
             "elevationUnit": "METERS",
             "longitude": -78.45917
@@ -1764,17 +1163,6 @@
             "longitude": -75.6048
         },
         {
-            "elevation": 798.9,
-            "mindate": "1949-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 35.51667,
-            "name": "GARREN CREEK, NC US",
-            "datacoverage": 1,
-            "id": "COOP:313344",
-            "elevationUnit": "METERS",
-            "longitude": -82.33333
-        },
-        {
             "elevation": 213.4,
             "mindate": "1930-11-01",
             "maxdate": "2015-11-01",
@@ -1808,17 +1196,6 @@
             "longitude": -82.05
         },
         {
-            "elevation": 1158.8,
-            "mindate": "1948-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 35.06667,
-            "name": "GLADE GAP, NC US",
-            "datacoverage": 1,
-            "id": "COOP:313437",
-            "elevationUnit": "METERS",
-            "longitude": -83.63333
-        },
-        {
             "elevation": 887,
             "mindate": "1946-01-01",
             "maxdate": "1993-06-01",
@@ -1830,50 +1207,6 @@
             "longitude": -81.38333
         },
         {
-            "elevation": 1083,
-            "mindate": "1949-01-01",
-            "maxdate": "1952-12-01",
-            "latitude": 35.2,
-            "name": "GLENVILLE DAM, NC US",
-            "datacoverage": 1,
-            "id": "COOP:313473",
-            "elevationUnit": "METERS",
-            "longitude": -83.15
-        },
-        {
-            "elevation": 708.1,
-            "mindate": "1949-01-01",
-            "maxdate": "1958-12-01",
-            "latitude": 35.23333,
-            "name": "THORPE POWERHOUSE, NC US",
-            "datacoverage": 0.9085,
-            "id": "COOP:313478",
-            "elevationUnit": "METERS",
-            "longitude": -83.13333
-        },
-        {
-            "elevation": 951.9,
-            "mindate": "1948-01-01",
-            "maxdate": "1950-09-28",
-            "latitude": 35.26667,
-            "name": "GLOUCESTER GAP, NC US",
-            "datacoverage": 1,
-            "id": "COOP:313491",
-            "elevationUnit": "METERS",
-            "longitude": -82.85
-        },
-        {
-            "elevation": 951.9,
-            "mindate": "1950-10-01",
-            "maxdate": "1962-03-01",
-            "latitude": 35.26667,
-            "name": "GLOUCESTER GAP, NC US",
-            "datacoverage": 1,
-            "id": "COOP:313492",
-            "elevationUnit": "METERS",
-            "longitude": -82.85
-        },
-        {
             "elevation": 33.2,
             "mindate": "1931-01-01",
             "maxdate": "2009-09-01",
@@ -1883,17 +1216,6 @@
             "id": "COOP:313510",
             "elevationUnit": "METERS",
             "longitude": -77.9647
-        },
-        {
-            "elevation": 24.1,
-            "mindate": "1936-08-01",
-            "maxdate": "1961-12-01",
-            "latitude": 35.35,
-            "name": "GOLDSBORO 3 SSW, NC US",
-            "datacoverage": 0.9606,
-            "id": "COOP:313515",
-            "elevationUnit": "METERS",
-            "longitude": -78.03333
         },
         {
             "elevation": 201.2,
@@ -1951,28 +1273,6 @@
             "longitude": -77.3984
         },
         {
-            "elevation": 21,
-            "mindate": "1938-07-01",
-            "maxdate": "1955-11-01",
-            "latitude": 35.6,
-            "name": "GREENVILLE 2, NC US",
-            "datacoverage": 1,
-            "id": "COOP:313643",
-            "elevationUnit": "METERS",
-            "longitude": -77.38333
-        },
-        {
-            "elevation": 21,
-            "mindate": "1954-03-01",
-            "maxdate": "1963-12-01",
-            "latitude": 35.56667,
-            "name": "GREENVILLE 3 S, NC US",
-            "datacoverage": 0.9996,
-            "id": "COOP:313648",
-            "elevationUnit": "METERS",
-            "longitude": -77.38333
-        },
-        {
             "elevation": 106.7,
             "mindate": "1950-01-01",
             "maxdate": "2015-11-01",
@@ -1985,7 +1285,7 @@
         },
         {
             "elevation": 4.6,
-            "mindate": "1948-06-01",
+            "mindate": "1950-01-01",
             "maxdate": "2004-05-01",
             "latitude": 35.21667,
             "name": "HATTERAS, NC US",
@@ -2051,22 +1351,22 @@
         },
         {
             "elevation": 1645.9,
-            "mindate": "1948-01-01",
+            "mindate": "1948-09-01",
             "maxdate": "1981-05-01",
             "latitude": 35.3,
             "name": "HAYWOOD GAP, NC US",
-            "datacoverage": 1,
+            "datacoverage": 0.0972,
             "id": "COOP:313925",
             "elevationUnit": "METERS",
             "longitude": -82.91667
         },
         {
             "elevation": 865.6,
-            "mindate": "1940-04-01",
+            "mindate": "1958-04-01",
             "maxdate": "2009-06-01",
             "latitude": 36.56306,
             "name": "HELTON, NC US",
-            "datacoverage": 0.801,
+            "datacoverage": 0.0434,
             "id": "COOP:313957",
             "elevationUnit": "METERS",
             "longitude": -81.50389
@@ -2094,28 +1394,6 @@
             "longitude": -82.4491
         },
         {
-            "elevation": 668.1,
-            "mindate": "1949-01-01",
-            "maxdate": "1961-06-01",
-            "latitude": 35.31667,
-            "name": "HENDERSONVILLE TVA, NC US",
-            "datacoverage": 1,
-            "id": "COOP:313981",
-            "elevationUnit": "METERS",
-            "longitude": -82.48333
-        },
-        {
-            "elevation": 627.9,
-            "mindate": "1954-05-01",
-            "maxdate": "1958-12-01",
-            "latitude": 35.38333,
-            "name": "HENDERSONVILLE 8 WNW, NC US",
-            "datacoverage": 0.9635,
-            "id": "COOP:313986",
-            "elevationUnit": "METERS",
-            "longitude": -82.56667
-        },
-        {
             "elevation": 355.1,
             "mindate": "1931-01-01",
             "maxdate": "1976-07-01",
@@ -2136,17 +1414,6 @@
             "id": "COOP:314020",
             "elevationUnit": "METERS",
             "longitude": -81.38229
-        },
-        {
-            "elevation": 1158.8,
-            "mindate": "1949-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 35.05,
-            "name": "HIGHLANDS, NC US",
-            "datacoverage": 1,
-            "id": "COOP:314050",
-            "elevationUnit": "METERS",
-            "longitude": -83.2
         },
         {
             "elevation": 1173.5,
@@ -2171,34 +1438,12 @@
             "longitude": -79.97086
         },
         {
-            "elevation": 454.2,
-            "mindate": "1948-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 35.15,
-            "name": "HIWASSEE DAM, NC US",
-            "datacoverage": 0.9943,
-            "id": "COOP:314122",
-            "elevationUnit": "METERS",
-            "longitude": -84.18333
-        },
-        {
-            "elevation": 399.9,
-            "mindate": "1949-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 35.15,
-            "name": "HIWASSEE DAM 2, NC US",
-            "datacoverage": 1,
-            "id": "COOP:314127",
-            "elevationUnit": "METERS",
-            "longitude": -84.18333
-        },
-        {
             "elevation": 2.4,
-            "mindate": "1948-01-01",
+            "mindate": "1948-06-01",
             "maxdate": "2007-08-01",
             "latitude": 35.20555,
             "name": "HOBUCKEN BRIDGE, NC US",
-            "datacoverage": 0.499,
+            "datacoverage": 0.0218,
             "id": "COOP:314136",
             "elevationUnit": "METERS",
             "longitude": -76.58972
@@ -2213,17 +1458,6 @@
             "id": "COOP:314144",
             "elevationUnit": "METERS",
             "longitude": -77.30306
-        },
-        {
-            "elevation": 652.3,
-            "mindate": "1949-01-01",
-            "maxdate": "1950-08-01",
-            "latitude": 35.383333,
-            "name": "HORSESHOE TVA 281, NC US",
-            "datacoverage": 1,
-            "id": "COOP:314246",
-            "elevationUnit": "METERS",
-            "longitude": -82.566667
         },
         {
             "elevation": 410,
@@ -2248,26 +1482,6 @@
             "longitude": -82.83333
         },
         {
-            "mindate": "1948-06-01",
-            "maxdate": "1949-03-25",
-            "latitude": 35.38333,
-            "name": "HUNTERSVILLE 2 S, NC US",
-            "datacoverage": 0.9925,
-            "id": "COOP:314328",
-            "longitude": -80.83333
-        },
-        {
-            "elevation": 747.1,
-            "mindate": "1949-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 35.2,
-            "name": "HYATT CREEK, NC US",
-            "datacoverage": 0.9626,
-            "id": "COOP:314363",
-            "elevationUnit": "METERS",
-            "longitude": -83.95
-        },
-        {
             "elevation": 883.9,
             "mindate": "1940-04-01",
             "maxdate": "1998-03-01",
@@ -2277,28 +1491,6 @@
             "id": "COOP:314385",
             "elevationUnit": "METERS",
             "longitude": -81.45889
-        },
-        {
-            "elevation": 655.9,
-            "mindate": "1949-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 35.81667,
-            "name": "IVY, NC US",
-            "datacoverage": 1,
-            "id": "COOP:314440",
-            "elevationUnit": "METERS",
-            "longitude": -82.5
-        },
-        {
-            "elevation": 586.1,
-            "mindate": "1949-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 35.4,
-            "name": "JACK COVE, NC US",
-            "datacoverage": 0.9311,
-            "id": "COOP:314448",
-            "elevationUnit": "METERS",
-            "longitude": -83.28333
         },
         {
             "elevation": 37.5,
@@ -2357,11 +1549,11 @@
         },
         {
             "elevation": 3,
-            "mindate": "1948-01-01",
+            "mindate": "1948-06-01",
             "maxdate": "1982-05-01",
             "latitude": 36.01667,
             "name": "KILL DEVIL HILLS N M, NC US",
-            "datacoverage": 0.956,
+            "datacoverage": 0.041,
             "id": "COOP:314649",
             "elevationUnit": "METERS",
             "longitude": -75.66667
@@ -2455,28 +1647,6 @@
             "longitude": -82.9509
         },
         {
-            "elevation": 1299.1,
-            "mindate": "1948-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 35.15,
-            "name": "LAUREL MOUNTAIN, NC US",
-            "datacoverage": 1,
-            "id": "COOP:314844",
-            "elevationUnit": "METERS",
-            "longitude": -83.08333
-        },
-        {
-            "elevation": 900.1,
-            "mindate": "1940-05-01",
-            "maxdate": "1949-10-01",
-            "latitude": 36.41667,
-            "name": "LAUREL SPRINGS 1 MI, NC US",
-            "datacoverage": 0.9383,
-            "id": "COOP:314852",
-            "elevationUnit": "METERS",
-            "longitude": -81.26667
-        },
-        {
             "elevation": 64,
             "mindate": "1946-06-01",
             "maxdate": "2015-11-01",
@@ -2488,17 +1658,6 @@
             "longitude": -79.46628
         },
         {
-            "elevation": 662,
-            "mindate": "1949-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 35.65,
-            "name": "LEICESTER, NC US",
-            "datacoverage": 1,
-            "id": "COOP:314930",
-            "elevationUnit": "METERS",
-            "longitude": -82.7
-        },
-        {
             "elevation": 352,
             "mindate": "1931-01-01",
             "maxdate": "2015-11-01",
@@ -2508,17 +1667,6 @@
             "id": "COOP:314938",
             "elevationUnit": "METERS",
             "longitude": -81.5374
-        },
-        {
-            "elevation": 552,
-            "mindate": "1949-02-01",
-            "maxdate": "1966-02-01",
-            "latitude": 35.05,
-            "name": "LETITIA, NC US",
-            "datacoverage": 0.7759,
-            "id": "COOP:314946",
-            "elevationUnit": "METERS",
-            "longitude": -84.15
         },
         {
             "elevation": 15.2,
@@ -2544,11 +1692,11 @@
         },
         {
             "elevation": 262.1,
-            "mindate": "1948-01-01",
+            "mindate": "1948-06-01",
             "maxdate": "1980-08-22",
             "latitude": 35.9,
             "name": "LEXINGTON 7 N, NC US",
-            "datacoverage": 0.8893,
+            "datacoverage": 0.049,
             "id": "COOP:314975",
             "elevationUnit": "METERS",
             "longitude": -80.26667
@@ -2574,28 +1722,6 @@
             "id": "COOP:314997",
             "elevationUnit": "METERS",
             "longitude": -81.2799
-        },
-        {
-            "elevation": 1417.9,
-            "mindate": "1961-06-01",
-            "maxdate": "1962-03-01",
-            "latitude": 35.38333,
-            "name": "LITTLE SANTEETLAH CR, NC US",
-            "datacoverage": 1,
-            "id": "COOP:315037",
-            "elevationUnit": "METERS",
-            "longitude": -83.95
-        },
-        {
-            "elevation": 1083,
-            "mindate": "1948-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 35.85,
-            "name": "LITTLE SWITZERLAND, NC US",
-            "datacoverage": 1,
-            "id": "COOP:315045",
-            "elevationUnit": "METERS",
-            "longitude": -82.1
         },
         {
             "elevation": 12.2,
@@ -2653,17 +1779,6 @@
             "longitude": -79.0591
         },
         {
-            "elevation": 48.8,
-            "mindate": "1937-10-01",
-            "maxdate": "1964-02-01",
-            "latitude": 35.1778,
-            "name": "FORT BRAGG WATER PLA, NC US",
-            "datacoverage": 0.9338,
-            "id": "COOP:315275",
-            "elevationUnit": "METERS",
-            "longitude": -79.0239
-        },
-        {
             "elevation": 116.1,
             "mindate": "1931-01-01",
             "maxdate": "1971-01-01",
@@ -2675,17 +1790,6 @@
             "longitude": -78.9
         },
         {
-            "elevation": 3,
-            "mindate": "1931-01-01",
-            "maxdate": "1965-01-01",
-            "latitude": 35.91667,
-            "name": "MANTEO, NC US",
-            "datacoverage": 0.9828,
-            "id": "COOP:315300",
-            "elevationUnit": "METERS",
-            "longitude": -75.68333
-        },
-        {
             "elevation": 4,
             "mindate": "1967-01-01",
             "maxdate": "2015-11-01",
@@ -2695,28 +1799,6 @@
             "id": "COOP:315303",
             "elevationUnit": "METERS",
             "longitude": -75.7
-        },
-        {
-            "elevation": 1235,
-            "mindate": "1952-07-01",
-            "maxdate": "1960-08-01",
-            "latitude": 35.75,
-            "name": "MAPLE SPRINGS GAP, NC US",
-            "datacoverage": 0.9996,
-            "id": "COOP:315312",
-            "elevationUnit": "METERS",
-            "longitude": -82.95
-        },
-        {
-            "elevation": 1156.1,
-            "mindate": "1960-09-01",
-            "maxdate": "1962-03-01",
-            "latitude": 35.73333,
-            "name": "MAPLE SPRING GAP 2, NC US",
-            "datacoverage": 1,
-            "id": "COOP:315313",
-            "elevationUnit": "METERS",
-            "longitude": -82.93333
         },
         {
             "elevation": 429.8,
@@ -2739,28 +1821,6 @@
             "id": "COOP:315356",
             "elevationUnit": "METERS",
             "longitude": -82.66573
-        },
-        {
-            "elevation": 816.9,
-            "mindate": "1949-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 36.25,
-            "name": "MAST, NC US",
-            "datacoverage": 0.994,
-            "id": "COOP:315368",
-            "elevationUnit": "METERS",
-            "longitude": -81.8
-        },
-        {
-            "elevation": 1225.3,
-            "mindate": "1948-01-01",
-            "maxdate": "1981-05-01",
-            "latitude": 35.81667,
-            "name": "MAX PATCH MOUNTAIN, TN US",
-            "datacoverage": 0.9885,
-            "id": "COOP:315402",
-            "elevationUnit": "METERS",
-            "longitude": -82.95
         },
         {
             "elevation": 14.3,
@@ -2796,39 +1856,6 @@
             "longitude": -78.7
         },
         {
-            "elevation": 1207.9,
-            "mindate": "1949-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 35.95,
-            "name": "MCKINNEY GAP, NC US",
-            "datacoverage": 1,
-            "id": "COOP:315480",
-            "elevationUnit": "METERS",
-            "longitude": -82.46667
-        },
-        {
-            "elevation": 3,
-            "mindate": "1949-03-08",
-            "maxdate": "1960-08-01",
-            "latitude": 35.2,
-            "name": "MESIC, NC US",
-            "datacoverage": 0.9668,
-            "id": "COOP:315573",
-            "elevationUnit": "METERS",
-            "longitude": -76.63333
-        },
-        {
-            "elevation": 655.9,
-            "mindate": "1950-09-01",
-            "maxdate": "1962-03-01",
-            "latitude": 35.38333,
-            "name": "MILLS RIVER, NC US",
-            "datacoverage": 0.9637,
-            "id": "COOP:315683",
-            "elevationUnit": "METERS",
-            "longitude": -82.56667
-        },
-        {
             "elevation": 207.3,
             "mindate": "1932-01-01",
             "maxdate": "2015-11-01",
@@ -2862,23 +1889,12 @@
             "longitude": -80.5233
         },
         {
-            "elevation": 793.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1949-06-01",
-            "latitude": 35.65,
-            "name": "MONTREAT, NC US",
-            "datacoverage": 0.883,
-            "id": "COOP:315796",
-            "elevationUnit": "METERS",
-            "longitude": -82.31667
-        },
-        {
             "elevation": 265.2,
             "mindate": "1949-03-24",
             "maxdate": "2014-01-01",
             "latitude": 35.5938,
             "name": "MOORESVILLE 2 WNW, NC US",
-            "datacoverage": 1,
+            "datacoverage": 0.042,
             "id": "COOP:315814",
             "elevationUnit": "METERS",
             "longitude": -80.8391
@@ -2972,23 +1988,12 @@
             "longitude": -80.9868
         },
         {
-            "elevation": 2023.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 35.76667,
-            "name": "MOUNT MITCHELL TVA, NC US",
-            "datacoverage": 1,
-            "id": "COOP:315921",
-            "elevationUnit": "METERS",
-            "longitude": -82.26667
-        },
-        {
             "elevation": 1991.9,
-            "mindate": "1953-10-01",
+            "mindate": "1976-10-01",
             "maxdate": "1979-04-26",
             "latitude": 35.73333,
             "name": "MOUNT MITCHELL 2 SSW, NC US",
-            "datacoverage": 0.9861,
+            "datacoverage": 0.0394,
             "id": "COOP:315922",
             "elevationUnit": "METERS",
             "longitude": -82.28333
@@ -3005,17 +2010,6 @@
             "longitude": -82.2711
         },
         {
-            "elevation": 52.1,
-            "mindate": "1948-01-01",
-            "maxdate": "1968-08-01",
-            "latitude": 35.2,
-            "name": "MOUNT OLIVE, NC US",
-            "datacoverage": 0.8671,
-            "id": "COOP:315929",
-            "elevationUnit": "METERS",
-            "longitude": -78.06667
-        },
-        {
             "elevation": 49.4,
             "mindate": "2011-01-01",
             "maxdate": "2015-11-01",
@@ -3027,17 +2021,6 @@
             "longitude": -77.98908
         },
         {
-            "elevation": 1574,
-            "mindate": "1948-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 35.43333,
-            "name": "MOUNT PISGAH, NC US",
-            "datacoverage": 1,
-            "id": "COOP:315937",
-            "elevationUnit": "METERS",
-            "longitude": -82.75
-        },
-        {
             "elevation": 225.6,
             "mindate": "1948-01-01",
             "maxdate": "2015-11-01",
@@ -3047,17 +2030,6 @@
             "id": "COOP:315945",
             "elevationUnit": "METERS",
             "longitude": -80.4308
-        },
-        {
-            "elevation": 890.9,
-            "mindate": "1949-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 35.71667,
-            "name": "MOUNT STERLING, NC US",
-            "datacoverage": 1,
-            "id": "COOP:315955",
-            "elevationUnit": "METERS",
-            "longitude": -83.08333
         },
         {
             "elevation": 30.5,
@@ -3082,17 +2054,6 @@
             "longitude": -83.9684
         },
         {
-            "elevation": 598,
-            "mindate": "1956-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 35,
-            "name": "MYERS CHAPEL, NC US",
-            "datacoverage": 1,
-            "id": "COOP:316009",
-            "elevationUnit": "METERS",
-            "longitude": -83.81667
-        },
-        {
             "elevation": 613,
             "mindate": "1934-02-01",
             "maxdate": "1976-07-01",
@@ -3104,17 +2065,6 @@
             "longitude": -83.68333
         },
         {
-            "elevation": 900.1,
-            "mindate": "1949-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 35.2,
-            "name": "NANTAHALA DAM, NC US",
-            "datacoverage": 1,
-            "id": "COOP:316036",
-            "elevationUnit": "METERS",
-            "longitude": -83.65
-        },
-        {
             "elevation": 64,
             "mindate": "1931-01-01",
             "maxdate": "1987-09-01",
@@ -3124,17 +2074,6 @@
             "id": "COOP:316044",
             "elevationUnit": "METERS",
             "longitude": -77.96667
-        },
-        {
-            "elevation": 558.1,
-            "mindate": "1949-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 35.33333,
-            "name": "NEEDMORE, NC US",
-            "datacoverage": 1,
-            "id": "COOP:316071",
-            "elevationUnit": "METERS",
-            "longitude": -83.53333
         },
         {
             "elevation": 85.3,
@@ -3214,23 +2153,12 @@
             "longitude": -79.06667
         },
         {
-            "elevation": 769,
-            "mindate": "1949-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 35.5,
-            "name": "NOLAND CREEK, NC US",
-            "datacoverage": 0.4844,
-            "id": "COOP:316185",
-            "elevationUnit": "METERS",
-            "longitude": -83.5
-        },
-        {
             "elevation": 842.8,
-            "mindate": "1948-01-01",
+            "mindate": "1948-09-01",
             "maxdate": "1981-04-02",
             "latitude": 35.7,
             "name": "NORTH FORK, NC US",
-            "datacoverage": 0.9534,
+            "datacoverage": 0.0826,
             "id": "COOP:316231",
             "elevationUnit": "METERS",
             "longitude": -82.33333
@@ -3259,11 +2187,11 @@
         },
         {
             "elevation": 320,
-            "mindate": "1948-01-01",
+            "mindate": "1948-06-01",
             "maxdate": "2005-10-01",
             "latitude": 36.07306,
             "name": "N WILKESBORO 11 SE, NC US",
-            "datacoverage": 0.8893,
+            "datacoverage": 0.0418,
             "id": "COOP:316261",
             "elevationUnit": "METERS",
             "longitude": -80.9775
@@ -3346,17 +2274,6 @@
             "longitude": -82.1236
         },
         {
-            "elevation": 442,
-            "mindate": "1948-03-01",
-            "maxdate": "1964-07-01",
-            "latitude": 35.61667,
-            "name": "OLD FORT, NC US",
-            "datacoverage": 0.9288,
-            "id": "COOP:316384",
-            "elevationUnit": "METERS",
-            "longitude": -82.18333
-        },
-        {
             "elevation": 6.1,
             "mindate": "2004-07-01",
             "maxdate": "2015-11-01",
@@ -3366,39 +2283,6 @@
             "id": "COOP:316422",
             "elevationUnit": "METERS",
             "longitude": -77.5113
-        },
-        {
-            "elevation": 3,
-            "mindate": "1952-04-01",
-            "maxdate": "1968-02-01",
-            "latitude": 35.03333,
-            "name": "ORIENTAL, NC US",
-            "datacoverage": 0.9634,
-            "id": "COOP:316452",
-            "elevationUnit": "METERS",
-            "longitude": -76.7
-        },
-        {
-            "elevation": 702,
-            "mindate": "1949-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 35.08333,
-            "name": "OTTO, NC US",
-            "datacoverage": 1,
-            "id": "COOP:316483",
-            "elevationUnit": "METERS",
-            "longitude": -83.33333
-        },
-        {
-            "elevation": 1074.1,
-            "mindate": "1949-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 35.21667,
-            "name": "OWENS GAP, NC US",
-            "datacoverage": 1,
-            "id": "COOP:316499",
-            "elevationUnit": "METERS",
-            "longitude": -82.96667
         },
         {
             "elevation": 152.4,
@@ -3421,17 +2305,6 @@
             "id": "COOP:316510",
             "elevationUnit": "METERS",
             "longitude": -78.61083
-        },
-        {
-            "elevation": 1204.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1963-02-01",
-            "latitude": 36.45,
-            "name": "PARKER 1 E, NC US",
-            "datacoverage": 0.9976,
-            "id": "COOP:316565",
-            "elevationUnit": "METERS",
-            "longitude": -81.66667
         },
         {
             "elevation": 387.1,
@@ -3478,17 +2351,6 @@
             "longitude": -79.46667
         },
         {
-            "elevation": 1003.1,
-            "mindate": "1948-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 35.35,
-            "name": "PINK BEDS, NC US",
-            "datacoverage": 0.9943,
-            "id": "COOP:316778",
-            "elevationUnit": "METERS",
-            "longitude": -82.78333
-        },
-        {
             "elevation": 667.5,
             "mindate": "1939-09-01",
             "maxdate": "2015-11-01",
@@ -3498,17 +2360,6 @@
             "id": "COOP:316805",
             "elevationUnit": "METERS",
             "longitude": -82.6475
-        },
-        {
-            "elevation": 885.1,
-            "mindate": "1949-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 36.03333,
-            "name": "PLUMTREE, NC US",
-            "datacoverage": 1,
-            "id": "COOP:316845",
-            "elevationUnit": "METERS",
-            "longitude": -82
         },
         {
             "elevation": 6.1,
@@ -3522,23 +2373,12 @@
             "longitude": -76.6592
         },
         {
-            "elevation": 732.1,
-            "mindate": "1949-01-01",
-            "maxdate": "1952-03-01",
-            "latitude": 35.63333,
-            "name": "POINT LOOKOUT, NC US",
-            "datacoverage": 0.8213,
-            "id": "COOP:316862",
-            "elevationUnit": "METERS",
-            "longitude": -82.25
-        },
-        {
             "elevation": 93,
-            "mindate": "1948-01-01",
+            "mindate": "1948-06-01",
             "maxdate": "2005-07-01",
             "latitude": 35.02028,
             "name": "POLKTON 2 NE, NC US",
-            "datacoverage": 0.956,
+            "datacoverage": 0.0398,
             "id": "COOP:316867",
             "elevationUnit": "METERS",
             "longitude": -80.16389
@@ -3553,50 +2393,6 @@
             "id": "COOP:316891",
             "elevationUnit": "METERS",
             "longitude": -79.00889
-        },
-        {
-            "elevation": 609.9,
-            "mindate": "1949-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 36.06667,
-            "name": "POPLAR, NC US",
-            "datacoverage": 1,
-            "id": "COOP:316899",
-            "elevationUnit": "METERS",
-            "longitude": -82.35
-        },
-        {
-            "elevation": 502.9,
-            "mindate": "1949-01-01",
-            "maxdate": "1957-08-01",
-            "latitude": 36.05,
-            "name": "PORES KNOB 4 ESE, NC US",
-            "datacoverage": 0.8847,
-            "id": "COOP:316908",
-            "elevationUnit": "METERS",
-            "longitude": -81.1
-        },
-        {
-            "elevation": 531,
-            "mindate": "1949-01-01",
-            "maxdate": "1962-02-01",
-            "latitude": 35.46667,
-            "name": "PROCTOR, NC US",
-            "datacoverage": 1,
-            "id": "COOP:316976",
-            "elevationUnit": "METERS",
-            "longitude": -83.71667
-        },
-        {
-            "elevation": 793.1,
-            "mindate": "1948-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 35.18333,
-            "name": "QUEBEC, NC US",
-            "datacoverage": 1,
-            "id": "COOP:317035",
-            "elevationUnit": "METERS",
-            "longitude": -82.9
         },
         {
             "elevation": 792.5,
@@ -3654,17 +2450,6 @@
             "longitude": -78.6988
         },
         {
-            "elevation": 134.1,
-            "mindate": "1945-09-01",
-            "maxdate": "1959-06-01",
-            "latitude": 35.63333,
-            "name": "RAMSEUR 6 S, NC US",
-            "datacoverage": 1,
-            "id": "COOP:317089",
-            "elevationUnit": "METERS",
-            "longitude": -79.65
-        },
-        {
             "elevation": 246.9,
             "mindate": "1931-01-01",
             "maxdate": "2015-11-01",
@@ -3674,28 +2459,6 @@
             "id": "COOP:317097",
             "elevationUnit": "METERS",
             "longitude": -79.7917
-        },
-        {
-            "elevation": 1373.1,
-            "mindate": "1948-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 35.33333,
-            "name": "RAVEN MOUNTAIN, NC US",
-            "datacoverage": 1,
-            "id": "COOP:317121",
-            "elevationUnit": "METERS",
-            "longitude": -83.36667
-        },
-        {
-            "elevation": 641,
-            "mindate": "1949-01-01",
-            "maxdate": "1958-11-01",
-            "latitude": 35.51667,
-            "name": "RAVENSFORD, NC US",
-            "datacoverage": 0.9499,
-            "id": "COOP:317129",
-            "elevationUnit": "METERS",
-            "longitude": -83.3
         },
         {
             "elevation": 54.9,
@@ -3720,28 +2483,6 @@
             "longitude": -76.9153
         },
         {
-            "elevation": 1012.9,
-            "mindate": "1949-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 36.33333,
-            "name": "REESE, NC US",
-            "datacoverage": 0.994,
-            "id": "COOP:317185",
-            "elevationUnit": "METERS",
-            "longitude": -81.83333
-        },
-        {
-            "elevation": 253,
-            "mindate": "1931-01-01",
-            "maxdate": "1963-08-01",
-            "latitude": 36.35,
-            "name": "REIDSVILLE, NC US",
-            "datacoverage": 1,
-            "id": "COOP:317197",
-            "elevationUnit": "METERS",
-            "longitude": -79.63333
-        },
-        {
             "elevation": 271.3,
             "mindate": "1962-01-01",
             "maxdate": "2015-11-01",
@@ -3764,17 +2505,6 @@
             "longitude": -81.4372
         },
         {
-            "elevation": 1327.1,
-            "mindate": "1949-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 36.33333,
-            "name": "RICH MOUNTAIN GAP, NC US",
-            "datacoverage": 0.9248,
-            "id": "COOP:317252",
-            "elevationUnit": "METERS",
-            "longitude": -81.71667
-        },
-        {
             "elevation": 64,
             "mindate": "1971-08-01",
             "maxdate": "2015-11-01",
@@ -3791,7 +2521,7 @@
             "maxdate": "2014-01-01",
             "latitude": 36.40869,
             "name": "ROARING GAP 1 NW, NC US",
-            "datacoverage": 0.9783,
+            "datacoverage": 0.0556,
             "id": "COOP:317324",
             "elevationUnit": "METERS",
             "longitude": -80.99539
@@ -3817,17 +2547,6 @@
             "id": "COOP:317346",
             "elevationUnit": "METERS",
             "longitude": -83.8128
-        },
-        {
-            "elevation": 946.1,
-            "mindate": "1949-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 35.58333,
-            "name": "ROCKYFACE MOUNTAIN, NC US",
-            "datacoverage": 0.9877,
-            "id": "COOP:317387",
-            "elevationUnit": "METERS",
-            "longitude": -82.8
         },
         {
             "elevation": 39.6,
@@ -3918,17 +2637,6 @@
             "longitude": -80.3069
         },
         {
-            "elevation": 900.1,
-            "mindate": "1949-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 35.25,
-            "name": "RUSH MOUNTAIN, NC US",
-            "datacoverage": 0.994,
-            "id": "COOP:317555",
-            "elevationUnit": "METERS",
-            "longitude": -82.46667
-        },
-        {
             "elevation": 213.4,
             "mindate": "1931-01-01",
             "maxdate": "2015-11-01",
@@ -3949,17 +2657,6 @@
             "id": "COOP:317618",
             "elevationUnit": "METERS",
             "longitude": -80.6225
-        },
-        {
-            "elevation": 1125,
-            "mindate": "1949-01-01",
-            "maxdate": "1953-10-01",
-            "latitude": 35.95,
-            "name": "SAMS GAP, NC US",
-            "datacoverage": 1,
-            "id": "COOP:317630",
-            "elevationUnit": "METERS",
-            "longitude": -82.56667
         },
         {
             "elevation": 112.5,
@@ -3984,28 +2681,6 @@
             "longitude": -79.0464
         },
         {
-            "elevation": 595,
-            "mindate": "1949-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 35.38333,
-            "name": "SANTEETLAH DAM, NC US",
-            "datacoverage": 0.994,
-            "id": "COOP:317659",
-            "elevationUnit": "METERS",
-            "longitude": -83.88333
-        },
-        {
-            "elevation": 848,
-            "mindate": "1949-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 35.35,
-            "name": "SANTEETLAH GAP, NC US",
-            "datacoverage": 1,
-            "id": "COOP:317664",
-            "elevationUnit": "METERS",
-            "longitude": -83.9
-        },
-        {
             "elevation": 30.5,
             "mindate": "1996-07-01",
             "maxdate": "2015-11-01",
@@ -4026,17 +2701,6 @@
             "id": "COOP:317727",
             "elevationUnit": "METERS",
             "longitude": -77.38417
-        },
-        {
-            "elevation": 214,
-            "mindate": "1931-01-01",
-            "maxdate": "1957-12-01",
-            "latitude": 36.01667,
-            "name": "SETTLE, NC US",
-            "datacoverage": 0.9969,
-            "id": "COOP:317789",
-            "elevationUnit": "METERS",
-            "longitude": -80.76667
         },
         {
             "elevation": 6.1,
@@ -4073,11 +2737,11 @@
         },
         {
             "elevation": 237.7,
-            "mindate": "1948-01-01",
+            "mindate": "1948-06-01",
             "maxdate": "1993-12-29",
             "latitude": 35.26667,
             "name": "SHELBY 2, NC US",
-            "datacoverage": 0.6892,
+            "datacoverage": 0.0428,
             "id": "COOP:317850",
             "elevationUnit": "METERS",
             "longitude": -81.55
@@ -4127,48 +2791,15 @@
             "longitude": -78.3443
         },
         {
-            "elevation": 1122,
-            "mindate": "1949-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 36.11667,
-            "name": "SMOKY GAP, NC US",
-            "datacoverage": 1,
-            "id": "COOP:318019",
-            "elevationUnit": "METERS",
-            "longitude": -81.93333
-        },
-        {
-            "elevation": 1702,
-            "mindate": "1948-01-01",
-            "maxdate": "1949-05-03",
-            "latitude": 36.33333,
-            "name": "SNAKE MOUNTAIN, NC US",
-            "datacoverage": 1,
-            "id": "COOP:318029",
-            "elevationUnit": "METERS",
-            "longitude": -81.7
-        },
-        {
             "elevation": 3,
-            "mindate": "1948-01-01",
+            "mindate": "1948-06-01",
             "maxdate": "1990-04-01",
             "latitude": 34.55,
             "name": "SNEADS FERRY 2 ENE, NC US",
-            "datacoverage": 1,
+            "datacoverage": 0.045,
             "id": "COOP:318037",
             "elevationUnit": "METERS",
             "longitude": -77.4
-        },
-        {
-            "elevation": 805,
-            "mindate": "1949-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 35.96667,
-            "name": "SNOW CREEK, NC US",
-            "datacoverage": 0.994,
-            "id": "COOP:318053",
-            "elevationUnit": "METERS",
-            "longitude": -82.15
         },
         {
             "elevation": 29,
@@ -4193,17 +2824,6 @@
             "longitude": -77.6668
         },
         {
-            "elevation": 153,
-            "mindate": "1931-01-01",
-            "maxdate": "1968-03-01",
-            "latitude": 35.16667,
-            "name": "SOUTHERN PINES 2 W, NC US",
-            "datacoverage": 0.9777,
-            "id": "COOP:318089",
-            "elevationUnit": "METERS",
-            "longitude": -79.43333
-        },
-        {
             "elevation": 6.1,
             "mindate": "1931-01-01",
             "maxdate": "2015-11-01",
@@ -4226,23 +2846,12 @@
             "longitude": -81.15275
         },
         {
-            "elevation": 206.7,
-            "mindate": "1950-09-01",
-            "maxdate": "1969-09-24",
-            "latitude": 36.4742,
-            "name": "EDEN, NC US",
-            "datacoverage": 0.9913,
-            "id": "COOP:318196",
-            "elevationUnit": "METERS",
-            "longitude": -79.7433
-        },
-        {
             "elevation": 1403,
-            "mindate": "1948-01-01",
+            "mindate": "1948-09-01",
             "maxdate": "1976-07-01",
             "latitude": 35.61667,
             "name": "SPRUCE MOUNTAIN, NC US",
-            "datacoverage": 0.9358,
+            "datacoverage": 0.0818,
             "id": "COOP:318216",
             "elevationUnit": "METERS",
             "longitude": -83.2
@@ -4259,39 +2868,6 @@
             "longitude": -82.0019
         },
         {
-            "elevation": 798.9,
-            "mindate": "1949-01-01",
-            "maxdate": "1961-07-01",
-            "latitude": 35.9,
-            "name": "SPRUCE PINE, NC US",
-            "datacoverage": 0.7353,
-            "id": "COOP:318224",
-            "elevationUnit": "METERS",
-            "longitude": -82.06667
-        },
-        {
-            "elevation": 921.1,
-            "mindate": "1958-01-01",
-            "maxdate": "1961-04-01",
-            "latitude": 35.88333,
-            "name": "SPRUCE PINE 2 S, NC US",
-            "datacoverage": 1,
-            "id": "COOP:318225",
-            "elevationUnit": "METERS",
-            "longitude": -82.08333
-        },
-        {
-            "elevation": 878.1,
-            "mindate": "1961-08-01",
-            "maxdate": "1962-03-01",
-            "latitude": 35.9,
-            "name": "SPRUCE PINE 1 SW, NC US",
-            "datacoverage": 1,
-            "id": "COOP:318226",
-            "elevationUnit": "METERS",
-            "longitude": -82.08333
-        },
-        {
             "elevation": 244.8,
             "mindate": "1931-01-01",
             "maxdate": "2015-11-01",
@@ -4301,17 +2877,6 @@
             "id": "COOP:318292",
             "elevationUnit": "METERS",
             "longitude": -80.8808
-        },
-        {
-            "elevation": 619,
-            "mindate": "1949-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 35.36667,
-            "name": "STECOAH, NC US",
-            "datacoverage": 1,
-            "id": "COOP:318302",
-            "elevationUnit": "METERS",
-            "longitude": -83.68333
         },
         {
             "elevation": 7.3,
@@ -4413,39 +2978,6 @@
             "longitude": -81.1716
         },
         {
-            "elevation": 1434.1,
-            "mindate": "1948-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 35.25,
-            "name": "TEYAHALEE BALD, NC US",
-            "datacoverage": 1,
-            "id": "COOP:318560",
-            "elevationUnit": "METERS",
-            "longitude": -83.8
-        },
-        {
-            "elevation": 708.1,
-            "mindate": "1959-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 35.23333,
-            "name": "THORPE POWERHOUSE, NC US",
-            "datacoverage": 1,
-            "id": "COOP:318592",
-            "elevationUnit": "METERS",
-            "longitude": -83.13333
-        },
-        {
-            "elevation": 481.9,
-            "mindate": "1949-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 35.13333,
-            "name": "TOMOTLA, NC US",
-            "datacoverage": 0.9814,
-            "id": "COOP:318664",
-            "elevationUnit": "METERS",
-            "longitude": -83.98333
-        },
-        {
             "elevation": 863.8,
             "mindate": "1946-04-01",
             "maxdate": "2015-11-01",
@@ -4466,15 +2998,6 @@
             "id": "COOP:318706",
             "elevationUnit": "METERS",
             "longitude": -77.3548
-        },
-        {
-            "mindate": "1948-03-01",
-            "maxdate": "1950-04-01",
-            "latitude": 35.36667,
-            "name": "TROY, NC US",
-            "datacoverage": 0.2694,
-            "id": "COOP:318734",
-            "longitude": -79.9
         },
         {
             "elevation": 402.3,
@@ -4499,17 +3022,6 @@
             "longitude": -83.13333
         },
         {
-            "elevation": 121.9,
-            "mindate": "1952-06-01",
-            "maxdate": "1963-02-01",
-            "latitude": 36.51667,
-            "name": "TUNGSTEN MINES, NC US",
-            "datacoverage": 1,
-            "id": "COOP:318764",
-            "elevationUnit": "METERS",
-            "longitude": -78.45
-        },
-        {
             "elevation": 261.5,
             "mindate": "1955-12-01",
             "maxdate": "2015-11-01",
@@ -4519,17 +3031,6 @@
             "id": "COOP:318778",
             "elevationUnit": "METERS",
             "longitude": -80.8142
-        },
-        {
-            "elevation": 399.9,
-            "mindate": "1949-01-01",
-            "maxdate": "1962-02-01",
-            "latitude": 35.46667,
-            "name": "TWENTYMILE, NC US",
-            "datacoverage": 0.9181,
-            "id": "COOP:318794",
-            "elevationUnit": "METERS",
-            "longitude": -83.88333
         },
         {
             "elevation": 300.2,
@@ -4565,17 +3066,6 @@
             "longitude": -77.9831
         },
         {
-            "elevation": 132,
-            "mindate": "1932-01-01",
-            "maxdate": "1948-10-01",
-            "latitude": 36.41667,
-            "name": "WARRENTON WEATHER BUREAU AIRPORT, NC US",
-            "datacoverage": 0.99,
-            "id": "COOP:319075",
-            "elevationUnit": "METERS",
-            "longitude": -78.15
-        },
-        {
             "elevation": 33.5,
             "mindate": "1983-10-01",
             "maxdate": "2015-11-01",
@@ -4599,17 +3089,6 @@
         },
         {
             "elevation": 435.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1954-09-01",
-            "latitude": 35.77449,
-            "name": "WATERVILLE 2, NC US",
-            "datacoverage": 1,
-            "id": "COOP:319122",
-            "elevationUnit": "METERS",
-            "longitude": -83.09985
-        },
-        {
-            "elevation": 435.9,
             "mindate": "1954-10-01",
             "maxdate": "2015-11-01",
             "latitude": 35.77449,
@@ -4618,17 +3097,6 @@
             "id": "COOP:319123",
             "elevationUnit": "METERS",
             "longitude": -83.09985
-        },
-        {
-            "elevation": 1631.9,
-            "mindate": "1948-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 35.18333,
-            "name": "WAYAH BALD, NC US",
-            "datacoverage": 1,
-            "id": "COOP:319139",
-            "elevationUnit": "METERS",
-            "longitude": -83.56667
         },
         {
             "elevation": 810.2,
@@ -4642,17 +3110,6 @@
             "longitude": -82.9681
         },
         {
-            "elevation": 670.6,
-            "mindate": "1949-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 35.7,
-            "name": "WEAVERVILLE, NC US",
-            "datacoverage": 1,
-            "id": "COOP:319164",
-            "elevationUnit": "METERS",
-            "longitude": -82.56667
-        },
-        {
             "elevation": 24.1,
             "mindate": "1931-01-01",
             "maxdate": "1971-12-01",
@@ -4662,28 +3119,6 @@
             "id": "COOP:319191",
             "elevationUnit": "METERS",
             "longitude": -77.6
-        },
-        {
-            "elevation": 24.1,
-            "mindate": "1948-01-01",
-            "maxdate": "1963-09-01",
-            "latitude": 36.41667,
-            "name": "WELDON 2, NC US",
-            "datacoverage": 0.956,
-            "id": "COOP:319196",
-            "elevationUnit": "METERS",
-            "longitude": -77.58333
-        },
-        {
-            "elevation": 92,
-            "mindate": "1948-01-01",
-            "maxdate": "1954-01-01",
-            "latitude": 35.71667,
-            "name": "WENDELL 6 SW, NC US",
-            "datacoverage": 0.9705,
-            "id": "COOP:319204",
-            "elevationUnit": "METERS",
-            "longitude": -78.45
         },
         {
             "elevation": 18,
@@ -4796,17 +3231,6 @@
             "longitude": -77.8788
         },
         {
-            "elevation": 2.4,
-            "mindate": "1948-01-01",
-            "maxdate": "1951-10-01",
-            "latitude": 34.23333,
-            "name": "WILMINGTON, NC US",
-            "datacoverage": 0.4774,
-            "id": "COOP:319462",
-            "elevationUnit": "METERS",
-            "longitude": -77.95
-        },
-        {
             "elevation": 12.2,
             "mindate": "1949-07-01",
             "maxdate": "2015-11-01",
@@ -4838,17 +3262,6 @@
             "id": "COOP:319527",
             "elevationUnit": "METERS",
             "longitude": -80.21667
-        },
-        {
-            "elevation": 295.7,
-            "mindate": "1948-01-01",
-            "maxdate": "1965-02-25",
-            "latitude": 36.13361,
-            "name": "WINSTON SALEM REYNOLDS AIRPORT, NC US",
-            "datacoverage": 1,
-            "id": "COOP:319539",
-            "elevationUnit": "METERS",
-            "longitude": -80.22222
         },
         {
             "elevation": 326.1,
@@ -4917,17 +3330,6 @@
             "longitude": -78.3497
         },
         {
-            "elevation": 1132,
-            "mindate": "1953-02-01",
-            "maxdate": "1962-03-01",
-            "latitude": 36.33333,
-            "name": "ZIONVILLE, NC US",
-            "datacoverage": 1,
-            "id": "COOP:319968",
-            "elevationUnit": "METERS",
-            "longitude": -81.73333
-        },
-        {
             "elevation": 57.9,
             "mindate": "1911-04-01",
             "maxdate": "2015-11-01",
@@ -4937,39 +3339,6 @@
             "id": "COOP:385633",
             "elevationUnit": "METERS",
             "longitude": -79.5683
-        },
-        {
-            "elevation": 1414.9,
-            "mindate": "1948-01-01",
-            "maxdate": "1967-10-01",
-            "latitude": 35.35,
-            "name": "HAW KNOB, NC US",
-            "datacoverage": 1,
-            "id": "COOP:403963",
-            "elevationUnit": "METERS",
-            "longitude": -84.03333
-        },
-        {
-            "elevation": 315.8,
-            "mindate": "1931-01-01",
-            "maxdate": "2015-11-01",
-            "latitude": 35.9833,
-            "name": "NEWPORT 1 NW, TN US",
-            "datacoverage": 0.9981,
-            "id": "COOP:406534",
-            "elevationUnit": "METERS",
-            "longitude": -83.2008
-        },
-        {
-            "elevation": 1866.9,
-            "mindate": "1948-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 36.1,
-            "name": "ROAN HIGH KNOB, NC US",
-            "datacoverage": 0.9826,
-            "id": "COOP:407768",
-            "elevationUnit": "METERS",
-            "longitude": -82.13333
         },
         {
             "elevation": 946.1,
@@ -10996,6 +9365,1645 @@
             "id": "GHCND:US1NCDP0005",
             "elevationUnit": "METERS",
             "longitude": -77.952612
+        },
+        {
+            "elevation": 27.1,
+            "mindate": "2010-12-01",
+            "maxdate": "2011-12-24",
+            "latitude": 34.927486,
+            "name": "BEULAVILLE 0.5 NE, NC US",
+            "datacoverage": 0.9956,
+            "id": "GHCND:US1NCDP0007",
+            "elevationUnit": "METERS",
+            "longitude": -77.765491
+        },
+        {
+            "elevation": 42.7,
+            "mindate": "2013-03-01",
+            "maxdate": "2016-09-01",
+            "latitude": 35.0945625305176,
+            "name": "ALBERTSON 1.8 SE, NC US",
+            "datacoverage": 0.4861,
+            "id": "GHCND:US1NCDP0011",
+            "elevationUnit": "METERS",
+            "longitude": -77.7978134155273
+        },
+        {
+            "elevation": 21.3,
+            "mindate": "2013-03-01",
+            "maxdate": "2016-04-17",
+            "latitude": 34.965958,
+            "name": "BEULAVILLE 3.3 NNW, NC US",
+            "datacoverage": 0.9993,
+            "id": "GHCND:US1NCDP0012",
+            "elevationUnit": "METERS",
+            "longitude": -77.795023
+        },
+        {
+            "elevation": 30.2,
+            "mindate": "2015-07-01",
+            "maxdate": "2020-02-08",
+            "latitude": 34.82587,
+            "name": "ROSE HILL 0.1 NNW, NC US",
+            "datacoverage": 0.9991,
+            "id": "GHCND:US1NCDP0017",
+            "elevationUnit": "METERS",
+            "longitude": -78.02864
+        },
+        {
+            "elevation": 10.1,
+            "mindate": "2016-04-20",
+            "maxdate": "2020-05-17",
+            "latitude": 34.741584777832,
+            "name": "WALLACE 3.7 E, NC US",
+            "datacoverage": 0.7502,
+            "id": "GHCND:US1NCDP0022",
+            "elevationUnit": "METERS",
+            "longitude": -77.9329147338867
+        },
+        {
+            "elevation": 30.2,
+            "mindate": "2017-07-14",
+            "maxdate": "2020-05-13",
+            "latitude": 35.12012,
+            "name": "ALBERTSON 1.2 WNW, NC US",
+            "datacoverage": 1,
+            "id": "GHCND:US1NCDP0025",
+            "elevationUnit": "METERS",
+            "longitude": -77.83897
+        },
+        {
+            "elevation": 3,
+            "mindate": "2007-09-01",
+            "maxdate": "2011-10-14",
+            "latitude": 36.006874,
+            "name": "KILL DEVIL HILLS 0.6 S, NC US",
+            "datacoverage": 0.8399,
+            "id": "GHCND:US1NCDR0001",
+            "elevationUnit": "METERS",
+            "longitude": -75.665265
+        },
+        {
+            "elevation": 4,
+            "mindate": "2008-10-01",
+            "maxdate": "2010-06-01",
+            "latitude": 35.934603,
+            "name": "MANTEO 3.2 NW, NC US",
+            "datacoverage": 0.9064,
+            "id": "GHCND:US1NCDR0002",
+            "elevationUnit": "METERS",
+            "longitude": -75.702201
+        },
+        {
+            "elevation": 0.6,
+            "mindate": "2011-04-01",
+            "maxdate": "2012-03-05",
+            "latitude": 35.895144,
+            "name": "MANTEO 0.4 SW, NC US",
+            "datacoverage": 0.8316,
+            "id": "GHCND:US1NCDR0008",
+            "elevationUnit": "METERS",
+            "longitude": -75.67196
+        },
+        {
+            "elevation": 0.9,
+            "mindate": "2011-04-01",
+            "maxdate": "2017-04-22",
+            "latitude": 36.022265,
+            "name": "KILL DEVIL HILLS 0.9 WNW, NC US",
+            "datacoverage": 0.9996,
+            "id": "GHCND:US1NCDR0010",
+            "elevationUnit": "METERS",
+            "longitude": -75.681623
+        },
+        {
+            "elevation": 0.9,
+            "mindate": "2011-04-01",
+            "maxdate": "2012-10-29",
+            "latitude": 36.015694,
+            "name": "KILL DEVIL HILLS 3.1 W, NC US",
+            "datacoverage": 0.9971,
+            "id": "GHCND:US1NCDR0011",
+            "elevationUnit": "METERS",
+            "longitude": -75.723777
+        },
+        {
+            "elevation": 0.9,
+            "mindate": "2012-03-01",
+            "maxdate": "2015-09-20",
+            "latitude": 35.5518341064453,
+            "name": "SALVO 0.9 NNE, NC US",
+            "datacoverage": 0.9999,
+            "id": "GHCND:US1NCDR0015",
+            "elevationUnit": "METERS",
+            "longitude": -75.4680404663086
+        },
+        {
+            "elevation": 0.9,
+            "mindate": "2012-03-01",
+            "maxdate": "2012-12-31",
+            "latitude": 35.3578262329102,
+            "name": "AVON 0.7 NE, NC US",
+            "datacoverage": 0.9961,
+            "id": "GHCND:US1NCDR0019",
+            "elevationUnit": "METERS",
+            "longitude": -75.5013198852539
+        },
+        {
+            "elevation": 3.4,
+            "mindate": "2012-04-01",
+            "maxdate": "2013-02-28",
+            "latitude": 36.048749,
+            "name": "KILL DEVIL HILLS 2.5 NNW, NC US",
+            "datacoverage": 1,
+            "id": "GHCND:US1NCDR0021",
+            "elevationUnit": "METERS",
+            "longitude": -75.68819
+        },
+        {
+            "elevation": 1.2,
+            "mindate": "2012-04-01",
+            "maxdate": "2015-11-03",
+            "latitude": 36.123227,
+            "name": "KITTY HAWK 4.0 NNW, NC US",
+            "datacoverage": 1,
+            "id": "GHCND:US1NCDR0022",
+            "elevationUnit": "METERS",
+            "longitude": -75.7496029
+        },
+        {
+            "elevation": 13.4,
+            "mindate": "2012-04-01",
+            "maxdate": "2019-11-13",
+            "latitude": 36.154243,
+            "name": "DUCK 1.1 SSE, NC US",
+            "datacoverage": 1,
+            "id": "GHCND:US1NCDR0024",
+            "elevationUnit": "METERS",
+            "longitude": -75.74781
+        },
+        {
+            "elevation": 7.3,
+            "mindate": "2012-03-01",
+            "maxdate": "2019-12-17",
+            "latitude": 36.16708,
+            "name": "DUCK 0.3 SE, NC US",
+            "datacoverage": 0.9996,
+            "id": "GHCND:US1NCDR0025",
+            "elevationUnit": "METERS",
+            "longitude": -75.751266
+        },
+        {
+            "elevation": 4.3,
+            "mindate": "2013-03-01",
+            "maxdate": "2020-05-06",
+            "latitude": 36.038507,
+            "name": "KILL DEVIL HILLS 1.6 N, NC US",
+            "datacoverage": 1,
+            "id": "GHCND:US1NCDR0027",
+            "elevationUnit": "METERS",
+            "longitude": -75.671259
+        },
+        {
+            "elevation": 3,
+            "mindate": "2010-08-02",
+            "maxdate": "2020-05-01",
+            "latitude": 35.917809,
+            "name": "MANTEO 2.5 WNW, NC US",
+            "datacoverage": 0.9994,
+            "id": "GHCND:US1NCDR0028",
+            "elevationUnit": "METERS",
+            "longitude": -75.704407
+        },
+        {
+            "elevation": 0.6,
+            "mindate": "2013-03-01",
+            "maxdate": "2017-05-16",
+            "latitude": 35.8912389725447,
+            "name": "MANTEO 0.6 SSE, NC US",
+            "datacoverage": 0.8912,
+            "id": "GHCND:US1NCDR0029",
+            "elevationUnit": "METERS",
+            "longitude": -75.6629645079374
+        },
+        {
+            "elevation": 2.1,
+            "mindate": "2011-10-01",
+            "maxdate": "2019-04-27",
+            "latitude": 35.9070091247559,
+            "name": "MANTEO 1.0 WNW, NC US",
+            "datacoverage": 0.8057,
+            "id": "GHCND:US1NCDR0033",
+            "elevationUnit": "METERS",
+            "longitude": -75.6818771362305
+        },
+        {
+            "elevation": 1.2,
+            "mindate": "2013-11-01",
+            "maxdate": "2016-10-09",
+            "latitude": 35.2570343017578,
+            "name": "FRISCO 3.3 NE, NC US",
+            "datacoverage": 1,
+            "id": "GHCND:US1NCDR0035",
+            "elevationUnit": "METERS",
+            "longitude": -75.5843276977539
+        },
+        {
+            "elevation": 1.2,
+            "mindate": "2015-02-01",
+            "maxdate": "2020-02-12",
+            "latitude": 35.2620544433594,
+            "name": "BUXTON 1.0 ESE, NC US",
+            "datacoverage": 1,
+            "id": "GHCND:US1NCDR0036",
+            "elevationUnit": "METERS",
+            "longitude": -75.5236892700195
+        },
+        {
+            "elevation": 2.4,
+            "mindate": "2002-02-01",
+            "maxdate": "2015-12-08",
+            "latitude": 36.161444,
+            "name": "DUCK 0.9 SE, NC US",
+            "datacoverage": 1,
+            "id": "GHCND:US1NCDR0038",
+            "elevationUnit": "METERS",
+            "longitude": -75.743465
+        },
+        {
+            "elevation": 2.1,
+            "mindate": "2017-04-12",
+            "maxdate": "2020-05-14",
+            "latitude": 35.580543,
+            "name": "RODANTHE 1.0 SSE, NC US",
+            "datacoverage": 1,
+            "id": "GHCND:US1NCDR0051",
+            "elevationUnit": "METERS",
+            "longitude": -75.464628
+        },
+        {
+            "elevation": 2.4,
+            "mindate": "2017-04-23",
+            "maxdate": "2019-06-24",
+            "latitude": 35.964053,
+            "name": "NAGS HEAD 1.4 NNW, NC US",
+            "datacoverage": 0.8991,
+            "id": "GHCND:US1NCDR0052",
+            "elevationUnit": "METERS",
+            "longitude": -75.632305
+        },
+        {
+            "elevation": 1.8,
+            "mindate": "2017-04-08",
+            "maxdate": "2020-05-17",
+            "latitude": 35.90207,
+            "name": "MANTEO 1.3 E, NC US",
+            "datacoverage": 0.654,
+            "id": "GHCND:US1NCDR0054",
+            "elevationUnit": "METERS",
+            "longitude": -75.64376
+        },
+        {
+            "elevation": 4,
+            "mindate": "2017-09-09",
+            "maxdate": "2020-05-17",
+            "latitude": 35.926289,
+            "name": "MANTEO 2.8 NW, NC US",
+            "datacoverage": 1,
+            "id": "GHCND:US1NCDR0062",
+            "elevationUnit": "METERS",
+            "longitude": -75.704517
+        },
+        {
+            "elevation": 1.5,
+            "mindate": "2017-09-25",
+            "maxdate": "2020-05-17",
+            "latitude": 35.270821,
+            "name": "BUXTON 0.3 ENE, NC US",
+            "datacoverage": 0.7629,
+            "id": "GHCND:US1NCDR0063",
+            "elevationUnit": "METERS",
+            "longitude": -75.53435
+        },
+        {
+            "elevation": 7.6,
+            "mindate": "2019-05-23",
+            "maxdate": "2020-05-17",
+            "latitude": 36.125743,
+            "name": "SOUTHERN SHORES 0.5 NNE, NC US",
+            "datacoverage": 0.9994,
+            "id": "GHCND:US1NCDR0069",
+            "elevationUnit": "METERS",
+            "longitude": -75.729176
+        },
+        {
+            "elevation": 249.9,
+            "mindate": "2007-08-01",
+            "maxdate": "2011-09-14",
+            "latitude": 35.9925,
+            "name": "WINSTON SALEM 7.7 S, NC US",
+            "datacoverage": 0.779,
+            "id": "GHCND:US1NCDS0001",
+            "elevationUnit": "METERS",
+            "longitude": -80.2874
+        },
+        {
+            "elevation": 255.1,
+            "mindate": "2008-03-01",
+            "maxdate": "2009-01-07",
+            "latitude": 35.85567,
+            "name": "THOMASVILLE 2.4 SSW, NC US",
+            "datacoverage": 1,
+            "id": "GHCND:US1NCDS0003",
+            "elevationUnit": "METERS",
+            "longitude": -80.08713
+        },
+        {
+            "elevation": 198.1,
+            "mindate": "1998-06-01",
+            "maxdate": "2012-07-11",
+            "latitude": 35.678388,
+            "name": "LEXINGTON 9.0 S, NC US",
+            "datacoverage": 0.3335,
+            "id": "GHCND:US1NCDS0004",
+            "elevationUnit": "METERS",
+            "longitude": -80.244805
+        },
+        {
+            "elevation": 256.3,
+            "mindate": "2008-08-01",
+            "maxdate": "2020-05-17",
+            "latitude": 35.840809,
+            "name": "THOMASVILLE 3.5 SSW, NC US",
+            "datacoverage": 1,
+            "id": "GHCND:US1NCDS0007",
+            "elevationUnit": "METERS",
+            "longitude": -80.093333
+        },
+        {
+            "elevation": 229.8,
+            "mindate": "2011-02-01",
+            "maxdate": "2016-01-27",
+            "latitude": 35.81552,
+            "name": "LEXINGTON 1.5 WNW, NC US",
+            "datacoverage": 1,
+            "id": "GHCND:US1NCDS0009",
+            "elevationUnit": "METERS",
+            "longitude": -80.28309
+        },
+        {
+            "elevation": 250.2,
+            "mindate": "2013-03-01",
+            "maxdate": "2014-03-17",
+            "latitude": 35.9597587585449,
+            "name": "CLEMMONS 6.1 SE, NC US",
+            "datacoverage": 0.9992,
+            "id": "GHCND:US1NCDS0012",
+            "elevationUnit": "METERS",
+            "longitude": -80.3084335327148
+        },
+        {
+            "elevation": 256.3,
+            "mindate": "1998-06-17",
+            "maxdate": "2020-05-16",
+            "latitude": 35.959984,
+            "name": "CLEMMONS 6.5 SE, NC US",
+            "datacoverage": 1,
+            "id": "GHCND:US1NCDS0013",
+            "elevationUnit": "METERS",
+            "longitude": -80.298842
+        },
+        {
+            "elevation": 246.9,
+            "mindate": "2013-04-01",
+            "maxdate": "2016-06-07",
+            "latitude": 35.805859,
+            "name": "LEXINGTON 6.4 W, NC US",
+            "datacoverage": 0.9819,
+            "id": "GHCND:US1NCDS0015",
+            "elevationUnit": "METERS",
+            "longitude": -80.371753
+        },
+        {
+            "elevation": 235,
+            "mindate": "2016-04-01",
+            "maxdate": "2016-12-01",
+            "latitude": 35.7586936950684,
+            "name": "SPENCER 4.4 N, NC US",
+            "datacoverage": 0.998,
+            "id": "GHCND:US1NCDS0018",
+            "elevationUnit": "METERS",
+            "longitude": -80.4308853149414
+        },
+        {
+            "elevation": 261.2,
+            "mindate": "2017-03-23",
+            "maxdate": "2020-05-17",
+            "latitude": 35.968695,
+            "name": "HIGH POINT 3.3 WSW, NC US",
+            "datacoverage": 0.8802,
+            "id": "GHCND:US1NCDS0021",
+            "elevationUnit": "METERS",
+            "longitude": -80.055181
+        },
+        {
+            "elevation": 199,
+            "mindate": "2017-06-24",
+            "maxdate": "2020-05-15",
+            "latitude": 35.651476,
+            "name": "DENTON 1.1 NNW, NC US",
+            "datacoverage": 1,
+            "id": "GHCND:US1NCDS0022",
+            "elevationUnit": "METERS",
+            "longitude": -80.11914
+        },
+        {
+            "elevation": 259.4,
+            "mindate": "2018-08-16",
+            "maxdate": "2019-06-19",
+            "latitude": 36.00602,
+            "name": "WINSTON SALEM 8.8 SE, NC US",
+            "datacoverage": 0.998,
+            "id": "GHCND:US1NCDS0024",
+            "elevationUnit": "METERS",
+            "longitude": -80.159539
+        },
+        {
+            "elevation": 256.6,
+            "mindate": "2005-12-01",
+            "maxdate": "2020-05-13",
+            "latitude": 35.951931,
+            "name": "SHEFFIELD 1.3 SW, NC US",
+            "datacoverage": 1,
+            "id": "GHCND:US1NCDV0001",
+            "elevationUnit": "METERS",
+            "longitude": -80.694574
+        },
+        {
+            "elevation": 254.5,
+            "mindate": "2008-04-01",
+            "maxdate": "2020-05-17",
+            "latitude": 35.941354,
+            "name": "ADVANCE 0.2 ESE, NC US",
+            "datacoverage": 1,
+            "id": "GHCND:US1NCDV0002",
+            "elevationUnit": "METERS",
+            "longitude": -80.413365
+        },
+        {
+            "elevation": 232.6,
+            "mindate": "2008-06-01",
+            "maxdate": "2016-12-06",
+            "latitude": 35.999,
+            "name": "MOCKSVILLE 7.4 NNW, NC US",
+            "datacoverage": 1,
+            "id": "GHCND:US1NCDV0003",
+            "elevationUnit": "METERS",
+            "longitude": -80.597
+        },
+        {
+            "elevation": 220.7,
+            "mindate": "2012-08-01",
+            "maxdate": "2020-05-17",
+            "latitude": 35.8494338989258,
+            "name": "MOCKSVILLE 4.6 SE, NC US",
+            "datacoverage": 0.9775,
+            "id": "GHCND:US1NCDV0005",
+            "elevationUnit": "METERS",
+            "longitude": -80.4978790283203
+        },
+        {
+            "elevation": 226.8,
+            "mindate": "1998-06-17",
+            "maxdate": "2020-05-13",
+            "latitude": 35.9734,
+            "name": "ADVANCE 2.9 NW, NC US",
+            "datacoverage": 1,
+            "id": "GHCND:US1NCDV0006",
+            "elevationUnit": "METERS",
+            "longitude": -80.4415
+        },
+        {
+            "elevation": 278.9,
+            "mindate": "2014-03-01",
+            "maxdate": "2020-05-17",
+            "latitude": 35.9957478940487,
+            "name": "SHEFFIELD 1.9 NE, NC US",
+            "datacoverage": 1,
+            "id": "GHCND:US1NCDV0009",
+            "elevationUnit": "METERS",
+            "longitude": -80.6641712039709
+        },
+        {
+            "elevation": 234.1,
+            "mindate": "2016-09-08",
+            "maxdate": "2020-05-17",
+            "latitude": 35.8917,
+            "name": "MOCKSVILLE 3.7 W, NC US",
+            "datacoverage": 0.8145,
+            "id": "GHCND:US1NCDV0012",
+            "elevationUnit": "METERS",
+            "longitude": -80.6225
+        },
+        {
+            "elevation": 15.8,
+            "mindate": "2007-10-01",
+            "maxdate": "2008-09-08",
+            "latitude": 35.8968,
+            "name": "TARBORO 1.6 ESE, NC US",
+            "datacoverage": 0.998,
+            "id": "GHCND:US1NCED0003",
+            "elevationUnit": "METERS",
+            "longitude": -77.5322
+        },
+        {
+            "elevation": 15.5,
+            "mindate": "2013-01-01",
+            "maxdate": "2014-03-18",
+            "latitude": 35.839073,
+            "name": "CONETOE 3.0 ENE, NC US",
+            "datacoverage": 0.7454,
+            "id": "GHCND:US1NCED0007",
+            "elevationUnit": "METERS",
+            "longitude": -77.410469
+        },
+        {
+            "elevation": 13.4,
+            "mindate": "2016-02-11",
+            "maxdate": "2020-05-09",
+            "latitude": 35.839078,
+            "name": "TARBORO 5.9 SE, NC US",
+            "datacoverage": 1,
+            "id": "GHCND:US1NCED0011",
+            "elevationUnit": "METERS",
+            "longitude": -77.494955
+        },
+        {
+            "elevation": 20.4,
+            "mindate": "2017-04-12",
+            "maxdate": "2020-05-05",
+            "latitude": 35.89844,
+            "name": "TARBORO 0.7 S, NC US",
+            "datacoverage": 0.8574,
+            "id": "GHCND:US1NCED0015",
+            "elevationUnit": "METERS",
+            "longitude": -77.55438
+        },
+        {
+            "elevation": 33.8,
+            "mindate": "2017-10-04",
+            "maxdate": "2020-05-17",
+            "latitude": 35.92876,
+            "name": "ROCKY MOUNT 3.1 SE, NC US",
+            "datacoverage": 0.9299,
+            "id": "GHCND:US1NCED0018",
+            "elevationUnit": "METERS",
+            "longitude": -77.76839
+        },
+        {
+            "elevation": 103.9,
+            "mindate": "2007-09-01",
+            "maxdate": "2020-05-06",
+            "latitude": 36.05986,
+            "name": "LOUISBURG 8.2 ESE, NC US",
+            "datacoverage": 1,
+            "id": "GHCND:US1NCFK0001",
+            "elevationUnit": "METERS",
+            "longitude": -78.160712
+        },
+        {
+            "elevation": 128.9,
+            "mindate": "2007-09-01",
+            "maxdate": "2016-09-30",
+            "latitude": 35.988059,
+            "name": "YOUNGSVILLE 4.1 SE, NC US",
+            "datacoverage": 1,
+            "id": "GHCND:US1NCFK0002",
+            "elevationUnit": "METERS",
+            "longitude": -78.419585
+        },
+        {
+            "elevation": 137.2,
+            "mindate": "2007-09-01",
+            "maxdate": "2016-06-30",
+            "latitude": 36.025944,
+            "name": "YOUNGSVILLE 1.2 E, NC US",
+            "datacoverage": 1,
+            "id": "GHCND:US1NCFK0003",
+            "elevationUnit": "METERS",
+            "longitude": -78.454911
+        },
+        {
+            "elevation": 128.9,
+            "mindate": "2008-11-01",
+            "maxdate": "2013-07-03",
+            "latitude": 36.047546,
+            "name": "YOUNGSVILLE 1.8 NNE, NC US",
+            "datacoverage": 0.4388,
+            "id": "GHCND:US1NCFK0006",
+            "elevationUnit": "METERS",
+            "longitude": -78.460245
+        },
+        {
+            "elevation": 82.9,
+            "mindate": "2011-02-01",
+            "maxdate": "2019-11-03",
+            "latitude": 35.976361,
+            "name": "BUNN 1.2 N, NC US",
+            "datacoverage": 1,
+            "id": "GHCND:US1NCFK0007",
+            "elevationUnit": "METERS",
+            "longitude": -78.252902
+        },
+        {
+            "elevation": 102.4,
+            "mindate": "2010-10-01",
+            "maxdate": "2013-03-27",
+            "latitude": 35.887433,
+            "name": "SPRING HOPE 7.8 WSW, NC US",
+            "datacoverage": 0.5667,
+            "id": "GHCND:US1NCFK0008",
+            "elevationUnit": "METERS",
+            "longitude": -78.228861
+        },
+        {
+            "elevation": 121.3,
+            "mindate": "2012-05-01",
+            "maxdate": "2020-05-01",
+            "latitude": 36.019193,
+            "name": "WAKE FOREST 3.5 NNW, NC US",
+            "datacoverage": 0.9997,
+            "id": "GHCND:US1NCFK0010",
+            "elevationUnit": "METERS",
+            "longitude": -78.535489
+        },
+        {
+            "elevation": 88.1,
+            "mindate": "2012-07-01",
+            "maxdate": "2020-05-15",
+            "latitude": 35.90126,
+            "name": "ZEBULON 5.3 N, NC US",
+            "datacoverage": 0.9998,
+            "id": "GHCND:US1NCFK0011",
+            "elevationUnit": "METERS",
+            "longitude": -78.310288
+        },
+        {
+            "elevation": 103.6,
+            "mindate": "2013-04-01",
+            "maxdate": "2020-05-17",
+            "latitude": 36.09694,
+            "name": "LOUISBURG 2.5 W, NC US",
+            "datacoverage": 0.9998,
+            "id": "GHCND:US1NCFK0012",
+            "elevationUnit": "METERS",
+            "longitude": -78.34451
+        },
+        {
+            "elevation": 95.4,
+            "mindate": "2014-10-04",
+            "maxdate": "2020-04-25",
+            "latitude": 36.0055999755859,
+            "name": "SPRING HOPE 5.6 NW, NC US",
+            "datacoverage": 0.4325,
+            "id": "GHCND:US1NCFK0018",
+            "elevationUnit": "METERS",
+            "longitude": -78.1745986938477
+        },
+        {
+            "elevation": 57.6,
+            "mindate": "2015-12-01",
+            "maxdate": "2020-05-17",
+            "latitude": 35.970495,
+            "name": "LOUISBURG 10.6 SSE, NC US",
+            "datacoverage": 1,
+            "id": "GHCND:US1NCFK0020",
+            "elevationUnit": "METERS",
+            "longitude": -78.196786
+        },
+        {
+            "elevation": 123.1,
+            "mindate": "2016-02-03",
+            "maxdate": "2017-02-16",
+            "latitude": 36.041944,
+            "name": "YOUNGSVILLE 2.0 NE, NC US",
+            "datacoverage": 0.9032,
+            "id": "GHCND:US1NCFK0021",
+            "elevationUnit": "METERS",
+            "longitude": -78.4475
+        },
+        {
+            "elevation": 77.4,
+            "mindate": "2017-05-01",
+            "maxdate": "2019-08-16",
+            "latitude": 35.983056,
+            "name": "LOUISBURG 10.0 SE, NC US",
+            "datacoverage": 1,
+            "id": "GHCND:US1NCFK0024",
+            "elevationUnit": "METERS",
+            "longitude": -78.194167
+        },
+        {
+            "elevation": 114,
+            "mindate": "2017-10-20",
+            "maxdate": "2020-05-17",
+            "latitude": 36.0513,
+            "name": "FRANKLINTON 3.7 SSE, NC US",
+            "datacoverage": 1,
+            "id": "GHCND:US1NCFK0025",
+            "elevationUnit": "METERS",
+            "longitude": -78.4435
+        },
+        {
+            "elevation": 273.1,
+            "mindate": "2007-09-01",
+            "maxdate": "2012-11-15",
+            "latitude": 36.09424,
+            "name": "WINSTON SALEM 0.6 S, NC US",
+            "datacoverage": 0.9998,
+            "id": "GHCND:US1NCFR0001",
+            "elevationUnit": "METERS",
+            "longitude": -80.261088
+        },
+        {
+            "elevation": 246,
+            "mindate": "2007-09-01",
+            "maxdate": "2009-08-31",
+            "latitude": 35.989699,
+            "name": "CLEMMONS 2.4 SSE, NC US",
+            "datacoverage": 1,
+            "id": "GHCND:US1NCFR0002",
+            "elevationUnit": "METERS",
+            "longitude": -80.367744
+        },
+        {
+            "elevation": 269.4,
+            "mindate": "2008-02-01",
+            "maxdate": "2020-05-17",
+            "latitude": 36.154362,
+            "name": "LEWISVILLE 4.2 N, NC US",
+            "datacoverage": 1,
+            "id": "GHCND:US1NCFR0004",
+            "elevationUnit": "METERS",
+            "longitude": -80.405506
+        },
+        {
+            "elevation": 273.7,
+            "mindate": "2008-09-01",
+            "maxdate": "2018-10-12",
+            "latitude": 36.200128,
+            "name": "WALKERTOWN 3.2 NW, NC US",
+            "datacoverage": 0.4067,
+            "id": "GHCND:US1NCFR0005",
+            "elevationUnit": "METERS",
+            "longitude": -80.197036
+        },
+        {
+            "elevation": 271,
+            "mindate": "2008-11-01",
+            "maxdate": "2012-02-10",
+            "latitude": 36.156211,
+            "name": "PFAFFTOWN 1.1 SSE, NC US",
+            "datacoverage": 1,
+            "id": "GHCND:US1NCFR0006",
+            "elevationUnit": "METERS",
+            "longitude": -80.370048
+        },
+        {
+            "elevation": 280.4,
+            "mindate": "2010-03-01",
+            "maxdate": "2020-05-17",
+            "latitude": 36.093139,
+            "name": "LEWISVILLE 0.5 W, NC US",
+            "datacoverage": 0.9995,
+            "id": "GHCND:US1NCFR0007",
+            "elevationUnit": "METERS",
+            "longitude": -80.411299
+        },
+        {
+            "elevation": 280.1,
+            "mindate": "2010-10-01",
+            "maxdate": "2012-03-31",
+            "latitude": 36.143,
+            "name": "KERNERSVILLE 3.1 NW, NC US",
+            "datacoverage": 0.9998,
+            "id": "GHCND:US1NCFR0008",
+            "elevationUnit": "METERS",
+            "longitude": -80.122
+        },
+        {
+            "elevation": 281.6,
+            "mindate": "2011-04-01",
+            "maxdate": "2011-12-24",
+            "latitude": 36.023167,
+            "name": "KERNERSVILLE 6.6 S, NC US",
+            "datacoverage": 0.9961,
+            "id": "GHCND:US1NCFR0009",
+            "elevationUnit": "METERS",
+            "longitude": -80.089912
+        },
+        {
+            "elevation": 233.8,
+            "mindate": "2011-11-01",
+            "maxdate": "2020-05-09",
+            "latitude": 36.1446,
+            "name": "WINSTON SALEM 4.5 NW, NC US",
+            "datacoverage": 1,
+            "id": "GHCND:US1NCFR0012",
+            "elevationUnit": "METERS",
+            "longitude": -80.3243
+        },
+        {
+            "elevation": 278.9,
+            "mindate": "2012-05-01",
+            "maxdate": "2017-12-06",
+            "latitude": 36.14327,
+            "name": "KERNERSVILLE 3.0 NW, NC US",
+            "datacoverage": 0.9997,
+            "id": "GHCND:US1NCFR0013",
+            "elevationUnit": "METERS",
+            "longitude": -80.12136
+        },
+        {
+            "elevation": 267.9,
+            "mindate": "2013-01-01",
+            "maxdate": "2015-12-07",
+            "latitude": 36.0852,
+            "name": "WINSTON SALEM 1.4 SSW, NC US",
+            "datacoverage": 1,
+            "id": "GHCND:US1NCFR0014",
+            "elevationUnit": "METERS",
+            "longitude": -80.2766
+        },
+        {
+            "elevation": 276.8,
+            "mindate": "2014-09-01",
+            "maxdate": "2016-01-15",
+            "latitude": 36.1100029,
+            "name": "KERNERSVILLE 3.8 W, NC US",
+            "datacoverage": 0.9989,
+            "id": "GHCND:US1NCFR0018",
+            "elevationUnit": "METERS",
+            "longitude": -80.1428646
+        },
+        {
+            "elevation": 273.1,
+            "mindate": "2014-02-01",
+            "maxdate": "2015-10-02",
+            "latitude": 36.1224021911621,
+            "name": "WINSTON SALEM 3.7 WNW, NC US",
+            "datacoverage": 1,
+            "id": "GHCND:US1NCFR0021",
+            "elevationUnit": "METERS",
+            "longitude": -80.3249206542969
+        },
+        {
+            "elevation": 294.7,
+            "mindate": "2012-04-03",
+            "maxdate": "2020-05-16",
+            "latitude": 36.103255,
+            "name": "KERNERSVILLE 1.1 SSW, NC US",
+            "datacoverage": 0.9986,
+            "id": "GHCND:US1NCFR0022",
+            "elevationUnit": "METERS",
+            "longitude": -80.0835199
+        },
+        {
+            "elevation": 245.4,
+            "mindate": "2014-04-01",
+            "maxdate": "2020-05-15",
+            "latitude": 36.0528,
+            "name": "WINSTON SALEM 4.1 SSW, NC US",
+            "datacoverage": 0.9993,
+            "id": "GHCND:US1NCFR0023",
+            "elevationUnit": "METERS",
+            "longitude": -80.3021
+        },
+        {
+            "elevation": 290.2,
+            "mindate": "2015-03-01",
+            "maxdate": "2016-07-29",
+            "latitude": 36.127529,
+            "name": "KERNERSVILLE 1.2 WNW, NC US",
+            "datacoverage": 0.9967,
+            "id": "GHCND:US1NCFR0026",
+            "elevationUnit": "METERS",
+            "longitude": -80.093948
+        },
+        {
+            "elevation": 253.3,
+            "mindate": "2015-10-01",
+            "maxdate": "2020-05-17",
+            "latitude": 36.1088180541992,
+            "name": "WINSTON SALEM 5.9 W, NC US",
+            "datacoverage": 0.998,
+            "id": "GHCND:US1NCFR0027",
+            "elevationUnit": "METERS",
+            "longitude": -80.368278503418
+        },
+        {
+            "elevation": 266.7,
+            "mindate": "2016-07-01",
+            "maxdate": "2017-06-17",
+            "latitude": 36.1560668945313,
+            "name": "PFAFFTOWN 0.5 WNW, NC US",
+            "datacoverage": 0.9994,
+            "id": "GHCND:US1NCFR0029",
+            "elevationUnit": "METERS",
+            "longitude": -80.3704452514648
+        },
+        {
+            "elevation": 236.8,
+            "mindate": "2016-09-15",
+            "maxdate": "2017-06-01",
+            "latitude": 36.093551,
+            "name": "WINSTON SALEM 0.6 S, NC US",
+            "datacoverage": 0.3962,
+            "id": "GHCND:US1NCFR0031",
+            "elevationUnit": "METERS",
+            "longitude": -80.264588
+        },
+        {
+            "elevation": 303,
+            "mindate": "1998-06-17",
+            "maxdate": "2020-05-17",
+            "latitude": 36.15277,
+            "name": "WINSTON SALEM 4.2 NNE, NC US",
+            "datacoverage": 0.9996,
+            "id": "GHCND:US1NCFR0034",
+            "elevationUnit": "METERS",
+            "longitude": -80.22146
+        },
+        {
+            "elevation": 238.7,
+            "mindate": "2017-10-01",
+            "maxdate": "2020-05-17",
+            "latitude": 36.02095,
+            "name": "CLEMMONS 0.9 W, NC US",
+            "datacoverage": 1,
+            "id": "GHCND:US1NCFR0035",
+            "elevationUnit": "METERS",
+            "longitude": -80.40413
+        },
+        {
+            "elevation": 222.5,
+            "mindate": "2018-03-23",
+            "maxdate": "2018-07-22",
+            "latitude": 36.010245,
+            "name": "CLEMMONS 1.0 SW, NC US",
+            "datacoverage": 1,
+            "id": "GHCND:US1NCFR0037",
+            "elevationUnit": "METERS",
+            "longitude": -80.400331
+        },
+        {
+            "elevation": 608.4,
+            "mindate": "2008-09-01",
+            "maxdate": "2013-12-29",
+            "latitude": 35.34072,
+            "name": "ROBBINSVILLE 1.5 NNW, NC US",
+            "datacoverage": 1,
+            "id": "GHCND:US1NCGH0003",
+            "elevationUnit": "METERS",
+            "longitude": -83.8215
+        },
+        {
+            "elevation": 264.3,
+            "mindate": "2007-09-01",
+            "maxdate": "2012-06-20",
+            "latitude": 36.100833,
+            "name": "GREENSBORO 1.8 NNW, NC US",
+            "datacoverage": 1,
+            "id": "GHCND:US1NCGL0001",
+            "elevationUnit": "METERS",
+            "longitude": -79.844722
+        },
+        {
+            "elevation": 252.1,
+            "mindate": "2007-09-01",
+            "maxdate": "2009-03-13",
+            "latitude": 36.067284,
+            "name": "GREENSBORO 1.0 SE, NC US",
+            "datacoverage": 1,
+            "id": "GHCND:US1NCGL0002",
+            "elevationUnit": "METERS",
+            "longitude": -79.816849
+        },
+        {
+            "elevation": 262.1,
+            "mindate": "2007-09-01",
+            "maxdate": "2011-09-30",
+            "latitude": 36.067159,
+            "name": "GREENSBORO 1.4 SW, NC US",
+            "datacoverage": 1,
+            "id": "GHCND:US1NCGL0003",
+            "elevationUnit": "METERS",
+            "longitude": -79.846577
+        },
+        {
+            "elevation": 251.2,
+            "mindate": "2007-08-01",
+            "maxdate": "2011-03-03",
+            "latitude": 36.162584,
+            "name": "GREENSBORO 5.9 N, NC US",
+            "datacoverage": 0.5498,
+            "id": "GHCND:US1NCGL0004",
+            "elevationUnit": "METERS",
+            "longitude": -79.809556
+        },
+        {
+            "elevation": 253,
+            "mindate": "2008-01-01",
+            "maxdate": "2010-10-26",
+            "latitude": 36.0725,
+            "name": "GREENSBORO 0.4 S, NC US",
+            "datacoverage": 0.6764,
+            "id": "GHCND:US1NCGL0006",
+            "elevationUnit": "METERS",
+            "longitude": -79.8261
+        },
+        {
+            "elevation": 264.3,
+            "mindate": "2008-02-01",
+            "maxdate": "2020-05-17",
+            "latitude": 36.140393,
+            "name": "OAK RIDGE 2.3 SSW, NC US",
+            "datacoverage": 1,
+            "id": "GHCND:US1NCGL0007",
+            "elevationUnit": "METERS",
+            "longitude": -80.000353
+        },
+        {
+            "elevation": 242.3,
+            "mindate": "2008-03-01",
+            "maxdate": "2020-05-14",
+            "latitude": 36.1515,
+            "name": "GREENSBORO 5.3 NNE, NC US",
+            "datacoverage": 1,
+            "id": "GHCND:US1NCGL0008",
+            "elevationUnit": "METERS",
+            "longitude": -79.7968
+        },
+        {
+            "elevation": 265.8,
+            "mindate": "2008-03-01",
+            "maxdate": "2011-01-24",
+            "latitude": 35.991088,
+            "name": "GREENSBORO 6.5 SSE, NC US",
+            "datacoverage": 1,
+            "id": "GHCND:US1NCGL0011",
+            "elevationUnit": "METERS",
+            "longitude": -79.786966
+        },
+        {
+            "elevation": 235.3,
+            "mindate": "2008-03-01",
+            "maxdate": "2008-09-27",
+            "latitude": 36.162937,
+            "name": "GIBSONVILLE 6.9 NW, NC US",
+            "datacoverage": 0.9956,
+            "id": "GHCND:US1NCGL0012",
+            "elevationUnit": "METERS",
+            "longitude": -79.641361
+        },
+        {
+            "elevation": 252.4,
+            "mindate": "2008-06-01",
+            "maxdate": "2020-05-16",
+            "latitude": 36.2455,
+            "name": "BROWNS SUMMIT 3.2 NW, NC US",
+            "datacoverage": 1,
+            "id": "GHCND:US1NCGL0013",
+            "elevationUnit": "METERS",
+            "longitude": -79.7543
+        },
+        {
+            "elevation": 259.1,
+            "mindate": "2009-06-01",
+            "maxdate": "2011-07-07",
+            "latitude": 36.066071,
+            "name": "GREENSBORO 1.9 WSW, NC US",
+            "datacoverage": 1,
+            "id": "GHCND:US1NCGL0015",
+            "elevationUnit": "METERS",
+            "longitude": -79.857347
+        },
+        {
+            "elevation": 238.4,
+            "mindate": "2010-03-01",
+            "maxdate": "2020-05-17",
+            "latitude": 36.2467,
+            "name": "BROWNS SUMMIT 3.4 NW, NC US",
+            "datacoverage": 0.9995,
+            "id": "GHCND:US1NCGL0016",
+            "elevationUnit": "METERS",
+            "longitude": -79.7572
+        },
+        {
+            "elevation": 258.5,
+            "mindate": "2010-09-01",
+            "maxdate": "2016-07-17",
+            "latitude": 36.082043,
+            "name": "GREENSBORO 0.9 WNW, NC US",
+            "datacoverage": 1,
+            "id": "GHCND:US1NCGL0017",
+            "elevationUnit": "METERS",
+            "longitude": -79.843233
+        },
+        {
+            "elevation": 253.6,
+            "mindate": "2010-09-01",
+            "maxdate": "2012-10-24",
+            "latitude": 36.149036,
+            "name": "GREENSBORO 4.9 N, NC US",
+            "datacoverage": 0.998,
+            "id": "GHCND:US1NCGL0018",
+            "elevationUnit": "METERS",
+            "longitude": -79.837129
+        },
+        {
+            "elevation": 272.2,
+            "mindate": "2011-10-01",
+            "maxdate": "2013-11-04",
+            "latitude": 36.023395,
+            "name": "HIGH POINT 3.7 NE, NC US",
+            "datacoverage": 0.8388,
+            "id": "GHCND:US1NCGL0021",
+            "elevationUnit": "METERS",
+            "longitude": -79.957169
+        },
+        {
+            "elevation": 256.6,
+            "mindate": "2011-09-01",
+            "maxdate": "2013-06-06",
+            "latitude": 35.9823,
+            "name": "HIGH POINT 0.4 E, NC US",
+            "datacoverage": 0.728,
+            "id": "GHCND:US1NCGL0022",
+            "elevationUnit": "METERS",
+            "longitude": -79.9905
+        },
+        {
+            "elevation": 256.3,
+            "mindate": "2013-01-01",
+            "maxdate": "2016-04-07",
+            "latitude": 36.065128,
+            "name": "GREENSBORO 1.4 SE, NC US",
+            "datacoverage": 0.7443,
+            "id": "GHCND:US1NCGL0029",
+            "elevationUnit": "METERS",
+            "longitude": -79.808716
+        },
+        {
+            "elevation": 247.5,
+            "mindate": "2014-04-01",
+            "maxdate": "2019-07-25",
+            "latitude": 36.212216,
+            "name": "SUMMERFIELD 2.0 ENE, NC US",
+            "datacoverage": 1,
+            "id": "GHCND:US1NCGL0040",
+            "elevationUnit": "METERS",
+            "longitude": -79.859859
+        },
+        {
+            "elevation": 255.1,
+            "mindate": "2014-07-01",
+            "maxdate": "2020-05-13",
+            "latitude": 35.976108,
+            "name": "GREENSBORO 7.1 S, NC US",
+            "datacoverage": 0.9987,
+            "id": "GHCND:US1NCGL0041",
+            "elevationUnit": "METERS",
+            "longitude": -79.836675
+        },
+        {
+            "elevation": 264.3,
+            "mindate": "2015-05-01",
+            "maxdate": "2017-03-11",
+            "latitude": 36.0339775085449,
+            "name": "JAMESTOWN 2.8 NNE, NC US",
+            "datacoverage": 0.9965,
+            "id": "GHCND:US1NCGL0042",
+            "elevationUnit": "METERS",
+            "longitude": -79.9184799194336
+        },
+        {
+            "elevation": 214.9,
+            "mindate": "2015-10-16",
+            "maxdate": "2020-05-17",
+            "latitude": 36.045631,
+            "name": "GREENSBORO 6.8 ESE, NC US",
+            "datacoverage": 0.5835,
+            "id": "GHCND:US1NCGL0044",
+            "elevationUnit": "METERS",
+            "longitude": -79.712898
+        },
+        {
+            "elevation": 242.3,
+            "mindate": "2015-11-20",
+            "maxdate": "2020-05-17",
+            "latitude": 36.117693,
+            "name": "GREENSBORO 4.1 NE, NC US",
+            "datacoverage": 0.2852,
+            "id": "GHCND:US1NCGL0045",
+            "elevationUnit": "METERS",
+            "longitude": -79.772116
+        },
+        {
+            "elevation": 270.7,
+            "mindate": "2016-08-31",
+            "maxdate": "2017-05-20",
+            "latitude": 35.96209,
+            "name": "HIGH POINT 1.9 SW, NC US",
+            "datacoverage": 0.5133,
+            "id": "GHCND:US1NCGL0047",
+            "elevationUnit": "METERS",
+            "longitude": -80.021796
+        },
+        {
+            "elevation": 275.8,
+            "mindate": "2016-04-30",
+            "maxdate": "2020-05-15",
+            "latitude": 36.059757232666,
+            "name": "GREENSBORO 5.0 WSW, NC US",
+            "datacoverage": 1,
+            "id": "GHCND:US1NCGL0049",
+            "elevationUnit": "METERS",
+            "longitude": -79.9127960205078
+        },
+        {
+            "elevation": 255.1,
+            "mindate": "2017-07-19",
+            "maxdate": "2020-05-14",
+            "latitude": 36.18175,
+            "name": "SUMMERFIELD 2.2 SE, NC US",
+            "datacoverage": 0.8497,
+            "id": "GHCND:US1NCGL0054",
+            "elevationUnit": "METERS",
+            "longitude": -79.86454
+        },
+        {
+            "elevation": 268.2,
+            "mindate": "2018-01-26",
+            "maxdate": "2020-05-14",
+            "latitude": 36.233675,
+            "name": "SUMMERFIELD 2.8 NW, NC US",
+            "datacoverage": 0.9583,
+            "id": "GHCND:US1NCGL0055",
+            "elevationUnit": "METERS",
+            "longitude": -79.92684
+        },
+        {
+            "elevation": 265.2,
+            "mindate": "2018-04-16",
+            "maxdate": "2019-06-22",
+            "latitude": 36.071845,
+            "name": "GREENSBORO 1.9 WSW, NC US",
+            "datacoverage": 0.9992,
+            "id": "GHCND:US1NCGL0058",
+            "elevationUnit": "METERS",
+            "longitude": -79.85908
+        },
+        {
+            "elevation": 263.3,
+            "mindate": "2018-08-01",
+            "maxdate": "2020-05-14",
+            "latitude": 36.000759,
+            "name": "HIGH POINT 1.9 NW, NC US",
+            "datacoverage": 0.9527,
+            "id": "GHCND:US1NCGL0060",
+            "elevationUnit": "METERS",
+            "longitude": -80.020974
+        },
+        {
+            "elevation": 29.3,
+            "mindate": "2012-08-04",
+            "maxdate": "2020-05-13",
+            "latitude": 35.495357,
+            "name": "SNOW HILL 3.1 NNE, NC US",
+            "datacoverage": 0.9391,
+            "id": "GHCND:US1NCGN0007",
+            "elevationUnit": "METERS",
+            "longitude": -77.660428
+        },
+        {
+            "elevation": 18,
+            "mindate": "2017-12-31",
+            "maxdate": "2020-05-17",
+            "latitude": 35.420599,
+            "name": "HOOKERTON 0.5 ESE, NC US",
+            "datacoverage": 0.733,
+            "id": "GHCND:US1NCGN0010",
+            "elevationUnit": "METERS",
+            "longitude": -77.58023
+        },
+        {
+            "elevation": 226.8,
+            "mindate": "2007-08-01",
+            "maxdate": "2009-12-31",
+            "latitude": 35.199582,
+            "name": "GASTONIA 4.1 SSW, NC US",
+            "datacoverage": 0.9994,
+            "id": "GHCND:US1NCGS0001",
+            "elevationUnit": "METERS",
+            "longitude": -81.204461
+        },
+        {
+            "elevation": 239,
+            "mindate": "2007-09-01",
+            "maxdate": "2016-01-16",
+            "latitude": 35.250269,
+            "name": "GASTONIA 1.5 W, NC US",
+            "datacoverage": 0.5048,
+            "id": "GHCND:US1NCGS0002",
+            "elevationUnit": "METERS",
+            "longitude": -81.198621
+        },
+        {
+            "elevation": 229.2,
+            "mindate": "2008-07-01",
+            "maxdate": "2011-07-10",
+            "latitude": 35.217774,
+            "name": "GASTONIA 5.5 SE, NC US",
+            "datacoverage": 0.3784,
+            "id": "GHCND:US1NCGS0005",
+            "elevationUnit": "METERS",
+            "longitude": -81.111661
+        },
+        {
+            "elevation": 211.8,
+            "mindate": "2008-09-01",
+            "maxdate": "2020-05-17",
+            "latitude": 35.25389,
+            "name": "GASTONIA 3.9 ESE, NC US",
+            "datacoverage": 0.9995,
+            "id": "GHCND:US1NCGS0006",
+            "elevationUnit": "METERS",
+            "longitude": -81.12006
+        },
+        {
+            "elevation": 236.5,
+            "mindate": "2008-10-01",
+            "maxdate": "2013-10-07",
+            "latitude": 35.290611,
+            "name": "GASTONIA 2.5 NE, NC US",
+            "datacoverage": 1,
+            "id": "GHCND:US1NCGS0007",
+            "elevationUnit": "METERS",
+            "longitude": -81.154243
+        },
+        {
+            "elevation": 221,
+            "mindate": "2009-02-01",
+            "maxdate": "2020-05-14",
+            "latitude": 35.230702,
+            "name": "GASTONIA 5.7 SE, NC US",
+            "datacoverage": 1,
+            "id": "GHCND:US1NCGS0008",
+            "elevationUnit": "METERS",
+            "longitude": -81.09677
+        },
+        {
+            "elevation": 205.4,
+            "mindate": "2009-09-01",
+            "maxdate": "2020-05-13",
+            "latitude": 35.249,
+            "name": "BELMONT 0.4 E, NC US",
+            "datacoverage": 1,
+            "id": "GHCND:US1NCGS0009",
+            "elevationUnit": "METERS",
+            "longitude": -81.0335
+        },
+        {
+            "elevation": 235,
+            "mindate": "2009-12-01",
+            "maxdate": "2013-07-11",
+            "latitude": 35.251126,
+            "name": "GASTONIA 0.8 W, NC US",
+            "datacoverage": 1,
+            "id": "GHCND:US1NCGS0011",
+            "elevationUnit": "METERS",
+            "longitude": -81.18481
+        },
+        {
+            "elevation": 226.2,
+            "mindate": "2012-05-01",
+            "maxdate": "2020-05-17",
+            "latitude": 35.2282485961914,
+            "name": "GASTONIA 1.8 SSE, NC US",
+            "datacoverage": 0.9997,
+            "id": "GHCND:US1NCGS0021",
+            "elevationUnit": "METERS",
+            "longitude": -81.1598205566406
+        },
+        {
+            "elevation": 225.9,
+            "mindate": "2012-05-01",
+            "maxdate": "2013-07-10",
+            "latitude": 35.1999740600586,
+            "name": "GASTONIA 3.9 SSW, NC US",
+            "datacoverage": 1,
+            "id": "GHCND:US1NCGS0022",
+            "elevationUnit": "METERS",
+            "longitude": -81.1947631835938
+        },
+        {
+            "elevation": 238.4,
+            "mindate": "2012-05-01",
+            "maxdate": "2014-09-10",
+            "latitude": 35.2421379089355,
+            "name": "GASTONIA 1.3 WSW, NC US",
+            "datacoverage": 0.9996,
+            "id": "GHCND:US1NCGS0024",
+            "elevationUnit": "METERS",
+            "longitude": -81.191032409668
+        },
+        {
+            "elevation": 240.2,
+            "mindate": "2012-06-01",
+            "maxdate": "2014-04-04",
+            "latitude": 35.2795448303223,
+            "name": "GASTONIA 1.9 N, NC US",
+            "datacoverage": 0.9925,
+            "id": "GHCND:US1NCGS0026",
+            "elevationUnit": "METERS",
+            "longitude": -81.165069580078
+        },
+        {
+            "elevation": 204.2,
+            "mindate": "2013-05-01",
+            "maxdate": "2017-09-13",
+            "latitude": 35.209701,
+            "name": "GASTONIA 5.4 ESE, NC US",
+            "datacoverage": 0.999,
+            "id": "GHCND:US1NCGS0028",
+            "elevationUnit": "METERS",
+            "longitude": -81.090652
+        },
+        {
+            "elevation": 228.9,
+            "mindate": "2013-11-01",
+            "maxdate": "2016-01-17",
+            "latitude": 35.3677825927734,
+            "name": "STANLEY 4.8 E, NC US",
+            "datacoverage": 0.9257,
+            "id": "GHCND:US1NCGS0029",
+            "elevationUnit": "METERS",
+            "longitude": -81.0129776000977
+        },
+        {
+            "elevation": 244.8,
+            "mindate": "2013-11-01",
+            "maxdate": "2014-12-28",
+            "latitude": 35.369998,
+            "name": "DALLAS 4.4 NNE, NC US",
+            "datacoverage": 0.9819,
+            "id": "GHCND:US1NCGS0030",
+            "elevationUnit": "METERS",
+            "longitude": -81.137065
+        },
+        {
+            "elevation": 227.7,
+            "mindate": "2014-04-01",
+            "maxdate": "2020-05-13",
+            "latitude": 35.201319,
+            "name": "GASTONIA 4.0 SSE, NC US",
+            "datacoverage": 0.9577,
+            "id": "GHCND:US1NCGS0033",
+            "elevationUnit": "METERS",
+            "longitude": -81.137319
+        },
+        {
+            "elevation": 235.9,
+            "mindate": "2014-03-01",
+            "maxdate": "2014-08-01",
+            "latitude": 35.3187599182129,
+            "name": "DALLAS 1.3 WNW, NC US",
+            "datacoverage": 1,
+            "id": "GHCND:US1NCGS0036",
+            "elevationUnit": "METERS",
+            "longitude": -81.1996231079102
+        },
+        {
+            "elevation": 284.4,
+            "mindate": "2014-03-01",
+            "maxdate": "2020-05-16",
+            "latitude": 35.288582,
+            "name": "KINGS MOUNTAIN 3.4 NNE, NC US",
+            "datacoverage": 0.9986,
+            "id": "GHCND:US1NCGS0037",
+            "elevationUnit": "METERS",
+            "longitude": -81.330879
+        },
+        {
+            "elevation": 235.3,
+            "mindate": "2014-05-01",
+            "maxdate": "2016-10-27",
+            "latitude": 35.21508,
+            "name": "GASTONIA 3.0 SSE, NC US",
+            "datacoverage": 0.9987,
+            "id": "GHCND:US1NCGS0038",
+            "elevationUnit": "METERS",
+            "longitude": -81.144802
+        },
+        {
+            "elevation": 200.9,
+            "mindate": "2014-04-01",
+            "maxdate": "2020-05-17",
+            "latitude": 35.2470474243164,
+            "name": "GASTONIA 4.3 E, NC US",
+            "datacoverage": 0.9993,
+            "id": "GHCND:US1NCGS0044",
+            "elevationUnit": "METERS",
+            "longitude": -81.0959548950195
+        },
+        {
+            "elevation": 0,
+            "mindate": "2014-10-01",
+            "maxdate": "2017-06-21",
+            "latitude": 35.2557,
+            "name": "GASTONIA 2.9 E, NC US",
+            "datacoverage": 0.5554,
+            "id": "GHCND:US1NCGS0049",
+            "elevationUnit": "METERS",
+            "longitude": -81.1205
+        },
+        {
+            "elevation": 230.4,
+            "mindate": "2016-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 35.165329,
+            "name": "GASTONIA 8.4 SW, NC US",
+            "datacoverage": 0.962,
+            "id": "GHCND:US1NCGS0052",
+            "elevationUnit": "METERS",
+            "longitude": -81.274442
+        },
+        {
+            "elevation": 244.4,
+            "mindate": "2014-09-11",
+            "maxdate": "2020-05-17",
+            "latitude": 35.2428,
+            "name": "GASTONIA 1.6 WSW, NC US",
+            "datacoverage": 1,
+            "id": "GHCND:US1NCGS0053",
+            "elevationUnit": "METERS",
+            "longitude": -81.1977
+        },
+        {
+            "elevation": 202.7,
+            "mindate": "2016-11-27",
+            "maxdate": "2020-05-16",
+            "latitude": 35.214992,
+            "name": "CATAWBA HILLS 0.1 SSE, NC US",
+            "datacoverage": 1,
+            "id": "GHCND:US1NCGS0054",
+            "elevationUnit": "METERS",
+            "longitude": -81.109828
+        },
+        {
+            "elevation": 232.6,
+            "mindate": "2019-01-01",
+            "maxdate": "2020-05-13",
+            "latitude": 35.3151,
+            "name": "DALLAS 1.7 W, NC US",
+            "datacoverage": 0.662,
+            "id": "GHCND:US1NCGS0058",
+            "elevationUnit": "METERS",
+            "longitude": -81.2074
+        },
+        {
+            "elevation": 21.3,
+            "mindate": "2009-05-01",
+            "maxdate": "2016-09-24",
+            "latitude": 36.519871,
+            "name": "GATESVILLE 8.3 NNE, NC US",
+            "datacoverage": 0.2563,
+            "id": "GHCND:US1NCGT0001",
+            "elevationUnit": "METERS",
+            "longitude": -76.704682
+        },
+        {
+            "elevation": 8.5,
+            "mindate": "2013-07-01",
+            "maxdate": "2017-01-06",
+            "latitude": 36.43594,
+            "name": "GATESVILLE 3.3 NE, NC US",
+            "datacoverage": 1,
+            "id": "GHCND:US1NCGT0004",
+            "elevationUnit": "METERS",
+            "longitude": -76.70716
+        },
+        {
+            "elevation": 11,
+            "mindate": "2017-04-01",
+            "maxdate": "2017-11-22",
+            "latitude": 36.48433,
+            "name": "CORAPEAKE 3.5 S, NC US",
+            "datacoverage": 0.998,
+            "id": "GHCND:US1NCGT0006",
+            "elevationUnit": "METERS",
+            "longitude": -76.58784
         }
     ]
 }

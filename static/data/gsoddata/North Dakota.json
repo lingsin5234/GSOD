@@ -2,7 +2,7 @@
     "metadata": {
         "resultset": {
             "offset": 1,
-            "count": 866,
+            "count": 726,
             "limit": 1000
         }
     },
@@ -74,17 +74,6 @@
             "longitude": -101.65
         },
         {
-            "elevation": 811.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1951-05-01",
-            "latitude": 46.61667,
-            "name": "SENTINEL BUTTE 20 S, ND US",
-            "datacoverage": 0.9675,
-            "id": "COOP:320149",
-            "elevationUnit": "METERS",
-            "longitude": -103.81667
-        },
-        {
             "elevation": 617.8,
             "mindate": "1950-07-01",
             "maxdate": "2014-12-01",
@@ -116,28 +105,6 @@
             "id": "COOP:320209",
             "elevationUnit": "METERS",
             "longitude": -103.3222
-        },
-        {
-            "elevation": 470,
-            "mindate": "1950-06-01",
-            "maxdate": "1958-07-01",
-            "latitude": 48.96667,
-            "name": "ANTLER, ND US",
-            "datacoverage": 0.9341,
-            "id": "COOP:320263",
-            "elevationUnit": "METERS",
-            "longitude": -101.33333
-        },
-        {
-            "elevation": 292.9,
-            "mindate": "1944-05-01",
-            "maxdate": "1967-05-01",
-            "latitude": 47.91667,
-            "name": "ARVILLA STATE PARK, ND US",
-            "datacoverage": 0.9386,
-            "id": "COOP:320369",
-            "elevationUnit": "METERS",
-            "longitude": -97.5
         },
         {
             "elevation": 613.9,
@@ -182,17 +149,6 @@
             "id": "COOP:320500",
             "elevationUnit": "METERS",
             "longitude": -100.03333
-        },
-        {
-            "elevation": 445,
-            "mindate": "1950-07-01",
-            "maxdate": "1958-06-01",
-            "latitude": 48.5,
-            "name": "BANTRY, ND US",
-            "datacoverage": 0.9688,
-            "id": "COOP:320516",
-            "elevationUnit": "METERS",
-            "longitude": -100.6
         },
         {
             "elevation": 853.4,
@@ -283,17 +239,6 @@
             "longitude": -99.36667
         },
         {
-            "elevation": 509,
-            "mindate": "1948-01-01",
-            "maxdate": "1953-12-01",
-            "latitude": 46.8,
-            "name": "BISMARCK, ND US",
-            "datacoverage": 0.9442,
-            "id": "COOP:320814",
-            "elevationUnit": "METERS",
-            "longitude": -100.8
-        },
-        {
             "elevation": 558.1,
             "mindate": "2007-08-01",
             "maxdate": "2015-11-01",
@@ -349,17 +294,6 @@
             "longitude": -100.4527
         },
         {
-            "elevation": 659,
-            "mindate": "1948-04-01",
-            "maxdate": "1949-12-01",
-            "latitude": 48.93333,
-            "name": "BOTTINEAU STATE PARK, ND US",
-            "datacoverage": 0.6658,
-            "id": "COOP:320946",
-            "elevationUnit": "METERS",
-            "longitude": -100.36667
-        },
-        {
             "elevation": 597.7,
             "mindate": "1938-08-01",
             "maxdate": "2013-12-01",
@@ -369,17 +303,6 @@
             "id": "COOP:320961",
             "elevationUnit": "METERS",
             "longitude": -102.2463
-        },
-        {
-            "elevation": 587,
-            "mindate": "1950-09-01",
-            "maxdate": "1952-09-01",
-            "latitude": 48.78333,
-            "name": "BOWBELLS 5 E, ND US",
-            "datacoverage": 0.9599,
-            "id": "COOP:320966",
-            "elevationUnit": "METERS",
-            "longitude": -102.13333
         },
         {
             "elevation": 909.2,
@@ -404,17 +327,6 @@
             "longitude": -103.3
         },
         {
-            "elevation": 766,
-            "mindate": "1951-03-01",
-            "maxdate": "1958-06-01",
-            "latitude": 46.58333,
-            "name": "BOWMAN 30 NNW, ND US",
-            "datacoverage": 0.818,
-            "id": "COOP:321001",
-            "elevationUnit": "METERS",
-            "longitude": -103.51667
-        },
-        {
             "elevation": 524.3,
             "mindate": "1948-09-01",
             "maxdate": "2004-12-01",
@@ -424,28 +336,6 @@
             "id": "COOP:321052",
             "elevationUnit": "METERS",
             "longitude": -100.94083
-        },
-        {
-            "elevation": 479.1,
-            "mindate": "1951-06-01",
-            "maxdate": "1957-11-01",
-            "latitude": 47.06667,
-            "name": "BUCHANAN, ND US",
-            "datacoverage": 0.9971,
-            "id": "COOP:321124",
-            "elevationUnit": "METERS",
-            "longitude": -98.81667
-        },
-        {
-            "elevation": 714.1,
-            "mindate": "1951-05-01",
-            "maxdate": "1959-12-01",
-            "latitude": 46.6,
-            "name": "BURT 16 N, ND US",
-            "datacoverage": 0.9515,
-            "id": "COOP:321216",
-            "elevationUnit": "METERS",
-            "longitude": -102.13333
         },
         {
             "elevation": 524.3,
@@ -492,17 +382,6 @@
             "longitude": -99.1211
         },
         {
-            "elevation": 702,
-            "mindate": "1949-08-19",
-            "maxdate": "1959-11-30",
-            "latitude": 46.41667,
-            "name": "CARSON, ND US",
-            "datacoverage": 0.9246,
-            "id": "COOP:321365",
-            "elevationUnit": "METERS",
-            "longitude": -101.56667
-        },
-        {
             "elevation": 711.7,
             "mindate": "1931-01-01",
             "maxdate": "2013-12-01",
@@ -512,17 +391,6 @@
             "id": "COOP:321370",
             "elevationUnit": "METERS",
             "longitude": -101.57417
-        },
-        {
-            "elevation": 284.1,
-            "mindate": "1939-07-01",
-            "maxdate": "1948-10-01",
-            "latitude": 46.9,
-            "name": "CASSELTON, ND US",
-            "datacoverage": 0.928,
-            "id": "COOP:321400",
-            "elevationUnit": "METERS",
-            "longitude": -97.21667
         },
         {
             "elevation": 285,
@@ -589,17 +457,6 @@
             "id": "COOP:321500",
             "elevationUnit": "METERS",
             "longitude": -99.19861
-        },
-        {
-            "elevation": 392.9,
-            "mindate": "1948-01-01",
-            "maxdate": "1949-05-01",
-            "latitude": 46.11667,
-            "name": "COGSWELL, ND US",
-            "datacoverage": 0.8831,
-            "id": "COOP:321525",
-            "elevationUnit": "METERS",
-            "longitude": -97.91667
         },
         {
             "elevation": 359.7,
@@ -680,25 +537,14 @@
         },
         {
             "elevation": 527.3,
-            "mindate": "1948-08-01",
+            "mindate": "1948-08-02",
             "maxdate": "2011-08-01",
             "latitude": 46.8661,
             "name": "DAWSON, ND US",
-            "datacoverage": 0.7372,
+            "datacoverage": 0.0245,
             "id": "COOP:322018",
             "elevationUnit": "METERS",
             "longitude": -99.7491
-        },
-        {
-            "elevation": 439.2,
-            "mindate": "1963-06-01",
-            "maxdate": "1964-09-01",
-            "latitude": 48.11667,
-            "name": "DEVILS LAKE MUNICIPAL AIRPORT, ND US",
-            "datacoverage": 0.0403,
-            "id": "COOP:322148",
-            "elevationUnit": "METERS",
-            "longitude": -98.9
         },
         {
             "elevation": 446.2,
@@ -811,17 +657,6 @@
             "longitude": -102.5869
         },
         {
-            "elevation": 586.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1951-09-01",
-            "latitude": 48.83333,
-            "name": "SAN HAVEN, ND US",
-            "datacoverage": 0.972,
-            "id": "COOP:322385",
-            "elevationUnit": "METERS",
-            "longitude": -100.03333
-        },
-        {
             "elevation": 458.1,
             "mindate": "1931-01-01",
             "maxdate": "1975-01-01",
@@ -866,17 +701,6 @@
             "longitude": -98.85778
         },
         {
-            "elevation": 548.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1954-04-01",
-            "latitude": 47.58333,
-            "name": "ELBOWOODS, ND US",
-            "datacoverage": 0.9752,
-            "id": "COOP:322570",
-            "elevationUnit": "METERS",
-            "longitude": -102.15
-        },
-        {
             "elevation": 731.5,
             "mindate": "1982-09-01",
             "maxdate": "2015-11-01",
@@ -886,17 +710,6 @@
             "id": "COOP:322588",
             "elevationUnit": "METERS",
             "longitude": -101.8419
-        },
-        {
-            "elevation": 683.1,
-            "mindate": "1950-08-01",
-            "maxdate": "1958-06-01",
-            "latitude": 46.35,
-            "name": "ELGIN 5 S, ND US",
-            "datacoverage": 0.8949,
-            "id": "COOP:322592",
-            "elevationUnit": "METERS",
-            "longitude": -101.81667
         },
         {
             "elevation": 443.5,
@@ -941,17 +754,6 @@
             "id": "COOP:322735",
             "elevationUnit": "METERS",
             "longitude": -103.36667
-        },
-        {
-            "elevation": 502.9,
-            "mindate": "1949-11-19",
-            "maxdate": "1958-07-01",
-            "latitude": 48.03333,
-            "name": "ESMOND, ND US",
-            "datacoverage": 0.7562,
-            "id": "COOP:322767",
-            "elevationUnit": "METERS",
-            "longitude": -99.76667
         },
         {
             "elevation": 497.4,
@@ -1020,17 +822,6 @@
             "longitude": -101.2
         },
         {
-            "elevation": 591.9,
-            "mindate": "1950-06-01",
-            "maxdate": "1958-06-01",
-            "latitude": 48.9,
-            "name": "FLAXTON, ND US",
-            "datacoverage": 0.9074,
-            "id": "COOP:323019",
-            "elevationUnit": "METERS",
-            "longitude": -102.38333
-        },
-        {
             "elevation": 627.9,
             "mindate": "1951-05-01",
             "maxdate": "2013-12-01",
@@ -1097,17 +888,6 @@
             "longitude": -101.5697
         },
         {
-            "elevation": 833,
-            "mindate": "1918-04-01",
-            "maxdate": "1958-06-30",
-            "latitude": 46.86667,
-            "name": "FRYBURG 1 SSE, ND US",
-            "datacoverage": 0.9274,
-            "id": "COOP:323277",
-            "elevationUnit": "METERS",
-            "longitude": -103.3
-        },
-        {
             "elevation": 437.4,
             "mindate": "1931-01-01",
             "maxdate": "2015-11-01",
@@ -1141,15 +921,6 @@
             "longitude": -101.4198
         },
         {
-            "mindate": "1950-06-07",
-            "maxdate": "1951-09-01",
-            "latitude": 47.18333,
-            "name": "GLADSTONE 22 N, ND US",
-            "datacoverage": 0.5968,
-            "id": "COOP:323446",
-            "longitude": -102.65
-        },
-        {
             "elevation": 636.4,
             "mindate": "1948-08-01",
             "maxdate": "2015-11-01",
@@ -1161,17 +932,6 @@
             "longitude": -101.8302
         },
         {
-            "elevation": 677,
-            "mindate": "1950-08-01",
-            "maxdate": "1958-05-01",
-            "latitude": 47,
-            "name": "GLEN ULLIN 13 N, ND US",
-            "datacoverage": 0.6809,
-            "id": "COOP:323501",
-            "elevationUnit": "METERS",
-            "longitude": -101.78333
-        },
-        {
             "elevation": 566.9,
             "mindate": "1950-08-01",
             "maxdate": "2015-11-01",
@@ -1181,28 +941,6 @@
             "id": "COOP:323529",
             "elevationUnit": "METERS",
             "longitude": -102.0706
-        },
-        {
-            "elevation": 848,
-            "mindate": "1941-05-01",
-            "maxdate": "1952-11-01",
-            "latitude": 46.73333,
-            "name": "GOLVA 1 S E, ND US",
-            "datacoverage": 0.75,
-            "id": "COOP:323556",
-            "elevationUnit": "METERS",
-            "longitude": -103.95
-        },
-        {
-            "elevation": 458.1,
-            "mindate": "1951-06-01",
-            "maxdate": "1958-07-01",
-            "latitude": 47.55,
-            "name": "GRACE CITY, ND US",
-            "datacoverage": 0.9446,
-            "id": "COOP:323583",
-            "elevationUnit": "METERS",
-            "longitude": -98.8
         },
         {
             "elevation": 252.1,
@@ -1249,23 +987,12 @@
             "longitude": -97.0975
         },
         {
-            "elevation": 415.1,
-            "mindate": "1950-11-01",
-            "maxdate": "1962-07-01",
-            "latitude": 46.46667,
-            "name": "GRAND RAPIDS 1 N, ND US",
-            "datacoverage": 0.9647,
-            "id": "COOP:323665",
-            "elevationUnit": "METERS",
-            "longitude": -98.35
-        },
-        {
             "elevation": 497.1,
             "mindate": "1948-08-01",
             "maxdate": "1984-03-01",
             "latitude": 48.61667,
             "name": "GRANO, ND US",
-            "datacoverage": 0.6488,
+            "datacoverage": 0.0313,
             "id": "COOP:323676",
             "elevationUnit": "METERS",
             "longitude": -101.58333
@@ -1280,28 +1007,6 @@
             "id": "COOP:323686",
             "elevationUnit": "METERS",
             "longitude": -100.84389
-        },
-        {
-            "elevation": 811.1,
-            "mindate": "1950-06-01",
-            "maxdate": "1961-12-01",
-            "latitude": 47.4,
-            "name": "GRASSY BUTTE, ND US",
-            "datacoverage": 0.773,
-            "id": "COOP:323696",
-            "elevationUnit": "METERS",
-            "longitude": -103.23333
-        },
-        {
-            "elevation": 762.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1957-08-01",
-            "latitude": 47.51667,
-            "name": "GRASSY BUTTE 10 N, ND US",
-            "datacoverage": 0.675,
-            "id": "COOP:323701",
-            "elevationUnit": "METERS",
-            "longitude": -103.23333
         },
         {
             "elevation": 813.8,
@@ -1337,17 +1042,6 @@
             "longitude": -99.9911
         },
         {
-            "elevation": 808,
-            "mindate": "1950-07-01",
-            "maxdate": "1958-07-01",
-            "latitude": 45.96667,
-            "name": "HALEY, ND US",
-            "datacoverage": 0.7651,
-            "id": "COOP:323836",
-            "elevationUnit": "METERS",
-            "longitude": -103.13333
-        },
-        {
             "elevation": 627.9,
             "mindate": "1940-05-01",
             "maxdate": "2012-12-01",
@@ -1371,11 +1065,11 @@
         },
         {
             "elevation": 438.9,
-            "mindate": "1948-08-01",
+            "mindate": "1948-08-09",
             "maxdate": "2014-01-01",
             "latitude": 47.3111,
             "name": "HANNAFORD, ND US",
-            "datacoverage": 0.6056,
+            "datacoverage": 0.0205,
             "id": "COOP:323926",
             "elevationUnit": "METERS",
             "longitude": -98.1856
@@ -1412,17 +1106,6 @@
             "id": "COOP:324013",
             "elevationUnit": "METERS",
             "longitude": -99.8758
-        },
-        {
-            "elevation": 777.8,
-            "mindate": "1949-09-01",
-            "maxdate": "1958-06-30",
-            "latitude": 46,
-            "name": "HAYNES 5 NE, ND US",
-            "datacoverage": 0.7247,
-            "id": "COOP:324073",
-            "elevationUnit": "METERS",
-            "longitude": -102.36667
         },
         {
             "elevation": 604.1,
@@ -1492,11 +1175,11 @@
         },
         {
             "elevation": 787,
-            "mindate": "1951-03-01",
+            "mindate": "1951-05-01",
             "maxdate": "1980-09-01",
             "latitude": 46.25,
             "name": "HETTINGER 17 N, ND US",
-            "datacoverage": 0.8153,
+            "datacoverage": 0.0344,
             "id": "COOP:324186",
             "elevationUnit": "METERS",
             "longitude": -102.68333
@@ -1635,25 +1318,14 @@
         },
         {
             "elevation": 440.1,
-            "mindate": "1948-08-01",
+            "mindate": "1948-08-11",
             "maxdate": "1985-10-01",
             "latitude": 48.7,
             "name": "KRAMER 2 N, ND US",
-            "datacoverage": 0.5793,
+            "datacoverage": 0.0271,
             "id": "COOP:324823",
             "elevationUnit": "METERS",
             "longitude": -100.7
-        },
-        {
-            "elevation": 601.1,
-            "mindate": "1951-05-01",
-            "maxdate": "1958-06-01",
-            "latitude": 46.3,
-            "name": "KULM, ND US",
-            "datacoverage": 0.9185,
-            "id": "COOP:324843",
-            "elevationUnit": "METERS",
-            "longitude": -98.95
         },
         {
             "elevation": 652.9,
@@ -1720,17 +1392,6 @@
             "id": "COOP:325078",
             "elevationUnit": "METERS",
             "longitude": -99.4317
-        },
-        {
-            "elevation": 777.8,
-            "mindate": "1950-05-01",
-            "maxdate": "1959-12-01",
-            "latitude": 46.63333,
-            "name": "LEFOR 10 E, ND US",
-            "datacoverage": 0.9479,
-            "id": "COOP:325088",
-            "elevationUnit": "METERS",
-            "longitude": -102.35
         },
         {
             "elevation": 691.6,
@@ -1854,28 +1515,6 @@
             "longitude": -100.86667
         },
         {
-            "elevation": 677,
-            "mindate": "1940-06-01",
-            "maxdate": "1961-12-01",
-            "latitude": 47.23333,
-            "name": "MANNING, ND US",
-            "datacoverage": 0.7266,
-            "id": "COOP:325519",
-            "elevationUnit": "METERS",
-            "longitude": -102.76667
-        },
-        {
-            "elevation": 826.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1957-03-01",
-            "latitude": 46.3,
-            "name": "MARMARTH, ND US",
-            "datacoverage": 0.9588,
-            "id": "COOP:325573",
-            "elevationUnit": "METERS",
-            "longitude": -103.91667
-        },
-        {
             "elevation": 825.7,
             "mindate": "1950-07-01",
             "maxdate": "2014-12-01",
@@ -1896,17 +1535,6 @@
             "id": "COOP:325582",
             "elevationUnit": "METERS",
             "longitude": -102.3344
-        },
-        {
-            "elevation": 491,
-            "mindate": "1949-12-01",
-            "maxdate": "1957-08-01",
-            "latitude": 47.83333,
-            "name": "MARTIN, ND US",
-            "datacoverage": 0.9139,
-            "id": "COOP:325610",
-            "elevationUnit": "METERS",
-            "longitude": -100.11667
         },
         {
             "elevation": 643.1,
@@ -1947,7 +1575,7 @@
             "maxdate": "2014-01-01",
             "latitude": 48.5969,
             "name": "MC GREGOR, ND US",
-            "datacoverage": 0.3336,
+            "datacoverage": 0.0209,
             "id": "COOP:325720",
             "elevationUnit": "METERS",
             "longitude": -102.9283
@@ -1997,28 +1625,6 @@
             "longitude": -99.2897
         },
         {
-            "elevation": 691.9,
-            "mindate": "1937-07-01",
-            "maxdate": "1955-09-26",
-            "latitude": 46.91667,
-            "name": "MEDORA, ND US",
-            "datacoverage": 0.7256,
-            "id": "COOP:325803",
-            "elevationUnit": "METERS",
-            "longitude": -103.51667
-        },
-        {
-            "elevation": 691.9,
-            "mindate": "1948-01-01",
-            "maxdate": "1949-12-01",
-            "latitude": 46.91667,
-            "name": "MEDORA STATE PARK, ND US",
-            "datacoverage": 0.7079,
-            "id": "COOP:325808",
-            "elevationUnit": "METERS",
-            "longitude": -103.55
-        },
-        {
             "elevation": 691.3,
             "mindate": "1948-08-01",
             "maxdate": "2015-11-01",
@@ -2046,7 +1652,7 @@
             "maxdate": "1974-07-01",
             "latitude": 47.33333,
             "name": "MELVILLE, ND US",
-            "datacoverage": 0.8372,
+            "datacoverage": 0.0335,
             "id": "COOP:325833",
             "elevationUnit": "METERS",
             "longitude": -99.03333
@@ -2061,26 +1667,6 @@
             "id": "COOP:325848",
             "elevationUnit": "METERS",
             "longitude": -99.2655
-        },
-        {
-            "mindate": "1940-08-01",
-            "maxdate": "1948-12-01",
-            "latitude": 46.26667,
-            "name": "MILNOR, ND US",
-            "datacoverage": 0.9503,
-            "id": "COOP:325933",
-            "longitude": -97.46667
-        },
-        {
-            "elevation": 476.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1942-05-01",
-            "latitude": 48.23333,
-            "name": "MINOT, ND US",
-            "datacoverage": 1,
-            "id": "COOP:325980",
-            "elevationUnit": "METERS",
-            "longitude": -101.28333
         },
         {
             "elevation": 507.5,
@@ -2193,37 +1779,6 @@
             "longitude": -102.86916
         },
         {
-            "mindate": "1942-09-01",
-            "maxdate": "1947-11-01",
-            "latitude": 47,
-            "name": "NEW HRADEC 1 E, ND US",
-            "datacoverage": 1,
-            "id": "COOP:326323",
-            "longitude": -102.86667
-        },
-        {
-            "elevation": 476.1,
-            "mindate": "1949-12-01",
-            "maxdate": "1950-10-01",
-            "latitude": 47.68333,
-            "name": "NEW ROCKFORD, ND US",
-            "datacoverage": 0.9994,
-            "id": "COOP:326350",
-            "elevationUnit": "METERS",
-            "longitude": -99.13333
-        },
-        {
-            "elevation": 473,
-            "mindate": "1949-01-01",
-            "maxdate": "1958-06-01",
-            "latitude": 47.71667,
-            "name": "NEW ROCKFORD 7 WNW, ND US",
-            "datacoverage": 0.8952,
-            "id": "COOP:326355",
-            "elevationUnit": "METERS",
-            "longitude": -99.26667
-        },
-        {
             "elevation": 655.3,
             "mindate": "1931-01-01",
             "maxdate": "2015-11-01",
@@ -2257,28 +1812,6 @@
             "longitude": -102.5
         },
         {
-            "elevation": 598,
-            "mindate": "1950-06-01",
-            "maxdate": "1958-06-01",
-            "latitude": 48.88333,
-            "name": "NOONAN, ND US",
-            "datacoverage": 0.9486,
-            "id": "COOP:326455",
-            "elevationUnit": "METERS",
-            "longitude": -103.01667
-        },
-        {
-            "elevation": 460.9,
-            "mindate": "1951-04-01",
-            "maxdate": "1958-06-01",
-            "latitude": 46.55,
-            "name": "NORTONVILLE, ND US",
-            "datacoverage": 0.8851,
-            "id": "COOP:326565",
-            "elevationUnit": "METERS",
-            "longitude": -98.73333
-        },
-        {
             "elevation": 403.6,
             "mindate": "1931-01-01",
             "maxdate": "2015-11-01",
@@ -2288,15 +1821,6 @@
             "id": "COOP:326620",
             "elevationUnit": "METERS",
             "longitude": -98.0919
-        },
-        {
-            "mindate": "1948-08-09",
-            "maxdate": "1949-12-01",
-            "latitude": 48.65,
-            "name": "OMEMEE 3 SE, ND US",
-            "datacoverage": 0.3573,
-            "id": "COOP:326703",
-            "longitude": -100.33333
         },
         {
             "elevation": 295.7,
@@ -2354,17 +1878,6 @@
             "longitude": -99.53333
         },
         {
-            "elevation": 479.1,
-            "mindate": "1951-04-01",
-            "maxdate": "1957-09-01",
-            "latitude": 47.16667,
-            "name": "PINGREE, ND US",
-            "datacoverage": 0.9099,
-            "id": "COOP:327117",
-            "elevationUnit": "METERS",
-            "longitude": -98.9
-        },
-        {
             "elevation": 672.1,
             "mindate": "1931-01-01",
             "maxdate": "2006-03-01",
@@ -2388,11 +1901,11 @@
         },
         {
             "elevation": 602,
-            "mindate": "1948-08-01",
+            "mindate": "1948-08-05",
             "maxdate": "2014-01-01",
             "latitude": 47.8133,
             "name": "RAUB 5 NNE, ND US",
-            "datacoverage": 0.4055,
+            "datacoverage": 0.0232,
             "id": "COOP:327405",
             "elevationUnit": "METERS",
             "longitude": -102.0233
@@ -2541,46 +2054,15 @@
             "longitude": -100.03333
         },
         {
-            "elevation": 561.1,
-            "mindate": "1931-04-01",
-            "maxdate": "1952-09-01",
-            "latitude": 47.98333,
-            "name": "SANISH, ND US",
-            "datacoverage": 0.9611,
-            "id": "COOP:327834",
-            "elevationUnit": "METERS",
-            "longitude": -102.53333
-        },
-        {
             "elevation": 483.7,
-            "mindate": "1948-08-01",
+            "mindate": "1948-08-06",
             "maxdate": "2010-11-01",
             "latitude": 48.945,
             "name": "SARLES, ND US",
-            "datacoverage": 0.5677,
+            "datacoverage": 0.0197,
             "id": "COOP:327844",
             "elevationUnit": "METERS",
             "longitude": -98.9947
-        },
-        {
-            "elevation": 848,
-            "mindate": "1951-03-01",
-            "maxdate": "1957-09-01",
-            "latitude": 46.15,
-            "name": "SCRANTON, ND US",
-            "datacoverage": 0.9108,
-            "id": "COOP:327932",
-            "elevationUnit": "METERS",
-            "longitude": -103.15
-        },
-        {
-            "mindate": "1948-08-23",
-            "maxdate": "1950-06-01",
-            "latitude": 47.56667,
-            "name": "SEARING, ND US",
-            "datacoverage": 0.9819,
-            "id": "COOP:327944",
-            "longitude": -103.8
         },
         {
             "elevation": 665.1,
@@ -2682,17 +2164,6 @@
             "longitude": -102.36667
         },
         {
-            "elevation": 519.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1936-04-01",
-            "latitude": 47.31667,
-            "name": "STANTON, ND US",
-            "datacoverage": 1,
-            "id": "COOP:328298",
-            "elevationUnit": "METERS",
-            "longitude": -101.38333
-        },
-        {
             "elevation": 564.8,
             "mindate": "1931-01-01",
             "maxdate": "2015-11-01",
@@ -2748,15 +2219,6 @@
             "longitude": -102.4761
         },
         {
-            "mindate": "1938-07-01",
-            "maxdate": "1948-08-01",
-            "latitude": 46.36667,
-            "name": "TIMMER, ND US",
-            "datacoverage": 0.9996,
-            "id": "COOP:328727",
-            "longitude": -101
-        },
-        {
             "elevation": 684.3,
             "mindate": "1931-01-01",
             "maxdate": "2015-11-01",
@@ -2768,17 +2230,6 @@
             "longitude": -102.918
         },
         {
-            "elevation": 563.3,
-            "mindate": "1950-07-01",
-            "maxdate": "1958-06-01",
-            "latitude": 48.76667,
-            "name": "TOLLEY, ND US",
-            "datacoverage": 0.7917,
-            "id": "COOP:328764",
-            "elevationUnit": "METERS",
-            "longitude": -101.75
-        },
-        {
             "elevation": 451.1,
             "mindate": "1931-01-01",
             "maxdate": "2015-11-01",
@@ -2788,17 +2239,6 @@
             "id": "COOP:328792",
             "elevationUnit": "METERS",
             "longitude": -100.3907
-        },
-        {
-            "elevation": 741,
-            "mindate": "1927-01-01",
-            "maxdate": "1958-12-01",
-            "latitude": 47.3,
-            "name": "TROTTERS 6 SE, ND US",
-            "datacoverage": 0.9557,
-            "id": "COOP:328807",
-            "elevationUnit": "METERS",
-            "longitude": -103.86667
         },
         {
             "elevation": 737.6,
@@ -2856,17 +2296,6 @@
             "longitude": -101.1461
         },
         {
-            "elevation": 534,
-            "mindate": "1931-01-01",
-            "maxdate": "1953-12-01",
-            "latitude": 47.43333,
-            "name": "UNDERWOOD 12 W, ND US",
-            "datacoverage": 0.9384,
-            "id": "COOP:328877",
-            "elevationUnit": "METERS",
-            "longitude": -101.4
-        },
-        {
             "elevation": 434.3,
             "mindate": "1940-07-01",
             "maxdate": "2015-11-01",
@@ -2878,17 +2307,6 @@
             "longitude": -100.7263
         },
         {
-            "elevation": 438.9,
-            "mindate": "1953-04-01",
-            "maxdate": "1953-07-01",
-            "latitude": 48.58333,
-            "name": "UPHAM 3 W, ND US",
-            "datacoverage": 0.998,
-            "id": "COOP:328918",
-            "elevationUnit": "METERS",
-            "longitude": -100.78333
-        },
-        {
             "elevation": 368.8,
             "mindate": "1931-01-01",
             "maxdate": "2011-12-01",
@@ -2898,17 +2316,6 @@
             "id": "COOP:328937",
             "elevationUnit": "METERS",
             "longitude": -98.0203
-        },
-        {
-            "elevation": 566.9,
-            "mindate": "1941-06-01",
-            "maxdate": "1952-08-01",
-            "latitude": 47.95,
-            "name": "VAN HOOK, ND US",
-            "datacoverage": 0.9553,
-            "id": "COOP:328970",
-            "elevationUnit": "METERS",
-            "longitude": -102.35
         },
         {
             "elevation": 460.2,
@@ -2934,11 +2341,11 @@
         },
         {
             "elevation": 292.9,
-            "mindate": "1948-08-01",
+            "mindate": "1948-08-12",
             "maxdate": "1977-09-01",
             "latitude": 46.28333,
             "name": "WAHPETON POWER PLANT, ND US",
-            "datacoverage": 0.7372,
+            "datacoverage": 0.0306,
             "id": "COOP:329095",
             "elevationUnit": "METERS",
             "longitude": -96.6
@@ -2986,28 +2393,6 @@
             "id": "COOP:329195",
             "elevationUnit": "METERS",
             "longitude": -101.03
-        },
-        {
-            "elevation": 502.9,
-            "mindate": "1948-07-01",
-            "maxdate": "1948-07-01",
-            "latitude": 47.28333,
-            "name": "WASHBURN POWER PLANT, ND US",
-            "datacoverage": 0.9819,
-            "id": "COOP:329200",
-            "elevationUnit": "METERS",
-            "longitude": -101.03333
-        },
-        {
-            "elevation": 527.9,
-            "mindate": "1950-07-01",
-            "maxdate": "1959-11-30",
-            "latitude": 47.28333,
-            "name": "WASHBURN WATER WORKS, ND US",
-            "datacoverage": 0.8982,
-            "id": "COOP:329205",
-            "elevationUnit": "METERS",
-            "longitude": -101.03333
         },
         {
             "elevation": 630.9,
@@ -3074,17 +2459,6 @@
             "id": "COOP:329400",
             "elevationUnit": "METERS",
             "longitude": -103.213
-        },
-        {
-            "elevation": 557.8,
-            "mindate": "1948-10-01",
-            "maxdate": "1948-10-01",
-            "latitude": 48.108,
-            "name": "WILLISTON 5 SW, ND US",
-            "datacoverage": 0.9819,
-            "id": "COOP:329420",
-            "elevationUnit": "METERS",
-            "longitude": -103.7141
         },
         {
             "elevation": 570.6,
@@ -3162,17 +2536,6 @@
             "id": "COOP:329575",
             "elevationUnit": "METERS",
             "longitude": -99.2916
-        },
-        {
-            "elevation": 609.9,
-            "mindate": "1950-06-01",
-            "maxdate": "1958-06-01",
-            "latitude": 48.56667,
-            "name": "ZAHL, ND US",
-            "datacoverage": 0.9383,
-            "id": "COOP:329635",
-            "elevationUnit": "METERS",
-            "longitude": -103.68333
         },
         {
             "elevation": 556.3,
@@ -5573,17 +4936,6 @@
             "longitude": -101.65
         },
         {
-            "elevation": 811.1,
-            "mindate": "1948-01-01",
-            "maxdate": "1951-05-31",
-            "latitude": 46.61667,
-            "name": "SENTINEL BUTTE 20 S, ND US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00320149",
-            "elevationUnit": "METERS",
-            "longitude": -103.81667
-        },
-        {
             "elevation": 617.8,
             "mindate": "1950-01-01",
             "maxdate": "2020-05-13",
@@ -5617,37 +4969,6 @@
             "longitude": -103.3222
         },
         {
-            "elevation": 470,
-            "mindate": "1950-06-01",
-            "maxdate": "1952-12-31",
-            "latitude": 48.96667,
-            "name": "ANTLER, ND US",
-            "datacoverage": 0.9985,
-            "id": "GHCND:USC00320263",
-            "elevationUnit": "METERS",
-            "longitude": -101.33333
-        },
-        {
-            "mindate": "1907-01-01",
-            "maxdate": "1916-04-30",
-            "latitude": 47.15,
-            "name": "APLIN, ND US",
-            "datacoverage": 0.9378,
-            "id": "GHCND:USC00320313",
-            "longitude": -101.733333
-        },
-        {
-            "elevation": 292.9,
-            "mindate": "1946-04-01",
-            "maxdate": "1967-05-31",
-            "latitude": 47.91667,
-            "name": "ARVILLA STATE PARK, ND US",
-            "datacoverage": 0.941,
-            "id": "GHCND:USC00320369",
-            "elevationUnit": "METERS",
-            "longitude": -97.5
-        },
-        {
             "elevation": 613.9,
             "mindate": "1893-01-01",
             "maxdate": "2020-05-17",
@@ -5660,11 +4981,11 @@
         },
         {
             "elevation": 397.2,
-            "mindate": "1948-01-01",
+            "mindate": "1948-07-01",
             "maxdate": "2020-04-03",
             "latitude": 47.036,
             "name": "BALDHILL DAM, ND US",
-            "datacoverage": 0.7495,
+            "datacoverage": 0.1341,
             "id": "GHCND:USC00320450",
             "elevationUnit": "METERS",
             "longitude": -98.0831
@@ -5690,17 +5011,6 @@
             "id": "GHCND:USC00320500",
             "elevationUnit": "METERS",
             "longitude": -100.03333
-        },
-        {
-            "elevation": 445,
-            "mindate": "1950-07-01",
-            "maxdate": "1964-11-03",
-            "latitude": 48.5,
-            "name": "BANTRY, ND US",
-            "datacoverage": 0.9792,
-            "id": "GHCND:USC00320516",
-            "elevationUnit": "METERS",
-            "longitude": -100.6
         },
         {
             "elevation": 853.4,
@@ -5747,17 +5057,6 @@
             "longitude": -103.18333
         },
         {
-            "elevation": 448.1,
-            "mindate": "1893-01-01",
-            "maxdate": "1909-08-31",
-            "latitude": 46.383333,
-            "name": "BERLIN, ND US",
-            "datacoverage": 0.8752,
-            "id": "GHCND:USC00320720",
-            "elevationUnit": "METERS",
-            "longitude": -98.483333
-        },
-        {
             "elevation": 634,
             "mindate": "1950-05-01",
             "maxdate": "2010-12-31",
@@ -5800,17 +5099,6 @@
             "id": "GHCND:USC00320796",
             "elevationUnit": "METERS",
             "longitude": -99.36667
-        },
-        {
-            "elevation": 509,
-            "mindate": "1948-07-01",
-            "maxdate": "1953-12-31",
-            "latitude": 46.8,
-            "name": "BISMARCK, ND US",
-            "datacoverage": 0.9995,
-            "id": "GHCND:USC00320814",
-            "elevationUnit": "METERS",
-            "longitude": -100.8
         },
         {
             "elevation": 558.1,
@@ -5857,17 +5145,6 @@
             "longitude": -100.4527
         },
         {
-            "elevation": 659,
-            "mindate": "1948-01-01",
-            "maxdate": "1949-12-31",
-            "latitude": 48.93333,
-            "name": "BOTTINEAU STATE PARK, ND US",
-            "datacoverage": 0.9986,
-            "id": "GHCND:USC00320946",
-            "elevationUnit": "METERS",
-            "longitude": -100.36667
-        },
-        {
             "elevation": 597.7,
             "mindate": "1912-01-01",
             "maxdate": "2013-05-22",
@@ -5877,17 +5154,6 @@
             "id": "GHCND:USC00320961",
             "elevationUnit": "METERS",
             "longitude": -102.2463
-        },
-        {
-            "elevation": 587,
-            "mindate": "1950-01-01",
-            "maxdate": "1952-09-30",
-            "latitude": 48.78333,
-            "name": "BOWBELLS 5 E, ND US",
-            "datacoverage": 0.9986,
-            "id": "GHCND:USC00320966",
-            "elevationUnit": "METERS",
-            "longitude": -102.13333
         },
         {
             "elevation": 909.2,
@@ -5912,17 +5178,6 @@
             "longitude": -103.3
         },
         {
-            "elevation": 766,
-            "mindate": "1951-01-01",
-            "maxdate": "1958-06-30",
-            "latitude": 46.58333,
-            "name": "BOWMAN 30 NNW, ND US",
-            "datacoverage": 0.9203,
-            "id": "GHCND:USC00321001",
-            "elevationUnit": "METERS",
-            "longitude": -103.51667
-        },
-        {
             "elevation": 524.3,
             "mindate": "1948-01-01",
             "maxdate": "2010-12-31",
@@ -5934,39 +5189,6 @@
             "longitude": -100.94083
         },
         {
-            "elevation": 479.1,
-            "mindate": "1951-06-01",
-            "maxdate": "1952-12-31",
-            "latitude": 47.06667,
-            "name": "BUCHANAN, ND US",
-            "datacoverage": 0.9983,
-            "id": "GHCND:USC00321124",
-            "elevationUnit": "METERS",
-            "longitude": -98.81667
-        },
-        {
-            "elevation": 594.4,
-            "mindate": "1905-05-01",
-            "maxdate": "1918-08-31",
-            "latitude": 48,
-            "name": "BUFORD, ND US",
-            "datacoverage": 0.9748,
-            "id": "GHCND:USC00321144",
-            "elevationUnit": "METERS",
-            "longitude": -104
-        },
-        {
-            "elevation": 714.1,
-            "mindate": "1951-05-01",
-            "maxdate": "1960-04-30",
-            "latitude": 46.6,
-            "name": "BURT 16 N, ND US",
-            "datacoverage": 0.9998,
-            "id": "GHCND:USC00321216",
-            "elevationUnit": "METERS",
-            "longitude": -102.13333
-        },
-        {
             "elevation": 524.3,
             "mindate": "1925-10-01",
             "maxdate": "2017-08-31",
@@ -5976,17 +5198,6 @@
             "id": "GHCND:USC00321225",
             "elevationUnit": "METERS",
             "longitude": -100.5847
-        },
-        {
-            "elevation": 283.5,
-            "mindate": "1896-02-01",
-            "maxdate": "1904-11-30",
-            "latitude": 47.6,
-            "name": "BUXTON, ND US",
-            "datacoverage": 0.991,
-            "id": "GHCND:USC00321255",
-            "elevationUnit": "METERS",
-            "longitude": -97.1
         },
         {
             "elevation": 451.4,
@@ -6020,17 +5231,6 @@
             "id": "GHCND:USC00321362",
             "elevationUnit": "METERS",
             "longitude": -99.1211
-        },
-        {
-            "elevation": 702,
-            "mindate": "1949-08-01",
-            "maxdate": "1952-12-31",
-            "latitude": 46.41667,
-            "name": "CARSON, ND US",
-            "datacoverage": 0.9973,
-            "id": "GHCND:USC00321365",
-            "elevationUnit": "METERS",
-            "longitude": -101.56667
         },
         {
             "elevation": 711.7,
@@ -6110,17 +5310,6 @@
             "longitude": -102.37444
         },
         {
-            "elevation": 444.4,
-            "mindate": "1893-01-01",
-            "maxdate": "1905-08-31",
-            "latitude": 48.283333,
-            "name": "CHURCHS FERRY, ND US",
-            "datacoverage": 0.9872,
-            "id": "GHCND:USC00321498",
-            "elevationUnit": "METERS",
-            "longitude": -99.2
-        },
-        {
             "elevation": 445,
             "mindate": "1997-01-01",
             "maxdate": "2011-10-04",
@@ -6130,17 +5319,6 @@
             "id": "GHCND:USC00321500",
             "elevationUnit": "METERS",
             "longitude": -99.19861
-        },
-        {
-            "elevation": 392.9,
-            "mindate": "1948-01-01",
-            "maxdate": "1949-05-31",
-            "latitude": 46.11667,
-            "name": "COGSWELL, ND US",
-            "datacoverage": 0.9973,
-            "id": "GHCND:USC00321525",
-            "elevationUnit": "METERS",
-            "longitude": -97.91667
         },
         {
             "elevation": 359.7,
@@ -6207,17 +5385,6 @@
             "id": "GHCND:USC00321871",
             "elevationUnit": "METERS",
             "longitude": -103.2977
-        },
-        {
-            "elevation": 527.3,
-            "mindate": "1948-08-01",
-            "maxdate": "1951-09-30",
-            "latitude": 46.8661,
-            "name": "DAWSON, ND US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00322018",
-            "elevationUnit": "METERS",
-            "longitude": -99.7491
         },
         {
             "elevation": 439.2,
@@ -6308,17 +5475,6 @@
             "longitude": -102.5869
         },
         {
-            "elevation": 586.1,
-            "mindate": "1948-01-01",
-            "maxdate": "1951-09-30",
-            "latitude": 48.83333,
-            "name": "SAN HAVEN, ND US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00322385",
-            "elevationUnit": "METERS",
-            "longitude": -100.03333
-        },
-        {
             "elevation": 458.1,
             "mindate": "1904-11-01",
             "maxdate": "1975-01-31",
@@ -6363,17 +5519,6 @@
             "longitude": -98.85778
         },
         {
-            "elevation": 548.9,
-            "mindate": "1948-01-01",
-            "maxdate": "1954-04-30",
-            "latitude": 47.58333,
-            "name": "ELBOWOODS, ND US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00322570",
-            "elevationUnit": "METERS",
-            "longitude": -102.15
-        },
-        {
             "elevation": 731.5,
             "mindate": "1982-01-01",
             "maxdate": "2020-04-01",
@@ -6383,17 +5528,6 @@
             "id": "GHCND:USC00322588",
             "elevationUnit": "METERS",
             "longitude": -101.8419
-        },
-        {
-            "elevation": 683.1,
-            "mindate": "1950-01-01",
-            "maxdate": "1958-06-30",
-            "latitude": 46.35,
-            "name": "ELGIN 5 S, ND US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00322592",
-            "elevationUnit": "METERS",
-            "longitude": -101.81667
         },
         {
             "elevation": 443.5,
@@ -6438,17 +5572,6 @@
             "id": "GHCND:USC00322735",
             "elevationUnit": "METERS",
             "longitude": -103.36667
-        },
-        {
-            "elevation": 502.9,
-            "mindate": "1949-11-01",
-            "maxdate": "1952-12-31",
-            "latitude": 48.03333,
-            "name": "ESMOND, ND US",
-            "datacoverage": 0.9297,
-            "id": "GHCND:USC00322767",
-            "elevationUnit": "METERS",
-            "longitude": -99.76667
         },
         {
             "elevation": 497.4,
@@ -6517,17 +5640,6 @@
             "longitude": -101.2
         },
         {
-            "elevation": 591.9,
-            "mindate": "1950-01-01",
-            "maxdate": "1958-06-30",
-            "latitude": 48.9,
-            "name": "FLAXTON, ND US",
-            "datacoverage": 0.9993,
-            "id": "GHCND:USC00323019",
-            "elevationUnit": "METERS",
-            "longitude": -102.38333
-        },
-        {
             "elevation": 627.9,
             "mindate": "1951-01-01",
             "maxdate": "2013-04-30",
@@ -6594,17 +5706,6 @@
             "longitude": -101.5697
         },
         {
-            "elevation": 833,
-            "mindate": "1918-04-01",
-            "maxdate": "1952-12-31",
-            "latitude": 46.86667,
-            "name": "FRYBURG 1 SSE, ND US",
-            "datacoverage": 0.9591,
-            "id": "GHCND:USC00323277",
-            "elevationUnit": "METERS",
-            "longitude": -103.3
-        },
-        {
             "elevation": 437.4,
             "mindate": "1898-01-01",
             "maxdate": "2020-04-30",
@@ -6627,15 +5728,6 @@
             "longitude": -99.13833
         },
         {
-            "mindate": "1893-01-01",
-            "maxdate": "1903-07-31",
-            "latitude": 47.25,
-            "name": "GALLATIN, ND US",
-            "datacoverage": 0.9849,
-            "id": "GHCND:USC00323342",
-            "longitude": -98.033333
-        },
-        {
             "elevation": 588.9,
             "mindate": "1948-01-01",
             "maxdate": "2020-05-15",
@@ -6645,15 +5737,6 @@
             "id": "GHCND:USC00323376",
             "elevationUnit": "METERS",
             "longitude": -101.4198
-        },
-        {
-            "mindate": "1950-06-01",
-            "maxdate": "1951-08-23",
-            "latitude": 47.18333,
-            "name": "GLADSTONE 22 N, ND US",
-            "datacoverage": 0.6617,
-            "id": "GHCND:USC00323446",
-            "longitude": -102.65
         },
         {
             "elevation": 636.4,
@@ -6667,17 +5750,6 @@
             "longitude": -101.8302
         },
         {
-            "elevation": 677,
-            "mindate": "1950-08-01",
-            "maxdate": "1958-05-31",
-            "latitude": 47,
-            "name": "GLEN ULLIN 13 N, ND US",
-            "datacoverage": 0.8565,
-            "id": "GHCND:USC00323501",
-            "elevationUnit": "METERS",
-            "longitude": -101.78333
-        },
-        {
             "elevation": 566.9,
             "mindate": "1950-08-01",
             "maxdate": "2020-03-31",
@@ -6687,28 +5759,6 @@
             "id": "GHCND:USC00323529",
             "elevationUnit": "METERS",
             "longitude": -102.0706
-        },
-        {
-            "elevation": 848,
-            "mindate": "1948-01-01",
-            "maxdate": "1951-09-30",
-            "latitude": 46.73333,
-            "name": "GOLVA 1 S E, ND US",
-            "datacoverage": 0.9973,
-            "id": "GHCND:USC00323556",
-            "elevationUnit": "METERS",
-            "longitude": -103.95
-        },
-        {
-            "elevation": 458.1,
-            "mindate": "1951-06-01",
-            "maxdate": "1952-12-31",
-            "latitude": 47.55,
-            "name": "GRACE CITY, ND US",
-            "datacoverage": 0.9971,
-            "id": "GHCND:USC00323583",
-            "elevationUnit": "METERS",
-            "longitude": -98.8
         },
         {
             "elevation": 252.1,
@@ -6733,28 +5783,6 @@
             "longitude": -97.0975
         },
         {
-            "elevation": 415.1,
-            "mindate": "1950-10-01",
-            "maxdate": "1962-07-31",
-            "latitude": 46.46667,
-            "name": "GRAND RAPIDS 1 N, ND US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00323665",
-            "elevationUnit": "METERS",
-            "longitude": -98.35
-        },
-        {
-            "elevation": 497.1,
-            "mindate": "1948-08-01",
-            "maxdate": "1951-09-30",
-            "latitude": 48.61667,
-            "name": "GRANO, ND US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00323676",
-            "elevationUnit": "METERS",
-            "longitude": -101.58333
-        },
-        {
             "elevation": 460.2,
             "mindate": "1907-01-01",
             "maxdate": "2010-12-31",
@@ -6764,28 +5792,6 @@
             "id": "GHCND:USC00323686",
             "elevationUnit": "METERS",
             "longitude": -100.84389
-        },
-        {
-            "elevation": 811.1,
-            "mindate": "1950-06-01",
-            "maxdate": "1952-12-31",
-            "latitude": 47.4,
-            "name": "GRASSY BUTTE, ND US",
-            "datacoverage": 0.9663,
-            "id": "GHCND:USC00323696",
-            "elevationUnit": "METERS",
-            "longitude": -103.23333
-        },
-        {
-            "elevation": 762.9,
-            "mindate": "1950-01-01",
-            "maxdate": "1957-08-31",
-            "latitude": 47.51667,
-            "name": "GRASSY BUTTE 10 N, ND US",
-            "datacoverage": 0.9056,
-            "id": "GHCND:USC00323701",
-            "elevationUnit": "METERS",
-            "longitude": -103.23333
         },
         {
             "elevation": 813.8,
@@ -6821,17 +5827,6 @@
             "longitude": -99.9911
         },
         {
-            "elevation": 808,
-            "mindate": "1908-03-01",
-            "maxdate": "1952-12-31",
-            "latitude": 45.96667,
-            "name": "HALEY, ND US",
-            "datacoverage": 0.3332,
-            "id": "GHCND:USC00323836",
-            "elevationUnit": "METERS",
-            "longitude": -103.13333
-        },
-        {
             "elevation": 627.9,
             "mindate": "1941-01-01",
             "maxdate": "2015-08-01",
@@ -6852,17 +5847,6 @@
             "id": "GHCND:USC00323908",
             "elevationUnit": "METERS",
             "longitude": -96.9
-        },
-        {
-            "elevation": 438.9,
-            "mindate": "1948-08-01",
-            "maxdate": "1951-09-30",
-            "latitude": 47.3111,
-            "name": "HANNAFORD, ND US",
-            "datacoverage": 0.8952,
-            "id": "GHCND:USC00323926",
-            "elevationUnit": "METERS",
-            "longitude": -98.1856
         },
         {
             "elevation": 480.1,
@@ -6896,17 +5880,6 @@
             "id": "GHCND:USC00324013",
             "elevationUnit": "METERS",
             "longitude": -99.8758
-        },
-        {
-            "elevation": 777.8,
-            "mindate": "1949-08-01",
-            "maxdate": "1952-12-31",
-            "latitude": 46,
-            "name": "HAYNES 5 NE, ND US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00324073",
-            "elevationUnit": "METERS",
-            "longitude": -102.36667
         },
         {
             "elevation": 604.1,
@@ -6962,17 +5935,6 @@
             "id": "GHCND:USC00324180",
             "elevationUnit": "METERS",
             "longitude": -102.6472
-        },
-        {
-            "elevation": 787,
-            "mindate": "1951-01-01",
-            "maxdate": "1952-12-31",
-            "latitude": 46.25,
-            "name": "HETTINGER 17 N, ND US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00324186",
-            "elevationUnit": "METERS",
-            "longitude": -102.68333
         },
         {
             "elevation": 277.4,
@@ -7041,17 +6003,6 @@
             "longitude": -102.9208
         },
         {
-            "elevation": 273.4,
-            "mindate": "1893-01-01",
-            "maxdate": "1899-11-30",
-            "latitude": 47.316667,
-            "name": "KELSO, ND US",
-            "datacoverage": 0.7715,
-            "id": "GHCND:USC00324626",
-            "elevationUnit": "METERS",
-            "longitude": -97.016667
-        },
-        {
             "elevation": 551.7,
             "mindate": "1932-07-01",
             "maxdate": "2020-03-31",
@@ -7096,28 +6047,6 @@
             "longitude": -102.83333
         },
         {
-            "elevation": 440.1,
-            "mindate": "1948-08-01",
-            "maxdate": "1951-09-30",
-            "latitude": 48.7,
-            "name": "KRAMER 2 N, ND US",
-            "datacoverage": 0.8162,
-            "id": "GHCND:USC00324823",
-            "elevationUnit": "METERS",
-            "longitude": -100.7
-        },
-        {
-            "elevation": 601.1,
-            "mindate": "1904-02-01",
-            "maxdate": "1958-06-30",
-            "latitude": 46.3,
-            "name": "KULM, ND US",
-            "datacoverage": 0.2297,
-            "id": "GHCND:USC00324843",
-            "elevationUnit": "METERS",
-            "longitude": -98.95
-        },
-        {
             "elevation": 652.9,
             "mindate": "1979-01-01",
             "maxdate": "2020-04-30",
@@ -7127,17 +6056,6 @@
             "id": "GHCND:USC00324879",
             "elevationUnit": "METERS",
             "longitude": -100.3344
-        },
-        {
-            "elevation": 590.1,
-            "mindate": "1907-01-01",
-            "maxdate": "1929-12-31",
-            "latitude": 47.25,
-            "name": "LAMOINE, ND US",
-            "datacoverage": 0.8942,
-            "id": "GHCND:USC00324925",
-            "elevationUnit": "METERS",
-            "longitude": -100
         },
         {
             "elevation": 406.6,
@@ -7204,17 +6122,6 @@
             "id": "GHCND:USC00325078",
             "elevationUnit": "METERS",
             "longitude": -99.4317
-        },
-        {
-            "elevation": 777.8,
-            "mindate": "1950-01-01",
-            "maxdate": "1959-12-31",
-            "latitude": 46.63333,
-            "name": "LEFOR 10 E, ND US",
-            "datacoverage": 0.9995,
-            "id": "GHCND:USC00325088",
-            "elevationUnit": "METERS",
-            "longitude": -102.35
         },
         {
             "elevation": 691.6,
@@ -7328,7 +6235,7 @@
         },
         {
             "elevation": 509,
-            "mindate": "1948-01-01",
+            "mindate": "1948-07-01",
             "maxdate": "1970-02-28",
             "latitude": 46.75,
             "name": "MANDAN FORT LINCOLN, ND US",
@@ -7336,39 +6243,6 @@
             "id": "GHCND:USC00325484",
             "elevationUnit": "METERS",
             "longitude": -100.86667
-        },
-        {
-            "elevation": 489.2,
-            "mindate": "1903-06-01",
-            "maxdate": "1942-02-28",
-            "latitude": 47.666667,
-            "name": "MANFRED, ND US",
-            "datacoverage": 0.9979,
-            "id": "GHCND:USC00325492",
-            "elevationUnit": "METERS",
-            "longitude": -99.75
-        },
-        {
-            "elevation": 677,
-            "mindate": "1914-08-01",
-            "maxdate": "1952-12-31",
-            "latitude": 47.23333,
-            "name": "MANNING, ND US",
-            "datacoverage": 0.128,
-            "id": "GHCND:USC00325519",
-            "elevationUnit": "METERS",
-            "longitude": -102.76667
-        },
-        {
-            "elevation": 826.9,
-            "mindate": "1909-01-01",
-            "maxdate": "1957-03-31",
-            "latitude": 46.3,
-            "name": "MARMARTH, ND US",
-            "datacoverage": 0.9448,
-            "id": "GHCND:USC00325573",
-            "elevationUnit": "METERS",
-            "longitude": -103.91667
         },
         {
             "elevation": 825.7,
@@ -7391,26 +6265,6 @@
             "id": "GHCND:USC00325582",
             "elevationUnit": "METERS",
             "longitude": -102.3344
-        },
-        {
-            "mindate": "1908-08-01",
-            "maxdate": "1918-11-30",
-            "latitude": 47.116667,
-            "name": "MARSTONMOOR, ND US",
-            "datacoverage": 0.9114,
-            "id": "GHCND:USC00325588",
-            "longitude": -99.416667
-        },
-        {
-            "elevation": 491,
-            "mindate": "1949-11-01",
-            "maxdate": "1957-08-31",
-            "latitude": 47.83333,
-            "name": "MARTIN, ND US",
-            "datacoverage": 0.9788,
-            "id": "GHCND:USC00325610",
-            "elevationUnit": "METERS",
-            "longitude": -100.11667
         },
         {
             "elevation": 643.1,
@@ -7444,17 +6298,6 @@
             "id": "GHCND:USC00325710",
             "elevationUnit": "METERS",
             "longitude": -100.4444
-        },
-        {
-            "elevation": 677,
-            "mindate": "1948-08-01",
-            "maxdate": "1951-09-30",
-            "latitude": 48.5969,
-            "name": "MC GREGOR, ND US",
-            "datacoverage": 0.8162,
-            "id": "GHCND:USC00325720",
-            "elevationUnit": "METERS",
-            "longitude": -102.9283
         },
         {
             "elevation": 474,
@@ -7501,28 +6344,6 @@
             "longitude": -99.2897
         },
         {
-            "elevation": 691.9,
-            "mindate": "1893-01-01",
-            "maxdate": "1952-12-31",
-            "latitude": 46.91667,
-            "name": "MEDORA, ND US",
-            "datacoverage": 0.5181,
-            "id": "GHCND:USC00325803",
-            "elevationUnit": "METERS",
-            "longitude": -103.51667
-        },
-        {
-            "elevation": 691.9,
-            "mindate": "1948-07-01",
-            "maxdate": "1949-12-31",
-            "latitude": 46.91667,
-            "name": "MEDORA STATE PARK, ND US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00325808",
-            "elevationUnit": "METERS",
-            "longitude": -103.55
-        },
-        {
             "elevation": 691.3,
             "mindate": "1948-01-01",
             "maxdate": "2020-05-17",
@@ -7535,7 +6356,7 @@
         },
         {
             "elevation": 688.8,
-            "mindate": "1951-01-01",
+            "mindate": "1951-08-01",
             "maxdate": "1970-10-31",
             "latitude": 47.23333,
             "name": "MEDORA 22 NNW, ND US",
@@ -7543,17 +6364,6 @@
             "id": "GHCND:USC00325818",
             "elevationUnit": "METERS",
             "longitude": -103.6
-        },
-        {
-            "elevation": 494.1,
-            "mindate": "1898-01-01",
-            "maxdate": "1952-12-31",
-            "latitude": 47.33333,
-            "name": "MELVILLE, ND US",
-            "datacoverage": 0.6303,
-            "id": "GHCND:USC00325833",
-            "elevationUnit": "METERS",
-            "longitude": -99.03333
         },
         {
             "elevation": 448.1,
@@ -7567,26 +6377,6 @@
             "longitude": -99.2655
         },
         {
-            "mindate": "1908-04-01",
-            "maxdate": "1953-02-28",
-            "latitude": 46.26667,
-            "name": "MILNOR, ND US",
-            "datacoverage": 0.379,
-            "id": "GHCND:USC00325933",
-            "longitude": -97.46667
-        },
-        {
-            "elevation": 483.4,
-            "mindate": "1893-01-01",
-            "maxdate": "1906-05-31",
-            "latitude": 48.633333,
-            "name": "MILTON, ND US",
-            "datacoverage": 0.9694,
-            "id": "GHCND:USC00325940",
-            "elevationUnit": "METERS",
-            "longitude": -98.033333
-        },
-        {
             "elevation": 539.2,
             "mindate": "1905-01-01",
             "maxdate": "2020-05-15",
@@ -7596,17 +6386,6 @@
             "id": "GHCND:USC00325993",
             "elevationUnit": "METERS",
             "longitude": -101.2963
-        },
-        {
-            "elevation": 249.9,
-            "mindate": "1893-01-01",
-            "maxdate": "1928-10-31",
-            "latitude": 48.3,
-            "name": "MINTO, ND US",
-            "datacoverage": 0.9559,
-            "id": "GHCND:USC00326007",
-            "elevationUnit": "METERS",
-            "longitude": -97.366667
         },
         {
             "elevation": 548.6,
@@ -7697,39 +6476,6 @@
             "longitude": -102.86916
         },
         {
-            "elevation": 850.4,
-            "mindate": "1941-09-01",
-            "maxdate": "1947-11-30",
-            "latitude": 47,
-            "name": "NEW HRADEC, ND US",
-            "datacoverage": 0.867,
-            "id": "GHCND:USC00326320",
-            "elevationUnit": "METERS",
-            "longitude": -102.883333
-        },
-        {
-            "elevation": 476.1,
-            "mindate": "1949-01-01",
-            "maxdate": "1950-10-31",
-            "latitude": 47.68333,
-            "name": "NEW ROCKFORD, ND US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00326350",
-            "elevationUnit": "METERS",
-            "longitude": -99.13333
-        },
-        {
-            "elevation": 473,
-            "mindate": "1948-01-01",
-            "maxdate": "1958-06-30",
-            "latitude": 47.71667,
-            "name": "NEW ROCKFORD 7 WNW, ND US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00326355",
-            "elevationUnit": "METERS",
-            "longitude": -99.26667
-        },
-        {
             "elevation": 655.3,
             "mindate": "1893-06-01",
             "maxdate": "2020-05-15",
@@ -7752,28 +6498,6 @@
             "longitude": -102.58333
         },
         {
-            "elevation": 598,
-            "mindate": "1950-06-01",
-            "maxdate": "1958-06-30",
-            "latitude": 48.88333,
-            "name": "NOONAN, ND US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00326455",
-            "elevationUnit": "METERS",
-            "longitude": -103.01667
-        },
-        {
-            "elevation": 460.9,
-            "mindate": "1951-04-01",
-            "maxdate": "1958-06-30",
-            "latitude": 46.55,
-            "name": "NORTONVILLE, ND US",
-            "datacoverage": 0.9989,
-            "id": "GHCND:USC00326565",
-            "elevationUnit": "METERS",
-            "longitude": -98.73333
-        },
-        {
             "elevation": 403.6,
             "mindate": "1922-09-01",
             "maxdate": "2019-08-30",
@@ -7783,26 +6507,6 @@
             "id": "GHCND:USC00326620",
             "elevationUnit": "METERS",
             "longitude": -98.0919
-        },
-        {
-            "mindate": "1948-08-01",
-            "maxdate": "1949-12-31",
-            "latitude": 48.65,
-            "name": "OMEMEE 3 SE, ND US",
-            "datacoverage": 0.8814,
-            "id": "GHCND:USC00326703",
-            "longitude": -100.33333
-        },
-        {
-            "elevation": 387.7,
-            "mindate": "1905-05-01",
-            "maxdate": "1918-01-31",
-            "latitude": 46.9,
-            "name": "ORISKA, ND US",
-            "datacoverage": 0.8624,
-            "id": "GHCND:USC00326743",
-            "elevationUnit": "METERS",
-            "longitude": -97.8
         },
         {
             "elevation": 295.7,
@@ -7849,17 +6553,6 @@
             "longitude": -99.53333
         },
         {
-            "elevation": 479.1,
-            "mindate": "1951-01-01",
-            "maxdate": "1957-09-30",
-            "latitude": 47.16667,
-            "name": "PINGREE, ND US",
-            "datacoverage": 0.9992,
-            "id": "GHCND:USC00327117",
-            "elevationUnit": "METERS",
-            "longitude": -98.9
-        },
-        {
             "elevation": 638.3,
             "mindate": "2015-12-01",
             "maxdate": "2018-09-30",
@@ -7869,17 +6562,6 @@
             "id": "GHCND:USC00327120",
             "elevationUnit": "METERS",
             "longitude": -101.9625
-        },
-        {
-            "elevation": 310.9,
-            "mindate": "1893-02-01",
-            "maxdate": "1930-12-31",
-            "latitude": 46.616667,
-            "name": "POWER, ND US",
-            "datacoverage": 0.9078,
-            "id": "GHCND:USC00327270",
-            "elevationUnit": "METERS",
-            "longitude": -97.266667
         },
         {
             "elevation": 672.1,
@@ -7904,19 +6586,8 @@
             "longitude": -101.8561
         },
         {
-            "elevation": 602,
-            "mindate": "1948-08-01",
-            "maxdate": "1951-09-03",
-            "latitude": 47.8133,
-            "name": "RAUB 5 NNE, ND US",
-            "datacoverage": 0.8952,
-            "id": "GHCND:USC00327405",
-            "elevationUnit": "METERS",
-            "longitude": -102.0233
-        },
-        {
             "elevation": 598,
-            "mindate": "1954-01-01",
+            "mindate": "1954-05-01",
             "maxdate": "1977-11-10",
             "latitude": 47.6,
             "name": "RAUB 12 SSW, ND US",
@@ -8047,17 +6718,6 @@
             "longitude": -101.68333
         },
         {
-            "elevation": 592.8,
-            "mindate": "1893-01-01",
-            "maxdate": "1900-08-31",
-            "latitude": 48.933333,
-            "name": "ST. JOHN, ND US",
-            "datacoverage": 0.8373,
-            "id": "GHCND:USC00327810",
-            "elevationUnit": "METERS",
-            "longitude": -99.683333
-        },
-        {
             "elevation": 586.1,
             "mindate": "1951-01-01",
             "maxdate": "1986-02-28",
@@ -8067,48 +6727,6 @@
             "id": "GHCND:USC00327824",
             "elevationUnit": "METERS",
             "longitude": -100.03333
-        },
-        {
-            "elevation": 561.1,
-            "mindate": "1948-01-01",
-            "maxdate": "1952-09-30",
-            "latitude": 47.98333,
-            "name": "SANISH, ND US",
-            "datacoverage": 0.9999,
-            "id": "GHCND:USC00327834",
-            "elevationUnit": "METERS",
-            "longitude": -102.53333
-        },
-        {
-            "elevation": 483.7,
-            "mindate": "1948-08-01",
-            "maxdate": "1951-08-31",
-            "latitude": 48.945,
-            "name": "SARLES, ND US",
-            "datacoverage": 0.9461,
-            "id": "GHCND:USC00327844",
-            "elevationUnit": "METERS",
-            "longitude": -98.9947
-        },
-        {
-            "elevation": 848,
-            "mindate": "1951-01-01",
-            "maxdate": "1957-09-30",
-            "latitude": 46.15,
-            "name": "SCRANTON, ND US",
-            "datacoverage": 0.9994,
-            "id": "GHCND:USC00327932",
-            "elevationUnit": "METERS",
-            "longitude": -103.15
-        },
-        {
-            "mindate": "1948-08-01",
-            "maxdate": "1949-10-18",
-            "latitude": 47.56667,
-            "name": "SEARING, ND US",
-            "datacoverage": 0.5328,
-            "id": "GHCND:USC00327944",
-            "longitude": -103.8
         },
         {
             "elevation": 665.1,
@@ -8199,17 +6817,6 @@
             "longitude": -102.4116
         },
         {
-            "elevation": 519.1,
-            "mindate": "1923-09-01",
-            "maxdate": "1936-04-30",
-            "latitude": 47.31667,
-            "name": "STANTON, ND US",
-            "datacoverage": 0.9991,
-            "id": "GHCND:USC00328298",
-            "elevationUnit": "METERS",
-            "longitude": -101.38333
-        },
-        {
             "elevation": 564.8,
             "mindate": "1894-04-01",
             "maxdate": "2020-05-10",
@@ -8219,17 +6826,6 @@
             "id": "GHCND:USC00328366",
             "elevationUnit": "METERS",
             "longitude": -99.9482
-        },
-        {
-            "elevation": 708.7,
-            "mindate": "1907-04-01",
-            "maxdate": "1934-08-31",
-            "latitude": 46.05,
-            "name": "STOWERS, ND US",
-            "datacoverage": 0.6504,
-            "id": "GHCND:USC00328396",
-            "elevationUnit": "METERS",
-            "longitude": -102.083333
         },
         {
             "elevation": 597.7,
@@ -8287,17 +6883,6 @@
             "longitude": -102.918
         },
         {
-            "elevation": 563.3,
-            "mindate": "1950-01-01",
-            "maxdate": "1958-06-30",
-            "latitude": 48.76667,
-            "name": "TOLLEY, ND US",
-            "datacoverage": 0.9994,
-            "id": "GHCND:USC00328764",
-            "elevationUnit": "METERS",
-            "longitude": -101.75
-        },
-        {
             "elevation": 451.1,
             "mindate": "1896-02-01",
             "maxdate": "2020-01-31",
@@ -8307,17 +6892,6 @@
             "id": "GHCND:USC00328792",
             "elevationUnit": "METERS",
             "longitude": -100.3907
-        },
-        {
-            "elevation": 741,
-            "mindate": "1926-01-01",
-            "maxdate": "1958-10-31",
-            "latitude": 47.3,
-            "name": "TROTTERS 6 SE, ND US",
-            "datacoverage": 0.9873,
-            "id": "GHCND:USC00328807",
-            "elevationUnit": "METERS",
-            "longitude": -103.86667
         },
         {
             "elevation": 737.6,
@@ -8375,17 +6949,6 @@
             "longitude": -101.1461
         },
         {
-            "elevation": 534,
-            "mindate": "1912-02-01",
-            "maxdate": "1954-06-30",
-            "latitude": 47.43333,
-            "name": "UNDERWOOD 12 W, ND US",
-            "datacoverage": 0.9628,
-            "id": "GHCND:USC00328877",
-            "elevationUnit": "METERS",
-            "longitude": -101.4
-        },
-        {
             "elevation": 434.3,
             "mindate": "1940-07-01",
             "maxdate": "2020-04-01",
@@ -8397,17 +6960,6 @@
             "longitude": -100.7263
         },
         {
-            "elevation": 438.9,
-            "mindate": "1953-04-01",
-            "maxdate": "1953-07-31",
-            "latitude": 48.58333,
-            "name": "UPHAM 3 W, ND US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00328918",
-            "elevationUnit": "METERS",
-            "longitude": -100.78333
-        },
-        {
             "elevation": 368.8,
             "mindate": "1893-04-01",
             "maxdate": "2014-06-01",
@@ -8417,17 +6969,6 @@
             "id": "GHCND:USC00328937",
             "elevationUnit": "METERS",
             "longitude": -98.0203
-        },
-        {
-            "elevation": 566.9,
-            "mindate": "1915-06-01",
-            "maxdate": "1952-08-31",
-            "latitude": 47.95,
-            "name": "VAN HOOK, ND US",
-            "datacoverage": 0.8176,
-            "id": "GHCND:USC00328970",
-            "elevationUnit": "METERS",
-            "longitude": -102.35
         },
         {
             "elevation": 460.2,
@@ -8450,17 +6991,6 @@
             "id": "GHCND:USC00329035",
             "elevationUnit": "METERS",
             "longitude": -98.0758
-        },
-        {
-            "elevation": 292.9,
-            "mindate": "1948-08-01",
-            "maxdate": "1951-09-30",
-            "latitude": 46.28333,
-            "name": "WAHPETON POWER PLANT, ND US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00329095",
-            "elevationUnit": "METERS",
-            "longitude": -96.6
         },
         {
             "elevation": 291.4,
@@ -8505,17 +7035,6 @@
             "id": "GHCND:USC00329195",
             "elevationUnit": "METERS",
             "longitude": -101.03
-        },
-        {
-            "elevation": 527.9,
-            "mindate": "1950-07-01",
-            "maxdate": "1952-12-31",
-            "latitude": 47.28333,
-            "name": "WASHBURN WATER WORKS, ND US",
-            "datacoverage": 0.998,
-            "id": "GHCND:USC00329205",
-            "elevationUnit": "METERS",
-            "longitude": -101.03333
         },
         {
             "elevation": 630.9,
@@ -8595,17 +7114,6 @@
             "longitude": -103.213
         },
         {
-            "elevation": 557.8,
-            "mindate": "1908-11-01",
-            "maxdate": "1948-07-31",
-            "latitude": 48.108,
-            "name": "WILLISTON 5 SW, ND US",
-            "datacoverage": 0.7086,
-            "id": "GHCND:USC00329420",
-            "elevationUnit": "METERS",
-            "longitude": -103.7141
-        },
-        {
             "elevation": 570.6,
             "mindate": "2014-04-01",
             "maxdate": "2020-05-04",
@@ -8661,15 +7169,6 @@
             "longitude": -99.56
         },
         {
-            "mindate": "1893-01-01",
-            "maxdate": "1903-04-30",
-            "latitude": 48.9,
-            "name": "WOODBRIDGE, ND US",
-            "datacoverage": 0.9444,
-            "id": "GHCND:USC00329550",
-            "longitude": -98.666667
-        },
-        {
             "elevation": 585.2,
             "mindate": "1951-01-01",
             "maxdate": "2010-12-31",
@@ -8679,17 +7178,6 @@
             "id": "GHCND:USC00329575",
             "elevationUnit": "METERS",
             "longitude": -99.2916
-        },
-        {
-            "elevation": 609.9,
-            "mindate": "1950-01-01",
-            "maxdate": "1958-06-30",
-            "latitude": 48.56667,
-            "name": "ZAHL, ND US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00329635",
-            "elevationUnit": "METERS",
-            "longitude": -103.68333
         },
         {
             "elevation": 556.3,

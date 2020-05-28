@@ -2,7 +2,7 @@
     "metadata": {
         "resultset": {
             "offset": 1,
-            "count": 2387,
+            "count": 2164,
             "limit": 1000
         }
     },
@@ -96,17 +96,6 @@
             "longitude": -89.2344
         },
         {
-            "elevation": 192,
-            "mindate": "1941-01-01",
-            "maxdate": "1960-02-01",
-            "latitude": 41.4,
-            "name": "ANNAWAN, IL US",
-            "datacoverage": 0.9437,
-            "id": "COOP:110195",
-            "elevationUnit": "METERS",
-            "longitude": -89.91667
-        },
-        {
             "elevation": 228.6,
             "mindate": "1941-04-01",
             "maxdate": "2008-06-01",
@@ -149,17 +138,6 @@
             "id": "COOP:110237",
             "elevationUnit": "METERS",
             "longitude": -87.98333
-        },
-        {
-            "elevation": 207,
-            "mindate": "1940-05-01",
-            "maxdate": "1962-10-01",
-            "latitude": 42.03333,
-            "name": "ARLINGTON HEIGTS 4 S, IL US",
-            "datacoverage": 0.8666,
-            "id": "COOP:110247",
-            "elevationUnit": "METERS",
-            "longitude": -87.96667
         },
         {
             "elevation": 204.2,
@@ -261,83 +239,6 @@
             "longitude": -91.05
         },
         {
-            "elevation": 180.1,
-            "mindate": "1956-01-01",
-            "maxdate": "1959-06-01",
-            "latitude": 39.71667,
-            "name": "BARRY 3 NW, IL US",
-            "datacoverage": 0.0516,
-            "id": "COOP:110446",
-            "elevationUnit": "METERS",
-            "longitude": -91.06667
-        },
-        {
-            "elevation": 214,
-            "mindate": "1956-04-01",
-            "maxdate": "1959-06-01",
-            "latitude": 39.75,
-            "name": "BARRY 4 NNE, IL US",
-            "datacoverage": 0.0422,
-            "id": "COOP:110447",
-            "elevationUnit": "METERS",
-            "longitude": -91.01667
-        },
-        {
-            "elevation": 213.4,
-            "mindate": "1956-04-01",
-            "maxdate": "1959-07-01",
-            "latitude": 39.75,
-            "name": "BARRY 4 NNE, IL US",
-            "datacoverage": 0.0469,
-            "id": "COOP:110448",
-            "elevationUnit": "METERS",
-            "longitude": -91.01667
-        },
-        {
-            "elevation": 214,
-            "mindate": "1956-01-01",
-            "maxdate": "1959-07-01",
-            "latitude": 39.78333,
-            "name": "BARRY 6 N, IL US",
-            "datacoverage": 0.0442,
-            "id": "COOP:110449",
-            "elevationUnit": "METERS",
-            "longitude": -91.05
-        },
-        {
-            "elevation": 256,
-            "mindate": "1956-01-01",
-            "maxdate": "1959-06-27",
-            "latitude": 39.8,
-            "name": "BARRY 7 NNE, IL US",
-            "datacoverage": 0.0414,
-            "id": "COOP:110450",
-            "elevationUnit": "METERS",
-            "longitude": -91
-        },
-        {
-            "elevation": 200.9,
-            "mindate": "1956-01-01",
-            "maxdate": "1959-07-01",
-            "latitude": 39.75,
-            "name": "BARRY 5 NNW, IL US",
-            "datacoverage": 0.0391,
-            "id": "COOP:110451",
-            "elevationUnit": "METERS",
-            "longitude": -91.08333
-        },
-        {
-            "elevation": 214,
-            "mindate": "1956-01-01",
-            "maxdate": "1959-07-01",
-            "latitude": 39.7,
-            "name": "BARRY 3 W, IL US",
-            "datacoverage": 0.0479,
-            "id": "COOP:110452",
-            "elevationUnit": "METERS",
-            "longitude": -91.1
-        },
-        {
             "elevation": 182.9,
             "mindate": "2002-01-01",
             "maxdate": "2006-11-01",
@@ -349,39 +250,6 @@
             "longitude": -89.70389
         },
         {
-            "elevation": 256,
-            "mindate": "1956-01-01",
-            "maxdate": "1959-07-01",
-            "latitude": 39.73333,
-            "name": "BAYLIS, IL US",
-            "datacoverage": 0.0464,
-            "id": "COOP:110480",
-            "elevationUnit": "METERS",
-            "longitude": -90.9
-        },
-        {
-            "elevation": 210,
-            "mindate": "1956-01-01",
-            "maxdate": "1959-07-01",
-            "latitude": 39.71667,
-            "name": "BAYLIS 6 WSW, IL US",
-            "datacoverage": 0.046,
-            "id": "COOP:110481",
-            "elevationUnit": "METERS",
-            "longitude": -91.01667
-        },
-        {
-            "elevation": 235,
-            "mindate": "1956-01-01",
-            "maxdate": "1959-07-01",
-            "latitude": 39.75,
-            "name": "BAYLIS 3 WNW, IL US",
-            "datacoverage": 0.0262,
-            "id": "COOP:110482",
-            "elevationUnit": "METERS",
-            "longitude": -90.95
-        },
-        {
             "elevation": 136.2,
             "mindate": "1931-01-01",
             "maxdate": "2014-12-01",
@@ -391,17 +259,6 @@
             "id": "COOP:110492",
             "elevationUnit": "METERS",
             "longitude": -90.4277
-        },
-        {
-            "elevation": 131.1,
-            "mindate": "1940-04-01",
-            "maxdate": "1956-08-01",
-            "latitude": 39.93333,
-            "name": "BEARDSTOWN LAGRANGE, IL US",
-            "datacoverage": 0.9606,
-            "id": "COOP:110497",
-            "elevationUnit": "METERS",
-            "longitude": -90.53333
         },
         {
             "elevation": 185.3,
@@ -536,17 +393,6 @@
             "longitude": -89.629
         },
         {
-            "elevation": 242,
-            "mindate": "1941-03-01",
-            "maxdate": "1959-01-01",
-            "latitude": 41.23333,
-            "name": "BRADFORD, IL US",
-            "datacoverage": 0.9997,
-            "id": "COOP:110873",
-            "elevationUnit": "METERS",
-            "longitude": -89.61667
-        },
-        {
             "elevation": 169.2,
             "mindate": "2001-07-01",
             "maxdate": "2007-09-01",
@@ -624,17 +470,6 @@
             "longitude": -87.9738
         },
         {
-            "elevation": 195.1,
-            "mindate": "1948-07-01",
-            "maxdate": "1951-04-01",
-            "latitude": 40.38333,
-            "name": "CAMP ELLIS, IL US",
-            "datacoverage": 0.633,
-            "id": "COOP:111230",
-            "elevationUnit": "METERS",
-            "longitude": -90.33333
-        },
-        {
             "elevation": 228.6,
             "mindate": "2003-12-01",
             "maxdate": "2014-12-01",
@@ -690,17 +525,6 @@
             "longitude": -89.8699
         },
         {
-            "elevation": 139.9,
-            "mindate": "1939-09-01",
-            "maxdate": "1964-03-01",
-            "latitude": 38.6,
-            "name": "CARLYLE, IL US",
-            "datacoverage": 0.9864,
-            "id": "COOP:111288",
-            "elevationUnit": "METERS",
-            "longitude": -89.36667
-        },
-        {
             "elevation": 152.7,
             "mindate": "1962-08-01",
             "maxdate": "2015-11-01",
@@ -732,17 +556,6 @@
             "id": "COOP:111302",
             "elevationUnit": "METERS",
             "longitude": -88.1805
-        },
-        {
-            "elevation": 159.1,
-            "mindate": "1948-07-01",
-            "maxdate": "1957-03-01",
-            "latitude": 38.88333,
-            "name": "CARPENTER 1 SW, IL US",
-            "datacoverage": 0.9488,
-            "id": "COOP:111304",
-            "elevationUnit": "METERS",
-            "longitude": -89.9
         },
         {
             "elevation": 201.2,
@@ -787,17 +600,6 @@
             "id": "COOP:111386",
             "elevationUnit": "METERS",
             "longitude": -89.12977
-        },
-        {
-            "elevation": 136.6,
-            "mindate": "1939-09-01",
-            "maxdate": "1962-12-01",
-            "latitude": 40.06417,
-            "name": "CHANDLERVILLE RIVER, IL US",
-            "datacoverage": 0.9464,
-            "id": "COOP:111412",
-            "elevationUnit": "METERS",
-            "longitude": -90.15111
         },
         {
             "elevation": 153.9,
@@ -904,7 +706,7 @@
             "maxdate": "1975-01-01",
             "latitude": 41.66667,
             "name": "CHICAGO CAL TREAT WK, IL US",
-            "datacoverage": 0.5898,
+            "datacoverage": 0.0475,
             "id": "COOP:111522",
             "elevationUnit": "METERS",
             "longitude": -87.61667
@@ -921,59 +723,15 @@
             "longitude": -87.61667
         },
         {
-            "elevation": 192,
-            "mindate": "1939-08-01",
-            "maxdate": "1952-05-01",
-            "latitude": 41.5,
-            "name": "CHICAGO HEIGHTS, IL US",
-            "datacoverage": 0.9479,
-            "id": "COOP:111527",
-            "elevationUnit": "METERS",
-            "longitude": -87.63333
-        },
-        {
-            "elevation": 198.1,
-            "mindate": "1948-07-01",
-            "maxdate": "1965-04-25",
-            "latitude": 41.96667,
-            "name": "CHICAGO LAKEVIEW PUMP, IL US",
-            "datacoverage": 0.9488,
-            "id": "COOP:111532",
-            "elevationUnit": "METERS",
-            "longitude": -87.66667
-        },
-        {
-            "elevation": 180.1,
-            "mindate": "1948-07-01",
-            "maxdate": "1968-06-01",
-            "latitude": 42,
-            "name": "CHICAGO LOYOLA UNIVERSITY, IL US",
-            "datacoverage": 0.6154,
-            "id": "COOP:111537",
-            "elevationUnit": "METERS",
-            "longitude": -87.66667
-        },
-        {
             "elevation": 197.2,
             "mindate": "1948-07-01",
             "maxdate": "1980-07-30",
             "latitude": 41.96667,
             "name": "CHICAGO MAYFAIR PUMP STATION, IL US",
-            "datacoverage": 0.9488,
+            "datacoverage": 0.0561,
             "id": "COOP:111542",
             "elevationUnit": "METERS",
             "longitude": -87.75
-        },
-        {
-            "elevation": 182.9,
-            "mindate": "1948-07-01",
-            "maxdate": "1969-04-28",
-            "latitude": 41.96667,
-            "name": "CHICAGO N BRA PUMP STATION, IL US",
-            "datacoverage": 0.6154,
-            "id": "COOP:111547",
-            "elevationUnit": "METERS",
-            "longitude": -87.7
         },
         {
             "elevation": 201.8,
@@ -1003,7 +761,7 @@
             "maxdate": "1980-07-30",
             "latitude": 41.7,
             "name": "CHICAGO ROSELAND PUMP, IL US",
-            "datacoverage": 0.9488,
+            "datacoverage": 0.0628,
             "id": "COOP:111552",
             "elevationUnit": "METERS",
             "longitude": -87.63333
@@ -1014,7 +772,7 @@
             "maxdate": "1975-01-01",
             "latitude": 41.81667,
             "name": "CHICAGO RACINE PUMP, IL US",
-            "datacoverage": 0.6154,
+            "datacoverage": 0.0354,
             "id": "COOP:111557",
             "elevationUnit": "METERS",
             "longitude": -87.65
@@ -1025,7 +783,7 @@
             "maxdate": "1975-01-01",
             "latitude": 41.9,
             "name": "CHICAGO SANITARY DISTRICT OFFICE, IL US",
-            "datacoverage": 0.5788,
+            "datacoverage": 0.0466,
             "id": "COOP:111562",
             "elevationUnit": "METERS",
             "longitude": -87.63333
@@ -1036,7 +794,7 @@
             "maxdate": "1980-07-30",
             "latitude": 41.75,
             "name": "CHICAGO S WATER FILTER PLANT, IL US",
-            "datacoverage": 0.9488,
+            "datacoverage": 0.0567,
             "id": "COOP:111564",
             "elevationUnit": "METERS",
             "longitude": -87.55
@@ -1047,7 +805,7 @@
             "maxdate": "1980-07-30",
             "latitude": 41.91667,
             "name": "CHICAGO SPRINGFIELD PUMP, IL US",
-            "datacoverage": 0.9488,
+            "datacoverage": 0.0569,
             "id": "COOP:111567",
             "elevationUnit": "METERS",
             "longitude": -87.71667
@@ -1076,17 +834,6 @@
         },
         {
             "elevation": 180.1,
-            "mindate": "1948-07-01",
-            "maxdate": "1964-11-28",
-            "latitude": 41.88333,
-            "name": "CHICAGO WEATHER BUREAU CITY 2, IL US",
-            "datacoverage": 0.9833,
-            "id": "COOP:111582",
-            "elevationUnit": "METERS",
-            "longitude": -87.63333
-        },
-        {
-            "elevation": 180.1,
             "mindate": "1964-12-01",
             "maxdate": "1970-11-01",
             "latitude": 41.88333,
@@ -1094,15 +841,6 @@
             "datacoverage": 1,
             "id": "COOP:111584",
             "elevationUnit": "METERS",
-            "longitude": -87.63333
-        },
-        {
-            "mindate": "1959-08-30",
-            "maxdate": "1959-08-30",
-            "latitude": 41.91667,
-            "name": "CHICAGO YACHT CLUB B, IL US",
-            "datacoverage": 0.1538,
-            "id": "COOP:111592",
             "longitude": -87.63333
         },
         {
@@ -1126,17 +864,6 @@
             "id": "COOP:111636",
             "elevationUnit": "METERS",
             "longitude": -87.666
-        },
-        {
-            "elevation": 185.9,
-            "mindate": "1933-11-01",
-            "maxdate": "1959-05-01",
-            "latitude": 41.85,
-            "name": "CICERO, IL US",
-            "datacoverage": 1,
-            "id": "COOP:111648",
-            "elevationUnit": "METERS",
-            "longitude": -87.76667
         },
         {
             "elevation": 209.7,
@@ -1205,17 +932,6 @@
             "longitude": -89.25
         },
         {
-            "elevation": 171,
-            "mindate": "1948-07-01",
-            "maxdate": "1957-06-01",
-            "latitude": 38.66667,
-            "name": "COLLINSVILLE, IL US",
-            "datacoverage": 0.9488,
-            "id": "COOP:111825",
-            "elevationUnit": "METERS",
-            "longitude": -89.98333
-        },
-        {
             "elevation": 275.8,
             "mindate": "1991-10-01",
             "maxdate": "2004-03-01",
@@ -1249,23 +965,12 @@
             "longitude": -89.65
         },
         {
-            "elevation": 153,
-            "mindate": "1964-11-01",
-            "maxdate": "1968-08-01",
-            "latitude": 37.61667,
-            "name": "CREAL SPRINGS, IL US",
-            "datacoverage": 1,
-            "id": "COOP:111992",
-            "elevationUnit": "METERS",
-            "longitude": -88.83333
-        },
-        {
             "elevation": 216.4,
             "mindate": "1948-07-01",
             "maxdate": "2014-01-01",
             "latitude": 41.44919,
             "name": "CRETE, IL US",
-            "datacoverage": 0.8718,
+            "datacoverage": 0.0377,
             "id": "COOP:112011",
             "elevationUnit": "METERS",
             "longitude": -87.62211
@@ -1280,15 +985,6 @@
             "id": "COOP:112048",
             "elevationUnit": "METERS",
             "longitude": -88.3952
-        },
-        {
-            "mindate": "1940-05-01",
-            "maxdate": "1949-02-01",
-            "latitude": 40.88333,
-            "name": "CULLOM, IL US",
-            "datacoverage": 0.8444,
-            "id": "COOP:112060",
-            "longitude": -88.26667
         },
         {
             "elevation": 179.8,
@@ -1313,17 +1009,6 @@
             "longitude": -87.6479
         },
         {
-            "elevation": 177.1,
-            "mindate": "1949-10-01",
-            "maxdate": "1951-05-01",
-            "latitude": 40.13333,
-            "name": "DANVILLE HOSPITAL, IL US",
-            "datacoverage": 0.779,
-            "id": "COOP:112143",
-            "elevationUnit": "METERS",
-            "longitude": -87.65
-        },
-        {
             "elevation": 163.4,
             "mindate": "1946-06-01",
             "maxdate": "2015-11-01",
@@ -1333,17 +1018,6 @@
             "id": "COOP:112145",
             "elevationUnit": "METERS",
             "longitude": -87.5961
-        },
-        {
-            "elevation": 177.1,
-            "mindate": "1948-07-01",
-            "maxdate": "1949-10-22",
-            "latitude": 40.13333,
-            "name": "DANVILLE HOSPITAL, IL US",
-            "datacoverage": 1,
-            "id": "COOP:112150",
-            "elevationUnit": "METERS",
-            "longitude": -87.65
         },
         {
             "elevation": 140.8,
@@ -1390,28 +1064,6 @@
             "longitude": -88.7756
         },
         {
-            "elevation": 214,
-            "mindate": "1948-01-01",
-            "maxdate": "1950-12-01",
-            "latitude": 42.05,
-            "name": "DES PLAINES 1 NW, IL US",
-            "datacoverage": 0.9998,
-            "id": "COOP:112286",
-            "elevationUnit": "METERS",
-            "longitude": -87.91667
-        },
-        {
-            "elevation": 200.9,
-            "mindate": "1944-10-01",
-            "maxdate": "1951-03-01",
-            "latitude": 39.36667,
-            "name": "DIONA, IL US",
-            "datacoverage": 0.8799,
-            "id": "COOP:112330",
-            "elevationUnit": "METERS",
-            "longitude": -88.13333
-        },
-        {
             "elevation": 185.9,
             "mindate": "1977-09-01",
             "maxdate": "1995-03-01",
@@ -1456,17 +1108,6 @@
             "longitude": -88.6678
         },
         {
-            "elevation": 198.1,
-            "mindate": "1948-07-01",
-            "maxdate": "1950-10-26",
-            "latitude": 40.78333,
-            "name": "DOUGLAS, IL US",
-            "datacoverage": 0.8455,
-            "id": "COOP:112397",
-            "elevationUnit": "METERS",
-            "longitude": -90.08333
-        },
-        {
             "elevation": 242.3,
             "mindate": "1940-01-01",
             "maxdate": "1988-05-01",
@@ -1500,17 +1141,6 @@
             "longitude": -89.193
         },
         {
-            "elevation": 195.1,
-            "mindate": "1934-09-01",
-            "maxdate": "1950-12-01",
-            "latitude": 41.1,
-            "name": "DWIGHT, IL US",
-            "datacoverage": 1,
-            "id": "COOP:112497",
-            "elevationUnit": "METERS",
-            "longitude": -88.41667
-        },
-        {
             "elevation": 191.4,
             "mindate": "1990-12-01",
             "maxdate": "2015-11-01",
@@ -1522,17 +1152,6 @@
             "longitude": -88.4111
         },
         {
-            "elevation": 195.1,
-            "mindate": "1948-07-01",
-            "maxdate": "1957-05-01",
-            "latitude": 41.08333,
-            "name": "DWIGHT STATE REFORM, IL US",
-            "datacoverage": 0.9479,
-            "id": "COOP:112502",
-            "elevationUnit": "METERS",
-            "longitude": -88.46667
-        },
-        {
             "elevation": 210.3,
             "mindate": "2003-05-01",
             "maxdate": "2015-11-01",
@@ -1542,17 +1161,6 @@
             "id": "COOP:112510",
             "elevationUnit": "METERS",
             "longitude": -88.9147
-        },
-        {
-            "elevation": 125,
-            "mindate": "1942-05-01",
-            "maxdate": "1968-12-01",
-            "latitude": 38.56667,
-            "name": "EAST ST LOUIS PARKS COLLEGE, IL US",
-            "datacoverage": 0.9342,
-            "id": "COOP:112614",
-            "elevationUnit": "METERS",
-            "longitude": -90.18333
         },
         {
             "elevation": 219.5,
@@ -1571,7 +1179,7 @@
             "maxdate": "1984-03-01",
             "latitude": 40.93333,
             "name": "EDELSTEIN, IL US",
-            "datacoverage": 0.5531,
+            "datacoverage": 0.0401,
             "id": "COOP:112642",
             "elevationUnit": "METERS",
             "longitude": -89.63333
@@ -1654,17 +1262,6 @@
             "longitude": -90.2269
         },
         {
-            "elevation": 121.9,
-            "mindate": "1942-06-01",
-            "maxdate": "1968-01-01",
-            "latitude": 37.45,
-            "name": "ELIZABETHTOWN, IL US",
-            "datacoverage": 0.9966,
-            "id": "COOP:112750",
-            "elevationUnit": "METERS",
-            "longitude": -88.3
-        },
-        {
             "elevation": 213.4,
             "mindate": "1991-08-01",
             "maxdate": "2003-10-01",
@@ -1685,17 +1282,6 @@
             "id": "COOP:112781",
             "elevationUnit": "METERS",
             "longitude": -89.09472
-        },
-        {
-            "elevation": 192,
-            "mindate": "1943-10-01",
-            "maxdate": "1960-02-01",
-            "latitude": 38.95,
-            "name": "ELSAH PRINCIPIA COL, IL US",
-            "datacoverage": 0.9696,
-            "id": "COOP:112800",
-            "elevationUnit": "METERS",
-            "longitude": -90.35
         },
         {
             "elevation": 182.9,
@@ -1720,17 +1306,6 @@
             "longitude": -89.2611
         },
         {
-            "elevation": 189,
-            "mindate": "1948-07-01",
-            "maxdate": "1968-06-01",
-            "latitude": 42.03333,
-            "name": "EVANSTON PUMP STATION, IL US",
-            "datacoverage": 0.6411,
-            "id": "COOP:112888",
-            "elevationUnit": "METERS",
-            "longitude": -87.68333
-        },
-        {
             "elevation": 202.7,
             "mindate": "1941-04-01",
             "maxdate": "2015-11-01",
@@ -1751,17 +1326,6 @@
             "id": "COOP:112931",
             "elevationUnit": "METERS",
             "longitude": -88.3263
-        },
-        {
-            "elevation": 223.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1948-09-01",
-            "latitude": 40.63333,
-            "name": "FAIRVIEW, IL US",
-            "datacoverage": 0.9953,
-            "id": "COOP:112958",
-            "elevationUnit": "METERS",
-            "longitude": -90.16667
         },
         {
             "elevation": 227.1,
@@ -1885,17 +1449,6 @@
             "longitude": -90.1545
         },
         {
-            "elevation": 128,
-            "mindate": "1940-03-01",
-            "maxdate": "1957-05-01",
-            "latitude": 37.85,
-            "name": "GALATIA 1 W, IL US",
-            "datacoverage": 0.8828,
-            "id": "COOP:113304",
-            "elevationUnit": "METERS",
-            "longitude": -88.63333
-        },
-        {
             "elevation": 250.5,
             "mindate": "1931-01-01",
             "maxdate": "2015-11-01",
@@ -1938,17 +1491,6 @@
             "id": "COOP:113369",
             "elevationUnit": "METERS",
             "longitude": -88.43333
-        },
-        {
-            "elevation": 139.9,
-            "mindate": "1966-02-01",
-            "maxdate": "1966-11-01",
-            "latitude": 38.45,
-            "name": "GEFF, IL US",
-            "datacoverage": 0.0111,
-            "id": "COOP:113379",
-            "elevationUnit": "METERS",
-            "longitude": -88.41667
         },
         {
             "elevation": 194.8,
@@ -2004,17 +1546,6 @@
             "id": "COOP:113455",
             "elevationUnit": "METERS",
             "longitude": -91.0234
-        },
-        {
-            "elevation": 160.6,
-            "mindate": "1940-07-01",
-            "maxdate": "1967-10-01",
-            "latitude": 37.4388,
-            "name": "DIXON SPRINGS AGRIC CNTR, IL US",
-            "datacoverage": 0.9938,
-            "id": "COOP:113482",
-            "elevationUnit": "METERS",
-            "longitude": -88.6678
         },
         {
             "elevation": 208.8,
@@ -2127,17 +1658,6 @@
             "longitude": -89.4052
         },
         {
-            "elevation": 228.9,
-            "mindate": "1940-05-01",
-            "maxdate": "1960-02-01",
-            "latitude": 40.75,
-            "name": "GRIDLEY, IL US",
-            "datacoverage": 1,
-            "id": "COOP:113709",
-            "elevationUnit": "METERS",
-            "longitude": -88.88333
-        },
-        {
             "elevation": 191.4,
             "mindate": "1931-01-01",
             "maxdate": "2015-11-01",
@@ -2248,17 +1768,6 @@
             "longitude": -88.6308
         },
         {
-            "elevation": 134.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1966-12-01",
-            "latitude": 40.3,
-            "name": "HAVANA, IL US",
-            "datacoverage": 0.993,
-            "id": "COOP:113930",
-            "elevationUnit": "METERS",
-            "longitude": -90.05
-        },
-        {
             "elevation": 141.1,
             "mindate": "1931-01-01",
             "maxdate": "2015-11-01",
@@ -2290,17 +1799,6 @@
             "id": "COOP:114013",
             "elevationUnit": "METERS",
             "longitude": -89.33806
-        },
-        {
-            "elevation": 134.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1950-10-01",
-            "latitude": 41.10694,
-            "name": "HENRY, IL US",
-            "datacoverage": 1,
-            "id": "COOP:114017",
-            "elevationUnit": "METERS",
-            "longitude": -89.35611
         },
         {
             "elevation": 152.4,
@@ -2358,28 +1856,6 @@
             "longitude": -87.6851
         },
         {
-            "elevation": 225.9,
-            "mindate": "1941-01-01",
-            "maxdate": "1960-11-01",
-            "latitude": 40.66667,
-            "name": "HUDSON LK BLOOMINGTO, IL US",
-            "datacoverage": 0.9583,
-            "id": "COOP:114269",
-            "elevationUnit": "METERS",
-            "longitude": -88.93333
-        },
-        {
-            "elevation": 140.2,
-            "mindate": "1948-07-01",
-            "maxdate": "1957-07-01",
-            "latitude": 39.11667,
-            "name": "HUTSONVILLE 1 NNW, IL US",
-            "datacoverage": 0.801,
-            "id": "COOP:114312",
-            "elevationUnit": "METERS",
-            "longitude": -87.66667
-        },
-        {
             "elevation": 133.2,
             "mindate": "1946-06-01",
             "maxdate": "2015-11-01",
@@ -2435,17 +1911,6 @@
             "longitude": -90.2285
         },
         {
-            "elevation": 214,
-            "mindate": "1949-02-01",
-            "maxdate": "1964-10-01",
-            "latitude": 39.36667,
-            "name": "JANESVILLE, IL US",
-            "datacoverage": 0.3406,
-            "id": "COOP:114465",
-            "elevationUnit": "METERS",
-            "longitude": -88.25
-        },
-        {
             "elevation": 192,
             "mindate": "1940-09-01",
             "maxdate": "2015-11-01",
@@ -2488,17 +1953,6 @@
             "id": "COOP:114593",
             "elevationUnit": "METERS",
             "longitude": -87.91667
-        },
-        {
-            "elevation": 192,
-            "mindate": "1941-04-01",
-            "maxdate": "1960-02-01",
-            "latitude": 41.13333,
-            "name": "KANKAKEE 4 NW, IL US",
-            "datacoverage": 1,
-            "id": "COOP:114598",
-            "elevationUnit": "METERS",
-            "longitude": -87.93333
         },
         {
             "elevation": 182.9,
@@ -2550,19 +2004,10 @@
             "maxdate": "1976-02-01",
             "latitude": 41.25,
             "name": "KEWANEE BAKER PARK, IL US",
-            "datacoverage": 0.8921,
+            "datacoverage": 0.0403,
             "id": "COOP:114715",
             "elevationUnit": "METERS",
             "longitude": -89.91667
-        },
-        {
-            "mindate": "1948-07-01",
-            "maxdate": "1950-09-01",
-            "latitude": 40.78333,
-            "name": "KICKAPOO, IL US",
-            "datacoverage": 0.8887,
-            "id": "COOP:114729",
-            "longitude": -89.71667
         },
         {
             "elevation": 179.8,
@@ -2585,39 +2030,6 @@
             "id": "COOP:114756",
             "elevationUnit": "METERS",
             "longitude": -88.8556
-        },
-        {
-            "elevation": 223.1,
-            "mindate": "1956-01-01",
-            "maxdate": "1958-06-25",
-            "latitude": 40.88333,
-            "name": "KIRKWOOD 2 NW, IL US",
-            "datacoverage": 0.0378,
-            "id": "COOP:114764",
-            "elevationUnit": "METERS",
-            "longitude": -90.78333
-        },
-        {
-            "elevation": 214,
-            "mindate": "1956-05-01",
-            "maxdate": "1958-05-01",
-            "latitude": 40.86667,
-            "name": "KIRKWOOD 3 W, IL US",
-            "datacoverage": 0.9599,
-            "id": "COOP:114765",
-            "elevationUnit": "METERS",
-            "longitude": -90.8
-        },
-        {
-            "elevation": 231.6,
-            "mindate": "1956-06-01",
-            "maxdate": "1958-06-01",
-            "latitude": 40.88333,
-            "name": "KIRKWOOD 1 N, IL US",
-            "datacoverage": 0.6007,
-            "id": "COOP:114766",
-            "elevationUnit": "METERS",
-            "longitude": -90.75
         },
         {
             "elevation": 221.9,
@@ -2651,17 +2063,6 @@
             "id": "COOP:114816",
             "elevationUnit": "METERS",
             "longitude": -87.87083
-        },
-        {
-            "elevation": 132.3,
-            "mindate": "1956-08-01",
-            "maxdate": "1957-06-01",
-            "latitude": 39.93333,
-            "name": "LA GRANGE LOCK DAM, IL US",
-            "datacoverage": 0.0611,
-            "id": "COOP:114817",
-            "elevationUnit": "METERS",
-            "longitude": -90.53333
         },
         {
             "elevation": 210.3,
@@ -2719,17 +2120,6 @@
             "longitude": -87.5416
         },
         {
-            "elevation": 189,
-            "mindate": "1931-01-01",
-            "maxdate": "1963-06-01",
-            "latitude": 41.3503,
-            "name": "PERU, IL US",
-            "datacoverage": 1,
-            "id": "COOP:114922",
-            "elevationUnit": "METERS",
-            "longitude": -89.1072
-        },
-        {
             "elevation": 140.2,
             "mindate": "1950-09-01",
             "maxdate": "1999-06-01",
@@ -2739,17 +2129,6 @@
             "id": "COOP:114923",
             "elevationUnit": "METERS",
             "longitude": -89.09083
-        },
-        {
-            "elevation": 253,
-            "mindate": "1948-07-01",
-            "maxdate": "1950-11-22",
-            "latitude": 40.96667,
-            "name": "LAWN RIDGE, IL US",
-            "datacoverage": 0.4481,
-            "id": "COOP:114951",
-            "elevationUnit": "METERS",
-            "longitude": -89.63333
         },
         {
             "elevation": 137.5,
@@ -2763,17 +2142,6 @@
             "longitude": -87.7196
         },
         {
-            "elevation": 139.9,
-            "mindate": "1942-06-01",
-            "maxdate": "1966-12-01",
-            "latitude": 38.71667,
-            "name": "LAWRENCEVILLE 3 WSW, IL US",
-            "datacoverage": 0.9423,
-            "id": "COOP:114959",
-            "elevationUnit": "METERS",
-            "longitude": -87.73333
-        },
-        {
             "elevation": 151.8,
             "mindate": "1998-05-01",
             "maxdate": "2015-11-01",
@@ -2783,17 +2151,6 @@
             "id": "COOP:114991",
             "elevationUnit": "METERS",
             "longitude": -89.8177
-        },
-        {
-            "elevation": 238,
-            "mindate": "1935-06-01",
-            "maxdate": "1960-02-01",
-            "latitude": 40.35,
-            "name": "LE ROY, IL US",
-            "datacoverage": 0.9966,
-            "id": "COOP:115036",
-            "elevationUnit": "METERS",
-            "longitude": -88.76667
         },
         {
             "elevation": 182.9,
@@ -2838,17 +2195,6 @@
             "id": "COOP:115079",
             "elevationUnit": "METERS",
             "longitude": -89.3387
-        },
-        {
-            "elevation": 182.9,
-            "mindate": "1948-08-01",
-            "maxdate": "1953-06-01",
-            "latitude": 40.15,
-            "name": "LINCOLN 2, IL US",
-            "datacoverage": 0.9835,
-            "id": "COOP:115084",
-            "elevationUnit": "METERS",
-            "longitude": -89.35
         },
         {
             "elevation": 200.9,
@@ -2906,23 +2252,12 @@
             "longitude": -89.87444
         },
         {
-            "elevation": 177.1,
-            "mindate": "1948-07-01",
-            "maxdate": "1957-07-01",
-            "latitude": 41.56667,
-            "name": "LOCKPORT LOCK AND DA, IL US",
-            "datacoverage": 0.9744,
-            "id": "COOP:115131",
-            "elevationUnit": "METERS",
-            "longitude": -88.08333
-        },
-        {
             "elevation": 179.8,
             "mindate": "1948-07-01",
             "maxdate": "1975-01-01",
             "latitude": 41.56667,
             "name": "LOCKPORT POWER HOUSE, IL US",
-            "datacoverage": 0.5641,
+            "datacoverage": 0.0362,
             "id": "COOP:115136",
             "elevationUnit": "METERS",
             "longitude": -88.08333
@@ -2955,7 +2290,7 @@
             "maxdate": "1978-05-01",
             "latitude": 38.76667,
             "name": "LOUISVILLE, IL US",
-            "datacoverage": 0.8975,
+            "datacoverage": 0.038,
             "id": "COOP:115216",
             "elevationUnit": "METERS",
             "longitude": -88.5
@@ -3126,17 +2461,6 @@
             "longitude": -87.895
         },
         {
-            "elevation": 131.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1954-04-01",
-            "latitude": 38.48333,
-            "name": "MASCOUTAH, IL US",
-            "datacoverage": 0.9859,
-            "id": "COOP:115405",
-            "elevationUnit": "METERS",
-            "longitude": -89.8
-        },
-        {
             "elevation": 182.9,
             "mindate": "1948-07-01",
             "maxdate": "2011-11-01",
@@ -3168,17 +2492,6 @@
             "id": "COOP:115493",
             "elevationUnit": "METERS",
             "longitude": -88.2533
-        },
-        {
-            "elevation": 225.9,
-            "mindate": "1940-08-01",
-            "maxdate": "1960-02-01",
-            "latitude": 42.31667,
-            "name": "MC HENRY 2 S, IL US",
-            "datacoverage": 1,
-            "id": "COOP:115498",
-            "elevationUnit": "METERS",
-            "longitude": -88.25
         },
         {
             "elevation": 135.9,
@@ -3311,17 +2624,6 @@
             "id": "COOP:115772",
             "elevationUnit": "METERS",
             "longitude": -90.7197
-        },
-        {
-            "elevation": 192,
-            "mindate": "1942-06-01",
-            "maxdate": "1964-11-01",
-            "latitude": 40.03333,
-            "name": "MONTICELLO, IL US",
-            "datacoverage": 0.9592,
-            "id": "COOP:115791",
-            "elevationUnit": "METERS",
-            "longitude": -88.56667
         },
         {
             "elevation": 189,
@@ -3588,17 +2890,6 @@
             "longitude": -88.5536
         },
         {
-            "elevation": 203.9,
-            "mindate": "1941-04-01",
-            "maxdate": "1964-12-01",
-            "latitude": 41.55,
-            "name": "NEWARK 8 E, IL US",
-            "datacoverage": 0.9858,
-            "id": "COOP:116069",
-            "elevationUnit": "METERS",
-            "longitude": -88.43333
-        },
-        {
             "elevation": 129.8,
             "mindate": "1990-10-01",
             "maxdate": "2015-04-01",
@@ -3630,28 +2921,6 @@
             "id": "COOP:116080",
             "elevationUnit": "METERS",
             "longitude": -91.0579
-        },
-        {
-            "elevation": 174,
-            "mindate": "1948-07-01",
-            "maxdate": "1960-01-01",
-            "latitude": 41.16667,
-            "name": "NEW BOSTON, IL US",
-            "datacoverage": 0.9925,
-            "id": "COOP:116085",
-            "elevationUnit": "METERS",
-            "longitude": -91
-        },
-        {
-            "elevation": 171,
-            "mindate": "1931-01-01",
-            "maxdate": "1964-11-01",
-            "latitude": 37.58333,
-            "name": "NEW BURNSIDE, IL US",
-            "datacoverage": 0.9976,
-            "id": "COOP:116093",
-            "elevationUnit": "METERS",
-            "longitude": -88.76667
         },
         {
             "elevation": 196.6,
@@ -3786,17 +3055,6 @@
             "longitude": -89.32786
         },
         {
-            "elevation": 214,
-            "mindate": "1931-01-01",
-            "maxdate": "1956-04-01",
-            "latitude": 42.01667,
-            "name": "OREGON WATERWORKS, IL US",
-            "datacoverage": 0.987,
-            "id": "COOP:116492",
-            "elevationUnit": "METERS",
-            "longitude": -89.33333
-        },
-        {
             "elevation": 160,
             "mindate": "1931-01-01",
             "maxdate": "2015-11-01",
@@ -3835,7 +3093,7 @@
             "maxdate": "1992-11-01",
             "latitude": 39.63333,
             "name": "PARIS 1 N, IL US",
-            "datacoverage": 0.5529,
+            "datacoverage": 0.0347,
             "id": "COOP:116605",
             "elevationUnit": "METERS",
             "longitude": -87.7
@@ -3962,17 +3220,6 @@
             "longitude": -89.6668
         },
         {
-            "elevation": 134.1,
-            "mindate": "1948-07-01",
-            "maxdate": "1957-06-01",
-            "latitude": 40.61667,
-            "name": "PEORIA LOCK AND DAM, IL US",
-            "datacoverage": 0.9488,
-            "id": "COOP:116706",
-            "elevationUnit": "METERS",
-            "longitude": -89.65
-        },
-        {
             "elevation": 198.1,
             "mindate": "2003-06-01",
             "maxdate": "2003-10-01",
@@ -4026,15 +3273,6 @@
             "id": "COOP:116738",
             "elevationUnit": "METERS",
             "longitude": -90.8236
-        },
-        {
-            "mindate": "1931-01-01",
-            "maxdate": "1950-08-01",
-            "latitude": 41.33333,
-            "name": "PERU, IL US",
-            "datacoverage": 0.9746,
-            "id": "COOP:116751",
-            "longitude": -89.13333
         },
         {
             "elevation": 189,
@@ -4101,17 +3339,6 @@
             "id": "COOP:116819",
             "elevationUnit": "METERS",
             "longitude": -88.1827
-        },
-        {
-            "elevation": 195.1,
-            "mindate": "1948-07-01",
-            "maxdate": "1968-10-01",
-            "latitude": 39.61667,
-            "name": "PITTSFIELD 3 NE, IL US",
-            "datacoverage": 0.8975,
-            "id": "COOP:116833",
-            "elevationUnit": "METERS",
-            "longitude": -90.75
         },
         {
             "elevation": 204.2,
@@ -4222,17 +3449,6 @@
             "id": "COOP:116973",
             "elevationUnit": "METERS",
             "longitude": -90.1619
-        },
-        {
-            "elevation": 214,
-            "mindate": "1948-07-01",
-            "maxdate": "1957-07-01",
-            "latitude": 41.35,
-            "name": "PRINCETON 1 S, IL US",
-            "datacoverage": 0.9488,
-            "id": "COOP:116996",
-            "elevationUnit": "METERS",
-            "longitude": -89.46667
         },
         {
             "elevation": 212.4,
@@ -4378,17 +3594,6 @@
             "longitude": -88.9883
         },
         {
-            "elevation": 164.9,
-            "mindate": "1948-07-01",
-            "maxdate": "1965-12-01",
-            "latitude": 38.36667,
-            "name": "RICHVIEW, IL US",
-            "datacoverage": 0.8975,
-            "id": "COOP:117244",
-            "elevationUnit": "METERS",
-            "longitude": -89.18333
-        },
-        {
             "elevation": 174,
             "mindate": "2010-10-01",
             "maxdate": "2015-11-01",
@@ -4420,17 +3625,6 @@
             "id": "COOP:117329",
             "elevationUnit": "METERS",
             "longitude": -89.1947
-        },
-        {
-            "elevation": 225.9,
-            "mindate": "1911-06-01",
-            "maxdate": "1968-10-01",
-            "latitude": 40.66667,
-            "name": "ROBERTS 3 N, IL US",
-            "datacoverage": 0.9956,
-            "id": "COOP:117336",
-            "elevationUnit": "METERS",
-            "longitude": -88.18333
         },
         {
             "elevation": 163.1,
@@ -4477,17 +3671,6 @@
             "longitude": -89.6414
         },
         {
-            "elevation": 225.9,
-            "mindate": "1905-04-01",
-            "maxdate": "1957-06-01",
-            "latitude": 42.28333,
-            "name": "ROCKFORD, IL US",
-            "datacoverage": 0.8357,
-            "id": "COOP:117375",
-            "elevationUnit": "METERS",
-            "longitude": -89.08333
-        },
-        {
             "elevation": 267.9,
             "mindate": "1950-05-01",
             "maxdate": "1984-11-01",
@@ -4499,17 +3682,6 @@
             "longitude": -88.98333
         },
         {
-            "elevation": 225.9,
-            "mindate": "1948-07-01",
-            "maxdate": "1950-12-26",
-            "latitude": 42.35,
-            "name": "ROCKFORD CAA AIRPORT, IL US",
-            "datacoverage": 0.0419,
-            "id": "COOP:117380",
-            "elevationUnit": "METERS",
-            "longitude": -89.05
-        },
-        {
             "elevation": 222.5,
             "mindate": "1951-01-01",
             "maxdate": "2015-11-01",
@@ -4519,17 +3691,6 @@
             "id": "COOP:117382",
             "elevationUnit": "METERS",
             "longitude": -89.093
-        },
-        {
-            "elevation": 173.1,
-            "mindate": "1935-08-01",
-            "maxdate": "1953-02-01",
-            "latitude": 41.518,
-            "name": "ROCK ISLAND LOCK AND DAM 15, IL US",
-            "datacoverage": 1,
-            "id": "COOP:117388",
-            "elevationUnit": "METERS",
-            "longitude": -90.5647
         },
         {
             "elevation": 173.1,
@@ -4730,23 +3891,12 @@
             "longitude": -87.8228
         },
         {
-            "elevation": 192,
-            "mindate": "1954-03-01",
-            "maxdate": "1962-04-01",
-            "latitude": 42.08333,
-            "name": "SKOKIE, IL US",
-            "datacoverage": 0.8265,
-            "id": "COOP:117988",
-            "elevationUnit": "METERS",
-            "longitude": -87.76667
-        },
-        {
             "elevation": 182.9,
             "mindate": "1948-07-01",
             "maxdate": "1975-01-01",
             "latitude": 42.01667,
             "name": "SKOKIE N S TREAT WKS, IL US",
-            "datacoverage": 0.9744,
+            "datacoverage": 0.0552,
             "id": "COOP:117990",
             "elevationUnit": "METERS",
             "longitude": -87.71667
@@ -4783,17 +3933,6 @@
             "id": "COOP:118091",
             "elevationUnit": "METERS",
             "longitude": -89.598
-        },
-        {
-            "elevation": 134.1,
-            "mindate": "1952-11-01",
-            "maxdate": "1953-12-01",
-            "latitude": 41.03333,
-            "name": "SPARLAND, IL US",
-            "datacoverage": 1,
-            "id": "COOP:118145",
-            "elevationUnit": "METERS",
-            "longitude": -89.43333
         },
         {
             "elevation": 174.7,
@@ -4838,17 +3977,6 @@
             "id": "COOP:118179",
             "elevationUnit": "METERS",
             "longitude": -89.6839
-        },
-        {
-            "elevation": 192.9,
-            "mindate": "1948-01-01",
-            "maxdate": "1954-04-30",
-            "latitude": 39.8,
-            "name": "SPRINGFIELD, IL US",
-            "datacoverage": 1,
-            "id": "COOP:118184",
-            "elevationUnit": "METERS",
-            "longitude": -89.65
         },
         {
             "elevation": 182.6,
@@ -4944,7 +4072,7 @@
             "maxdate": "1975-01-01",
             "latitude": 41.81667,
             "name": "STICKNEY W SIDE TREA, IL US",
-            "datacoverage": 0.6411,
+            "datacoverage": 0.0452,
             "id": "COOP:118278",
             "elevationUnit": "METERS",
             "longitude": -87.75
@@ -4992,28 +4120,6 @@
             "id": "COOP:118389",
             "elevationUnit": "METERS",
             "longitude": -88.609
-        },
-        {
-            "elevation": 256,
-            "mindate": "1931-01-01",
-            "maxdate": "1965-10-01",
-            "latitude": 41.98333,
-            "name": "SYCAMORE, IL US",
-            "datacoverage": 0.9976,
-            "id": "COOP:118452",
-            "elevationUnit": "METERS",
-            "longitude": -88.68333
-        },
-        {
-            "elevation": 223.1,
-            "mindate": "1941-04-01",
-            "maxdate": "1956-03-01",
-            "latitude": 40.36667,
-            "name": "TABLE GROVE, IL US",
-            "datacoverage": 0.9889,
-            "id": "COOP:118460",
-            "elevationUnit": "METERS",
-            "longitude": -90.43333
         },
         {
             "elevation": 188.1,
@@ -5126,28 +4232,6 @@
             "longitude": -88.2234
         },
         {
-            "elevation": 225.6,
-            "mindate": "1940-02-01",
-            "maxdate": "1956-06-01",
-            "latitude": 40.08333,
-            "name": "URBANA S AGRONOMY FARM, IL US",
-            "datacoverage": 0.8827,
-            "id": "COOP:118745",
-            "elevationUnit": "METERS",
-            "longitude": -88.21667
-        },
-        {
-            "elevation": 217.9,
-            "mindate": "1949-04-01",
-            "maxdate": "1963-07-01",
-            "latitude": 40.11667,
-            "name": "URBANA ENG CAMPUS, IL US",
-            "datacoverage": 0.6803,
-            "id": "COOP:118750",
-            "elevationUnit": "METERS",
-            "longitude": -88.23333
-        },
-        {
             "elevation": 140.2,
             "mindate": "1941-01-01",
             "maxdate": "2005-02-01",
@@ -5236,17 +4320,6 @@
             "longitude": -89.0849
         },
         {
-            "elevation": 149,
-            "mindate": "1931-01-01",
-            "maxdate": "1962-09-01",
-            "latitude": 40.35,
-            "name": "WARSAW, IL US",
-            "datacoverage": 0.9843,
-            "id": "COOP:118976",
-            "elevationUnit": "METERS",
-            "longitude": -91.43333
-        },
-        {
             "elevation": 230.1,
             "mindate": "1948-07-01",
             "maxdate": "2008-03-01",
@@ -5270,11 +4343,11 @@
         },
         {
             "elevation": 240.8,
-            "mindate": "1940-01-01",
+            "mindate": "1948-07-01",
             "maxdate": "1998-01-01",
             "latitude": 41.765,
             "name": "WATERMAN 1 ESE, IL US",
-            "datacoverage": 0.8781,
+            "datacoverage": 0.0255,
             "id": "COOP:119010",
             "elevationUnit": "METERS",
             "longitude": -88.75611
@@ -5340,21 +4413,10 @@
             "maxdate": "1990-09-01",
             "latitude": 41.06667,
             "name": "WENONA, IL US",
-            "datacoverage": 0.8462,
+            "datacoverage": 0.0368,
             "id": "COOP:119090",
             "elevationUnit": "METERS",
             "longitude": -89.06667
-        },
-        {
-            "elevation": 146,
-            "mindate": "1941-01-01",
-            "maxdate": "1956-04-29",
-            "latitude": 37.9,
-            "name": "WEST FRANKFORT 8 E, IL US",
-            "datacoverage": 0.9236,
-            "id": "COOP:119140",
-            "elevationUnit": "METERS",
-            "longitude": -88.8
         },
         {
             "elevation": 129.5,
@@ -5522,28 +4584,6 @@
             "longitude": -90.4231
         },
         {
-            "elevation": 178.3,
-            "mindate": "1931-01-01",
-            "maxdate": "2015-11-01",
-            "latitude": 41.7947,
-            "name": "CLINTON NUMBER 1, IA US",
-            "datacoverage": 1,
-            "id": "COOP:131635",
-            "elevationUnit": "METERS",
-            "longitude": -90.2639
-        },
-        {
-            "elevation": 182.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1985-10-01",
-            "latitude": 41.83333,
-            "name": "CLINTON 2, IA US",
-            "datacoverage": 0.9939,
-            "id": "COOP:131640",
-            "elevationUnit": "METERS",
-            "longitude": -90.21667
-        },
-        {
             "elevation": 173.1,
             "mindate": "1948-01-01",
             "maxdate": "1984-05-28",
@@ -5553,28 +4593,6 @@
             "id": "COOP:132069",
             "elevationUnit": "METERS",
             "longitude": -90.56667
-        },
-        {
-            "elevation": 198.4,
-            "mindate": "1931-01-01",
-            "maxdate": "1939-03-01",
-            "latitude": 40.38333,
-            "name": "KEOKUK NUMBER 2, IL US",
-            "datacoverage": 0.96,
-            "id": "COOP:134372",
-            "elevationUnit": "METERS",
-            "longitude": -91.38333
-        },
-        {
-            "elevation": 160.6,
-            "mindate": "1937-05-01",
-            "maxdate": "1953-02-01",
-            "latitude": 40.4,
-            "name": "KEOKUK LOCK AND DAM 19, IL US",
-            "datacoverage": 0.979,
-            "id": "COOP:134376",
-            "elevationUnit": "METERS",
-            "longitude": -91.36667
         },
         {
             "elevation": 160.6,
@@ -5604,7 +4622,7 @@
             "maxdate": "2014-01-01",
             "latitude": 39.00277,
             "name": "CAP AU GRIS LOCK AND DAM 25, MO US",
-            "datacoverage": 1,
+            "datacoverage": 0.0272,
             "id": "COOP:231283",
             "elevationUnit": "METERS",
             "longitude": -90.68922
@@ -5619,17 +4637,6 @@
             "id": "COOP:233463",
             "elevationUnit": "METERS",
             "longitude": -91.42611
-        },
-        {
-            "elevation": 286.5,
-            "mindate": "1953-03-01",
-            "maxdate": "1999-12-01",
-            "latitude": 42.5058,
-            "name": "MARTINTOWN 2 E, WI US",
-            "datacoverage": 0.8683,
-            "id": "COOP:475148",
-            "elevationUnit": "METERS",
-            "longitude": -89.7572
         },
         {
             "elevation": 214.9,
@@ -10998,6 +10005,1007 @@
             "id": "GHCND:US1ILJK0005",
             "elevationUnit": "METERS",
             "longitude": -89.24296
+        },
+        {
+            "elevation": 130.5,
+            "mindate": "2010-05-01",
+            "maxdate": "2013-05-24",
+            "latitude": 37.720333,
+            "name": "CARBONDALE 1.1 WSW, IL US",
+            "datacoverage": 0.9993,
+            "id": "GHCND:US1ILJK0006",
+            "elevationUnit": "METERS",
+            "longitude": -89.237086
+        },
+        {
+            "elevation": 118.9,
+            "mindate": "2012-03-01",
+            "maxdate": "2015-01-24",
+            "latitude": 37.7853,
+            "name": "MURPHYSBORO 2.0 NW, IL US",
+            "datacoverage": 1,
+            "id": "GHCND:US1ILJK0011",
+            "elevationUnit": "METERS",
+            "longitude": -89.3661
+        },
+        {
+            "elevation": 132.9,
+            "mindate": "2016-01-20",
+            "maxdate": "2020-05-17",
+            "latitude": 37.720532,
+            "name": "CARBONDALE 2.5 W, IL US",
+            "datacoverage": 1,
+            "id": "GHCND:US1ILJK0013",
+            "elevationUnit": "METERS",
+            "longitude": -89.26303
+        },
+        {
+            "elevation": 122.8,
+            "mindate": "2016-02-12",
+            "maxdate": "2020-05-16",
+            "latitude": 37.814097,
+            "name": "DE SOTO 0.3 ESE, IL US",
+            "datacoverage": 1,
+            "id": "GHCND:US1ILJK0014",
+            "elevationUnit": "METERS",
+            "longitude": -89.223066
+        },
+        {
+            "elevation": 136.2,
+            "mindate": "2017-07-01",
+            "maxdate": "2018-07-14",
+            "latitude": 37.691667,
+            "name": "CARBONDALE 2.3 S, IL US",
+            "datacoverage": 0.636,
+            "id": "GHCND:US1ILJK0016",
+            "elevationUnit": "METERS",
+            "longitude": -89.220278
+        },
+        {
+            "elevation": 166.4,
+            "mindate": "2018-02-18",
+            "maxdate": "2020-05-15",
+            "latitude": 37.670488,
+            "name": "CARBONDALE 3.8 S, IL US",
+            "datacoverage": 0.6391,
+            "id": "GHCND:US1ILJK0018",
+            "elevationUnit": "METERS",
+            "longitude": -89.226977
+        },
+        {
+            "elevation": 121.9,
+            "mindate": "2018-03-01",
+            "maxdate": "2020-05-17",
+            "latitude": 37.80677,
+            "name": "MURPHYSBORO 2.8 NNE, IL US",
+            "datacoverage": 1,
+            "id": "GHCND:US1ILJK0019",
+            "elevationUnit": "METERS",
+            "longitude": -89.32451
+        },
+        {
+            "elevation": 127.7,
+            "mindate": "2018-04-13",
+            "maxdate": "2020-05-17",
+            "latitude": 37.782259,
+            "name": "MURPHYSBORO 1.3 NW, IL US",
+            "datacoverage": 0.4883,
+            "id": "GHCND:US1ILJK0020",
+            "elevationUnit": "METERS",
+            "longitude": -89.351572
+        },
+        {
+            "elevation": 108.5,
+            "mindate": "2018-11-06",
+            "maxdate": "2019-12-16",
+            "latitude": 37.73645,
+            "name": "JACOB 0.9 SE, IL US",
+            "datacoverage": 0.4901,
+            "id": "GHCND:US1ILJK0021",
+            "elevationUnit": "METERS",
+            "longitude": -89.52221
+        },
+        {
+            "elevation": 137.8,
+            "mindate": "2019-03-14",
+            "maxdate": "2020-03-19",
+            "latitude": 37.71633,
+            "name": "CARBONDALE 0.9 SW, IL US",
+            "datacoverage": 0.9947,
+            "id": "GHCND:US1ILJK0023",
+            "elevationUnit": "METERS",
+            "longitude": -89.23003
+        },
+        {
+            "elevation": 127.1,
+            "mindate": "2019-04-21",
+            "maxdate": "2020-05-17",
+            "latitude": 37.721844,
+            "name": "CARBONDALE 1.2 W, IL US",
+            "datacoverage": 0.8397,
+            "id": "GHCND:US1ILJK0024",
+            "elevationUnit": "METERS",
+            "longitude": -89.239142
+        },
+        {
+            "elevation": 177.1,
+            "mindate": "2007-09-01",
+            "maxdate": "2012-12-13",
+            "latitude": 39.166361,
+            "name": "MONTROSE 3.7 E, IL US",
+            "datacoverage": 0.9995,
+            "id": "GHCND:US1ILJS0002",
+            "elevationUnit": "METERS",
+            "longitude": -88.309792
+        },
+        {
+            "elevation": 166.1,
+            "mindate": "2008-12-01",
+            "maxdate": "2020-05-09",
+            "latitude": 39.068896,
+            "name": "NEWTON 6.4 NNE, IL US",
+            "datacoverage": 1,
+            "id": "GHCND:US1ILJS0003",
+            "elevationUnit": "METERS",
+            "longitude": -88.105799
+        },
+        {
+            "elevation": 167.9,
+            "mindate": "2019-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 39.11824,
+            "name": "YALE 0.1 SSW, IL US",
+            "datacoverage": 1,
+            "id": "GHCND:US1ILJS0005",
+            "elevationUnit": "METERS",
+            "longitude": -88.02512
+        },
+        {
+            "elevation": 202.1,
+            "mindate": "2006-12-01",
+            "maxdate": "2008-02-17",
+            "latitude": 41.710007,
+            "name": "MONTGOMERY 3.5 WSW, IL US",
+            "datacoverage": 1,
+            "id": "GHCND:US1ILKD0001",
+            "elevationUnit": "METERS",
+            "longitude": -88.40455
+        },
+        {
+            "elevation": 203.9,
+            "mindate": "2007-03-01",
+            "maxdate": "2020-05-17",
+            "latitude": 41.720226,
+            "name": "MONTGOMERY 0.8 SSE, IL US",
+            "datacoverage": 1,
+            "id": "GHCND:US1ILKD0005",
+            "elevationUnit": "METERS",
+            "longitude": -88.333962
+        },
+        {
+            "elevation": 193.9,
+            "mindate": "2007-03-01",
+            "maxdate": "2007-10-03",
+            "latitude": 41.664407,
+            "name": "OSWEGO 2.6 SSW, IL US",
+            "datacoverage": 0.9956,
+            "id": "GHCND:US1ILKD0006",
+            "elevationUnit": "METERS",
+            "longitude": -88.355584
+        },
+        {
+            "elevation": 202.1,
+            "mindate": "2007-06-01",
+            "maxdate": "2020-05-17",
+            "latitude": 41.668471,
+            "name": "PLANO 0.4 NNE, IL US",
+            "datacoverage": 0.5244,
+            "id": "GHCND:US1ILKD0007",
+            "elevationUnit": "METERS",
+            "longitude": -88.531375
+        },
+        {
+            "elevation": 199,
+            "mindate": "2007-08-01",
+            "maxdate": "2009-05-09",
+            "latitude": 41.630236,
+            "name": "OSWEGO 5.0 SSE, IL US",
+            "datacoverage": 0.998,
+            "id": "GHCND:US1ILKD0008",
+            "elevationUnit": "METERS",
+            "longitude": -88.2967
+        },
+        {
+            "elevation": 191.1,
+            "mindate": "2007-11-01",
+            "maxdate": "2019-01-21",
+            "latitude": 41.520684,
+            "name": "LISBON 4.4 NE, IL US",
+            "datacoverage": 0.9973,
+            "id": "GHCND:US1ILKD0009",
+            "elevationUnit": "METERS",
+            "longitude": -88.416683
+        },
+        {
+            "elevation": 192,
+            "mindate": "2007-12-01",
+            "maxdate": "2015-01-14",
+            "latitude": 41.6413,
+            "name": "YORKVILLE 1.1 W, IL US",
+            "datacoverage": 0.9297,
+            "id": "GHCND:US1ILKD0012",
+            "elevationUnit": "METERS",
+            "longitude": -88.46957
+        },
+        {
+            "elevation": 195.1,
+            "mindate": "2008-02-01",
+            "maxdate": "2017-09-19",
+            "latitude": 41.681575,
+            "name": "OSWEGO 1.5 SW, IL US",
+            "datacoverage": 0.7958,
+            "id": "GHCND:US1ILKD0014",
+            "elevationUnit": "METERS",
+            "longitude": -88.351423
+        },
+        {
+            "elevation": 203.9,
+            "mindate": "2008-04-01",
+            "maxdate": "2010-10-25",
+            "latitude": 41.682792,
+            "name": "OSWEGO 1.3 SW, IL US",
+            "datacoverage": 0.3869,
+            "id": "GHCND:US1ILKD0018",
+            "elevationUnit": "METERS",
+            "longitude": -88.348233
+        },
+        {
+            "elevation": 205.1,
+            "mindate": "2008-03-01",
+            "maxdate": "2016-12-10",
+            "latitude": 41.708695,
+            "name": "MONTGOMERY 1.7 SSE, IL US",
+            "datacoverage": 0.9991,
+            "id": "GHCND:US1ILKD0023",
+            "elevationUnit": "METERS",
+            "longitude": -88.32515
+        },
+        {
+            "elevation": 206,
+            "mindate": "2008-04-01",
+            "maxdate": "2020-05-17",
+            "latitude": 41.629331,
+            "name": "OSWEGO 5.0 SSE, IL US",
+            "datacoverage": 1,
+            "id": "GHCND:US1ILKD0024",
+            "elevationUnit": "METERS",
+            "longitude": -88.299149
+        },
+        {
+            "elevation": 231,
+            "mindate": "2008-04-01",
+            "maxdate": "2018-10-08",
+            "latitude": 41.620833,
+            "name": "YORKVILLE 1.8 SSE, IL US",
+            "datacoverage": 0.5667,
+            "id": "GHCND:US1ILKD0025",
+            "elevationUnit": "METERS",
+            "longitude": -88.428611
+        },
+        {
+            "elevation": 195.1,
+            "mindate": "2008-03-01",
+            "maxdate": "2014-07-14",
+            "latitude": 41.64861,
+            "name": "YORKVILLE 0.7 NE, IL US",
+            "datacoverage": 0.9999,
+            "id": "GHCND:US1ILKD0026",
+            "elevationUnit": "METERS",
+            "longitude": -88.43625
+        },
+        {
+            "elevation": 186.2,
+            "mindate": "2012-03-01",
+            "maxdate": "2015-02-02",
+            "latitude": 41.641369,
+            "name": "YORKVILLE 0.2 WSW, IL US",
+            "datacoverage": 0.9729,
+            "id": "GHCND:US1ILKD0033",
+            "elevationUnit": "METERS",
+            "longitude": -88.450199
+        },
+        {
+            "elevation": 201.5,
+            "mindate": "2012-04-01",
+            "maxdate": "2020-05-17",
+            "latitude": 41.567787,
+            "name": "PLAINFIELD 4.8 SW, IL US",
+            "datacoverage": 1,
+            "id": "GHCND:US1ILKD0034",
+            "elevationUnit": "METERS",
+            "longitude": -88.270107
+        },
+        {
+            "elevation": 191.7,
+            "mindate": "2013-05-01",
+            "maxdate": "2015-06-09",
+            "latitude": 41.6892585754395,
+            "name": "OSWEGO 1.0 SW, IL US",
+            "datacoverage": 0.5772,
+            "id": "GHCND:US1ILKD0046",
+            "elevationUnit": "METERS",
+            "longitude": -88.3488006591797
+        },
+        {
+            "elevation": 205.4,
+            "mindate": "2012-09-01",
+            "maxdate": "2014-09-09",
+            "latitude": 41.7136878967285,
+            "name": "OSWEGO 1.3 NE, IL US",
+            "datacoverage": 0.7958,
+            "id": "GHCND:US1ILKD0047",
+            "elevationUnit": "METERS",
+            "longitude": -88.3177337646484
+        },
+        {
+            "elevation": 223.1,
+            "mindate": "2013-06-01",
+            "maxdate": "2015-11-19",
+            "latitude": 41.6076698303223,
+            "name": "YORKVILLE 2.8 SSW, IL US",
+            "datacoverage": 0.4334,
+            "id": "GHCND:US1ILKD0054",
+            "elevationUnit": "METERS",
+            "longitude": -88.4761505126953
+        },
+        {
+            "elevation": 194.8,
+            "mindate": "2015-04-01",
+            "maxdate": "2016-07-16",
+            "latitude": 41.664057,
+            "name": "YORKVILLE 1.5 N, IL US",
+            "datacoverage": 0.8316,
+            "id": "GHCND:US1ILKD0059",
+            "elevationUnit": "METERS",
+            "longitude": -88.444405
+        },
+        {
+            "elevation": 196.6,
+            "mindate": "2015-08-13",
+            "maxdate": "2019-05-30",
+            "latitude": 41.6622085571289,
+            "name": "OSWEGO 2.7 SSW, IL US",
+            "datacoverage": 0.1586,
+            "id": "GHCND:US1ILKD0074",
+            "elevationUnit": "METERS",
+            "longitude": -88.3534088134766
+        },
+        {
+            "elevation": 210,
+            "mindate": "2006-12-01",
+            "maxdate": "2008-01-22",
+            "latitude": 41.166667,
+            "name": "BOURBONNAIS 0.9 ENE, IL US",
+            "datacoverage": 0.9819,
+            "id": "GHCND:US1ILKK0001",
+            "elevationUnit": "METERS",
+            "longitude": -87.863056
+        },
+        {
+            "elevation": 210,
+            "mindate": "2007-01-01",
+            "maxdate": "2012-07-26",
+            "latitude": 41.159117,
+            "name": "BOURBONNAIS 0.3 SSE, IL US",
+            "datacoverage": 0.9973,
+            "id": "GHCND:US1ILKK0002",
+            "elevationUnit": "METERS",
+            "longitude": -87.877182
+        },
+        {
+            "elevation": 196.9,
+            "mindate": "2007-04-01",
+            "maxdate": "2007-08-09",
+            "latitude": 41.147466,
+            "name": "BONFIELD 0.0 ENE, IL US",
+            "datacoverage": 0.9947,
+            "id": "GHCND:US1ILKK0005",
+            "elevationUnit": "METERS",
+            "longitude": -88.055925
+        },
+        {
+            "elevation": 196.9,
+            "mindate": "2007-08-01",
+            "maxdate": "2018-06-21",
+            "latitude": 41.150178,
+            "name": "KANKAKEE 4.5 WNW, IL US",
+            "datacoverage": 0.3846,
+            "id": "GHCND:US1ILKK0007",
+            "elevationUnit": "METERS",
+            "longitude": -87.935342
+        },
+        {
+            "elevation": 220.1,
+            "mindate": "2008-06-01",
+            "maxdate": "2014-04-29",
+            "latitude": 41.201879,
+            "name": "MOMENCE 3.3 NE, IL US",
+            "datacoverage": 0.8737,
+            "id": "GHCND:US1ILKK0010",
+            "elevationUnit": "METERS",
+            "longitude": -87.62495
+        },
+        {
+            "elevation": 198.1,
+            "mindate": "2008-05-01",
+            "maxdate": "2012-07-31",
+            "latitude": 41.150763,
+            "name": "KANKAKEE 4.2 NW, IL US",
+            "datacoverage": 1,
+            "id": "GHCND:US1ILKK0011",
+            "elevationUnit": "METERS",
+            "longitude": -87.92678
+        },
+        {
+            "elevation": 181.7,
+            "mindate": "2010-05-01",
+            "maxdate": "2014-07-13",
+            "latitude": 41.170333,
+            "name": "BONFIELD 2.5 NW, IL US",
+            "datacoverage": 0.8316,
+            "id": "GHCND:US1ILKK0018",
+            "elevationUnit": "METERS",
+            "longitude": -88.093074
+        },
+        {
+            "elevation": 216.4,
+            "mindate": "1998-06-01",
+            "maxdate": "2012-12-24",
+            "latitude": 41.275332,
+            "name": "GRANT PARK 5.8 ENE, IL US",
+            "datacoverage": 0.7743,
+            "id": "GHCND:US1ILKK0019",
+            "elevationUnit": "METERS",
+            "longitude": -87.544719
+        },
+        {
+            "elevation": 193.2,
+            "mindate": "2010-06-01",
+            "maxdate": "2010-10-24",
+            "latitude": 41.019058,
+            "name": "ST. ANNE 2.8 W, IL US",
+            "datacoverage": 0.9947,
+            "id": "GHCND:US1ILKK0020",
+            "elevationUnit": "METERS",
+            "longitude": -87.770607
+        },
+        {
+            "elevation": 205.7,
+            "mindate": "2010-06-01",
+            "maxdate": "2020-05-17",
+            "latitude": 41.222515,
+            "name": "MANTENO 2.2 SSE, IL US",
+            "datacoverage": 1,
+            "id": "GHCND:US1ILKK0021",
+            "elevationUnit": "METERS",
+            "longitude": -87.818488
+        },
+        {
+            "elevation": 211.2,
+            "mindate": "2010-07-01",
+            "maxdate": "2015-12-06",
+            "latitude": 41.182973,
+            "name": "BOURBONNAIS 1.5 NNE, IL US",
+            "datacoverage": 0.9994,
+            "id": "GHCND:US1ILKK0022",
+            "elevationUnit": "METERS",
+            "longitude": -87.869296
+        },
+        {
+            "elevation": 187.8,
+            "mindate": "2011-03-01",
+            "maxdate": "2018-04-10",
+            "latitude": 41.123025,
+            "name": "BONFIELD 4.0 WSW, IL US",
+            "datacoverage": 0.9999,
+            "id": "GHCND:US1ILKK0023",
+            "elevationUnit": "METERS",
+            "longitude": -88.125737
+        },
+        {
+            "elevation": 190.8,
+            "mindate": "2012-03-01",
+            "maxdate": "2017-10-02",
+            "latitude": 41.202012,
+            "name": "BONFIELD 4.2 NNE, IL US",
+            "datacoverage": 0.9996,
+            "id": "GHCND:US1ILKK0025",
+            "elevationUnit": "METERS",
+            "longitude": -88.020723
+        },
+        {
+            "elevation": 184.4,
+            "mindate": "2012-03-01",
+            "maxdate": "2015-12-31",
+            "latitude": 41.079041,
+            "name": "KANKAKEE 3.2 SE, IL US",
+            "datacoverage": 0.9776,
+            "id": "GHCND:US1ILKK0026",
+            "elevationUnit": "METERS",
+            "longitude": -87.822984
+        },
+        {
+            "elevation": 199,
+            "mindate": "2012-04-01",
+            "maxdate": "2020-05-17",
+            "latitude": 41.006711,
+            "name": "CHEBANSE 0.4 NNE, IL US",
+            "datacoverage": 0.7554,
+            "id": "GHCND:US1ILKK0028",
+            "elevationUnit": "METERS",
+            "longitude": -87.910117
+        },
+        {
+            "elevation": 204.2,
+            "mindate": "2013-06-10",
+            "maxdate": "2020-05-17",
+            "latitude": 41.271275,
+            "name": "MANTENO 2.1 NW, IL US",
+            "datacoverage": 0.15,
+            "id": "GHCND:US1ILKK0031",
+            "elevationUnit": "METERS",
+            "longitude": -87.868208
+        },
+        {
+            "elevation": 192,
+            "mindate": "2013-06-26",
+            "maxdate": "2018-08-21",
+            "latitude": 41.079875,
+            "name": "MOMENCE 6.2 SSW, IL US",
+            "datacoverage": 0.146,
+            "id": "GHCND:US1ILKK0032",
+            "elevationUnit": "METERS",
+            "longitude": -87.709162
+        },
+        {
+            "elevation": 205.4,
+            "mindate": "2014-04-01",
+            "maxdate": "2014-09-06",
+            "latitude": 41.1685485839844,
+            "name": "BOURBONNAIS 2.9 E, IL US",
+            "datacoverage": 0.998,
+            "id": "GHCND:US1ILKK0035",
+            "elevationUnit": "METERS",
+            "longitude": -87.8260269165039
+        },
+        {
+            "elevation": 203.3,
+            "mindate": "2017-03-30",
+            "maxdate": "2020-05-17",
+            "latitude": 41.0546,
+            "name": "HERSCHER 3.3 E, IL US",
+            "datacoverage": 1,
+            "id": "GHCND:US1ILKK0039",
+            "elevationUnit": "METERS",
+            "longitude": -88.0378
+        },
+        {
+            "elevation": 192.9,
+            "mindate": "2017-11-26",
+            "maxdate": "2020-05-17",
+            "latitude": 41.068617,
+            "name": "ST ANNE 3.2 NNE, IL US",
+            "datacoverage": 1,
+            "id": "GHCND:US1ILKK0040",
+            "elevationUnit": "METERS",
+            "longitude": -87.70257
+        },
+        {
+            "elevation": 201.5,
+            "mindate": "2018-04-20",
+            "maxdate": "2020-05-16",
+            "latitude": 41.124533,
+            "name": "KANKAKEE 3.3 E, IL US",
+            "datacoverage": 1,
+            "id": "GHCND:US1ILKK0041",
+            "elevationUnit": "METERS",
+            "longitude": -87.79939
+        },
+        {
+            "elevation": 230.1,
+            "mindate": "2006-11-01",
+            "maxdate": "2016-05-04",
+            "latitude": 41.89409,
+            "name": "GENEVA 1.6 ENE, IL US",
+            "datacoverage": 0.9986,
+            "id": "GHCND:US1ILKN0001",
+            "elevationUnit": "METERS",
+            "longitude": -88.28839
+        },
+        {
+            "elevation": 251.2,
+            "mindate": "2006-12-01",
+            "maxdate": "2020-05-16",
+            "latitude": 42.05307,
+            "name": "ELGIN 2.3 WNW, IL US",
+            "datacoverage": 0.7054,
+            "id": "GHCND:US1ILKN0002",
+            "elevationUnit": "METERS",
+            "longitude": -88.3294
+        },
+        {
+            "elevation": 217.9,
+            "mindate": "2006-12-01",
+            "maxdate": "2020-05-17",
+            "latitude": 41.77622,
+            "name": "SUGAR GROVE 0.7 NE, IL US",
+            "datacoverage": 1,
+            "id": "GHCND:US1ILKN0004",
+            "elevationUnit": "METERS",
+            "longitude": -88.447768
+        },
+        {
+            "elevation": 221,
+            "mindate": "2006-12-01",
+            "maxdate": "2020-05-17",
+            "latitude": 41.848151,
+            "name": "BATAVIA 0.7 WSW, IL US",
+            "datacoverage": 0.7321,
+            "id": "GHCND:US1ILKN0005",
+            "elevationUnit": "METERS",
+            "longitude": -88.314404
+        },
+        {
+            "elevation": 247.2,
+            "mindate": "2006-12-01",
+            "maxdate": "2013-11-18",
+            "latitude": 41.8995,
+            "name": "ST. CHARLES 1.9 SE, IL US",
+            "datacoverage": 0.119,
+            "id": "GHCND:US1ILKN0007",
+            "elevationUnit": "METERS",
+            "longitude": -88.2778
+        },
+        {
+            "elevation": 217.9,
+            "mindate": "2007-03-01",
+            "maxdate": "2016-05-26",
+            "latitude": 41.862189,
+            "name": "GENEVA 3.3 WSW, IL US",
+            "datacoverage": 0.7826,
+            "id": "GHCND:US1ILKN0008",
+            "elevationUnit": "METERS",
+            "longitude": -88.373633
+        },
+        {
+            "elevation": 237.1,
+            "mindate": "2007-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 42.0256,
+            "name": "ELGIN 1.0 S, IL US",
+            "datacoverage": 1,
+            "id": "GHCND:US1ILKN0009",
+            "elevationUnit": "METERS",
+            "longitude": -88.2885
+        },
+        {
+            "elevation": 253,
+            "mindate": "2008-07-01",
+            "maxdate": "2017-10-15",
+            "latitude": 42.036607,
+            "name": "ELGIN 0.9 WSW, IL US",
+            "datacoverage": 0.8399,
+            "id": "GHCND:US1ILKN0010",
+            "elevationUnit": "METERS",
+            "longitude": -88.30561
+        },
+        {
+            "elevation": 214.9,
+            "mindate": "2007-02-01",
+            "maxdate": "2016-07-20",
+            "latitude": 41.907999,
+            "name": "ST CHARLES 1.1 SW, IL US",
+            "datacoverage": 0.9912,
+            "id": "GHCND:US1ILKN0011",
+            "elevationUnit": "METERS",
+            "longitude": -88.313793
+        },
+        {
+            "elevation": 226.2,
+            "mindate": "2007-02-01",
+            "maxdate": "2013-07-09",
+            "latitude": 41.851143,
+            "name": "BATAVIA 0.9 W, IL US",
+            "datacoverage": 0.5131,
+            "id": "GHCND:US1ILKN0012",
+            "elevationUnit": "METERS",
+            "longitude": -88.317834
+        },
+        {
+            "elevation": 226.2,
+            "mindate": "2007-03-01",
+            "maxdate": "2008-01-26",
+            "latitude": 41.877134,
+            "name": "GENEVA 1.3 WSW, IL US",
+            "datacoverage": 1,
+            "id": "GHCND:US1ILKN0014",
+            "elevationUnit": "METERS",
+            "longitude": -88.337998
+        },
+        {
+            "elevation": 228,
+            "mindate": "2007-05-01",
+            "maxdate": "2008-10-31",
+            "latitude": 41.878582,
+            "name": "GENEVA 0.4 SW, IL US",
+            "datacoverage": 0.9961,
+            "id": "GHCND:US1ILKN0019",
+            "elevationUnit": "METERS",
+            "longitude": -88.321061
+        },
+        {
+            "elevation": 232.9,
+            "mindate": "2007-02-17",
+            "maxdate": "2020-04-17",
+            "latitude": 42.000342,
+            "name": "SOUTH ELGIN 0.5 NW, IL US",
+            "datacoverage": 0.9819,
+            "id": "GHCND:US1ILKN0020",
+            "elevationUnit": "METERS",
+            "longitude": -88.304942
+        },
+        {
+            "elevation": 226.2,
+            "mindate": "1998-06-17",
+            "maxdate": "2020-05-17",
+            "latitude": 41.868238,
+            "name": "GENEVA 1.0 SSW, IL US",
+            "datacoverage": 0.5413,
+            "id": "GHCND:US1ILKN0022",
+            "elevationUnit": "METERS",
+            "longitude": -88.320321
+        },
+        {
+            "elevation": 220.1,
+            "mindate": "2007-03-01",
+            "maxdate": "2020-05-17",
+            "latitude": 41.859367,
+            "name": "BATAVIA 1.5 WNW, IL US",
+            "datacoverage": 0.9996,
+            "id": "GHCND:US1ILKN0023",
+            "elevationUnit": "METERS",
+            "longitude": -88.327484
+        },
+        {
+            "elevation": 239.9,
+            "mindate": "2007-10-01",
+            "maxdate": "2010-01-05",
+            "latitude": 41.904485,
+            "name": "ST. CHARLES 1.6 SW, IL US",
+            "datacoverage": 0.998,
+            "id": "GHCND:US1ILKN0031",
+            "elevationUnit": "METERS",
+            "longitude": -88.322848
+        },
+        {
+            "elevation": 213.1,
+            "mindate": "2007-10-01",
+            "maxdate": "2013-06-04",
+            "latitude": 41.772939,
+            "name": "AURORA 3.6 W, IL US",
+            "datacoverage": 0.9999,
+            "id": "GHCND:US1ILKN0032",
+            "elevationUnit": "METERS",
+            "longitude": -88.363463
+        },
+        {
+            "elevation": 219.2,
+            "mindate": "2007-10-01",
+            "maxdate": "2020-05-17",
+            "latitude": 41.816287,
+            "name": "NORTH AURORA 1.5 NE, IL US",
+            "datacoverage": 0.9999,
+            "id": "GHCND:US1ILKN0033",
+            "elevationUnit": "METERS",
+            "longitude": -88.306825
+        },
+        {
+            "elevation": 212.1,
+            "mindate": "2008-01-01",
+            "maxdate": "2008-10-17",
+            "latitude": 41.754116,
+            "name": "AURORA 2.9 WSW, IL US",
+            "datacoverage": 0.998,
+            "id": "GHCND:US1ILKN0037",
+            "elevationUnit": "METERS",
+            "longitude": -88.345585
+        },
+        {
+            "elevation": 210.3,
+            "mindate": "2008-04-01",
+            "maxdate": "2018-08-08",
+            "latitude": 41.772317,
+            "name": "AURORA 3.4 W, IL US",
+            "datacoverage": 1,
+            "id": "GHCND:US1ILKN0039",
+            "elevationUnit": "METERS",
+            "longitude": -88.357655
+        },
+        {
+            "elevation": 216.7,
+            "mindate": "2008-02-01",
+            "maxdate": "2009-10-18",
+            "latitude": 41.864789,
+            "name": "GENEVA 1.4 SSW, IL US",
+            "datacoverage": 0.9925,
+            "id": "GHCND:US1ILKN0040",
+            "elevationUnit": "METERS",
+            "longitude": -88.326756
+        },
+        {
+            "elevation": 266.4,
+            "mindate": "2008-01-01",
+            "maxdate": "2011-12-01",
+            "latitude": 42.1131,
+            "name": "CARPENTERSVILLE 1.3 ESE, IL US",
+            "datacoverage": 0.7917,
+            "id": "GHCND:US1ILKN0042",
+            "elevationUnit": "METERS",
+            "longitude": -88.2497
+        },
+        {
+            "elevation": 219.2,
+            "mindate": "2007-12-01",
+            "maxdate": "2008-11-30",
+            "latitude": 41.7953,
+            "name": "AURORA 2.0 NNE, IL US",
+            "datacoverage": 0.998,
+            "id": "GHCND:US1ILKN0043",
+            "elevationUnit": "METERS",
+            "longitude": -88.2848
+        },
+        {
+            "elevation": 285.9,
+            "mindate": "2008-01-01",
+            "maxdate": "2015-06-14",
+            "latitude": 41.9279,
+            "name": "ELBURN 2.7 NNE, IL US",
+            "datacoverage": 1,
+            "id": "GHCND:US1ILKN0050",
+            "elevationUnit": "METERS",
+            "longitude": -88.45619
+        },
+        {
+            "elevation": 210,
+            "mindate": "2008-02-01",
+            "maxdate": "2020-05-17",
+            "latitude": 41.778716,
+            "name": "SUGAR GROVE 1.4 ENE, IL US",
+            "datacoverage": 0.9595,
+            "id": "GHCND:US1ILKN0051",
+            "elevationUnit": "METERS",
+            "longitude": -88.434338
+        },
+        {
+            "elevation": 226.2,
+            "mindate": "2008-03-01",
+            "maxdate": "2008-10-10",
+            "latitude": 41.887286,
+            "name": "GENEVA 0.4 NNE, IL US",
+            "datacoverage": 0.9939,
+            "id": "GHCND:US1ILKN0056",
+            "elevationUnit": "METERS",
+            "longitude": -88.312625
+        },
+        {
+            "elevation": 238,
+            "mindate": "2008-09-01",
+            "maxdate": "2016-01-10",
+            "latitude": 41.88652,
+            "name": "GENEVA 1.9 W, IL US",
+            "datacoverage": 0.9925,
+            "id": "GHCND:US1ILKN0057",
+            "elevationUnit": "METERS",
+            "longitude": -88.35168
+        },
+        {
+            "elevation": 263,
+            "mindate": "2008-03-01",
+            "maxdate": "2019-05-13",
+            "latitude": 41.945015,
+            "name": "LILY LAKE 2.1 E, IL US",
+            "datacoverage": 0.9998,
+            "id": "GHCND:US1ILKN0058",
+            "elevationUnit": "METERS",
+            "longitude": -88.4382
+        },
+        {
+            "elevation": 245.1,
+            "mindate": "2008-03-01",
+            "maxdate": "2008-10-25",
+            "latitude": 41.894886,
+            "name": "ELBURN 2.8 E, IL US",
+            "datacoverage": 0.7454,
+            "id": "GHCND:US1ILKN0059",
+            "elevationUnit": "METERS",
+            "longitude": -88.417619
+        },
+        {
+            "elevation": 214,
+            "mindate": "2008-03-01",
+            "maxdate": "2013-05-09",
+            "latitude": 41.78265,
+            "name": "SUGAR GROVE 2.0 ENE, IL US",
+            "datacoverage": 0.73,
+            "id": "GHCND:US1ILKN0060",
+            "elevationUnit": "METERS",
+            "longitude": -88.42349
+        },
+        {
+            "elevation": 221,
+            "mindate": "2008-03-01",
+            "maxdate": "2020-05-17",
+            "latitude": 41.859168,
+            "name": "BATAVIA 1.3 WNW, IL US",
+            "datacoverage": 0.9998,
+            "id": "GHCND:US1ILKN0062",
+            "elevationUnit": "METERS",
+            "longitude": -88.322071
+        },
+        {
+            "elevation": 223.1,
+            "mindate": "2008-04-01",
+            "maxdate": "2016-09-24",
+            "latitude": 41.874186,
+            "name": "GENEVA 1.7 WSW, IL US",
+            "datacoverage": 1,
+            "id": "GHCND:US1ILKN0063",
+            "elevationUnit": "METERS",
+            "longitude": -88.344764
+        },
+        {
+            "elevation": 231.6,
+            "mindate": "2008-04-01",
+            "maxdate": "2020-05-17",
+            "latitude": 41.920096,
+            "name": "ST. CHARLES 0.1 E, IL US",
+            "datacoverage": 1,
+            "id": "GHCND:US1ILKN0064",
+            "elevationUnit": "METERS",
+            "longitude": -88.299032
+        },
+        {
+            "elevation": 237.1,
+            "mindate": "2008-04-01",
+            "maxdate": "2011-06-16",
+            "latitude": 41.929089,
+            "name": "ST. CHARLES 2.0 ENE, IL US",
+            "datacoverage": 0.6159,
+            "id": "GHCND:US1ILKN0065",
+            "elevationUnit": "METERS",
+            "longitude": -88.264138
+        },
+        {
+            "elevation": 228,
+            "mindate": "2008-04-01",
+            "maxdate": "2008-11-15",
+            "latitude": 41.884655,
+            "name": "GENEVA 1.0 E, IL US",
+            "datacoverage": 0.998,
+            "id": "GHCND:US1ILKN0066",
+            "elevationUnit": "METERS",
+            "longitude": -88.29547
+        },
+        {
+            "elevation": 260,
+            "mindate": "2008-05-01",
+            "maxdate": "2020-05-17",
+            "latitude": 41.984009,
+            "name": "ST. CHARLES 6.0 NW, IL US",
+            "datacoverage": 0.9998,
+            "id": "GHCND:US1ILKN0067",
+            "elevationUnit": "METERS",
+            "longitude": -88.380313
         }
     ]
 }

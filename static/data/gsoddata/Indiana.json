@@ -2,7 +2,7 @@
     "metadata": {
         "resultset": {
             "offset": 1,
-            "count": 2029,
+            "count": 1829,
             "limit": 1000
         }
     },
@@ -68,7 +68,7 @@
             "maxdate": "2014-01-01",
             "latitude": 39.5739,
             "name": "ALPINE 2 NE, IN US",
-            "datacoverage": 0.9673,
+            "datacoverage": 0.0501,
             "id": "COOP:120132",
             "elevationUnit": "METERS",
             "longitude": -85.1582
@@ -79,7 +79,7 @@
             "maxdate": "1974-08-01",
             "latitude": 40.08333,
             "name": "ANDERSON MOUNDS STAT, IN US",
-            "datacoverage": 0.8975,
+            "datacoverage": 0.0466,
             "id": "COOP:120172",
             "elevationUnit": "METERS",
             "longitude": -85.61667
@@ -118,21 +118,12 @@
             "longitude": -85.0183
         },
         {
-            "mindate": "1892-03-01",
-            "maxdate": "1895-12-01",
-            "latitude": 39.4,
-            "name": "ASHBORO, IN US",
-            "datacoverage": 0.9125,
-            "id": "COOP:120270",
-            "longitude": -87.1
-        },
-        {
             "elevation": 158.5,
-            "mindate": "1911-01-01",
+            "mindate": "1948-07-01",
             "maxdate": "1995-01-01",
             "latitude": 40.28333,
             "name": "ATTICA, IN US",
-            "datacoverage": 0.1411,
+            "datacoverage": 0.0362,
             "id": "COOP:120328",
             "elevationUnit": "METERS",
             "longitude": -87.25
@@ -176,7 +167,7 @@
             "maxdate": "2014-01-01",
             "latitude": 39.2967,
             "name": "BATESVILLE WATER AND GAS UTILITY, IN US",
-            "datacoverage": 0.9488,
+            "datacoverage": 0.0439,
             "id": "COOP:120482",
             "elevationUnit": "METERS",
             "longitude": -85.2187
@@ -215,17 +206,6 @@
             "longitude": -84.93
         },
         {
-            "elevation": 146,
-            "mindate": "1948-07-01",
-            "maxdate": "1948-11-01",
-            "latitude": 38.76667,
-            "name": "BICKNELL, IN US",
-            "datacoverage": 0.9819,
-            "id": "COOP:120704",
-            "elevationUnit": "METERS",
-            "longitude": -87.31667
-        },
-        {
             "elevation": 253,
             "mindate": "1896-02-01",
             "maxdate": "2015-11-01",
@@ -235,39 +215,6 @@
             "id": "COOP:120784",
             "elevationUnit": "METERS",
             "longitude": -86.5214
-        },
-        {
-            "elevation": 256,
-            "mindate": "1951-11-01",
-            "maxdate": "1969-04-01",
-            "latitude": 39.13333,
-            "name": "BLOOMINGTON 5 SW, IN US",
-            "datacoverage": 0.9573,
-            "id": "COOP:120786",
-            "elevationUnit": "METERS",
-            "longitude": -86.61667
-        },
-        {
-            "elevation": 253,
-            "mindate": "1953-04-01",
-            "maxdate": "1957-03-29",
-            "latitude": 39.21667,
-            "name": "BLOOMINGTON 4 NE, IN US",
-            "datacoverage": 0.0616,
-            "id": "COOP:120789",
-            "elevationUnit": "METERS",
-            "longitude": -86.48333
-        },
-        {
-            "elevation": 263.7,
-            "mindate": "1895-10-01",
-            "maxdate": "1969-03-01",
-            "latitude": 40.78333,
-            "name": "BLUFFTON, IN US",
-            "datacoverage": 0.7188,
-            "id": "COOP:120824",
-            "elevationUnit": "METERS",
-            "longitude": -85.16667
         },
         {
             "elevation": 248.4,
@@ -290,17 +237,6 @@
             "id": "COOP:120830",
             "elevationUnit": "METERS",
             "longitude": -85.1546
-        },
-        {
-            "elevation": 256,
-            "mindate": "1931-01-01",
-            "maxdate": "1958-03-01",
-            "latitude": 40.73333,
-            "name": "BLUFFTON WATERWORKS, IN US",
-            "datacoverage": 0.9787,
-            "id": "COOP:120831",
-            "elevationUnit": "METERS",
-            "longitude": -85.16667
         },
         {
             "elevation": 121.9,
@@ -345,15 +281,6 @@
             "id": "COOP:120922",
             "elevationUnit": "METERS",
             "longitude": -87.1241
-        },
-        {
-            "mindate": "1896-09-01",
-            "maxdate": "1901-12-01",
-            "latitude": 39.21667,
-            "name": "BRIGHT, IN US",
-            "datacoverage": 0.8442,
-            "id": "COOP:120975",
-            "longitude": -84.85
         },
         {
             "elevation": 198.1,
@@ -422,17 +349,6 @@
             "longitude": -85.53056
         },
         {
-            "elevation": 223.1,
-            "mindate": "1887-02-01",
-            "maxdate": "1957-07-01",
-            "latitude": 39.05,
-            "name": "BUTLERVILLE, IN US",
-            "datacoverage": 0.7042,
-            "id": "COOP:121197",
-            "elevationUnit": "METERS",
-            "longitude": -85.55
-        },
-        {
             "elevation": 231.6,
             "mindate": "1953-01-01",
             "maxdate": "1983-07-01",
@@ -477,17 +393,6 @@
             "longitude": -86.0585
         },
         {
-            "elevation": 241.1,
-            "mindate": "1943-09-01",
-            "maxdate": "1949-01-01",
-            "latitude": 39.7,
-            "name": "CARTERSBURG, IN US",
-            "datacoverage": 0.9685,
-            "id": "COOP:121315",
-            "elevationUnit": "METERS",
-            "longitude": -86.46667
-        },
-        {
             "elevation": 251.2,
             "mindate": "1999-03-01",
             "maxdate": "2015-11-01",
@@ -504,7 +409,7 @@
             "maxdate": "2005-05-31",
             "latitude": 40.66278,
             "name": "CHALMERS, IN US",
-            "datacoverage": 0.9231,
+            "datacoverage": 0.0376,
             "id": "COOP:121415",
             "elevationUnit": "METERS",
             "longitude": -86.88139
@@ -587,17 +492,6 @@
             "longitude": -87.17539
         },
         {
-            "elevation": 271,
-            "mindate": "1886-10-01",
-            "maxdate": "1963-08-01",
-            "latitude": 41.15,
-            "name": "COLUMBIA CITY, IN US",
-            "datacoverage": 0.6945,
-            "id": "COOP:121734",
-            "elevationUnit": "METERS",
-            "longitude": -85.48333
-        },
-        {
             "elevation": 254.2,
             "mindate": "1948-07-01",
             "maxdate": "2015-11-01",
@@ -625,19 +519,10 @@
             "maxdate": "2014-01-01",
             "latitude": 39.2106,
             "name": "COLUMBUS UTILITIES, IN US",
-            "datacoverage": 0.9231,
+            "datacoverage": 0.0407,
             "id": "COOP:121752",
             "elevationUnit": "METERS",
             "longitude": -85.8883
-        },
-        {
-            "mindate": "1887-02-01",
-            "maxdate": "1924-02-01",
-            "latitude": 39.66667,
-            "name": "CONNERSVILLE, IN US",
-            "datacoverage": 0.9822,
-            "id": "COOP:121772",
-            "longitude": -85.66667
         },
         {
             "elevation": 217.9,
@@ -649,17 +534,6 @@
             "id": "COOP:121814",
             "elevationUnit": "METERS",
             "longitude": -86.1183
-        },
-        {
-            "elevation": 150.9,
-            "mindate": "1925-09-01",
-            "maxdate": "1962-10-01",
-            "latitude": 40.1397,
-            "name": "COVINGTON 1 WNW, IN US",
-            "datacoverage": 0.9709,
-            "id": "COOP:121841",
-            "elevationUnit": "METERS",
-            "longitude": -87.4066
         },
         {
             "elevation": 189,
@@ -693,17 +567,6 @@
             "id": "COOP:121873",
             "elevationUnit": "METERS",
             "longitude": -86.8011
-        },
-        {
-            "elevation": 228.9,
-            "mindate": "1948-07-01",
-            "maxdate": "1960-05-01",
-            "latitude": 40.05,
-            "name": "CRAWFORDSVILLE, IN US",
-            "datacoverage": 0.6667,
-            "id": "COOP:121877",
-            "elevationUnit": "METERS",
-            "longitude": -86.91667
         },
         {
             "elevation": 203.9,
@@ -761,15 +624,6 @@
             "longitude": -87.66667
         },
         {
-            "mindate": "1948-08-01",
-            "maxdate": "1948-08-01",
-            "latitude": 37.83333,
-            "name": "CYPRESS DAM 48 LG, IN US",
-            "datacoverage": 0.9819,
-            "id": "COOP:122003",
-            "longitude": -87.66667
-        },
-        {
             "elevation": 262.1,
             "mindate": "1953-01-01",
             "maxdate": "1983-07-01",
@@ -801,26 +655,6 @@
             "id": "COOP:122096",
             "elevationUnit": "METERS",
             "longitude": -84.9299
-        },
-        {
-            "mindate": "1948-08-01",
-            "maxdate": "1948-08-01",
-            "latitude": 40.85,
-            "name": "DECATUR OLD US 27 BR, IN US",
-            "datacoverage": 0.9819,
-            "id": "COOP:122101",
-            "longitude": -84.93333
-        },
-        {
-            "elevation": 139.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1951-11-01",
-            "latitude": 38.51667,
-            "name": "DECKER, IN US",
-            "datacoverage": 0.255,
-            "id": "COOP:122106",
-            "elevationUnit": "METERS",
-            "longitude": -87.51667
         },
         {
             "elevation": 169.5,
@@ -876,26 +710,6 @@
             "id": "COOP:122549",
             "elevationUnit": "METERS",
             "longitude": -87.3083
-        },
-        {
-            "mindate": "1894-11-01",
-            "maxdate": "1918-02-01",
-            "latitude": 38.28333,
-            "name": "EDWARDSVILLE, IN US",
-            "datacoverage": 0.368,
-            "id": "COOP:122554",
-            "longitude": -85.9
-        },
-        {
-            "elevation": 244.1,
-            "mindate": "1902-10-01",
-            "maxdate": "1912-06-01",
-            "latitude": 41.7,
-            "name": "ELKHART, IN US",
-            "datacoverage": 0.9317,
-            "id": "COOP:122586",
-            "elevationUnit": "METERS",
-            "longitude": -85.93333
         },
         {
             "elevation": 225.9,
@@ -954,11 +768,11 @@
         },
         {
             "elevation": 238,
-            "mindate": "1906-12-01",
+            "mindate": "1953-01-01",
             "maxdate": "1983-07-01",
             "latitude": 39.53333,
             "name": "EMINENCE, IN US",
-            "datacoverage": 0.9738,
+            "datacoverage": 0.0487,
             "id": "COOP:122645",
             "elevationUnit": "METERS",
             "longitude": -86.63333
@@ -973,17 +787,6 @@
             "id": "COOP:122660",
             "elevationUnit": "METERS",
             "longitude": -86.46833
-        },
-        {
-            "elevation": 200.9,
-            "mindate": "1948-07-01",
-            "maxdate": "1949-12-01",
-            "latitude": 41.05,
-            "name": "ENOS 2 N, IN US",
-            "datacoverage": 0.998,
-            "id": "COOP:122673",
-            "elevationUnit": "METERS",
-            "longitude": -87.45
         },
         {
             "elevation": 131.1,
@@ -1030,17 +833,6 @@
             "longitude": -87.5205
         },
         {
-            "elevation": 174,
-            "mindate": "1899-02-01",
-            "maxdate": "1952-02-01",
-            "latitude": 39.25,
-            "name": "FARMERSBURG, IN US",
-            "datacoverage": 0.9782,
-            "id": "COOP:122813",
-            "elevationUnit": "METERS",
-            "longitude": -87.38333
-        },
-        {
             "elevation": 167,
             "mindate": "1992-01-01",
             "maxdate": "2015-11-01",
@@ -1072,15 +864,6 @@
             "id": "COOP:122825",
             "elevationUnit": "METERS",
             "longitude": -85.1484
-        },
-        {
-            "mindate": "1948-07-01",
-            "maxdate": "1957-12-01",
-            "latitude": 38.25,
-            "name": "FERDINAND STATE FORE, IN US",
-            "datacoverage": 0.718,
-            "id": "COOP:122863",
-            "longitude": -86.78333
         },
         {
             "elevation": 243.8,
@@ -1116,28 +899,6 @@
             "longitude": -85.1569
         },
         {
-            "elevation": 231.6,
-            "mindate": "1948-08-01",
-            "maxdate": "1948-08-01",
-            "latitude": 41.0816,
-            "name": "FORT WAYNE MAUMEE, IN US",
-            "datacoverage": 0.9819,
-            "id": "COOP:123022",
-            "elevationUnit": "METERS",
-            "longitude": -85.1147
-        },
-        {
-            "elevation": 249,
-            "mindate": "1931-01-01",
-            "maxdate": "1946-04-01",
-            "latitude": 41.08333,
-            "name": "FORT WAYNE CITY, IN US",
-            "datacoverage": 1,
-            "id": "COOP:123024",
-            "elevationUnit": "METERS",
-            "longitude": -85.16667
-        },
-        {
             "elevation": 225.6,
             "mindate": "1946-05-01",
             "maxdate": "1990-07-01",
@@ -1149,17 +910,6 @@
             "longitude": -85.11667
         },
         {
-            "elevation": 225.6,
-            "mindate": "1948-08-01",
-            "maxdate": "1948-08-01",
-            "latitude": 41.11667,
-            "name": "FORT WAYNE ST JOSEPH, IN US",
-            "datacoverage": 0.9819,
-            "id": "COOP:123032",
-            "elevationUnit": "METERS",
-            "longitude": -85.13333
-        },
-        {
             "elevation": 241.1,
             "mindate": "1897-02-01",
             "maxdate": "2015-11-01",
@@ -1169,17 +919,6 @@
             "id": "COOP:123037",
             "elevationUnit": "METERS",
             "longitude": -85.2063
-        },
-        {
-            "elevation": 249.9,
-            "mindate": "1948-07-01",
-            "maxdate": "1960-03-01",
-            "latitude": 40.61667,
-            "name": "FOWLER WATERWORKS, IN US",
-            "datacoverage": 0.8718,
-            "id": "COOP:123057",
-            "elevationUnit": "METERS",
-            "longitude": -87.31667
         },
         {
             "elevation": 249.9,
@@ -1231,7 +970,7 @@
             "maxdate": "1980-06-01",
             "latitude": 40.28333,
             "name": "FRANKFORT, IN US",
-            "datacoverage": 0.8162,
+            "datacoverage": 0.0545,
             "id": "COOP:123087",
             "elevationUnit": "METERS",
             "longitude": -86.5
@@ -1286,7 +1025,7 @@
             "maxdate": "1977-01-01",
             "latitude": 41.73333,
             "name": "FREMONT, IN US",
-            "datacoverage": 0.8814,
+            "datacoverage": 0.0494,
             "id": "COOP:123134",
             "elevationUnit": "METERS",
             "longitude": -84.95
@@ -1301,15 +1040,6 @@
             "id": "COOP:123146",
             "elevationUnit": "METERS",
             "longitude": -86.6129
-        },
-        {
-            "mindate": "1948-07-01",
-            "maxdate": "1948-11-01",
-            "latitude": 40.56667,
-            "name": "GALVESTON 1 E, IN US",
-            "datacoverage": 0.6617,
-            "id": "COOP:123179",
-            "longitude": -86.16667
         },
         {
             "elevation": 268.2,
@@ -1343,17 +1073,6 @@
             "id": "COOP:123213",
             "elevationUnit": "METERS",
             "longitude": -87.38333
-        },
-        {
-            "elevation": 253,
-            "mindate": "1948-07-01",
-            "maxdate": "1961-10-29",
-            "latitude": 41.5333,
-            "name": "GOSHEN MUNICIPAL AIRPORT, IN US",
-            "datacoverage": 0.981,
-            "id": "COOP:123413",
-            "elevationUnit": "METERS",
-            "longitude": -85.7833
         },
         {
             "elevation": 253,
@@ -1422,17 +1141,6 @@
             "longitude": -85.7611
         },
         {
-            "elevation": 267.9,
-            "mindate": "1948-07-01",
-            "maxdate": "1957-05-01",
-            "latitude": 39.78333,
-            "name": "GREENFIELD HIGHWAY G, IN US",
-            "datacoverage": 0.5385,
-            "id": "COOP:123532",
-            "elevationUnit": "METERS",
-            "longitude": -85.78333
-        },
-        {
             "elevation": 285.6,
             "mindate": "1896-06-01",
             "maxdate": "2015-11-01",
@@ -1442,17 +1150,6 @@
             "id": "COOP:123547",
             "elevationUnit": "METERS",
             "longitude": -85.4891
-        },
-        {
-            "elevation": 182.3,
-            "mindate": "1891-12-01",
-            "maxdate": "1919-03-01",
-            "latitude": 41.56667,
-            "name": "HAMMOND, IN US",
-            "datacoverage": 0.9697,
-            "id": "COOP:123650",
-            "elevationUnit": "METERS",
-            "longitude": -87.5
         },
         {
             "elevation": 259.1,
@@ -1477,17 +1174,6 @@
             "longitude": -85.2891
         },
         {
-            "elevation": 121.9,
-            "mindate": "1934-12-01",
-            "maxdate": "1949-01-01",
-            "latitude": 38.5,
-            "name": "HAZELTON GRAVEL PLAN, IN US",
-            "datacoverage": 0.9526,
-            "id": "COOP:123863",
-            "elevationUnit": "METERS",
-            "longitude": -87.53333
-        },
-        {
             "elevation": 197.2,
             "mindate": "1991-12-01",
             "maxdate": "2001-12-01",
@@ -1497,15 +1183,6 @@
             "id": "COOP:123868",
             "elevationUnit": "METERS",
             "longitude": -87.19972
-        },
-        {
-            "mindate": "1897-12-01",
-            "maxdate": "1905-09-01",
-            "latitude": 40.46667,
-            "name": "HECTOR, IN US",
-            "datacoverage": 0.9685,
-            "id": "COOP:123881",
-            "longitude": -84.85
         },
         {
             "elevation": 180.1,
@@ -1519,15 +1196,6 @@
             "longitude": -85.76667
         },
         {
-            "mindate": "1905-01-01",
-            "maxdate": "1939-11-01",
-            "latitude": 39.26667,
-            "name": "HICKORY HILL, IN US",
-            "datacoverage": 0.7805,
-            "id": "COOP:123960",
-            "longitude": -86.35
-        },
-        {
             "elevation": 195.1,
             "mindate": "1902-03-01",
             "maxdate": "2000-06-01",
@@ -1537,37 +1205,6 @@
             "id": "COOP:124008",
             "elevationUnit": "METERS",
             "longitude": -87.28806
-        },
-        {
-            "mindate": "1902-06-01",
-            "maxdate": "1907-10-01",
-            "latitude": 38.25,
-            "name": "HOLLAND, IN US",
-            "datacoverage": 0.9843,
-            "id": "COOP:124023",
-            "longitude": -87.03333
-        },
-        {
-            "elevation": 267.9,
-            "mindate": "1905-11-01",
-            "maxdate": "1953-07-01",
-            "latitude": 41.71667,
-            "name": "HOWE MILITARY SCHOOL, IN US",
-            "datacoverage": 0.9791,
-            "id": "COOP:124113",
-            "elevationUnit": "METERS",
-            "longitude": -85.41667
-        },
-        {
-            "elevation": 159.1,
-            "mindate": "1887-02-01",
-            "maxdate": "1957-09-01",
-            "latitude": 38.26667,
-            "name": "HUNTINGBURG AIRPORT, IN US",
-            "datacoverage": 0.7666,
-            "id": "COOP:124168",
-            "elevationUnit": "METERS",
-            "longitude": -86.95
         },
         {
             "elevation": 244.1,
@@ -1592,17 +1229,6 @@
             "longitude": -85.498
         },
         {
-            "elevation": 149,
-            "mindate": "1948-11-01",
-            "maxdate": "1950-01-01",
-            "latitude": 39.16667,
-            "name": "HYMERA, IN US",
-            "datacoverage": 0.6727,
-            "id": "COOP:124216",
-            "elevationUnit": "METERS",
-            "longitude": -87.3
-        },
-        {
             "elevation": 207.3,
             "mindate": "1989-06-01",
             "maxdate": "2015-11-01",
@@ -1625,17 +1251,6 @@
             "longitude": -86.28911
         },
         {
-            "elevation": 238,
-            "mindate": "1942-05-01",
-            "maxdate": "1949-04-01",
-            "latitude": 39.88333,
-            "name": "INDIANAPOLIS HOL PAR, IN US",
-            "datacoverage": 0.9999,
-            "id": "COOP:124254",
-            "elevationUnit": "METERS",
-            "longitude": -86.16667
-        },
-        {
             "elevation": 241.1,
             "mindate": "1948-01-01",
             "maxdate": "2015-11-01",
@@ -1656,17 +1271,6 @@
             "id": "COOP:124260",
             "elevationUnit": "METERS",
             "longitude": -86.2807
-        },
-        {
-            "elevation": 242,
-            "mindate": "1948-07-01",
-            "maxdate": "1964-02-01",
-            "latitude": 39.76667,
-            "name": "INDIANAPOLIS MONUMENT CITY, IN US",
-            "datacoverage": 0.9826,
-            "id": "COOP:124264",
-            "elevationUnit": "METERS",
-            "longitude": -86.16667
         },
         {
             "elevation": 211.8,
@@ -1740,7 +1344,7 @@
             "maxdate": "1997-05-01",
             "latitude": 39.16667,
             "name": "JASONVILLE 1 E, IN US",
-            "datacoverage": 0.3334,
+            "datacoverage": 0.0378,
             "id": "COOP:124364",
             "elevationUnit": "METERS",
             "longitude": -87.18333
@@ -1777,15 +1381,6 @@
             "id": "COOP:124407",
             "elevationUnit": "METERS",
             "longitude": -87.75
-        },
-        {
-            "mindate": "1907-06-01",
-            "maxdate": "1918-03-01",
-            "latitude": 40.38333,
-            "name": "JUDYVILLE, IN US",
-            "datacoverage": 0.9923,
-            "id": "COOP:124449",
-            "longitude": -87.41667
         },
         {
             "elevation": 305.1,
@@ -1898,17 +1493,6 @@
             "longitude": -86.9027
         },
         {
-            "elevation": 267.9,
-            "mindate": "1948-07-01",
-            "maxdate": "1962-06-01",
-            "latitude": 41.65,
-            "name": "LAGRANGE, IN US",
-            "datacoverage": 0.7103,
-            "id": "COOP:124729",
-            "elevationUnit": "METERS",
-            "longitude": -85.43333
-        },
-        {
             "elevation": 274.3,
             "mindate": "1962-01-01",
             "maxdate": "2015-11-01",
@@ -1918,17 +1502,6 @@
             "id": "COOP:124730",
             "elevationUnit": "METERS",
             "longitude": -85.4121
-        },
-        {
-            "elevation": 253,
-            "mindate": "1948-07-01",
-            "maxdate": "1958-03-01",
-            "latitude": 40.86667,
-            "name": "LAGRO 3 NE, IN US",
-            "datacoverage": 0.4872,
-            "id": "COOP:124737",
-            "elevationUnit": "METERS",
-            "longitude": -85.7
         },
         {
             "elevation": 205.7,
@@ -1986,15 +1559,6 @@
             "longitude": -86.7297
         },
         {
-            "mindate": "1948-07-01",
-            "maxdate": "1948-10-31",
-            "latitude": 39.5,
-            "name": "LAUREL, IN US",
-            "datacoverage": 0.9819,
-            "id": "COOP:124867",
-            "longitude": -85.18333
-        },
-        {
             "elevation": 142,
             "mindate": "1993-04-01",
             "maxdate": "1999-09-01",
@@ -2004,17 +1568,6 @@
             "id": "COOP:124880",
             "elevationUnit": "METERS",
             "longitude": -84.85556
-        },
-        {
-            "elevation": 128,
-            "mindate": "1931-01-01",
-            "maxdate": "1973-02-01",
-            "latitude": 38.18333,
-            "name": "LEAVENWORTH DAM 44, KY US",
-            "datacoverage": 0.974,
-            "id": "COOP:124900",
-            "elevationUnit": "METERS",
-            "longitude": -86.33333
         },
         {
             "elevation": 215.8,
@@ -2033,7 +1586,7 @@
             "maxdate": "2014-01-01",
             "latitude": 40.0516,
             "name": "LEBANON WATER WORKS, IN US",
-            "datacoverage": 0.8206,
+            "datacoverage": 0.0374,
             "id": "COOP:124908",
             "elevationUnit": "METERS",
             "longitude": -86.475
@@ -2066,7 +1619,7 @@
             "maxdate": "2014-01-01",
             "latitude": 39.8201,
             "name": "LEWISVILLE, IN US",
-            "datacoverage": 0.9488,
+            "datacoverage": 0.0449,
             "id": "COOP:124973",
             "elevationUnit": "METERS",
             "longitude": -85.3242
@@ -2154,7 +1707,7 @@
             "maxdate": "1977-01-01",
             "latitude": 38.25,
             "name": "LYNNVILLE 3 N, IN US",
-            "datacoverage": 0.7948,
+            "datacoverage": 0.044,
             "id": "COOP:125212",
             "elevationUnit": "METERS",
             "longitude": -87.3
@@ -2204,35 +1757,6 @@
             "longitude": -85.6586
         },
         {
-            "mindate": "1946-05-01",
-            "maxdate": "1953-07-01",
-            "latitude": 40.56667,
-            "name": "MARION DISPOSAL PLAN, IN US",
-            "datacoverage": 0.9409,
-            "id": "COOP:125342",
-            "longitude": -85.66667
-        },
-        {
-            "elevation": 146,
-            "mindate": "1887-02-01",
-            "maxdate": "1959-06-01",
-            "latitude": 38.78333,
-            "name": "MARKLAND DAM 39, IN US",
-            "datacoverage": 0.984,
-            "id": "COOP:125381",
-            "elevationUnit": "METERS",
-            "longitude": -84.96667
-        },
-        {
-            "mindate": "1887-08-01",
-            "maxdate": "1911-01-01",
-            "latitude": 40.83333,
-            "name": "MARKLE, IN US",
-            "datacoverage": 0.6312,
-            "id": "COOP:125387",
-            "longitude": -85.3
-        },
-        {
             "elevation": 215.8,
             "mindate": "2002-01-01",
             "maxdate": "2015-11-01",
@@ -2264,28 +1788,6 @@
             "id": "COOP:125407",
             "elevationUnit": "METERS",
             "longitude": -86.4531
-        },
-        {
-            "elevation": 259.1,
-            "mindate": "1948-07-01",
-            "maxdate": "1962-02-01",
-            "latitude": 39.33333,
-            "name": "MARTINSVILLE STATE F, IN US",
-            "datacoverage": 0.8718,
-            "id": "COOP:125412",
-            "elevationUnit": "METERS",
-            "longitude": -86.41667
-        },
-        {
-            "elevation": 320,
-            "mindate": "1887-02-01",
-            "maxdate": "1948-09-01",
-            "latitude": 39.61667,
-            "name": "MAUZY, IN US",
-            "datacoverage": 0.9974,
-            "id": "COOP:125435",
-            "elevationUnit": "METERS",
-            "longitude": -85.33333
         },
         {
             "elevation": 152.4,
@@ -2365,17 +1867,6 @@
             "longitude": -85.5777
         },
         {
-            "elevation": 302.1,
-            "mindate": "1955-05-01",
-            "maxdate": "1961-11-01",
-            "latitude": 39.11667,
-            "name": "MILAN WATERWORKS, IN US",
-            "datacoverage": 0.9235,
-            "id": "COOP:125656",
-            "elevationUnit": "METERS",
-            "longitude": -85.13333
-        },
-        {
             "elevation": 297.2,
             "mindate": "1989-05-01",
             "maxdate": "2002-08-01",
@@ -2442,17 +1933,6 @@
             "longitude": -86.76222
         },
         {
-            "elevation": 299,
-            "mindate": "1902-02-01",
-            "maxdate": "1959-12-01",
-            "latitude": 39.11667,
-            "name": "MOORES HILL, IN US",
-            "datacoverage": 0.9914,
-            "id": "COOP:125873",
-            "elevationUnit": "METERS",
-            "longitude": -85.1
-        },
-        {
             "elevation": 204.8,
             "mindate": "1997-02-01",
             "maxdate": "2015-11-01",
@@ -2462,17 +1942,6 @@
             "id": "COOP:125888",
             "elevationUnit": "METERS",
             "longitude": -87.4777
-        },
-        {
-            "elevation": 200.9,
-            "mindate": "1949-12-01",
-            "maxdate": "1957-10-01",
-            "latitude": 40.96667,
-            "name": "MOROCCO WATERWORKS, IN US",
-            "datacoverage": 0.811,
-            "id": "COOP:125897",
-            "elevationUnit": "METERS",
-            "longitude": -87.45
         },
         {
             "elevation": 269.7,
@@ -2495,17 +1964,6 @@
             "id": "COOP:126001",
             "elevationUnit": "METERS",
             "longitude": -87.8955
-        },
-        {
-            "elevation": 289.9,
-            "mindate": "1887-02-01",
-            "maxdate": "1962-09-01",
-            "latitude": 40.13333,
-            "name": "MUNCIE 4 SE, IN US",
-            "datacoverage": 0.6179,
-            "id": "COOP:126018",
-            "elevationUnit": "METERS",
-            "longitude": -85.35
         },
         {
             "elevation": 286.5,
@@ -2561,17 +2019,6 @@
             "id": "COOP:126131",
             "elevationUnit": "METERS",
             "longitude": -87.0111
-        },
-        {
-            "elevation": 116.1,
-            "mindate": "1948-07-01",
-            "maxdate": "1961-10-01",
-            "latitude": 37.95,
-            "name": "NEWBURGH ARCHAEOL EX, IN US",
-            "datacoverage": 1,
-            "id": "COOP:126146",
-            "elevationUnit": "METERS",
-            "longitude": -87.46667
         },
         {
             "elevation": 115.8,
@@ -2651,17 +2098,6 @@
             "longitude": -86.0712
         },
         {
-            "elevation": 235,
-            "mindate": "1948-07-01",
-            "maxdate": "1956-10-01",
-            "latitude": 40.01667,
-            "name": "NOBLESVILLE SEWAGE P, IN US",
-            "datacoverage": 0.8975,
-            "id": "COOP:126343",
-            "elevationUnit": "METERS",
-            "longitude": -86.01667
-        },
-        {
             "elevation": 289.9,
             "mindate": "2007-12-01",
             "maxdate": "2015-11-01",
@@ -2739,17 +2175,6 @@
             "longitude": -85.5859
         },
         {
-            "elevation": 223.1,
-            "mindate": "1912-01-01",
-            "maxdate": "1953-12-01",
-            "latitude": 41.7,
-            "name": "NOTRE DAME MOREAU SEM, IN US",
-            "datacoverage": 0.9802,
-            "id": "COOP:126465",
-            "elevationUnit": "METERS",
-            "longitude": -86.23333
-        },
-        {
             "elevation": 242.3,
             "mindate": "1944-07-01",
             "maxdate": "1998-07-01",
@@ -2783,17 +2208,6 @@
             "longitude": -86.552
         },
         {
-            "elevation": 281,
-            "mindate": "1961-12-01",
-            "maxdate": "1968-06-01",
-            "latitude": 39.13333,
-            "name": "OSGOOD, IN US",
-            "datacoverage": 0.9875,
-            "id": "COOP:126625",
-            "elevationUnit": "METERS",
-            "longitude": -85.28333
-        },
-        {
             "elevation": 234.7,
             "mindate": "1948-07-01",
             "maxdate": "2010-01-01",
@@ -2821,7 +2235,7 @@
             "maxdate": "1974-06-01",
             "latitude": 38.53333,
             "name": "PAOLI, IN US",
-            "datacoverage": 0.4209,
+            "datacoverage": 0.0284,
             "id": "COOP:126710",
             "elevationUnit": "METERS",
             "longitude": -86.48333
@@ -2836,17 +2250,6 @@
             "id": "COOP:126801",
             "elevationUnit": "METERS",
             "longitude": -87.525
-        },
-        {
-            "elevation": 249.9,
-            "mindate": "1943-12-01",
-            "maxdate": "1966-06-01",
-            "latitude": 39.98333,
-            "name": "PENDLETON REFORMATOR, IN US",
-            "datacoverage": 0.9373,
-            "id": "COOP:126808",
-            "elevationUnit": "METERS",
-            "longitude": -85.76667
         },
         {
             "elevation": 186.2,
@@ -2905,17 +2308,6 @@
         },
         {
             "elevation": 277.4,
-            "mindate": "1948-05-01",
-            "maxdate": "1948-08-01",
-            "latitude": 40.4174,
-            "name": "PORTLAND 1 SW, IN US",
-            "datacoverage": 0.7424,
-            "id": "COOP:127064",
-            "elevationUnit": "METERS",
-            "longitude": -84.9925
-        },
-        {
-            "elevation": 277.4,
             "mindate": "1946-05-01",
             "maxdate": "2015-11-01",
             "latitude": 40.4174,
@@ -2924,17 +2316,6 @@
             "id": "COOP:127069",
             "elevationUnit": "METERS",
             "longitude": -84.9925
-        },
-        {
-            "elevation": 134.1,
-            "mindate": "1948-07-01",
-            "maxdate": "1949-11-29",
-            "latitude": 38.16667,
-            "name": "POSEYVILLE 1 SW, IN US",
-            "datacoverage": 0.5003,
-            "id": "COOP:127079",
-            "elevationUnit": "METERS",
-            "longitude": -87.8
         },
         {
             "elevation": 131.1,
@@ -2992,26 +2373,6 @@
             "longitude": -87.5905
         },
         {
-            "elevation": 228.9,
-            "mindate": "1948-11-01",
-            "maxdate": "1957-07-01",
-            "latitude": 39.56667,
-            "name": "PUTNAMVILLE 1 W, IN US",
-            "datacoverage": 0.942,
-            "id": "COOP:127169",
-            "elevationUnit": "METERS",
-            "longitude": -86.86667
-        },
-        {
-            "mindate": "1948-07-01",
-            "maxdate": "1950-05-01",
-            "latitude": 41.75,
-            "name": "RAY POST OFFICE, IN US",
-            "datacoverage": 0.273,
-            "id": "COOP:127243",
-            "longitude": -84.86667
-        },
-        {
             "elevation": 191.4,
             "mindate": "1995-04-01",
             "maxdate": "2015-11-01",
@@ -3045,28 +2406,6 @@
             "longitude": -87.17539
         },
         {
-            "elevation": 346.9,
-            "mindate": "1948-05-01",
-            "maxdate": "1965-12-01",
-            "latitude": 39.76667,
-            "name": "RICHMOND AIRPORT, IN US",
-            "datacoverage": 0.9243,
-            "id": "COOP:127357",
-            "elevationUnit": "METERS",
-            "longitude": -84.83333
-        },
-        {
-            "elevation": 296,
-            "mindate": "1887-02-01",
-            "maxdate": "1968-12-01",
-            "latitude": 39.85,
-            "name": "RICHMOND WATERWORKS, IN US",
-            "datacoverage": 0.9359,
-            "id": "COOP:127362",
-            "elevationUnit": "METERS",
-            "longitude": -84.85
-        },
-        {
             "elevation": 306.3,
             "mindate": "1968-11-01",
             "maxdate": "2015-11-01",
@@ -3087,15 +2426,6 @@
             "id": "COOP:127398",
             "elevationUnit": "METERS",
             "longitude": -84.9958
-        },
-        {
-            "mindate": "1948-07-01",
-            "maxdate": "1948-11-26",
-            "latitude": 41.06667,
-            "name": "ROCHESTER U S FISHER, IN US",
-            "datacoverage": 0.9925,
-            "id": "COOP:127477",
-            "longitude": -86.21667
         },
         {
             "elevation": 231.6,
@@ -3131,21 +2461,12 @@
             "longitude": -87.2269
         },
         {
-            "mindate": "1903-05-01",
-            "maxdate": "1939-02-01",
-            "latitude": 37.93333,
-            "name": "ROME, IN US",
-            "datacoverage": 0.9721,
-            "id": "COOP:127547",
-            "longitude": -86.53333
-        },
-        {
             "elevation": 219.5,
             "mindate": "1948-07-01",
             "maxdate": "2003-06-01",
             "latitude": 40.86278,
             "name": "ROYAL CENTER, IN US",
-            "datacoverage": 0.5003,
+            "datacoverage": 0.0322,
             "id": "COOP:127601",
             "elevationUnit": "METERS",
             "longitude": -86.50889
@@ -3160,15 +2481,6 @@
             "id": "COOP:127646",
             "elevationUnit": "METERS",
             "longitude": -85.4532
-        },
-        {
-            "mindate": "1948-07-01",
-            "maxdate": "1950-12-01",
-            "latitude": 39.43333,
-            "name": "ST OMER, IN US",
-            "datacoverage": 0.1574,
-            "id": "COOP:127722",
-            "longitude": -85.6
         },
         {
             "elevation": 155.4,
@@ -3220,7 +2532,7 @@
             "maxdate": "1985-04-01",
             "latitude": 38.88333,
             "name": "SANDBORN, IN US",
-            "datacoverage": 0.9099,
+            "datacoverage": 0.0426,
             "id": "COOP:127783",
             "elevationUnit": "METERS",
             "longitude": -87.18333
@@ -3242,7 +2554,7 @@
             "maxdate": "2014-01-01",
             "latitude": 38.9616,
             "name": "SEYMOUR HIGHWAY GARAGE, IN US",
-            "datacoverage": 0.8975,
+            "datacoverage": 0.0385,
             "id": "COOP:127930",
             "elevationUnit": "METERS",
             "longitude": -85.8608
@@ -3275,7 +2587,7 @@
             "maxdate": "1992-07-01",
             "latitude": 41.18278,
             "name": "SHELBY RIVER, IN US",
-            "datacoverage": 0.5898,
+            "datacoverage": 0.0459,
             "id": "COOP:127991",
             "elevationUnit": "METERS",
             "longitude": -87.3425
@@ -3336,26 +2648,6 @@
             "longitude": -86.77048
         },
         {
-            "elevation": 200.9,
-            "mindate": "1948-07-01",
-            "maxdate": "1958-03-01",
-            "latitude": 39.28333,
-            "name": "SPENCER WATER WORKS, IN US",
-            "datacoverage": 0.7949,
-            "id": "COOP:128295",
-            "elevationUnit": "METERS",
-            "longitude": -86.76667
-        },
-        {
-            "mindate": "1948-07-01",
-            "maxdate": "1949-03-01",
-            "latitude": 40.03333,
-            "name": "SPRINGPORT, IN US",
-            "datacoverage": 0.7485,
-            "id": "COOP:128345",
-            "longitude": -85.4
-        },
-        {
             "elevation": 152.4,
             "mindate": "1962-07-01",
             "maxdate": "1994-11-27",
@@ -3400,15 +2692,6 @@
             "longitude": -87.163
         },
         {
-            "mindate": "1926-08-01",
-            "maxdate": "1930-12-01",
-            "latitude": 38.18333,
-            "name": "STEWARTSVILLE, IN US",
-            "datacoverage": 0.8486,
-            "id": "COOP:128448",
-            "longitude": -87.83333
-        },
-        {
             "elevation": 156.1,
             "mindate": "1963-08-01",
             "maxdate": "1976-12-01",
@@ -3429,15 +2712,6 @@
             "id": "COOP:128549",
             "elevationUnit": "METERS",
             "longitude": -85.0756
-        },
-        {
-            "mindate": "1895-09-01",
-            "maxdate": "1907-06-01",
-            "latitude": 41.4,
-            "name": "SYRACUSE, IN US",
-            "datacoverage": 1,
-            "id": "COOP:128610",
-            "longitude": -85.73333
         },
         {
             "elevation": 118.9,
@@ -3462,17 +2736,6 @@
             "longitude": -87.408
         },
         {
-            "elevation": 175.3,
-            "mindate": "1890-06-01",
-            "maxdate": "1954-08-01",
-            "latitude": 39.45194,
-            "name": "TERRE HAUTE HULMAN REGIONAL AIRPORT, IN US",
-            "datacoverage": 0.4112,
-            "id": "COOP:128725",
-            "elevationUnit": "METERS",
-            "longitude": -87.30889
-        },
-        {
             "elevation": 137.8,
             "mindate": "1992-01-01",
             "maxdate": "2008-12-01",
@@ -3482,15 +2745,6 @@
             "id": "COOP:128732",
             "elevationUnit": "METERS",
             "longitude": -87.4193
-        },
-        {
-            "mindate": "1926-07-01",
-            "maxdate": "1936-12-01",
-            "latitude": 41.16667,
-            "name": "THAYER, IN US",
-            "datacoverage": 0.8567,
-            "id": "COOP:128737",
-            "longitude": -87.33333
         },
         {
             "elevation": 271.3,
@@ -3509,19 +2763,10 @@
             "maxdate": "1983-04-01",
             "latitude": 40.28333,
             "name": "TIPTON HIGHWAY GARAG, IN US",
-            "datacoverage": 0.6667,
+            "datacoverage": 0.0476,
             "id": "COOP:128789",
             "elevationUnit": "METERS",
             "longitude": -86.06667
-        },
-        {
-            "mindate": "1893-01-01",
-            "maxdate": "1906-04-01",
-            "latitude": 41.58333,
-            "name": "TOPEKA, IN US",
-            "datacoverage": 0.8443,
-            "id": "COOP:128809",
-            "longitude": -85.56667
         },
         {
             "elevation": 256,
@@ -3557,15 +2802,6 @@
             "longitude": -85.2891
         },
         {
-            "mindate": "1936-08-01",
-            "maxdate": "1944-08-01",
-            "latitude": 38.8,
-            "name": "VALLONIA NURSERY, IN US",
-            "datacoverage": 0.9689,
-            "id": "COOP:128989",
-            "longitude": -86.06667
-        },
-        {
             "elevation": 264.9,
             "mindate": "2003-08-01",
             "maxdate": "2014-01-01",
@@ -3588,17 +2824,6 @@
             "longitude": -87.03778
         },
         {
-            "elevation": 207,
-            "mindate": "1893-01-01",
-            "maxdate": "1952-12-01",
-            "latitude": 40.11667,
-            "name": "VEEDERSBURG, IN US",
-            "datacoverage": 0.8681,
-            "id": "COOP:129040",
-            "elevationUnit": "METERS",
-            "longitude": -87.26667
-        },
-        {
             "elevation": 296,
             "mindate": "1969-05-01",
             "maxdate": "1977-01-01",
@@ -3615,7 +2840,7 @@
             "maxdate": "2014-01-01",
             "latitude": 39.0717,
             "name": "VERSAILLES WATERWRKS, IN US",
-            "datacoverage": 0.9488,
+            "datacoverage": 0.0449,
             "id": "COOP:129069",
             "elevationUnit": "METERS",
             "longitude": -85.2453
@@ -3654,17 +2879,6 @@
             "longitude": -87.4877
         },
         {
-            "elevation": 128,
-            "mindate": "1948-07-01",
-            "maxdate": "1953-05-01",
-            "latitude": 38.7,
-            "name": "VINCENNES WATER WORK, IN US",
-            "datacoverage": 0.718,
-            "id": "COOP:129117",
-            "elevationUnit": "METERS",
-            "longitude": -87.51667
-        },
-        {
             "elevation": 202.7,
             "mindate": "1922-10-01",
             "maxdate": "2015-11-01",
@@ -3681,7 +2895,7 @@
             "maxdate": "2014-01-01",
             "latitude": 39.4538,
             "name": "WALDRON 2 W, IN US",
-            "datacoverage": 0.8804,
+            "datacoverage": 0.0369,
             "id": "COOP:129174",
             "elevationUnit": "METERS",
             "longitude": -85.6963
@@ -3696,17 +2910,6 @@
             "id": "COOP:129222",
             "elevationUnit": "METERS",
             "longitude": -86.9294
-        },
-        {
-            "elevation": 249.9,
-            "mindate": "1948-07-01",
-            "maxdate": "1957-07-01",
-            "latitude": 41.23333,
-            "name": "WARSAW, IN US",
-            "datacoverage": 0.6923,
-            "id": "COOP:129235",
-            "elevationUnit": "METERS",
-            "longitude": -85.81667
         },
         {
             "elevation": 248.4,
@@ -3753,17 +2956,6 @@
             "longitude": -85.04528
         },
         {
-            "elevation": 281,
-            "mindate": "1948-07-01",
-            "maxdate": "1960-11-30",
-            "latitude": 41.43333,
-            "name": "WATERLOO HIGHWAY GAR, IN US",
-            "datacoverage": 0.5641,
-            "id": "COOP:129276",
-            "elevationUnit": "METERS",
-            "longitude": -85.01667
-        },
-        {
             "elevation": 238,
             "mindate": "1948-07-01",
             "maxdate": "2001-09-01",
@@ -3775,17 +2967,6 @@
             "longitude": -87.03722
         },
         {
-            "elevation": 159.1,
-            "mindate": "1946-11-01",
-            "maxdate": "1964-05-01",
-            "latitude": 38.56667,
-            "name": "W BADEN SPRINGS COLL, IN US",
-            "datacoverage": 0.9811,
-            "id": "COOP:129381",
-            "elevationUnit": "METERS",
-            "longitude": -86.61667
-        },
-        {
             "elevation": 182.6,
             "mindate": "1944-01-01",
             "maxdate": "1997-12-01",
@@ -3795,17 +2976,6 @@
             "id": "COOP:129424",
             "elevationUnit": "METERS",
             "longitude": -86.93694
-        },
-        {
-            "elevation": 189,
-            "mindate": "1887-06-01",
-            "maxdate": "1953-09-01",
-            "latitude": 40.41667,
-            "name": "WEST LAFAYETTE PURDU, IN US",
-            "datacoverage": 0.9912,
-            "id": "COOP:129427",
-            "elevationUnit": "METERS",
-            "longitude": -86.91667
         },
         {
             "elevation": 215.8,
@@ -3830,17 +3000,6 @@
             "longitude": -86.9058
         },
         {
-            "elevation": 146,
-            "mindate": "1948-10-01",
-            "maxdate": "1949-12-27",
-            "latitude": 38.86667,
-            "name": "WESTPHALIA, IN US",
-            "datacoverage": 0.0216,
-            "id": "COOP:129470",
-            "elevationUnit": "METERS",
-            "longitude": -87.23333
-        },
-        {
             "elevation": 202.7,
             "mindate": "1916-10-01",
             "maxdate": "2004-12-01",
@@ -3861,17 +3020,6 @@
             "id": "COOP:129557",
             "elevationUnit": "METERS",
             "longitude": -86.3543
-        },
-        {
-            "elevation": 189,
-            "mindate": "1909-10-01",
-            "maxdate": "1962-05-01",
-            "latitude": 41.65,
-            "name": "WHITING, IN US",
-            "datacoverage": 0.9304,
-            "id": "COOP:129570",
-            "elevationUnit": "METERS",
-            "longitude": -87.48333
         },
         {
             "elevation": 166.7,
@@ -3907,15 +3055,6 @@
             "longitude": -84.9207
         },
         {
-            "mindate": "1908-02-01",
-            "maxdate": "1930-12-01",
-            "latitude": 41.21667,
-            "name": "WINONA LAKE, IN US",
-            "datacoverage": 0.9709,
-            "id": "COOP:129690",
-            "longitude": -85.81667
-        },
-        {
             "elevation": 216.4,
             "mindate": "2009-01-01",
             "maxdate": "2015-11-01",
@@ -3927,19 +3066,8 @@
             "longitude": -84.8482
         },
         {
-            "elevation": 159.1,
-            "mindate": "1887-02-01",
-            "maxdate": "1949-12-01",
-            "latitude": 39.11667,
-            "name": "WORTHINGTON, IN US",
-            "datacoverage": 0.9622,
-            "id": "COOP:129792",
-            "elevationUnit": "METERS",
-            "longitude": -86.98333
-        },
-        {
             "elevation": 235.6,
-            "mindate": "1948-10-01",
+            "mindate": "1949-05-01",
             "maxdate": "2015-11-01",
             "latitude": 40.5615,
             "name": "YOUNG AMERICA, IN US",
@@ -3947,17 +3075,6 @@
             "id": "COOP:129905",
             "elevationUnit": "METERS",
             "longitude": -86.3424
-        },
-        {
-            "elevation": 136.9,
-            "mindate": "1931-04-01",
-            "maxdate": "2015-11-01",
-            "latitude": 37.7558,
-            "name": "HENDERSON 8 SSW, KY US",
-            "datacoverage": 0.9725,
-            "id": "COOP:153762",
-            "elevationUnit": "METERS",
-            "longitude": -87.6455
         },
         {
             "elevation": 121.9,
@@ -10954,6 +10071,941 @@
             "id": "GHCND:US1INLP0017",
             "elevationUnit": "METERS",
             "longitude": -86.83551
+        },
+        {
+            "elevation": 237.1,
+            "mindate": "2007-05-01",
+            "maxdate": "2017-06-30",
+            "latitude": 41.506377,
+            "name": "WESTVILLE 4.7 ESE, IN US",
+            "datacoverage": 0.9995,
+            "id": "GHCND:US1INLP0018",
+            "elevationUnit": "METERS",
+            "longitude": -86.827092
+        },
+        {
+            "elevation": 239.9,
+            "mindate": "2007-04-01",
+            "maxdate": "2009-12-22",
+            "latitude": 41.567398,
+            "name": "LA PORTE 2.8 S, IN US",
+            "datacoverage": 0.9379,
+            "id": "GHCND:US1INLP0019",
+            "elevationUnit": "METERS",
+            "longitude": -86.717932
+        },
+        {
+            "elevation": 185,
+            "mindate": "2007-06-01",
+            "maxdate": "2015-04-03",
+            "latitude": 41.741119,
+            "name": "LONG BEACH 0.7 WSW, IN US",
+            "datacoverage": 0.9791,
+            "id": "GHCND:US1INLP0020",
+            "elevationUnit": "METERS",
+            "longitude": -86.863444
+        },
+        {
+            "elevation": 195.1,
+            "mindate": "2007-07-01",
+            "maxdate": "2011-01-05",
+            "latitude": 41.697707,
+            "name": "MICHIGAN CITY 1.2 SSW, IN US",
+            "datacoverage": 0.9925,
+            "id": "GHCND:US1INLP0023",
+            "elevationUnit": "METERS",
+            "longitude": -86.886514
+        },
+        {
+            "elevation": 195.1,
+            "mindate": "2007-11-01",
+            "maxdate": "2013-06-26",
+            "latitude": 41.704578,
+            "name": "MICHIGAN CITY 0.6 SSW, IN US",
+            "datacoverage": 1,
+            "id": "GHCND:US1INLP0027",
+            "elevationUnit": "METERS",
+            "longitude": -86.878503
+        },
+        {
+            "elevation": 241.4,
+            "mindate": "2008-05-01",
+            "maxdate": "2020-05-17",
+            "latitude": 41.611438,
+            "name": "LA PORTE 1.3 ENE, IN US",
+            "datacoverage": 1,
+            "id": "GHCND:US1INLP0028",
+            "elevationUnit": "METERS",
+            "longitude": -86.690707
+        },
+        {
+            "elevation": 245.1,
+            "mindate": "2008-05-01",
+            "maxdate": "2008-11-15",
+            "latitude": 41.584879,
+            "name": "LA PORTE 1.9 SSW, IN US",
+            "datacoverage": 0.9956,
+            "id": "GHCND:US1INLP0029",
+            "elevationUnit": "METERS",
+            "longitude": -86.734041
+        },
+        {
+            "elevation": 205.4,
+            "mindate": "2008-05-01",
+            "maxdate": "2013-07-10",
+            "latitude": 41.318342,
+            "name": "LA CROSSE 0.4 E, IN US",
+            "datacoverage": 0.7485,
+            "id": "GHCND:US1INLP0031",
+            "elevationUnit": "METERS",
+            "longitude": -86.881892
+        },
+        {
+            "elevation": 228.9,
+            "mindate": "2008-05-01",
+            "maxdate": "2020-05-17",
+            "latitude": 41.670979,
+            "name": "TRAIL CREEK 3.0 SE, IN US",
+            "datacoverage": 0.9925,
+            "id": "GHCND:US1INLP0032",
+            "elevationUnit": "METERS",
+            "longitude": -86.810199
+        },
+        {
+            "elevation": 248.1,
+            "mindate": "2008-06-01",
+            "maxdate": "2014-08-05",
+            "latitude": 41.613221,
+            "name": "LA PORTE 1.2 WNW, IN US",
+            "datacoverage": 0.7866,
+            "id": "GHCND:US1INLP0035",
+            "elevationUnit": "METERS",
+            "longitude": -86.736154
+        },
+        {
+            "elevation": 241.1,
+            "mindate": "2008-07-01",
+            "maxdate": "2012-07-31",
+            "latitude": 41.611181,
+            "name": "LA PORTE 1.2 E, IN US",
+            "datacoverage": 1,
+            "id": "GHCND:US1INLP0036",
+            "elevationUnit": "METERS",
+            "longitude": -86.690311
+        },
+        {
+            "elevation": 243.2,
+            "mindate": "2009-03-01",
+            "maxdate": "2009-12-05",
+            "latitude": 41.738931,
+            "name": "NEW CARLISLE 4.0 NW, IN US",
+            "datacoverage": 0.998,
+            "id": "GHCND:US1INLP0039",
+            "elevationUnit": "METERS",
+            "longitude": -86.572891
+        },
+        {
+            "elevation": 246.9,
+            "mindate": "2009-03-01",
+            "maxdate": "2009-12-05",
+            "latitude": 41.72909196,
+            "name": "ROLLING PRAIRIE 4.9 NE, IN US",
+            "datacoverage": 0.998,
+            "id": "GHCND:US1INLP0040",
+            "elevationUnit": "METERS",
+            "longitude": -86.56184237
+        },
+        {
+            "elevation": 217.3,
+            "mindate": "2009-04-01",
+            "maxdate": "2013-09-23",
+            "latitude": 41.697833,
+            "name": "LA PORTE 6.2 N, IN US",
+            "datacoverage": 0.9998,
+            "id": "GHCND:US1INLP0041",
+            "elevationUnit": "METERS",
+            "longitude": -86.709169
+        },
+        {
+            "elevation": 216.1,
+            "mindate": "2009-04-01",
+            "maxdate": "2012-08-13",
+            "latitude": 41.409547,
+            "name": "HANNA 0.3 SW, IN US",
+            "datacoverage": 0.9956,
+            "id": "GHCND:US1INLP0042",
+            "elevationUnit": "METERS",
+            "longitude": -86.785079
+        },
+        {
+            "elevation": 253.3,
+            "mindate": "2009-04-01",
+            "maxdate": "2011-01-15",
+            "latitude": 41.729866,
+            "name": "ROLLING PRAIRIE 1.2 NNW, IN US",
+            "datacoverage": 0.998,
+            "id": "GHCND:US1INLP0043",
+            "elevationUnit": "METERS",
+            "longitude": -86.613014
+        },
+        {
+            "elevation": 237.1,
+            "mindate": "2009-11-01",
+            "maxdate": "2016-08-16",
+            "latitude": 41.591942,
+            "name": "LA PORTE 2.3 ESE, IN US",
+            "datacoverage": 1,
+            "id": "GHCND:US1INLP0045",
+            "elevationUnit": "METERS",
+            "longitude": -86.675603
+        },
+        {
+            "elevation": 248.7,
+            "mindate": "2011-04-01",
+            "maxdate": "2011-12-22",
+            "latitude": 41.5982259,
+            "name": "LA PORTE 1.0 SW, IN US",
+            "datacoverage": 0.9961,
+            "id": "GHCND:US1INLP0046",
+            "elevationUnit": "METERS",
+            "longitude": -86.7305059
+        },
+        {
+            "elevation": 216.4,
+            "mindate": "2011-04-01",
+            "maxdate": "2020-05-15",
+            "latitude": 41.4142452,
+            "name": "HANNA 0.2 NNW, IN US",
+            "datacoverage": 0.9996,
+            "id": "GHCND:US1INLP0047",
+            "elevationUnit": "METERS",
+            "longitude": -86.7814353
+        },
+        {
+            "elevation": 250.2,
+            "mindate": "2012-01-01",
+            "maxdate": "2017-12-20",
+            "latitude": 41.5914,
+            "name": "WA9RON LA PORTE 1.3 SSW, IN US",
+            "datacoverage": 1,
+            "id": "GHCND:US1INLP0049",
+            "elevationUnit": "METERS",
+            "longitude": -86.7262
+        },
+        {
+            "elevation": 246.6,
+            "mindate": "2012-01-01",
+            "maxdate": "2019-01-08",
+            "latitude": 41.6658,
+            "name": "N9ROM TRAIL CREEK 4.5 ESE, IN US",
+            "datacoverage": 1,
+            "id": "GHCND:US1INLP0050",
+            "elevationUnit": "METERS",
+            "longitude": -86.7791
+        },
+        {
+            "elevation": 249.9,
+            "mindate": "2012-01-01",
+            "maxdate": "2019-01-08",
+            "latitude": 41.5919,
+            "name": "KA9WNQ LA PORTE 1.7 SW, IN US",
+            "datacoverage": 1,
+            "id": "GHCND:US1INLP0051",
+            "elevationUnit": "METERS",
+            "longitude": -86.7415
+        },
+        {
+            "elevation": 257.9,
+            "mindate": "2012-01-01",
+            "maxdate": "2017-07-20",
+            "latitude": 41.6393,
+            "name": "KC9TDH LA PORTE 3.2 NW, IN US",
+            "datacoverage": 0.998,
+            "id": "GHCND:US1INLP0052",
+            "elevationUnit": "METERS",
+            "longitude": -86.7607
+        },
+        {
+            "elevation": 209.4,
+            "mindate": "2012-02-01",
+            "maxdate": "2020-05-17",
+            "latitude": 41.41225,
+            "name": "HANNA 1.1 E, IN US",
+            "datacoverage": 0.9806,
+            "id": "GHCND:US1INLP0053",
+            "elevationUnit": "METERS",
+            "longitude": -86.76026667
+        },
+        {
+            "elevation": 215.2,
+            "mindate": "2013-04-01",
+            "maxdate": "2019-11-15",
+            "latitude": 41.7459,
+            "name": "KC9YKU NEW CARLISLE 7.3 WNW, IN US",
+            "datacoverage": 0.9998,
+            "id": "GHCND:US1INLP0054",
+            "elevationUnit": "METERS",
+            "longitude": -86.6415
+        },
+        {
+            "elevation": 224,
+            "mindate": "2014-07-01",
+            "maxdate": "2020-05-15",
+            "latitude": 41.4447784423828,
+            "name": "WANATAH 3.0 ENE, IN US",
+            "datacoverage": 0.6658,
+            "id": "GHCND:US1INLP0058",
+            "elevationUnit": "METERS",
+            "longitude": -86.8339385986328
+        },
+        {
+            "elevation": 194.5,
+            "mindate": "2014-09-01",
+            "maxdate": "2015-12-22",
+            "latitude": 41.680649,
+            "name": "MICHIGAN CITY 2.9 SE, IN US",
+            "datacoverage": 0.75,
+            "id": "GHCND:US1INLP0059",
+            "elevationUnit": "METERS",
+            "longitude": -86.838608
+        },
+        {
+            "elevation": 207.3,
+            "mindate": "2017-03-20",
+            "maxdate": "2020-05-17",
+            "latitude": 41.3176,
+            "name": "LA CROSSE 1.2 W, IN US",
+            "datacoverage": 0.8589,
+            "id": "GHCND:US1INLP0063",
+            "elevationUnit": "METERS",
+            "longitude": -86.9129
+        },
+        {
+            "elevation": 187.8,
+            "mindate": "2017-06-29",
+            "maxdate": "2020-05-17",
+            "latitude": 41.709415,
+            "name": "KD9LWR TRAIL CREEK 1.0 NNW, IN US",
+            "datacoverage": 1,
+            "id": "GHCND:US1INLP0065",
+            "elevationUnit": "METERS",
+            "longitude": -86.863971
+        },
+        {
+            "elevation": 241.7,
+            "mindate": "2018-05-15",
+            "maxdate": "2020-05-17",
+            "latitude": 41.546315,
+            "name": "LA PORTE 6.8 SW, IN US",
+            "datacoverage": 0.5708,
+            "id": "GHCND:US1INLP0072",
+            "elevationUnit": "METERS",
+            "longitude": -86.816788
+        },
+        {
+            "elevation": 180.7,
+            "mindate": "2007-01-01",
+            "maxdate": "2010-06-09",
+            "latitude": 38.915028,
+            "name": "BEDFORD 5.1 NW, IN US",
+            "datacoverage": 1,
+            "id": "GHCND:US1INLW0002",
+            "elevationUnit": "METERS",
+            "longitude": -86.553515
+        },
+        {
+            "elevation": 203,
+            "mindate": "2007-02-01",
+            "maxdate": "2020-05-17",
+            "latitude": 38.725031,
+            "name": "MITCHELL 4.1 E, IN US",
+            "datacoverage": 1,
+            "id": "GHCND:US1INLW0004",
+            "elevationUnit": "METERS",
+            "longitude": -86.40107
+        },
+        {
+            "elevation": 214.9,
+            "mindate": "2007-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 38.792714,
+            "name": "BEDFORD 6.5 SE, IN US",
+            "datacoverage": 0.7925,
+            "id": "GHCND:US1INLW0005",
+            "elevationUnit": "METERS",
+            "longitude": -86.407363
+        },
+        {
+            "elevation": 238,
+            "mindate": "2008-03-01",
+            "maxdate": "2011-10-11",
+            "latitude": 38.875624,
+            "name": "BEDFORD 7.6 E, IN US",
+            "datacoverage": 0.9994,
+            "id": "GHCND:US1INLW0007",
+            "elevationUnit": "METERS",
+            "longitude": -86.351215
+        },
+        {
+            "elevation": 217.3,
+            "mindate": "2008-04-01",
+            "maxdate": "2020-05-17",
+            "latitude": 38.971603,
+            "name": "BEDFORD 8.6 NNW, IN US",
+            "datacoverage": 1,
+            "id": "GHCND:US1INLW0008",
+            "elevationUnit": "METERS",
+            "longitude": -86.5616
+        },
+        {
+            "elevation": 193.9,
+            "mindate": "2009-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 38.913611,
+            "name": "BEDFORD 3.7 N, IN US",
+            "datacoverage": 1,
+            "id": "GHCND:US1INLW0009",
+            "elevationUnit": "METERS",
+            "longitude": -86.477778
+        },
+        {
+            "elevation": 199,
+            "mindate": "2009-06-01",
+            "maxdate": "2020-05-16",
+            "latitude": 38.915029,
+            "name": "SPRINGVILLE 3.4 SE, IN US",
+            "datacoverage": 0.5938,
+            "id": "GHCND:US1INLW0011",
+            "elevationUnit": "METERS",
+            "longitude": -86.559882
+        },
+        {
+            "elevation": 203.9,
+            "mindate": "2009-06-01",
+            "maxdate": "2010-05-14",
+            "latitude": 38.84108307,
+            "name": "BEDFORD 1.4 SSW, IN US",
+            "datacoverage": 0.9925,
+            "id": "GHCND:US1INLW0012",
+            "elevationUnit": "METERS",
+            "longitude": -86.49903195
+        },
+        {
+            "elevation": 246,
+            "mindate": "2009-06-01",
+            "maxdate": "2015-11-26",
+            "latitude": 38.93554,
+            "name": "SPRINGVILLE 1.3 ENE, IN US",
+            "datacoverage": 0.7949,
+            "id": "GHCND:US1INLW0013",
+            "elevationUnit": "METERS",
+            "longitude": -86.596005
+        },
+        {
+            "elevation": 235,
+            "mindate": "2009-07-01",
+            "maxdate": "2012-09-08",
+            "latitude": 38.8538,
+            "name": "BEDFORD 3.9 E, IN US",
+            "datacoverage": 0.4099,
+            "id": "GHCND:US1INLW0014",
+            "elevationUnit": "METERS",
+            "longitude": -86.4186
+        },
+        {
+            "elevation": 209.1,
+            "mindate": "2009-07-01",
+            "maxdate": "2010-11-14",
+            "latitude": 38.907836,
+            "name": "SPRINGVILLE 2.4 SE, IN US",
+            "datacoverage": 0.998,
+            "id": "GHCND:US1INLW0017",
+            "elevationUnit": "METERS",
+            "longitude": -86.587617
+        },
+        {
+            "elevation": 152.1,
+            "mindate": "2011-07-01",
+            "maxdate": "2012-03-02",
+            "latitude": 38.802496,
+            "name": "WILLIAMS 0.2 SE, IN US",
+            "datacoverage": 0.9925,
+            "id": "GHCND:US1INLW0020",
+            "elevationUnit": "METERS",
+            "longitude": -86.645576
+        },
+        {
+            "elevation": 199.9,
+            "mindate": "2012-01-01",
+            "maxdate": "2013-07-25",
+            "latitude": 38.9277,
+            "name": "K9GBR BEDFORD 7.7 NE, IN US",
+            "datacoverage": 1,
+            "id": "GHCND:US1INLW0021",
+            "elevationUnit": "METERS",
+            "longitude": -86.3755
+        },
+        {
+            "elevation": 187.8,
+            "mindate": "2012-01-01",
+            "maxdate": "2020-05-15",
+            "latitude": 38.9232,
+            "name": "KB9LGS OOLITIC 2.2 N, IN US",
+            "datacoverage": 1,
+            "id": "GHCND:US1INLW0022",
+            "elevationUnit": "METERS",
+            "longitude": -86.5339
+        },
+        {
+            "elevation": 224.6,
+            "mindate": "2013-04-01",
+            "maxdate": "2016-08-16",
+            "latitude": 38.8312833,
+            "name": "WILLIAMS 1.9 N, IN US",
+            "datacoverage": 0.8177,
+            "id": "GHCND:US1INLW0024",
+            "elevationUnit": "METERS",
+            "longitude": -86.6426667
+        },
+        {
+            "elevation": 204.2,
+            "mindate": "2013-05-01",
+            "maxdate": "2016-08-17",
+            "latitude": 38.8617167,
+            "name": "BEDFORD 1.2 W, IN US",
+            "datacoverage": 0.5804,
+            "id": "GHCND:US1INLW0025",
+            "elevationUnit": "METERS",
+            "longitude": -86.5128833
+        },
+        {
+            "elevation": 270.1,
+            "mindate": "2007-03-01",
+            "maxdate": "2007-08-22",
+            "latitude": 40.167983,
+            "name": "COUNTRY CLUB HEIGHTS 4.1 NE, IN US",
+            "datacoverage": 1,
+            "id": "GHCND:US1INMD0003",
+            "elevationUnit": "METERS",
+            "longitude": -85.632495
+        },
+        {
+            "elevation": 267.9,
+            "mindate": "2006-12-01",
+            "maxdate": "2008-11-19",
+            "latitude": 40.013346,
+            "name": "PENDLETON 1.9 ENE, IN US",
+            "datacoverage": 0.916,
+            "id": "GHCND:US1INMD0005",
+            "elevationUnit": "METERS",
+            "longitude": -85.710423
+        },
+        {
+            "elevation": 259.1,
+            "mindate": "2006-12-01",
+            "maxdate": "2013-12-22",
+            "latitude": 40.065425,
+            "name": "LAPEL 0.3 SW, IN US",
+            "datacoverage": 0.5175,
+            "id": "GHCND:US1INMD0006",
+            "elevationUnit": "METERS",
+            "longitude": -85.851719
+        },
+        {
+            "elevation": 276.1,
+            "mindate": "2011-04-01",
+            "maxdate": "2019-04-10",
+            "latitude": 40.07522,
+            "name": "ANDERSON 2.5 ESE, IN US",
+            "datacoverage": 0.7539,
+            "id": "GHCND:US1INMD0013",
+            "elevationUnit": "METERS",
+            "longitude": -85.64777
+        },
+        {
+            "elevation": 263,
+            "mindate": "2011-09-01",
+            "maxdate": "2013-10-06",
+            "latitude": 40.095273,
+            "name": "ANDERSON 2.0 E, IN US",
+            "datacoverage": 0.9608,
+            "id": "GHCND:US1INMD0018",
+            "elevationUnit": "METERS",
+            "longitude": -85.649657
+        },
+        {
+            "elevation": 271,
+            "mindate": "2012-09-01",
+            "maxdate": "2020-05-17",
+            "latitude": 40.06382,
+            "name": "ANDERSON 2.0 S, IN US",
+            "datacoverage": 1,
+            "id": "GHCND:US1INMD0025",
+            "elevationUnit": "METERS",
+            "longitude": -85.69164
+        },
+        {
+            "elevation": 263,
+            "mindate": "2013-05-01",
+            "maxdate": "2018-09-10",
+            "latitude": 40.0598449707031,
+            "name": "LAPEL 0.6 S, IN US",
+            "datacoverage": 0.9708,
+            "id": "GHCND:US1INMD0026",
+            "elevationUnit": "METERS",
+            "longitude": -85.847900390625
+        },
+        {
+            "elevation": 261.2,
+            "mindate": "2013-12-01",
+            "maxdate": "2018-09-10",
+            "latitude": 40.1064834594727,
+            "name": "ANDERSON 0.2 WNW, IN US",
+            "datacoverage": 0.5001,
+            "id": "GHCND:US1INMD0027",
+            "elevationUnit": "METERS",
+            "longitude": -85.6844329833984
+        },
+        {
+            "elevation": 266.1,
+            "mindate": "2014-08-01",
+            "maxdate": "2020-05-17",
+            "latitude": 40.120178,
+            "name": "ANDERSON 2.2 NNE, IN US",
+            "datacoverage": 1,
+            "id": "GHCND:US1INMD0029",
+            "elevationUnit": "METERS",
+            "longitude": -85.666977
+        },
+        {
+            "elevation": 265.2,
+            "mindate": "2014-09-30",
+            "maxdate": "2019-07-21",
+            "latitude": 40.2646,
+            "name": "KB9ZLT ALEXANDRIA 0.4 N, IN US",
+            "datacoverage": 0.9819,
+            "id": "GHCND:US1INMD0030",
+            "elevationUnit": "METERS",
+            "longitude": -85.6759
+        },
+        {
+            "elevation": 278.3,
+            "mindate": "2015-02-01",
+            "maxdate": "2019-07-20",
+            "latitude": 40.07,
+            "name": "KD9CDO ANDERSON 2.3 SE, IN US",
+            "datacoverage": 1,
+            "id": "GHCND:US1INMD0031",
+            "elevationUnit": "METERS",
+            "longitude": -85.6556
+        },
+        {
+            "elevation": 273.1,
+            "mindate": "2016-04-13",
+            "maxdate": "2020-05-04",
+            "latitude": 40.107908,
+            "name": "N9XXT ANDERSON 2.0 ENE, IN US",
+            "datacoverage": 0.1618,
+            "id": "GHCND:US1INMD0035",
+            "elevationUnit": "METERS",
+            "longitude": -85.656006
+        },
+        {
+            "elevation": 221.9,
+            "mindate": "2006-02-01",
+            "maxdate": "2013-05-21",
+            "latitude": 39.441582,
+            "name": "MARTINSVILLE 1.4 NNE, IN US",
+            "datacoverage": 0.9323,
+            "id": "GHCND:US1INMG0001",
+            "elevationUnit": "METERS",
+            "longitude": -86.413392
+        },
+        {
+            "elevation": 210,
+            "mindate": "2006-02-01",
+            "maxdate": "2009-12-13",
+            "latitude": 39.413956,
+            "name": "MARTINSVILLE 1.6 ESE, IN US",
+            "datacoverage": 1,
+            "id": "GHCND:US1INMG0002",
+            "elevationUnit": "METERS",
+            "longitude": -86.39438
+        },
+        {
+            "elevation": 241.1,
+            "mindate": "2006-03-01",
+            "maxdate": "2006-07-28",
+            "latitude": 39.61641,
+            "name": "MOORESVILLE 2.5 E, IN US",
+            "datacoverage": 1,
+            "id": "GHCND:US1INMG0004",
+            "elevationUnit": "METERS",
+            "longitude": -86.323445
+        },
+        {
+            "elevation": 214.9,
+            "mindate": "2006-04-01",
+            "maxdate": "2011-07-11",
+            "latitude": 39.58292,
+            "name": "MOORESVILLE 2.2 S, IN US",
+            "datacoverage": 0.4531,
+            "id": "GHCND:US1INMG0006",
+            "elevationUnit": "METERS",
+            "longitude": -86.37856
+        },
+        {
+            "elevation": 224.9,
+            "mindate": "2006-07-01",
+            "maxdate": "2009-06-01",
+            "latitude": 39.4328,
+            "name": "MARTINSVILLE 2.4 ENE, IN US",
+            "datacoverage": 0.9925,
+            "id": "GHCND:US1INMG0008",
+            "elevationUnit": "METERS",
+            "longitude": -86.378762
+        },
+        {
+            "elevation": 191.1,
+            "mindate": "2007-10-01",
+            "maxdate": "2010-02-16",
+            "latitude": 39.423396,
+            "name": "MARTINSVILLE 0.7 E, IN US",
+            "datacoverage": 1,
+            "id": "GHCND:US1INMG0009",
+            "elevationUnit": "METERS",
+            "longitude": -86.409085
+        },
+        {
+            "elevation": 209.1,
+            "mindate": "2007-10-01",
+            "maxdate": "2020-05-17",
+            "latitude": 39.5446,
+            "name": "BROOKLYN 0.5 ENE, IN US",
+            "datacoverage": 1,
+            "id": "GHCND:US1INMG0011",
+            "elevationUnit": "METERS",
+            "longitude": -86.3629
+        },
+        {
+            "elevation": 242,
+            "mindate": "2007-09-01",
+            "maxdate": "2018-08-06",
+            "latitude": 39.586534,
+            "name": "STILESVILLE 3.6 S, IN US",
+            "datacoverage": 1,
+            "id": "GHCND:US1INMG0012",
+            "elevationUnit": "METERS",
+            "longitude": -86.633268
+        },
+        {
+            "elevation": 220.1,
+            "mindate": "2007-07-01",
+            "maxdate": "2020-05-15",
+            "latitude": 39.350765,
+            "name": "GOSPORT 4.2 E, IN US",
+            "datacoverage": 0.9995,
+            "id": "GHCND:US1INMG0014",
+            "elevationUnit": "METERS",
+            "longitude": -86.587055
+        },
+        {
+            "elevation": 228,
+            "mindate": "2011-03-01",
+            "maxdate": "2020-05-17",
+            "latitude": 39.621239,
+            "name": "MOORESVILLE 3.8 NE, IN US",
+            "datacoverage": 0.9993,
+            "id": "GHCND:US1INMG0018",
+            "elevationUnit": "METERS",
+            "longitude": -86.345954
+        },
+        {
+            "elevation": 230.1,
+            "mindate": "2011-07-01",
+            "maxdate": "2017-10-22",
+            "latitude": 39.433057,
+            "name": "MARTINSVILLE 2.0 ENE, IN US",
+            "datacoverage": 0.4504,
+            "id": "GHCND:US1INMG0020",
+            "elevationUnit": "METERS",
+            "longitude": -86.386609
+        },
+        {
+            "elevation": 194.8,
+            "mindate": "2011-10-01",
+            "maxdate": "2020-05-17",
+            "latitude": 39.39605,
+            "name": "MARTINSVILLE 2.3 SE, IN US",
+            "datacoverage": 1,
+            "id": "GHCND:US1INMG0021",
+            "elevationUnit": "METERS",
+            "longitude": -86.39561667
+        },
+        {
+            "elevation": 246.3,
+            "mindate": "2012-01-01",
+            "maxdate": "2018-09-08",
+            "latitude": 39.5128,
+            "name": "K9OJS CLOVERDALE 8.4 E, IN US",
+            "datacoverage": 1,
+            "id": "GHCND:US1INMG0023",
+            "elevationUnit": "METERS",
+            "longitude": -86.6418
+        },
+        {
+            "elevation": 180.7,
+            "mindate": "2012-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 39.4058,
+            "name": "N9JPX PARAGON 3.2 ENE, IN US",
+            "datacoverage": 1,
+            "id": "GHCND:US1INMG0024",
+            "elevationUnit": "METERS",
+            "longitude": -86.5045
+        },
+        {
+            "elevation": 239.6,
+            "mindate": "2019-05-29",
+            "maxdate": "2020-05-17",
+            "latitude": 39.43977,
+            "name": "MARTINSVILLE 1.2 NNE, IN US",
+            "datacoverage": 0.7352,
+            "id": "GHCND:US1INMG0029",
+            "elevationUnit": "METERS",
+            "longitude": -86.41456
+        },
+        {
+            "elevation": 251.2,
+            "mindate": "2006-04-01",
+            "maxdate": "2010-07-22",
+            "latitude": 41.453775,
+            "name": "BREMEN 2.0 WNW, IN US",
+            "datacoverage": 0.6922,
+            "id": "GHCND:US1INML0001",
+            "elevationUnit": "METERS",
+            "longitude": -86.192394
+        },
+        {
+            "elevation": 221,
+            "mindate": "2006-11-01",
+            "maxdate": "2011-10-18",
+            "latitude": 41.430196,
+            "name": "WALKERTON 2.7 SSE, IN US",
+            "datacoverage": 0.9991,
+            "id": "GHCND:US1INML0002",
+            "elevationUnit": "METERS",
+            "longitude": -86.454908
+        },
+        {
+            "elevation": 259.1,
+            "mindate": "2006-11-01",
+            "maxdate": "2011-05-18",
+            "latitude": 41.331903,
+            "name": "PLYMOUTH 1.1 SSE, IN US",
+            "datacoverage": 1,
+            "id": "GHCND:US1INML0003",
+            "elevationUnit": "METERS",
+            "longitude": -86.307406
+        },
+        {
+            "elevation": 248.1,
+            "mindate": "2006-11-01",
+            "maxdate": "2020-05-16",
+            "latitude": 41.329704,
+            "name": "PLYMOUTH 2.5 WSW, IN US",
+            "datacoverage": 1,
+            "id": "GHCND:US1INML0006",
+            "elevationUnit": "METERS",
+            "longitude": -86.356804
+        },
+        {
+            "elevation": 256.3,
+            "mindate": "2010-11-01",
+            "maxdate": "2011-11-20",
+            "latitude": 41.2887,
+            "name": "BOURBON 0.6 S, IN US",
+            "datacoverage": 1,
+            "id": "GHCND:US1INML0012",
+            "elevationUnit": "METERS",
+            "longitude": -86.1145
+        },
+        {
+            "elevation": 244.8,
+            "mindate": "2011-03-01",
+            "maxdate": "2019-05-17",
+            "latitude": 41.410116667,
+            "name": "PLYMOUTH 6.4 NW, IN US",
+            "datacoverage": 0.6959,
+            "id": "GHCND:US1INML0013",
+            "elevationUnit": "METERS",
+            "longitude": -86.403916667
+        },
+        {
+            "elevation": 250.9,
+            "mindate": "2012-07-01",
+            "maxdate": "2013-01-14",
+            "latitude": 41.4436,
+            "name": "BREMEN 0.5 WSW, IN US",
+            "datacoverage": 0.9925,
+            "id": "GHCND:US1INML0015",
+            "elevationUnit": "METERS",
+            "longitude": -86.162
+        },
+        {
+            "elevation": 255.7,
+            "mindate": "2012-08-01",
+            "maxdate": "2017-11-18",
+            "latitude": 41.2915476411581,
+            "name": "BOURBON 0.4 S, IN US",
+            "datacoverage": 0.4774,
+            "id": "GHCND:US1INML0017",
+            "elevationUnit": "METERS",
+            "longitude": -86.116286739707
+        },
+        {
+            "elevation": 246,
+            "mindate": "2016-03-25",
+            "maxdate": "2020-05-14",
+            "latitude": 41.4302177429199,
+            "name": "BREMEN 3.9 WSW, IN US",
+            "datacoverage": 0.1653,
+            "id": "GHCND:US1INML0021",
+            "elevationUnit": "METERS",
+            "longitude": -86.2265625
+        },
+        {
+            "elevation": 231.3,
+            "mindate": "2017-07-12",
+            "maxdate": "2019-11-03",
+            "latitude": 41.221885,
+            "name": "CULVER 0.8 WNW, IN US",
+            "datacoverage": 0.523,
+            "id": "GHCND:US1INML0023",
+            "elevationUnit": "METERS",
+            "longitude": -86.435931
+        },
+        {
+            "elevation": 233.2,
+            "mindate": "2010-09-01",
+            "maxdate": "2020-05-17",
+            "latitude": 40.8756,
+            "name": "DENVER 1.3 NE, IN US",
+            "datacoverage": 1,
+            "id": "GHCND:US1INMM0004",
+            "elevationUnit": "METERS",
+            "longitude": -86.0561
+        },
+        {
+            "elevation": 223.1,
+            "mindate": "2011-05-01",
+            "maxdate": "2013-01-11",
+            "latitude": 40.727,
+            "name": "PERU 3.0 SW, IN US",
+            "datacoverage": 0.8534,
+            "id": "GHCND:US1INMM0005",
+            "elevationUnit": "METERS",
+            "longitude": -86.1134
         }
     ]
 }

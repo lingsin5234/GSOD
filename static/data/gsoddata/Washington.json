@@ -2,55 +2,11 @@
     "metadata": {
         "resultset": {
             "offset": 1,
-            "count": 1963,
+            "count": 1521,
             "limit": 1000
         }
     },
     "results": [
-        {
-            "elevation": 39.9,
-            "mindate": "1916-04-01",
-            "maxdate": "1957-03-01",
-            "latitude": 45.61667,
-            "name": "BIG EDDY, OR US",
-            "datacoverage": 0.9736,
-            "id": "COOP:350753",
-            "elevationUnit": "METERS",
-            "longitude": -121.11667
-        },
-        {
-            "elevation": 18.9,
-            "mindate": "1937-12-01",
-            "maxdate": "2015-11-01",
-            "latitude": 45.6354,
-            "name": "BONNEVILLE DAM, OR US",
-            "datacoverage": 0.9989,
-            "id": "COOP:350897",
-            "elevationUnit": "METERS",
-            "longitude": -121.9523
-        },
-        {
-            "elevation": 43.3,
-            "mindate": "1910-01-01",
-            "maxdate": "2015-11-01",
-            "latitude": 45.6778,
-            "name": "CASCADE LOCKS, OR US",
-            "datacoverage": 0.4099,
-            "id": "COOP:351407",
-            "elevationUnit": "METERS",
-            "longitude": -121.8736
-        },
-        {
-            "elevation": 57.9,
-            "mindate": "1957-11-01",
-            "maxdate": "1958-12-01",
-            "latitude": 45.71667,
-            "name": "JOHN DAY DAM, WA US",
-            "datacoverage": 0.9925,
-            "id": "COOP:354293",
-            "elevationUnit": "METERS",
-            "longitude": -120.7
-        },
         {
             "elevation": 3,
             "mindate": "1919-01-01",
@@ -83,50 +39,6 @@
             "id": "COOP:450020",
             "elevationUnit": "METERS",
             "longitude": -123.1
-        },
-        {
-            "elevation": 396.8,
-            "mindate": "1919-01-01",
-            "maxdate": "1954-03-01",
-            "latitude": 46.8,
-            "name": "ALDER DAM CAMP, WA US",
-            "datacoverage": 1,
-            "id": "COOP:450094",
-            "elevationUnit": "METERS",
-            "longitude": -122.31667
-        },
-        {
-            "elevation": 220.1,
-            "mindate": "1927-07-01",
-            "maxdate": "1962-12-01",
-            "latitude": 46.61667,
-            "name": "ALPHA, WA US",
-            "datacoverage": 0.9376,
-            "id": "COOP:450142",
-            "elevationUnit": "METERS",
-            "longitude": -122.61667
-        },
-        {
-            "elevation": 232,
-            "mindate": "1931-01-01",
-            "maxdate": "1936-03-01",
-            "latitude": 46.41667,
-            "name": "ALPOWA RANCH, WA US",
-            "datacoverage": 1,
-            "id": "COOP:450145",
-            "elevationUnit": "METERS",
-            "longitude": -117.2
-        },
-        {
-            "elevation": 64,
-            "mindate": "1957-08-01",
-            "maxdate": "1963-08-01",
-            "latitude": 47.46667,
-            "name": "AMANDA PARK, WA US",
-            "datacoverage": 0.9726,
-            "id": "COOP:450158",
-            "elevationUnit": "METERS",
-            "longitude": -123.88333
         },
         {
             "elevation": 6.1,
@@ -261,19 +173,8 @@
             "longitude": -122.4725
         },
         {
-            "elevation": 49.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1941-06-01",
-            "latitude": 48.75,
-            "name": "BELLINGHAM, WA US",
-            "datacoverage": 1,
-            "id": "COOP:450569",
-            "elevationUnit": "METERS",
-            "longitude": -122.48333
-        },
-        {
             "elevation": 45.4,
-            "mindate": "1948-07-04",
+            "mindate": "1949-01-01",
             "maxdate": "1996-05-01",
             "latitude": 48.79389,
             "name": "BELLINGHAM INTERNATIONAL AIRPORT, WA US",
@@ -294,28 +195,6 @@
             "longitude": -122.5113
         },
         {
-            "elevation": 207,
-            "mindate": "1919-01-01",
-            "maxdate": "1964-01-01",
-            "latitude": 46.28333,
-            "name": "BENTON CITY 2 NW, WA US",
-            "datacoverage": 0.9316,
-            "id": "COOP:450628",
-            "elevationUnit": "METERS",
-            "longitude": -119.5
-        },
-        {
-            "elevation": 860.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1939-04-01",
-            "latitude": 47.76667,
-            "name": "BERNE, WA US",
-            "datacoverage": 0.6304,
-            "id": "COOP:450641",
-            "elevationUnit": "METERS",
-            "longitude": -120.98333
-        },
-        {
             "elevation": 919,
             "mindate": "1927-07-01",
             "maxdate": "2015-11-01",
@@ -327,17 +206,6 @@
             "longitude": -120.3006
         },
         {
-            "elevation": 534,
-            "mindate": "1931-01-01",
-            "maxdate": "1942-04-01",
-            "latitude": 48.06667,
-            "name": "BIG FOUR, WA US",
-            "datacoverage": 0.6179,
-            "id": "COOP:450672",
-            "elevationUnit": "METERS",
-            "longitude": -121.5
-        },
-        {
             "elevation": 18.3,
             "mindate": "1919-01-01",
             "maxdate": "2015-11-01",
@@ -347,50 +215,6 @@
             "id": "COOP:450729",
             "elevationUnit": "METERS",
             "longitude": -122.7927
-        },
-        {
-            "elevation": 1241.1,
-            "mindate": "1927-01-01",
-            "maxdate": "1949-12-01",
-            "latitude": 47.35,
-            "name": "BLEWETT PASS, WA US",
-            "datacoverage": 0.7427,
-            "id": "COOP:450749",
-            "elevationUnit": "METERS",
-            "longitude": -120.66667
-        },
-        {
-            "elevation": 2104.9,
-            "mindate": "1957-08-01",
-            "maxdate": "1963-09-01",
-            "latitude": 47.81667,
-            "name": "BLUE GLACIER, WA US",
-            "datacoverage": 0.3514,
-            "id": "COOP:450770",
-            "elevationUnit": "METERS",
-            "longitude": -123.76667
-        },
-        {
-            "elevation": 34.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1959-05-01",
-            "latitude": 47.76667,
-            "name": "BOTHELL, WA US",
-            "datacoverage": 0.962,
-            "id": "COOP:450826",
-            "elevationUnit": "METERS",
-            "longitude": -122.21667
-        },
-        {
-            "elevation": 424,
-            "mindate": "1948-07-05",
-            "maxdate": "1959-05-01",
-            "latitude": 49,
-            "name": "BOUNDARY, WA US",
-            "datacoverage": 0.6416,
-            "id": "COOP:450839",
-            "elevationUnit": "METERS",
-            "longitude": -117.63333
         },
         {
             "elevation": 559.9,
@@ -448,17 +272,6 @@
             "longitude": -123.5
         },
         {
-            "elevation": 73.2,
-            "mindate": "1964-03-01",
-            "maxdate": "1966-06-28",
-            "latitude": 46.78333,
-            "name": "BROOKLYN 2 E, WA US",
-            "datacoverage": 0.1677,
-            "id": "COOP:450920",
-            "elevationUnit": "METERS",
-            "longitude": -123.46667
-        },
-        {
             "elevation": 208.8,
             "mindate": "1919-01-01",
             "maxdate": "2012-12-01",
@@ -470,37 +283,15 @@
             "longitude": -122.0036
         },
         {
-            "elevation": 1049.1,
-            "mindate": "1919-01-01",
-            "maxdate": "1967-06-01",
-            "latitude": 46.86667,
-            "name": "BUMPING LAKE, WA US",
-            "datacoverage": 0.9915,
-            "id": "COOP:450969",
-            "elevationUnit": "METERS",
-            "longitude": -121.3
-        },
-        {
             "elevation": 9.1,
             "mindate": "1948-07-04",
             "maxdate": "2014-01-01",
             "latitude": 48.4672,
             "name": "BURLINGTON, WA US",
-            "datacoverage": 0.8455,
+            "datacoverage": 0.0582,
             "id": "COOP:450986",
             "elevationUnit": "METERS",
             "longitude": -122.3136
-        },
-        {
-            "elevation": 366.1,
-            "mindate": "1931-03-01",
-            "maxdate": "1941-08-01",
-            "latitude": 47.43333,
-            "name": "CAMP EIGHT, WA US",
-            "datacoverage": 0.944,
-            "id": "COOP:451059",
-            "elevationUnit": "METERS",
-            "longitude": -121.65
         },
         {
             "elevation": 249.9,
@@ -514,45 +305,12 @@
             "longitude": -123.6
         },
         {
-            "elevation": 3,
-            "mindate": "1931-01-01",
-            "maxdate": "1940-07-01",
-            "latitude": 46.8,
-            "name": "CANTO, WA US",
-            "datacoverage": 0.6001,
-            "id": "COOP:451092",
-            "elevationUnit": "METERS",
-            "longitude": -123.85
-        },
-        {
-            "elevation": 499.9,
-            "mindate": "1957-12-01",
-            "maxdate": "1962-07-01",
-            "latitude": 46.98333,
-            "name": "CARBONADO 8 SSE, WA US",
-            "datacoverage": 1,
-            "id": "COOP:451113",
-            "elevationUnit": "METERS",
-            "longitude": -121.96667
-        },
-        {
-            "elevation": 18.3,
-            "mindate": "1952-10-01",
-            "maxdate": "1953-03-01",
-            "latitude": 47.66667,
-            "name": "CARNATION 1 NW, WA US",
-            "datacoverage": 1,
-            "id": "COOP:451142",
-            "elevationUnit": "METERS",
-            "longitude": -121.91667
-        },
-        {
             "elevation": 15.2,
             "mindate": "1948-07-04",
             "maxdate": "2003-02-01",
             "latitude": 47.69306,
             "name": "CARNATION 4 NW, WA US",
-            "datacoverage": 0.9407,
+            "datacoverage": 0.0913,
             "id": "COOP:451146",
             "elevationUnit": "METERS",
             "longitude": -121.99472
@@ -567,17 +325,6 @@
             "id": "COOP:451160",
             "elevationUnit": "METERS",
             "longitude": -121.9733
-        },
-        {
-            "elevation": 34.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1941-05-01",
-            "latitude": 46.28333,
-            "name": "CASTLE ROCK, WA US",
-            "datacoverage": 0.9202,
-            "id": "COOP:451189",
-            "elevationUnit": "METERS",
-            "longitude": -122.9
         },
         {
             "elevation": 11.9,
@@ -602,17 +349,6 @@
             "longitude": -123.32889
         },
         {
-            "elevation": 146,
-            "mindate": "1927-06-01",
-            "maxdate": "1959-05-01",
-            "latitude": 46.31667,
-            "name": "CATHLAMET 9 NE, WA US",
-            "datacoverage": 0.901,
-            "id": "COOP:451207",
-            "elevationUnit": "METERS",
-            "longitude": -123.26667
-        },
-        {
             "elevation": 475.5,
             "mindate": "1919-01-01",
             "maxdate": "2015-11-01",
@@ -622,17 +358,6 @@
             "id": "COOP:451233",
             "elevationUnit": "METERS",
             "longitude": -121.7561
-        },
-        {
-            "elevation": 502.9,
-            "mindate": "1948-07-05",
-            "maxdate": "1956-07-01",
-            "latitude": 45.73333,
-            "name": "CENTERVILLE 2 SW, WA US",
-            "datacoverage": 0.5462,
-            "id": "COOP:451257",
-            "elevationUnit": "METERS",
-            "longitude": -120.95
         },
         {
             "elevation": 56.4,
@@ -657,17 +382,6 @@
             "longitude": -122.9775
         },
         {
-            "elevation": 54.9,
-            "mindate": "1948-07-04",
-            "maxdate": "1968-05-01",
-            "latitude": 46.66667,
-            "name": "CHEHALIS, WA US",
-            "datacoverage": 0.9407,
-            "id": "COOP:451330",
-            "elevationUnit": "METERS",
-            "longitude": -122.98333
-        },
-        {
             "elevation": 363.9,
             "mindate": "1958-05-01",
             "maxdate": "2015-11-01",
@@ -677,50 +391,6 @@
             "id": "COOP:451350",
             "elevationUnit": "METERS",
             "longitude": -120.0005
-        },
-        {
-            "elevation": 732.1,
-            "mindate": "1938-01-01",
-            "maxdate": "1955-10-01",
-            "latitude": 47.48333,
-            "name": "CHENEY, WA US",
-            "datacoverage": 0.9954,
-            "id": "COOP:451362",
-            "elevationUnit": "METERS",
-            "longitude": -117.58333
-        },
-        {
-            "elevation": 875.1,
-            "mindate": "1926-01-01",
-            "maxdate": "1958-10-01",
-            "latitude": 48.95,
-            "name": "CHESAW, WA US",
-            "datacoverage": 0.3351,
-            "id": "COOP:451381",
-            "elevationUnit": "METERS",
-            "longitude": -119.05
-        },
-        {
-            "elevation": 976,
-            "mindate": "1931-01-01",
-            "maxdate": "1951-11-01",
-            "latitude": 48.95,
-            "name": "CHESAW, WA US",
-            "datacoverage": 1,
-            "id": "COOP:451382",
-            "elevationUnit": "METERS",
-            "longitude": -119.06667
-        },
-        {
-            "elevation": 839.1,
-            "mindate": "1958-10-01",
-            "maxdate": "1959-05-01",
-            "latitude": 48.98333,
-            "name": "CHESAW 2 NNE, WA US",
-            "datacoverage": 0.8768,
-            "id": "COOP:451383",
-            "elevationUnit": "METERS",
-            "longitude": -119.03333
         },
         {
             "elevation": 1207.9,
@@ -767,48 +437,15 @@
             "longitude": -122.7908
         },
         {
-            "elevation": 826.9,
-            "mindate": "1925-06-01",
-            "maxdate": "1957-09-01",
-            "latitude": 48.03333,
-            "name": "CHIWAWA RIVER, WA US",
-            "datacoverage": 0.9278,
-            "id": "COOP:451426",
-            "elevationUnit": "METERS",
-            "longitude": -120.83333
-        },
-        {
             "elevation": 317,
             "mindate": "1948-07-04",
             "maxdate": "2014-01-01",
             "latitude": 46.6052,
             "name": "CINEBAR 2 E, WA US",
-            "datacoverage": 1,
+            "datacoverage": 0.0611,
             "id": "COOP:451457",
             "elevationUnit": "METERS",
             "longitude": -122.4963
-        },
-        {
-            "elevation": 9.1,
-            "mindate": "1927-11-01",
-            "maxdate": "1976-07-01",
-            "latitude": 48.26667,
-            "name": "CLALLAM BAY 1 NNE, WA US",
-            "datacoverage": 0.9726,
-            "id": "COOP:451465",
-            "elevationUnit": "METERS",
-            "longitude": -124.25
-        },
-        {
-            "elevation": 363,
-            "mindate": "1937-11-01",
-            "maxdate": "1959-12-01",
-            "latitude": 46.38333,
-            "name": "CLARKSTON HEIGHTS, WA US",
-            "datacoverage": 0.9963,
-            "id": "COOP:451474",
-            "elevationUnit": "METERS",
-            "longitude": -117.08333
         },
         {
             "elevation": 19.5,
@@ -943,23 +580,12 @@
             "longitude": -122.31
         },
         {
-            "elevation": 153,
-            "mindate": "1955-03-01",
-            "maxdate": "1958-12-01",
-            "latitude": 46.06667,
-            "name": "COUGAR 1 E, WA US",
-            "datacoverage": 0.9987,
-            "id": "COOP:451757",
-            "elevationUnit": "METERS",
-            "longitude": -122.28333
-        },
-        {
             "elevation": 158.5,
             "mindate": "1948-07-01",
             "maxdate": "2014-01-01",
             "latitude": 46.0086,
             "name": "COUGAR 4 SW, WA US",
-            "datacoverage": 0.9104,
+            "datacoverage": 0.1176,
             "id": "COOP:451759",
             "elevationUnit": "METERS",
             "longitude": -122.3455
@@ -1075,23 +701,12 @@
             "longitude": -118.0022
         },
         {
-            "elevation": 522.1,
-            "mindate": "1948-10-01",
-            "maxdate": "1962-02-01",
-            "latitude": 46.36667,
-            "name": "DAYTON 5 NW, WA US",
-            "datacoverage": 0.5631,
-            "id": "COOP:452035",
-            "elevationUnit": "METERS",
-            "longitude": -118.06667
-        },
-        {
             "elevation": 714.1,
             "mindate": "1948-07-03",
             "maxdate": "1977-08-18",
             "latitude": 46.21667,
             "name": "DAYTON 9 SE, WA US",
-            "datacoverage": 0.88,
+            "datacoverage": 0.0703,
             "id": "COOP:452037",
             "elevationUnit": "METERS",
             "longitude": -117.85
@@ -1117,28 +732,6 @@
             "id": "COOP:452066",
             "elevationUnit": "METERS",
             "longitude": -117.43333
-        },
-        {
-            "elevation": 61,
-            "mindate": "1952-11-30",
-            "maxdate": "1964-02-01",
-            "latitude": 48.81667,
-            "name": "DEMING, WA US",
-            "datacoverage": 0.137,
-            "id": "COOP:452107",
-            "elevationUnit": "METERS",
-            "longitude": -122.21667
-        },
-        {
-            "elevation": 49.1,
-            "mindate": "1949-01-01",
-            "maxdate": "1951-11-01",
-            "latitude": 48.85,
-            "name": "DEMING 4 WNW, WA US",
-            "datacoverage": 0.4577,
-            "id": "COOP:452112",
-            "elevationUnit": "METERS",
-            "longitude": -122.3
         },
         {
             "elevation": 271.6,
@@ -1168,21 +761,10 @@
             "maxdate": "2007-09-01",
             "latitude": 46.0913,
             "name": "DIXIE 4 SE, WA US",
-            "datacoverage": 1,
+            "datacoverage": 0.0397,
             "id": "COOP:452197",
             "elevationUnit": "METERS",
             "longitude": -118.1005
-        },
-        {
-            "elevation": 683.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1938-12-01",
-            "latitude": 48.18333,
-            "name": "DOMKE LAKE, WA US",
-            "datacoverage": 0.9792,
-            "id": "COOP:452214",
-            "elevationUnit": "METERS",
-            "longitude": -120.58333
         },
         {
             "elevation": 79.2,
@@ -1205,28 +787,6 @@
             "id": "COOP:452253",
             "elevationUnit": "METERS",
             "longitude": -123.2597
-        },
-        {
-            "elevation": 244.1,
-            "mindate": "1932-01-01",
-            "maxdate": "1954-03-01",
-            "latitude": 47.76667,
-            "name": "DUVALL 3 NE, WA US",
-            "datacoverage": 0.2098,
-            "id": "COOP:452309",
-            "elevationUnit": "METERS",
-            "longitude": -121.93333
-        },
-        {
-            "elevation": 338.9,
-            "mindate": "1942-11-01",
-            "maxdate": "1944-05-01",
-            "latitude": 47.26667,
-            "name": "EAGLE GORGE, WA US",
-            "datacoverage": 0.7372,
-            "id": "COOP:452326",
-            "elevationUnit": "METERS",
-            "longitude": -121.76667
         },
         {
             "elevation": 661.4,
@@ -1282,17 +842,6 @@
             "id": "COOP:452507",
             "elevationUnit": "METERS",
             "longitude": -120.5386
-        },
-        {
-            "elevation": 538.3,
-            "mindate": "1940-05-01",
-            "maxdate": "1959-11-01",
-            "latitude": 47.03389,
-            "name": "ELLENSBURG BOWERS FIELD, WA US",
-            "datacoverage": 0.8894,
-            "id": "COOP:452508",
-            "elevationUnit": "METERS",
-            "longitude": -120.53028
         },
         {
             "elevation": 21.3,
@@ -1372,17 +921,6 @@
             "longitude": -119.5154
         },
         {
-            "elevation": 184.7,
-            "mindate": "1949-12-01",
-            "maxdate": "1952-06-01",
-            "latitude": 47.90778,
-            "name": "EVERETT SNOHOMISH CO AIRPORT, WA US",
-            "datacoverage": 1,
-            "id": "COOP:452670",
-            "elevationUnit": "METERS",
-            "longitude": -122.28028
-        },
-        {
             "elevation": 18.3,
             "mindate": "1919-01-01",
             "maxdate": "2015-11-01",
@@ -1403,28 +941,6 @@
             "id": "COOP:452706",
             "elevationUnit": "METERS",
             "longitude": -117.73333
-        },
-        {
-            "elevation": 433.1,
-            "mindate": "1919-01-01",
-            "maxdate": "1950-05-01",
-            "latitude": 47,
-            "name": "FAIRFAX, WA US",
-            "datacoverage": 0.1675,
-            "id": "COOP:452722",
-            "elevationUnit": "METERS",
-            "longitude": -122
-        },
-        {
-            "elevation": 885.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1937-03-01",
-            "latitude": 47.05,
-            "name": "FARMINGTON, WA US",
-            "datacoverage": 0.987,
-            "id": "COOP:452769",
-            "elevationUnit": "METERS",
-            "longitude": -117.05
         },
         {
             "elevation": 106.7,
@@ -1454,32 +970,10 @@
             "maxdate": "2014-01-01",
             "latitude": 46.5416,
             "name": "FRANCES, WA US",
-            "datacoverage": 0.8078,
+            "datacoverage": 0.0842,
             "id": "COOP:452984",
             "elevationUnit": "METERS",
             "longitude": -123.4923
-        },
-        {
-            "elevation": 31.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1949-11-01",
-            "latitude": 48.53333,
-            "name": "FRIDAY HARBOR, WA US",
-            "datacoverage": 0.6652,
-            "id": "COOP:453010",
-            "elevationUnit": "METERS",
-            "longitude": -123.03333
-        },
-        {
-            "elevation": 320,
-            "mindate": "1931-03-01",
-            "maxdate": "1942-10-01",
-            "latitude": 46.08333,
-            "name": "GARDEN CITY HEIGHTS, WA US",
-            "datacoverage": 0.6854,
-            "id": "COOP:453050",
-            "elevationUnit": "METERS",
-            "longitude": -118.31667
         },
         {
             "elevation": 285,
@@ -1505,11 +999,11 @@
         },
         {
             "elevation": 566.9,
-            "mindate": "1942-04-01",
+            "mindate": "1948-07-01",
             "maxdate": "2014-01-01",
             "latitude": 46.008,
             "name": "GLENWOOD, WA US",
-            "datacoverage": 0.3245,
+            "datacoverage": 0.0544,
             "id": "COOP:453183",
             "elevationUnit": "METERS",
             "longitude": -121.2623
@@ -1524,17 +1018,6 @@
             "id": "COOP:453184",
             "elevationUnit": "METERS",
             "longitude": -121.2634
-        },
-        {
-            "elevation": 63.7,
-            "mindate": "1949-01-01",
-            "maxdate": "1949-04-01",
-            "latitude": 47.8355,
-            "name": "GOLD BAR 2 SE, WA US",
-            "datacoverage": 1,
-            "id": "COOP:453214",
-            "elevationUnit": "METERS",
-            "longitude": -121.66
         },
         {
             "elevation": 499.9,
@@ -1614,28 +1097,6 @@
             "longitude": -121.63333
         },
         {
-            "elevation": 259.1,
-            "mindate": "1955-09-01",
-            "maxdate": "1969-12-01",
-            "latitude": 47.73333,
-            "name": "GROTTO, WA US",
-            "datacoverage": 0.9999,
-            "id": "COOP:453386",
-            "elevationUnit": "METERS",
-            "longitude": -121.41667
-        },
-        {
-            "elevation": 118.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1943-03-01",
-            "latitude": 46.58333,
-            "name": "HANFORD, WA US",
-            "datacoverage": 0.9935,
-            "id": "COOP:453438",
-            "elevationUnit": "METERS",
-            "longitude": -119.38333
-        },
-        {
             "elevation": 661.4,
             "mindate": "1919-01-01",
             "maxdate": "1982-07-01",
@@ -1643,28 +1104,6 @@
             "name": "HARRINGTON 5 S, WA US",
             "datacoverage": 0.983,
             "id": "COOP:453502",
-            "elevationUnit": "METERS",
-            "longitude": -118.25
-        },
-        {
-            "elevation": 665.1,
-            "mindate": "1948-07-05",
-            "maxdate": "1956-04-01",
-            "latitude": 47.48333,
-            "name": "HARRINGTON 1 N, WA US",
-            "datacoverage": 0.9888,
-            "id": "COOP:453512",
-            "elevationUnit": "METERS",
-            "longitude": -118.25
-        },
-        {
-            "elevation": 683.1,
-            "mindate": "1956-03-01",
-            "maxdate": "1961-12-01",
-            "latitude": 47.43333,
-            "name": "HARRINGTON 2 S, WA US",
-            "datacoverage": 0.9994,
-            "id": "COOP:453513",
             "elevationUnit": "METERS",
             "longitude": -118.25
         },
@@ -1691,17 +1130,6 @@
             "longitude": -119.10635
         },
         {
-            "elevation": 885.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1938-03-01",
-            "latitude": 48.63333,
-            "name": "HASSAN, WA US",
-            "datacoverage": 0.9544,
-            "id": "COOP:453539",
-            "elevationUnit": "METERS",
-            "longitude": -119.65
-        },
-        {
             "elevation": 458.7,
             "mindate": "1919-01-01",
             "maxdate": "2015-11-01",
@@ -1711,17 +1139,6 @@
             "id": "COOP:453546",
             "elevationUnit": "METERS",
             "longitude": -118.6524
-        },
-        {
-            "elevation": 1158.8,
-            "mindate": "1942-08-01",
-            "maxdate": "1945-07-01",
-            "latitude": 47.5,
-            "name": "HIGLEY PEAK, WA US",
-            "datacoverage": 0.6943,
-            "id": "COOP:453659",
-            "elevationUnit": "METERS",
-            "longitude": -123.88333
         },
         {
             "elevation": 174.3,
@@ -1735,17 +1152,6 @@
             "longitude": -123.9319
         },
         {
-            "elevation": 1049.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1957-06-01",
-            "latitude": 48.2,
-            "name": "HOLDEN, WA US",
-            "datacoverage": 0.7485,
-            "id": "COOP:453728",
-            "elevationUnit": "METERS",
-            "longitude": -120.78333
-        },
-        {
             "elevation": 980.8,
             "mindate": "1962-06-01",
             "maxdate": "2015-11-01",
@@ -1755,17 +1161,6 @@
             "id": "COOP:453730",
             "elevationUnit": "METERS",
             "longitude": -120.7735
-        },
-        {
-            "elevation": 4.9,
-            "mindate": "1943-06-01",
-            "maxdate": "1953-06-01",
-            "latitude": 46.98333,
-            "name": "HOQUIAM, WA US",
-            "datacoverage": 0.9422,
-            "id": "COOP:453804",
-            "elevationUnit": "METERS",
-            "longitude": -123.88333
         },
         {
             "elevation": 3.7,
@@ -1810,28 +1205,6 @@
             "id": "COOP:453903",
             "elevationUnit": "METERS",
             "longitude": -118.21667
-        },
-        {
-            "elevation": 223.1,
-            "mindate": "1928-10-01",
-            "maxdate": "1955-12-01",
-            "latitude": 47.81667,
-            "name": "INDEX 1 SSE, WA US",
-            "datacoverage": 0.6636,
-            "id": "COOP:453909",
-            "elevationUnit": "METERS",
-            "longitude": -121.55
-        },
-        {
-            "elevation": 223.1,
-            "mindate": "1956-02-01",
-            "maxdate": "1957-06-01",
-            "latitude": 47.81667,
-            "name": "INDEX 1 SSE, WA US",
-            "datacoverage": 0.5309,
-            "id": "COOP:453910",
-            "elevationUnit": "METERS",
-            "longitude": -121.55
         },
         {
             "elevation": 60,
@@ -1900,39 +1273,6 @@
             "longitude": -122.7325
         },
         {
-            "elevation": 274.9,
-            "mindate": "1919-01-01",
-            "maxdate": "1967-06-01",
-            "latitude": 46.05,
-            "name": "KALAMA 5 ENE, WA US",
-            "datacoverage": 0.9898,
-            "id": "COOP:454085",
-            "elevationUnit": "METERS",
-            "longitude": -122.75
-        },
-        {
-            "elevation": 75.9,
-            "mindate": "1932-01-01",
-            "maxdate": "1950-07-01",
-            "latitude": 47.6,
-            "name": "KELLYS RANCH, WA US",
-            "datacoverage": 0.4574,
-            "id": "COOP:454127",
-            "elevationUnit": "METERS",
-            "longitude": -124.05
-        },
-        {
-            "elevation": 6.1,
-            "mindate": "1925-01-01",
-            "maxdate": "1953-08-01",
-            "latitude": 46.11667,
-            "name": "KELSO SOUTHWEST REGIONAL AIRPORT, WA US",
-            "datacoverage": 0.8954,
-            "id": "COOP:454135",
-            "elevationUnit": "METERS",
-            "longitude": -122.89389
-        },
-        {
             "elevation": 118.9,
             "mindate": "1919-01-01",
             "maxdate": "2015-11-01",
@@ -1966,28 +1306,6 @@
             "longitude": -122.2433
         },
         {
-            "elevation": 387.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1939-04-01",
-            "latitude": 48.56667,
-            "name": "KETTLE FALLS, WA US",
-            "datacoverage": 1,
-            "id": "COOP:454178",
-            "elevationUnit": "METERS",
-            "longitude": -118.13333
-        },
-        {
-            "elevation": 11.9,
-            "mindate": "1921-01-01",
-            "maxdate": "1958-02-01",
-            "latitude": 47.7,
-            "name": "KEYPORT, WA US",
-            "datacoverage": 0.8992,
-            "id": "COOP:454187",
-            "elevationUnit": "METERS",
-            "longitude": -122.61667
-        },
-        {
             "elevation": 210.3,
             "mindate": "1937-06-01",
             "maxdate": "1980-04-01",
@@ -1999,50 +1317,6 @@
             "longitude": -122.61667
         },
         {
-            "elevation": 1007.1,
-            "mindate": "1942-07-01",
-            "maxdate": "1945-08-01",
-            "latitude": 48.06667,
-            "name": "KLOSHE NANITCH, WA US",
-            "datacoverage": 0.6045,
-            "id": "COOP:454259",
-            "elevationUnit": "METERS",
-            "longitude": -124.13333
-        },
-        {
-            "elevation": 259.1,
-            "mindate": "1937-01-01",
-            "maxdate": "1944-08-01",
-            "latitude": 48.65,
-            "name": "KOMA KULSHAN, WA US",
-            "datacoverage": 0.7935,
-            "id": "COOP:454277",
-            "elevationUnit": "METERS",
-            "longitude": -121.7
-        },
-        {
-            "elevation": 256,
-            "mindate": "1919-01-01",
-            "maxdate": "1965-11-01",
-            "latitude": 46.51861,
-            "name": "GLENOMA, WA US",
-            "datacoverage": 0.8046,
-            "id": "COOP:454286",
-            "elevationUnit": "METERS",
-            "longitude": -122.13833
-        },
-        {
-            "elevation": 61,
-            "mindate": "1931-01-01",
-            "maxdate": "1940-02-01",
-            "latitude": 45.85,
-            "name": "LA CENTER, WA US",
-            "datacoverage": 0.9731,
-            "id": "COOP:454328",
-            "elevationUnit": "METERS",
-            "longitude": -122.65
-        },
-        {
             "elevation": 449.9,
             "mindate": "1931-01-01",
             "maxdate": "2015-11-01",
@@ -2052,17 +1326,6 @@
             "id": "COOP:454338",
             "elevationUnit": "METERS",
             "longitude": -117.883
-        },
-        {
-            "elevation": 452,
-            "mindate": "1919-01-01",
-            "maxdate": "1948-08-01",
-            "latitude": 46.81667,
-            "name": "LA CROSSE, WA US",
-            "datacoverage": 0.6938,
-            "id": "COOP:454343",
-            "elevationUnit": "METERS",
-            "longitude": -117.88333
         },
         {
             "elevation": 292.6,
@@ -2109,17 +1372,6 @@
             "longitude": -121.33333
         },
         {
-            "elevation": 363.9,
-            "mindate": "1919-02-01",
-            "maxdate": "1958-04-01",
-            "latitude": 47.8344,
-            "name": "CHELAN, WA US",
-            "datacoverage": 0.981,
-            "id": "COOP:454430",
-            "elevationUnit": "METERS",
-            "longitude": -120.0005
-        },
-        {
             "elevation": 174,
             "mindate": "1929-01-01",
             "maxdate": "1976-06-01",
@@ -2140,28 +1392,6 @@
             "id": "COOP:454446",
             "elevationUnit": "METERS",
             "longitude": -120.7977
-        },
-        {
-            "elevation": 98.1,
-            "mindate": "1944-01-01",
-            "maxdate": "1954-04-01",
-            "latitude": 48.68333,
-            "name": "LAKE WHATCOM, WA US",
-            "datacoverage": 0.9439,
-            "id": "COOP:454454",
-            "elevationUnit": "METERS",
-            "longitude": -122.3
-        },
-        {
-            "elevation": 595,
-            "mindate": "1941-11-01",
-            "maxdate": "1945-12-01",
-            "latitude": 47.15,
-            "name": "LAMONT 4 SSW, WA US",
-            "datacoverage": 0.9999,
-            "id": "COOP:454470",
-            "elevationUnit": "METERS",
-            "longitude": -117.95
         },
         {
             "elevation": 163.1,
@@ -2195,50 +1425,6 @@
             "id": "COOP:454572",
             "elevationUnit": "METERS",
             "longitude": -120.675
-        },
-        {
-            "elevation": 1110.1,
-            "mindate": "1955-11-01",
-            "maxdate": "1959-06-01",
-            "latitude": 48.71667,
-            "name": "LEMANASKY LAKE 2, WA US",
-            "datacoverage": 1,
-            "id": "COOP:454600",
-            "elevationUnit": "METERS",
-            "longitude": -119.61667
-        },
-        {
-            "elevation": 1158.8,
-            "mindate": "1928-01-01",
-            "maxdate": "1955-10-01",
-            "latitude": 48.71667,
-            "name": "LEMANASKY LAKE 3, WA US",
-            "datacoverage": 1,
-            "id": "COOP:454601",
-            "elevationUnit": "METERS",
-            "longitude": -119.61667
-        },
-        {
-            "elevation": 497.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1940-01-01",
-            "latitude": 47.2,
-            "name": "LESTER, WA US",
-            "datacoverage": 0.7155,
-            "id": "COOP:454619",
-            "elevationUnit": "METERS",
-            "longitude": -121.48333
-        },
-        {
-            "elevation": 534,
-            "mindate": "1948-07-05",
-            "maxdate": "1960-06-20",
-            "latitude": 47.21667,
-            "name": "LESTER 2 E, WA US",
-            "datacoverage": 0.2403,
-            "id": "COOP:454620",
-            "elevationUnit": "METERS",
-            "longitude": -121.45
         },
         {
             "elevation": 497.1,
@@ -2286,7 +1472,7 @@
         },
         {
             "elevation": 7.6,
-            "mindate": "1963-11-01",
+            "mindate": "1967-08-01",
             "maxdate": "2015-11-01",
             "latitude": 46.3675,
             "name": "LONG BEACH EXPERIMENT STATION, WA US",
@@ -2294,17 +1480,6 @@
             "id": "COOP:454748",
             "elevationUnit": "METERS",
             "longitude": -124.0377
-        },
-        {
-            "elevation": 9.1,
-            "mindate": "1953-06-01",
-            "maxdate": "1967-07-01",
-            "latitude": 46.38333,
-            "name": "LONG BEACH 3 NNE, WA US",
-            "datacoverage": 1,
-            "id": "COOP:454752",
-            "elevationUnit": "METERS",
-            "longitude": -124.03333
         },
         {
             "elevation": 841.9,
@@ -2327,17 +1502,6 @@
             "id": "COOP:454769",
             "elevationUnit": "METERS",
             "longitude": -122.9163
-        },
-        {
-            "elevation": 808,
-            "mindate": "1919-01-01",
-            "maxdate": "1953-07-01",
-            "latitude": 48.48333,
-            "name": "LOST CREEK AENEAS, WA US",
-            "datacoverage": 0.9591,
-            "id": "COOP:454807",
-            "elevationUnit": "METERS",
-            "longitude": -119.01667
         },
         {
             "elevation": 195.1,
@@ -2367,21 +1531,10 @@
             "maxdate": "1989-04-01",
             "latitude": 48.23333,
             "name": "LUCERNE 1 N, WA US",
-            "datacoverage": 1,
+            "datacoverage": 0.0768,
             "id": "COOP:454849",
             "elevationUnit": "METERS",
             "longitude": -120.6
-        },
-        {
-            "elevation": 259.1,
-            "mindate": "1950-05-01",
-            "maxdate": "1957-05-01",
-            "latitude": 48.28333,
-            "name": "MALOTT, WA US",
-            "datacoverage": 0.7645,
-            "id": "COOP:454935",
-            "elevationUnit": "METERS",
-            "longitude": -119.71667
         },
         {
             "elevation": 691.9,
@@ -2393,17 +1546,6 @@
             "id": "COOP:454971",
             "elevationUnit": "METERS",
             "longitude": -119.63333
-        },
-        {
-            "elevation": 732.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1942-01-01",
-            "latitude": 47.76667,
-            "name": "MANSFIELD 4 SSE, WA US",
-            "datacoverage": 0.8795,
-            "id": "COOP:454973",
-            "elevationUnit": "METERS",
-            "longitude": -119.61667
         },
         {
             "elevation": 762.9,
@@ -2422,21 +1564,10 @@
             "maxdate": "2014-01-01",
             "latitude": 48.538,
             "name": "MARBLEMOUNT RANGER STATION, WA US",
-            "datacoverage": 0.9001,
+            "datacoverage": 0.0951,
             "id": "COOP:454999",
             "elevationUnit": "METERS",
             "longitude": -121.4502
-        },
-        {
-            "elevation": 6.1,
-            "mindate": "1919-01-01",
-            "maxdate": "1958-07-01",
-            "latitude": 48.83333,
-            "name": "MARIETTA 3 NNW, WA US",
-            "datacoverage": 0.9938,
-            "id": "COOP:455028",
-            "elevationUnit": "METERS",
-            "longitude": -122.6
         },
         {
             "elevation": 103.9,
@@ -2459,17 +1590,6 @@
             "id": "COOP:455086",
             "elevationUnit": "METERS",
             "longitude": -123.4005
-        },
-        {
-            "elevation": 182.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1937-06-01",
-            "latitude": 46.48333,
-            "name": "MAYFIELD, WA US",
-            "datacoverage": 0.9748,
-            "id": "COOP:455105",
-            "elevationUnit": "METERS",
-            "longitude": -122.51667
         },
         {
             "elevation": 85.3,
@@ -2510,7 +1630,7 @@
             "maxdate": "1978-12-27",
             "latitude": 47.15,
             "name": "MCCORD AFB, WA US",
-            "datacoverage": 0.7334,
+            "datacoverage": 0.0825,
             "id": "COOP:455149",
             "elevationUnit": "METERS",
             "longitude": -122.48333
@@ -2549,39 +1669,6 @@
             "longitude": -122.5638
         },
         {
-            "elevation": 267.9,
-            "mindate": "1941-09-01",
-            "maxdate": "1951-07-01",
-            "latitude": 46.58333,
-            "name": "MESA 4 W, WA US",
-            "datacoverage": 0.6893,
-            "id": "COOP:455309",
-            "elevationUnit": "METERS",
-            "longitude": -119.08333
-        },
-        {
-            "elevation": 644,
-            "mindate": "1926-08-01",
-            "maxdate": "1965-06-01",
-            "latitude": 48.86667,
-            "name": "METALINE FALLS, WA US",
-            "datacoverage": 0.7216,
-            "id": "COOP:455317",
-            "elevationUnit": "METERS",
-            "longitude": -117.36667
-        },
-        {
-            "elevation": 353.9,
-            "mindate": "1948-07-05",
-            "maxdate": "1969-06-01",
-            "latitude": 48.13333,
-            "name": "METHOW, WA US",
-            "datacoverage": 0.8668,
-            "id": "COOP:455325",
-            "elevationUnit": "METERS",
-            "longitude": -120
-        },
-        {
             "elevation": 345.9,
             "mindate": "1970-01-01",
             "maxdate": "2015-11-01",
@@ -2594,11 +1681,11 @@
         },
         {
             "elevation": 355.1,
-            "mindate": "1957-08-01",
+            "mindate": "1969-05-01",
             "maxdate": "1979-09-03",
             "latitude": 48.13333,
             "name": "METHOW, WA US",
-            "datacoverage": 0.9931,
+            "datacoverage": 0.0354,
             "id": "COOP:455327",
             "elevationUnit": "METERS",
             "longitude": -120.01667
@@ -2637,17 +1724,6 @@
             "longitude": -122.18333
         },
         {
-            "elevation": 36.9,
-            "mindate": "1937-03-01",
-            "maxdate": "1957-03-01",
-            "latitude": 47.21667,
-            "name": "MOCLIPS, WA US",
-            "datacoverage": 0.826,
-            "id": "COOP:455488",
-            "elevationUnit": "METERS",
-            "longitude": -124.2
-        },
-        {
             "elevation": 36.6,
             "mindate": "1929-02-01",
             "maxdate": "2015-11-01",
@@ -2660,11 +1736,11 @@
         },
         {
             "elevation": 7.6,
-            "mindate": "1948-10-01",
+            "mindate": "1954-08-01",
             "maxdate": "2014-01-01",
             "latitude": 46.9675,
             "name": "MONTESANO 1 S, WA US",
-            "datacoverage": 0.8455,
+            "datacoverage": 0.079,
             "id": "COOP:455549",
             "elevationUnit": "METERS",
             "longitude": -123.6064
@@ -2692,17 +1768,6 @@
             "longitude": -119.2
         },
         {
-            "elevation": 207,
-            "mindate": "1948-06-01",
-            "maxdate": "1949-05-01",
-            "latitude": 46.53333,
-            "name": "MOSSYROCK, WA US",
-            "datacoverage": 1,
-            "id": "COOP:455655",
-            "elevationUnit": "METERS",
-            "longitude": -122.48333
-        },
-        {
             "elevation": 594.4,
             "mindate": "1924-05-01",
             "maxdate": "2015-11-01",
@@ -2715,11 +1780,11 @@
         },
         {
             "elevation": 1266.1,
-            "mindate": "1926-11-01",
+            "mindate": "1948-08-03",
             "maxdate": "1983-01-01",
             "latitude": 48.86667,
             "name": "MOUNT BAKER LODGE, WA US",
-            "datacoverage": 0.6337,
+            "datacoverage": 0.0864,
             "id": "COOP:455663",
             "elevationUnit": "METERS",
             "longitude": -121.66667
@@ -2734,17 +1799,6 @@
             "id": "COOP:455668",
             "elevationUnit": "METERS",
             "longitude": -122.1641
-        },
-        {
-            "elevation": 1610,
-            "mindate": "1935-08-01",
-            "maxdate": "1951-11-01",
-            "latitude": 47.91667,
-            "name": "MOUNT SPOKANE, WA US",
-            "datacoverage": 0.3928,
-            "id": "COOP:455673",
-            "elevationUnit": "METERS",
-            "longitude": -117.13333
         },
         {
             "elevation": 1795.9,
@@ -2767,28 +1821,6 @@
             "id": "COOP:455678",
             "elevationUnit": "METERS",
             "longitude": -122.38667
-        },
-        {
-            "elevation": 244.1,
-            "mindate": "1931-07-01",
-            "maxdate": "1949-05-01",
-            "latitude": 47.76667,
-            "name": "DUVALL 3 NE, WA US",
-            "datacoverage": 0.9068,
-            "id": "COOP:455680",
-            "elevationUnit": "METERS",
-            "longitude": -121.93333
-        },
-        {
-            "elevation": 305.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1945-05-01",
-            "latitude": 46.58333,
-            "name": "MOXEE, WA US",
-            "datacoverage": 1,
-            "id": "COOP:455686",
-            "elevationUnit": "METERS",
-            "longitude": -120.43333
         },
         {
             "elevation": 472.4,
@@ -2818,21 +1850,10 @@
             "maxdate": "2014-01-01",
             "latitude": 46.8667,
             "name": "NACHES 10 NW, WA US",
-            "datacoverage": 0.8497,
+            "datacoverage": 0.0201,
             "id": "COOP:455731",
             "elevationUnit": "METERS",
             "longitude": -120.7747
-        },
-        {
-            "elevation": 570,
-            "mindate": "1919-01-01",
-            "maxdate": "1947-10-01",
-            "latitude": 46.65,
-            "name": "NACHES HEIGHTS, WA US",
-            "datacoverage": 0.9885,
-            "id": "COOP:455736",
-            "elevationUnit": "METERS",
-            "longitude": -120.63333
         },
         {
             "elevation": 15.2,
@@ -2844,28 +1865,6 @@
             "id": "COOP:455774",
             "elevationUnit": "METERS",
             "longitude": -123.753
-        },
-        {
-            "elevation": 433.1,
-            "mindate": "1964-03-01",
-            "maxdate": "1966-03-01",
-            "latitude": 46.43333,
-            "name": "NASELLE AIR FORCE ST, WA US",
-            "datacoverage": 0.1633,
-            "id": "COOP:455777",
-            "elevationUnit": "METERS",
-            "longitude": -123.8
-        },
-        {
-            "elevation": 3,
-            "mindate": "1929-10-01",
-            "maxdate": "1987-04-01",
-            "latitude": 48.36667,
-            "name": "NEAH BAY 1 E, WA US",
-            "datacoverage": 0.8742,
-            "id": "COOP:455801",
-            "elevationUnit": "METERS",
-            "longitude": -124.61667
         },
         {
             "elevation": 576.1,
@@ -2912,17 +1911,6 @@
             "longitude": -122.1436
         },
         {
-            "elevation": 59.1,
-            "mindate": "1919-01-01",
-            "maxdate": "1953-04-30",
-            "latitude": 46.29888,
-            "name": "NORTH HEAD, WA US",
-            "datacoverage": 0.9418,
-            "id": "COOP:455932",
-            "elevationUnit": "METERS",
-            "longitude": -124.07777
-        },
-        {
             "elevation": 456.3,
             "mindate": "1920-01-01",
             "maxdate": "2015-11-01",
@@ -2932,17 +1920,6 @@
             "id": "COOP:455946",
             "elevationUnit": "METERS",
             "longitude": -117.82899
-        },
-        {
-            "elevation": 412.1,
-            "mindate": "1959-04-30",
-            "maxdate": "1961-01-01",
-            "latitude": 48.95,
-            "name": "NORTHPORT 6 ENE, WA US",
-            "datacoverage": 0.0685,
-            "id": "COOP:455949",
-            "elevationUnit": "METERS",
-            "longitude": -117.66667
         },
         {
             "elevation": 24.4,
@@ -2967,17 +1944,6 @@
             "longitude": -118.69613
         },
         {
-            "elevation": 256,
-            "mindate": "1926-03-01",
-            "maxdate": "1950-01-01",
-            "latitude": 48.36667,
-            "name": "OKANOGAN, WA US",
-            "datacoverage": 0.9719,
-            "id": "COOP:456073",
-            "elevationUnit": "METERS",
-            "longitude": -119.58333
-        },
-        {
             "elevation": 24.4,
             "mindate": "1919-01-01",
             "maxdate": "2015-11-01",
@@ -2987,17 +1953,6 @@
             "id": "COOP:456096",
             "elevationUnit": "METERS",
             "longitude": -122.8063
-        },
-        {
-            "elevation": 9.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1955-12-01",
-            "latitude": 47.06667,
-            "name": "OLYMPIA PRIEST PT PA, WA US",
-            "datacoverage": 1,
-            "id": "COOP:456109",
-            "elevationUnit": "METERS",
-            "longitude": -122.88333
         },
         {
             "elevation": 57.3,
@@ -3044,28 +1999,6 @@
             "longitude": -119.43333
         },
         {
-            "elevation": 323.1,
-            "mindate": "1919-01-01",
-            "maxdate": "1964-12-31",
-            "latitude": 48.96667,
-            "name": "OROVILLE 3 NW, WA US",
-            "datacoverage": 0.9618,
-            "id": "COOP:456188",
-            "elevationUnit": "METERS",
-            "longitude": -119.5
-        },
-        {
-            "elevation": 107,
-            "mindate": "1949-01-01",
-            "maxdate": "1950-03-01",
-            "latitude": 47.03333,
-            "name": "ORTING 4 S, WA US",
-            "datacoverage": 0.669,
-            "id": "COOP:456201",
-            "elevationUnit": "METERS",
-            "longitude": -122.2
-        },
-        {
             "elevation": 362.7,
             "mindate": "1941-03-01",
             "maxdate": "2002-10-01",
@@ -3099,59 +2032,15 @@
             "longitude": -121.8513
         },
         {
-            "elevation": 805,
-            "mindate": "1931-01-01",
-            "maxdate": "1944-11-01",
-            "latitude": 46.98333,
-            "name": "PARKWAY, WA US",
-            "datacoverage": 0.7664,
-            "id": "COOP:456381",
-            "elevationUnit": "METERS",
-            "longitude": -121.53333
-        },
-        {
-            "elevation": 1068,
-            "mindate": "1930-12-01",
-            "maxdate": "1966-10-01",
-            "latitude": 46.9,
-            "name": "WHITE RIVER RANGER STATION, WA US",
-            "datacoverage": 0.5678,
-            "id": "COOP:456385",
-            "elevationUnit": "METERS",
-            "longitude": -121.55
-        },
-        {
             "elevation": 106.7,
-            "mindate": "1931-01-01",
+            "mindate": "1948-08-01",
             "maxdate": "2003-02-01",
             "latitude": 46.22639,
             "name": "PASCO, WA US",
-            "datacoverage": 0.659,
+            "datacoverage": 0.021,
             "id": "COOP:456400",
             "elevationUnit": "METERS",
             "longitude": -119.10333
-        },
-        {
-            "elevation": 253,
-            "mindate": "1937-05-01",
-            "maxdate": "1943-01-01",
-            "latitude": 48.05,
-            "name": "PATEROS, WA US",
-            "datacoverage": 0.9991,
-            "id": "COOP:456410",
-            "elevationUnit": "METERS",
-            "longitude": -119.9
-        },
-        {
-            "elevation": 1220.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1936-07-01",
-            "latitude": 46.33333,
-            "name": "PEOLA, WA US",
-            "datacoverage": 0.9852,
-            "id": "COOP:456456",
-            "elevationUnit": "METERS",
-            "longitude": -117.46667
         },
         {
             "elevation": 318.2,
@@ -3163,17 +2052,6 @@
             "id": "COOP:456472",
             "elevationUnit": "METERS",
             "longitude": -120.6203
-        },
-        {
-            "elevation": 200.9,
-            "mindate": "1927-06-01",
-            "maxdate": "1953-04-01",
-            "latitude": 46.0625,
-            "name": "COUGAR 6 E, WA US",
-            "datacoverage": 0.9711,
-            "id": "COOP:456477",
-            "elevationUnit": "METERS",
-            "longitude": -122.2044
         },
         {
             "elevation": 353.6,
@@ -3242,28 +2120,6 @@
             "longitude": -123.4316
         },
         {
-            "elevation": 1606.9,
-            "mindate": "1948-07-04",
-            "maxdate": "1948-07-26",
-            "latitude": 47.95,
-            "name": "PORT ANGELES 14 SE, WA US",
-            "datacoverage": 0.0604,
-            "id": "COOP:456629",
-            "elevationUnit": "METERS",
-            "longitude": -123.26667
-        },
-        {
-            "elevation": 6.1,
-            "mindate": "1919-01-01",
-            "maxdate": "1953-01-01",
-            "latitude": 48.13944,
-            "name": "PORT ANGELES WEATHER BUREAU AIRPORT, WA ",
-            "datacoverage": 0.9412,
-            "id": "COOP:456634",
-            "elevationUnit": "METERS",
-            "longitude": -123.4025
-        },
-        {
             "elevation": 30.5,
             "mindate": "1919-01-01",
             "maxdate": "2010-01-01",
@@ -3297,28 +2153,6 @@
             "longitude": -119.9061
         },
         {
-            "elevation": 232,
-            "mindate": "1933-03-01",
-            "maxdate": "1949-12-01",
-            "latitude": 45.6,
-            "name": "WASHOUGAL 8 ENE, WA US",
-            "datacoverage": 0.9008,
-            "id": "COOP:456753",
-            "elevationUnit": "METERS",
-            "longitude": -122.18333
-        },
-        {
-            "elevation": 207,
-            "mindate": "1919-01-01",
-            "maxdate": "1963-01-01",
-            "latitude": 46.2,
-            "name": "PROSSER, WA US",
-            "datacoverage": 0.9943,
-            "id": "COOP:456763",
-            "elevationUnit": "METERS",
-            "longitude": -119.76667
-        },
-        {
             "elevation": 253,
             "mindate": "1924-06-01",
             "maxdate": "2015-11-01",
@@ -3328,17 +2162,6 @@
             "id": "COOP:456768",
             "elevationUnit": "METERS",
             "longitude": -119.758
-        },
-        {
-            "elevation": 787,
-            "mindate": "1919-01-01",
-            "maxdate": "1954-03-01",
-            "latitude": 46.73333,
-            "name": "PULLMAN EXPERIMENTAL STATION, WA US",
-            "datacoverage": 1,
-            "id": "COOP:456784",
-            "elevationUnit": "METERS",
-            "longitude": -117.16667
         },
         {
             "elevation": 766.6,
@@ -3363,28 +2186,6 @@
             "longitude": -122.33333
         },
         {
-            "elevation": 9.1,
-            "mindate": "1949-01-01",
-            "maxdate": "1949-04-01",
-            "latitude": 47.2,
-            "name": "PUYALLUP 3 W, WA US",
-            "datacoverage": 1,
-            "id": "COOP:456808",
-            "elevationUnit": "METERS",
-            "longitude": -122.33333
-        },
-        {
-            "elevation": 3,
-            "mindate": "1926-01-01",
-            "maxdate": "1944-01-01",
-            "latitude": 48.2,
-            "name": "PYSHT, WA US",
-            "datacoverage": 0.2535,
-            "id": "COOP:456824",
-            "elevationUnit": "METERS",
-            "longitude": -124.11667
-        },
-        {
             "elevation": 37.5,
             "mindate": "1920-04-01",
             "maxdate": "2015-11-01",
@@ -3401,7 +2202,7 @@
             "maxdate": "2014-01-01",
             "latitude": 47.7847,
             "name": "QUILCENE 5 SW DAM, WA US",
-            "datacoverage": 1,
+            "datacoverage": 0.0732,
             "id": "COOP:456851",
             "elevationUnit": "METERS",
             "longitude": -122.9797
@@ -3429,17 +2230,6 @@
             "longitude": -123.8497
         },
         {
-            "elevation": 402.9,
-            "mindate": "1943-10-01",
-            "maxdate": "1952-08-01",
-            "latitude": 47.25,
-            "name": "QUINCY 1 NE 27, WA US",
-            "datacoverage": 0.71,
-            "id": "COOP:456875",
-            "elevationUnit": "METERS",
-            "longitude": -119.83333
-        },
-        {
             "elevation": 392,
             "mindate": "1941-03-01",
             "maxdate": "2015-11-01",
@@ -3449,17 +2239,6 @@
             "id": "COOP:456880",
             "elevationUnit": "METERS",
             "longitude": -119.8524
-        },
-        {
-            "elevation": 85,
-            "mindate": "1931-01-01",
-            "maxdate": "1963-04-01",
-            "latitude": 46.63333,
-            "name": "RAINBOW FALLS PARK 2, WA US",
-            "datacoverage": 0.9486,
-            "id": "COOP:456887",
-            "elevationUnit": "METERS",
-            "longitude": -123.18333
         },
         {
             "elevation": 528.8,
@@ -3540,25 +2319,14 @@
         },
         {
             "elevation": 801.6,
-            "mindate": "1948-01-01",
+            "mindate": "1948-07-01",
             "maxdate": "2014-01-01",
             "latitude": 48.6501,
             "name": "REPUBLIC RANGER STATION, WA US",
-            "datacoverage": 0.9116,
+            "datacoverage": 0.0348,
             "id": "COOP:456982",
             "elevationUnit": "METERS",
             "longitude": -118.7325
-        },
-        {
-            "elevation": 9.1,
-            "mindate": "1949-06-01",
-            "maxdate": "1958-07-01",
-            "latitude": 48.43333,
-            "name": "RICHARDSON 3 SE, WA US",
-            "datacoverage": 0.9455,
-            "id": "COOP:457010",
-            "elevationUnit": "METERS",
-            "longitude": -122.83333
         },
         {
             "elevation": 113.7,
@@ -3594,17 +2362,6 @@
             "longitude": -118.3714
         },
         {
-            "elevation": 198.1,
-            "mindate": "1919-02-01",
-            "maxdate": "1946-11-01",
-            "latitude": 47.38333,
-            "name": "ROCK ISLAND, WA US",
-            "datacoverage": 0.9821,
-            "id": "COOP:457105",
-            "elevationUnit": "METERS",
-            "longitude": -120.15
-        },
-        {
             "elevation": 737.6,
             "mindate": "1919-01-01",
             "maxdate": "2015-11-01",
@@ -3627,17 +2384,6 @@
             "longitude": -121.0722
         },
         {
-            "elevation": 317,
-            "mindate": "1966-07-01",
-            "maxdate": "1969-03-01",
-            "latitude": 46.93333,
-            "name": "ROYAL CITY, WA US",
-            "datacoverage": 0.9994,
-            "id": "COOP:457201",
-            "elevationUnit": "METERS",
-            "longitude": -119.65
-        },
-        {
             "elevation": 366.1,
             "mindate": "1969-07-01",
             "maxdate": "1970-08-01",
@@ -3647,17 +2393,6 @@
             "id": "COOP:457209",
             "elevationUnit": "METERS",
             "longitude": -119.58333
-        },
-        {
-            "elevation": 438.9,
-            "mindate": "1919-01-01",
-            "maxdate": "1956-12-01",
-            "latitude": 47.13333,
-            "name": "RUFF 3 SW, WA US",
-            "datacoverage": 0.9013,
-            "id": "COOP:457223",
-            "elevationUnit": "METERS",
-            "longitude": -119.05
         },
         {
             "elevation": 181.4,
@@ -3704,39 +2439,6 @@
             "longitude": -124.11667
         },
         {
-            "elevation": 11.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1947-12-01",
-            "latitude": 46.96667,
-            "name": "SATSOP, WA US",
-            "datacoverage": 1,
-            "id": "COOP:457327",
-            "elevationUnit": "METERS",
-            "longitude": -123.53333
-        },
-        {
-            "elevation": 0,
-            "mindate": "1928-05-01",
-            "maxdate": "1953-03-01",
-            "latitude": 47,
-            "name": "SATSOP 1 W, WA US",
-            "datacoverage": 0.7726,
-            "id": "COOP:457328",
-            "elevationUnit": "METERS",
-            "longitude": -123.5
-        },
-        {
-            "elevation": 946.1,
-            "mindate": "1956-06-01",
-            "maxdate": "1967-12-01",
-            "latitude": 46,
-            "name": "SATUS PASS, WA US",
-            "datacoverage": 0.9856,
-            "id": "COOP:457340",
-            "elevationUnit": "METERS",
-            "longitude": -120.65
-        },
-        {
             "elevation": 787.9,
             "mindate": "1967-11-01",
             "maxdate": "2015-11-01",
@@ -3748,17 +2450,6 @@
             "longitude": -120.6669
         },
         {
-            "elevation": 70.1,
-            "mindate": "1949-01-01",
-            "maxdate": "1949-12-01",
-            "latitude": 48.41667,
-            "name": "SAUK, WA US",
-            "datacoverage": 1,
-            "id": "COOP:457349",
-            "elevationUnit": "METERS",
-            "longitude": -121.56667
-        },
-        {
             "elevation": 677,
             "mindate": "1922-01-01",
             "maxdate": "1970-08-01",
@@ -3768,17 +2459,6 @@
             "id": "COOP:457379",
             "elevationUnit": "METERS",
             "longitude": -121.15
-        },
-        {
-            "elevation": 6.1,
-            "mindate": "1965-10-01",
-            "maxdate": "1967-10-31",
-            "latitude": 47.53028,
-            "name": "SEATTLE BOEING FIELD, WA US",
-            "datacoverage": 0.0414,
-            "id": "COOP:457456",
-            "elevationUnit": "METERS",
-            "longitude": -122.30083
         },
         {
             "elevation": 5.8,
@@ -3801,28 +2481,6 @@
             "id": "COOP:457459",
             "elevationUnit": "METERS",
             "longitude": -122.33333
-        },
-        {
-            "elevation": 128.9,
-            "mindate": "1941-05-01",
-            "maxdate": "1960-10-01",
-            "latitude": 47.7,
-            "name": "SEATTLE MAPLE LEAF R, WA US",
-            "datacoverage": 0.91,
-            "id": "COOP:457463",
-            "elevationUnit": "METERS",
-            "longitude": -122.31667
-        },
-        {
-            "elevation": 14.9,
-            "mindate": "1929-08-01",
-            "maxdate": "1964-02-01",
-            "latitude": 47.68333,
-            "name": "SEATTLE NAS, WA US",
-            "datacoverage": 0.9808,
-            "id": "COOP:457468",
-            "elevationUnit": "METERS",
-            "longitude": -122.26667
         },
         {
             "elevation": 18.3,
@@ -3856,17 +2514,6 @@
             "id": "COOP:457478",
             "elevationUnit": "METERS",
             "longitude": -122.28333
-        },
-        {
-            "elevation": 4.3,
-            "mindate": "1929-02-01",
-            "maxdate": "1967-10-01",
-            "latitude": 47.53333,
-            "name": "SEATTLE BOEING FIELD, WA US",
-            "datacoverage": 1,
-            "id": "COOP:457483",
-            "elevationUnit": "METERS",
-            "longitude": -122.31667
         },
         {
             "elevation": 4,
@@ -3957,17 +2604,6 @@
             "longitude": -121.7
         },
         {
-            "elevation": 1222.9,
-            "mindate": "1934-10-01",
-            "maxdate": "1943-09-01",
-            "latitude": 46.23333,
-            "name": "SIGNAL PEAK, WA US",
-            "datacoverage": 0.6667,
-            "id": "COOP:457625",
-            "elevationUnit": "METERS",
-            "longitude": -121.13333
-        },
-        {
             "elevation": 975.4,
             "mindate": "1982-10-01",
             "maxdate": "1989-04-01",
@@ -3984,32 +2620,10 @@
             "maxdate": "1988-06-01",
             "latitude": 48.06667,
             "name": "SILVERTON, WA US",
-            "datacoverage": 0.9711,
+            "datacoverage": 0.2049,
             "id": "COOP:457657",
             "elevationUnit": "METERS",
             "longitude": -121.56667
-        },
-        {
-            "elevation": 335.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1943-08-01",
-            "latitude": 45.83333,
-            "name": "SIXPRONG, WA US",
-            "datacoverage": 0.9014,
-            "id": "COOP:457680",
-            "elevationUnit": "METERS",
-            "longitude": -120.11667
-        },
-        {
-            "elevation": 160,
-            "mindate": "1925-01-01",
-            "maxdate": "1958-12-01",
-            "latitude": 48.6758,
-            "name": "NEWHALEM, WA US",
-            "datacoverage": 0.9976,
-            "id": "COOP:457690",
-            "elevationUnit": "METERS",
-            "longitude": -121.2419
         },
         {
             "elevation": 132.6,
@@ -4021,17 +2635,6 @@
             "id": "COOP:457696",
             "elevationUnit": "METERS",
             "longitude": -122.2178
-        },
-        {
-            "elevation": 284.1,
-            "mindate": "1935-08-01",
-            "maxdate": "1955-09-01",
-            "latitude": 47.7,
-            "name": "SKYKOMISH, WA US",
-            "datacoverage": 0.6597,
-            "id": "COOP:457708",
-            "elevationUnit": "METERS",
-            "longitude": -121.36667
         },
         {
             "elevation": 313.9,
@@ -4078,17 +2681,6 @@
             "longitude": -121.4138
         },
         {
-            "elevation": 670.9,
-            "mindate": "1948-01-01",
-            "maxdate": "1949-11-01",
-            "latitude": 47.4,
-            "name": "SNOQUALMIE PASS 4 W, WA US",
-            "datacoverage": 1,
-            "id": "COOP:457786",
-            "elevationUnit": "METERS",
-            "longitude": -121.45
-        },
-        {
             "elevation": 736.1,
             "mindate": "2010-06-01",
             "maxdate": "2015-11-01",
@@ -4098,39 +2690,6 @@
             "id": "COOP:457794",
             "elevationUnit": "METERS",
             "longitude": -121.3533
-        },
-        {
-            "elevation": 502.9,
-            "mindate": "1963-07-01",
-            "maxdate": "1963-09-01",
-            "latitude": 47.96667,
-            "name": "SOL DUC HOT SPRINGS, WA US",
-            "datacoverage": 0.9925,
-            "id": "COOP:457808",
-            "elevationUnit": "METERS",
-            "longitude": -123.86667
-        },
-        {
-            "elevation": 177.1,
-            "mindate": "1945-01-01",
-            "maxdate": "1956-08-29",
-            "latitude": 47.23333,
-            "name": "SOUTH OLYMPIC TREE F, WA US",
-            "datacoverage": 1,
-            "id": "COOP:457871",
-            "elevationUnit": "METERS",
-            "longitude": -123.58333
-        },
-        {
-            "elevation": 987.9,
-            "mindate": "1932-10-01",
-            "maxdate": "1958-01-01",
-            "latitude": 46.26667,
-            "name": "SPIRIT LAKE RANGER STATION, WA US",
-            "datacoverage": 0.8118,
-            "id": "COOP:457919",
-            "elevationUnit": "METERS",
-            "longitude": -122.15
         },
         {
             "elevation": 573,
@@ -4232,17 +2791,6 @@
             "longitude": -120.7264
         },
         {
-            "elevation": 96.9,
-            "mindate": "1948-01-01",
-            "maxdate": "1952-03-01",
-            "latitude": 45.71667,
-            "name": "STEVENSON, WA US",
-            "datacoverage": 1,
-            "id": "COOP:458081",
-            "elevationUnit": "METERS",
-            "longitude": -121.83333
-        },
-        {
             "elevation": 1240.5,
             "mindate": "1939-01-01",
             "maxdate": "2014-01-01",
@@ -4252,28 +2800,6 @@
             "id": "COOP:458089",
             "elevationUnit": "METERS",
             "longitude": -121.0913
-        },
-        {
-            "elevation": 670.9,
-            "mindate": "1919-01-01",
-            "maxdate": "1963-05-01",
-            "latitude": 48.36667,
-            "name": "STOCKDILL RANCH, WA US",
-            "datacoverage": 0.9813,
-            "id": "COOP:458115",
-            "elevationUnit": "METERS",
-            "longitude": -120.33333
-        },
-        {
-            "elevation": 793.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1941-07-01",
-            "latitude": 48.85,
-            "name": "SULLIVAN LAKE NEAR, WA US",
-            "datacoverage": 1,
-            "id": "COOP:458159",
-            "elevationUnit": "METERS",
-            "longitude": -117.3
         },
         {
             "elevation": 227.7,
@@ -4332,7 +2858,7 @@
         },
         {
             "elevation": 99.1,
-            "mindate": "1948-07-05",
+            "mindate": "1949-09-01",
             "maxdate": "2007-06-01",
             "latitude": 46.4686,
             "name": "TOLEDO, WA US",
@@ -4340,17 +2866,6 @@
             "id": "COOP:458500",
             "elevationUnit": "METERS",
             "longitude": -122.8406
-        },
-        {
-            "elevation": 18.3,
-            "mindate": "1949-01-01",
-            "maxdate": "1951-03-01",
-            "latitude": 47.66667,
-            "name": "CARNATION 1 NW, WA US",
-            "datacoverage": 0.4825,
-            "id": "COOP:458506",
-            "elevationUnit": "METERS",
-            "longitude": -121.91667
         },
         {
             "elevation": 609.6,
@@ -4386,72 +2901,6 @@
             "longitude": -119.26
         },
         {
-            "elevation": 1068,
-            "mindate": "1962-05-01",
-            "maxdate": "1965-08-01",
-            "latitude": 48.66667,
-            "name": "TONASKET 11 WSW, WA US",
-            "datacoverage": 0.9488,
-            "id": "COOP:458525",
-            "elevationUnit": "METERS",
-            "longitude": -119.66667
-        },
-        {
-            "elevation": 134.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1940-09-01",
-            "latitude": 46.03333,
-            "name": "TOUCHET, WA US",
-            "datacoverage": 0.8975,
-            "id": "COOP:458540",
-            "elevationUnit": "METERS",
-            "longitude": -118.66667
-        },
-        {
-            "elevation": 1097.9,
-            "mindate": "1931-06-01",
-            "maxdate": "1943-09-01",
-            "latitude": 46.11667,
-            "name": "TOUCHET RIDGE, WA US",
-            "datacoverage": 0.9662,
-            "id": "COOP:458543",
-            "elevationUnit": "METERS",
-            "longitude": -117.98333
-        },
-        {
-            "elevation": 171,
-            "mindate": "1919-01-01",
-            "maxdate": "1960-12-01",
-            "latitude": 47.21667,
-            "name": "TRINIDAD 2 SSE, WA US",
-            "datacoverage": 0.998,
-            "id": "COOP:458579",
-            "elevationUnit": "METERS",
-            "longitude": -120
-        },
-        {
-            "elevation": 670.9,
-            "mindate": "1963-11-01",
-            "maxdate": "1964-01-01",
-            "latitude": 48.36667,
-            "name": "STOCKDILL RANCH, WA US",
-            "datacoverage": 0.9925,
-            "id": "COOP:458662",
-            "elevationUnit": "METERS",
-            "longitude": -120.33333
-        },
-        {
-            "elevation": 384,
-            "mindate": "1948-08-01",
-            "maxdate": "1962-02-01",
-            "latitude": 45.73333,
-            "name": "UNDERWOOD 4 W, WA US",
-            "datacoverage": 0.88,
-            "id": "COOP:458688",
-            "elevationUnit": "METERS",
-            "longitude": -121.6
-        },
-        {
             "elevation": 210.3,
             "mindate": "1964-11-01",
             "maxdate": "2015-11-01",
@@ -4461,39 +2910,6 @@
             "id": "COOP:458715",
             "elevationUnit": "METERS",
             "longitude": -121.693
-        },
-        {
-            "elevation": 259.1,
-            "mindate": "1960-04-01",
-            "maxdate": "1965-11-01",
-            "latitude": 48.66667,
-            "name": "UPPER BAKER RIVER, WA US",
-            "datacoverage": 0.9997,
-            "id": "COOP:458718",
-            "elevationUnit": "METERS",
-            "longitude": -121.71667
-        },
-        {
-            "elevation": 939.1,
-            "mindate": "1960-01-01",
-            "maxdate": "1961-03-01",
-            "latitude": 48.65,
-            "name": "UPPER PINE CREEK, WA US",
-            "datacoverage": 1,
-            "id": "COOP:458728",
-            "elevationUnit": "METERS",
-            "longitude": -119.65
-        },
-        {
-            "elevation": 1049.1,
-            "mindate": "1961-04-01",
-            "maxdate": "1962-04-01",
-            "latitude": 48.66667,
-            "name": "UPPER PINE CREEK 2, WA US",
-            "datacoverage": 1,
-            "id": "COOP:458729",
-            "elevationUnit": "METERS",
-            "longitude": -119.63333
         },
         {
             "elevation": 64,
@@ -4507,17 +2923,6 @@
             "longitude": -122.651
         },
         {
-            "elevation": 0.6,
-            "mindate": "1931-01-01",
-            "maxdate": "1959-01-01",
-            "latitude": 45.6211,
-            "name": "VANCOUVER INTERSTATE BR., WA US",
-            "datacoverage": 0.9673,
-            "id": "COOP:458778",
-            "elevationUnit": "METERS",
-            "longitude": -122.6742
-        },
-        {
             "elevation": 1503,
             "mindate": "1982-10-01",
             "maxdate": "1985-10-01",
@@ -4529,17 +2934,6 @@
             "longitude": -122.15
         },
         {
-            "elevation": 70.1,
-            "mindate": "1919-01-01",
-            "maxdate": "1955-02-01",
-            "latitude": 47.45,
-            "name": "VASHON ISLAND, WA US",
-            "datacoverage": 0.9195,
-            "id": "COOP:458802",
-            "elevationUnit": "METERS",
-            "longitude": -122.5
-        },
-        {
             "elevation": 297.2,
             "mindate": "1971-01-01",
             "maxdate": "2013-09-01",
@@ -4549,28 +2943,6 @@
             "id": "COOP:458838",
             "elevationUnit": "METERS",
             "longitude": -121.7772
-        },
-        {
-            "elevation": 128,
-            "mindate": "1931-01-01",
-            "maxdate": "1944-08-01",
-            "latitude": 46.65,
-            "name": "WAHLUKE, WA US",
-            "datacoverage": 0.9999,
-            "id": "COOP:458903",
-            "elevationUnit": "METERS",
-            "longitude": -119.71667
-        },
-        {
-            "elevation": 244.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1962-10-01",
-            "latitude": 46.05,
-            "name": "WALLA WALLA 3 W, WA US",
-            "datacoverage": 0.9371,
-            "id": "COOP:458926",
-            "elevationUnit": "METERS",
-            "longitude": -118.4
         },
         {
             "elevation": 1086,
@@ -4639,17 +3011,6 @@
             "longitude": -120.4203
         },
         {
-            "elevation": 232,
-            "mindate": "1950-05-01",
-            "maxdate": "1964-12-01",
-            "latitude": 45.6,
-            "name": "WASHOUGAL 8 ENE, WA US",
-            "datacoverage": 0.9486,
-            "id": "COOP:458999",
-            "elevationUnit": "METERS",
-            "longitude": -122.18333
-        },
-        {
             "elevation": 812,
             "mindate": "1919-01-01",
             "maxdate": "2015-11-01",
@@ -4672,17 +3033,6 @@
             "longitude": -122.7027
         },
         {
-            "elevation": 214,
-            "mindate": "1927-12-01",
-            "maxdate": "1965-10-01",
-            "latitude": 46.65,
-            "name": "WAWAWAI 2 NW, WA US",
-            "datacoverage": 0.8813,
-            "id": "COOP:459024",
-            "elevationUnit": "METERS",
-            "longitude": -117.4
-        },
-        {
             "elevation": 759,
             "mindate": "1923-09-01",
             "maxdate": "2007-12-01",
@@ -4703,17 +3053,6 @@
             "id": "COOP:459074",
             "elevationUnit": "METERS",
             "longitude": -120.31
-        },
-        {
-            "elevation": 670.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1937-03-01",
-            "latitude": 47.36667,
-            "name": "WENATCHEE 6 SW, WA US",
-            "datacoverage": 1,
-            "id": "COOP:459077",
-            "elevationUnit": "METERS",
-            "longitude": -120.36667
         },
         {
             "elevation": 243.8,
@@ -4754,7 +3093,7 @@
             "maxdate": "2003-03-01",
             "latitude": 46.87083,
             "name": "WESTPORT 2 S, WA US",
-            "datacoverage": 0.8446,
+            "datacoverage": 0.104,
             "id": "COOP:459112",
             "elevationUnit": "METERS",
             "longitude": -124.10833
@@ -4769,28 +3108,6 @@
             "id": "COOP:459171",
             "elevationUnit": "METERS",
             "longitude": -121.55
-        },
-        {
-            "elevation": 613,
-            "mindate": "1919-01-01",
-            "maxdate": "1952-11-01",
-            "latitude": 45.76667,
-            "name": "WHITE SALMON 4 NNE, WA US",
-            "datacoverage": 0.9558,
-            "id": "COOP:459183",
-            "elevationUnit": "METERS",
-            "longitude": -121.48333
-        },
-        {
-            "elevation": 627.9,
-            "mindate": "1953-08-01",
-            "maxdate": "1959-04-01",
-            "latitude": 45.81667,
-            "name": "WHITE SALMON 8 NNE, WA US",
-            "datacoverage": 0.9861,
-            "id": "COOP:459185",
-            "elevationUnit": "METERS",
-            "longitude": -121.4
         },
         {
             "elevation": 296,
@@ -4897,7 +3214,7 @@
             "maxdate": "1974-11-01",
             "latitude": 47.71667,
             "name": "WITHROW, WA US",
-            "datacoverage": 0.6449,
+            "datacoverage": 0.0334,
             "id": "COOP:459397",
             "elevationUnit": "METERS",
             "longitude": -119.81667
@@ -4914,28 +3231,6 @@
             "longitude": -122.56667
         },
         {
-            "elevation": 203.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1940-03-01",
-            "latitude": 47.33333,
-            "name": "WYNOOCHEE OXBOW, WA US",
-            "datacoverage": 0.7749,
-            "id": "COOP:459449",
-            "elevationUnit": "METERS",
-            "longitude": -123.63333
-        },
-        {
-            "elevation": 244.1,
-            "mindate": "1919-01-01",
-            "maxdate": "1947-03-01",
-            "latitude": 45.86667,
-            "name": "YACOLT, WA US",
-            "datacoverage": 0.8969,
-            "id": "COOP:459452",
-            "elevationUnit": "METERS",
-            "longitude": -122.4
-        },
-        {
             "elevation": 353.6,
             "mindate": "2008-12-01",
             "maxdate": "2015-11-01",
@@ -4945,17 +3240,6 @@
             "id": "COOP:459455",
             "elevationUnit": "METERS",
             "longitude": -120.60083
-        },
-        {
-            "elevation": 366.1,
-            "mindate": "1919-01-01",
-            "maxdate": "1951-01-01",
-            "latitude": 46.61667,
-            "name": "YAKIMA TERRACE H, WA US",
-            "datacoverage": 0.5506,
-            "id": "COOP:459460",
-            "elevationUnit": "METERS",
-            "longitude": -120.43333
         },
         {
             "elevation": 348.1,
@@ -4985,7 +3269,7 @@
             "maxdate": "1979-01-01",
             "latitude": 46.95,
             "name": "YELM, WA US",
-            "datacoverage": 0.9407,
+            "datacoverage": 0.1003,
             "id": "COOP:459485",
             "elevationUnit": "METERS",
             "longitude": -122.6
@@ -5013,17 +3297,6 @@
             "longitude": -123.0833
         },
         {
-            "elevation": 8,
-            "mindate": "1961-03-01",
-            "maxdate": "1968-08-31",
-            "latitude": 49,
-            "name": "HUNTINGDON METER STATION, WA US",
-            "datacoverage": 0.9661,
-            "id": "GHCND:CA001103635",
-            "elevationUnit": "METERS",
-            "longitude": -122.2167
-        },
-        {
             "elevation": 580,
             "mindate": "1987-06-01",
             "maxdate": "2020-05-07",
@@ -5033,17 +3306,6 @@
             "id": "GHCND:CA001135126",
             "elevationUnit": "METERS",
             "longitude": -118.7667
-        },
-        {
-            "elevation": 673,
-            "mindate": "1954-04-01",
-            "maxdate": "1963-06-30",
-            "latitude": 49,
-            "name": "PATERSON, WA US",
-            "datacoverage": 0.9641,
-            "id": "GHCND:CA001146000",
-            "elevationUnit": "METERS",
-            "longitude": -117.8167
         },
         {
             "elevation": 303.3,
@@ -11004,6 +9266,1744 @@
             "id": "GHCND:US1WASG0046",
             "elevationUnit": "METERS",
             "longitude": -122.624551
+        },
+        {
+            "elevation": 50.6,
+            "mindate": "2014-08-01",
+            "maxdate": "2020-05-17",
+            "latitude": 48.537,
+            "name": "CONCRETE 2.2 W, WA US",
+            "datacoverage": 0.9996,
+            "id": "GHCND:US1WASG0047",
+            "elevationUnit": "METERS",
+            "longitude": -121.797
+        },
+        {
+            "elevation": 65.5,
+            "mindate": "2014-09-01",
+            "maxdate": "2020-05-17",
+            "latitude": 48.586,
+            "name": "BURLINGTON 8.1 N, WA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1WASG0048",
+            "elevationUnit": "METERS",
+            "longitude": -122.329
+        },
+        {
+            "elevation": 79.9,
+            "mindate": "2015-03-01",
+            "maxdate": "2018-09-16",
+            "latitude": 48.619156,
+            "name": "BELLINGHAM 10.3 SSE, WA US",
+            "datacoverage": 0.9973,
+            "id": "GHCND:US1WASG0050",
+            "elevationUnit": "METERS",
+            "longitude": -122.34293
+        },
+        {
+            "elevation": 76.2,
+            "mindate": "2015-11-14",
+            "maxdate": "2017-10-22",
+            "latitude": 48.4884338378906,
+            "name": "ANACORTES 0.5 SE, WA US",
+            "datacoverage": 0.636,
+            "id": "GHCND:US1WASG0051",
+            "elevationUnit": "METERS",
+            "longitude": -122.620216369629
+        },
+        {
+            "elevation": 107.9,
+            "mindate": "2017-02-12",
+            "maxdate": "2020-05-17",
+            "latitude": 48.422808,
+            "name": "MOUNT VERNON 1.5 E, WA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1WASG0052",
+            "elevationUnit": "METERS",
+            "longitude": -122.281721
+        },
+        {
+            "elevation": 63.7,
+            "mindate": "2017-03-20",
+            "maxdate": "2020-05-17",
+            "latitude": 48.51782,
+            "name": "CONCRETE 1.4 SSW, WA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1WASG0053",
+            "elevationUnit": "METERS",
+            "longitude": -121.756339
+        },
+        {
+            "elevation": 2.1,
+            "mindate": "2018-10-26",
+            "maxdate": "2020-05-17",
+            "latitude": 48.391724,
+            "name": "LA CONNER 0.2 ESE, WA US",
+            "datacoverage": 0.946,
+            "id": "GHCND:US1WASG0056",
+            "elevationUnit": "METERS",
+            "longitude": -122.489959
+        },
+        {
+            "elevation": 17.1,
+            "mindate": "2008-05-01",
+            "maxdate": "2020-05-17",
+            "latitude": 48.4566,
+            "name": "FRIDAY HARBOR 6.3 SSE, WA US",
+            "datacoverage": 0.9998,
+            "id": "GHCND:US1WASJ0001",
+            "elevationUnit": "METERS",
+            "longitude": -122.9645
+        },
+        {
+            "elevation": 45.1,
+            "mindate": "2008-09-01",
+            "maxdate": "2013-09-09",
+            "latitude": 48.615026,
+            "name": "FRIDAY HARBOR 6.8 NW, WA US",
+            "datacoverage": 0.5084,
+            "id": "GHCND:US1WASJ0002",
+            "elevationUnit": "METERS",
+            "longitude": -123.121437
+        },
+        {
+            "elevation": 51.5,
+            "mindate": "2008-06-01",
+            "maxdate": "2020-05-17",
+            "latitude": 48.6079,
+            "name": "ORCAS 0.7 NNW, WA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1WASJ0003",
+            "elevationUnit": "METERS",
+            "longitude": -122.9466
+        },
+        {
+            "elevation": 12.8,
+            "mindate": "2008-11-01",
+            "maxdate": "2015-05-11",
+            "latitude": 48.6979,
+            "name": "EASTSOUND 0.3 NW, WA US",
+            "datacoverage": 0.9991,
+            "id": "GHCND:US1WASJ0004",
+            "elevationUnit": "METERS",
+            "longitude": -122.9082
+        },
+        {
+            "elevation": 41.5,
+            "mindate": "2008-11-01",
+            "maxdate": "2015-07-24",
+            "latitude": 48.47771,
+            "name": "LOPEZ ISLAND 2.2 WSW, WA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1WASJ0005",
+            "elevationUnit": "METERS",
+            "longitude": -122.93911
+        },
+        {
+            "elevation": 40.5,
+            "mindate": "2008-12-01",
+            "maxdate": "2020-05-17",
+            "latitude": 48.565175,
+            "name": "FRIDAY HARBOR 6.2 WNW, WA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1WASJ0008",
+            "elevationUnit": "METERS",
+            "longitude": -123.159979
+        },
+        {
+            "elevation": 38.1,
+            "mindate": "2008-12-01",
+            "maxdate": "2011-01-14",
+            "latitude": 48.4971,
+            "name": "FRIDAY HARBOR 2.8 S, WA US",
+            "datacoverage": 0.9992,
+            "id": "GHCND:US1WASJ0009",
+            "elevationUnit": "METERS",
+            "longitude": -123.0415
+        },
+        {
+            "elevation": 145.4,
+            "mindate": "2009-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 48.553843,
+            "name": "FRIDAY HARBOR 4.6 WNW, WA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1WASJ0010",
+            "elevationUnit": "METERS",
+            "longitude": -123.127988
+        },
+        {
+            "elevation": 48.5,
+            "mindate": "2008-12-01",
+            "maxdate": "2019-06-07",
+            "latitude": 48.5336,
+            "name": "FRIDAY HARBOR 0.8 WSW, WA US",
+            "datacoverage": 0.9661,
+            "id": "GHCND:US1WASJ0011",
+            "elevationUnit": "METERS",
+            "longitude": -123.04905
+        },
+        {
+            "elevation": 46.9,
+            "mindate": "1998-06-01",
+            "maxdate": "2009-11-19",
+            "latitude": 48.498102,
+            "name": "FRIDAY HARBOR 3.4 SW, WA US",
+            "datacoverage": 0.499,
+            "id": "GHCND:US1WASJ0012",
+            "elevationUnit": "METERS",
+            "longitude": -123.077365
+        },
+        {
+            "elevation": 39.3,
+            "mindate": "1998-06-01",
+            "maxdate": "2020-05-16",
+            "latitude": 48.5328833,
+            "name": "FRIDAY HARBOR 6.0 W, WA US",
+            "datacoverage": 0.6841,
+            "id": "GHCND:US1WASJ0013",
+            "elevationUnit": "METERS",
+            "longitude": -123.16315
+        },
+        {
+            "elevation": 18.9,
+            "mindate": "2009-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 48.481924,
+            "name": "FRIDAY HARBOR 4.0 SSW, WA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1WASJ0016",
+            "elevationUnit": "METERS",
+            "longitude": -123.061275
+        },
+        {
+            "elevation": 117.3,
+            "mindate": "2009-01-01",
+            "maxdate": "2016-06-10",
+            "latitude": 48.622841,
+            "name": "DEER HARBOR 1.4 NW, WA US",
+            "datacoverage": 0.9889,
+            "id": "GHCND:US1WASJ0017",
+            "elevationUnit": "METERS",
+            "longitude": -123.020447
+        },
+        {
+            "elevation": 25.6,
+            "mindate": "2009-06-01",
+            "maxdate": "2014-02-23",
+            "latitude": 48.668235,
+            "name": "EASTSOUND 1.9 SSW, WA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1WASJ0021",
+            "elevationUnit": "METERS",
+            "longitude": -122.912483
+        },
+        {
+            "elevation": 19.2,
+            "mindate": "2000-03-01",
+            "maxdate": "2014-11-05",
+            "latitude": 48.690305,
+            "name": "EASTSOUND 1.0 ESE, WA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1WASJ0022",
+            "elevationUnit": "METERS",
+            "longitude": -122.883709
+        },
+        {
+            "elevation": 39.9,
+            "mindate": "2009-03-01",
+            "maxdate": "2018-01-02",
+            "latitude": 48.498974,
+            "name": "LOPEZ ISLAND 2.1 NW, WA US",
+            "datacoverage": 0.788,
+            "id": "GHCND:US1WASJ0023",
+            "elevationUnit": "METERS",
+            "longitude": -122.925624
+        },
+        {
+            "elevation": 23.8,
+            "mindate": "2009-05-01",
+            "maxdate": "2011-04-02",
+            "latitude": 48.614462,
+            "name": "OLGA 1.2 ESE, WA US",
+            "datacoverage": 0.959,
+            "id": "GHCND:US1WASJ0024",
+            "elevationUnit": "METERS",
+            "longitude": -122.810735
+        },
+        {
+            "elevation": 11.3,
+            "mindate": "2009-05-01",
+            "maxdate": "2012-02-22",
+            "latitude": 48.434385,
+            "name": "LOPEZ ISLAND 3.3 SE, WA US",
+            "datacoverage": 0.9705,
+            "id": "GHCND:US1WASJ0025",
+            "elevationUnit": "METERS",
+            "longitude": -122.863604
+        },
+        {
+            "elevation": 37.5,
+            "mindate": "2009-09-01",
+            "maxdate": "2020-05-17",
+            "latitude": 48.53535449,
+            "name": "LOPEZ ISLAND 3.9 NNE, WA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1WASJ0028",
+            "elevationUnit": "METERS",
+            "longitude": -122.88736217
+        },
+        {
+            "elevation": 79.2,
+            "mindate": "2010-01-01",
+            "maxdate": "2016-03-20",
+            "latitude": 48.678,
+            "name": "STUART ISLAND 0.2 SW, WA US",
+            "datacoverage": 0.6764,
+            "id": "GHCND:US1WASJ0029",
+            "elevationUnit": "METERS",
+            "longitude": -123.2154
+        },
+        {
+            "elevation": 46,
+            "mindate": "2010-06-01",
+            "maxdate": "2016-04-17",
+            "latitude": 48.6706,
+            "name": "STUART ISLAND 0.7 SW, WA US",
+            "datacoverage": 0.567,
+            "id": "GHCND:US1WASJ0032",
+            "elevationUnit": "METERS",
+            "longitude": -123.21621
+        },
+        {
+            "elevation": 27.4,
+            "mindate": "2010-09-01",
+            "maxdate": "2020-05-16",
+            "latitude": 48.7032,
+            "name": "WALDRON 1.1 NNE, WA US",
+            "datacoverage": 0.9852,
+            "id": "GHCND:US1WASJ0033",
+            "elevationUnit": "METERS",
+            "longitude": -123.0296
+        },
+        {
+            "elevation": 32.3,
+            "mindate": "2011-11-01",
+            "maxdate": "2017-12-04",
+            "latitude": 48.53127,
+            "name": "FRIDAY HARBOR 0.6 SE, WA US",
+            "datacoverage": 0.7686,
+            "id": "GHCND:US1WASJ0035",
+            "elevationUnit": "METERS",
+            "longitude": -123.020673
+        },
+        {
+            "elevation": 12.8,
+            "mindate": "2012-11-01",
+            "maxdate": "2020-05-17",
+            "latitude": 48.433444,
+            "name": "LOPEZ ISLAND 6.7 SSE, WA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1WASJ0036",
+            "elevationUnit": "METERS",
+            "longitude": -122.863466
+        },
+        {
+            "elevation": 155.8,
+            "mindate": "2013-02-01",
+            "maxdate": "2014-09-03",
+            "latitude": 48.604137,
+            "name": "ORCAS 1.5 E, WA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1WASJ0038",
+            "elevationUnit": "METERS",
+            "longitude": -122.908146
+        },
+        {
+            "elevation": 100,
+            "mindate": "2014-08-01",
+            "maxdate": "2020-05-17",
+            "latitude": 48.55683,
+            "name": "FRIDAY HARBOR 2.6 WNW, WA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1WASJ0040",
+            "elevationUnit": "METERS",
+            "longitude": -123.07922
+        },
+        {
+            "elevation": 9.4,
+            "mindate": "2015-01-01",
+            "maxdate": "2017-01-08",
+            "latitude": 48.6954349279404,
+            "name": "EASTSOUND 0.2 WSW, WA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1WASJ0042",
+            "elevationUnit": "METERS",
+            "longitude": -122.909476161003
+        },
+        {
+            "elevation": 3.4,
+            "mindate": "2015-03-01",
+            "maxdate": "2020-05-17",
+            "latitude": 48.58399167,
+            "name": "BLAKELY ISLAND 1.7 NNW, WA US",
+            "datacoverage": 0.9967,
+            "id": "GHCND:US1WASJ0043",
+            "elevationUnit": "METERS",
+            "longitude": -122.8166167
+        },
+        {
+            "elevation": 56.1,
+            "mindate": "2015-07-01",
+            "maxdate": "2020-05-17",
+            "latitude": 48.484475,
+            "name": "LOPEZ ISLAND 1.2 SW, WA US",
+            "datacoverage": 0.9973,
+            "id": "GHCND:US1WASJ0044",
+            "elevationUnit": "METERS",
+            "longitude": -122.902272
+        },
+        {
+            "elevation": 158.5,
+            "mindate": "2008-10-01",
+            "maxdate": "2012-10-29",
+            "latitude": 45.706157,
+            "name": "STEVENSON 1.2 NE, WA US",
+            "datacoverage": 0.7548,
+            "id": "GHCND:US1WASM0003",
+            "elevationUnit": "METERS",
+            "longitude": -121.875383
+        },
+        {
+            "elevation": 371.2,
+            "mindate": "2017-10-01",
+            "maxdate": "2020-05-17",
+            "latitude": 45.728751,
+            "name": "UNDERWOOD 2.1 W, WA US",
+            "datacoverage": 0.9468,
+            "id": "GHCND:US1WASM0006",
+            "elevationUnit": "METERS",
+            "longitude": -121.569398
+        },
+        {
+            "elevation": 192,
+            "mindate": "2007-08-01",
+            "maxdate": "2011-05-16",
+            "latitude": 47.9155922,
+            "name": "PAINE FIELD LAKE STICKNEY 2.1 NNE, WA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1WASN0002",
+            "elevationUnit": "METERS",
+            "longitude": -122.249649
+        },
+        {
+            "elevation": 33.5,
+            "mindate": "2008-06-01",
+            "maxdate": "2020-05-15",
+            "latitude": 47.9916,
+            "name": "EVERETT 2.0 N, WA US",
+            "datacoverage": 0.9973,
+            "id": "GHCND:US1WASN0004",
+            "elevationUnit": "METERS",
+            "longitude": -122.2067
+        },
+        {
+            "elevation": 124.1,
+            "mindate": "2008-08-01",
+            "maxdate": "2013-05-30",
+            "latitude": 48.118698,
+            "name": "MARYSVILLE 6.4 NW, WA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1WASN0006",
+            "elevationUnit": "METERS",
+            "longitude": -122.272622
+        },
+        {
+            "elevation": 66.1,
+            "mindate": "2008-06-01",
+            "maxdate": "2011-11-26",
+            "latitude": 47.823844,
+            "name": "BOTHELL 4.4 N, WA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1WASN0007",
+            "elevationUnit": "METERS",
+            "longitude": -122.205868
+        },
+        {
+            "elevation": 29.9,
+            "mindate": "2008-06-01",
+            "maxdate": "2020-05-17",
+            "latitude": 48.252375,
+            "name": "STANWOOD 0.7 N, WA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1WASN0011",
+            "elevationUnit": "METERS",
+            "longitude": -122.35171
+        },
+        {
+            "elevation": 89.3,
+            "mindate": "2008-06-01",
+            "maxdate": "2020-05-17",
+            "latitude": 47.83021,
+            "name": "BOTHELL 4.9 NNW, WA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1WASN0012",
+            "elevationUnit": "METERS",
+            "longitude": -122.21544
+        },
+        {
+            "elevation": 130.8,
+            "mindate": "2008-08-01",
+            "maxdate": "2010-04-05",
+            "latitude": 47.792761,
+            "name": "BRIER 0.3 W, WA US",
+            "datacoverage": 0.9819,
+            "id": "GHCND:US1WASN0015",
+            "elevationUnit": "METERS",
+            "longitude": -122.278443
+        },
+        {
+            "elevation": 140.8,
+            "mindate": "2008-06-01",
+            "maxdate": "2011-01-08",
+            "latitude": 47.825955,
+            "name": "CLEARVIEW 0.8 SW, WA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1WASN0016",
+            "elevationUnit": "METERS",
+            "longitude": -122.138636
+        },
+        {
+            "elevation": 149.7,
+            "mindate": "2007-09-01",
+            "maxdate": "2014-04-14",
+            "latitude": 47.860494,
+            "name": "LYNNWOOD 2.3 N, WA US",
+            "datacoverage": 0.9129,
+            "id": "GHCND:US1WASN0017",
+            "elevationUnit": "METERS",
+            "longitude": -122.311496
+        },
+        {
+            "elevation": 71,
+            "mindate": "2008-06-01",
+            "maxdate": "2020-05-17",
+            "latitude": 47.9495,
+            "name": "EVERETT 1.0 S, WA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1WASN0020",
+            "elevationUnit": "METERS",
+            "longitude": -122.2006
+        },
+        {
+            "elevation": 131.1,
+            "mindate": "2010-11-01",
+            "maxdate": "2020-05-17",
+            "latitude": 47.787711,
+            "name": "BRIER 0.7 WSW, WA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1WASN0021",
+            "elevationUnit": "METERS",
+            "longitude": -122.284491
+        },
+        {
+            "elevation": 31.7,
+            "mindate": "2008-07-01",
+            "maxdate": "2020-05-17",
+            "latitude": 47.996751,
+            "name": "EVERETT 2.4 NNW, WA US",
+            "datacoverage": 0.9131,
+            "id": "GHCND:US1WASN0027",
+            "elevationUnit": "METERS",
+            "longitude": -122.209573
+        },
+        {
+            "elevation": 86.9,
+            "mindate": "2008-06-01",
+            "maxdate": "2012-10-08",
+            "latitude": 47.818501,
+            "name": "BOTHELL 4.1 NNE, WA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1WASN0029",
+            "elevationUnit": "METERS",
+            "longitude": -122.198608
+        },
+        {
+            "elevation": 164.6,
+            "mindate": "2009-06-01",
+            "maxdate": "2010-09-27",
+            "latitude": 47.8663,
+            "name": "LYNNWOOD 3.3 NNE, WA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1WASN0035",
+            "elevationUnit": "METERS",
+            "longitude": -122.2938
+        },
+        {
+            "elevation": 45.1,
+            "mindate": "2008-09-01",
+            "maxdate": "2009-11-24",
+            "latitude": 47.954248,
+            "name": "EVERETT 2.4 WSW, WA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1WASN0036",
+            "elevationUnit": "METERS",
+            "longitude": -122.247867
+        },
+        {
+            "elevation": 80.5,
+            "mindate": "2008-10-01",
+            "maxdate": "2017-05-31",
+            "latitude": 47.801721,
+            "name": "BRIER 0.8 NE, WA US",
+            "datacoverage": 0.489,
+            "id": "GHCND:US1WASN0037",
+            "elevationUnit": "METERS",
+            "longitude": -122.26252
+        },
+        {
+            "elevation": 121.3,
+            "mindate": "2008-10-01",
+            "maxdate": "2020-04-05",
+            "latitude": 47.808963,
+            "name": "EDMONDS 1.5 SE, WA US",
+            "datacoverage": 0.9668,
+            "id": "GHCND:US1WASN0038",
+            "elevationUnit": "METERS",
+            "longitude": -122.346579
+        },
+        {
+            "elevation": 78,
+            "mindate": "2008-10-01",
+            "maxdate": "2011-04-28",
+            "latitude": 47.964106,
+            "name": "SNOHOMISH 3.5 NNE, WA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1WASN0039",
+            "elevationUnit": "METERS",
+            "longitude": -122.057246
+        },
+        {
+            "elevation": 24.7,
+            "mindate": "2008-11-28",
+            "maxdate": "2020-05-17",
+            "latitude": 48.1093,
+            "name": "NORTH MARYSVILLE 1.3 WNW, WA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1WASN0043",
+            "elevationUnit": "METERS",
+            "longitude": -122.1724
+        },
+        {
+            "elevation": 147.8,
+            "mindate": "2008-12-01",
+            "maxdate": "2010-01-06",
+            "latitude": 47.886599,
+            "name": "SULTAN 1.7 NNE, WA US",
+            "datacoverage": 0.998,
+            "id": "GHCND:US1WASN0047",
+            "elevationUnit": "METERS",
+            "longitude": -121.788257
+        },
+        {
+            "elevation": 16.8,
+            "mindate": "2009-04-01",
+            "maxdate": "2012-11-12",
+            "latitude": 48.065214,
+            "name": "MARYSVILLE 0.4 N, WA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1WASN0054",
+            "elevationUnit": "METERS",
+            "longitude": -122.154053
+        },
+        {
+            "elevation": 104.9,
+            "mindate": "2009-10-01",
+            "maxdate": "2013-03-21",
+            "latitude": 47.8205,
+            "name": "BOTHELL 4.1 NNW, WA US",
+            "datacoverage": 0.9819,
+            "id": "GHCND:US1WASN0056",
+            "elevationUnit": "METERS",
+            "longitude": -122.225
+        },
+        {
+            "elevation": 28,
+            "mindate": "2009-10-01",
+            "maxdate": "2015-11-02",
+            "latitude": 48.1993,
+            "name": "ARLINGTON 1.7 NNE, WA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1WASN0057",
+            "elevationUnit": "METERS",
+            "longitude": -122.1292
+        },
+        {
+            "elevation": 137.2,
+            "mindate": "2010-11-01",
+            "maxdate": "2020-05-16",
+            "latitude": 47.875573,
+            "name": "MILL CREEK 1.8 NE, WA US",
+            "datacoverage": 0.9694,
+            "id": "GHCND:US1WASN0058",
+            "elevationUnit": "METERS",
+            "longitude": -122.176131
+        },
+        {
+            "elevation": 48.5,
+            "mindate": "2009-12-01",
+            "maxdate": "2020-05-17",
+            "latitude": 47.848469,
+            "name": "SULTAN 2.3 ESE, WA US",
+            "datacoverage": 0.9475,
+            "id": "GHCND:US1WASN0064",
+            "elevationUnit": "METERS",
+            "longitude": -121.761917
+        },
+        {
+            "elevation": 153,
+            "mindate": "2010-02-01",
+            "maxdate": "2016-07-27",
+            "latitude": 47.9106,
+            "name": "EVERETT 3.6 S, WA US",
+            "datacoverage": 0.649,
+            "id": "GHCND:US1WASN0067",
+            "elevationUnit": "METERS",
+            "longitude": -122.2017
+        },
+        {
+            "elevation": 22.3,
+            "mindate": "2010-03-01",
+            "maxdate": "2012-02-21",
+            "latitude": 47.852594,
+            "name": "MONROE 0.6 SE, WA US",
+            "datacoverage": 0.9993,
+            "id": "GHCND:US1WASN0068",
+            "elevationUnit": "METERS",
+            "longitude": -121.971183
+        },
+        {
+            "elevation": 39.6,
+            "mindate": "2010-05-01",
+            "maxdate": "2010-10-09",
+            "latitude": 48.245,
+            "name": "STANWOOD 0.4 ENE, WA US",
+            "datacoverage": 0.9925,
+            "id": "GHCND:US1WASN0069",
+            "elevationUnit": "METERS",
+            "longitude": -122.34
+        },
+        {
+            "elevation": 43.9,
+            "mindate": "2010-02-01",
+            "maxdate": "2020-05-17",
+            "latitude": 48.159375,
+            "name": "STANWOOD 5.8 S, WA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1WASN0071",
+            "elevationUnit": "METERS",
+            "longitude": -122.366272
+        },
+        {
+            "elevation": 74.4,
+            "mindate": "2010-10-01",
+            "maxdate": "2015-09-02",
+            "latitude": 48.189848,
+            "name": "STANWOOD 3.7 S, WA US",
+            "datacoverage": 0.9986,
+            "id": "GHCND:US1WASN0072",
+            "elevationUnit": "METERS",
+            "longitude": -122.334136
+        },
+        {
+            "elevation": 120.7,
+            "mindate": "2010-11-01",
+            "maxdate": "2016-10-25",
+            "latitude": 48.027926,
+            "name": "LAKE STEVENS 0.9 NW, WA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1WASN0074",
+            "elevationUnit": "METERS",
+            "longitude": -122.07729
+        },
+        {
+            "elevation": 89.6,
+            "mindate": "2012-03-01",
+            "maxdate": "2013-03-06",
+            "latitude": 47.913286,
+            "name": "MUKILTEO 1.0 SSW, WA US",
+            "datacoverage": 0.9992,
+            "id": "GHCND:US1WASN0081",
+            "elevationUnit": "METERS",
+            "longitude": -122.316152
+        },
+        {
+            "elevation": 102.4,
+            "mindate": "2012-11-01",
+            "maxdate": "2020-05-12",
+            "latitude": 47.80954,
+            "name": "LYNNWOOD 1.6 SE, WA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1WASN0083",
+            "elevationUnit": "METERS",
+            "longitude": -122.28043
+        },
+        {
+            "elevation": 147.2,
+            "mindate": "2013-07-01",
+            "maxdate": "2014-03-06",
+            "latitude": 47.884058,
+            "name": "MUKILTEO 3.0 SSE, WA US",
+            "datacoverage": 0.9998,
+            "id": "GHCND:US1WASN0084",
+            "elevationUnit": "METERS",
+            "longitude": -122.294242
+        },
+        {
+            "elevation": 72.5,
+            "mindate": "2013-11-01",
+            "maxdate": "2014-12-11",
+            "latitude": 47.80934,
+            "name": "WOODINVILLE 5.0 NNW, WA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1WASN0086",
+            "elevationUnit": "METERS",
+            "longitude": -122.16114
+        },
+        {
+            "elevation": 106.4,
+            "mindate": "2013-04-15",
+            "maxdate": "2020-05-17",
+            "latitude": 47.8375930786133,
+            "name": "BOTHELL 5.4 N, WA US",
+            "datacoverage": 0.9996,
+            "id": "GHCND:US1WASN0087",
+            "elevationUnit": "METERS",
+            "longitude": -122.196273803711
+        },
+        {
+            "elevation": 49.1,
+            "mindate": "2017-09-30",
+            "maxdate": "2020-05-17",
+            "latitude": 48.196775,
+            "name": "ARLINGTON 2.1 NW, WA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1WASN0089",
+            "elevationUnit": "METERS",
+            "longitude": -122.170697
+        },
+        {
+            "elevation": 112.8,
+            "mindate": "2015-12-24",
+            "maxdate": "2020-05-17",
+            "latitude": 47.911389,
+            "name": "MUKILTEO 1.1 S, WA US",
+            "datacoverage": 0.8799,
+            "id": "GHCND:US1WASN0090",
+            "elevationUnit": "METERS",
+            "longitude": -122.311111
+        },
+        {
+            "elevation": 102.7,
+            "mindate": "2015-12-09",
+            "maxdate": "2020-05-17",
+            "latitude": 48.063668,
+            "name": "LAKE STEVENS 3.2 N, WA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1WASN0091",
+            "elevationUnit": "METERS",
+            "longitude": -122.057463
+        },
+        {
+            "elevation": 105.8,
+            "mindate": "2016-08-01",
+            "maxdate": "2020-05-17",
+            "latitude": 47.887683,
+            "name": "EVERETT 5.5 SSE, WA US",
+            "datacoverage": 0.856,
+            "id": "GHCND:US1WASN0092",
+            "elevationUnit": "METERS",
+            "longitude": -122.163431
+        },
+        {
+            "elevation": 127.7,
+            "mindate": "2016-10-27",
+            "maxdate": "2020-05-14",
+            "latitude": 47.963589,
+            "name": "WEST LAKE STEVENS 2.1 S, WA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1WASN0094",
+            "elevationUnit": "METERS",
+            "longitude": -122.098353
+        },
+        {
+            "elevation": 33.2,
+            "mindate": "2017-02-09",
+            "maxdate": "2017-11-04",
+            "latitude": 48.1898727416992,
+            "name": "ARLINGTON 1.9 ENE, WA US",
+            "datacoverage": 0.6357,
+            "id": "GHCND:US1WASN0095",
+            "elevationUnit": "METERS",
+            "longitude": -122.104141235352
+        },
+        {
+            "elevation": 133.8,
+            "mindate": "2016-12-26",
+            "maxdate": "2020-05-17",
+            "latitude": 48.12117,
+            "name": "WEALLUP LAKE 1.9 WNW, WA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1WASN0097",
+            "elevationUnit": "METERS",
+            "longitude": -122.342873
+        },
+        {
+            "elevation": 39.3,
+            "mindate": "2018-04-21",
+            "maxdate": "2020-05-17",
+            "latitude": 47.878453,
+            "name": "MONROE 1.8 NW, WA US",
+            "datacoverage": 0.9156,
+            "id": "GHCND:US1WASN0101",
+            "elevationUnit": "METERS",
+            "longitude": -122.006627
+        },
+        {
+            "elevation": 122.2,
+            "mindate": "2018-11-01",
+            "maxdate": "2020-05-17",
+            "latitude": 48.285817,
+            "name": "DARRINGTON 6.6 WNW, WA US",
+            "datacoverage": 0.9536,
+            "id": "GHCND:US1WASN0105",
+            "elevationUnit": "METERS",
+            "longitude": -121.737731
+        },
+        {
+            "elevation": 724.5,
+            "mindate": "2008-05-01",
+            "maxdate": "2009-09-24",
+            "latitude": 47.610081,
+            "name": "SPOKANE 5.2 SSE, WA US",
+            "datacoverage": 0.7804,
+            "id": "GHCND:US1WASP0001",
+            "elevationUnit": "METERS",
+            "longitude": -117.352896
+        },
+        {
+            "elevation": 743.7,
+            "mindate": "2008-05-01",
+            "maxdate": "2012-03-29",
+            "latitude": 47.6222,
+            "name": "SPOKANE 4 SE, WA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1WASP0002",
+            "elevationUnit": "METERS",
+            "longitude": -117.3696
+        },
+        {
+            "elevation": 605,
+            "mindate": "2008-06-01",
+            "maxdate": "2012-04-02",
+            "latitude": 47.74472,
+            "name": "SPOKANE 6.6 NW, WA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1WASP0003",
+            "elevationUnit": "METERS",
+            "longitude": -117.48611
+        },
+        {
+            "elevation": 662,
+            "mindate": "2008-06-01",
+            "maxdate": "2020-05-16",
+            "latitude": 47.591158,
+            "name": "SPOKANE 5.5 S, WA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1WASP0004",
+            "elevationUnit": "METERS",
+            "longitude": -117.415298
+        },
+        {
+            "elevation": 630.3,
+            "mindate": "2008-06-01",
+            "maxdate": "2012-07-16",
+            "latitude": 47.64531,
+            "name": "SPOKANE 8.9 E, WA US",
+            "datacoverage": 0.9799,
+            "id": "GHCND:US1WASP0006",
+            "elevationUnit": "METERS",
+            "longitude": -117.22153
+        },
+        {
+            "elevation": 720.5,
+            "mindate": "2008-06-01",
+            "maxdate": "2008-12-06",
+            "latitude": 47.464791,
+            "name": "CHENEY 5.0 ESE, WA US",
+            "datacoverage": 0.9956,
+            "id": "GHCND:US1WASP0007",
+            "elevationUnit": "METERS",
+            "longitude": -117.479872
+        },
+        {
+            "elevation": 605.9,
+            "mindate": "2008-06-01",
+            "maxdate": "2014-05-31",
+            "latitude": 47.71957,
+            "name": "SPOKANE 5.1 NNW, WA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1WASP0010",
+            "elevationUnit": "METERS",
+            "longitude": -117.47438
+        },
+        {
+            "elevation": 714.5,
+            "mindate": "2008-06-01",
+            "maxdate": "2015-04-14",
+            "latitude": 47.489,
+            "name": "CHENEY 5.1 E, WA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1WASP0011",
+            "elevationUnit": "METERS",
+            "longitude": -117.4698
+        },
+        {
+            "elevation": 552.6,
+            "mindate": "2008-06-01",
+            "maxdate": "2009-11-03",
+            "latitude": 47.7701,
+            "name": "FAIRWOOD 1.1 ENE, WA US",
+            "datacoverage": 0.9998,
+            "id": "GHCND:US1WASP0012",
+            "elevationUnit": "METERS",
+            "longitude": -117.394
+        },
+        {
+            "elevation": 577.9,
+            "mindate": "2008-06-01",
+            "maxdate": "2012-10-19",
+            "latitude": 47.656019,
+            "name": "SPOKANE 1.3 SSW, WA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1WASP0013",
+            "elevationUnit": "METERS",
+            "longitude": -117.429935
+        },
+        {
+            "elevation": 647.1,
+            "mindate": "2008-07-01",
+            "maxdate": "2019-09-12",
+            "latitude": 47.953291,
+            "name": "DEER PARK 2.1 WSW, WA US",
+            "datacoverage": 0.9999,
+            "id": "GHCND:US1WASP0014",
+            "elevationUnit": "METERS",
+            "longitude": -117.476921
+        },
+        {
+            "elevation": 739.7,
+            "mindate": "2008-07-01",
+            "maxdate": "2009-08-04",
+            "latitude": 47.573047,
+            "name": "MEDICAL LAKE 0.7 ENE, WA US",
+            "datacoverage": 0.991,
+            "id": "GHCND:US1WASP0015",
+            "elevationUnit": "METERS",
+            "longitude": -117.677336
+        },
+        {
+            "elevation": 729.1,
+            "mindate": "1998-06-17",
+            "maxdate": "2019-09-20",
+            "latitude": 47.5981,
+            "name": "SPOKANE 5.7 SSE, WA US",
+            "datacoverage": 0.9783,
+            "id": "GHCND:US1WASP0016",
+            "elevationUnit": "METERS",
+            "longitude": -117.3629
+        },
+        {
+            "elevation": 714.5,
+            "mindate": "2008-09-01",
+            "maxdate": "2011-12-06",
+            "latitude": 47.619723,
+            "name": "SPOKANE 3.8 SSE, WA US",
+            "datacoverage": 0.998,
+            "id": "GHCND:US1WASP0017",
+            "elevationUnit": "METERS",
+            "longitude": -117.390618
+        },
+        {
+            "elevation": 726,
+            "mindate": "2009-06-01",
+            "maxdate": "2014-10-06",
+            "latitude": 47.652094,
+            "name": "AIRWAY HEIGHTS 0.5 N, WA US",
+            "datacoverage": 0.7406,
+            "id": "GHCND:US1WASP0021",
+            "elevationUnit": "METERS",
+            "longitude": -117.582829
+        },
+        {
+            "elevation": 474.6,
+            "mindate": "2009-09-01",
+            "maxdate": "2020-05-13",
+            "latitude": 47.8697499,
+            "name": "NINE MILE FALLS 8.7 NW, WA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1WASP0022",
+            "elevationUnit": "METERS",
+            "longitude": -117.6699212
+        },
+        {
+            "elevation": 791.9,
+            "mindate": "2010-01-01",
+            "maxdate": "2012-07-23",
+            "latitude": 47.616584,
+            "name": "SPOKANE 6.0 SE, WA US",
+            "datacoverage": 0.9554,
+            "id": "GHCND:US1WASP0023",
+            "elevationUnit": "METERS",
+            "longitude": -117.314872
+        },
+        {
+            "elevation": 672.7,
+            "mindate": "2010-02-01",
+            "maxdate": "2020-05-04",
+            "latitude": 47.9460912,
+            "name": "CHATTAROY 6.3 NE, WA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1WASP0024",
+            "elevationUnit": "METERS",
+            "longitude": -117.2509124
+        },
+        {
+            "elevation": 609.6,
+            "mindate": "2010-04-01",
+            "maxdate": "2013-06-25",
+            "latitude": 47.649951,
+            "name": "SPOKANE 1.7 SSE, WA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1WASP0025",
+            "elevationUnit": "METERS",
+            "longitude": -117.397033
+        },
+        {
+            "elevation": 580.3,
+            "mindate": "2010-09-01",
+            "maxdate": "2014-09-11",
+            "latitude": 47.794229,
+            "name": "MEAD 1.9 NNE, WA US",
+            "datacoverage": 0.4899,
+            "id": "GHCND:US1WASP0027",
+            "elevationUnit": "METERS",
+            "longitude": -117.341074
+        },
+        {
+            "elevation": 591.9,
+            "mindate": "2011-05-01",
+            "maxdate": "2020-05-14",
+            "latitude": 47.745363,
+            "name": "SPOKANE 5.0 N, WA US",
+            "datacoverage": 0.8469,
+            "id": "GHCND:US1WASP0030",
+            "elevationUnit": "METERS",
+            "longitude": -117.414078
+        },
+        {
+            "elevation": 590.7,
+            "mindate": "2011-07-01",
+            "maxdate": "2015-09-06",
+            "latitude": 48.000722222,
+            "name": "DEER PARK 3.7 NE, WA US",
+            "datacoverage": 0.9408,
+            "id": "GHCND:US1WASP0032",
+            "elevationUnit": "METERS",
+            "longitude": -117.375469
+        },
+        {
+            "elevation": 629.1,
+            "mindate": "2011-09-01",
+            "maxdate": "2014-08-19",
+            "latitude": 47.6477842,
+            "name": "SPOKANE VALLEY 4.2 ESE, WA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1WASP0033",
+            "elevationUnit": "METERS",
+            "longitude": -117.1578642
+        },
+        {
+            "elevation": 624.2,
+            "mindate": "2011-12-01",
+            "maxdate": "2019-09-10",
+            "latitude": 47.715153,
+            "name": "SPOKANE 3.5 NNW, WA US",
+            "datacoverage": 0.7594,
+            "id": "GHCND:US1WASP0034",
+            "elevationUnit": "METERS",
+            "longitude": -117.454726
+        },
+        {
+            "elevation": 694.6,
+            "mindate": "2011-12-01",
+            "maxdate": "2015-09-30",
+            "latitude": 47.660568,
+            "name": "LIBERTY LAKE 1.4 WNW, WA US",
+            "datacoverage": 0.9566,
+            "id": "GHCND:US1WASP0035",
+            "elevationUnit": "METERS",
+            "longitude": -117.111809
+        },
+        {
+            "elevation": 645,
+            "mindate": "2012-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 48.036598,
+            "name": "ELK 2.6 WNW, WA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1WASP0036",
+            "elevationUnit": "METERS",
+            "longitude": -117.324138
+        },
+        {
+            "elevation": 621.5,
+            "mindate": "2013-01-01",
+            "maxdate": "2013-06-21",
+            "latitude": 47.8501968383789,
+            "name": "COLBERT 3.1 WNW, WA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1WASP0037",
+            "elevationUnit": "METERS",
+            "longitude": -117.398788452148
+        },
+        {
+            "elevation": 727.3,
+            "mindate": "2014-06-01",
+            "maxdate": "2020-05-17",
+            "latitude": 47.806925,
+            "name": "SPOKANE 14.6 NW, WA US",
+            "datacoverage": 0.9994,
+            "id": "GHCND:US1WASP0043",
+            "elevationUnit": "METERS",
+            "longitude": -117.65651
+        },
+        {
+            "elevation": 758.3,
+            "mindate": "2017-04-26",
+            "maxdate": "2020-05-17",
+            "latitude": 47.610206,
+            "name": "VERADALE 2.7 S, WA US",
+            "datacoverage": 0.4589,
+            "id": "GHCND:US1WASP0048",
+            "elevationUnit": "METERS",
+            "longitude": -117.20167
+        },
+        {
+            "elevation": 683.1,
+            "mindate": "2017-09-26",
+            "maxdate": "2019-09-30",
+            "latitude": 47.713041,
+            "name": "SPOKANE 7.0 ENE, WA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1WASP0049",
+            "elevationUnit": "METERS",
+            "longitude": -117.275952
+        },
+        {
+            "elevation": 716.9,
+            "mindate": "2017-12-01",
+            "maxdate": "2018-12-09",
+            "latitude": 47.620623,
+            "name": "SPOKANE 3.6 S, WA US",
+            "datacoverage": 0.5743,
+            "id": "GHCND:US1WASP0050",
+            "elevationUnit": "METERS",
+            "longitude": -117.399892
+        },
+        {
+            "elevation": 724.5,
+            "mindate": "2018-04-20",
+            "maxdate": "2019-03-08",
+            "latitude": 47.482281,
+            "name": "CHENEY 0.7 SSW, WA US",
+            "datacoverage": 0.7214,
+            "id": "GHCND:US1WASP0054",
+            "elevationUnit": "METERS",
+            "longitude": -117.586732
+        },
+        {
+            "elevation": 815,
+            "mindate": "2018-10-01",
+            "maxdate": "2020-05-17",
+            "latitude": 47.592601,
+            "name": "GREENACRES 4.9 S, WA US",
+            "datacoverage": 0.8831,
+            "id": "GHCND:US1WASP0056",
+            "elevationUnit": "METERS",
+            "longitude": -117.157164
+        },
+        {
+            "elevation": 551.1,
+            "mindate": "2018-10-20",
+            "maxdate": "2020-05-17",
+            "latitude": 47.76048,
+            "name": "SPOKANE 6.1 N, WA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1WASP0057",
+            "elevationUnit": "METERS",
+            "longitude": -117.43157
+        },
+        {
+            "elevation": 702.3,
+            "mindate": "2008-06-01",
+            "maxdate": "2020-05-17",
+            "latitude": 47.97524,
+            "name": "CLAYTON 2.6 SW, WA US",
+            "datacoverage": 0.9894,
+            "id": "GHCND:US1WAST0001",
+            "elevationUnit": "METERS",
+            "longitude": -117.60608
+        },
+        {
+            "elevation": 487.7,
+            "mindate": "2008-07-01",
+            "maxdate": "2017-04-06",
+            "latitude": 47.890708,
+            "name": "FORD 2.4 SW, WA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1WAST0004",
+            "elevationUnit": "METERS",
+            "longitude": -117.852528
+        },
+        {
+            "elevation": 621.8,
+            "mindate": "2008-08-01",
+            "maxdate": "2019-04-16",
+            "latitude": 48.84852,
+            "name": "NORTHPORT 8.3 SE, WA US",
+            "datacoverage": 0.9783,
+            "id": "GHCND:US1WAST0005",
+            "elevationUnit": "METERS",
+            "longitude": -117.628258
+        },
+        {
+            "elevation": 512.4,
+            "mindate": "2009-03-01",
+            "maxdate": "2010-08-14",
+            "latitude": 48.11885,
+            "name": "HUNTERS 0.7 ENE, WA US",
+            "datacoverage": 0.998,
+            "id": "GHCND:US1WAST0006",
+            "elevationUnit": "METERS",
+            "longitude": -118.185358
+        },
+        {
+            "elevation": 512.1,
+            "mindate": "2009-05-01",
+            "maxdate": "2009-10-28",
+            "latitude": 48.280908,
+            "name": "CHEWELAH 0.6 ESE, WA US",
+            "datacoverage": 0.9947,
+            "id": "GHCND:US1WAST0007",
+            "elevationUnit": "METERS",
+            "longitude": -117.717912
+        },
+        {
+            "elevation": 658.4,
+            "mindate": "2009-08-01",
+            "maxdate": "2012-11-20",
+            "latitude": 48.48787833,
+            "name": "COLVILLE 5.6 SE, WA US",
+            "datacoverage": 0.8996,
+            "id": "GHCND:US1WAST0008",
+            "elevationUnit": "METERS",
+            "longitude": -117.80562748
+        },
+        {
+            "elevation": 823,
+            "mindate": "2010-05-01",
+            "maxdate": "2013-10-27",
+            "latitude": 48.700592,
+            "name": "COLVILLE 11.6 NNE, WA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1WAST0010",
+            "elevationUnit": "METERS",
+            "longitude": -117.7393528
+        },
+        {
+            "elevation": 432.8,
+            "mindate": "2010-06-01",
+            "maxdate": "2020-05-17",
+            "latitude": 48.7368541467934,
+            "name": "EVANS 2.0 NNW, WA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1WAST0011",
+            "elevationUnit": "METERS",
+            "longitude": -118.049790859222
+        },
+        {
+            "elevation": 638.6,
+            "mindate": "2013-11-01",
+            "maxdate": "2014-03-06",
+            "latitude": 48.5362,
+            "name": "COLVILLE 3.0 W, WA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1WAST0014",
+            "elevationUnit": "METERS",
+            "longitude": -117.9606
+        },
+        {
+            "elevation": 539.5,
+            "mindate": "2017-04-07",
+            "maxdate": "2020-05-17",
+            "latitude": 47.902765,
+            "name": "FORD 0.8 SW, WA US",
+            "datacoverage": 0.9173,
+            "id": "GHCND:US1WAST0016",
+            "elevationUnit": "METERS",
+            "longitude": -117.818515
+        },
+        {
+            "elevation": 51.8,
+            "mindate": "2008-05-01",
+            "maxdate": "2020-05-17",
+            "latitude": 47.0235,
+            "name": "OLYMPIA 1.3 S, WA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1WATH0001",
+            "elevationUnit": "METERS",
+            "longitude": -122.8918
+        },
+        {
+            "elevation": 39.9,
+            "mindate": "2008-06-01",
+            "maxdate": "2010-06-10",
+            "latitude": 47.125487,
+            "name": "OLYMPIA 5.9 NNE, WA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1WATH0002",
+            "elevationUnit": "METERS",
+            "longitude": -122.868451
+        },
+        {
+            "elevation": 27.4,
+            "mindate": "2008-06-01",
+            "maxdate": "2011-09-16",
+            "latitude": 47.145,
+            "name": "OLYMPIA 7.6 NNW, WA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1WATH0003",
+            "elevationUnit": "METERS",
+            "longitude": -122.9483
+        },
+        {
+            "elevation": 45.7,
+            "mindate": "2008-06-01",
+            "maxdate": "2020-05-16",
+            "latitude": 46.847112,
+            "name": "ROCHESTER 1.3 NNE, WA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1WATH0005",
+            "elevationUnit": "METERS",
+            "longitude": -123.059681
+        },
+        {
+            "elevation": 55.2,
+            "mindate": "2008-06-01",
+            "maxdate": "2014-05-18",
+            "latitude": 46.995106,
+            "name": "TUMWATER 0.6 ESE, WA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1WATH0006",
+            "elevationUnit": "METERS",
+            "longitude": -122.905642
+        },
+        {
+            "elevation": 84.4,
+            "mindate": "2008-06-01",
+            "maxdate": "2020-01-14",
+            "latitude": 46.9777,
+            "name": "OLYMPIA 6.5 SW, WA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1WATH0008",
+            "elevationUnit": "METERS",
+            "longitude": -122.9947
+        },
+        {
+            "elevation": 87.2,
+            "mindate": "2008-07-01",
+            "maxdate": "2010-02-17",
+            "latitude": 46.996625,
+            "name": "OLYMPIA 6.0 WSW, WA US",
+            "datacoverage": 0.9971,
+            "id": "GHCND:US1WATH0010",
+            "elevationUnit": "METERS",
+            "longitude": -123.002051
+        },
+        {
+            "elevation": 135,
+            "mindate": "2008-07-01",
+            "maxdate": "2018-04-13",
+            "latitude": 46.856475,
+            "name": "YELM 6.3 S, WA US",
+            "datacoverage": 0.9999,
+            "id": "GHCND:US1WATH0011",
+            "elevationUnit": "METERS",
+            "longitude": -122.579328
+        },
+        {
+            "elevation": 62.2,
+            "mindate": "2008-07-01",
+            "maxdate": "2010-06-17",
+            "latitude": 47.0166,
+            "name": "OLYMPIA 8.5 ESE, WA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1WATH0012",
+            "elevationUnit": "METERS",
+            "longitude": -122.727
+        },
+        {
+            "elevation": 25.9,
+            "mindate": "2008-07-01",
+            "maxdate": "2012-08-09",
+            "latitude": 47.11535,
+            "name": "OLYMPIA 5.3 NNW, WA US",
+            "datacoverage": 0.6595,
+            "id": "GHCND:US1WATH0013",
+            "elevationUnit": "METERS",
+            "longitude": -122.92547
+        },
+        {
+            "elevation": 26.5,
+            "mindate": "2008-12-01",
+            "maxdate": "2010-03-29",
+            "latitude": 47.062151,
+            "name": "OLYMPIA 4.1 ENE, WA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1WATH0015",
+            "elevationUnit": "METERS",
+            "longitude": -122.811849
+        },
+        {
+            "elevation": 29.9,
+            "mindate": "2009-01-01",
+            "maxdate": "2012-09-14",
+            "latitude": 47.036372,
+            "name": "OLYMPIA 0.7 ESE, WA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1WATH0019",
+            "elevationUnit": "METERS",
+            "longitude": -122.880489
+        },
+        {
+            "elevation": 60.7,
+            "mindate": "2009-11-01",
+            "maxdate": "2018-05-11",
+            "latitude": 47.000898,
+            "name": "OLYMPIA 3.1 SSE, WA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1WATH0025",
+            "elevationUnit": "METERS",
+            "longitude": -122.866457
+        },
+        {
+            "elevation": 18.3,
+            "mindate": "2010-01-01",
+            "maxdate": "2015-10-10",
+            "latitude": 47.104,
+            "name": "OLYMPIA 5.9 NW, WA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1WATH0026",
+            "elevationUnit": "METERS",
+            "longitude": -122.9805
+        },
+        {
+            "elevation": 45.4,
+            "mindate": "2010-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 47.056759,
+            "name": "OLYMPIA 1.5 NW, WA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1WATH0027",
+            "elevationUnit": "METERS",
+            "longitude": -122.918195
+        },
+        {
+            "elevation": 36.6,
+            "mindate": "2010-03-01",
+            "maxdate": "2020-05-17",
+            "latitude": 47.130703,
+            "name": "OLYMPIA 7.0 NNE, WA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1WATH0028",
+            "elevationUnit": "METERS",
+            "longitude": -122.822965
+        },
+        {
+            "elevation": 58.5,
+            "mindate": "2011-09-01",
+            "maxdate": "2020-05-15",
+            "latitude": 47.092733,
+            "name": "OLYMPIA 4.5 NW, WA US",
+            "datacoverage": 0.9973,
+            "id": "GHCND:US1WATH0031",
+            "elevationUnit": "METERS",
+            "longitude": -122.954333
+        },
+        {
+            "elevation": 51.8,
+            "mindate": "2012-02-01",
+            "maxdate": "2016-07-18",
+            "latitude": 47.0503807067871,
+            "name": "OLYMPIA 1.3 WNW, WA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1WATH0032",
+            "elevationUnit": "METERS",
+            "longitude": -122.919212341309
+        },
+        {
+            "elevation": 50.3,
+            "mindate": "2012-10-01",
+            "maxdate": "2020-05-16",
+            "latitude": 47.0839881896973,
+            "name": "OLYMPIA 4.1 NW, WA US",
+            "datacoverage": 0.9765,
+            "id": "GHCND:US1WATH0033",
+            "elevationUnit": "METERS",
+            "longitude": -122.956443786621
+        },
+        {
+            "elevation": 84.7,
+            "mindate": "2012-10-01",
+            "maxdate": "2020-05-17",
+            "latitude": 46.9643440246582,
+            "name": "OLYMPIA 7.9 SE, WA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1WATH0034",
+            "elevationUnit": "METERS",
+            "longitude": -122.773277282715
+        },
+        {
+            "elevation": 89,
+            "mindate": "2012-11-01",
+            "maxdate": "2015-03-15",
+            "latitude": 46.961416,
+            "name": "YELM 1.5 NE, WA US",
+            "datacoverage": 0.6219,
+            "id": "GHCND:US1WATH0035",
+            "elevationUnit": "METERS",
+            "longitude": -122.582924
+        },
+        {
+            "elevation": 149,
+            "mindate": "2012-11-01",
+            "maxdate": "2016-09-30",
+            "latitude": 46.9925117492676,
+            "name": "OLYMPIA 7.3 WSW, WA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1WATH0036",
+            "elevationUnit": "METERS",
+            "longitude": -123.030471801758
+        },
+        {
+            "elevation": 68.9,
+            "mindate": "2013-08-01",
+            "maxdate": "2020-02-29",
+            "latitude": 47.026292,
+            "name": "OLYMPIA 2.3 ESE, WA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1WATH0037",
+            "elevationUnit": "METERS",
+            "longitude": -122.850564
+        },
+        {
+            "elevation": 62.2,
+            "mindate": "2015-09-14",
+            "maxdate": "2017-06-02",
+            "latitude": 47.005507,
+            "name": "LACEY 1.2 NW, WA US",
+            "datacoverage": 0.4005,
+            "id": "GHCND:US1WATH0039",
+            "elevationUnit": "METERS",
+            "longitude": -122.800138
+        },
+        {
+            "elevation": 186.8,
+            "mindate": "2015-05-01",
+            "maxdate": "2020-05-17",
+            "latitude": 46.978525,
+            "name": "OLYMPIA 8.5 WSW, WA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1WATH0040",
+            "elevationUnit": "METERS",
+            "longitude": -123.047329
+        },
+        {
+            "elevation": 52.1,
+            "mindate": "1998-06-17",
+            "maxdate": "2018-12-13",
+            "latitude": 47.056965,
+            "name": "OLYMPIA 4.2 WNW, WA US",
+            "datacoverage": 0.9086,
+            "id": "GHCND:US1WATH0043",
+            "elevationUnit": "METERS",
+            "longitude": -122.979885
+        },
+        {
+            "elevation": 62.2,
+            "mindate": "2016-08-30",
+            "maxdate": "2020-05-17",
+            "latitude": 47.048907,
+            "name": "OLYMPIA 1.0 ENE, WA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1WATH0044",
+            "elevationUnit": "METERS",
+            "longitude": -122.875557
+        },
+        {
+            "elevation": 56.1,
+            "mindate": "2017-08-01",
+            "maxdate": "2020-05-17",
+            "latitude": 46.926055,
+            "name": "LITTLEROCK 1.9 NW, WA US",
+            "datacoverage": 0.8648,
+            "id": "GHCND:US1WATH0049",
+            "elevationUnit": "METERS",
+            "longitude": -123.039164
+        },
+        {
+            "elevation": 66.1,
+            "mindate": "2018-06-26",
+            "maxdate": "2020-05-17",
+            "latitude": 47.048104,
+            "name": "LACEY 1.9 ENE, WA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1WATH0053",
+            "elevationUnit": "METERS",
+            "longitude": -122.771435
+        },
+        {
+            "elevation": 29.9,
+            "mindate": "2018-07-01",
+            "maxdate": "2020-05-17",
+            "latitude": 47.104426,
+            "name": "OLYMPIA 4.3 N, WA US",
+            "datacoverage": 0.8413,
+            "id": "GHCND:US1WATH0054",
+            "elevationUnit": "METERS",
+            "longitude": -122.893328
+        },
+        {
+            "elevation": 59.1,
+            "mindate": "2008-05-01",
+            "maxdate": "2015-01-05",
+            "latitude": 48.707549,
+            "name": "BELLINGHAM 3.1 SW, WA US",
+            "datacoverage": 0.2714,
+            "id": "GHCND:US1WAWC0001",
+            "elevationUnit": "METERS",
+            "longitude": -122.508386
         }
     ]
 }

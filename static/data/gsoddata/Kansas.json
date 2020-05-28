@@ -2,7 +2,7 @@
     "metadata": {
         "resultset": {
             "offset": 1,
-            "count": 2522,
+            "count": 2225,
             "limit": 1000
         }
     },
@@ -17,17 +17,6 @@
             "id": "COOP:140010",
             "elevationUnit": "METERS",
             "longitude": -97.2129
-        },
-        {
-            "elevation": 841.9,
-            "mindate": "1948-08-01",
-            "maxdate": "1964-05-01",
-            "latitude": 39.71667,
-            "name": "ACHILLES, KS US",
-            "datacoverage": 0.9948,
-            "id": "COOP:140020",
-            "elevationUnit": "METERS",
-            "longitude": -100.8
         },
         {
             "elevation": 479.1,
@@ -61,17 +50,6 @@
             "id": "COOP:140119",
             "elevationUnit": "METERS",
             "longitude": -98.9504
-        },
-        {
-            "elevation": 512.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1952-10-01",
-            "latitude": 38.25,
-            "name": "ALDEN, KS US",
-            "datacoverage": 0.9694,
-            "id": "COOP:140127",
-            "elevationUnit": "METERS",
-            "longitude": -98.3
         },
         {
             "elevation": 630.9,
@@ -294,17 +272,6 @@
             "longitude": -96.2542
         },
         {
-            "elevation": 435.9,
-            "mindate": "1955-07-01",
-            "maxdate": "1958-07-01",
-            "latitude": 39.88333,
-            "name": "AXTELL 5 WNW SOIL CONSERVATION SERVICE 1, KS US",
-            "datacoverage": 0.9993,
-            "id": "COOP:140476",
-            "elevationUnit": "METERS",
-            "longitude": -96.35
-        },
-        {
             "elevation": 395,
             "mindate": "2009-04-01",
             "maxdate": "2015-11-01",
@@ -321,7 +288,7 @@
             "maxdate": "1982-02-17",
             "latitude": 38.76667,
             "name": "BALDWIN, KS US",
-            "datacoverage": 1,
+            "datacoverage": 0.0419,
             "id": "COOP:140496",
             "elevationUnit": "METERS",
             "longitude": -95.2
@@ -382,50 +349,6 @@
             "longitude": -99.75139
         },
         {
-            "elevation": 976,
-            "mindate": "1949-09-01",
-            "maxdate": "1953-08-01",
-            "latitude": 39.81667,
-            "name": "BEARDSLEY, KS US",
-            "datacoverage": 0.9375,
-            "id": "COOP:140630",
-            "elevationUnit": "METERS",
-            "longitude": -101.23333
-        },
-        {
-            "elevation": 1020.5,
-            "mindate": "1951-09-01",
-            "maxdate": "1952-08-01",
-            "latitude": 39.58333,
-            "name": "LEVANT 15 N, KS US",
-            "datacoverage": 0.6653,
-            "id": "COOP:140632",
-            "elevationUnit": "METERS",
-            "longitude": -101.31667
-        },
-        {
-            "elevation": 448.1,
-            "mindate": "1955-07-01",
-            "maxdate": "1958-07-01",
-            "latitude": 39.86667,
-            "name": "BEATTIE 2 E, KS US",
-            "datacoverage": 0.9453,
-            "id": "COOP:140633",
-            "elevationUnit": "METERS",
-            "longitude": -96.36667
-        },
-        {
-            "elevation": 402.9,
-            "mindate": "1955-06-01",
-            "maxdate": "1958-06-25",
-            "latitude": 39.83333,
-            "name": "BEATTIE 3 SE SOIL CONSERVATION SERVICE 3, KS US",
-            "datacoverage": 0.0354,
-            "id": "COOP:140634",
-            "elevationUnit": "METERS",
-            "longitude": -96.38333
-        },
-        {
             "elevation": 445,
             "mindate": "2009-08-01",
             "maxdate": "2015-11-01",
@@ -453,7 +376,7 @@
             "maxdate": "1984-03-01",
             "latitude": 38.65,
             "name": "BEAVER, KS US",
-            "datacoverage": 0.9742,
+            "datacoverage": 0.025,
             "id": "COOP:140645",
             "elevationUnit": "METERS",
             "longitude": -98.66667
@@ -514,17 +437,6 @@
             "longitude": -98.1125
         },
         {
-            "elevation": 409,
-            "mindate": "1931-08-01",
-            "maxdate": "1959-03-01",
-            "latitude": 39.11667,
-            "name": "BENNINGTON 6 NNE, KS US",
-            "datacoverage": 0.994,
-            "id": "COOP:140745",
-            "elevationUnit": "METERS",
-            "longitude": -97.56667
-        },
-        {
             "elevation": 420.6,
             "mindate": "2012-01-01",
             "maxdate": "2015-11-01",
@@ -534,17 +446,6 @@
             "id": "COOP:140750",
             "elevationUnit": "METERS",
             "longitude": -97.4827
-        },
-        {
-            "elevation": 264.9,
-            "mindate": "1941-02-01",
-            "maxdate": "1959-12-01",
-            "latitude": 39.15,
-            "name": "BETHEL 1 NW, KS US",
-            "datacoverage": 0.9385,
-            "id": "COOP:140782",
-            "elevationUnit": "METERS",
-            "longitude": -94.78333
         },
         {
             "elevation": 966.2,
@@ -589,17 +490,6 @@
             "id": "COOP:140836",
             "elevationUnit": "METERS",
             "longitude": -101.5441
-        },
-        {
-            "elevation": 961,
-            "mindate": "1949-05-01",
-            "maxdate": "1959-06-01",
-            "latitude": 39.93333,
-            "name": "BIRD CITY 14 NNE, KS US",
-            "datacoverage": 0.9345,
-            "id": "COOP:140838",
-            "elevationUnit": "METERS",
-            "longitude": -101.5
         },
         {
             "elevation": 621.8,
@@ -690,17 +580,6 @@
             "longitude": -101.4461
         },
         {
-            "elevation": 328.9,
-            "mindate": "1950-09-01",
-            "maxdate": "1952-08-01",
-            "latitude": 37.9,
-            "name": "BRONSON, KS US",
-            "datacoverage": 0.7078,
-            "id": "COOP:141049",
-            "elevationUnit": "METERS",
-            "longitude": -95.06667
-        },
-        {
             "elevation": 417.6,
             "mindate": "1948-06-01",
             "maxdate": "2015-11-01",
@@ -745,114 +624,15 @@
             "longitude": -99.53238
         },
         {
-            "elevation": 445,
-            "mindate": "1951-08-01",
-            "maxdate": "1959-05-01",
-            "latitude": 38.56667,
-            "name": "BURDICK, KS US",
-            "datacoverage": 0.9362,
-            "id": "COOP:141146",
-            "elevationUnit": "METERS",
-            "longitude": -96.85
-        },
-        {
-            "elevation": 326.1,
-            "mindate": "1948-08-01",
-            "maxdate": "1957-09-20",
-            "latitude": 38.75,
-            "name": "BURLINGAME, KS US",
-            "datacoverage": 0.9216,
-            "id": "COOP:141156",
-            "elevationUnit": "METERS",
-            "longitude": -95.83333
-        },
-        {
-            "elevation": 369.1,
-            "mindate": "1955-07-01",
-            "maxdate": "1961-06-01",
-            "latitude": 38.81667,
-            "name": "BURLINGAME 6 NW SOIL CONSERVATION SERVICE, KS US",
-            "datacoverage": 0.9998,
-            "id": "COOP:141157",
-            "elevationUnit": "METERS",
-            "longitude": -95.91667
-        },
-        {
-            "elevation": 366.1,
-            "mindate": "1955-06-01",
-            "maxdate": "1961-06-27",
-            "latitude": 38.81667,
-            "name": "BURLINGAME 5 NNW SOIL CONSERVATION SERVICE, KS US",
-            "datacoverage": 0.0436,
-            "id": "COOP:141158",
-            "elevationUnit": "METERS",
-            "longitude": -95.86667
-        },
-        {
-            "elevation": 360,
-            "mindate": "1955-07-01",
-            "maxdate": "1961-06-01",
-            "latitude": 38.8,
-            "name": "BURLINGAME 3 NW SOIL CONSERVATION SERVICE, KS US",
-            "datacoverage": 0.9998,
-            "id": "COOP:141159",
-            "elevationUnit": "METERS",
-            "longitude": -95.85
-        },
-        {
-            "elevation": 351.1,
-            "mindate": "1955-07-01",
-            "maxdate": "1961-06-01",
-            "latitude": 38.8,
-            "name": "BURLINGAME 3 N SOIL CONSERVATION SERVICE 4, KS US",
-            "datacoverage": 0.9998,
-            "id": "COOP:141160",
-            "elevationUnit": "METERS",
-            "longitude": -95.83333
-        },
-        {
-            "elevation": 348.1,
-            "mindate": "1955-07-01",
-            "maxdate": "1961-06-01",
-            "latitude": 38.8,
-            "name": "BURLINGAME 3 NNE, KS US",
-            "datacoverage": 0.9859,
-            "id": "COOP:141161",
-            "elevationUnit": "METERS",
-            "longitude": -95.81667
-        },
-        {
             "elevation": 341.4,
-            "mindate": "1955-07-01",
+            "mindate": "1957-10-01",
             "maxdate": "1981-12-22",
             "latitude": 38.84917,
             "name": "BURLINGAME, KS US",
-            "datacoverage": 0.9859,
+            "datacoverage": 0.0268,
             "id": "COOP:141162",
             "elevationUnit": "METERS",
             "longitude": -95.83306
-        },
-        {
-            "elevation": 299.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1966-05-01",
-            "latitude": 38.19444,
-            "name": "BURLINGTON, KS US",
-            "datacoverage": 0.9977,
-            "id": "COOP:141164",
-            "elevationUnit": "METERS",
-            "longitude": -95.73611
-        },
-        {
-            "elevation": 335.9,
-            "mindate": "1944-08-01",
-            "maxdate": "1954-01-01",
-            "latitude": 38.18333,
-            "name": "BURLINGTON 4 WSW, KS US",
-            "datacoverage": 0.8594,
-            "id": "COOP:141169",
-            "elevationUnit": "METERS",
-            "longitude": -95.8
         },
         {
             "elevation": 449.6,
@@ -875,17 +655,6 @@
             "id": "COOP:141179",
             "elevationUnit": "METERS",
             "longitude": -98.3036
-        },
-        {
-            "elevation": 442,
-            "mindate": "1948-08-01",
-            "maxdate": "1960-08-01",
-            "latitude": 38.03333,
-            "name": "BURRTON, KS US",
-            "datacoverage": 0.7846,
-            "id": "COOP:141187",
-            "elevationUnit": "METERS",
-            "longitude": -97.66667
         },
         {
             "elevation": 384,
@@ -941,15 +710,6 @@
             "id": "COOP:141282",
             "elevationUnit": "METERS",
             "longitude": -96.0113
-        },
-        {
-            "mindate": "1931-01-01",
-            "maxdate": "1942-12-01",
-            "latitude": 38.81667,
-            "name": "CARBONDALE, KS US",
-            "datacoverage": 0.9861,
-            "id": "COOP:141293",
-            "longitude": -95.7
         },
         {
             "elevation": 463.3,
@@ -1027,17 +787,6 @@
             "id": "COOP:141408",
             "elevationUnit": "METERS",
             "longitude": -96.1258
-        },
-        {
-            "elevation": 289.9,
-            "mindate": "1948-08-01",
-            "maxdate": "1957-06-01",
-            "latitude": 38.75,
-            "name": "CENTROPOLIS 5 NE, KS US",
-            "datacoverage": 1,
-            "id": "COOP:141416",
-            "elevationUnit": "METERS",
-            "longitude": -95.28333
         },
         {
             "elevation": 442.9,
@@ -1183,17 +932,6 @@
             "longitude": -97.2836
         },
         {
-            "elevation": 317,
-            "mindate": "1931-01-01",
-            "maxdate": "1954-06-01",
-            "latitude": 37.71667,
-            "name": "CLIMAX, KS US",
-            "datacoverage": 1,
-            "id": "COOP:141602",
-            "elevationUnit": "METERS",
-            "longitude": -96.23333
-        },
-        {
             "elevation": 283.5,
             "mindate": "1971-01-01",
             "maxdate": "1989-04-01",
@@ -1238,17 +976,6 @@
             "longitude": -99.18333
         },
         {
-            "elevation": 225.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1969-03-24",
-            "latitude": 37.03333,
-            "name": "COFFEYVILLE, KS US",
-            "datacoverage": 0.8977,
-            "id": "COOP:141668",
-            "elevationUnit": "METERS",
-            "longitude": -95.61667
-        },
-        {
             "elevation": 224.6,
             "mindate": "1947-05-01",
             "maxdate": "2015-11-01",
@@ -1258,17 +985,6 @@
             "id": "COOP:141673",
             "elevationUnit": "METERS",
             "longitude": -95.6355
-        },
-        {
-            "elevation": 965.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1957-03-01",
-            "latitude": 39.41667,
-            "name": "COLBY, KS US",
-            "datacoverage": 1,
-            "id": "COOP:141696",
-            "elevationUnit": "METERS",
-            "longitude": -101.05
         },
         {
             "elevation": 966.2,
@@ -1348,17 +1064,6 @@
             "longitude": -97.6508
         },
         {
-            "elevation": 447.8,
-            "mindate": "1948-08-01",
-            "maxdate": "1962-05-28",
-            "latitude": 39.5514,
-            "name": "CONCORDIA ASOS, KS US",
-            "datacoverage": 1,
-            "id": "COOP:141769",
-            "elevationUnit": "METERS",
-            "longitude": -97.6508
-        },
-        {
             "elevation": 418.8,
             "mindate": "1944-12-01",
             "maxdate": "2015-11-01",
@@ -1379,17 +1084,6 @@
             "id": "COOP:141858",
             "elevationUnit": "METERS",
             "longitude": -96.5483
-        },
-        {
-            "elevation": 399.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1963-09-01",
-            "latitude": 38.66667,
-            "name": "COUNCIL GROVE, KS US",
-            "datacoverage": 1,
-            "id": "COOP:141866",
-            "elevationUnit": "METERS",
-            "longitude": -96.5
         },
         {
             "elevation": 400.8,
@@ -1579,17 +1273,6 @@
             "longitude": -95.1178
         },
         {
-            "elevation": 711.1,
-            "mindate": "1952-10-01",
-            "maxdate": "1954-08-01",
-            "latitude": 39.53333,
-            "name": "EDMOND 7 S, KS US",
-            "datacoverage": 0.9129,
-            "id": "COOP:142357",
-            "elevationUnit": "METERS",
-            "longitude": -99.85
-        },
-        {
             "elevation": 292.6,
             "mindate": "1979-06-01",
             "maxdate": "1988-04-01",
@@ -1667,94 +1350,6 @@
             "longitude": -100.86667
         },
         {
-            "elevation": 284.1,
-            "mindate": "1955-07-01",
-            "maxdate": "1958-07-01",
-            "latitude": 37.23333,
-            "name": "ELK CITY 5 SW SOIL CONSERVATION SERVICE 1, KS US",
-            "datacoverage": 0.9993,
-            "id": "COOP:142422",
-            "elevationUnit": "METERS",
-            "longitude": -95.96667
-        },
-        {
-            "elevation": 281,
-            "mindate": "1955-07-01",
-            "maxdate": "1958-07-01",
-            "latitude": 37.23333,
-            "name": "ELK CITY 6 SW, KS US",
-            "datacoverage": 0.9993,
-            "id": "COOP:142423",
-            "elevationUnit": "METERS",
-            "longitude": -95.98333
-        },
-        {
-            "elevation": 271,
-            "mindate": "1955-07-01",
-            "maxdate": "1957-06-01",
-            "latitude": 37.21667,
-            "name": "ELK CITY 7 SW SOIL CONSERVATION SERVICE 3, KS US",
-            "datacoverage": 0.0354,
-            "id": "COOP:142424",
-            "elevationUnit": "METERS",
-            "longitude": -95.98333
-        },
-        {
-            "elevation": 264.9,
-            "mindate": "1955-07-01",
-            "maxdate": "1958-07-01",
-            "latitude": 37.21667,
-            "name": "ELK CITY 7 SSW SOIL CONSERVATION SERVICE 4, KS US",
-            "datacoverage": 0.9723,
-            "id": "COOP:142425",
-            "elevationUnit": "METERS",
-            "longitude": -95.98333
-        },
-        {
-            "elevation": 262.1,
-            "mindate": "1955-07-01",
-            "maxdate": "1958-07-01",
-            "latitude": 37.2,
-            "name": "ELK CITY 8 SW SOIL CONSERVATION SERVICE 5, KS US",
-            "datacoverage": 0.9993,
-            "id": "COOP:142426",
-            "elevationUnit": "METERS",
-            "longitude": -96
-        },
-        {
-            "elevation": 264.9,
-            "mindate": "1956-08-01",
-            "maxdate": "1958-07-01",
-            "latitude": 37.18333,
-            "name": "ELK CITY 10 SW, KS US",
-            "datacoverage": 0.959,
-            "id": "COOP:142427",
-            "elevationUnit": "METERS",
-            "longitude": -96.03333
-        },
-        {
-            "elevation": 246.9,
-            "mindate": "1956-08-01",
-            "maxdate": "1958-07-01",
-            "latitude": 37.15,
-            "name": "ELK CITY 10 SSW, KS US",
-            "datacoverage": 0.9575,
-            "id": "COOP:142428",
-            "elevationUnit": "METERS",
-            "longitude": -95.98333
-        },
-        {
-            "elevation": 267.9,
-            "mindate": "1956-08-01",
-            "maxdate": "1958-07-01",
-            "latitude": 37.18333,
-            "name": "ELK CITY 8 SSW, KS US",
-            "datacoverage": 0.8339,
-            "id": "COOP:142429",
-            "elevationUnit": "METERS",
-            "longitude": -95.96667
-        },
-        {
             "elevation": 258.8,
             "mindate": "1964-04-01",
             "maxdate": "1996-06-01",
@@ -1775,17 +1370,6 @@
             "id": "COOP:142432",
             "elevationUnit": "METERS",
             "longitude": -101.8866
-        },
-        {
-            "elevation": 1079.9,
-            "mindate": "1941-01-01",
-            "maxdate": "1967-07-01",
-            "latitude": 37.05,
-            "name": "ELKHART 3 N, KS US",
-            "datacoverage": 0.8691,
-            "id": "COOP:142437",
-            "elevationUnit": "METERS",
-            "longitude": -101.9
         },
         {
             "elevation": 545.6,
@@ -1810,17 +1394,6 @@
             "longitude": -99.5646
         },
         {
-            "elevation": 634,
-            "mindate": "1952-05-01",
-            "maxdate": "1959-07-01",
-            "latitude": 38.78333,
-            "name": "ELLIS 10 S, KS US",
-            "datacoverage": 0.0214,
-            "id": "COOP:142455",
-            "elevationUnit": "METERS",
-            "longitude": -99.58333
-        },
-        {
             "elevation": 477.9,
             "mindate": "1931-01-01",
             "maxdate": "2015-11-01",
@@ -1830,17 +1403,6 @@
             "id": "COOP:142459",
             "elevationUnit": "METERS",
             "longitude": -98.225
-        },
-        {
-            "elevation": 366.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1959-05-01",
-            "latitude": 38.36667,
-            "name": "ELMDALE, KS US",
-            "datacoverage": 0.9884,
-            "id": "COOP:142468",
-            "elevationUnit": "METERS",
-            "longitude": -96.65
         },
         {
             "elevation": 396.2,
@@ -1898,17 +1460,6 @@
             "longitude": -96.0566
         },
         {
-            "elevation": 328.3,
-            "mindate": "1893-10-01",
-            "maxdate": "1961-12-01",
-            "latitude": 38.3861,
-            "name": "EMPORIA 1 S, KS US",
-            "datacoverage": 0.9805,
-            "id": "COOP:142541",
-            "elevationUnit": "METERS",
-            "longitude": -96.1818
-        },
-        {
             "elevation": 364.5,
             "mindate": "2011-01-01",
             "maxdate": "2015-11-01",
@@ -1947,7 +1498,7 @@
             "maxdate": "2008-11-01",
             "latitude": 37.0459,
             "name": "ENGLEWOOD 1 NW, KS US",
-            "datacoverage": 0.9742,
+            "datacoverage": 0.0218,
             "id": "COOP:142560",
             "elevationUnit": "METERS",
             "longitude": -99.9964
@@ -2116,39 +1667,6 @@
             "id": "COOP:142872",
             "elevationUnit": "METERS",
             "longitude": -96.4185
-        },
-        {
-            "elevation": 381,
-            "mindate": "1955-07-01",
-            "maxdate": "1958-07-01",
-            "latitude": 39.8,
-            "name": "FRANKFORT 7 N SOIL CONSERVATION SERVICE 4, KS US",
-            "datacoverage": 0.9993,
-            "id": "COOP:142875",
-            "elevationUnit": "METERS",
-            "longitude": -96.4
-        },
-        {
-            "elevation": 409,
-            "mindate": "1955-07-01",
-            "maxdate": "1958-07-01",
-            "latitude": 39.8,
-            "name": "FRANKFORT 7 NNW, KS US",
-            "datacoverage": 0.9993,
-            "id": "COOP:142876",
-            "elevationUnit": "METERS",
-            "longitude": -96.45
-        },
-        {
-            "elevation": 369.1,
-            "mindate": "1955-07-01",
-            "maxdate": "1958-07-01",
-            "latitude": 39.76667,
-            "name": "FRANKFORT 5 N SOIL CONSERVATION SERVICE 6, KS US",
-            "datacoverage": 0.9723,
-            "id": "COOP:142877",
-            "elevationUnit": "METERS",
-            "longitude": -96.43333
         },
         {
             "elevation": 385.3,
@@ -2382,17 +1900,6 @@
             "longitude": -98.828
         },
         {
-            "elevation": 430.1,
-            "mindate": "1941-03-01",
-            "maxdate": "1946-12-01",
-            "latitude": 39.73333,
-            "name": "GREENLEAF, KS US",
-            "datacoverage": 0.9851,
-            "id": "COOP:143235",
-            "elevationUnit": "METERS",
-            "longitude": -96.98333
-        },
-        {
             "elevation": 683.7,
             "mindate": "1931-01-01",
             "maxdate": "2015-11-01",
@@ -2457,17 +1964,6 @@
             "id": "COOP:143366",
             "elevationUnit": "METERS",
             "longitude": -97.5546
-        },
-        {
-            "elevation": 371.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1952-02-01",
-            "latitude": 39.9,
-            "name": "HANOVER, KS US",
-            "datacoverage": 0.9962,
-            "id": "COOP:143393",
-            "elevationUnit": "METERS",
-            "longitude": -96.88333
         },
         {
             "elevation": 371.9,
@@ -2545,17 +2041,6 @@
             "id": "COOP:143527",
             "elevationUnit": "METERS",
             "longitude": -99.3358
-        },
-        {
-            "elevation": 609.9,
-            "mindate": "1948-04-01",
-            "maxdate": "1948-10-01",
-            "latitude": 38.85,
-            "name": "HAYS 2 S, KS US",
-            "datacoverage": 0.9956,
-            "id": "COOP:143537",
-            "elevationUnit": "METERS",
-            "longitude": -99.35
         },
         {
             "elevation": 378,
@@ -2679,17 +2164,6 @@
             "longitude": -94.8901
         },
         {
-            "elevation": 566.9,
-            "mindate": "1934-09-01",
-            "maxdate": "1948-10-01",
-            "latitude": 38.46667,
-            "name": "HOISINGTON 6 S, KS US",
-            "datacoverage": 0.9999,
-            "id": "COOP:143727",
-            "elevationUnit": "METERS",
-            "longitude": -98.7
-        },
-        {
             "elevation": 320,
             "mindate": "1931-01-01",
             "maxdate": "2015-11-01",
@@ -2710,61 +2184,6 @@
             "id": "COOP:143810",
             "elevationUnit": "METERS",
             "longitude": -95.5199
-        },
-        {
-            "elevation": 320,
-            "mindate": "1955-07-01",
-            "maxdate": "1961-06-27",
-            "latitude": 39.7,
-            "name": "HORTON 3 NW SOIL CONSERVATION SERVICE 1, KS US",
-            "datacoverage": 0.0429,
-            "id": "COOP:143811",
-            "elevationUnit": "METERS",
-            "longitude": -95.56667
-        },
-        {
-            "elevation": 363,
-            "mindate": "1955-07-01",
-            "maxdate": "1961-06-01",
-            "latitude": 39.75,
-            "name": "HORTON 8 NW SOIL CONSERVATION SERVICE 2, KS US",
-            "datacoverage": 0.9998,
-            "id": "COOP:143812",
-            "elevationUnit": "METERS",
-            "longitude": -95.61667
-        },
-        {
-            "elevation": 331.9,
-            "mindate": "1955-07-01",
-            "maxdate": "1961-06-01",
-            "latitude": 39.73333,
-            "name": "HORTON 6 NW SOIL CONSERVATION SERVICE 3, KS US",
-            "datacoverage": 0.972,
-            "id": "COOP:143813",
-            "elevationUnit": "METERS",
-            "longitude": -95.6
-        },
-        {
-            "elevation": 345,
-            "mindate": "1955-07-01",
-            "maxdate": "1961-06-01",
-            "latitude": 39.66667,
-            "name": "HORTON 3 W, KS US",
-            "datacoverage": 0.8609,
-            "id": "COOP:143814",
-            "elevationUnit": "METERS",
-            "longitude": -95.58333
-        },
-        {
-            "elevation": 338.9,
-            "mindate": "1955-07-01",
-            "maxdate": "1961-06-01",
-            "latitude": 39.68333,
-            "name": "HORTON 2 NNE SOIL CONSERVATION SERVICE 5, KS US",
-            "datacoverage": 0.9998,
-            "id": "COOP:143815",
-            "elevationUnit": "METERS",
-            "longitude": -95.51667
         },
         {
             "elevation": 307.8,
@@ -2844,39 +2263,6 @@
             "longitude": -98.3933
         },
         {
-            "elevation": 470,
-            "mindate": "1893-01-01",
-            "maxdate": "1949-03-01",
-            "latitude": 38.038,
-            "name": "HUTCHINSON RIVER, KS US",
-            "datacoverage": 0.9912,
-            "id": "COOP:143921",
-            "elevationUnit": "METERS",
-            "longitude": -97.9336
-        },
-        {
-            "elevation": 470.3,
-            "mindate": "1948-01-01",
-            "maxdate": "1959-01-01",
-            "latitude": 38.06528,
-            "name": "HUTCHINSON MUNICIPAL AIRPORT, KS US",
-            "datacoverage": 0.9998,
-            "id": "COOP:143926",
-            "elevationUnit": "METERS",
-            "longitude": -97.86056
-        },
-        {
-            "elevation": 463.9,
-            "mindate": "1952-03-01",
-            "maxdate": "1953-05-01",
-            "latitude": 38.06667,
-            "name": "HUTCHINSON 7 E, KS US",
-            "datacoverage": 0.0336,
-            "id": "COOP:143928",
-            "elevationUnit": "METERS",
-            "longitude": -97.81667
-        },
-        {
             "elevation": 469.4,
             "mindate": "1997-06-01",
             "maxdate": "2015-11-01",
@@ -2943,17 +2329,6 @@
             "longitude": -95.4241
         },
         {
-            "elevation": 290.8,
-            "mindate": "1931-01-01",
-            "maxdate": "1959-02-01",
-            "latitude": 37.9233,
-            "name": "IOLA 1 W, KS US",
-            "datacoverage": 1,
-            "id": "COOP:143989",
-            "elevationUnit": "METERS",
-            "longitude": -95.4241
-        },
-        {
             "elevation": 468.5,
             "mindate": "1948-08-01",
             "maxdate": "2015-11-01",
@@ -2985,17 +2360,6 @@
             "id": "COOP:144081",
             "elevationUnit": "METERS",
             "longitude": -99.9
-        },
-        {
-            "elevation": 716.9,
-            "mindate": "1949-05-01",
-            "maxdate": "1965-09-01",
-            "latitude": 38.21667,
-            "name": "JETMORE 14 NW, KS US",
-            "datacoverage": 0.9136,
-            "id": "COOP:144085",
-            "elevationUnit": "METERS",
-            "longitude": -100.06667
         },
         {
             "elevation": 740.7,
@@ -3075,15 +2439,6 @@
             "longitude": -100.2987
         },
         {
-            "mindate": "1935-08-01",
-            "maxdate": "1943-02-01",
-            "latitude": 38.18333,
-            "name": "KALVESTA 8 NNW, KS US",
-            "datacoverage": 0.9893,
-            "id": "COOP:144162",
-            "longitude": -100.31667
-        },
-        {
             "elevation": 806.2,
             "mindate": "1989-03-01",
             "maxdate": "2015-11-01",
@@ -3104,17 +2459,6 @@
             "id": "COOP:144178",
             "elevationUnit": "METERS",
             "longitude": -97.9596
-        },
-        {
-            "elevation": 235,
-            "mindate": "1935-09-01",
-            "maxdate": "1943-11-01",
-            "latitude": 39.11667,
-            "name": "KANSAS CITY FAIRFAX, MO US",
-            "datacoverage": 0.9698,
-            "id": "COOP:144196",
-            "elevationUnit": "METERS",
-            "longitude": -94.6
         },
         {
             "elevation": 471.5,
@@ -3170,17 +2514,6 @@
             "id": "COOP:144357",
             "elevationUnit": "METERS",
             "longitude": -99.1228
-        },
-        {
-            "elevation": 848,
-            "mindate": "1931-01-01",
-            "maxdate": "1947-05-01",
-            "latitude": 37.33333,
-            "name": "KISMET 14 NW, KS US",
-            "datacoverage": 0.985,
-            "id": "COOP:144361",
-            "elevationUnit": "METERS",
-            "longitude": -100.88333
         },
         {
             "elevation": 850.4,
@@ -3315,17 +2648,6 @@
             "longitude": -98.5583
         },
         {
-            "elevation": 352,
-            "mindate": "1931-01-01",
-            "maxdate": "1950-11-01",
-            "latitude": 38.43333,
-            "name": "LEBO CAA AIRPORT, KS US",
-            "datacoverage": 0.979,
-            "id": "COOP:144605",
-            "elevationUnit": "METERS",
-            "longitude": -95.8
-        },
-        {
             "elevation": 358.1,
             "mindate": "1931-01-01",
             "maxdate": "2015-11-01",
@@ -3403,28 +2725,6 @@
             "longitude": -95.6396
         },
         {
-            "elevation": 990.9,
-            "mindate": "1941-04-01",
-            "maxdate": "1957-12-01",
-            "latitude": 39.25,
-            "name": "LEVANT 10 SSE, KS US",
-            "datacoverage": 0.9501,
-            "id": "COOP:144685",
-            "elevationUnit": "METERS",
-            "longitude": -101.15
-        },
-        {
-            "elevation": 1020.5,
-            "mindate": "1953-09-01",
-            "maxdate": "1956-10-01",
-            "latitude": 39.58333,
-            "name": "LEVANT 15 N, KS US",
-            "datacoverage": 0.8681,
-            "id": "COOP:144688",
-            "elevationUnit": "METERS",
-            "longitude": -101.31667
-        },
-        {
             "elevation": 863.8,
             "mindate": "1893-01-01",
             "maxdate": "2015-11-01",
@@ -3458,72 +2758,6 @@
             "longitude": -98.13
         },
         {
-            "elevation": 488,
-            "mindate": "1955-07-01",
-            "maxdate": "1958-06-01",
-            "latitude": 39.11667,
-            "name": "LINCOLN 6 NNW SOIL CONSERVATION SERVICE 1, KS US",
-            "datacoverage": 0.9998,
-            "id": "COOP:144713",
-            "elevationUnit": "METERS",
-            "longitude": -98.2
-        },
-        {
-            "elevation": 488,
-            "mindate": "1955-07-01",
-            "maxdate": "1958-06-01",
-            "latitude": 39.11667,
-            "name": "LINCOLN 5 NNW SOIL CONSERVATION SERVICE 2, KS US",
-            "datacoverage": 0.9998,
-            "id": "COOP:144714",
-            "elevationUnit": "METERS",
-            "longitude": -98.18333
-        },
-        {
-            "elevation": 438.9,
-            "mindate": "1955-07-01",
-            "maxdate": "1958-06-25",
-            "latitude": 39.06667,
-            "name": "LINCOLN 2 NNW SOIL CONSERVATION SERVICE 3, KS US",
-            "datacoverage": 0.0352,
-            "id": "COOP:144715",
-            "elevationUnit": "METERS",
-            "longitude": -98.16667
-        },
-        {
-            "elevation": 488,
-            "mindate": "1955-07-01",
-            "maxdate": "1958-06-01",
-            "latitude": 39.08333,
-            "name": "LINCOLN 3 N SOIL CONSERVATION SERVICE 4, KS US",
-            "datacoverage": 0.9998,
-            "id": "COOP:144716",
-            "elevationUnit": "METERS",
-            "longitude": -98.15
-        },
-        {
-            "elevation": 427,
-            "mindate": "1955-07-01",
-            "maxdate": "1958-06-01",
-            "latitude": 39.05,
-            "name": "LINCOLN 4 WNW SOIL CONSERVATION SERVICE 5, KS US",
-            "datacoverage": 0.9998,
-            "id": "COOP:144717",
-            "elevationUnit": "METERS",
-            "longitude": -98.21667
-        },
-        {
-            "elevation": 424,
-            "mindate": "1955-07-01",
-            "maxdate": "1958-06-01",
-            "latitude": 39.05,
-            "name": "LINCOLN 1 NNW SOIL CONSERVATION SERVICE 6, KS US",
-            "datacoverage": 0.9998,
-            "id": "COOP:144718",
-            "elevationUnit": "METERS",
-            "longitude": -98.16667
-        },
-        {
             "elevation": 433.1,
             "mindate": "2001-05-01",
             "maxdate": "2015-11-01",
@@ -3544,17 +2778,6 @@
             "id": "COOP:144735",
             "elevationUnit": "METERS",
             "longitude": -97.6083
-        },
-        {
-            "elevation": 399.9,
-            "mindate": "1951-07-01",
-            "maxdate": "1959-07-01",
-            "latitude": 38.6,
-            "name": "LINDSBORG 3 NE, KS US",
-            "datacoverage": 1,
-            "id": "COOP:144739",
-            "elevationUnit": "METERS",
-            "longitude": -97.63333
         },
         {
             "elevation": 616,
@@ -3623,17 +2846,6 @@
             "longitude": -98.0255
         },
         {
-            "elevation": 762.9,
-            "mindate": "1951-09-01",
-            "maxdate": "1969-09-01",
-            "latitude": 39.46667,
-            "name": "LUCERNE 2 SE, KS US",
-            "datacoverage": 0.9908,
-            "id": "COOP:144877",
-            "elevationUnit": "METERS",
-            "longitude": -100.18333
-        },
-        {
             "elevation": 475.5,
             "mindate": "1948-08-01",
             "maxdate": "2015-11-01",
@@ -3643,17 +2855,6 @@
             "id": "COOP:144893",
             "elevationUnit": "METERS",
             "longitude": -98.64118
-        },
-        {
-            "elevation": 307.8,
-            "mindate": "1931-01-01",
-            "maxdate": "1967-04-01",
-            "latitude": 38.61667,
-            "name": "LYNDON, KS US",
-            "datacoverage": 1,
-            "id": "COOP:144910",
-            "elevationUnit": "METERS",
-            "longitude": -95.68333
         },
         {
             "elevation": 317,
@@ -3700,17 +2901,6 @@
             "longitude": -96.1399
         },
         {
-            "elevation": 396.8,
-            "mindate": "1948-06-01",
-            "maxdate": "1958-04-01",
-            "latitude": 39.1,
-            "name": "MANCHESTER, KS US",
-            "datacoverage": 1,
-            "id": "COOP:144969",
-            "elevationUnit": "METERS",
-            "longitude": -97.31667
-        },
-        {
             "elevation": 323.1,
             "mindate": "1893-06-01",
             "maxdate": "2015-11-01",
@@ -3755,17 +2945,6 @@
             "longitude": -98.2038
         },
         {
-            "elevation": 412.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1968-03-01",
-            "latitude": 38.35,
-            "name": "MARION, KS US",
-            "datacoverage": 0.9978,
-            "id": "COOP:145037",
-            "elevationUnit": "METERS",
-            "longitude": -97
-        },
-        {
             "elevation": 417.3,
             "mindate": "1966-01-01",
             "maxdate": "2015-11-01",
@@ -3797,17 +2976,6 @@
             "id": "COOP:145069",
             "elevationUnit": "METERS",
             "longitude": -96.56
-        },
-        {
-            "elevation": 964.1,
-            "mindate": "1949-07-01",
-            "maxdate": "1953-06-01",
-            "latitude": 39,
-            "name": "MCALLASTER, KS US",
-            "datacoverage": 0.3542,
-            "id": "COOP:145096",
-            "elevationUnit": "METERS",
-            "longitude": -101.4
         },
         {
             "elevation": 655.3,
@@ -3896,17 +3064,6 @@
             "id": "COOP:145175",
             "elevationUnit": "METERS",
             "longitude": -98.5528
-        },
-        {
-            "elevation": 451.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1942-09-01",
-            "latitude": 38.15,
-            "name": "MEDORA 1 NW, KS US",
-            "datacoverage": 1,
-            "id": "COOP:145185",
-            "elevationUnit": "METERS",
-            "longitude": -97.85
         },
         {
             "elevation": 333.5,
@@ -4019,23 +3176,12 @@
             "longitude": -100.0719
         },
         {
-            "elevation": 342,
-            "mindate": "1940-10-01",
-            "maxdate": "1959-01-01",
-            "latitude": 39.93333,
-            "name": "MORRILL, KS US",
-            "datacoverage": 0.9545,
-            "id": "COOP:145491",
-            "elevationUnit": "METERS",
-            "longitude": -95.7
-        },
-        {
             "elevation": 317,
             "mindate": "1948-08-01",
             "maxdate": "1982-02-18",
             "latitude": 38.83333,
             "name": "MORSE, KS US",
-            "datacoverage": 1,
+            "datacoverage": 0.0335,
             "id": "COOP:145508",
             "elevationUnit": "METERS",
             "longitude": -94.71667
@@ -4151,17 +3297,6 @@
             "longitude": -97.35525
         },
         {
-            "elevation": 488,
-            "mindate": "1941-01-01",
-            "maxdate": "1959-04-01",
-            "latitude": 38.15,
-            "name": "NICKERSON, KS US",
-            "datacoverage": 1,
-            "id": "COOP:145758",
-            "elevationUnit": "METERS",
-            "longitude": -98.08333
-        },
-        {
             "elevation": 365.8,
             "mindate": "1958-05-01",
             "maxdate": "1998-10-01",
@@ -4193,17 +3328,6 @@
             "id": "COOP:145852",
             "elevationUnit": "METERS",
             "longitude": -99.93863
-        },
-        {
-            "elevation": 702,
-            "mindate": "1950-10-01",
-            "maxdate": "1964-11-01",
-            "latitude": 39.83333,
-            "name": "NORTON, KS US",
-            "datacoverage": 0.9881,
-            "id": "COOP:145854",
-            "elevationUnit": "METERS",
-            "longitude": -99.9
         },
         {
             "elevation": 735.5,
@@ -4283,17 +3407,6 @@
             "longitude": -99.5505
         },
         {
-            "elevation": 374.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1950-09-01",
-            "latitude": 39.96667,
-            "name": "OKETO, KS US",
-            "datacoverage": 1,
-            "id": "COOP:145964",
-            "elevationUnit": "METERS",
-            "longitude": -96.6
-        },
-        {
             "elevation": 321.6,
             "mindate": "1931-01-01",
             "maxdate": "2009-09-01",
@@ -4303,15 +3416,6 @@
             "id": "COOP:145972",
             "elevationUnit": "METERS",
             "longitude": -94.7602
-        },
-        {
-            "mindate": "1948-08-01",
-            "maxdate": "1958-03-01",
-            "latitude": 37.41667,
-            "name": "OLD SPRINGFIELD, KS US",
-            "datacoverage": 0.9479,
-            "id": "COOP:145989",
-            "longitude": -100.68333
         },
         {
             "elevation": 341.1,
@@ -4422,17 +3526,6 @@
             "id": "COOP:146154",
             "elevationUnit": "METERS",
             "longitude": -95.5192
-        },
-        {
-            "elevation": 335.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1950-05-01",
-            "latitude": 38.78333,
-            "name": "OVERBROOK 9 E, KS US",
-            "datacoverage": 1,
-            "id": "COOP:146159",
-            "elevationUnit": "METERS",
-            "longitude": -95.4
         },
         {
             "elevation": 321.6,
@@ -4600,46 +3693,15 @@
             "longitude": -99.3808
         },
         {
-            "elevation": 264.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1959-09-01",
-            "latitude": 38.18333,
-            "name": "PLEASANTON, KS US",
-            "datacoverage": 1,
-            "id": "COOP:146455",
-            "elevationUnit": "METERS",
-            "longitude": -94.7
-        },
-        {
             "elevation": 515.1,
             "mindate": "1948-08-01",
             "maxdate": "1978-03-01",
             "latitude": 37.96667,
             "name": "PLEVNA, KS US",
-            "datacoverage": 1,
+            "datacoverage": 0.0313,
             "id": "COOP:146469",
             "elevationUnit": "METERS",
             "longitude": -98.3
-        },
-        {
-            "mindate": "1941-01-01",
-            "maxdate": "1948-02-01",
-            "latitude": 37.11667,
-            "name": "POINT ROCK, KS US",
-            "datacoverage": 0.9424,
-            "id": "COOP:146483",
-            "longitude": -101.98333
-        },
-        {
-            "elevation": 305.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1958-09-01",
-            "latitude": 38.7,
-            "name": "POMONA 6 N, KS US",
-            "datacoverage": 0.9911,
-            "id": "COOP:146493",
-            "elevationUnit": "METERS",
-            "longitude": -95.45
         },
         {
             "elevation": 324,
@@ -4752,17 +3814,6 @@
             "longitude": -98.03333
         },
         {
-            "elevation": 326.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1959-12-01",
-            "latitude": 39.45,
-            "name": "RANDOLPH, KS US",
-            "datacoverage": 0.9943,
-            "id": "COOP:146677",
-            "elevationUnit": "METERS",
-            "longitude": -96.73333
-        },
-        {
             "elevation": 356.6,
             "mindate": "1989-04-01",
             "maxdate": "2015-11-01",
@@ -4840,17 +3891,6 @@
             "longitude": -101.9512
         },
         {
-            "elevation": 406,
-            "mindate": "1944-08-01",
-            "maxdate": "1963-01-01",
-            "latitude": 37.78333,
-            "name": "RIPLEY, KS US",
-            "datacoverage": 0.9864,
-            "id": "COOP:146862",
-            "elevationUnit": "METERS",
-            "longitude": -97.35
-        },
-        {
             "elevation": 368.8,
             "mindate": "2003-05-01",
             "maxdate": "2015-11-01",
@@ -4904,17 +3944,6 @@
             "id": "COOP:147043",
             "elevationUnit": "METERS",
             "longitude": -98.7052
-        },
-        {
-            "elevation": 558.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1958-10-01",
-            "latitude": 38.9,
-            "name": "RUSSELL, KS US",
-            "datacoverage": 1,
-            "id": "COOP:147044",
-            "elevationUnit": "METERS",
-            "longitude": -98.85
         },
         {
             "elevation": 568.1,
@@ -5005,17 +4034,6 @@
             "longitude": -101.8066
         },
         {
-            "elevation": 1031.1,
-            "mindate": "1949-10-01",
-            "maxdate": "1951-05-29",
-            "latitude": 39.76667,
-            "name": "SAINT FRANCIS 1 SE, KS US",
-            "datacoverage": 0.851,
-            "id": "COOP:147094",
-            "elevationUnit": "METERS",
-            "longitude": -101.8
-        },
-        {
             "elevation": 1104,
             "mindate": "1949-05-01",
             "maxdate": "2015-11-01",
@@ -5036,28 +4054,6 @@
             "id": "COOP:147140",
             "elevationUnit": "METERS",
             "longitude": -100.0256
-        },
-        {
-            "elevation": 371.9,
-            "mindate": "1894-05-01",
-            "maxdate": "1952-02-01",
-            "latitude": 38.81667,
-            "name": "SALINA, KS US",
-            "datacoverage": 0.9971,
-            "id": "COOP:147153",
-            "elevationUnit": "METERS",
-            "longitude": -97.6
-        },
-        {
-            "elevation": 386.8,
-            "mindate": "1951-10-01",
-            "maxdate": "1952-01-01",
-            "latitude": 38.8,
-            "name": "SALINA MUNICIPAL AIRPORT, KS US",
-            "datacoverage": 0.0258,
-            "id": "COOP:147155",
-            "elevationUnit": "METERS",
-            "longitude": -97.65
         },
         {
             "elevation": 373.1,
@@ -5181,17 +4177,6 @@
             "longitude": -101.75126
         },
         {
-            "elevation": 1104,
-            "mindate": "1949-07-01",
-            "maxdate": "1952-12-01",
-            "latitude": 38.76667,
-            "name": "SHARON SPRINGS 9 SE, KS US",
-            "datacoverage": 0.9036,
-            "id": "COOP:147402",
-            "elevationUnit": "METERS",
-            "longitude": -101.71667
-        },
-        {
             "elevation": 342,
             "mindate": "2011-01-01",
             "maxdate": "2015-05-01",
@@ -5236,17 +4221,6 @@
             "longitude": -98.7783
         },
         {
-            "elevation": 946.1,
-            "mindate": "1950-10-01",
-            "maxdate": "1952-12-01",
-            "latitude": 39.01667,
-            "name": "SMOKY HILL, KS US",
-            "datacoverage": 0.9986,
-            "id": "COOP:147545",
-            "elevationUnit": "METERS",
-            "longitude": -101.35
-        },
-        {
             "elevation": 438.9,
             "mindate": "2011-01-01",
             "maxdate": "2015-11-01",
@@ -5267,28 +4241,6 @@
             "id": "COOP:147551",
             "elevationUnit": "METERS",
             "longitude": -97.6678
-        },
-        {
-            "elevation": 427,
-            "mindate": "1948-06-01",
-            "maxdate": "1961-04-01",
-            "latitude": 39.5,
-            "name": "HAVENSVILLE 2 E, KS US",
-            "datacoverage": 0.9937,
-            "id": "COOP:147558",
-            "elevationUnit": "METERS",
-            "longitude": -96.03333
-        },
-        {
-            "elevation": 360,
-            "mindate": "1931-01-01",
-            "maxdate": "1958-04-01",
-            "latitude": 38.91667,
-            "name": "SOLOMON, KS US",
-            "datacoverage": 0.5397,
-            "id": "COOP:147566",
-            "elevationUnit": "METERS",
-            "longitude": -97.36667
         },
         {
             "elevation": 313.9,
@@ -5344,17 +4296,6 @@
             "id": "COOP:147832",
             "elevationUnit": "METERS",
             "longitude": -99.24528
-        },
-        {
-            "elevation": 555.3,
-            "mindate": "1952-05-01",
-            "maxdate": "1959-10-01",
-            "latitude": 39.5628,
-            "name": "STOCKTON 9 N, KS US",
-            "datacoverage": 0.4999,
-            "id": "COOP:147836",
-            "elevationUnit": "METERS",
-            "longitude": -99.2844
         },
         {
             "elevation": 790.3,
@@ -5478,17 +4419,6 @@
             "longitude": -95.0522
         },
         {
-            "elevation": 253,
-            "mindate": "1931-09-01",
-            "maxdate": "1958-12-01",
-            "latitude": 39.11667,
-            "name": "TONGANOXIE 3 W, KS US",
-            "datacoverage": 0.9878,
-            "id": "COOP:148157",
-            "elevationUnit": "METERS",
-            "longitude": -95.15
-        },
-        {
             "elevation": 267,
             "mindate": "1948-01-01",
             "maxdate": "2015-11-01",
@@ -5509,39 +4439,6 @@
             "id": "COOP:148171",
             "elevationUnit": "METERS",
             "longitude": -95.6304
-        },
-        {
-            "elevation": 281.9,
-            "mindate": "1948-01-01",
-            "maxdate": "1958-05-31",
-            "latitude": 39.05,
-            "name": "TOPEKA, KS US",
-            "datacoverage": 1,
-            "id": "COOP:148172",
-            "elevationUnit": "METERS",
-            "longitude": -95.66667
-        },
-        {
-            "elevation": 274.9,
-            "mindate": "1934-10-01",
-            "maxdate": "1943-05-01",
-            "latitude": 39.06667,
-            "name": "TOPEKA 2 NW, KS US",
-            "datacoverage": 1,
-            "id": "COOP:148180",
-            "elevationUnit": "METERS",
-            "longitude": -95.7
-        },
-        {
-            "elevation": 287.1,
-            "mindate": "1897-04-01",
-            "maxdate": "1962-12-01",
-            "latitude": 37.8,
-            "name": "TORONTO, KS US",
-            "datacoverage": 0.9975,
-            "id": "COOP:148186",
-            "elevationUnit": "METERS",
-            "longitude": -95.95
         },
         {
             "elevation": 289.6,
@@ -5676,17 +4573,6 @@
             "longitude": -100.1687
         },
         {
-            "elevation": 307.8,
-            "mindate": "1931-01-01",
-            "maxdate": "1958-11-01",
-            "latitude": 39.33333,
-            "name": "VALLEY FALLS 2 E, KS US",
-            "datacoverage": 0.9881,
-            "id": "COOP:148340",
-            "elevationUnit": "METERS",
-            "longitude": -95.41667
-        },
-        {
             "elevation": 320.3,
             "mindate": "1958-12-01",
             "maxdate": "2015-11-01",
@@ -5698,17 +4584,6 @@
             "longitude": -95.4862
         },
         {
-            "elevation": 267.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1936-12-01",
-            "latitude": 38.83333,
-            "name": "VINLAND, KS US",
-            "datacoverage": 0.9998,
-            "id": "COOP:148425",
-            "elevationUnit": "METERS",
-            "longitude": -95.18333
-        },
-        {
             "elevation": 311.5,
             "mindate": "1952-05-01",
             "maxdate": "2015-11-01",
@@ -5718,28 +4593,6 @@
             "id": "COOP:148436",
             "elevationUnit": "METERS",
             "longitude": -96.0086
-        },
-        {
-            "elevation": 296,
-            "mindate": "1934-09-01",
-            "maxdate": "1949-07-01",
-            "latitude": 38.6,
-            "name": "WAGSTAFF, KS US",
-            "datacoverage": 0.9889,
-            "id": "COOP:148485",
-            "elevationUnit": "METERS",
-            "longitude": -94.85
-        },
-        {
-            "elevation": 320,
-            "mindate": "1955-04-01",
-            "maxdate": "1960-03-01",
-            "latitude": 38.9,
-            "name": "WAKARUSA 2 NE, KS US",
-            "datacoverage": 0.9496,
-            "id": "COOP:148490",
-            "elevationUnit": "METERS",
-            "longitude": -95.66667
         },
         {
             "elevation": 745.2,
@@ -5830,17 +4683,6 @@
             "longitude": -97.055
         },
         {
-            "elevation": 351.1,
-            "mindate": "1959-07-01",
-            "maxdate": "1962-12-01",
-            "latitude": 39.76667,
-            "name": "WATERVILLE 9 NW, KS US",
-            "datacoverage": 0.975,
-            "id": "COOP:148596",
-            "elevationUnit": "METERS",
-            "longitude": -96.88333
-        },
-        {
             "elevation": 341.4,
             "mindate": "1948-01-01",
             "maxdate": "1993-05-01",
@@ -5896,28 +4738,6 @@
             "longitude": -95.8132
         },
         {
-            "elevation": 454.2,
-            "mindate": "1931-01-01",
-            "maxdate": "1954-11-01",
-            "latitude": 39.5,
-            "name": "WHEATON, KS US",
-            "datacoverage": 0.9513,
-            "id": "COOP:148769",
-            "elevationUnit": "METERS",
-            "longitude": -96.31667
-        },
-        {
-            "elevation": 1086,
-            "mindate": "1951-10-01",
-            "maxdate": "1953-04-01",
-            "latitude": 39.56667,
-            "name": "WHEELER 13 S, KS US",
-            "datacoverage": 1,
-            "id": "COOP:148773",
-            "elevationUnit": "METERS",
-            "longitude": -101.7
-        },
-        {
             "elevation": 446.2,
             "mindate": "1961-03-01",
             "maxdate": "2015-11-01",
@@ -5927,17 +4747,6 @@
             "id": "COOP:148802",
             "elevationUnit": "METERS",
             "longitude": -96.7287
-        },
-        {
-            "elevation": 386.3,
-            "mindate": "1948-01-01",
-            "maxdate": "1953-12-21",
-            "latitude": 37.65,
-            "name": "WICHITA RIVER, KS US",
-            "datacoverage": 0.9998,
-            "id": "COOP:148828",
-            "elevationUnit": "METERS",
-            "longitude": -97.333333
         },
         {
             "elevation": 402.6,
@@ -5960,17 +4769,6 @@
             "id": "COOP:148847",
             "elevationUnit": "METERS",
             "longitude": -97.443
-        },
-        {
-            "elevation": 281,
-            "mindate": "1931-01-01",
-            "maxdate": "1957-08-01",
-            "latitude": 39.08333,
-            "name": "WILLARD, KS US",
-            "datacoverage": 0.9781,
-            "id": "COOP:148886",
-            "elevationUnit": "METERS",
-            "longitude": -95.93333
         },
         {
             "elevation": 342.3,
@@ -6015,17 +4813,6 @@
             "id": "COOP:148935",
             "elevationUnit": "METERS",
             "longitude": -96.6716
-        },
-        {
-            "elevation": 473,
-            "mindate": "1950-02-01",
-            "maxdate": "1963-05-01",
-            "latitude": 38.95,
-            "name": "WILSON 8 NW, KS US",
-            "datacoverage": 1,
-            "id": "COOP:148941",
-            "elevationUnit": "METERS",
-            "longitude": -98.51667
         },
         {
             "elevation": 460.9,
@@ -6169,17 +4956,6 @@
             "id": "COOP:253589",
             "elevationUnit": "METERS",
             "longitude": -97.9288
-        },
-        {
-            "elevation": 448.1,
-            "mindate": "1958-02-01",
-            "maxdate": "2015-11-01",
-            "latitude": 40.0099,
-            "name": "HUBBELL, NE US",
-            "datacoverage": 0.9986,
-            "id": "COOP:254043",
-            "elevationUnit": "METERS",
-            "longitude": -97.4977
         },
         {
             "elevation": 148.1,
@@ -10998,6 +9774,1238 @@
             "id": "GHCND:US1KSGY0029",
             "elevationUnit": "METERS",
             "longitude": -100.441276550293
+        },
+        {
+            "elevation": 801.6,
+            "mindate": "1998-06-17",
+            "maxdate": "2020-05-16",
+            "latitude": 37.805969,
+            "name": "CIMARRON 0.2 SE, KS US",
+            "datacoverage": 0.1352,
+            "id": "GHCND:US1KSGY0030",
+            "elevationUnit": "METERS",
+            "longitude": -100.343049
+        },
+        {
+            "elevation": 798,
+            "mindate": "2017-03-03",
+            "maxdate": "2020-05-12",
+            "latitude": 37.803423,
+            "name": "CIMARRON 0.3 S, KS US",
+            "datacoverage": 0.0951,
+            "id": "GHCND:US1KSGY0032",
+            "elevationUnit": "METERS",
+            "longitude": -100.346406
+        },
+        {
+            "elevation": 826.6,
+            "mindate": "2017-03-14",
+            "maxdate": "2019-05-23",
+            "latitude": 37.808794,
+            "name": "INGALLS 2.4 WSW, KS US",
+            "datacoverage": 0.9988,
+            "id": "GHCND:US1KSGY0033",
+            "elevationUnit": "METERS",
+            "longitude": -100.488202
+        },
+        {
+            "elevation": 837,
+            "mindate": "2018-05-01",
+            "maxdate": "2020-05-16",
+            "latitude": 37.8102,
+            "name": "INGALLS 4.6 WSW, KS US",
+            "datacoverage": 0.9585,
+            "id": "GHCND:US1KSGY0034",
+            "elevationUnit": "METERS",
+            "longitude": -100.5336
+        },
+        {
+            "elevation": 774.2,
+            "mindate": "2005-05-01",
+            "maxdate": "2020-05-16",
+            "latitude": 38.072,
+            "name": "JETMORE 12 W, KS US",
+            "datacoverage": 0.6974,
+            "id": "GHCND:US1KSHG0001",
+            "elevationUnit": "METERS",
+            "longitude": -100.11
+        },
+        {
+            "elevation": 726,
+            "mindate": "2006-07-01",
+            "maxdate": "2020-05-15",
+            "latitude": 38.02853,
+            "name": "JETMORE 6.9 ESE, KS US",
+            "datacoverage": 0.7255,
+            "id": "GHCND:US1KSHG0003",
+            "elevationUnit": "METERS",
+            "longitude": -99.78599
+        },
+        {
+            "elevation": 716,
+            "mindate": "2007-01-01",
+            "maxdate": "2009-08-01",
+            "latitude": 38.065083,
+            "name": "GRAY 6.2 SSE, KS US",
+            "datacoverage": 1,
+            "id": "GHCND:US1KSHG0004",
+            "elevationUnit": "METERS",
+            "longitude": -99.594463
+        },
+        {
+            "elevation": 712,
+            "mindate": "2007-04-01",
+            "maxdate": "2020-05-17",
+            "latitude": 38.084071,
+            "name": "JETMORE 0.2 WNW, KS US",
+            "datacoverage": 0.9986,
+            "id": "GHCND:US1KSHG0005",
+            "elevationUnit": "METERS",
+            "longitude": -99.896647
+        },
+        {
+            "elevation": 700.1,
+            "mindate": "2007-04-01",
+            "maxdate": "2010-11-24",
+            "latitude": 38.072826,
+            "name": "JETMORE 3.6 WSW, KS US",
+            "datacoverage": 0.9994,
+            "id": "GHCND:US1KSHG0006",
+            "elevationUnit": "METERS",
+            "longitude": -99.958256
+        },
+        {
+            "elevation": 790,
+            "mindate": "2008-05-01",
+            "maxdate": "2020-05-17",
+            "latitude": 38.02912,
+            "name": "JETMORE 14.9 WSW, KS US",
+            "datacoverage": 0.9998,
+            "id": "GHCND:US1KSHG0008",
+            "elevationUnit": "METERS",
+            "longitude": -100.15691
+        },
+        {
+            "elevation": 659,
+            "mindate": "2008-05-01",
+            "maxdate": "2019-10-09",
+            "latitude": 38.10476,
+            "name": "HANSTON 1.6 SW, KS US",
+            "datacoverage": 0.6631,
+            "id": "GHCND:US1KSHG0009",
+            "elevationUnit": "METERS",
+            "longitude": -99.73103
+        },
+        {
+            "elevation": 767.2,
+            "mindate": "2012-03-01",
+            "maxdate": "2020-05-16",
+            "latitude": 38.15285,
+            "name": "JETMORE 11.5 WNW, KS US",
+            "datacoverage": 0.8568,
+            "id": "GHCND:US1KSHG0012",
+            "elevationUnit": "METERS",
+            "longitude": -100.0843167
+        },
+        {
+            "elevation": 1155.2,
+            "mindate": "2005-05-01",
+            "maxdate": "2020-05-16",
+            "latitude": 38.22187,
+            "name": "SYRACUSE 20 NW, KS US",
+            "datacoverage": 0.6771,
+            "id": "GHCND:US1KSHM0001",
+            "elevationUnit": "METERS",
+            "longitude": -101.98602
+        },
+        {
+            "elevation": 1051.6,
+            "mindate": "2005-06-01",
+            "maxdate": "2020-05-16",
+            "latitude": 38.1325,
+            "name": "KENDALL 13 N, KS US",
+            "datacoverage": 0.7937,
+            "id": "GHCND:US1KSHM0002",
+            "elevationUnit": "METERS",
+            "longitude": -101.578
+        },
+        {
+            "elevation": 1020.2,
+            "mindate": "2005-06-01",
+            "maxdate": "2020-05-17",
+            "latitude": 37.783275,
+            "name": "SYRACUSE 14.4 SSW, KS US",
+            "datacoverage": 1,
+            "id": "GHCND:US1KSHM0003",
+            "elevationUnit": "METERS",
+            "longitude": -101.834585
+        },
+        {
+            "elevation": 1139,
+            "mindate": "2005-07-01",
+            "maxdate": "2016-09-13",
+            "latitude": 38.2261,
+            "name": "SYRACUSE 19 NNW, KS US",
+            "datacoverage": 0.8627,
+            "id": "GHCND:US1KSHM0004",
+            "elevationUnit": "METERS",
+            "longitude": -101.9275
+        },
+        {
+            "elevation": 1029,
+            "mindate": "2006-11-01",
+            "maxdate": "2020-05-16",
+            "latitude": 37.9376,
+            "name": "SYRACUSE 7.2 WSW, KS US",
+            "datacoverage": 1,
+            "id": "GHCND:US1KSHM0005",
+            "elevationUnit": "METERS",
+            "longitude": -101.8714
+        },
+        {
+            "elevation": 1053.1,
+            "mindate": "2006-09-01",
+            "maxdate": "2020-05-16",
+            "latitude": 38.08372,
+            "name": "SYRACUSE 8.0 NNE, KS US",
+            "datacoverage": 0.9392,
+            "id": "GHCND:US1KSHM0006",
+            "elevationUnit": "METERS",
+            "longitude": -101.68427
+        },
+        {
+            "elevation": 1086,
+            "mindate": "2006-10-01",
+            "maxdate": "2020-05-16",
+            "latitude": 38.132809,
+            "name": "SYRACUSE 10.6 N, KS US",
+            "datacoverage": 0.7435,
+            "id": "GHCND:US1KSHM0007",
+            "elevationUnit": "METERS",
+            "longitude": -101.71667
+        },
+        {
+            "elevation": 1007.4,
+            "mindate": "2006-10-01",
+            "maxdate": "2018-06-20",
+            "latitude": 37.99369,
+            "name": "SYRACUSE 1.0 NNE, KS US",
+            "datacoverage": 1,
+            "id": "GHCND:US1KSHM0008",
+            "elevationUnit": "METERS",
+            "longitude": -101.74279
+        },
+        {
+            "elevation": 1021.1,
+            "mindate": "2009-08-01",
+            "maxdate": "2020-01-17",
+            "latitude": 38.019552,
+            "name": "COOLIDGE 1.6 SSW, KS US",
+            "datacoverage": 0.3421,
+            "id": "GHCND:US1KSHM0012",
+            "elevationUnit": "METERS",
+            "longitude": -102.017685
+        },
+        {
+            "elevation": 985.1,
+            "mindate": "2008-03-01",
+            "maxdate": "2018-12-01",
+            "latitude": 37.982495,
+            "name": "SYRACUSE 0.1 NNE, KS US",
+            "datacoverage": 0.9947,
+            "id": "GHCND:US1KSHM0014",
+            "elevationUnit": "METERS",
+            "longitude": -101.750558
+        },
+        {
+            "elevation": 1082,
+            "mindate": "2008-07-01",
+            "maxdate": "2020-05-16",
+            "latitude": 38.229672,
+            "name": "SYRACUSE 17.2 N, KS US",
+            "datacoverage": 0.9675,
+            "id": "GHCND:US1KSHM0016",
+            "elevationUnit": "METERS",
+            "longitude": -101.726542
+        },
+        {
+            "elevation": 1038.8,
+            "mindate": "2009-06-01",
+            "maxdate": "2020-05-16",
+            "latitude": 37.796583,
+            "name": "SYRACUSE 15.4 SW, KS US",
+            "datacoverage": 1,
+            "id": "GHCND:US1KSHM0018",
+            "elevationUnit": "METERS",
+            "longitude": -101.909183
+        },
+        {
+            "elevation": 1033.6,
+            "mindate": "2010-03-01",
+            "maxdate": "2020-05-16",
+            "latitude": 38.017502,
+            "name": "SYRACUSE 3.1 NNE, KS US",
+            "datacoverage": 0.9996,
+            "id": "GHCND:US1KSHM0019",
+            "elevationUnit": "METERS",
+            "longitude": -101.73041
+        },
+        {
+            "elevation": 1056.4,
+            "mindate": "2013-07-01",
+            "maxdate": "2019-10-02",
+            "latitude": 37.750838,
+            "name": "SYRACUSE 18.6 SSW, KS US",
+            "datacoverage": 0.7928,
+            "id": "GHCND:US1KSHM0022",
+            "elevationUnit": "METERS",
+            "longitude": -101.928733
+        },
+        {
+            "elevation": 1009.5,
+            "mindate": "2013-08-01",
+            "maxdate": "2019-09-20",
+            "latitude": 38.003317,
+            "name": "SYRACUSE 3.1 WNW, KS US",
+            "datacoverage": 0.8574,
+            "id": "GHCND:US1KSHM0023",
+            "elevationUnit": "METERS",
+            "longitude": -101.800509
+        },
+        {
+            "elevation": 1010.4,
+            "mindate": "2013-08-15",
+            "maxdate": "2020-05-16",
+            "latitude": 37.99018,
+            "name": "KENDALL 3.5 N, KS US",
+            "datacoverage": 0.0953,
+            "id": "GHCND:US1KSHM0025",
+            "elevationUnit": "METERS",
+            "longitude": -101.54175
+        },
+        {
+            "elevation": 1024.4,
+            "mindate": "2014-04-01",
+            "maxdate": "2020-05-16",
+            "latitude": 38.0408491194248,
+            "name": "COOLIDGE 0.1 W, KS US",
+            "datacoverage": 0.9566,
+            "id": "GHCND:US1KSHM0026",
+            "elevationUnit": "METERS",
+            "longitude": -102.010025382042
+        },
+        {
+            "elevation": 979.6,
+            "mindate": "2014-09-30",
+            "maxdate": "2020-05-16",
+            "latitude": 37.956771,
+            "name": "SYRACUSE 4.6 ESE, KS US",
+            "datacoverage": 0.998,
+            "id": "GHCND:US1KSHM0029",
+            "elevationUnit": "METERS",
+            "longitude": -101.673219
+        },
+        {
+            "elevation": 1038.5,
+            "mindate": "2015-06-01",
+            "maxdate": "2019-12-28",
+            "latitude": 37.7775547653437,
+            "name": "KENDALL 13.9 SW, KS US",
+            "datacoverage": 0.0927,
+            "id": "GHCND:US1KSHM0031",
+            "elevationUnit": "METERS",
+            "longitude": -101.690203472972
+        },
+        {
+            "elevation": 438.9,
+            "mindate": "2007-05-01",
+            "maxdate": "2015-07-30",
+            "latitude": 37.277247,
+            "name": "HARPER 0.6 SSW, KS US",
+            "datacoverage": 0.3333,
+            "id": "GHCND:US1KSHP0001",
+            "elevationUnit": "METERS",
+            "longitude": -98.029785
+        },
+        {
+            "elevation": 414.5,
+            "mindate": "2010-06-01",
+            "maxdate": "2020-05-17",
+            "latitude": 37.158676,
+            "name": "ANTHONY 0.4 NNW, KS US",
+            "datacoverage": 0.9998,
+            "id": "GHCND:US1KSHP0003",
+            "elevationUnit": "METERS",
+            "longitude": -98.0315182
+        },
+        {
+            "elevation": 899.2,
+            "mindate": "2006-07-01",
+            "maxdate": "2008-06-26",
+            "latitude": 37.47698,
+            "name": "SUBLETTE 0.6 SW, KS US",
+            "datacoverage": 0.6246,
+            "id": "GHCND:US1KSHS0001",
+            "elevationUnit": "METERS",
+            "longitude": -100.85372
+        },
+        {
+            "elevation": 906.8,
+            "mindate": "2007-04-01",
+            "maxdate": "2008-05-18",
+            "latitude": 37.58262,
+            "name": "SATANTA 10.1 N, KS US",
+            "datacoverage": 0.998,
+            "id": "GHCND:US1KSHS0002",
+            "elevationUnit": "METERS",
+            "longitude": -100.98622
+        },
+        {
+            "elevation": 919.9,
+            "mindate": "2010-10-01",
+            "maxdate": "2017-09-26",
+            "latitude": 37.611911,
+            "name": "SATANTA 12.2 N, KS US",
+            "datacoverage": 0.9998,
+            "id": "GHCND:US1KSHS0004",
+            "elevationUnit": "METERS",
+            "longitude": -101.013039
+        },
+        {
+            "elevation": 914.1,
+            "mindate": "1998-06-01",
+            "maxdate": "2014-05-20",
+            "latitude": 37.690527,
+            "name": "SATANTA 17.6 N, KS US",
+            "datacoverage": 1,
+            "id": "GHCND:US1KSHS0005",
+            "elevationUnit": "METERS",
+            "longitude": -100.9987
+        },
+        {
+            "elevation": 905,
+            "mindate": "2017-04-01",
+            "maxdate": "2019-11-28",
+            "latitude": 37.432878,
+            "name": "SATANTA 0.3 SSW, KS US",
+            "datacoverage": 0.7047,
+            "id": "GHCND:US1KSHS0008",
+            "elevationUnit": "METERS",
+            "longitude": -100.990409
+        },
+        {
+            "elevation": 449,
+            "mindate": "2007-09-01",
+            "maxdate": "2020-05-16",
+            "latitude": 37.995906,
+            "name": "NEWTON 6.2 ESE, KS US",
+            "datacoverage": 1,
+            "id": "GHCND:US1KSHV0001",
+            "elevationUnit": "METERS",
+            "longitude": -97.245208
+        },
+        {
+            "elevation": 437.1,
+            "mindate": "2007-06-01",
+            "maxdate": "2020-05-15",
+            "latitude": 38.053718,
+            "name": "NEWTON 6.5 WNW, KS US",
+            "datacoverage": 0.83,
+            "id": "GHCND:US1KSHV0002",
+            "elevationUnit": "METERS",
+            "longitude": -97.464171
+        },
+        {
+            "elevation": 441,
+            "mindate": "2007-08-01",
+            "maxdate": "2020-05-15",
+            "latitude": 38.047466,
+            "name": "NEWTON 0.8 WNW, KS US",
+            "datacoverage": 0.9973,
+            "id": "GHCND:US1KSHV0004",
+            "elevationUnit": "METERS",
+            "longitude": -97.355862
+        },
+        {
+            "elevation": 442.9,
+            "mindate": "1998-06-01",
+            "maxdate": "2020-05-17",
+            "latitude": 38.039881,
+            "name": "NEWTON 1.0 ESE, KS US",
+            "datacoverage": 0.9162,
+            "id": "GHCND:US1KSHV0005",
+            "elevationUnit": "METERS",
+            "longitude": -97.323735
+        },
+        {
+            "elevation": 447.4,
+            "mindate": "2008-07-01",
+            "maxdate": "2009-12-12",
+            "latitude": 38.138487,
+            "name": "HESSTON 1.1 E, KS US",
+            "datacoverage": 1,
+            "id": "GHCND:US1KSHV0006",
+            "elevationUnit": "METERS",
+            "longitude": -97.406793
+        },
+        {
+            "elevation": 442.9,
+            "mindate": "2009-08-01",
+            "maxdate": "2016-06-16",
+            "latitude": 38.087307,
+            "name": "HESSTON 7 SW, KS US",
+            "datacoverage": 0.3376,
+            "id": "GHCND:US1KSHV0007",
+            "elevationUnit": "METERS",
+            "longitude": -97.541912
+        },
+        {
+            "elevation": 444.1,
+            "mindate": "2010-09-01",
+            "maxdate": "2020-05-16",
+            "latitude": 38.0797,
+            "name": "NORTH NEWTON 0.6 NW, KS US",
+            "datacoverage": 0.7613,
+            "id": "GHCND:US1KSHV0009",
+            "elevationUnit": "METERS",
+            "longitude": -97.3531
+        },
+        {
+            "elevation": 425.5,
+            "mindate": "2011-11-01",
+            "maxdate": "2019-10-31",
+            "latitude": 38.00411,
+            "name": "HALSTEAD 0.5 WNW, KS US",
+            "datacoverage": 0.8262,
+            "id": "GHCND:US1KSHV0010",
+            "elevationUnit": "METERS",
+            "longitude": -97.51826
+        },
+        {
+            "elevation": 431.9,
+            "mindate": "2011-11-01",
+            "maxdate": "2020-05-15",
+            "latitude": 38.110649,
+            "name": "BURRTON 7.4 NE, KS US",
+            "datacoverage": 0.9819,
+            "id": "GHCND:US1KSHV0011",
+            "elevationUnit": "METERS",
+            "longitude": -97.595576
+        },
+        {
+            "elevation": 444.1,
+            "mindate": "2012-01-01",
+            "maxdate": "2018-10-25",
+            "latitude": 38.16,
+            "name": "MOUNDRIDGE 3.2 SSW, KS US",
+            "datacoverage": 0.5858,
+            "id": "GHCND:US1KSHV0012",
+            "elevationUnit": "METERS",
+            "longitude": -97.54
+        },
+        {
+            "elevation": 438,
+            "mindate": "2012-05-01",
+            "maxdate": "2020-05-15",
+            "latitude": 38.013500213623,
+            "name": "HALSTEAD 4.1 WNW, KS US",
+            "datacoverage": 0.8508,
+            "id": "GHCND:US1KSHV0013",
+            "elevationUnit": "METERS",
+            "longitude": -97.5837707519531
+        },
+        {
+            "elevation": 445.6,
+            "mindate": "2012-10-01",
+            "maxdate": "2020-05-15",
+            "latitude": 38.0684933066368,
+            "name": "NEWTON 3.1 WNW, KS US",
+            "datacoverage": 0.7621,
+            "id": "GHCND:US1KSHV0014",
+            "elevationUnit": "METERS",
+            "longitude": -97.3904427140951
+        },
+        {
+            "elevation": 425.5,
+            "mindate": "2012-10-01",
+            "maxdate": "2019-10-15",
+            "latitude": 38.004478,
+            "name": "HALSTEAD 0.8 WNW, KS US",
+            "datacoverage": 0.8574,
+            "id": "GHCND:US1KSHV0015",
+            "elevationUnit": "METERS",
+            "longitude": -97.523108
+        },
+        {
+            "elevation": 443.2,
+            "mindate": "2012-12-20",
+            "maxdate": "2019-06-06",
+            "latitude": 38.079961,
+            "name": "NORTH NEWTON 0.5 NNW, KS US",
+            "datacoverage": 0.0496,
+            "id": "GHCND:US1KSHV0016",
+            "elevationUnit": "METERS",
+            "longitude": -97.349383
+        },
+        {
+            "elevation": 435.6,
+            "mindate": "2013-04-01",
+            "maxdate": "2020-05-17",
+            "latitude": 38.02041,
+            "name": "HALSTEAD 3.8 WNW, KS US",
+            "datacoverage": 0.9998,
+            "id": "GHCND:US1KSHV0017",
+            "elevationUnit": "METERS",
+            "longitude": -97.57521
+        },
+        {
+            "elevation": 443.5,
+            "mindate": "2013-07-27",
+            "maxdate": "2020-05-15",
+            "latitude": 38.0722182244062,
+            "name": "HALSTEAD 4.9 N, KS US",
+            "datacoverage": 0.095,
+            "id": "GHCND:US1KSHV0019",
+            "elevationUnit": "METERS",
+            "longitude": -97.5066822767258
+        },
+        {
+            "elevation": 427.3,
+            "mindate": "2013-08-01",
+            "maxdate": "2020-05-15",
+            "latitude": 38.024199,
+            "name": "HALSTEAD 3.0 ENE, KS US",
+            "datacoverage": 0.7584,
+            "id": "GHCND:US1KSHV0020",
+            "elevationUnit": "METERS",
+            "longitude": -97.462916
+        },
+        {
+            "elevation": 443.2,
+            "mindate": "2011-10-01",
+            "maxdate": "2017-10-27",
+            "latitude": 38.0818,
+            "name": "NORTH NEWTON 0.6 NNW, KS US",
+            "datacoverage": 0.5184,
+            "id": "GHCND:US1KSHV0021",
+            "elevationUnit": "METERS",
+            "longitude": -97.349937
+        },
+        {
+            "elevation": 426.4,
+            "mindate": "2014-04-01",
+            "maxdate": "2020-05-15",
+            "latitude": 37.995007,
+            "name": "HALSTEAD 0.4 S, KS US",
+            "datacoverage": 0.998,
+            "id": "GHCND:US1KSHV0022",
+            "elevationUnit": "METERS",
+            "longitude": -97.508713
+        },
+        {
+            "elevation": 422.5,
+            "mindate": "2014-07-01",
+            "maxdate": "2020-05-15",
+            "latitude": 37.9558304697275,
+            "name": "SEDGWICK 3.8 NW, KS US",
+            "datacoverage": 0.1496,
+            "id": "GHCND:US1KSHV0023",
+            "elevationUnit": "METERS",
+            "longitude": -97.4756960570812
+        },
+        {
+            "elevation": 426.1,
+            "mindate": "2014-06-23",
+            "maxdate": "2020-05-15",
+            "latitude": 37.9987831115723,
+            "name": "HALSTEAD 0.5 WSW, KS US",
+            "datacoverage": 0.1435,
+            "id": "GHCND:US1KSHV0024",
+            "elevationUnit": "METERS",
+            "longitude": -97.5174407958984
+        },
+        {
+            "elevation": 447.4,
+            "mindate": "2014-12-01",
+            "maxdate": "2020-05-17",
+            "latitude": 38.13346,
+            "name": "HESSTON 0.6 SW, KS US",
+            "datacoverage": 1,
+            "id": "GHCND:US1KSHV0026",
+            "elevationUnit": "METERS",
+            "longitude": -97.4362776428461
+        },
+        {
+            "elevation": 437.4,
+            "mindate": "2015-09-28",
+            "maxdate": "2020-05-15",
+            "latitude": 38.071498,
+            "name": "HALSTEAD 5.3 NNW, KS US",
+            "datacoverage": 1,
+            "id": "GHCND:US1KSHV0027",
+            "elevationUnit": "METERS",
+            "longitude": -97.547744
+        },
+        {
+            "elevation": 439.2,
+            "mindate": "2015-11-18",
+            "maxdate": "2020-05-15",
+            "latitude": 37.942242,
+            "name": "BURRTON 5.6 S, KS US",
+            "datacoverage": 0.0707,
+            "id": "GHCND:US1KSHV0028",
+            "elevationUnit": "METERS",
+            "longitude": -97.656174
+        },
+        {
+            "elevation": 444.4,
+            "mindate": "2016-05-27",
+            "maxdate": "2019-07-04",
+            "latitude": 38.064701,
+            "name": "NEWTON 1.7 NNW, KS US",
+            "datacoverage": 0.1332,
+            "id": "GHCND:US1KSHV0030",
+            "elevationUnit": "METERS",
+            "longitude": -97.35826
+        },
+        {
+            "elevation": 441.7,
+            "mindate": "2016-08-01",
+            "maxdate": "2020-05-16",
+            "latitude": 37.975079,
+            "name": "NEWTON 5.1 SSE, KS US",
+            "datacoverage": 1,
+            "id": "GHCND:US1KSHV0035",
+            "elevationUnit": "METERS",
+            "longitude": -97.309994
+        },
+        {
+            "elevation": 448.7,
+            "mindate": "2017-04-26",
+            "maxdate": "2017-11-12",
+            "latitude": 38.136873,
+            "name": "HESSTON 0.6 WSW, KS US",
+            "datacoverage": 0.9925,
+            "id": "GHCND:US1KSHV0036",
+            "elevationUnit": "METERS",
+            "longitude": -97.438446
+        },
+        {
+            "elevation": 442.9,
+            "mindate": "2017-08-04",
+            "maxdate": "2020-05-15",
+            "latitude": 38.151903,
+            "name": "PEABODY 5.6 WSW, KS US",
+            "datacoverage": 0.1693,
+            "id": "GHCND:US1KSHV0037",
+            "elevationUnit": "METERS",
+            "longitude": -97.208197
+        },
+        {
+            "elevation": 433.4,
+            "mindate": "2016-04-15",
+            "maxdate": "2020-05-15",
+            "latitude": 37.958315,
+            "name": "HALSTEAD 4.6 SW, KS US",
+            "datacoverage": 1,
+            "id": "GHCND:US1KSHV0038",
+            "elevationUnit": "METERS",
+            "longitude": -97.575185
+        },
+        {
+            "elevation": 453.8,
+            "mindate": "2018-08-14",
+            "maxdate": "2020-05-16",
+            "latitude": 38.147687,
+            "name": "HESSTON 0.6 NNW, KS US",
+            "datacoverage": 0.8982,
+            "id": "GHCND:US1KSHV0040",
+            "elevationUnit": "METERS",
+            "longitude": -97.431722
+        },
+        {
+            "elevation": 465.7,
+            "mindate": "2018-09-01",
+            "maxdate": "2020-01-27",
+            "latitude": 38.1186,
+            "name": "WALTON 0.3 W, KS US",
+            "datacoverage": 0.3618,
+            "id": "GHCND:US1KSHV0041",
+            "elevationUnit": "METERS",
+            "longitude": -97.261
+        },
+        {
+            "elevation": 365.8,
+            "mindate": "2011-11-01",
+            "maxdate": "2020-05-15",
+            "latitude": 39.30324,
+            "name": "MAYETTA 5.5 WSW, KS US",
+            "datacoverage": 1,
+            "id": "GHCND:US1KSJA0001",
+            "elevationUnit": "METERS",
+            "longitude": -95.81413
+        },
+        {
+            "elevation": 352,
+            "mindate": "2013-06-01",
+            "maxdate": "2020-05-14",
+            "latitude": 39.32607,
+            "name": "MAYETTA 6.8 W, KS US",
+            "datacoverage": 0.9999,
+            "id": "GHCND:US1KSJA0003",
+            "elevationUnit": "METERS",
+            "longitude": -95.848167
+        },
+        {
+            "elevation": 340.2,
+            "mindate": "2016-05-07",
+            "maxdate": "2020-05-16",
+            "latitude": 39.424637,
+            "name": "SOLDIER 8.1 SSE, KS US",
+            "datacoverage": 0.8219,
+            "id": "GHCND:US1KSJA0005",
+            "elevationUnit": "METERS",
+            "longitude": -95.924465
+        },
+        {
+            "elevation": 347.5,
+            "mindate": "2016-06-01",
+            "maxdate": "2019-07-22",
+            "latitude": 39.362598,
+            "name": "MAYETTA 5.0 WNW, KS US",
+            "datacoverage": 0.5013,
+            "id": "GHCND:US1KSJA0006",
+            "elevationUnit": "METERS",
+            "longitude": -95.810004
+        },
+        {
+            "elevation": 342,
+            "mindate": "2016-07-04",
+            "maxdate": "2020-05-05",
+            "latitude": 39.2738609313965,
+            "name": "HOYT 2.3 NW, KS US",
+            "datacoverage": 1,
+            "id": "GHCND:US1KSJA0007",
+            "elevationUnit": "METERS",
+            "longitude": -95.7355346679688
+        },
+        {
+            "elevation": 342.3,
+            "mindate": "2008-05-01",
+            "maxdate": "2010-11-13",
+            "latitude": 39.21634,
+            "name": "MCLOUTH 2.0 NW, KS US",
+            "datacoverage": 0.998,
+            "id": "GHCND:US1KSJF0001",
+            "elevationUnit": "METERS",
+            "longitude": -95.25059
+        },
+        {
+            "elevation": 335,
+            "mindate": "2008-11-01",
+            "maxdate": "2020-05-15",
+            "latitude": 39.0485,
+            "name": "LAWRENCE 6.8 NNE, KS US",
+            "datacoverage": 1,
+            "id": "GHCND:US1KSJF0002",
+            "elevationUnit": "METERS",
+            "longitude": -95.1931
+        },
+        {
+            "elevation": 278.6,
+            "mindate": "2011-06-01",
+            "maxdate": "2020-05-17",
+            "latitude": 39.105075,
+            "name": "GRANTVILLE 1.6 NE, KS US",
+            "datacoverage": 0.9996,
+            "id": "GHCND:US1KSJF0003",
+            "elevationUnit": "METERS",
+            "longitude": -95.548972
+        },
+        {
+            "elevation": 355.4,
+            "mindate": "2014-07-01",
+            "maxdate": "2017-12-24",
+            "latitude": 39.19479,
+            "name": "MCLOUTH 1.6 W, KS US",
+            "datacoverage": 0.9971,
+            "id": "GHCND:US1KSJF0004",
+            "elevationUnit": "METERS",
+            "longitude": -95.23824
+        },
+        {
+            "elevation": 266.7,
+            "mindate": "2015-04-01",
+            "maxdate": "2017-08-22",
+            "latitude": 39.065987,
+            "name": "TOPEKA 5.8 ENE, KS US",
+            "datacoverage": 0.7485,
+            "id": "GHCND:US1KSJF0005",
+            "elevationUnit": "METERS",
+            "longitude": -95.590773
+        },
+        {
+            "elevation": 356,
+            "mindate": "2016-06-27",
+            "maxdate": "2017-05-04",
+            "latitude": 39.41701683,
+            "name": "NORTONVILLE 0.3 WNW, KS US",
+            "datacoverage": 0.9167,
+            "id": "GHCND:US1KSJF0006",
+            "elevationUnit": "METERS",
+            "longitude": -95.33690365
+        },
+        {
+            "elevation": 332.2,
+            "mindate": "2016-06-30",
+            "maxdate": "2020-05-14",
+            "latitude": 39.208294,
+            "name": "OSKALOOSA 0.5 S, KS US",
+            "datacoverage": 0.5661,
+            "id": "GHCND:US1KSJF0007",
+            "elevationUnit": "METERS",
+            "longitude": -95.312561
+        },
+        {
+            "elevation": 349.9,
+            "mindate": "2018-06-25",
+            "maxdate": "2020-05-14",
+            "latitude": 39.193217,
+            "name": "MCLOUTH 0.2 SE, KS US",
+            "datacoverage": 0.9819,
+            "id": "GHCND:US1KSJF0008",
+            "elevationUnit": "METERS",
+            "longitude": -95.206186
+        },
+        {
+            "elevation": 296,
+            "mindate": "1998-06-01",
+            "maxdate": "2017-10-27",
+            "latitude": 38.9963,
+            "name": "SHAWNEE 5.1 WSW, KS US",
+            "datacoverage": 0.9114,
+            "id": "GHCND:US1KSJO0001",
+            "elevationUnit": "METERS",
+            "longitude": -94.8951
+        },
+        {
+            "elevation": 296,
+            "mindate": "2005-09-01",
+            "maxdate": "2007-03-02",
+            "latitude": 38.852478,
+            "name": "STANLEY 0.2 NW, KS US",
+            "datacoverage": 0.9819,
+            "id": "GHCND:US1KSJO0003",
+            "elevationUnit": "METERS",
+            "longitude": -94.652194
+        },
+        {
+            "elevation": 278.9,
+            "mindate": "1998-06-01",
+            "maxdate": "2015-12-04",
+            "latitude": 38.9987,
+            "name": "SHAWNEE 2.4 ESE, KS US",
+            "datacoverage": 0.8648,
+            "id": "GHCND:US1KSJO0005",
+            "elevationUnit": "METERS",
+            "longitude": -94.7641
+        },
+        {
+            "elevation": 319.1,
+            "mindate": "2005-07-01",
+            "maxdate": "2020-05-17",
+            "latitude": 38.9049,
+            "name": "OLATHE 3.3 ENE, KS US",
+            "datacoverage": 0.9999,
+            "id": "GHCND:US1KSJO0006",
+            "elevationUnit": "METERS",
+            "longitude": -94.7569
+        },
+        {
+            "elevation": 324,
+            "mindate": "2005-08-01",
+            "maxdate": "2013-07-24",
+            "latitude": 38.985771,
+            "name": "PRAIRIE VILLAGE 0.1 SW, KS US",
+            "datacoverage": 1,
+            "id": "GHCND:US1KSJO0007",
+            "elevationUnit": "METERS",
+            "longitude": -94.637228
+        },
+        {
+            "elevation": 316.1,
+            "mindate": "2005-09-01",
+            "maxdate": "2011-01-08",
+            "latitude": 38.974854,
+            "name": "OVERLAND PARK 4.3 NNE, KS US",
+            "datacoverage": 0.9998,
+            "id": "GHCND:US1KSJO0008",
+            "elevationUnit": "METERS",
+            "longitude": -94.668666
+        },
+        {
+            "elevation": 309.1,
+            "mindate": "2006-03-01",
+            "maxdate": "2013-11-05",
+            "latitude": 38.984232,
+            "name": "LENEXA 2.4 NE, KS US",
+            "datacoverage": 0.5804,
+            "id": "GHCND:US1KSJO0010",
+            "elevationUnit": "METERS",
+            "longitude": -94.753424
+        },
+        {
+            "elevation": 317.9,
+            "mindate": "2006-06-01",
+            "maxdate": "2014-11-25",
+            "latitude": 38.892999,
+            "name": "OLATHE 2.8 W, KS US",
+            "datacoverage": 0.9999,
+            "id": "GHCND:US1KSJO0012",
+            "elevationUnit": "METERS",
+            "longitude": -94.86656
+        },
+        {
+            "elevation": 298.7,
+            "mindate": "2008-06-01",
+            "maxdate": "2009-06-25",
+            "latitude": 38.908747,
+            "name": "OVERLAND PARK 0.5 SE, KS US",
+            "datacoverage": 0.9947,
+            "id": "GHCND:US1KSJO0021",
+            "elevationUnit": "METERS",
+            "longitude": -94.678518
+        },
+        {
+            "elevation": 316.1,
+            "mindate": "2009-02-01",
+            "maxdate": "2020-05-16",
+            "latitude": 38.814432,
+            "name": "GARDNER 0.4 ENE, KS US",
+            "datacoverage": 1,
+            "id": "GHCND:US1KSJO0024",
+            "elevationUnit": "METERS",
+            "longitude": -94.919411
+        },
+        {
+            "elevation": 324.9,
+            "mindate": "2009-03-01",
+            "maxdate": "2009-10-07",
+            "latitude": 38.801783,
+            "name": "GARDNER 0.7 SSW, KS US",
+            "datacoverage": 0.998,
+            "id": "GHCND:US1KSJO0025",
+            "elevationUnit": "METERS",
+            "longitude": -94.928697
+        },
+        {
+            "elevation": 315.5,
+            "mindate": "2009-03-01",
+            "maxdate": "2009-12-12",
+            "latitude": 38.811407,
+            "name": "EDGERTON 3.9 NNW, KS US",
+            "datacoverage": 0.9947,
+            "id": "GHCND:US1KSJO0026",
+            "elevationUnit": "METERS",
+            "longitude": -95.051364
+        },
+        {
+            "elevation": 323.1,
+            "mindate": "2009-03-01",
+            "maxdate": "2012-11-29",
+            "latitude": 38.8513,
+            "name": "GARDNER 2.7 N, KS US",
+            "datacoverage": 0.999,
+            "id": "GHCND:US1KSJO0027",
+            "elevationUnit": "METERS",
+            "longitude": -94.9167
+        },
+        {
+            "elevation": 289.6,
+            "mindate": "2009-04-01",
+            "maxdate": "2015-05-17",
+            "latitude": 38.9512,
+            "name": "OVERLAND PARK 2.6 N, KS US",
+            "datacoverage": 0.8177,
+            "id": "GHCND:US1KSJO0028",
+            "elevationUnit": "METERS",
+            "longitude": -94.6939
+        },
+        {
+            "elevation": 246,
+            "mindate": "2009-04-01",
+            "maxdate": "2013-04-15",
+            "latitude": 39.019007,
+            "name": "SHAWNEE 1.8 W, KS US",
+            "datacoverage": 0.7762,
+            "id": "GHCND:US1KSJO0029",
+            "elevationUnit": "METERS",
+            "longitude": -94.836817
+        },
+        {
+            "elevation": 320,
+            "mindate": "2009-04-01",
+            "maxdate": "2012-09-01",
+            "latitude": 38.80574,
+            "name": "GARDNER 1.4 ESE, KS US",
+            "datacoverage": 0.7853,
+            "id": "GHCND:US1KSJO0030",
+            "elevationUnit": "METERS",
+            "longitude": -94.900961
+        },
+        {
+            "elevation": 310.9,
+            "mindate": "2009-07-01",
+            "maxdate": "2010-07-30",
+            "latitude": 38.91964,
+            "name": "OVERLAND PARK 0.5 NE, KS US",
+            "datacoverage": 0.6918,
+            "id": "GHCND:US1KSJO0032",
+            "elevationUnit": "METERS",
+            "longitude": -94.67833
+        },
+        {
+            "elevation": 323.7,
+            "mindate": "2010-01-01",
+            "maxdate": "2016-09-11",
+            "latitude": 38.9765045,
+            "name": "OVERLAND PARK 0.6 SE, KS US",
+            "datacoverage": 1,
+            "id": "GHCND:US1KSJO0034",
+            "elevationUnit": "METERS",
+            "longitude": -94.6617766
+        },
+        {
+            "elevation": 299.6,
+            "mindate": "2010-06-01",
+            "maxdate": "2014-02-20",
+            "latitude": 38.8495,
+            "name": "OVERLAND PARK 4.6 S, KS US",
+            "datacoverage": 0.9783,
+            "id": "GHCND:US1KSJO0036",
+            "elevationUnit": "METERS",
+            "longitude": -94.6713
+        },
+        {
+            "elevation": 319.7,
+            "mindate": "2011-05-01",
+            "maxdate": "2013-04-10",
+            "latitude": 38.80235,
+            "name": "GARDNER 0.8 SSW, KS US",
+            "datacoverage": 0.9947,
+            "id": "GHCND:US1KSJO0037",
+            "elevationUnit": "METERS",
+            "longitude": -94.93342
+        },
+        {
+            "elevation": 243.8,
+            "mindate": "2011-08-01",
+            "maxdate": "2013-06-17",
+            "latitude": 39.0460009,
+            "name": "SHAWNEE 3.2 NW, KS US",
+            "datacoverage": 0.998,
+            "id": "GHCND:US1KSJO0038",
+            "elevationUnit": "METERS",
+            "longitude": -94.849204
+        },
+        {
+            "elevation": 291.7,
+            "mindate": "2012-04-01",
+            "maxdate": "2020-05-17",
+            "latitude": 38.9846,
+            "name": "LENEXA 2.0 NE, KS US",
+            "datacoverage": 1,
+            "id": "GHCND:US1KSJO0040",
+            "elevationUnit": "METERS",
+            "longitude": -94.7633
+        },
+        {
+            "elevation": 309.7,
+            "mindate": "2012-07-01",
+            "maxdate": "2015-11-27",
+            "latitude": 38.96952,
+            "name": "LENEXA 2.8 E, KS US",
+            "datacoverage": 1,
+            "id": "GHCND:US1KSJO0041",
+            "elevationUnit": "METERS",
+            "longitude": -94.737822
+        },
+        {
+            "elevation": 303.3,
+            "mindate": "2013-07-01",
+            "maxdate": "2020-05-16",
+            "latitude": 38.9315452575684,
+            "name": "OLATHE 4.9 NW, KS US",
+            "datacoverage": 1,
+            "id": "GHCND:US1KSJO0042",
+            "elevationUnit": "METERS",
+            "longitude": -94.8865356445313
+        },
+        {
+            "elevation": 289,
+            "mindate": "2015-05-01",
+            "maxdate": "2016-01-17",
+            "latitude": 38.951583,
+            "name": "OVERLAND PARK 4.2 NE, KS US",
+            "datacoverage": 0.9925,
+            "id": "GHCND:US1KSJO0049",
+            "elevationUnit": "METERS",
+            "longitude": -94.622387
+        },
+        {
+            "elevation": 242,
+            "mindate": "2015-05-01",
+            "maxdate": "2017-09-17",
+            "latitude": 39.033764,
+            "name": "SHAWNEE 1.8 NW, KS US",
+            "datacoverage": 0.7247,
+            "id": "GHCND:US1KSJO0050",
+            "elevationUnit": "METERS",
+            "longitude": -94.826969
+        },
+        {
+            "elevation": 312.4,
+            "mindate": "2006-12-08",
+            "maxdate": "2020-05-17",
+            "latitude": 38.906398,
+            "name": "OLATHE 1.6 NNE, KS US",
+            "datacoverage": 0.7917,
+            "id": "GHCND:US1KSJO0051",
+            "elevationUnit": "METERS",
+            "longitude": -94.798858
+        },
+        {
+            "elevation": 299.9,
+            "mindate": "2016-06-29",
+            "maxdate": "2020-05-17",
+            "latitude": 38.86693,
+            "name": "OVERLAND PARK 3.3 S, KS US",
+            "datacoverage": 1,
+            "id": "GHCND:US1KSJO0053",
+            "elevationUnit": "METERS",
+            "longitude": -94.692337
+        },
+        {
+            "elevation": 319.4,
+            "mindate": "2017-03-20",
+            "maxdate": "2019-10-23",
+            "latitude": 38.91778,
+            "name": "OVERLAND PARK 0.4 WNW, KS US",
+            "datacoverage": 0.6234,
+            "id": "GHCND:US1KSJO0056",
+            "elevationUnit": "METERS",
+            "longitude": -94.69201
+        },
+        {
+            "elevation": 314.6,
+            "mindate": "2017-06-01",
+            "maxdate": "2020-05-16",
+            "latitude": 39.001897,
+            "name": "OVERLAND PARK 1.7 NE, KS US",
+            "datacoverage": 1,
+            "id": "GHCND:US1KSJO0058",
+            "elevationUnit": "METERS",
+            "longitude": -94.653479
         }
     ]
 }

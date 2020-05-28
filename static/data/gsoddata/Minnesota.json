@@ -2,7 +2,7 @@
     "metadata": {
         "resultset": {
             "offset": 1,
-            "count": 1791,
+            "count": 1616,
             "limit": 1000
         }
     },
@@ -57,32 +57,10 @@
             "maxdate": "2003-09-01",
             "latitude": 43.66667,
             "name": "ALBERT LEA 3 E, MN US",
-            "datacoverage": 0.7145,
+            "datacoverage": 0.022,
             "id": "COOP:210080",
             "elevationUnit": "METERS",
             "longitude": -93.3
-        },
-        {
-            "elevation": 402.9,
-            "mindate": "1948-08-01",
-            "maxdate": "1952-12-01",
-            "latitude": 46.96667,
-            "name": "ALBORN, MN US",
-            "datacoverage": 0.5469,
-            "id": "COOP:210096",
-            "elevationUnit": "METERS",
-            "longitude": -92.58333
-        },
-        {
-            "elevation": 431.3,
-            "mindate": "1931-01-01",
-            "maxdate": "1947-12-01",
-            "latitude": 45.87829,
-            "name": "ALEXANDRIA, MN US",
-            "datacoverage": 1,
-            "id": "COOP:210110",
-            "elevationUnit": "METERS",
-            "longitude": -95.38274
         },
         {
             "elevation": 431.6,
@@ -105,17 +83,6 @@
             "id": "COOP:210116",
             "elevationUnit": "METERS",
             "longitude": -95.3657
-        },
-        {
-            "elevation": 454.2,
-            "mindate": "1948-08-01",
-            "maxdate": "1952-10-01",
-            "latitude": 47.53333,
-            "name": "ALLEN JUNCTION, MN US",
-            "datacoverage": 0.49,
-            "id": "COOP:210128",
-            "elevationUnit": "METERS",
-            "longitude": -92.11667
         },
         {
             "elevation": 263.7,
@@ -327,17 +294,6 @@
             "longitude": -94.9
         },
         {
-            "elevation": 427,
-            "mindate": "1948-08-01",
-            "maxdate": "1953-07-01",
-            "latitude": 47.71667,
-            "name": "BLACKDDCK RANGER STATION, MN US",
-            "datacoverage": 0.9835,
-            "id": "COOP:210803",
-            "elevationUnit": "METERS",
-            "longitude": -94.56667
-        },
-        {
             "elevation": 408.4,
             "mindate": "1989-11-01",
             "maxdate": "2015-11-01",
@@ -380,17 +336,6 @@
             "id": "COOP:210855",
             "elevationUnit": "METERS",
             "longitude": -94.0947
-        },
-        {
-            "elevation": 371.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1955-04-01",
-            "latitude": 46.36667,
-            "name": "BRAINERD, MN US",
-            "datacoverage": 1,
-            "id": "COOP:210934",
-            "elevationUnit": "METERS",
-            "longitude": -94.18333
         },
         {
             "elevation": 359.7,
@@ -624,15 +569,6 @@
             "longitude": -93.0266
         },
         {
-            "mindate": "1949-03-01",
-            "maxdate": "1951-08-01",
-            "latitude": 48.7,
-            "name": "CENTRAL, MN US",
-            "datacoverage": 0.3853,
-            "id": "COOP:211426",
-            "longitude": -94.35
-        },
-        {
             "elevation": 288.3,
             "mindate": "1996-01-01",
             "maxdate": "2015-11-01",
@@ -671,7 +607,7 @@
             "maxdate": "1998-05-30",
             "latitude": 48.68333,
             "name": "CLEMENTSON, MN US",
-            "datacoverage": 0.998,
+            "datacoverage": 0.0291,
             "id": "COOP:211589",
             "elevationUnit": "METERS",
             "longitude": -94.43333
@@ -697,17 +633,6 @@
             "id": "COOP:211669",
             "elevationUnit": "METERS",
             "longitude": -94.25
-        },
-        {
-            "elevation": 402.9,
-            "mindate": "1934-07-01",
-            "maxdate": "1954-07-01",
-            "latitude": 47.26667,
-            "name": "COLERAINE, MN US",
-            "datacoverage": 0.9086,
-            "id": "COOP:211675",
-            "elevationUnit": "METERS",
-            "longitude": -93.46667
         },
         {
             "elevation": 368.8,
@@ -770,7 +695,7 @@
             "maxdate": "1981-06-01",
             "latitude": 45.23333,
             "name": "CORRELL, MN US",
-            "datacoverage": 0.8928,
+            "datacoverage": 0.0352,
             "id": "COOP:211812",
             "elevationUnit": "METERS",
             "longitude": -96.16667
@@ -807,17 +732,6 @@
             "id": "COOP:211891",
             "elevationUnit": "METERS",
             "longitude": -96.6139
-        },
-        {
-            "elevation": 396.8,
-            "mindate": "1948-08-01",
-            "maxdate": "1951-08-01",
-            "latitude": 47.51667,
-            "name": "CUT FOOT SIOUX RANGE, MN US",
-            "datacoverage": 0.3244,
-            "id": "COOP:211963",
-            "elevationUnit": "METERS",
-            "longitude": -94.01667
         },
         {
             "elevation": 402.3,
@@ -902,21 +816,10 @@
             "maxdate": "2014-01-01",
             "latitude": 44.0317,
             "name": "DODGE CENTER, MN US",
-            "datacoverage": 0.3892,
+            "datacoverage": 0.0349,
             "id": "COOP:212166",
             "elevationUnit": "METERS",
             "longitude": -92.8691
-        },
-        {
-            "elevation": 244.1,
-            "mindate": "1956-04-01",
-            "maxdate": "1966-12-01",
-            "latitude": 48.56667,
-            "name": "DRAYTON N DAK 2 NE, MN US",
-            "datacoverage": 0.8293,
-            "id": "COOP:212222",
-            "elevationUnit": "METERS",
-            "longitude": -97.15
         },
         {
             "elevation": 185.9,
@@ -950,28 +853,6 @@
             "id": "COOP:212250",
             "elevationUnit": "METERS",
             "longitude": -92.2108
-        },
-        {
-            "elevation": 353.9,
-            "mindate": "1948-08-01",
-            "maxdate": "1959-09-01",
-            "latitude": 46.78333,
-            "name": "DULUTH, MN US",
-            "datacoverage": 0.9063,
-            "id": "COOP:212253",
-            "elevationUnit": "METERS",
-            "longitude": -92.1
-        },
-        {
-            "elevation": 274.3,
-            "mindate": "1948-08-01",
-            "maxdate": "1948-11-25",
-            "latitude": 44.08333,
-            "name": "ELBA, MN US",
-            "datacoverage": 0.9819,
-            "id": "COOP:212468",
-            "elevationUnit": "METERS",
-            "longitude": -92.01667
         },
         {
             "elevation": 405.4,
@@ -1184,11 +1065,11 @@
         },
         {
             "elevation": 427.6,
-            "mindate": "1940-01-01",
+            "mindate": "1948-08-01",
             "maxdate": "2014-01-01",
             "latitude": 46.7336,
             "name": "FRAZEE, MN US",
-            "datacoverage": 0.8944,
+            "datacoverage": 0.0251,
             "id": "COOP:212964",
             "elevationUnit": "METERS",
             "longitude": -95.7066
@@ -1337,17 +1218,6 @@
             "longitude": -90.8842
         },
         {
-            "elevation": 476.1,
-            "mindate": "1948-08-01",
-            "maxdate": "1951-09-01",
-            "latitude": 48.08333,
-            "name": "GUNFLINT LAKE, MN US",
-            "datacoverage": 0.3532,
-            "id": "COOP:213419",
-            "elevationUnit": "METERS",
-            "longitude": -90.7
-        },
-        {
             "elevation": 248.4,
             "mindate": "1931-01-01",
             "maxdate": "2015-11-01",
@@ -1392,15 +1262,6 @@
             "longitude": -92.0122
         },
         {
-            "mindate": "1950-02-01",
-            "maxdate": "1950-02-01",
-            "latitude": 44.76667,
-            "name": "HASTINGS LOCK 2, MN US",
-            "datacoverage": 1,
-            "id": "COOP:213562",
-            "longitude": -92.86667
-        },
-        {
             "elevation": 207.3,
             "mindate": "1932-10-01",
             "maxdate": "2015-11-01",
@@ -1432,17 +1293,6 @@
             "id": "COOP:213678",
             "elevationUnit": "METERS",
             "longitude": -93.97
-        },
-        {
-            "elevation": 328.9,
-            "mindate": "1948-08-01",
-            "maxdate": "1957-03-01",
-            "latitude": 45.8,
-            "name": "HERMAN, MN US",
-            "datacoverage": 0.9425,
-            "id": "COOP:213708",
-            "elevationUnit": "METERS",
-            "longitude": -96.15
         },
         {
             "elevation": 467,
@@ -1478,17 +1328,6 @@
             "longitude": -95.85
         },
         {
-            "elevation": 371.9,
-            "mindate": "1948-08-01",
-            "maxdate": "1951-10-01",
-            "latitude": 46.98333,
-            "name": "HILL CITY RANGER STATION, MN US",
-            "datacoverage": 0.359,
-            "id": "COOP:213764",
-            "elevationUnit": "METERS",
-            "longitude": -93.6
-        },
-        {
             "elevation": 315.5,
             "mindate": "1937-06-01",
             "maxdate": "2010-12-01",
@@ -1498,17 +1337,6 @@
             "id": "COOP:213793",
             "elevationUnit": "METERS",
             "longitude": -92.9927
-        },
-        {
-            "elevation": 317,
-            "mindate": "1951-03-01",
-            "maxdate": "1960-05-30",
-            "latitude": 46.01667,
-            "name": "HINCKLEY, MN US",
-            "datacoverage": 0.9956,
-            "id": "COOP:213795",
-            "elevationUnit": "METERS",
-            "longitude": -92.95
         },
         {
             "elevation": 197.2,
@@ -1538,7 +1366,7 @@
             "maxdate": "2014-01-01",
             "latitude": 46.4675,
             "name": "HOLYOKE, MN US",
-            "datacoverage": 0.2289,
+            "datacoverage": 0.0299,
             "id": "COOP:213863",
             "elevationUnit": "METERS",
             "longitude": -92.3903
@@ -1654,17 +1482,6 @@
             "longitude": -92.23333
         },
         {
-            "elevation": 384,
-            "mindate": "1936-04-01",
-            "maxdate": "1945-11-01",
-            "latitude": 46.13333,
-            "name": "ISLE, MN US",
-            "datacoverage": 0.9051,
-            "id": "COOP:214102",
-            "elevationUnit": "METERS",
-            "longitude": -93.46667
-        },
-        {
             "elevation": 391.7,
             "mindate": "1959-10-01",
             "maxdate": "2015-11-01",
@@ -1762,17 +1579,6 @@
             "id": "COOP:214373",
             "elevationUnit": "METERS",
             "longitude": -94.3056
-        },
-        {
-            "elevation": 320,
-            "mindate": "1948-07-01",
-            "maxdate": "1954-06-01",
-            "latitude": 45.01667,
-            "name": "LAC QUI PARLE DAM, MN US",
-            "datacoverage": 0.7216,
-            "id": "COOP:214410",
-            "elevationUnit": "METERS",
-            "longitude": -95.86667
         },
         {
             "elevation": 197.2,
@@ -1874,17 +1680,6 @@
             "longitude": -94.2228
         },
         {
-            "elevation": 390.1,
-            "mindate": "1940-04-01",
-            "maxdate": "1957-05-01",
-            "latitude": 47.73333,
-            "name": "LEONARD 8 NE, MN US",
-            "datacoverage": 0.9515,
-            "id": "COOP:214688",
-            "elevationUnit": "METERS",
-            "longitude": -95.21667
-        },
-        {
             "elevation": 300.2,
             "mindate": "2006-06-01",
             "maxdate": "2015-11-01",
@@ -1901,7 +1696,7 @@
             "maxdate": "2014-01-01",
             "latitude": 44.4698,
             "name": "LE SUEUR, MN US",
-            "datacoverage": 0.8162,
+            "datacoverage": 0.0364,
             "id": "COOP:214721",
             "elevationUnit": "METERS",
             "longitude": -93.9025
@@ -1934,21 +1729,10 @@
             "maxdate": "1972-11-01",
             "latitude": 45.98333,
             "name": "LITTLE FALLS WATER W, MN US",
-            "datacoverage": 0.8162,
+            "datacoverage": 0.0487,
             "id": "COOP:214798",
             "elevationUnit": "METERS",
             "longitude": -94.35
-        },
-        {
-            "elevation": 360,
-            "mindate": "1948-08-01",
-            "maxdate": "1952-12-01",
-            "latitude": 48.4,
-            "name": "LITTLEFORK RANGER ST, MN US",
-            "datacoverage": 0.6789,
-            "id": "COOP:214806",
-            "elevationUnit": "METERS",
-            "longitude": -93.55
         },
         {
             "elevation": 365.8,
@@ -2039,17 +1823,6 @@
             "longitude": -95.9691
         },
         {
-            "elevation": 481.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1962-04-01",
-            "latitude": 47.46667,
-            "name": "MAHONING MINE, MN US",
-            "datacoverage": 0.9868,
-            "id": "COOP:215020",
-            "elevationUnit": "METERS",
-            "longitude": -92.98333
-        },
-        {
             "elevation": 259.1,
             "mindate": "1984-09-01",
             "maxdate": "2010-10-01",
@@ -2057,17 +1830,6 @@
             "name": "MANKATO, MN US",
             "datacoverage": 1,
             "id": "COOP:215073",
-            "elevationUnit": "METERS",
-            "longitude": -94.0212
-        },
-        {
-            "elevation": 259.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1954-08-01",
-            "latitude": 44.1543,
-            "name": "MANKATO, MN US",
-            "datacoverage": 1,
-            "id": "COOP:215088",
             "elevationUnit": "METERS",
             "longitude": -94.0212
         },
@@ -2123,17 +1885,6 @@
             "name": "MEADOWLANDS 9 S, MN US",
             "datacoverage": 0.9591,
             "id": "COOP:215298",
-            "elevationUnit": "METERS",
-            "longitude": -92.73333
-        },
-        {
-            "elevation": 390.1,
-            "mindate": "1952-09-01",
-            "maxdate": "1954-09-01",
-            "latitude": 47.08333,
-            "name": "MEADOWLANDS 1 N, MN US",
-            "datacoverage": 0.0509,
-            "id": "COOP:215302",
             "elevationUnit": "METERS",
             "longitude": -92.73333
         },
@@ -2226,17 +1977,6 @@
             "longitude": -91.8121
         },
         {
-            "elevation": 430.1,
-            "mindate": "1932-01-01",
-            "maxdate": "1940-03-01",
-            "latitude": 47.95,
-            "name": "MIZPAH, MN US",
-            "datacoverage": 0.8991,
-            "id": "COOP:215533",
-            "elevationUnit": "METERS",
-            "longitude": -94.21667
-        },
-        {
             "elevation": 301.8,
             "mindate": "1931-01-01",
             "maxdate": "2015-11-01",
@@ -2270,17 +2010,6 @@
             "longitude": -96.7482
         },
         {
-            "elevation": 287.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1953-07-01",
-            "latitude": 46.86667,
-            "name": "MOORHEAD ST TEACHERS, MN US",
-            "datacoverage": 0.9595,
-            "id": "COOP:215589",
-            "elevationUnit": "METERS",
-            "longitude": -96.75
-        },
-        {
             "elevation": 317,
             "mindate": "2004-02-01",
             "maxdate": "2010-12-01",
@@ -2301,17 +2030,6 @@
             "id": "COOP:215598",
             "elevationUnit": "METERS",
             "longitude": -92.7578
-        },
-        {
-            "elevation": 323.1,
-            "mindate": "1948-08-01",
-            "maxdate": "1960-02-01",
-            "latitude": 46.45,
-            "name": "MOOSE LAKE RANGER ST, MN US",
-            "datacoverage": 0.7555,
-            "id": "COOP:215603",
-            "elevationUnit": "METERS",
-            "longitude": -92.76667
         },
         {
             "elevation": 310.3,
@@ -2345,17 +2063,6 @@
             "id": "COOP:215665",
             "elevationUnit": "METERS",
             "longitude": -93.65
-        },
-        {
-            "elevation": 348.1,
-            "mindate": "1957-04-01",
-            "maxdate": "1961-07-01",
-            "latitude": 48.3005,
-            "name": "AGASSIZ REFUGE, MN US",
-            "datacoverage": 0.9998,
-            "id": "COOP:215693",
-            "elevationUnit": "METERS",
-            "longitude": -95.9816
         },
         {
             "elevation": 411.5,
@@ -2440,7 +2147,7 @@
             "maxdate": "2014-01-01",
             "latitude": 44.4753,
             "name": "NORTHFIELD 2 NNE, MN US",
-            "datacoverage": 0.9191,
+            "datacoverage": 0.0325,
             "id": "COOP:215987",
             "elevationUnit": "METERS",
             "longitude": -93.1486
@@ -2557,11 +2264,11 @@
         },
         {
             "elevation": 423.7,
-            "mindate": "1931-01-01",
+            "mindate": "1948-08-01",
             "maxdate": "2005-10-01",
             "latitude": 48.0553,
             "name": "ORR, MN US",
-            "datacoverage": 0.9718,
+            "datacoverage": 0.0449,
             "id": "COOP:216213",
             "elevationUnit": "METERS",
             "longitude": -92.8425
@@ -2655,17 +2362,6 @@
             "longitude": -96.0894
         },
         {
-            "elevation": 289.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1950-06-29",
-            "latitude": 48,
-            "name": "PIGEON RIVER BRIDGE, MN US",
-            "datacoverage": 0.9959,
-            "id": "COOP:216505",
-            "elevationUnit": "METERS",
-            "longitude": -89.7
-        },
-        {
             "elevation": 381,
             "mindate": "1931-01-01",
             "maxdate": "2015-11-01",
@@ -2708,50 +2404,6 @@
             "id": "COOP:216654",
             "elevationUnit": "METERS",
             "longitude": -92.0747
-        },
-        {
-            "elevation": 392.9,
-            "mindate": "1956-03-01",
-            "maxdate": "1969-06-29",
-            "latitude": 43.6,
-            "name": "PRESTON 6 SW, MN US",
-            "datacoverage": 0.0493,
-            "id": "COOP:216659",
-            "elevationUnit": "METERS",
-            "longitude": -92.13333
-        },
-        {
-            "elevation": 378,
-            "mindate": "1956-01-01",
-            "maxdate": "1969-06-29",
-            "latitude": 43.56667,
-            "name": "PRESTON 8 SW, MN US",
-            "datacoverage": 0.0545,
-            "id": "COOP:216660",
-            "elevationUnit": "METERS",
-            "longitude": -92.16667
-        },
-        {
-            "elevation": 392.9,
-            "mindate": "1956-01-01",
-            "maxdate": "1969-06-29",
-            "latitude": 43.58333,
-            "name": "PRESTON 4 S, MN US",
-            "datacoverage": 0.051,
-            "id": "COOP:216661",
-            "elevationUnit": "METERS",
-            "longitude": -92.08333
-        },
-        {
-            "elevation": 228.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1956-01-01",
-            "latitude": 44.4,
-            "name": "READS LANDING, MN US",
-            "datacoverage": 0.9966,
-            "id": "COOP:216777",
-            "elevationUnit": "METERS",
-            "longitude": -92.08333
         },
         {
             "elevation": 316.4,
@@ -2829,17 +2481,6 @@
             "id": "COOP:216841",
             "elevationUnit": "METERS",
             "longitude": -95.0804
-        },
-        {
-            "elevation": 410,
-            "mindate": "1948-08-01",
-            "maxdate": "1956-12-01",
-            "latitude": 47.06222,
-            "name": "REMER NUMBER 2, MN US",
-            "datacoverage": 0.7523,
-            "id": "COOP:216848",
-            "elevationUnit": "METERS",
-            "longitude": -93.915
         },
         {
             "elevation": 410,
@@ -3062,28 +2703,6 @@
             "longitude": -93.154
         },
         {
-            "elevation": 289.9,
-            "mindate": "1948-08-01",
-            "maxdate": "1949-12-01",
-            "latitude": 45,
-            "name": "ST PAUL UNIVERSITY FARM, MN US",
-            "datacoverage": 0.7859,
-            "id": "COOP:217381",
-            "elevationUnit": "METERS",
-            "longitude": -93.16667
-        },
-        {
-            "elevation": 213.4,
-            "mindate": "1948-01-01",
-            "maxdate": "1953-05-29",
-            "latitude": 44.9322,
-            "name": "ST. PAUL DOWNTOWN AIRPORT, MN US",
-            "datacoverage": 1,
-            "id": "COOP:217386",
-            "elevationUnit": "METERS",
-            "longitude": -93.0558
-        },
-        {
             "elevation": 242.3,
             "mindate": "1931-01-01",
             "maxdate": "2015-11-01",
@@ -3137,17 +2756,6 @@
             "id": "COOP:217602",
             "elevationUnit": "METERS",
             "longitude": -94.7744
-        },
-        {
-            "elevation": 458.1,
-            "mindate": "1948-08-01",
-            "maxdate": "1951-10-01",
-            "latitude": 47.65,
-            "name": "SIDE LAKE RANGER STATION, MN US",
-            "datacoverage": 0.359,
-            "id": "COOP:217657",
-            "elevationUnit": "METERS",
-            "longitude": -93.03333
         },
         {
             "elevation": 481.9,
@@ -3249,17 +2857,6 @@
             "longitude": -92.8522
         },
         {
-            "elevation": 387.1,
-            "mindate": "1959-07-01",
-            "maxdate": "1961-01-01",
-            "latitude": 46.63333,
-            "name": "TAMARACK, MN US",
-            "datacoverage": 0.8906,
-            "id": "COOP:218187",
-            "elevationUnit": "METERS",
-            "longitude": -93.13333
-        },
-        {
             "elevation": 459.6,
             "mindate": "1977-06-01",
             "maxdate": "2015-11-01",
@@ -3269,17 +2866,6 @@
             "id": "COOP:218191",
             "elevationUnit": "METERS",
             "longitude": -95.6546
-        },
-        {
-            "elevation": 232,
-            "mindate": "1931-01-01",
-            "maxdate": "1949-06-01",
-            "latitude": 45.41667,
-            "name": "TAYLORS FALLS 1 NE, MN US",
-            "datacoverage": 1,
-            "id": "COOP:218204",
-            "elevationUnit": "METERS",
-            "longitude": -92.65
         },
         {
             "elevation": 216.1,
@@ -3309,7 +2895,7 @@
             "maxdate": "2014-01-01",
             "latitude": 48.4882,
             "name": "THIEF LAKE REFUGE, MN US",
-            "datacoverage": 0.9479,
+            "datacoverage": 0.0332,
             "id": "COOP:218235",
             "elevationUnit": "METERS",
             "longitude": -95.9496
@@ -3364,7 +2950,7 @@
             "maxdate": "2014-01-01",
             "latitude": 47.5681,
             "name": "TOFTE RANGER STATION, MN US",
-            "datacoverage": 0.5793,
+            "datacoverage": 0.0355,
             "id": "COOP:218280",
             "elevationUnit": "METERS",
             "longitude": -90.85
@@ -3403,34 +2989,12 @@
             "longitude": -95.6308
         },
         {
-            "elevation": 353.9,
-            "mindate": "1948-08-01",
-            "maxdate": "1966-09-01",
-            "latitude": 47.95,
-            "name": "TRAIL 12 NNE, MN US",
-            "datacoverage": 0.6147,
-            "id": "COOP:218332",
-            "elevationUnit": "METERS",
-            "longitude": -95.65
-        },
-        {
-            "elevation": 305.1,
-            "mindate": "1948-08-01",
-            "maxdate": "1948-11-25",
-            "latitude": 47.26667,
-            "name": "TWIN VALLEY, MN US",
-            "datacoverage": 0.998,
-            "id": "COOP:218406",
-            "elevationUnit": "METERS",
-            "longitude": -96.25
-        },
-        {
             "elevation": 318.2,
-            "mindate": "1940-07-01",
+            "mindate": "1948-12-01",
             "maxdate": "2014-01-01",
             "latitude": 47.2272,
             "name": "TWIN VALLEY 3 SW, MN US",
-            "datacoverage": 0.8389,
+            "datacoverage": 0.0296,
             "id": "COOP:218411",
             "elevationUnit": "METERS",
             "longitude": -96.2986
@@ -3540,7 +3104,7 @@
             "maxdate": "2014-01-01",
             "latitude": 47.2561,
             "name": "WALES 2 ENE, MN US",
-            "datacoverage": 0.9216,
+            "datacoverage": 0.0321,
             "id": "COOP:218613",
             "elevationUnit": "METERS",
             "longitude": -91.7017
@@ -3634,15 +3198,6 @@
             "longitude": -94.4273
         },
         {
-            "mindate": "1948-08-01",
-            "maxdate": "1951-11-01",
-            "latitude": 44.96667,
-            "name": "WATERTOWN, MN US",
-            "datacoverage": 0.9254,
-            "id": "COOP:218713",
-            "longitude": -93.85
-        },
-        {
             "elevation": 289.6,
             "mindate": "1954-05-01",
             "maxdate": "2015-11-01",
@@ -3721,11 +3276,11 @@
         },
         {
             "elevation": 345,
-            "mindate": "1943-01-01",
+            "mindate": "1948-08-01",
             "maxdate": "1973-09-01",
             "latitude": 45.11667,
             "name": "WILLMAR, MN US",
-            "datacoverage": 0.8915,
+            "datacoverage": 0.0375,
             "id": "COOP:218999",
             "elevationUnit": "METERS",
             "longitude": -95.08333
@@ -3808,17 +3363,6 @@
             "longitude": -91.6703
         },
         {
-            "elevation": 225.9,
-            "mindate": "1948-08-01",
-            "maxdate": "1957-08-01",
-            "latitude": 44.03333,
-            "name": "WINONA 3 SW, MN US",
-            "datacoverage": 0.8061,
-            "id": "COOP:219077",
-            "elevationUnit": "METERS",
-            "longitude": -91.68333
-        },
-        {
             "elevation": 313.9,
             "mindate": "1948-09-01",
             "maxdate": "2006-02-01",
@@ -3828,15 +3372,6 @@
             "id": "COOP:219085",
             "elevationUnit": "METERS",
             "longitude": -94.0629
-        },
-        {
-            "mindate": "1948-08-01",
-            "maxdate": "1951-10-01",
-            "latitude": 44.53333,
-            "name": "WINTHROP, MN US",
-            "datacoverage": 0.9488,
-            "id": "COOP:219093",
-            "longitude": -94.36667
         },
         {
             "elevation": 407.5,
@@ -3916,17 +3451,6 @@
             "longitude": -92.431
         },
         {
-            "elevation": 328.9,
-            "mindate": "1948-12-01",
-            "maxdate": "1957-10-01",
-            "latitude": 44.28333,
-            "name": "ZUMBRO FALLS 1 SE, MN US",
-            "datacoverage": 0.9714,
-            "id": "COOP:219235",
-            "elevationUnit": "METERS",
-            "longitude": -92.41667
-        },
-        {
             "elevation": 314.9,
             "mindate": "2002-05-01",
             "maxdate": "2003-10-01",
@@ -4002,17 +3526,6 @@
             "id": "COOP:477464",
             "elevationUnit": "METERS",
             "longitude": -92.6466
-        },
-        {
-            "elevation": 185,
-            "mindate": "1931-01-01",
-            "maxdate": "2015-11-01",
-            "latitude": 46.727,
-            "name": "SUPERIOR, WI US",
-            "datacoverage": 0.9814,
-            "id": "COOP:478349",
-            "elevationUnit": "METERS",
-            "longitude": -92.072
         },
         {
             "elevation": 201.2,
@@ -10998,6 +10511,501 @@
             "id": "GHCND:US1MNSC0011",
             "elevationUnit": "METERS",
             "longitude": -93.799097
+        },
+        {
+            "elevation": 341.1,
+            "mindate": "2011-04-01",
+            "maxdate": "2011-10-31",
+            "latitude": 44.57263,
+            "name": "ELKO NEW MARKET 0.8 WNW, MN US",
+            "datacoverage": 0.9956,
+            "id": "GHCND:US1MNSC0013",
+            "elevationUnit": "METERS",
+            "longitude": -93.352839
+        },
+        {
+            "elevation": 306.6,
+            "mindate": "2012-05-01",
+            "maxdate": "2013-10-05",
+            "latitude": 44.755385,
+            "name": "SHAKOPEE 3.9 ESE, MN US",
+            "datacoverage": 0.7207,
+            "id": "GHCND:US1MNSC0017",
+            "elevationUnit": "METERS",
+            "longitude": -93.402284
+        },
+        {
+            "elevation": 247.8,
+            "mindate": "2012-05-01",
+            "maxdate": "2020-05-17",
+            "latitude": 44.785368,
+            "name": "SHAKOPEE 3.7 WNW, MN US",
+            "datacoverage": 1,
+            "id": "GHCND:US1MNSC0018",
+            "elevationUnit": "METERS",
+            "longitude": -93.550322
+        },
+        {
+            "elevation": 254.2,
+            "mindate": "2012-06-01",
+            "maxdate": "2020-04-29",
+            "latitude": 44.7729,
+            "name": "SHAKOPEE 2.3 W, MN US",
+            "datacoverage": 0.9819,
+            "id": "GHCND:US1MNSC0019",
+            "elevationUnit": "METERS",
+            "longitude": -93.5237
+        },
+        {
+            "elevation": 364.5,
+            "mindate": "2014-04-03",
+            "maxdate": "2017-07-26",
+            "latitude": 44.5607757568359,
+            "name": "ELKO NEW MARKET 1.3 ESE, MN US",
+            "datacoverage": 1,
+            "id": "GHCND:US1MNSC0021",
+            "elevationUnit": "METERS",
+            "longitude": -93.3131561279297
+        },
+        {
+            "elevation": 294.7,
+            "mindate": "2015-03-01",
+            "maxdate": "2015-11-25",
+            "latitude": 44.736678,
+            "name": "PRIOR LAKE 1.0 NE, MN US",
+            "datacoverage": 0.9961,
+            "id": "GHCND:US1MNSC0023",
+            "elevationUnit": "METERS",
+            "longitude": -93.423581
+        },
+        {
+            "elevation": 296.9,
+            "mindate": "2015-02-01",
+            "maxdate": "2020-05-15",
+            "latitude": 44.584905,
+            "name": "ELKO NEW MARKET 4.8 WNW, MN US",
+            "datacoverage": 1,
+            "id": "GHCND:US1MNSC0025",
+            "elevationUnit": "METERS",
+            "longitude": -93.431429
+        },
+        {
+            "elevation": 248.1,
+            "mindate": "2018-03-22",
+            "maxdate": "2019-12-17",
+            "latitude": 44.781736,
+            "name": "SHAKOPEE 2.6 W, MN US",
+            "datacoverage": 0.9496,
+            "id": "GHCND:US1MNSC0033",
+            "elevationUnit": "METERS",
+            "longitude": -93.528685
+        },
+        {
+            "elevation": 299.9,
+            "mindate": "2019-03-09",
+            "maxdate": "2019-11-21",
+            "latitude": 44.665824,
+            "name": "PRIOR LAKE 4.5 SSE, MN US",
+            "datacoverage": 0.6163,
+            "id": "GHCND:US1MNSC0037",
+            "elevationUnit": "METERS",
+            "longitude": -93.403669
+        },
+        {
+            "elevation": 353.3,
+            "mindate": "2009-12-01",
+            "maxdate": "2020-05-17",
+            "latitude": 44.0917,
+            "name": "OWATONNA 0.8 E, MN US",
+            "datacoverage": 1,
+            "id": "GHCND:US1MNSE0002",
+            "elevationUnit": "METERS",
+            "longitude": -93.2138
+        },
+        {
+            "elevation": 391.4,
+            "mindate": "2010-09-01",
+            "maxdate": "2020-05-17",
+            "latitude": 43.87046,
+            "name": "ELLENDALE 0.3 SW, MN US",
+            "datacoverage": 1,
+            "id": "GHCND:US1MNSE0003",
+            "elevationUnit": "METERS",
+            "longitude": -93.30365
+        },
+        {
+            "elevation": 364.8,
+            "mindate": "2011-05-01",
+            "maxdate": "2012-08-15",
+            "latitude": 44.1120869,
+            "name": "OWATONNA 1.7 NE, MN US",
+            "datacoverage": 0.6224,
+            "id": "GHCND:US1MNSE0005",
+            "elevationUnit": "METERS",
+            "longitude": -93.2098789
+        },
+        {
+            "elevation": 367.3,
+            "mindate": "2012-04-01",
+            "maxdate": "2013-10-20",
+            "latitude": 44.0968148,
+            "name": "OWATONNA 1.3 ENE, MN US",
+            "datacoverage": 0.7885,
+            "id": "GHCND:US1MNSE0006",
+            "elevationUnit": "METERS",
+            "longitude": -93.2045096
+        },
+        {
+            "elevation": 359.1,
+            "mindate": "2017-03-30",
+            "maxdate": "2017-10-12",
+            "latitude": 43.95654,
+            "name": "OWATONNA 9.4 S, MN US",
+            "datacoverage": 0.9898,
+            "id": "GHCND:US1MNSE0010",
+            "elevationUnit": "METERS",
+            "longitude": -93.25219
+        },
+        {
+            "elevation": 368.8,
+            "mindate": "2019-04-22",
+            "maxdate": "2020-05-17",
+            "latitude": 44.098301,
+            "name": "OWATONNA 1.0 ENE, MN US",
+            "datacoverage": 0.6617,
+            "id": "GHCND:US1MNSE0011",
+            "elevationUnit": "METERS",
+            "longitude": -93.210624
+        },
+        {
+            "elevation": 353,
+            "mindate": "2010-03-01",
+            "maxdate": "2013-02-01",
+            "latitude": 44.088,
+            "name": "OWATONNA 0.7 ESE, MN US",
+            "datacoverage": 0.9947,
+            "id": "GHCND:US1MNSE0990",
+            "elevationUnit": "METERS",
+            "longitude": -93.216
+        },
+        {
+            "elevation": 298.7,
+            "mindate": "2009-11-01",
+            "maxdate": "2014-04-21",
+            "latitude": 45.552,
+            "name": "PRINCETON 3.2 WSW, MN US",
+            "datacoverage": 1,
+            "id": "GHCND:US1MNSH0001",
+            "elevationUnit": "METERS",
+            "longitude": -93.643
+        },
+        {
+            "elevation": 296.6,
+            "mindate": "2011-04-01",
+            "maxdate": "2020-05-17",
+            "latitude": 45.4140893,
+            "name": "BIG LAKE 5.6 NNE, MN US",
+            "datacoverage": 0.9998,
+            "id": "GHCND:US1MNSH0010",
+            "elevationUnit": "METERS",
+            "longitude": -93.6919491
+        },
+        {
+            "elevation": 268.8,
+            "mindate": "2012-09-01",
+            "maxdate": "2014-07-12",
+            "latitude": 45.2942611277103,
+            "name": "ELK RIVER 3.3 SW, MN US",
+            "datacoverage": 1,
+            "id": "GHCND:US1MNSH0012",
+            "elevationUnit": "METERS",
+            "longitude": -93.6092166602612
+        },
+        {
+            "elevation": 299.6,
+            "mindate": "2013-04-01",
+            "maxdate": "2013-10-19",
+            "latitude": 45.4421310424805,
+            "name": "BIG LAKE 7.7 NNE, MN US",
+            "datacoverage": 0.998,
+            "id": "GHCND:US1MNSH0015",
+            "elevationUnit": "METERS",
+            "longitude": -93.6730651855469
+        },
+        {
+            "elevation": 299.6,
+            "mindate": "2014-04-01",
+            "maxdate": "2020-05-17",
+            "latitude": 45.43303,
+            "name": "ZIMMERMAN 0.6 S, MN US",
+            "datacoverage": 0.9993,
+            "id": "GHCND:US1MNSH0017",
+            "elevationUnit": "METERS",
+            "longitude": -93.59929
+        },
+        {
+            "elevation": 290.5,
+            "mindate": "2015-03-01",
+            "maxdate": "2019-07-27",
+            "latitude": 45.3893301,
+            "name": "BIG LAKE 4.4 NE, MN US",
+            "datacoverage": 0.998,
+            "id": "GHCND:US1MNSH0018",
+            "elevationUnit": "METERS",
+            "longitude": -93.6842275
+        },
+        {
+            "elevation": 293.2,
+            "mindate": "2015-04-19",
+            "maxdate": "2018-05-30",
+            "latitude": 45.406726,
+            "name": "BECKER 1.9 NNW, MN US",
+            "datacoverage": 0.2004,
+            "id": "GHCND:US1MNSH0019",
+            "elevationUnit": "METERS",
+            "longitude": -93.883857
+        },
+        {
+            "elevation": 278.6,
+            "mindate": "2015-08-07",
+            "maxdate": "2017-09-22",
+            "latitude": 45.3803122,
+            "name": "BIG LAKE 3.2 NNW, MN US",
+            "datacoverage": 0.3805,
+            "id": "GHCND:US1MNSH0020",
+            "elevationUnit": "METERS",
+            "longitude": -93.7809762
+        },
+        {
+            "elevation": 297.5,
+            "mindate": "2017-04-02",
+            "maxdate": "2017-10-05",
+            "latitude": 45.457902,
+            "name": "CLEAR LAKE 0.7 NNE, MN US",
+            "datacoverage": 0.7424,
+            "id": "GHCND:US1MNSH0023",
+            "elevationUnit": "METERS",
+            "longitude": -93.992992
+        },
+        {
+            "elevation": 278.3,
+            "mindate": "2017-06-19",
+            "maxdate": "2019-09-24",
+            "latitude": 45.306216,
+            "name": "ELK RIVER 1.8 SSW, MN US",
+            "datacoverage": 0.9956,
+            "id": "GHCND:US1MNSH0025",
+            "elevationUnit": "METERS",
+            "longitude": -93.578309
+        },
+        {
+            "elevation": 267.6,
+            "mindate": "2018-05-25",
+            "maxdate": "2019-05-29",
+            "latitude": 45.259575,
+            "name": "ELK RIVER 5.2 SSE, MN US",
+            "datacoverage": 0.3979,
+            "id": "GHCND:US1MNSH0028",
+            "elevationUnit": "METERS",
+            "longitude": -93.537641
+        },
+        {
+            "elevation": 292.3,
+            "mindate": "2019-05-18",
+            "maxdate": "2020-05-17",
+            "latitude": 45.52553,
+            "name": "PRINCETON 4.4 SE, MN US",
+            "datacoverage": 0.9994,
+            "id": "GHCND:US1MNSH0029",
+            "elevationUnit": "METERS",
+            "longitude": -93.51771
+        },
+        {
+            "elevation": 296,
+            "mindate": "2014-04-01",
+            "maxdate": "2020-05-15",
+            "latitude": 45.55211,
+            "name": "PRINCETON 3.3 WSW, MN US",
+            "datacoverage": 1,
+            "id": "GHCND:US1MNSH0985",
+            "elevationUnit": "METERS",
+            "longitude": -93.64481
+        },
+        {
+            "elevation": 332.2,
+            "mindate": "2010-06-01",
+            "maxdate": "2018-03-03",
+            "latitude": 46.931167,
+            "name": "DULUTH 12.8 NE, MN US",
+            "datacoverage": 0.9998,
+            "id": "GHCND:US1MNSL0002",
+            "elevationUnit": "METERS",
+            "longitude": -91.942807
+        },
+        {
+            "elevation": 406.6,
+            "mindate": "2011-04-01",
+            "maxdate": "2011-10-01",
+            "latitude": 46.793199,
+            "name": "HERMANTOWN 2.6 ESE, MN US",
+            "datacoverage": 0.9956,
+            "id": "GHCND:US1MNSL0003",
+            "elevationUnit": "METERS",
+            "longitude": -92.188678
+        },
+        {
+            "elevation": 251.2,
+            "mindate": "2011-04-01",
+            "maxdate": "2020-05-16",
+            "latitude": 46.81528,
+            "name": "DULUTH 3.0 NE, MN US",
+            "datacoverage": 0.9829,
+            "id": "GHCND:US1MNSL0005",
+            "elevationUnit": "METERS",
+            "longitude": -92.06368
+        },
+        {
+            "elevation": 418.2,
+            "mindate": "2011-03-01",
+            "maxdate": "2019-05-18",
+            "latitude": 46.93,
+            "name": "HERMANTOWN 9.3 NNE, MN US",
+            "datacoverage": 0.9993,
+            "id": "GHCND:US1MNSL0006",
+            "elevationUnit": "METERS",
+            "longitude": -92.143917
+        },
+        {
+            "elevation": 408.4,
+            "mindate": "2011-05-01",
+            "maxdate": "2011-10-15",
+            "latitude": 47.371689,
+            "name": "HIBBING 3.8 ESE, MN US",
+            "datacoverage": 0.998,
+            "id": "GHCND:US1MNSL0007",
+            "elevationUnit": "METERS",
+            "longitude": -92.876979
+        },
+        {
+            "elevation": 300.5,
+            "mindate": "2011-04-01",
+            "maxdate": "2012-07-25",
+            "latitude": 46.7977253,
+            "name": "DULUTH 1.0 N, MN US",
+            "datacoverage": 0.6861,
+            "id": "GHCND:US1MNSL0009",
+            "elevationUnit": "METERS",
+            "longitude": -92.1037336
+        },
+        {
+            "elevation": 361.8,
+            "mindate": "2011-06-01",
+            "maxdate": "2012-09-07",
+            "latitude": 46.83823333,
+            "name": "DULUTH 4.1 NNE, MN US",
+            "datacoverage": 0.9925,
+            "id": "GHCND:US1MNSL0011",
+            "elevationUnit": "METERS",
+            "longitude": -92.08273333
+        },
+        {
+            "elevation": 473,
+            "mindate": "2012-04-01",
+            "maxdate": "2020-05-16",
+            "latitude": 47.4855639,
+            "name": "CHISHOLM 0.4 WSW, MN US",
+            "datacoverage": 0.9375,
+            "id": "GHCND:US1MNSL0015",
+            "elevationUnit": "METERS",
+            "longitude": -92.8868789
+        },
+        {
+            "elevation": 367.9,
+            "mindate": "2011-09-01",
+            "maxdate": "2020-05-15",
+            "latitude": 46.803212,
+            "name": "DULUTH 1.4 NNW, MN US",
+            "datacoverage": 0.9637,
+            "id": "GHCND:US1MNSL0018",
+            "elevationUnit": "METERS",
+            "longitude": -92.112425
+        },
+        {
+            "elevation": 197.5,
+            "mindate": "2011-11-01",
+            "maxdate": "2020-05-17",
+            "latitude": 46.8131251,
+            "name": "DULUTH 3.2 NE, MN US",
+            "datacoverage": 1,
+            "id": "GHCND:US1MNSL0020",
+            "elevationUnit": "METERS",
+            "longitude": -92.0556287
+        },
+        {
+            "elevation": 457.5,
+            "mindate": "2011-12-01",
+            "maxdate": "2013-10-25",
+            "latitude": 47.394104,
+            "name": "HIBBING 2.5 W, MN US",
+            "datacoverage": 1,
+            "id": "GHCND:US1MNSL0027",
+            "elevationUnit": "METERS",
+            "longitude": -93.001821
+        },
+        {
+            "elevation": 332.8,
+            "mindate": "2012-03-01",
+            "maxdate": "2017-07-25",
+            "latitude": 46.810914,
+            "name": "DULUTH 2.0 NNE, MN US",
+            "datacoverage": 0.6221,
+            "id": "GHCND:US1MNSL0030",
+            "elevationUnit": "METERS",
+            "longitude": -92.091759
+        },
+        {
+            "elevation": 391.4,
+            "mindate": "2012-05-01",
+            "maxdate": "2017-12-12",
+            "latitude": 47.7815,
+            "name": "COOK 14.8 WSW, MN US",
+            "datacoverage": 0.9997,
+            "id": "GHCND:US1MNSL0034",
+            "elevationUnit": "METERS",
+            "longitude": -92.9943
+        },
+        {
+            "elevation": 422.1,
+            "mindate": "2012-05-01",
+            "maxdate": "2014-09-24",
+            "latitude": 47.032962,
+            "name": "DULUTH 18.3 NNW, MN US",
+            "datacoverage": 0.6894,
+            "id": "GHCND:US1MNSL0035",
+            "elevationUnit": "METERS",
+            "longitude": -92.236707
+        },
+        {
+            "elevation": 360.3,
+            "mindate": "2012-08-26",
+            "maxdate": "2019-08-30",
+            "latitude": 46.854854,
+            "name": "DULUTH 5.6 NNE, MN US",
+            "datacoverage": 0.059,
+            "id": "GHCND:US1MNSL0038",
+            "elevationUnit": "METERS",
+            "longitude": -92.048667
+        },
+        {
+            "elevation": 385.6,
+            "mindate": "2012-11-01",
+            "maxdate": "2013-06-07",
+            "latitude": 46.835074,
+            "name": "DULUTH 3.6 N, MN US",
+            "datacoverage": 1,
+            "id": "GHCND:US1MNSL0050",
+            "elevationUnit": "METERS",
+            "longitude": -92.105152
         }
     ]
 }

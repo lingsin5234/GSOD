@@ -2,22 +2,11 @@
     "metadata": {
         "resultset": {
             "offset": 1,
-            "count": 1641,
+            "count": 1435,
             "limit": 1000
         }
     },
     "results": [
-        {
-            "elevation": 27.1,
-            "mindate": "1935-07-01",
-            "maxdate": "1966-07-01",
-            "latitude": 31.28333,
-            "name": "COLUMBIA, AL US",
-            "datacoverage": 0.9463,
-            "id": "COOP:011865",
-            "elevationUnit": "METERS",
-            "longitude": -85.11667
-        },
         {
             "elevation": 32.6,
             "mindate": "1956-04-01",
@@ -129,28 +118,6 @@
             "longitude": -84.1488
         },
         {
-            "elevation": 57.9,
-            "mindate": "1948-01-01",
-            "maxdate": "1954-07-01",
-            "latitude": 31.53556,
-            "name": "ALBANY SW GEORGIA REGIONAL AIRPORT, GA US",
-            "datacoverage": 1,
-            "id": "COOP:090145",
-            "elevationUnit": "METERS",
-            "longitude": -84.19444
-        },
-        {
-            "elevation": 297.2,
-            "mindate": "1946-10-01",
-            "maxdate": "1952-04-01",
-            "latitude": 34.165,
-            "name": "ALLATOONA DAM 2, GA US",
-            "datacoverage": 0.9852,
-            "id": "COOP:090180",
-            "elevationUnit": "METERS",
-            "longitude": -84.73
-        },
-        {
             "elevation": 297.2,
             "mindate": "1952-04-01",
             "maxdate": "2015-11-01",
@@ -218,36 +185,14 @@
         },
         {
             "elevation": 137.2,
-            "mindate": "1948-01-01",
+            "mindate": "1948-06-01",
             "maxdate": "2004-06-01",
             "latitude": 32.1025,
             "name": "AMERICUS EXPERIMENT STATION NURSERY, GA US",
-            "datacoverage": 1,
+            "datacoverage": 0.039,
             "id": "COOP:090258",
             "elevationUnit": "METERS",
             "longitude": -84.26667
-        },
-        {
-            "elevation": 601.1,
-            "mindate": "1956-07-01",
-            "maxdate": "1962-03-01",
-            "latitude": 34.91667,
-            "name": "ANTIOCH, GA US",
-            "datacoverage": 1,
-            "id": "COOP:090296",
-            "elevationUnit": "METERS",
-            "longitude": -84.01667
-        },
-        {
-            "elevation": 73.2,
-            "mindate": "1957-10-01",
-            "maxdate": "1961-01-01",
-            "latitude": 33.53333,
-            "name": "APPLING, GA US",
-            "datacoverage": 0.9988,
-            "id": "COOP:090310",
-            "elevationUnit": "METERS",
-            "longitude": -82.31667
         },
         {
             "elevation": 120.7,
@@ -336,17 +281,6 @@
             "longitude": -84.4961
         },
         {
-            "elevation": 305.1,
-            "mindate": "1934-09-01",
-            "maxdate": "1951-07-01",
-            "latitude": 33.75,
-            "name": "ATLANTA KIRKWOOD, GA US",
-            "datacoverage": 1,
-            "id": "COOP:090446",
-            "elevationUnit": "METERS",
-            "longitude": -84.31667
-        },
-        {
             "elevation": 307.8,
             "mindate": "1948-06-01",
             "maxdate": "2015-11-01",
@@ -358,17 +292,6 @@
             "longitude": -84.4418
         },
         {
-            "elevation": 346.9,
-            "mindate": "1948-01-01",
-            "maxdate": "1954-06-18",
-            "latitude": 33.75,
-            "name": "ATLANTA WEATHER BUREAU CITY, GA US",
-            "datacoverage": 1,
-            "id": "COOP:090456",
-            "elevationUnit": "METERS",
-            "longitude": -84.38333
-        },
-        {
             "elevation": 40.2,
             "mindate": "1948-08-01",
             "maxdate": "2015-11-01",
@@ -378,28 +301,6 @@
             "id": "COOP:090495",
             "elevationUnit": "METERS",
             "longitude": -81.9633
-        },
-        {
-            "elevation": 39.9,
-            "mindate": "1948-01-01",
-            "maxdate": "1960-12-01",
-            "latitude": 33.46667,
-            "name": "AUGUSTA, GA US",
-            "datacoverage": 0.8588,
-            "id": "COOP:090500",
-            "elevationUnit": "METERS",
-            "longitude": -81.96667
-        },
-        {
-            "elevation": 271,
-            "mindate": "1961-07-01",
-            "maxdate": "1969-09-24",
-            "latitude": 34.51667,
-            "name": "AVALON 1 W, GA US",
-            "datacoverage": 0.0528,
-            "id": "COOP:090526",
-            "elevationUnit": "METERS",
-            "longitude": -83.21667
         },
         {
             "elevation": 36.9,
@@ -469,11 +370,11 @@
         },
         {
             "elevation": 56.4,
-            "mindate": "1948-01-01",
+            "mindate": "1948-06-01",
             "maxdate": "1980-03-01",
             "latitude": 32.15,
             "name": "BELLVILLE, GA US",
-            "datacoverage": 1,
+            "datacoverage": 0.0473,
             "id": "COOP:090787",
             "elevationUnit": "METERS",
             "longitude": -81.96667
@@ -523,17 +424,6 @@
             "longitude": -84.31667
         },
         {
-            "elevation": 476.1,
-            "mindate": "1949-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 34.88333,
-            "name": "BLUE RIDGE RESVR DAM, GA US",
-            "datacoverage": 0.9752,
-            "id": "COOP:091029",
-            "elevationUnit": "METERS",
-            "longitude": -84.28333
-        },
-        {
             "elevation": 239.3,
             "mindate": "1952-02-01",
             "maxdate": "1997-08-01",
@@ -543,17 +433,6 @@
             "id": "COOP:091132",
             "elevationUnit": "METERS",
             "longitude": -83.03333
-        },
-        {
-            "elevation": 1457.9,
-            "mindate": "1948-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 34.86667,
-            "name": "BRASSTOWN BALD, GA US",
-            "datacoverage": 0.93,
-            "id": "COOP:091170",
-            "elevationUnit": "METERS",
-            "longitude": -83.81667
         },
         {
             "elevation": 54.9,
@@ -601,11 +480,11 @@
         },
         {
             "elevation": 540.1,
-            "mindate": "1948-01-01",
+            "mindate": "1948-06-01",
             "maxdate": "1978-11-30",
             "latitude": 34.78333,
             "name": "BURTON DAM, GA US",
-            "datacoverage": 0.9338,
+            "datacoverage": 0.0788,
             "id": "COOP:091413",
             "elevationUnit": "METERS",
             "longitude": -83.55
@@ -620,17 +499,6 @@
             "id": "COOP:091425",
             "elevationUnit": "METERS",
             "longitude": -84.1858
-        },
-        {
-            "elevation": 30.5,
-            "mindate": "1939-07-01",
-            "maxdate": "1965-06-01",
-            "latitude": 33.3667,
-            "name": "AUGUSTA 8 SSE, GA US",
-            "datacoverage": 0.9711,
-            "id": "COOP:091433",
-            "elevationUnit": "METERS",
-            "longitude": -81.95
         },
         {
             "elevation": 149.4,
@@ -677,17 +545,6 @@
             "longitude": -84.2036
         },
         {
-            "elevation": 28,
-            "mindate": "1941-05-01",
-            "maxdate": "1964-07-01",
-            "latitude": 31.86945,
-            "name": "FORT STEWART, GA US",
-            "datacoverage": 0.9712,
-            "id": "COOP:091544",
-            "elevationUnit": "METERS",
-            "longitude": -81.62358
-        },
-        {
             "elevation": 345.9,
             "mindate": "1931-01-01",
             "maxdate": "2011-12-01",
@@ -697,17 +554,6 @@
             "id": "COOP:091585",
             "elevationUnit": "METERS",
             "longitude": -84.5039
-        },
-        {
-            "elevation": 136.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1962-04-01",
-            "latitude": 34.06667,
-            "name": "CARLTON BRIDGE, GA US",
-            "datacoverage": 0.9789,
-            "id": "COOP:091601",
-            "elevationUnit": "METERS",
-            "longitude": -82.98333
         },
         {
             "elevation": 204.2,
@@ -770,7 +616,7 @@
             "maxdate": "1980-04-01",
             "latitude": 34.05,
             "name": "CAVE SPRINGS 4 SSW, GA US",
-            "datacoverage": 0.9082,
+            "datacoverage": 0.0581,
             "id": "COOP:091715",
             "elevationUnit": "METERS",
             "longitude": -85.35
@@ -820,17 +666,6 @@
             "longitude": -85.1697
         },
         {
-            "elevation": 25.9,
-            "mindate": "1948-09-01",
-            "maxdate": "1948-12-01",
-            "latitude": 31.9578,
-            "name": "CHARLOTTE, GA US",
-            "datacoverage": 0.998,
-            "id": "COOP:091844",
-            "elevationUnit": "METERS",
-            "longitude": -82.5171
-        },
-        {
             "elevation": 235,
             "mindate": "1937-08-01",
             "maxdate": "1979-03-01",
@@ -873,17 +708,6 @@
             "id": "COOP:091908",
             "elevationUnit": "METERS",
             "longitude": -85.2711
-        },
-        {
-            "elevation": 580,
-            "mindate": "1949-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 34.8,
-            "name": "CHOESTOE, GA US",
-            "datacoverage": 0.95,
-            "id": "COOP:091927",
-            "elevationUnit": "METERS",
-            "longitude": -83.9
         },
         {
             "elevation": 299,
@@ -931,11 +755,11 @@
         },
         {
             "elevation": 390.4,
-            "mindate": "1948-01-01",
+            "mindate": "1948-06-01",
             "maxdate": "2007-05-01",
             "latitude": 34.4503,
             "name": "CLERMONT 4 WSW, GA US",
-            "datacoverage": 0.6748,
+            "datacoverage": 0.0459,
             "id": "COOP:091998",
             "elevationUnit": "METERS",
             "longitude": -83.855
@@ -985,17 +809,6 @@
             "longitude": -84.9378
         },
         {
-            "elevation": 56.4,
-            "mindate": "1931-01-01",
-            "maxdate": "1965-09-01",
-            "latitude": 32.45,
-            "name": "COLUMBUS DARDC, GA US",
-            "datacoverage": 0.9881,
-            "id": "COOP:092161",
-            "elevationUnit": "METERS",
-            "longitude": -84.98333
-        },
-        {
             "elevation": 119.5,
             "mindate": "1948-01-01",
             "maxdate": "2015-11-01",
@@ -1030,22 +843,22 @@
         },
         {
             "elevation": 76.2,
-            "mindate": "1948-01-01",
+            "mindate": "1948-06-01",
             "maxdate": "1991-02-01",
             "latitude": 31.01667,
             "name": "COOLIDGE, GA US",
-            "datacoverage": 0.956,
+            "datacoverage": 0.0442,
             "id": "COOP:092238",
             "elevationUnit": "METERS",
             "longitude": -83.86667
         },
         {
             "elevation": 580,
-            "mindate": "1948-01-01",
+            "mindate": "1948-06-01",
             "maxdate": "1970-06-01",
             "latitude": 34.63333,
             "name": "COOPER GAP, GA US",
-            "datacoverage": 0.8004,
+            "datacoverage": 0.0801,
             "id": "COOP:092246",
             "elevationUnit": "METERS",
             "longitude": -84.05
@@ -1183,17 +996,6 @@
             "longitude": -84.88722
         },
         {
-            "elevation": 180.1,
-            "mindate": "1950-11-24",
-            "maxdate": "1957-04-18",
-            "latitude": 33.9,
-            "name": "DANBURG 5 NNE, GA US",
-            "datacoverage": 0.801,
-            "id": "COOP:092502",
-            "elevationUnit": "METERS",
-            "longitude": -82.63333
-        },
-        {
             "elevation": 237.7,
             "mindate": "1998-03-01",
             "maxdate": "2015-11-01",
@@ -1249,28 +1051,6 @@
             "longitude": -84.10389
         },
         {
-            "elevation": 338.3,
-            "mindate": "1956-08-01",
-            "maxdate": "1960-04-30",
-            "latitude": 34.35,
-            "name": "DAWSONVILLE WEATHER BUREAU, GA US",
-            "datacoverage": 0.9072,
-            "id": "COOP:092583",
-            "elevationUnit": "METERS",
-            "longitude": -84.13333
-        },
-        {
-            "elevation": 313.9,
-            "mindate": "1951-11-01",
-            "maxdate": "1953-05-01",
-            "latitude": 33.76667,
-            "name": "DECATUR, GA US",
-            "datacoverage": 1,
-            "id": "COOP:092592",
-            "elevationUnit": "METERS",
-            "longitude": -84.36667
-        },
-        {
             "elevation": 57.9,
             "mindate": "2010-08-01",
             "maxdate": "2015-11-01",
@@ -1280,17 +1060,6 @@
             "id": "COOP:092593",
             "elevationUnit": "METERS",
             "longitude": -84.6367
-        },
-        {
-            "elevation": 580,
-            "mindate": "1949-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 34.76667,
-            "name": "DIAL POST OFFICE, GA US",
-            "datacoverage": 0.95,
-            "id": "COOP:092677",
-            "elevationUnit": "METERS",
-            "longitude": -84.21667
         },
         {
             "elevation": 24.4,
@@ -1305,11 +1074,11 @@
         },
         {
             "elevation": 78,
-            "mindate": "1948-01-01",
+            "mindate": "1948-06-01",
             "maxdate": "2000-11-01",
             "latitude": 31.7,
             "name": "DOLES, GA US",
-            "datacoverage": 0.8865,
+            "datacoverage": 0.0369,
             "id": "COOP:092728",
             "elevationUnit": "METERS",
             "longitude": -83.88333
@@ -1346,17 +1115,6 @@
             "id": "COOP:092753",
             "elevationUnit": "METERS",
             "longitude": -84.2701
-        },
-        {
-            "elevation": 128,
-            "mindate": "1931-01-01",
-            "maxdate": "1945-06-01",
-            "latitude": 33.75,
-            "name": "DOUBLE BRANCHES, GA US",
-            "datacoverage": 1,
-            "id": "COOP:092770",
-            "elevationUnit": "METERS",
-            "longitude": -82.33333
         },
         {
             "elevation": 71,
@@ -1412,17 +1170,6 @@
             "id": "COOP:092844",
             "elevationUnit": "METERS",
             "longitude": -82.8999
-        },
-        {
-            "elevation": 267.9,
-            "mindate": "1961-07-01",
-            "maxdate": "1969-09-24",
-            "latitude": 34.51667,
-            "name": "EASTANOLLEE 2 SW, GA US",
-            "datacoverage": 0.0506,
-            "id": "COOP:092943",
-            "elevationUnit": "METERS",
-            "longitude": -83.26667
         },
         {
             "elevation": 121.9,
@@ -1502,17 +1249,6 @@
             "longitude": -85.0008
         },
         {
-            "elevation": 6.1,
-            "mindate": "1936-08-01",
-            "maxdate": "1944-01-01",
-            "latitude": 31.43333,
-            "name": "EVERETT CITY, GA US",
-            "datacoverage": 0.9553,
-            "id": "COOP:093252",
-            "elevationUnit": "METERS",
-            "longitude": -81.6
-        },
-        {
             "elevation": 284.7,
             "mindate": "1934-12-01",
             "maxdate": "2004-06-01",
@@ -1535,23 +1271,12 @@
             "longitude": -84.7
         },
         {
-            "elevation": 223.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1953-05-01",
-            "latitude": 33,
-            "name": "FAIRVIEW, GA US",
-            "datacoverage": 0.9964,
-            "id": "COOP:093303",
-            "elevationUnit": "METERS",
-            "longitude": -84.1
-        },
-        {
             "elevation": 35.1,
-            "mindate": "1931-01-01",
+            "mindate": "1948-06-01",
             "maxdate": "2014-01-01",
             "latitude": 30.6908,
             "name": "FARGO, GA US",
-            "datacoverage": 0.8219,
+            "datacoverage": 0.0318,
             "id": "COOP:093312",
             "elevationUnit": "METERS",
             "longitude": -82.5633
@@ -1569,11 +1294,11 @@
         },
         {
             "elevation": 335.9,
-            "mindate": "1948-01-01",
+            "mindate": "1948-06-01",
             "maxdate": "1970-05-01",
             "latitude": 34.11667,
             "name": "ALPHARETTA 2 NNW, GA US",
-            "datacoverage": 0.9116,
+            "datacoverage": 0.0555,
             "id": "COOP:093363",
             "elevationUnit": "METERS",
             "longitude": -84.3
@@ -1590,15 +1315,6 @@
             "longitude": -83.25167
         },
         {
-            "mindate": "1948-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 34.85,
-            "name": "FLAT TOP, GA US",
-            "datacoverage": 0.9475,
-            "id": "COOP:093404",
-            "longitude": -84.5
-        },
-        {
             "elevation": 6.1,
             "mindate": "1950-06-01",
             "maxdate": "1980-04-01",
@@ -1608,17 +1324,6 @@
             "id": "COOP:093409",
             "elevationUnit": "METERS",
             "longitude": -81.41667
-        },
-        {
-            "elevation": 217,
-            "mindate": "1949-01-01",
-            "maxdate": "1955-10-01",
-            "latitude": 34.93333,
-            "name": "FLINTSTONE, GA US",
-            "datacoverage": 0.9882,
-            "id": "COOP:093427",
-            "elevationUnit": "METERS",
-            "longitude": -85.35
         },
         {
             "elevation": 9.1,
@@ -1775,17 +1480,6 @@
             "longitude": -82.5949
         },
         {
-            "elevation": 289.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1941-05-01",
-            "latitude": 34.31667,
-            "name": "GILLSVILLE, GA US",
-            "datacoverage": 1,
-            "id": "COOP:093712",
-            "elevationUnit": "METERS",
-            "longitude": -83.65
-        },
-        {
             "elevation": 61,
             "mindate": "1931-01-01",
             "maxdate": "2015-11-01",
@@ -1808,17 +1502,6 @@
             "longitude": -83.45
         },
         {
-            "elevation": 192,
-            "mindate": "1931-01-01",
-            "maxdate": "1960-09-01",
-            "latitude": 33.56667,
-            "name": "GREENSBORO, GA US",
-            "datacoverage": 0.986,
-            "id": "COOP:093899",
-            "elevationUnit": "METERS",
-            "longitude": -83.21667
-        },
-        {
             "elevation": 292.6,
             "mindate": "1957-02-01",
             "maxdate": "2001-09-01",
@@ -1828,28 +1511,6 @@
             "id": "COOP:093915",
             "elevationUnit": "METERS",
             "longitude": -84.735
-        },
-        {
-            "elevation": 299,
-            "mindate": "1931-01-01",
-            "maxdate": "1969-02-01",
-            "latitude": 33.25,
-            "name": "GRIFFIN, GA US",
-            "datacoverage": 0.9914,
-            "id": "COOP:093936",
-            "elevationUnit": "METERS",
-            "longitude": -84.26667
-        },
-        {
-            "elevation": 225.9,
-            "mindate": "1959-05-01",
-            "maxdate": "1963-04-01",
-            "latitude": 32.76667,
-            "name": "HAMILTON 1 E, GA US",
-            "datacoverage": 0.4792,
-            "id": "COOP:094028",
-            "elevationUnit": "METERS",
-            "longitude": -84.86667
         },
         {
             "elevation": 201.2,
@@ -1864,11 +1525,11 @@
         },
         {
             "elevation": 249.9,
-            "mindate": "1948-01-01",
+            "mindate": "1948-06-01",
             "maxdate": "1997-05-01",
             "latitude": 33.23333,
             "name": "HARALSON, GA US",
-            "datacoverage": 1,
+            "datacoverage": 0.0505,
             "id": "COOP:094070",
             "elevationUnit": "METERS",
             "longitude": -84.55
@@ -1929,28 +1590,6 @@
             "longitude": -83.7261
         },
         {
-            "elevation": 637,
-            "mindate": "1949-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 34.86667,
-            "name": "HEMPTOWN GAP, GA US",
-            "datacoverage": 0.95,
-            "id": "COOP:094243",
-            "elevationUnit": "METERS",
-            "longitude": -84.11667
-        },
-        {
-            "elevation": 595,
-            "mindate": "1952-08-01",
-            "maxdate": "1962-03-01",
-            "latitude": 34.95,
-            "name": "HIAWASSEE, GA US",
-            "datacoverage": 0.9657,
-            "id": "COOP:094279",
-            "elevationUnit": "METERS",
-            "longitude": -83.76667
-        },
-        {
             "elevation": 670.6,
             "mindate": "1999-08-01",
             "maxdate": "2003-07-01",
@@ -1960,17 +1599,6 @@
             "id": "COOP:094281",
             "elevationUnit": "METERS",
             "longitude": -83.71611
-        },
-        {
-            "elevation": 39.9,
-            "mindate": "1939-08-01",
-            "maxdate": "1958-04-01",
-            "latitude": 31.2,
-            "name": "HOGGARDS MILL, GA US",
-            "datacoverage": 0.9778,
-            "id": "COOP:094388",
-            "elevationUnit": "METERS",
-            "longitude": -84.45
         },
         {
             "elevation": 57,
@@ -2028,15 +1656,6 @@
             "longitude": -84.45639
         },
         {
-            "mindate": "1948-01-01",
-            "maxdate": "1952-04-26",
-            "latitude": 34.48333,
-            "name": "JASPER 7 W, GA US",
-            "datacoverage": 0.4882,
-            "id": "COOP:094653",
-            "longitude": -84.5
-        },
-        {
             "elevation": 240.8,
             "mindate": "1980-12-01",
             "maxdate": "2014-01-01",
@@ -2049,11 +1668,11 @@
         },
         {
             "elevation": 30.5,
-            "mindate": "1948-01-01",
+            "mindate": "1948-06-01",
             "maxdate": "2014-01-01",
             "latitude": 31.6081,
             "name": "JESUP, GA US",
-            "datacoverage": 0.956,
+            "datacoverage": 0.0325,
             "id": "COOP:094671",
             "elevationUnit": "METERS",
             "longitude": -81.8797
@@ -2082,11 +1701,11 @@
         },
         {
             "elevation": 399.3,
-            "mindate": "1948-01-01",
+            "mindate": "1948-06-01",
             "maxdate": "1997-05-01",
             "latitude": 34.55,
             "name": "JOHNTOWN, GA US",
-            "datacoverage": 0.8226,
+            "datacoverage": 0.0586,
             "id": "COOP:094688",
             "elevationUnit": "METERS",
             "longitude": -84.25
@@ -2169,17 +1788,6 @@
             "longitude": -85.26667
         },
         {
-            "elevation": 253,
-            "mindate": "1959-10-01",
-            "maxdate": "1962-02-01",
-            "latitude": 34.68333,
-            "name": "LA FAYETTE 1 SE, GA US",
-            "datacoverage": 0.0453,
-            "id": "COOP:094945",
-            "elevationUnit": "METERS",
-            "longitude": -85.26667
-        },
-        {
             "elevation": 222.5,
             "mindate": "1935-01-01",
             "maxdate": "2015-11-01",
@@ -2189,15 +1797,6 @@
             "id": "COOP:094949",
             "elevationUnit": "METERS",
             "longitude": -85.0318
-        },
-        {
-            "mindate": "1948-01-01",
-            "maxdate": "1951-05-23",
-            "latitude": 33.03333,
-            "name": "LA GRANGE 5 W, GA US",
-            "datacoverage": 0.7811,
-            "id": "COOP:094954",
-            "longitude": -85.1
         },
         {
             "elevation": 57.9,
@@ -2238,7 +1837,7 @@
             "maxdate": "1970-10-29",
             "latitude": 33.93333,
             "name": "LIME BRANCH, GA US",
-            "datacoverage": 0.8647,
+            "datacoverage": 0.0549,
             "id": "COOP:095192",
             "elevationUnit": "METERS",
             "longitude": -85.26667
@@ -2253,26 +1852,6 @@
             "id": "COOP:095204",
             "elevationUnit": "METERS",
             "longitude": -82.47137
-        },
-        {
-            "mindate": "1948-01-01",
-            "maxdate": "1950-12-01",
-            "latitude": 33.95,
-            "name": "LISBON, GA US",
-            "datacoverage": 0.9705,
-            "id": "COOP:095231",
-            "longitude": -82.58333
-        },
-        {
-            "elevation": 680,
-            "mindate": "1949-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 34.93333,
-            "name": "LITTLE HIGHTOWER, GA US",
-            "datacoverage": 0.9752,
-            "id": "COOP:095242",
-            "elevationUnit": "METERS",
-            "longitude": -83.63333
         },
         {
             "elevation": 61.6,
@@ -2363,17 +1942,6 @@
             "longitude": -84.5783
         },
         {
-            "elevation": 141.1,
-            "mindate": "1948-01-01",
-            "maxdate": "1948-12-30",
-            "latitude": 32.83333,
-            "name": "MACON WEATHER BUREAU AIRPORT, GA US",
-            "datacoverage": 0.998,
-            "id": "COOP:095442",
-            "elevationUnit": "METERS",
-            "longitude": -83.56667
-        },
-        {
             "elevation": 104.5,
             "mindate": "1949-01-01",
             "maxdate": "2015-11-01",
@@ -2383,17 +1951,6 @@
             "id": "COOP:095443",
             "elevationUnit": "METERS",
             "longitude": -83.6527
-        },
-        {
-            "elevation": 114,
-            "mindate": "1948-01-01",
-            "maxdate": "1954-02-01",
-            "latitude": 32.83333,
-            "name": "MACON WEATHER BUREAU CITY, GA US",
-            "datacoverage": 0.906,
-            "id": "COOP:095447",
-            "elevationUnit": "METERS",
-            "longitude": -83.63333
         },
         {
             "elevation": 47.2,
@@ -2429,26 +1986,6 @@
             "longitude": -83.94
         },
         {
-            "elevation": 107,
-            "mindate": "1931-01-01",
-            "maxdate": "1936-11-01",
-            "latitude": 32.36667,
-            "name": "MARSHALLVILLE 6 S, GA US",
-            "datacoverage": 0.9578,
-            "id": "COOP:095555",
-            "elevationUnit": "METERS",
-            "longitude": -83.93333
-        },
-        {
-            "mindate": "1948-01-01",
-            "maxdate": "1948-12-01",
-            "latitude": 34.2,
-            "name": "MAYOS BAR LOCK AND DAM, GA US",
-            "datacoverage": 0.998,
-            "id": "COOP:095627",
-            "longitude": -85.26667
-        },
-        {
             "elevation": 277.4,
             "mindate": "1941-06-01",
             "maxdate": "1998-08-01",
@@ -2469,28 +2006,6 @@
             "id": "COOP:095666",
             "elevationUnit": "METERS",
             "longitude": -84.03358
-        },
-        {
-            "elevation": 78.9,
-            "mindate": "1958-07-01",
-            "maxdate": "1965-01-01",
-            "latitude": 32.85,
-            "name": "MC INTYRE 1 WNW, GA US",
-            "datacoverage": 0.9105,
-            "id": "COOP:095696",
-            "elevationUnit": "METERS",
-            "longitude": -83.21667
-        },
-        {
-            "elevation": 139.9,
-            "mindate": "1965-04-01",
-            "maxdate": "1965-07-01",
-            "latitude": 32.83333,
-            "name": "MC INTYRE 2 SW, GA US",
-            "datacoverage": 0.998,
-            "id": "COOP:095702",
-            "elevationUnit": "METERS",
-            "longitude": -83.21667
         },
         {
             "elevation": 261.2,
@@ -2636,17 +2151,6 @@
             "longitude": -83.6975
         },
         {
-            "elevation": 161.5,
-            "mindate": "1957-01-01",
-            "maxdate": "1959-04-01",
-            "latitude": 33.31667,
-            "name": "MONTICELLO 2 NW, GA US",
-            "datacoverage": 1,
-            "id": "COOP:095989",
-            "elevationUnit": "METERS",
-            "longitude": -83.68333
-        },
-        {
             "elevation": 82.3,
             "mindate": "1955-10-01",
             "maxdate": "1986-03-01",
@@ -2779,17 +2283,6 @@
             "longitude": -82.75139
         },
         {
-            "elevation": 1007.1,
-            "mindate": "1948-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 34.73333,
-            "name": "NEEL GAP, GA US",
-            "datacoverage": 0.9768,
-            "id": "COOP:096266",
-            "elevationUnit": "METERS",
-            "longitude": -83.91667
-        },
-        {
             "elevation": 63.7,
             "mindate": "1956-09-01",
             "maxdate": "2003-02-01",
@@ -2834,50 +2327,6 @@
             "longitude": -84.41583
         },
         {
-            "elevation": 61,
-            "mindate": "1948-03-01",
-            "maxdate": "1952-07-01",
-            "latitude": 31.38333,
-            "name": "NEWTON EXPERIMENTAL STATION PTNY, GA US",
-            "datacoverage": 0.9766,
-            "id": "COOP:096359",
-            "elevationUnit": "METERS",
-            "longitude": -84.61667
-        },
-        {
-            "elevation": 54.9,
-            "mindate": "1952-07-01",
-            "maxdate": "1958-03-30",
-            "latitude": 31.28333,
-            "name": "NEWTON EXPERIMENTAL STATION MOSSY, GA US",
-            "datacoverage": 0.0477,
-            "id": "COOP:096360",
-            "elevationUnit": "METERS",
-            "longitude": -84.61667
-        },
-        {
-            "elevation": 390.1,
-            "mindate": "1959-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 34.81667,
-            "name": "NICKAJACK GAP, GA US",
-            "datacoverage": 1,
-            "id": "COOP:096375",
-            "elevationUnit": "METERS",
-            "longitude": -85.13333
-        },
-        {
-            "elevation": 604.1,
-            "mindate": "1949-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 34.7,
-            "name": "NOONTOOTLA CREEK, GA US",
-            "datacoverage": 0.9752,
-            "id": "COOP:096399",
-            "elevationUnit": "METERS",
-            "longitude": -84.23333
-        },
-        {
             "elevation": 306.3,
             "mindate": "1931-01-01",
             "maxdate": "2005-11-01",
@@ -2887,17 +2336,6 @@
             "id": "COOP:096407",
             "elevationUnit": "METERS",
             "longitude": -84.222
-        },
-        {
-            "elevation": 531,
-            "mindate": "1949-01-01",
-            "maxdate": "1956-05-01",
-            "latitude": 34.96667,
-            "name": "NOTTELY DAM, GA US",
-            "datacoverage": 1,
-            "id": "COOP:096471",
-            "elevationUnit": "METERS",
-            "longitude": -84.08333
         },
         {
             "elevation": 30.5,
@@ -2945,25 +2383,14 @@
         },
         {
             "elevation": 62.5,
-            "mindate": "1948-01-01",
+            "mindate": "1948-06-01",
             "maxdate": "2014-01-01",
             "latitude": 31.2928,
             "name": "PEARSON, GA US",
-            "datacoverage": 0.8449,
+            "datacoverage": 0.0331,
             "id": "COOP:096879",
             "elevationUnit": "METERS",
             "longitude": -82.8422
-        },
-        {
-            "elevation": 246.9,
-            "mindate": "1947-10-01",
-            "maxdate": "1955-01-01",
-            "latitude": 32.78333,
-            "name": "PINE MOUNTAIN VALLEY, GA US",
-            "datacoverage": 0.9767,
-            "id": "COOP:097046",
-            "elevationUnit": "METERS",
-            "longitude": -84.85
         },
         {
             "elevation": 152.4,
@@ -3043,17 +2470,6 @@
             "longitude": -85.06667
         },
         {
-            "elevation": 249.9,
-            "mindate": "1949-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 34.75,
-            "name": "RISING FAWN, GA US",
-            "datacoverage": 1,
-            "id": "COOP:097499",
-            "elevationUnit": "METERS",
-            "longitude": -85.53333
-        },
-        {
             "elevation": 438.9,
             "mindate": "1978-06-01",
             "maxdate": "1978-10-01",
@@ -3088,11 +2504,11 @@
         },
         {
             "elevation": 213.4,
-            "mindate": "1948-02-01",
+            "mindate": "1948-06-01",
             "maxdate": "2014-01-01",
             "latitude": 34.165,
             "name": "ROME 8 SW, GA US",
-            "datacoverage": 0.7734,
+            "datacoverage": 0.0369,
             "id": "COOP:097605",
             "elevationUnit": "METERS",
             "longitude": -85.2583
@@ -3197,17 +2613,6 @@
             "longitude": -82.96694
         },
         {
-            "elevation": 167.6,
-            "mindate": "1948-01-01",
-            "maxdate": "1951-05-26",
-            "latitude": 33.28333,
-            "name": "SPARTA NUMBER 2, GA US",
-            "datacoverage": 0.9763,
-            "id": "COOP:098228",
-            "elevationUnit": "METERS",
-            "longitude": -82.98333
-        },
-        {
             "elevation": 25.6,
             "mindate": "1999-06-01",
             "maxdate": "2015-11-01",
@@ -3217,17 +2622,6 @@
             "id": "COOP:098241",
             "elevationUnit": "METERS",
             "longitude": -81.31181
-        },
-        {
-            "elevation": 702,
-            "mindate": "1948-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 34.78333,
-            "name": "STANLEY GAP, GA US",
-            "datacoverage": 0.9768,
-            "id": "COOP:098269",
-            "elevationUnit": "METERS",
-            "longitude": -84.3
         },
         {
             "elevation": 42.7,
@@ -3250,15 +2644,6 @@
             "id": "COOP:098351",
             "elevationUnit": "METERS",
             "longitude": -82.21806
-        },
-        {
-            "mindate": "1948-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 34.68333,
-            "name": "SUCHES, GA US",
-            "datacoverage": 0.9534,
-            "id": "COOP:098414",
-            "longitude": -84.01667
         },
         {
             "elevation": 597.4,
@@ -3328,11 +2713,11 @@
         },
         {
             "elevation": 548.9,
-            "mindate": "1948-01-01",
+            "mindate": "1948-08-01",
             "maxdate": "1981-01-01",
             "latitude": 34.96667,
             "name": "SWEET GUM, GA US",
-            "datacoverage": 0.9768,
+            "datacoverage": 0.0697,
             "id": "COOP:098504",
             "elevationUnit": "METERS",
             "longitude": -84.21667
@@ -3415,17 +2800,6 @@
             "longitude": -83.86111
         },
         {
-            "elevation": 86,
-            "mindate": "1956-01-01",
-            "maxdate": "1964-06-01",
-            "latitude": 30.83333,
-            "name": "THOMASVILLE, GA US",
-            "datacoverage": 0.961,
-            "id": "COOP:098671",
-            "elevationUnit": "METERS",
-            "longitude": -83.98333
-        },
-        {
             "elevation": 115.8,
             "mindate": "1931-01-01",
             "maxdate": "2015-11-01",
@@ -3435,17 +2809,6 @@
             "id": "COOP:098703",
             "elevationUnit": "METERS",
             "longitude": -83.4767
-        },
-        {
-            "elevation": 665.1,
-            "mindate": "1949-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 34.95,
-            "name": "TITUS, GA US",
-            "datacoverage": 0.9752,
-            "id": "COOP:098732",
-            "elevationUnit": "METERS",
-            "longitude": -83.63333
         },
         {
             "elevation": 308.5,
@@ -3459,45 +2822,12 @@
             "longitude": -83.3319
         },
         {
-            "elevation": 473,
-            "mindate": "1963-10-01",
-            "maxdate": "1969-09-24",
-            "latitude": 34.6,
-            "name": "TOCCOA 5 NNW, GA US",
-            "datacoverage": 0.0654,
-            "id": "COOP:098743",
-            "elevationUnit": "METERS",
-            "longitude": -83.41667
-        },
-        {
-            "elevation": 296,
-            "mindate": "1961-07-01",
-            "maxdate": "1969-09-24",
-            "latitude": 34.58333,
-            "name": "TOCCOA 2 W, GA US",
-            "datacoverage": 0.0547,
-            "id": "COOP:098745",
-            "elevationUnit": "METERS",
-            "longitude": -83.35
-        },
-        {
-            "elevation": 249.9,
-            "mindate": "1961-07-01",
-            "maxdate": "1969-09-24",
-            "latitude": 34.51667,
-            "name": "TOCCOA 7 S, GA US",
-            "datacoverage": 0.0509,
-            "id": "COOP:098748",
-            "elevationUnit": "METERS",
-            "longitude": -83.33333
-        },
-        {
             "elevation": 1189.9,
-            "mindate": "1948-01-01",
+            "mindate": "1948-08-01",
             "maxdate": "1979-06-01",
             "latitude": 34.8,
             "name": "TRAY MOUNTAIN, GA US",
-            "datacoverage": 0.93,
+            "datacoverage": 0.0864,
             "id": "COOP:098806",
             "elevationUnit": "METERS",
             "longitude": -83.7
@@ -3512,17 +2842,6 @@
             "id": "COOP:098842",
             "elevationUnit": "METERS",
             "longitude": -83.35198
-        },
-        {
-            "elevation": 267.9,
-            "mindate": "1949-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 34.86667,
-            "name": "TUNNEL HILL, GA US",
-            "datacoverage": 0.994,
-            "id": "COOP:098854",
-            "elevationUnit": "METERS",
-            "longitude": -85.03333
         },
         {
             "elevation": 2.4,
@@ -3556,28 +2875,6 @@
             "id": "COOP:098950",
             "elevationUnit": "METERS",
             "longitude": -83.5358
-        },
-        {
-            "elevation": 70.1,
-            "mindate": "1948-01-01",
-            "maxdate": "1954-09-26",
-            "latitude": 30.83333,
-            "name": "VALDOSTA, GA US",
-            "datacoverage": 1,
-            "id": "COOP:098964",
-            "elevationUnit": "METERS",
-            "longitude": -83.3
-        },
-        {
-            "elevation": 60.4,
-            "mindate": "1948-01-01",
-            "maxdate": "1963-12-01",
-            "latitude": 30.7825,
-            "name": "VALDOSTA REGIONAL AIRPORT, GA US",
-            "datacoverage": 0.7331,
-            "id": "COOP:098969",
-            "elevationUnit": "METERS",
-            "longitude": -83.27667
         },
         {
             "elevation": 76.2,
@@ -3658,11 +2955,11 @@
         },
         {
             "elevation": 228.6,
-            "mindate": "1948-01-01",
+            "mindate": "1948-06-01",
             "maxdate": "2009-02-01",
             "latitude": 33.8731,
             "name": "WATKINSVILLE ARS, GA US",
-            "datacoverage": 1,
+            "datacoverage": 0.0538,
             "id": "COOP:099169",
             "elevationUnit": "METERS",
             "longitude": -83.4361
@@ -3767,17 +3064,6 @@
             "longitude": -84.5982
         },
         {
-            "elevation": 70.1,
-            "mindate": "1953-01-01",
-            "maxdate": "1956-03-29",
-            "latitude": 30.71667,
-            "name": "WOODRUFF DAM, GA ",
-            "datacoverage": 0.8726,
-            "id": "COOP:099519",
-            "elevationUnit": "METERS",
-            "longitude": -84.86667
-        },
-        {
             "elevation": 320.6,
             "mindate": "1937-07-01",
             "maxdate": "2002-05-01",
@@ -3787,39 +3073,6 @@
             "id": "COOP:099524",
             "elevationUnit": "METERS",
             "longitude": -84.515
-        },
-        {
-            "elevation": 586.1,
-            "mindate": "1949-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 34.93333,
-            "name": "YOUNG HARRIS, GA US",
-            "datacoverage": 0.9752,
-            "id": "COOP:099805",
-            "elevationUnit": "METERS",
-            "longitude": -83.85
-        },
-        {
-            "elevation": 278,
-            "mindate": "1948-03-01",
-            "maxdate": "1965-04-01",
-            "latitude": 34.98333,
-            "name": "DOUBLE SPRINGS GAP, GA US",
-            "datacoverage": 0.9534,
-            "id": "COOP:402564",
-            "elevationUnit": "METERS",
-            "longitude": -84.56667
-        },
-        {
-            "elevation": 601.1,
-            "mindate": "1949-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 34.98333,
-            "name": "LOOKOUT MOUNTAIN, GA US",
-            "datacoverage": 1,
-            "id": "COOP:405429",
-            "elevationUnit": "METERS",
-            "longitude": -85.35
         },
         {
             "elevation": 50.9,
@@ -10992,6 +10245,765 @@
             "id": "GHCND:US1GAOG0026",
             "elevationUnit": "METERS",
             "longitude": -82.990967
+        },
+        {
+            "elevation": 439.8,
+            "mindate": "2008-04-01",
+            "maxdate": "2020-05-17",
+            "latitude": 34.471515,
+            "name": "JASPER 0.6 ENE, GA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1GAPC0001",
+            "elevationUnit": "METERS",
+            "longitude": -84.418485
+        },
+        {
+            "elevation": 487.1,
+            "mindate": "2009-10-01",
+            "maxdate": "2020-05-17",
+            "latitude": 34.450622,
+            "name": "NELSON 6.6 NE, GA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1GAPC0007",
+            "elevationUnit": "METERS",
+            "longitude": -84.29225
+        },
+        {
+            "elevation": 459.6,
+            "mindate": "2014-04-01",
+            "maxdate": "2020-05-09",
+            "latitude": 34.451078,
+            "name": "MARBLE HILL 4.7 ENE, GA US",
+            "datacoverage": 0.9993,
+            "id": "GHCND:US1GAPC0008",
+            "elevationUnit": "METERS",
+            "longitude": -84.25922
+        },
+        {
+            "elevation": 433.7,
+            "mindate": "2016-02-19",
+            "maxdate": "2020-05-13",
+            "latitude": 34.446707,
+            "name": "JASPER 1.7 SSE, GA US",
+            "datacoverage": 0.3907,
+            "id": "GHCND:US1GAPC0009",
+            "elevationUnit": "METERS",
+            "longitude": -84.418541
+        },
+        {
+            "elevation": 429.2,
+            "mindate": "2016-07-17",
+            "maxdate": "2016-12-13",
+            "latitude": 34.4781036376953,
+            "name": "JASPER 4.3 W, GA US",
+            "datacoverage": 0.998,
+            "id": "GHCND:US1GAPC0010",
+            "elevationUnit": "METERS",
+            "longitude": -84.5024490356445
+        },
+        {
+            "elevation": 146.6,
+            "mindate": "2008-05-01",
+            "maxdate": "2020-05-17",
+            "latitude": 32.551369,
+            "name": "FORT VALLEY 0.7 ESE, GA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1GAPE0001",
+            "elevationUnit": "METERS",
+            "longitude": -83.877092
+        },
+        {
+            "elevation": 145.1,
+            "mindate": "2013-04-01",
+            "maxdate": "2020-05-17",
+            "latitude": 32.6085725,
+            "name": "BYRON 3.0 S, GA US",
+            "datacoverage": 0.9998,
+            "id": "GHCND:US1GAPE0003",
+            "elevationUnit": "METERS",
+            "longitude": -83.756026
+        },
+        {
+            "elevation": 343.2,
+            "mindate": "2008-04-01",
+            "maxdate": "2009-03-31",
+            "latitude": 33.942042,
+            "name": "DALLAS 5.3 ENE, GA US",
+            "datacoverage": 0.8339,
+            "id": "GHCND:US1GAPG0001",
+            "elevationUnit": "METERS",
+            "longitude": -84.74312
+        },
+        {
+            "elevation": 262.1,
+            "mindate": "2008-05-01",
+            "maxdate": "2013-08-11",
+            "latitude": 33.955419,
+            "name": "DALLAS 2.5 N, GA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1GAPG0003",
+            "elevationUnit": "METERS",
+            "longitude": -84.83139
+        },
+        {
+            "elevation": 312.1,
+            "mindate": "2008-06-01",
+            "maxdate": "2008-10-18",
+            "latitude": 33.898753,
+            "name": "HIRAM 2.6 NNE, GA US",
+            "datacoverage": 0.9947,
+            "id": "GHCND:US1GAPG0005",
+            "elevationUnit": "METERS",
+            "longitude": -84.755292
+        },
+        {
+            "elevation": 395.9,
+            "mindate": "2009-08-01",
+            "maxdate": "2017-09-12",
+            "latitude": 33.875117,
+            "name": "ROCKMART 9.6 SSE, GA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1GAPG0008",
+            "elevationUnit": "METERS",
+            "longitude": -85.012217
+        },
+        {
+            "elevation": 372.2,
+            "mindate": "2011-03-01",
+            "maxdate": "2012-06-02",
+            "latitude": 33.8246,
+            "name": "TEMPLE 6.5 NNE, GA US",
+            "datacoverage": 0.9356,
+            "id": "GHCND:US1GAPG0012",
+            "elevationUnit": "METERS",
+            "longitude": -84.9956
+        },
+        {
+            "elevation": 327.4,
+            "mindate": "2010-08-01",
+            "maxdate": "2013-12-17",
+            "latitude": 33.7992095947266,
+            "name": "DOUGLASVILLE 6.5 NW, GA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1GAPG0013",
+            "elevationUnit": "METERS",
+            "longitude": -84.8367080688477
+        },
+        {
+            "elevation": 257.9,
+            "mindate": "2013-02-01",
+            "maxdate": "2020-04-30",
+            "latitude": 33.101663,
+            "name": "ZEBULON 0.3 WNW, GA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1GAPK0002",
+            "elevationUnit": "METERS",
+            "longitude": -84.346412
+        },
+        {
+            "elevation": 274,
+            "mindate": "2008-05-01",
+            "maxdate": "2009-11-20",
+            "latitude": 33.9921,
+            "name": "CEDARTOWN 3.0 SW, GA US",
+            "datacoverage": 0.9988,
+            "id": "GHCND:US1GAPL0001",
+            "elevationUnit": "METERS",
+            "longitude": -85.299
+        },
+        {
+            "elevation": 274,
+            "mindate": "1998-06-17",
+            "maxdate": "2020-05-17",
+            "latitude": 33.985803,
+            "name": "CEDARTOWN 2.9 SE, GA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1GAPL0003",
+            "elevationUnit": "METERS",
+            "longitude": -85.224726
+        },
+        {
+            "elevation": 243.8,
+            "mindate": "2009-09-01",
+            "maxdate": "2020-05-09",
+            "latitude": 34.02855,
+            "name": "CEDARTOWN 1.3 NE, GA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1GAPL0004",
+            "elevationUnit": "METERS",
+            "longitude": -85.2384
+        },
+        {
+            "elevation": 256.3,
+            "mindate": "2010-02-01",
+            "maxdate": "2020-05-17",
+            "latitude": 33.955,
+            "name": "CEDARTOWN 4.6 SSW, GA US",
+            "datacoverage": 0.9736,
+            "id": "GHCND:US1GAPL0005",
+            "elevationUnit": "METERS",
+            "longitude": -85.284
+        },
+        {
+            "elevation": 160.9,
+            "mindate": "2008-06-01",
+            "maxdate": "2010-04-07",
+            "latitude": 33.325567,
+            "name": "EATONTON 6.9 E, GA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1GAPT0002",
+            "elevationUnit": "METERS",
+            "longitude": -83.26735
+        },
+        {
+            "elevation": 102.7,
+            "mindate": "2018-06-27",
+            "maxdate": "2020-05-09",
+            "latitude": 33.184138,
+            "name": "EATONTON 9.6 S, GA US",
+            "datacoverage": 0.9819,
+            "id": "GHCND:US1GAPT0006",
+            "elevationUnit": "METERS",
+            "longitude": -83.401077
+        },
+        {
+            "elevation": 1119.2,
+            "mindate": "2008-02-01",
+            "maxdate": "2020-05-15",
+            "latitude": 34.990411,
+            "name": "DILLARD 3.5 NE, GA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1GARB0001",
+            "elevationUnit": "METERS",
+            "longitude": -83.303014
+        },
+        {
+            "elevation": 672.7,
+            "mindate": "2008-10-01",
+            "maxdate": "2020-05-17",
+            "latitude": 34.941492,
+            "name": "RABUN GAP 2.1 SW, GA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1GARB0004",
+            "elevationUnit": "METERS",
+            "longitude": -83.417825
+        },
+        {
+            "elevation": 686.1,
+            "mindate": "2009-01-01",
+            "maxdate": "2020-05-14",
+            "latitude": 34.984167,
+            "name": "DILLARD 0.7 NNW, GA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1GARB0005",
+            "elevationUnit": "METERS",
+            "longitude": -83.391667
+        },
+        {
+            "elevation": 687,
+            "mindate": "2009-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 34.960614,
+            "name": "RABUN GAP 1.1 WNW, GA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1GARB0006",
+            "elevationUnit": "METERS",
+            "longitude": -83.405618
+        },
+        {
+            "elevation": 718.4,
+            "mindate": "2013-04-01",
+            "maxdate": "2013-09-10",
+            "latitude": 34.9232029169798,
+            "name": "MOUNTAIN CITY 2.1 W, GA US",
+            "datacoverage": 0.998,
+            "id": "GHCND:US1GARB0007",
+            "elevationUnit": "METERS",
+            "longitude": -83.4235232323408
+        },
+        {
+            "elevation": 626.7,
+            "mindate": "2013-04-01",
+            "maxdate": "2017-06-04",
+            "latitude": 34.879444,
+            "name": "CLAYTON 8.5 W, GA US",
+            "datacoverage": 0.9998,
+            "id": "GHCND:US1GARB0009",
+            "elevationUnit": "METERS",
+            "longitude": -83.551111
+        },
+        {
+            "elevation": 39.9,
+            "mindate": "2008-05-01",
+            "maxdate": "2020-05-15",
+            "latitude": 33.45658,
+            "name": "AUGUSTA 2.3 E, GA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1GARC0001",
+            "elevationUnit": "METERS",
+            "longitude": -81.95432
+        },
+        {
+            "elevation": 46,
+            "mindate": "2008-08-01",
+            "maxdate": "2011-10-29",
+            "latitude": 33.4758,
+            "name": "AUGUSTA 2.1 NE, GA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1GARC0002",
+            "elevationUnit": "METERS",
+            "longitude": -81.9654
+        },
+        {
+            "elevation": 104.5,
+            "mindate": "2011-08-01",
+            "maxdate": "2015-12-09",
+            "latitude": 33.4770873,
+            "name": "WEST AUGUSTA 0.9 SW, GA US",
+            "datacoverage": 0.998,
+            "id": "GHCND:US1GARC0003",
+            "elevationUnit": "METERS",
+            "longitude": -82.0696379
+        },
+        {
+            "elevation": 74.4,
+            "mindate": "2013-08-01",
+            "maxdate": "2015-10-11",
+            "latitude": 33.3425903320313,
+            "name": "HEPHZIBAH 5.0 NE, GA US",
+            "datacoverage": 0.9998,
+            "id": "GHCND:US1GARC0005",
+            "elevationUnit": "METERS",
+            "longitude": -82.0504760742188
+        },
+        {
+            "elevation": 73.5,
+            "mindate": "2017-07-16",
+            "maxdate": "2017-11-09",
+            "latitude": 33.4718297255529,
+            "name": "AUGUSTA 1.2 NW, GA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1GARC0008",
+            "elevationUnit": "METERS",
+            "longitude": -82.0077352457641
+        },
+        {
+            "elevation": 96.9,
+            "mindate": "2018-01-01",
+            "maxdate": "2020-05-13",
+            "latitude": 33.4950839,
+            "name": "WEST AUGUSTA 0.9 NW, GA US",
+            "datacoverage": 0.809,
+            "id": "GHCND:US1GARC0009",
+            "elevationUnit": "METERS",
+            "longitude": -82.0695
+        },
+        {
+            "elevation": 96.6,
+            "mindate": "2019-03-13",
+            "maxdate": "2020-05-17",
+            "latitude": 33.464654,
+            "name": "AUGUSTA 4.2 W, GA US",
+            "datacoverage": 0.9514,
+            "id": "GHCND:US1GARC0012",
+            "elevationUnit": "METERS",
+            "longitude": -82.067907
+        },
+        {
+            "elevation": 232.3,
+            "mindate": "2008-03-01",
+            "maxdate": "2020-05-10",
+            "latitude": 33.606412,
+            "name": "CONYERS 4.0 S, GA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1GARK0001",
+            "elevationUnit": "METERS",
+            "longitude": -84.013939
+        },
+        {
+            "elevation": 226.5,
+            "mindate": "2016-06-01",
+            "maxdate": "2017-08-04",
+            "latitude": 33.566722869873,
+            "name": "STOCKBRIDGE 6.7 ENE, GA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1GARK0004",
+            "elevationUnit": "METERS",
+            "longitude": -84.1289215087891
+        },
+        {
+            "elevation": 35.7,
+            "mindate": "2009-06-01",
+            "maxdate": "2020-05-17",
+            "latitude": 30.784386,
+            "name": "DONALSONVILLE 17.7 S, GA US",
+            "datacoverage": 0.9634,
+            "id": "GHCND:US1GASM0002",
+            "elevationUnit": "METERS",
+            "longitude": -84.86698
+        },
+        {
+            "elevation": 276.8,
+            "mindate": "2008-05-01",
+            "maxdate": "2013-02-23",
+            "latitude": 33.193457,
+            "name": "GRIFFIN 4.2 SW, GA US",
+            "datacoverage": 0.1897,
+            "id": "GHCND:US1GASP0001",
+            "elevationUnit": "METERS",
+            "longitude": -84.316792
+        },
+        {
+            "elevation": 271.9,
+            "mindate": "2008-07-01",
+            "maxdate": "2017-11-25",
+            "latitude": 33.327167,
+            "name": "SUNNY SIDE 1.6 SW, GA US",
+            "datacoverage": 0.9999,
+            "id": "GHCND:US1GASP0002",
+            "elevationUnit": "METERS",
+            "longitude": -84.311577
+        },
+        {
+            "elevation": 290.2,
+            "mindate": "2008-11-01",
+            "maxdate": "2020-05-16",
+            "latitude": 33.239043,
+            "name": "GRIFFIN 0.5 ESE, GA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1GASP0003",
+            "elevationUnit": "METERS",
+            "longitude": -84.264056
+        },
+        {
+            "elevation": 264,
+            "mindate": "2009-02-01",
+            "maxdate": "2012-10-03",
+            "latitude": 33.28608,
+            "name": "GRIFFIN 4.3 NW, GA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1GASP0004",
+            "elevationUnit": "METERS",
+            "longitude": -84.32376
+        },
+        {
+            "elevation": 251.8,
+            "mindate": "2011-11-01",
+            "maxdate": "2014-10-14",
+            "latitude": 33.199167,
+            "name": "GRIFFIN 2.9 S, GA US",
+            "datacoverage": 0.9165,
+            "id": "GHCND:US1GASP0005",
+            "elevationUnit": "METERS",
+            "longitude": -84.270833
+        },
+        {
+            "elevation": 256.3,
+            "mindate": "2012-04-01",
+            "maxdate": "2014-09-15",
+            "latitude": 33.245525,
+            "name": "GRIFFIN 5.5 E, GA US",
+            "datacoverage": 0.998,
+            "id": "GHCND:US1GASP0006",
+            "elevationUnit": "METERS",
+            "longitude": -84.178609
+        },
+        {
+            "elevation": 138.7,
+            "mindate": "2008-05-01",
+            "maxdate": "2008-12-18",
+            "latitude": 32.067461,
+            "name": "AMERICUS 0.4 SE, GA US",
+            "datacoverage": 0.998,
+            "id": "GHCND:US1GASR0001",
+            "elevationUnit": "METERS",
+            "longitude": -84.22252
+        },
+        {
+            "elevation": 114,
+            "mindate": "2012-03-26",
+            "maxdate": "2018-05-24",
+            "latitude": 31.982678,
+            "name": "AMERICUS 7.4 SW, GA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1GASR0005",
+            "elevationUnit": "METERS",
+            "longitude": -84.297424
+        },
+        {
+            "elevation": 286.5,
+            "mindate": "2008-10-01",
+            "maxdate": "2015-12-03",
+            "latitude": 34.52203,
+            "name": "TOCCOA 4.8 SW, GA US",
+            "datacoverage": 0.871,
+            "id": "GHCND:US1GAST0001",
+            "elevationUnit": "METERS",
+            "longitude": -83.37295
+        },
+        {
+            "elevation": 375.8,
+            "mindate": "2009-08-01",
+            "maxdate": "2010-08-21",
+            "latitude": 34.61484,
+            "name": "TOCCOA 3.1 NW, GA US",
+            "datacoverage": 0.9992,
+            "id": "GHCND:US1GAST0003",
+            "elevationUnit": "METERS",
+            "longitude": -83.35782
+        },
+        {
+            "elevation": 282.2,
+            "mindate": "2012-07-18",
+            "maxdate": "2020-02-07",
+            "latitude": 34.5270346105099,
+            "name": "TOCCOA 3.7 S, GA US",
+            "datacoverage": 0.0482,
+            "id": "GHCND:US1GAST0004",
+            "elevationUnit": "METERS",
+            "longitude": -83.3205579221249
+        },
+        {
+            "elevation": 240.5,
+            "mindate": "2017-07-08",
+            "maxdate": "2019-08-08",
+            "latitude": 34.607171,
+            "name": "TOCCOA 6.4 ENE, GA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1GAST0006",
+            "elevationUnit": "METERS",
+            "longitude": -83.217295
+        },
+        {
+            "elevation": 76.8,
+            "mindate": "2008-04-01",
+            "maxdate": "2016-01-03",
+            "latitude": 32.718715,
+            "name": "SYLVANIA 4.2 WSW, GA US",
+            "datacoverage": 0.5743,
+            "id": "GHCND:US1GASV0001",
+            "elevationUnit": "METERS",
+            "longitude": -81.69955
+        },
+        {
+            "elevation": 53,
+            "mindate": "2008-04-01",
+            "maxdate": "2013-01-03",
+            "latitude": 32.73253632,
+            "name": "SYLVANIA 6.3 ESE, GA US",
+            "datacoverage": 0.2412,
+            "id": "GHCND:US1GASV0002",
+            "elevationUnit": "METERS",
+            "longitude": -81.53233337
+        },
+        {
+            "elevation": 73.2,
+            "mindate": "2009-05-01",
+            "maxdate": "2020-05-15",
+            "latitude": 32.749399,
+            "name": "SYLVANIA 0.8 W, GA US",
+            "datacoverage": 0.9997,
+            "id": "GHCND:US1GASV0003",
+            "elevationUnit": "METERS",
+            "longitude": -81.652275
+        },
+        {
+            "elevation": 42.7,
+            "mindate": "2012-09-01",
+            "maxdate": "2020-05-11",
+            "latitude": 32.58226667,
+            "name": "NEWINGTON 0.5 SSE, GA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1GASV0005",
+            "elevationUnit": "METERS",
+            "longitude": -81.50316667
+        },
+        {
+            "elevation": 172.2,
+            "mindate": "2008-01-01",
+            "maxdate": "2009-03-17",
+            "latitude": 32.344814,
+            "name": "BUENA VISTA 8.8 ENE, GA US",
+            "datacoverage": 0.9925,
+            "id": "GHCND:US1GASY0001",
+            "elevationUnit": "METERS",
+            "longitude": -84.369268
+        },
+        {
+            "elevation": 156.1,
+            "mindate": "2013-11-01",
+            "maxdate": "2020-05-17",
+            "latitude": 32.25444444,
+            "name": "ELLAVILLE 4.5 ENE, GA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1GASY0003",
+            "elevationUnit": "METERS",
+            "longitude": -84.23472222
+        },
+        {
+            "elevation": 65.2,
+            "mindate": "2016-10-18",
+            "maxdate": "2020-05-16",
+            "latitude": 31.996184,
+            "name": "MCRAE 6.6 SE, GA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1GATE0004",
+            "elevationUnit": "METERS",
+            "longitude": -82.819866
+        },
+        {
+            "elevation": 95.1,
+            "mindate": "2008-07-01",
+            "maxdate": "2009-12-13",
+            "latitude": 31.54517,
+            "name": "TIFTON 5.6 N, GA US",
+            "datacoverage": 0.9992,
+            "id": "GHCND:US1GATF0002",
+            "elevationUnit": "METERS",
+            "longitude": -83.4989
+        },
+        {
+            "elevation": 102.4,
+            "mindate": "2008-05-01",
+            "maxdate": "2020-05-17",
+            "latitude": 31.4744,
+            "name": "TIFTON 1.4 ENE, GA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1GATF0003",
+            "elevationUnit": "METERS",
+            "longitude": -83.4893
+        },
+        {
+            "elevation": 92,
+            "mindate": "2008-06-01",
+            "maxdate": "2012-05-29",
+            "latitude": 31.412183,
+            "name": "TIFTON 5.6 SW, GA US",
+            "datacoverage": 0.7708,
+            "id": "GHCND:US1GATF0005",
+            "elevationUnit": "METERS",
+            "longitude": -83.578167
+        },
+        {
+            "elevation": 100,
+            "mindate": "2008-09-01",
+            "maxdate": "2017-12-01",
+            "latitude": 31.46149,
+            "name": "TIFTON 5.5 E, GA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1GATF0006",
+            "elevationUnit": "METERS",
+            "longitude": -83.41777
+        },
+        {
+            "elevation": 110,
+            "mindate": "2008-10-01",
+            "maxdate": "2020-05-14",
+            "latitude": 31.477076,
+            "name": "TIFTON 2.0 ENE, GA US",
+            "datacoverage": 0.9335,
+            "id": "GHCND:US1GATF0007",
+            "elevationUnit": "METERS",
+            "longitude": -83.479063
+        },
+        {
+            "elevation": 143,
+            "mindate": "2008-04-01",
+            "maxdate": "2020-05-09",
+            "latitude": 32.601631,
+            "name": "DANVILLE 3.3 W, GA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1GATG0001",
+            "elevationUnit": "METERS",
+            "longitude": -83.303154
+        },
+        {
+            "elevation": 65.8,
+            "mindate": "2008-05-01",
+            "maxdate": "2014-02-06",
+            "latitude": 30.967443,
+            "name": "COOLIDGE 3.2 SSW, GA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1GATH0001",
+            "elevationUnit": "METERS",
+            "longitude": -83.887466
+        },
+        {
+            "elevation": 64.3,
+            "mindate": "2008-05-01",
+            "maxdate": "2020-05-17",
+            "latitude": 30.837615,
+            "name": "THOMASVILLE 2.8 E, GA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1GATH0002",
+            "elevationUnit": "METERS",
+            "longitude": -83.931252
+        },
+        {
+            "elevation": 84.1,
+            "mindate": "2009-01-01",
+            "maxdate": "2020-05-16",
+            "latitude": 30.8176,
+            "name": "THOMASVILLE 5.1 ESE, GA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1GATH0004",
+            "elevationUnit": "METERS",
+            "longitude": -83.8965
+        },
+        {
+            "elevation": 59.7,
+            "mindate": "2009-01-01",
+            "maxdate": "2017-06-17",
+            "latitude": 30.84025,
+            "name": "BOSTON 3.4 NNW, GA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1GATH0005",
+            "elevationUnit": "METERS",
+            "longitude": -83.80328
+        },
+        {
+            "elevation": 74.7,
+            "mindate": "2012-04-01",
+            "maxdate": "2019-02-03",
+            "latitude": 30.8638877868652,
+            "name": "THOMASVILLE 5.5 ENE, GA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1GATH0008",
+            "elevationUnit": "METERS",
+            "longitude": -83.8911819458008
+        },
+        {
+            "elevation": 94.2,
+            "mindate": "2013-09-01",
+            "maxdate": "2020-05-16",
+            "latitude": 31.717928,
+            "name": "SASSER 0.2 WSW, GA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1GATL0001",
+            "elevationUnit": "METERS",
+            "longitude": -84.3506009
+        },
+        {
+            "elevation": 71,
+            "mindate": "2017-04-08",
+            "maxdate": "2017-12-29",
+            "latitude": 32.20073,
+            "name": "VIDALIA 2.0 WSW, GA US",
+            "datacoverage": 0.9819,
+            "id": "GHCND:US1GATM0004",
+            "elevationUnit": "METERS",
+            "longitude": -82.43439
+        },
+        {
+            "elevation": 64,
+            "mindate": "2019-01-27",
+            "maxdate": "2020-05-16",
+            "latitude": 32.26889,
+            "name": "COLLINS 7.3 NNE, GA US",
+            "datacoverage": 1,
+            "id": "GHCND:US1GATN0004",
+            "elevationUnit": "METERS",
+            "longitude": -82.04428
         }
     ]
 }

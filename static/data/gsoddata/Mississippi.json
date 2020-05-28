@@ -2,33 +2,11 @@
     "metadata": {
         "resultset": {
             "offset": 1,
-            "count": 995,
+            "count": 777,
             "limit": 1000
         }
     },
     "results": [
-        {
-            "elevation": 110,
-            "mindate": "1935-01-01",
-            "maxdate": "1938-01-01",
-            "latitude": 34.83333,
-            "name": "RIVERTON, MS US",
-            "datacoverage": 0.9993,
-            "id": "COOP:016956",
-            "elevationUnit": "METERS",
-            "longitude": -88.33333
-        },
-        {
-            "elevation": 15.2,
-            "mindate": "1952-11-01",
-            "maxdate": "1966-11-01",
-            "latitude": 31.53333,
-            "name": "VIDALIA NATCHEZ, MS US",
-            "datacoverage": 0.9647,
-            "id": "COOP:169355",
-            "elevationUnit": "METERS",
-            "longitude": -91.43333
-        },
         {
             "elevation": 123.7,
             "mindate": "1941-01-01",
@@ -63,26 +41,6 @@
             "longitude": -89.1668
         },
         {
-            "mindate": "1940-03-01",
-            "maxdate": "1953-08-01",
-            "latitude": 33.25,
-            "name": "ACONA, MS US",
-            "datacoverage": 0.8517,
-            "id": "COOP:220048",
-            "longitude": -90.06667
-        },
-        {
-            "elevation": 156.1,
-            "mindate": "1948-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 34.96667,
-            "name": "ACTON, MS US",
-            "datacoverage": 0.8832,
-            "id": "COOP:220050",
-            "elevationUnit": "METERS",
-            "longitude": -88.43333
-        },
-        {
             "elevation": 78.9,
             "mindate": "1952-10-01",
             "maxdate": "1972-06-01",
@@ -105,15 +63,6 @@
             "longitude": -90.65
         },
         {
-            "mindate": "1952-05-01",
-            "maxdate": "1959-01-14",
-            "latitude": 31.73333,
-            "name": "ALLEN 2 WSW, MS US",
-            "datacoverage": 0.0456,
-            "id": "COOP:220134",
-            "longitude": -90.7
-        },
-        {
             "elevation": 70.1,
             "mindate": "1992-01-01",
             "maxdate": "2015-11-01",
@@ -123,28 +72,6 @@
             "id": "COOP:220173",
             "elevationUnit": "METERS",
             "longitude": -88.4883
-        },
-        {
-            "elevation": 70.1,
-            "mindate": "1956-09-01",
-            "maxdate": "1969-01-01",
-            "latitude": 33.98333,
-            "name": "AMORY 4 W, MS US",
-            "datacoverage": 0.9059,
-            "id": "COOP:220176",
-            "elevationUnit": "METERS",
-            "longitude": -88.55
-        },
-        {
-            "elevation": 33.5,
-            "mindate": "1907-08-01",
-            "maxdate": "1936-04-01",
-            "latitude": 32.98333,
-            "name": "ANGUILLA, MS US",
-            "datacoverage": 0.9855,
-            "id": "COOP:220195",
-            "elevationUnit": "METERS",
-            "longitude": -90.83333
         },
         {
             "elevation": 1.5,
@@ -180,28 +107,6 @@
             "longitude": -89.1598
         },
         {
-            "elevation": 61,
-            "mindate": "1895-10-01",
-            "maxdate": "1934-08-01",
-            "latitude": 34.63333,
-            "name": "AUSTIN, MS US",
-            "datacoverage": 0.9636,
-            "id": "COOP:220325",
-            "elevationUnit": "METERS",
-            "longitude": -90.43333
-        },
-        {
-            "elevation": 98.1,
-            "mindate": "1948-01-01",
-            "maxdate": "1957-01-01",
-            "latitude": 31.3,
-            "name": "AVERA, MS US",
-            "datacoverage": 0.7337,
-            "id": "COOP:220347",
-            "elevationUnit": "METERS",
-            "longitude": -88.75
-        },
-        {
             "elevation": 109.7,
             "mindate": "1940-03-01",
             "maxdate": "2015-11-01",
@@ -213,17 +118,6 @@
             "longitude": -88.6394
         },
         {
-            "elevation": 156.1,
-            "mindate": "1958-12-01",
-            "maxdate": "1963-10-01",
-            "latitude": 31.75,
-            "name": "BARLOW 6 SE, MS US",
-            "datacoverage": 1,
-            "id": "COOP:220427",
-            "elevationUnit": "METERS",
-            "longitude": -90.58333
-        },
-        {
             "elevation": 67.1,
             "mindate": "1891-02-01",
             "maxdate": "2015-11-01",
@@ -233,17 +127,6 @@
             "id": "COOP:220488",
             "elevationUnit": "METERS",
             "longitude": -89.9805
-        },
-        {
-            "elevation": 6.1,
-            "mindate": "1891-02-01",
-            "maxdate": "1979-12-01",
-            "latitude": 30.3,
-            "name": "BAY SAINT LOUIS, MS US",
-            "datacoverage": 0.9523,
-            "id": "COOP:220519",
-            "elevationUnit": "METERS",
-            "longitude": -89.33333
         },
         {
             "elevation": 9.1,
@@ -290,17 +173,6 @@
             "longitude": -88.9187
         },
         {
-            "elevation": 121.9,
-            "mindate": "1947-10-01",
-            "maxdate": "1951-05-01",
-            "latitude": 33.66667,
-            "name": "BELLEFONTAINE 2 NNW, MS US",
-            "datacoverage": 0.7906,
-            "id": "COOP:220630",
-            "elevationUnit": "METERS",
-            "longitude": -89.33333
-        },
-        {
             "elevation": 186.5,
             "mindate": "1948-02-01",
             "maxdate": "2015-11-01",
@@ -334,17 +206,6 @@
             "longitude": -89.0008
         },
         {
-            "elevation": 3,
-            "mindate": "1966-11-01",
-            "maxdate": "1970-05-01",
-            "latitude": 30.4,
-            "name": "BILOXI 2, MS US",
-            "datacoverage": 0.0161,
-            "id": "COOP:220796",
-            "elevationUnit": "METERS",
-            "longitude": -88.86667
-        },
-        {
             "elevation": 5.8,
             "mindate": "1970-04-01",
             "maxdate": "2014-01-01",
@@ -354,17 +215,6 @@
             "id": "COOP:220797",
             "elevationUnit": "METERS",
             "longitude": -89.0277
-        },
-        {
-            "elevation": 8.2,
-            "mindate": "1947-04-01",
-            "maxdate": "1954-04-01",
-            "latitude": 30.4,
-            "name": "BILOXI DISPLAY, MS US",
-            "datacoverage": 0.9412,
-            "id": "COOP:220801",
-            "elevationUnit": "METERS",
-            "longitude": -88.88333
         },
         {
             "elevation": 78.9,
@@ -398,17 +248,6 @@
             "id": "COOP:220955",
             "elevationUnit": "METERS",
             "longitude": -88.5622
-        },
-        {
-            "elevation": 18,
-            "mindate": "1892-12-01",
-            "maxdate": "1899-08-01",
-            "latitude": 31.38333,
-            "name": "BRIERS, MS US",
-            "datacoverage": 0.9878,
-            "id": "COOP:221069",
-            "elevationUnit": "METERS",
-            "longitude": -91.38333
         },
         {
             "elevation": 132.6,
@@ -488,28 +327,6 @@
             "longitude": -90.85
         },
         {
-            "elevation": 136.9,
-            "mindate": "1940-01-01",
-            "maxdate": "1945-03-01",
-            "latitude": 31.416667,
-            "name": "BUDE TOWER, MS US",
-            "datacoverage": 0.5398,
-            "id": "COOP:221190",
-            "elevationUnit": "METERS",
-            "longitude": -90.85
-        },
-        {
-            "elevation": 143,
-            "mindate": "1948-07-01",
-            "maxdate": "1962-03-01",
-            "latitude": 34.83333,
-            "name": "BURNSVILLE SUBSTN, MS US",
-            "datacoverage": 0.8788,
-            "id": "COOP:221235",
-            "elevationUnit": "METERS",
-            "longitude": -88.31667
-        },
-        {
             "elevation": 97.5,
             "mindate": "1909-05-01",
             "maxdate": "1996-10-01",
@@ -519,17 +336,6 @@
             "id": "COOP:221262",
             "elevationUnit": "METERS",
             "longitude": -89.68333
-        },
-        {
-            "elevation": 161.8,
-            "mindate": "1959-07-01",
-            "maxdate": "1962-03-01",
-            "latitude": 34.7,
-            "name": "CAIRO, MS US",
-            "datacoverage": 0.9994,
-            "id": "COOP:221299",
-            "elevationUnit": "METERS",
-            "longitude": -88.35
         },
         {
             "elevation": 81.7,
@@ -576,15 +382,6 @@
             "longitude": -89.5388
         },
         {
-            "mindate": "1948-01-01",
-            "maxdate": "1948-08-28",
-            "latitude": 32.93333,
-            "name": "CENTER, MS US",
-            "datacoverage": 0.7485,
-            "id": "COOP:221566",
-            "longitude": -89.45
-        },
-        {
             "elevation": 112.8,
             "mindate": "1957-02-01",
             "maxdate": "2009-12-01",
@@ -607,17 +404,6 @@
             "longitude": -90.0681
         },
         {
-            "elevation": 36.9,
-            "mindate": "1947-10-01",
-            "maxdate": "1951-11-01",
-            "latitude": 33.11667,
-            "name": "CHATHAM 2 NE, MS US",
-            "datacoverage": 0.581,
-            "id": "COOP:221623",
-            "elevationUnit": "METERS",
-            "longitude": -91.08333
-        },
-        {
             "elevation": 52.7,
             "mindate": "1892-09-01",
             "maxdate": "2015-11-01",
@@ -627,17 +413,6 @@
             "id": "COOP:221707",
             "elevationUnit": "METERS",
             "longitude": -90.5573
-        },
-        {
-            "elevation": 54.9,
-            "mindate": "1956-05-01",
-            "maxdate": "1959-11-01",
-            "latitude": 34.2,
-            "name": "CLARKSDALE 2, MS US",
-            "datacoverage": 0.0524,
-            "id": "COOP:221712",
-            "elevationUnit": "METERS",
-            "longitude": -90.6
         },
         {
             "elevation": 42.1,
@@ -693,15 +468,6 @@
             "id": "COOP:221852",
             "elevationUnit": "METERS",
             "longitude": -89.5572
-        },
-        {
-            "mindate": "1952-07-01",
-            "maxdate": "1965-04-01",
-            "latitude": 32.53333,
-            "name": "COLLINSVILLE 3 NE, MS US",
-            "datacoverage": 0.9806,
-            "id": "COOP:221857",
-            "longitude": -88.81667
         },
         {
             "elevation": 94.5,
@@ -803,17 +569,6 @@
             "longitude": -88.7061
         },
         {
-            "elevation": 57.9,
-            "mindate": "1909-04-01",
-            "maxdate": "1920-10-01",
-            "latitude": 34.5,
-            "name": "CRENSHAW, MS US",
-            "datacoverage": 0.9062,
-            "id": "COOP:222075",
-            "elevationUnit": "METERS",
-            "longitude": -90.18333
-        },
-        {
             "elevation": 148.4,
             "mindate": "1892-04-01",
             "maxdate": "2015-11-01",
@@ -847,28 +602,6 @@
             "longitude": -89.05
         },
         {
-            "elevation": 131.1,
-            "mindate": "1959-01-01",
-            "maxdate": "1964-01-01",
-            "latitude": 32.43333,
-            "name": "DECATUR, MS US",
-            "datacoverage": 0.8523,
-            "id": "COOP:222241",
-            "elevationUnit": "METERS",
-            "longitude": -89.11667
-        },
-        {
-            "elevation": 49.1,
-            "mindate": "1945-08-01",
-            "maxdate": "1945-12-01",
-            "latitude": 34.01667,
-            "name": "DEESON, MS US",
-            "datacoverage": 0.9947,
-            "id": "COOP:222275",
-            "elevationUnit": "METERS",
-            "longitude": -90.86667
-        },
-        {
             "elevation": 125,
             "mindate": "1964-07-01",
             "maxdate": "2007-10-01",
@@ -891,15 +624,6 @@
             "longitude": -88.6495
         },
         {
-            "mindate": "1909-05-01",
-            "maxdate": "1912-02-01",
-            "latitude": 34.3,
-            "name": "DENMARK, MS US",
-            "datacoverage": 0.9705,
-            "id": "COOP:222313",
-            "longitude": -89.33333
-        },
-        {
             "elevation": 101.8,
             "mindate": "1936-11-01",
             "maxdate": "2015-11-01",
@@ -909,17 +633,6 @@
             "id": "COOP:222385",
             "elevationUnit": "METERS",
             "longitude": -89.9327
-        },
-        {
-            "elevation": 75.9,
-            "mindate": "1892-01-01",
-            "maxdate": "1953-04-01",
-            "latitude": 33.63333,
-            "name": "DUCK HILL, MS US",
-            "datacoverage": 0.8429,
-            "id": "COOP:222477",
-            "elevationUnit": "METERS",
-            "longitude": -89.71667
         },
         {
             "elevation": 46.3,
@@ -933,17 +646,6 @@
             "longitude": -90.7456
         },
         {
-            "elevation": 82,
-            "mindate": "1930-10-01",
-            "maxdate": "1947-06-01",
-            "latitude": 33.08333,
-            "name": "DURANT, MS US",
-            "datacoverage": 0.9603,
-            "id": "COOP:222522",
-            "elevationUnit": "METERS",
-            "longitude": -89.85
-        },
-        {
             "elevation": 106.7,
             "mindate": "1907-12-01",
             "maxdate": "2014-01-01",
@@ -953,17 +655,6 @@
             "id": "COOP:222658",
             "elevationUnit": "METERS",
             "longitude": -89.3366
-        },
-        {
-            "elevation": 75.9,
-            "mindate": "1891-02-01",
-            "maxdate": "1920-11-01",
-            "latitude": 32.31667,
-            "name": "EDWARDS, MS US",
-            "datacoverage": 0.975,
-            "id": "COOP:222668",
-            "elevationUnit": "METERS",
-            "longitude": -90.61667
         },
         {
             "elevation": 79.2,
@@ -1032,28 +723,6 @@
             "longitude": -89.2358
         },
         {
-            "elevation": 85,
-            "mindate": "1891-02-01",
-            "maxdate": "1932-07-01",
-            "latitude": 31.68333,
-            "name": "FAYETTE, MS US",
-            "datacoverage": 0.968,
-            "id": "COOP:222994",
-            "elevationUnit": "METERS",
-            "longitude": -91.06667
-        },
-        {
-            "elevation": 67.1,
-            "mindate": "1941-12-01",
-            "maxdate": "1950-03-01",
-            "latitude": 32.53333,
-            "name": "FLORA, MS US",
-            "datacoverage": 0.7202,
-            "id": "COOP:223067",
-            "elevationUnit": "METERS",
-            "longitude": -90.31667
-        },
-        {
             "elevation": 137.2,
             "mindate": "1891-05-01",
             "maxdate": "2012-12-01",
@@ -1065,15 +734,6 @@
             "longitude": -89.4208
         },
         {
-            "mindate": "1952-11-01",
-            "maxdate": "1953-04-01",
-            "latitude": 32.36667,
-            "name": "FOREST POST OFFICE, MS US",
-            "datacoverage": 0.077,
-            "id": "COOP:223122",
-            "longitude": -89.48333
-        },
-        {
             "elevation": 24.1,
             "mindate": "1972-08-01",
             "maxdate": "1986-06-01",
@@ -1083,26 +743,6 @@
             "id": "COOP:223134",
             "elevationUnit": "METERS",
             "longitude": -91.55
-        },
-        {
-            "mindate": "1893-09-01",
-            "maxdate": "1948-05-01",
-            "latitude": 33.283333,
-            "name": "FRENCH CAMP, MS US",
-            "datacoverage": 0.1035,
-            "id": "COOP:223173",
-            "longitude": -89.4
-        },
-        {
-            "elevation": 92,
-            "mindate": "1917-02-01",
-            "maxdate": "1945-08-01",
-            "latitude": 30.91667,
-            "name": "FRUITLAND PARK, MS US",
-            "datacoverage": 0.9185,
-            "id": "COOP:223198",
-            "elevationUnit": "METERS",
-            "longitude": -89.16667
         },
         {
             "elevation": 106.7,
@@ -1136,28 +776,6 @@
             "id": "COOP:223340",
             "elevationUnit": "METERS",
             "longitude": -88.8536
-        },
-        {
-            "elevation": 34.1,
-            "mindate": "1951-10-01",
-            "maxdate": "1951-11-27",
-            "latitude": 33.03333,
-            "name": "GLEN ALLEN, MS US",
-            "datacoverage": 0.0255,
-            "id": "COOP:223424",
-            "elevationUnit": "METERS",
-            "longitude": -91.03333
-        },
-        {
-            "elevation": 182.9,
-            "mindate": "1959-07-01",
-            "maxdate": "1962-03-01",
-            "latitude": 34.88333,
-            "name": "GLENS, MS US",
-            "datacoverage": 0.9994,
-            "id": "COOP:223429",
-            "elevationUnit": "METERS",
-            "longitude": -88.41667
         },
         {
             "elevation": 116.4,
@@ -1202,17 +820,6 @@
             "id": "COOP:223608",
             "elevationUnit": "METERS",
             "longitude": -90.98528
-        },
-        {
-            "elevation": 39.9,
-            "mindate": "1946-11-01",
-            "maxdate": "1952-04-01",
-            "latitude": 33.4,
-            "name": "GREENVILLE 2, MS US",
-            "datacoverage": 0.5609,
-            "id": "COOP:223610",
-            "elevationUnit": "METERS",
-            "longitude": -91.05
         },
         {
             "elevation": 22.9,
@@ -1325,17 +932,6 @@
             "longitude": -88.7019
         },
         {
-            "elevation": 69.8,
-            "mindate": "1951-10-01",
-            "maxdate": "1954-04-23",
-            "latitude": 30.63333,
-            "name": "HARRISON EXPERIMENTAL FOREST, MS US",
-            "datacoverage": 0.0541,
-            "id": "COOP:223851",
-            "elevationUnit": "METERS",
-            "longitude": -89.05
-        },
-        {
             "elevation": 117.3,
             "mindate": "1891-02-01",
             "maxdate": "2015-11-01",
@@ -1370,11 +966,11 @@
         },
         {
             "elevation": 141.7,
-            "mindate": "1891-05-01",
+            "mindate": "1964-02-01",
             "maxdate": "2003-02-01",
             "latitude": 31.85833,
             "name": "HAZLEHURST, MS US",
-            "datacoverage": 0.8283,
+            "datacoverage": 0.0364,
             "id": "COOP:223917",
             "elevationUnit": "METERS",
             "longitude": -90.39389
@@ -1389,17 +985,6 @@
             "id": "COOP:223920",
             "elevationUnit": "METERS",
             "longitude": -90.4541
-        },
-        {
-            "elevation": 100.9,
-            "mindate": "1948-01-01",
-            "maxdate": "1964-06-01",
-            "latitude": 31.9,
-            "name": "HEIDELBERG, MS US",
-            "datacoverage": 0.667,
-            "id": "COOP:223939",
-            "elevationUnit": "METERS",
-            "longitude": -88.98333
         },
         {
             "elevation": 115.8,
@@ -1457,17 +1042,6 @@
             "longitude": -90.71667
         },
         {
-            "elevation": 153,
-            "mindate": "1891-02-01",
-            "maxdate": "1960-12-01",
-            "latitude": 34.8,
-            "name": "HOLLY SPRINGS 2 N, MS US",
-            "datacoverage": 0.9595,
-            "id": "COOP:224168",
-            "elevationUnit": "METERS",
-            "longitude": -89.43333
-        },
-        {
             "elevation": 147.2,
             "mindate": "1947-10-01",
             "maxdate": "2015-11-01",
@@ -1510,17 +1084,6 @@
             "id": "COOP:224455",
             "elevationUnit": "METERS",
             "longitude": -88.19583
-        },
-        {
-            "elevation": 71,
-            "mindate": "1908-03-01",
-            "maxdate": "1956-12-01",
-            "latitude": 32.28167,
-            "name": "JACKSON 1 SSE, MS US",
-            "datacoverage": 0.4317,
-            "id": "COOP:224462",
-            "elevationUnit": "METERS",
-            "longitude": -90.17861
         },
         {
             "elevation": 98.1,
@@ -1600,15 +1163,6 @@
             "longitude": -89.3897
         },
         {
-            "mindate": "1947-10-01",
-            "maxdate": "1949-06-01",
-            "latitude": 34.86667,
-            "name": "KOSSUTH, MS US",
-            "datacoverage": 0.6918,
-            "id": "COOP:224781",
-            "longitude": -88.65
-        },
-        {
             "elevation": 137.2,
             "mindate": "1944-01-01",
             "maxdate": "2008-04-01",
@@ -1618,26 +1172,6 @@
             "id": "COOP:224816",
             "elevationUnit": "METERS",
             "longitude": -89.2563
-        },
-        {
-            "elevation": 143,
-            "mindate": "1931-01-01",
-            "maxdate": "1933-03-01",
-            "latitude": 32.35,
-            "name": "LAKE, MS US",
-            "datacoverage": 0.9639,
-            "id": "COOP:224824",
-            "elevationUnit": "METERS",
-            "longitude": -89.33333
-        },
-        {
-            "mindate": "1902-08-01",
-            "maxdate": "1911-10-01",
-            "latitude": 31.96667,
-            "name": "LAKE COMO, MS US",
-            "datacoverage": 0.9728,
-            "id": "COOP:224838",
-            "longitude": -89.21667
         },
         {
             "elevation": 62.5,
@@ -1660,17 +1194,6 @@
             "id": "COOP:224869",
             "elevationUnit": "METERS",
             "longitude": -90.2909
-        },
-        {
-            "elevation": 195.1,
-            "mindate": "1959-07-01",
-            "maxdate": "1961-06-01",
-            "latitude": 34.93333,
-            "name": "LAMBS CHAPEL SCHOOL, MS US",
-            "datacoverage": 0.9993,
-            "id": "COOP:224874",
-            "elevationUnit": "METERS",
-            "longitude": -88.31667
         },
         {
             "elevation": 68.6,
@@ -1750,17 +1273,6 @@
             "longitude": -89.161
         },
         {
-            "elevation": 70.1,
-            "mindate": "1951-01-01",
-            "maxdate": "1969-09-23",
-            "latitude": 31.81667,
-            "name": "LORMAN, MS US",
-            "datacoverage": 1,
-            "id": "COOP:225223",
-            "elevationUnit": "METERS",
-            "longitude": -91.05
-        },
-        {
             "elevation": 177.1,
             "mindate": "1891-02-01",
             "maxdate": "2015-11-01",
@@ -1772,37 +1284,6 @@
             "longitude": -89.0711
         },
         {
-            "mindate": "1947-10-01",
-            "maxdate": "1952-04-01",
-            "latitude": 31.51667,
-            "name": "LUCIEN, MS US",
-            "datacoverage": 0.8644,
-            "id": "COOP:225291",
-            "longitude": -90.65
-        },
-        {
-            "elevation": 61,
-            "mindate": "1909-04-01",
-            "maxdate": "1951-07-01",
-            "latitude": 34.45,
-            "name": "LULA, MS US",
-            "datacoverage": 0.102,
-            "id": "COOP:225313",
-            "elevationUnit": "METERS",
-            "longitude": -90.48333
-        },
-        {
-            "elevation": 92,
-            "mindate": "1954-07-01",
-            "maxdate": "1960-11-01",
-            "latitude": 31.03333,
-            "name": "LUMBERTON 2 N, MS US",
-            "datacoverage": 0.9865,
-            "id": "COOP:225318",
-            "elevationUnit": "METERS",
-            "longitude": -89.45
-        },
-        {
             "elevation": 91.4,
             "mindate": "1998-07-01",
             "maxdate": "1998-10-01",
@@ -1812,17 +1293,6 @@
             "id": "COOP:225319",
             "elevationUnit": "METERS",
             "longitude": -89.52639
-        },
-        {
-            "elevation": 78.9,
-            "mindate": "1950-05-01",
-            "maxdate": "1954-04-01",
-            "latitude": 30.88333,
-            "name": "LUMBERTON 1O SE, MS US",
-            "datacoverage": 0.875,
-            "id": "COOP:225321",
-            "elevationUnit": "METERS",
-            "longitude": -89.4
         },
         {
             "elevation": 76.2,
@@ -1845,59 +1315,6 @@
             "id": "COOP:225366",
             "elevationUnit": "METERS",
             "longitude": -88.53333
-        },
-        {
-            "elevation": 103.9,
-            "mindate": "1948-01-01",
-            "maxdate": "1951-11-01",
-            "latitude": 32.43333,
-            "name": "MADISON STATION 2 SSW, MS US",
-            "datacoverage": 0.6283,
-            "id": "COOP:225384",
-            "elevationUnit": "METERS",
-            "longitude": -90.13333
-        },
-        {
-            "elevation": 128,
-            "mindate": "1895-05-01",
-            "maxdate": "1949-01-01",
-            "latitude": 31.1,
-            "name": "MAGNOLIA, MS US",
-            "datacoverage": 0.986,
-            "id": "COOP:225397",
-            "elevationUnit": "METERS",
-            "longitude": -90.46667
-        },
-        {
-            "mindate": "1909-05-01",
-            "maxdate": "1915-11-01",
-            "latitude": 34.58333,
-            "name": "MALONE, MS US",
-            "datacoverage": 0.9365,
-            "id": "COOP:225415",
-            "longitude": -90.5
-        },
-        {
-            "elevation": 121.9,
-            "mindate": "1948-01-01",
-            "maxdate": "1951-11-01",
-            "latitude": 32.41667,
-            "name": "MARION 2 E, MS US",
-            "datacoverage": 0.9116,
-            "id": "COOP:225467",
-            "elevationUnit": "METERS",
-            "longitude": -88.63333
-        },
-        {
-            "elevation": 52.1,
-            "mindate": "1909-05-01",
-            "maxdate": "1912-02-01",
-            "latitude": 34.25,
-            "name": "MARKS, MS US",
-            "datacoverage": 0.8822,
-            "id": "COOP:225480",
-            "elevationUnit": "METERS",
-            "longitude": -90.26667
         },
         {
             "elevation": 115.8,
@@ -1944,28 +1361,6 @@
             "longitude": -89.06667
         },
         {
-            "elevation": 70.1,
-            "mindate": "1903-04-01",
-            "maxdate": "1919-06-01",
-            "latitude": 30.81667,
-            "name": "MC NEILL, MS US",
-            "datacoverage": 0.9539,
-            "id": "COOP:225687",
-            "elevationUnit": "METERS",
-            "longitude": -89.6
-        },
-        {
-            "elevation": 52.1,
-            "mindate": "1952-12-01",
-            "maxdate": "1963-05-29",
-            "latitude": 30.65,
-            "name": "MC NEILL EXPERIMENTAL FOREST, MS US",
-            "datacoverage": 0.0491,
-            "id": "COOP:225692",
-            "elevationUnit": "METERS",
-            "longitude": -89.63333
-        },
-        {
             "elevation": 105.2,
             "mindate": "1917-03-01",
             "maxdate": "2015-11-01",
@@ -1986,17 +1381,6 @@
             "id": "COOP:225705",
             "elevationUnit": "METERS",
             "longitude": -90.8798
-        },
-        {
-            "elevation": 116.1,
-            "mindate": "1947-01-01",
-            "maxdate": "1948-10-17",
-            "latitude": 32.35,
-            "name": "MERIDIAN, MS US",
-            "datacoverage": 0.7145,
-            "id": "COOP:225772",
-            "elevationUnit": "METERS",
-            "longitude": -88.66667
         },
         {
             "elevation": 89,
@@ -2030,17 +1414,6 @@
             "id": "COOP:225789",
             "elevationUnit": "METERS",
             "longitude": -88.71667
-        },
-        {
-            "elevation": 180.1,
-            "mindate": "1948-07-01",
-            "maxdate": "1962-03-01",
-            "latitude": 34.73333,
-            "name": "MIDWAY, MS US",
-            "datacoverage": 0.8606,
-            "id": "COOP:225825",
-            "elevationUnit": "METERS",
-            "longitude": -88.26667
         },
         {
             "elevation": 44.2,
@@ -2120,17 +1493,6 @@
             "longitude": -88.87972
         },
         {
-            "elevation": 6.1,
-            "mindate": "1891-03-01",
-            "maxdate": "1899-05-01",
-            "latitude": 30.4,
-            "name": "MOSS POINT, MS US",
-            "datacoverage": 0.7877,
-            "id": "COOP:226054",
-            "elevationUnit": "METERS",
-            "longitude": -88.5
-        },
-        {
             "elevation": 117.3,
             "mindate": "1942-11-01",
             "maxdate": "2015-11-01",
@@ -2140,15 +1502,6 @@
             "id": "COOP:226084",
             "elevationUnit": "METERS",
             "longitude": -89.6041
-        },
-        {
-            "mindate": "1920-05-01",
-            "maxdate": "1922-10-01",
-            "latitude": 34.55,
-            "name": "MYRTLE, MS US",
-            "datacoverage": 0.9324,
-            "id": "COOP:226163",
-            "longitude": -89.11667
         },
         {
             "elevation": 59.4,
@@ -2294,17 +1647,6 @@
             "longitude": -90.94
         },
         {
-            "elevation": 52.1,
-            "mindate": "1948-01-01",
-            "maxdate": "1968-01-01",
-            "latitude": 31.48333,
-            "name": "OVETT, MS US",
-            "datacoverage": 0.956,
-            "id": "COOP:226626",
-            "elevationUnit": "METERS",
-            "longitude": -89.03333
-        },
-        {
             "elevation": 65.8,
             "mindate": "2003-08-01",
             "maxdate": "2015-11-01",
@@ -2382,17 +1724,6 @@
             "longitude": -88.478
         },
         {
-            "elevation": 3,
-            "mindate": "1947-10-01",
-            "maxdate": "1960-11-01",
-            "latitude": 30.36265,
-            "name": "PASCAGOULA SP YD, MS US",
-            "datacoverage": 0.7917,
-            "id": "COOP:226719",
-            "elevationUnit": "METERS",
-            "longitude": -88.57228
-        },
-        {
             "elevation": 9.1,
             "mindate": "1960-11-01",
             "maxdate": "1973-05-01",
@@ -2413,17 +1744,6 @@
             "id": "COOP:226750",
             "elevationUnit": "METERS",
             "longitude": -89.03556
-        },
-        {
-            "elevation": 3,
-            "mindate": "1891-02-01",
-            "maxdate": "1968-03-01",
-            "latitude": 30.25,
-            "name": "PEARLINGTON, MS US",
-            "datacoverage": 0.9796,
-            "id": "COOP:226780",
-            "elevationUnit": "METERS",
-            "longitude": -89.61667
         },
         {
             "elevation": 112.8,
@@ -2457,17 +1777,6 @@
             "id": "COOP:226894",
             "elevationUnit": "METERS",
             "longitude": -89.1302
-        },
-        {
-            "elevation": 131.1,
-            "mindate": "1947-01-01",
-            "maxdate": "1951-07-01",
-            "latitude": 32.73333,
-            "name": "PHILADELPHIA 5 SW, MS US",
-            "datacoverage": 0.655,
-            "id": "COOP:226899",
-            "elevationUnit": "METERS",
-            "longitude": -89.18333
         },
         {
             "elevation": 19.5,
@@ -2569,26 +1878,6 @@
             "longitude": -90.9719
         },
         {
-            "elevation": 61,
-            "mindate": "1905-03-01",
-            "maxdate": "1964-08-01",
-            "latitude": 32.68333,
-            "name": "PORTERVILLE, MS US",
-            "datacoverage": 0.3041,
-            "id": "COOP:227141",
-            "elevationUnit": "METERS",
-            "longitude": -88.46667
-        },
-        {
-            "mindate": "1940-01-01",
-            "maxdate": "1946-05-01",
-            "latitude": 34.566667,
-            "name": "POTTS CAMP NEAR, MS US",
-            "datacoverage": 0.7275,
-            "id": "COOP:227155",
-            "longitude": -89.316667
-        },
-        {
             "elevation": 85.6,
             "mindate": "1940-05-01",
             "maxdate": "2015-11-01",
@@ -2655,24 +1944,6 @@
             "longitude": -88.93222
         },
         {
-            "mindate": "1940-01-01",
-            "maxdate": "1968-02-01",
-            "latitude": 31.53333,
-            "name": "RICHTON 12 NNE, MS US",
-            "datacoverage": 0.935,
-            "id": "COOP:227449",
-            "longitude": -88.9
-        },
-        {
-            "mindate": "1938-07-01",
-            "maxdate": "1952-12-01",
-            "latitude": 32.5,
-            "name": "RIO 5 S, MS US",
-            "datacoverage": 0.9249,
-            "id": "COOP:227462",
-            "longitude": -88.83333
-        },
-        {
             "elevation": 160,
             "mindate": "1897-11-01",
             "maxdate": "2014-12-01",
@@ -2682,15 +1953,6 @@
             "id": "COOP:227467",
             "elevationUnit": "METERS",
             "longitude": -88.9515
-        },
-        {
-            "mindate": "1938-05-01",
-            "maxdate": "1945-07-01",
-            "latitude": 34.08333,
-            "name": "ROCHDALE, MS US",
-            "datacoverage": 0.9882,
-            "id": "COOP:227527",
-            "longitude": -90.85
         },
         {
             "elevation": 61,
@@ -2748,24 +2010,6 @@
             "longitude": -90.0647
         },
         {
-            "mindate": "1948-05-01",
-            "maxdate": "1952-04-01",
-            "latitude": 31.5,
-            "name": "ROXIE, MS US",
-            "datacoverage": 0.6829,
-            "id": "COOP:227639",
-            "longitude": -91.06667
-        },
-        {
-            "mindate": "1940-05-01",
-            "maxdate": "1950-11-01",
-            "latitude": 33.06667,
-            "name": "RURAL HILL, MS US",
-            "datacoverage": 0.9526,
-            "id": "COOP:227683",
-            "longitude": -89.28333
-        },
-        {
             "elevation": 118.9,
             "mindate": "1940-09-01",
             "maxdate": "1988-06-01",
@@ -2777,21 +2021,12 @@
             "longitude": -88.6
         },
         {
-            "mindate": "1947-10-01",
-            "maxdate": "1951-02-01",
-            "latitude": 31.88333,
-            "name": "RUSSUM, MS US",
-            "datacoverage": 0.6859,
-            "id": "COOP:227710",
-            "longitude": -91
-        },
-        {
             "elevation": 135,
-            "mindate": "1948-01-01",
+            "mindate": "1948-06-01",
             "maxdate": "2002-09-01",
             "latitude": 31.37194,
             "name": "RUTH, MS US",
-            "datacoverage": 0.9783,
+            "datacoverage": 0.041,
             "id": "COOP:227714",
             "elevationUnit": "METERS",
             "longitude": -90.29861
@@ -2824,7 +2059,7 @@
             "maxdate": "2014-01-01",
             "latitude": 34.1207,
             "name": "SAREPTA 1 NNE, MS US",
-            "datacoverage": 0.8004,
+            "datacoverage": 0.0431,
             "id": "COOP:227820",
             "elevationUnit": "METERS",
             "longitude": -89.2943
@@ -2874,37 +2109,6 @@
             "longitude": -89.9592
         },
         {
-            "elevation": 52.1,
-            "mindate": "1904-03-01",
-            "maxdate": "1951-07-01",
-            "latitude": 33.95,
-            "name": "SHELBY, MS US",
-            "datacoverage": 0.0901,
-            "id": "COOP:227983",
-            "elevationUnit": "METERS",
-            "longitude": -90.76667
-        },
-        {
-            "mindate": "1926-02-01",
-            "maxdate": "1935-05-01",
-            "latitude": 33.6,
-            "name": "SHELLMOUND, MS US",
-            "datacoverage": 0.9917,
-            "id": "COOP:227993",
-            "longitude": -90.26667
-        },
-        {
-            "elevation": 110,
-            "mindate": "1900-07-01",
-            "maxdate": "1915-12-01",
-            "latitude": 32.6,
-            "name": "SHOCCOE, MS US",
-            "datacoverage": 0.9784,
-            "id": "COOP:228036",
-            "elevationUnit": "METERS",
-            "longitude": -89.91667
-        },
-        {
             "elevation": 59.4,
             "mindate": "1914-08-01",
             "maxdate": "2014-12-01",
@@ -2917,11 +2121,11 @@
         },
         {
             "elevation": 59.4,
-            "mindate": "1948-02-01",
+            "mindate": "1948-06-01",
             "maxdate": "1984-01-01",
             "latitude": 31.86667,
             "name": "SHUBUTA 2, MS US",
-            "datacoverage": 0.8644,
+            "datacoverage": 0.0561,
             "id": "COOP:228055",
             "elevationUnit": "METERS",
             "longitude": -88.7
@@ -2947,17 +2151,6 @@
             "id": "COOP:228145",
             "elevationUnit": "METERS",
             "longitude": -90.2158
-        },
-        {
-            "elevation": 82,
-            "mindate": "1940-03-01",
-            "maxdate": "1957-10-01",
-            "latitude": 34.06667,
-            "name": "SMITHVILLE, MS US",
-            "datacoverage": 0.83,
-            "id": "COOP:228189",
-            "elevationUnit": "METERS",
-            "longitude": -88.38333
         },
         {
             "elevation": 42.7,
@@ -3026,26 +2219,6 @@
             "longitude": -90.9108
         },
         {
-            "elevation": 57.9,
-            "mindate": "1901-02-01",
-            "maxdate": "1908-01-01",
-            "latitude": 31.76667,
-            "name": "STONINGTON, MS US",
-            "datacoverage": 0.9646,
-            "id": "COOP:228460",
-            "elevationUnit": "METERS",
-            "longitude": -91.01667
-        },
-        {
-            "mindate": "1901-02-01",
-            "maxdate": "1917-10-01",
-            "latitude": 31.46667,
-            "name": "SUFFOLK, MS US",
-            "datacoverage": 1,
-            "id": "COOP:228530",
-            "longitude": -90.96667
-        },
-        {
             "elevation": 88.4,
             "mindate": "1940-05-01",
             "maxdate": "2015-11-01",
@@ -3068,37 +2241,6 @@
             "longitude": -90.32139
         },
         {
-            "elevation": 116.1,
-            "mindate": "1948-01-01",
-            "maxdate": "1964-06-01",
-            "latitude": 32.01667,
-            "name": "SYLVARENA 1 W, MS US",
-            "datacoverage": 0.4669,
-            "id": "COOP:228608",
-            "elevationUnit": "METERS",
-            "longitude": -89.4
-        },
-        {
-            "elevation": 36.9,
-            "mindate": "1904-08-01",
-            "maxdate": "1922-11-01",
-            "latitude": 33.18333,
-            "name": "TCHULA, MS US",
-            "datacoverage": 0.9819,
-            "id": "COOP:228684",
-            "elevationUnit": "METERS",
-            "longitude": -90.21667
-        },
-        {
-            "mindate": "1944-03-01",
-            "maxdate": "1957-10-01",
-            "latitude": 34.63333,
-            "name": "THYATIRA, MS US",
-            "datacoverage": 0.7925,
-            "id": "COOP:228784",
-            "longitude": -89.75
-        },
-        {
             "elevation": 64,
             "mindate": "1956-07-01",
             "maxdate": "2013-12-01",
@@ -3108,17 +2250,6 @@
             "id": "COOP:228792",
             "elevationUnit": "METERS",
             "longitude": -88.633
-        },
-        {
-            "elevation": 161.8,
-            "mindate": "1941-12-01",
-            "maxdate": "1960-01-01",
-            "latitude": 34.63333,
-            "name": "TISHOMINGO, MS US",
-            "datacoverage": 0.8485,
-            "id": "COOP:228846",
-            "elevationUnit": "METERS",
-            "longitude": -88.23333
         },
         {
             "elevation": 143.3,
@@ -3132,17 +2263,6 @@
             "longitude": -88.6083
         },
         {
-            "elevation": 57.9,
-            "mindate": "1935-01-01",
-            "maxdate": "1964-03-01",
-            "latitude": 34.68333,
-            "name": "TUNICA, MS US",
-            "datacoverage": 0.8718,
-            "id": "COOP:228996",
-            "elevationUnit": "METERS",
-            "longitude": -90.38333
-        },
-        {
             "elevation": 62.8,
             "mindate": "1959-01-01",
             "maxdate": "2015-11-01",
@@ -3152,17 +2272,6 @@
             "id": "COOP:228998",
             "elevationUnit": "METERS",
             "longitude": -90.3683
-        },
-        {
-            "elevation": 85,
-            "mindate": "1898-02-01",
-            "maxdate": "1969-06-01",
-            "latitude": 34.25,
-            "name": "TUPELO, MS US",
-            "datacoverage": 0.9523,
-            "id": "COOP:229000",
-            "elevationUnit": "METERS",
-            "longitude": -88.71667
         },
         {
             "elevation": 110,
@@ -3185,17 +2294,6 @@
             "id": "COOP:229004",
             "elevationUnit": "METERS",
             "longitude": -88.7658
-        },
-        {
-            "elevation": 78.9,
-            "mindate": "1949-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 34.26667,
-            "name": "TUPELO SUBSTN, MS US",
-            "datacoverage": 0.8242,
-            "id": "COOP:229005",
-            "elevationUnit": "METERS",
-            "longitude": -88.7
         },
         {
             "elevation": 79.2,
@@ -3286,15 +2384,6 @@
             "longitude": -89.7538
         },
         {
-            "mindate": "1940-06-01",
-            "maxdate": "1947-08-01",
-            "latitude": 32.63333,
-            "name": "VALLEY PARK, MS US",
-            "datacoverage": 0.6092,
-            "id": "COOP:229137",
-            "longitude": -90.86667
-        },
-        {
             "elevation": 46,
             "mindate": "1945-03-01",
             "maxdate": "1985-10-01",
@@ -3362,47 +2451,14 @@
         },
         {
             "elevation": 54.9,
-            "mindate": "1932-11-01",
+            "mindate": "1969-03-01",
             "maxdate": "2005-05-01",
             "latitude": 32.29778,
             "name": "VICKSBURG WATERWAYS, MS US",
-            "datacoverage": 0.7638,
+            "datacoverage": 0.0298,
             "id": "COOP:229218",
             "elevationUnit": "METERS",
             "longitude": -90.86583
-        },
-        {
-            "elevation": 89.9,
-            "mindate": "1947-01-01",
-            "maxdate": "1967-06-29",
-            "latitude": 32.35,
-            "name": "VICKSBURG, MS US",
-            "datacoverage": 0.9067,
-            "id": "COOP:229220",
-            "elevationUnit": "METERS",
-            "longitude": -90.88333
-        },
-        {
-            "elevation": 36.9,
-            "mindate": "1942-01-01",
-            "maxdate": "1950-09-01",
-            "latitude": 32.4,
-            "name": "VICKSBURG OLD, MS US",
-            "datacoverage": 0.9336,
-            "id": "COOP:229224",
-            "elevationUnit": "METERS",
-            "longitude": -90.78333
-        },
-        {
-            "elevation": 31.4,
-            "mindate": "1950-06-01",
-            "maxdate": "1950-09-28",
-            "latitude": 32.23333,
-            "name": "VICKSBURG, MS US",
-            "datacoverage": 0.998,
-            "id": "COOP:229225",
-            "elevationUnit": "METERS",
-            "longitude": -90.93333
         },
         {
             "elevation": 24.4,
@@ -3471,55 +2527,6 @@
             "longitude": -88.68333
         },
         {
-            "mindate": "1948-06-01",
-            "maxdate": "1949-04-01",
-            "latitude": 33.26667,
-            "name": "WEIR, MS US",
-            "datacoverage": 0.9819,
-            "id": "COOP:229475",
-            "longitude": -89.3
-        },
-        {
-            "elevation": 73.2,
-            "mindate": "1891-02-01",
-            "maxdate": "1954-12-01",
-            "latitude": 33.6,
-            "name": "WEST POINT EXPERIMENTAL STATION, MS US",
-            "datacoverage": 0.3677,
-            "id": "COOP:229537",
-            "elevationUnit": "METERS",
-            "longitude": -88.58333
-        },
-        {
-            "mindate": "1948-01-01",
-            "maxdate": "1949-04-30",
-            "latitude": 33.6,
-            "name": "WEST POINT 3 W, MS US",
-            "datacoverage": 0.9967,
-            "id": "COOP:229539",
-            "longitude": -88.71667
-        },
-        {
-            "mindate": "1955-01-01",
-            "maxdate": "1955-06-01",
-            "latitude": 33.65,
-            "name": "WEST POINT 3 NNW, MS US",
-            "datacoverage": 0.3363,
-            "id": "COOP:229541",
-            "longitude": -88.66667
-        },
-        {
-            "elevation": 70.1,
-            "mindate": "1955-07-01",
-            "maxdate": "1966-12-01",
-            "latitude": 33.61667,
-            "name": "WEST POINT, MS US",
-            "datacoverage": 0.9562,
-            "id": "COOP:229543",
-            "elevationUnit": "METERS",
-            "longitude": -88.65
-        },
-        {
             "elevation": 113.7,
             "mindate": "1940-05-01",
             "maxdate": "2010-11-01",
@@ -3532,11 +2539,11 @@
         },
         {
             "elevation": 56.7,
-            "mindate": "1948-01-01",
+            "mindate": "1948-06-01",
             "maxdate": "2014-01-01",
             "latitude": 30.7975,
             "name": "WHITE SAND, MS US",
-            "datacoverage": 0.9116,
+            "datacoverage": 0.0373,
             "id": "COOP:229617",
             "elevationUnit": "METERS",
             "longitude": -89.6891
@@ -3553,17 +2560,6 @@
             "longitude": -89.1215
         },
         {
-            "elevation": 86,
-            "mindate": "1948-06-01",
-            "maxdate": "1948-06-30",
-            "latitude": 30.866667,
-            "name": "WIGGINS NUMBER 2, MS US",
-            "datacoverage": 1,
-            "id": "COOP:229641",
-            "elevationUnit": "METERS",
-            "longitude": -89.133333
-        },
-        {
             "elevation": 80.8,
             "mindate": "1973-10-01",
             "maxdate": "2014-01-01",
@@ -3573,15 +2569,6 @@
             "id": "COOP:229648",
             "elevationUnit": "METERS",
             "longitude": -89.1572
-        },
-        {
-            "mindate": "1947-10-01",
-            "maxdate": "1951-10-01",
-            "latitude": 31.23333,
-            "name": "WILKINSON 5 NW, MS US",
-            "datacoverage": 0.5126,
-            "id": "COOP:229657",
-            "longitude": -91.31667
         },
         {
             "elevation": 119.5,
@@ -3595,17 +2582,6 @@
             "longitude": -89.6244
         },
         {
-            "elevation": 100.9,
-            "mindate": "1909-05-01",
-            "maxdate": "1913-09-01",
-            "latitude": 33.78333,
-            "name": "WOODLAND, MS US",
-            "datacoverage": 0.8863,
-            "id": "COOP:229777",
-            "elevationUnit": "METERS",
-            "longitude": -89.03333
-        },
-        {
             "elevation": 121.9,
             "mindate": "1893-03-01",
             "maxdate": "2014-12-01",
@@ -3617,17 +2593,6 @@
             "longitude": -91.2325
         },
         {
-            "elevation": 35.4,
-            "mindate": "1891-03-01",
-            "maxdate": "1960-01-29",
-            "latitude": 32.866667,
-            "name": "YAZOO CITY, MS US",
-            "datacoverage": 0.9746,
-            "id": "COOP:229850",
-            "elevationUnit": "METERS",
-            "longitude": -90.4
-        },
-        {
             "elevation": 32.6,
             "mindate": "1960-01-01",
             "maxdate": "2015-11-01",
@@ -3637,15 +2602,6 @@
             "id": "COOP:229860",
             "elevationUnit": "METERS",
             "longitude": -90.3816
-        },
-        {
-            "mindate": "1948-08-27",
-            "maxdate": "1957-02-01",
-            "latitude": 32.96667,
-            "name": "ZAMA, MS US",
-            "datacoverage": 0.5411,
-            "id": "COOP:229940",
-            "longitude": -89.38333
         },
         {
             "elevation": 52.7,
@@ -6585,28 +5541,6 @@
             "longitude": -89.9139346182346
         },
         {
-            "elevation": 23.8,
-            "mindate": "1894-02-01",
-            "maxdate": "2020-05-11",
-            "latitude": 31.9497,
-            "name": "ST JOSEPH 3 N, LA US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00168163",
-            "elevationUnit": "METERS",
-            "longitude": -91.2336
-        },
-        {
-            "elevation": 15.2,
-            "mindate": "1952-11-01",
-            "maxdate": "1966-11-30",
-            "latitude": 31.53333,
-            "name": "VIDALIA NATCHEZ, MS US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00169355",
-            "elevationUnit": "METERS",
-            "longitude": -91.43333
-        },
-        {
             "elevation": 123.7,
             "mindate": "1942-10-01",
             "maxdate": "2016-07-31",
@@ -6640,26 +5574,6 @@
             "longitude": -89.1668
         },
         {
-            "mindate": "1940-03-01",
-            "maxdate": "1953-08-31",
-            "latitude": 33.25,
-            "name": "ACONA, MS US",
-            "datacoverage": 0.9257,
-            "id": "GHCND:USC00220048",
-            "longitude": -90.06667
-        },
-        {
-            "elevation": 156.1,
-            "mindate": "1948-07-01",
-            "maxdate": "1963-05-01",
-            "latitude": 34.96667,
-            "name": "ACTON, MS US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00220050",
-            "elevationUnit": "METERS",
-            "longitude": -88.43333
-        },
-        {
             "elevation": 78.9,
             "mindate": "1952-10-01",
             "maxdate": "1972-03-31",
@@ -6682,15 +5596,6 @@
             "longitude": -90.65
         },
         {
-            "mindate": "1899-04-01",
-            "maxdate": "1901-01-31",
-            "latitude": 30.707667,
-            "name": "AMERICUS, MS US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00220160",
-            "longitude": -88.590167
-        },
-        {
             "elevation": 70.1,
             "mindate": "1992-01-01",
             "maxdate": "2020-05-17",
@@ -6700,28 +5605,6 @@
             "id": "GHCND:USC00220173",
             "elevationUnit": "METERS",
             "longitude": -88.4883
-        },
-        {
-            "elevation": 70.1,
-            "mindate": "1956-09-01",
-            "maxdate": "1969-01-31",
-            "latitude": 33.98333,
-            "name": "AMORY 4 W, MS US",
-            "datacoverage": 0.9991,
-            "id": "GHCND:USC00220176",
-            "elevationUnit": "METERS",
-            "longitude": -88.55
-        },
-        {
-            "elevation": 33.5,
-            "mindate": "1907-01-01",
-            "maxdate": "1936-04-30",
-            "latitude": 32.98333,
-            "name": "ANGUILLA, MS US",
-            "datacoverage": 0.9884,
-            "id": "GHCND:USC00220195",
-            "elevationUnit": "METERS",
-            "longitude": -90.83333
         },
         {
             "elevation": 1.5,
@@ -6757,28 +5640,6 @@
             "longitude": -89.1598
         },
         {
-            "elevation": 61,
-            "mindate": "1895-10-01",
-            "maxdate": "1934-08-31",
-            "latitude": 34.63333,
-            "name": "AUSTIN, MS US",
-            "datacoverage": 0.9743,
-            "id": "GHCND:USC00220325",
-            "elevationUnit": "METERS",
-            "longitude": -90.43333
-        },
-        {
-            "elevation": 98.1,
-            "mindate": "1940-04-01",
-            "maxdate": "1951-09-30",
-            "latitude": 31.3,
-            "name": "AVERA, MS US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00220347",
-            "elevationUnit": "METERS",
-            "longitude": -88.75
-        },
-        {
             "elevation": 35.1,
             "mindate": "2017-01-01",
             "maxdate": "2018-08-31",
@@ -6801,17 +5662,6 @@
             "longitude": -88.6394
         },
         {
-            "elevation": 156.1,
-            "mindate": "1958-01-01",
-            "maxdate": "1963-04-30",
-            "latitude": 31.75,
-            "name": "BARLOW 6 SE, MS US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00220427",
-            "elevationUnit": "METERS",
-            "longitude": -90.58333
-        },
-        {
             "elevation": 67.1,
             "mindate": "1891-01-01",
             "maxdate": "2016-02-29",
@@ -6821,17 +5671,6 @@
             "id": "GHCND:USC00220488",
             "elevationUnit": "METERS",
             "longitude": -89.9805
-        },
-        {
-            "elevation": 6.1,
-            "mindate": "1891-01-01",
-            "maxdate": "1979-11-30",
-            "latitude": 30.3,
-            "name": "BAY SAINT LOUIS, MS US",
-            "datacoverage": 0.9682,
-            "id": "GHCND:USC00220519",
-            "elevationUnit": "METERS",
-            "longitude": -89.33333
         },
         {
             "elevation": 9.1,
@@ -6878,17 +5717,6 @@
             "longitude": -88.9187
         },
         {
-            "elevation": 121.9,
-            "mindate": "1906-06-01",
-            "maxdate": "1951-04-04",
-            "latitude": 33.66667,
-            "name": "BELLEFONTAINE 2 NNW, MS US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00220630",
-            "elevationUnit": "METERS",
-            "longitude": -89.33333
-        },
-        {
             "elevation": 186.5,
             "mindate": "1948-07-01",
             "maxdate": "2020-05-16",
@@ -6911,15 +5739,6 @@
             "longitude": -90.4919
         },
         {
-            "mindate": "1910-09-01",
-            "maxdate": "1913-08-31",
-            "latitude": 33.85,
-            "name": "BIG CREEK, MS US",
-            "datacoverage": 0.8887,
-            "id": "GHCND:USC00220730",
-            "longitude": -89.416667
-        },
-        {
             "elevation": 3,
             "mindate": "1893-05-01",
             "maxdate": "2020-05-11",
@@ -6929,26 +5748,6 @@
             "id": "GHCND:USC00220792",
             "elevationUnit": "METERS",
             "longitude": -89.0008
-        },
-        {
-            "elevation": 8.2,
-            "mindate": "1948-01-01",
-            "maxdate": "1954-04-30",
-            "latitude": 30.4,
-            "name": "BILOXI DISPLAY, MS US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00220801",
-            "elevationUnit": "METERS",
-            "longitude": -88.88333
-        },
-        {
-            "mindate": "1940-01-01",
-            "maxdate": "1941-03-31",
-            "latitude": 30.4,
-            "name": "BILOXI KEESLER FIELD, MS US",
-            "datacoverage": 0.8768,
-            "id": "GHCND:USC00220805",
-            "longitude": -88.95
         },
         {
             "elevation": 78.9,
@@ -6982,17 +5781,6 @@
             "id": "GHCND:USC00220955",
             "elevationUnit": "METERS",
             "longitude": -88.5622
-        },
-        {
-            "elevation": 18,
-            "mindate": "1892-12-01",
-            "maxdate": "1899-08-31",
-            "latitude": 31.38333,
-            "name": "BRIERS, MS US",
-            "datacoverage": 0.9995,
-            "id": "GHCND:USC00221069",
-            "elevationUnit": "METERS",
-            "longitude": -91.38333
         },
         {
             "elevation": 132.6,
@@ -7050,28 +5838,6 @@
             "longitude": -88.51722
         },
         {
-            "elevation": 136.9,
-            "mindate": "1940-01-01",
-            "maxdate": "1945-12-31",
-            "latitude": 31.416667,
-            "name": "BUDE TOWER, MS US",
-            "datacoverage": 0.4999,
-            "id": "GHCND:USC00221190",
-            "elevationUnit": "METERS",
-            "longitude": -90.85
-        },
-        {
-            "elevation": 143,
-            "mindate": "1948-07-01",
-            "maxdate": "1962-03-31",
-            "latitude": 34.83333,
-            "name": "BURNSVILLE SUBSTN, MS US",
-            "datacoverage": 0.9993,
-            "id": "GHCND:USC00221235",
-            "elevationUnit": "METERS",
-            "longitude": -88.31667
-        },
-        {
             "elevation": 97.5,
             "mindate": "1909-05-01",
             "maxdate": "2010-12-31",
@@ -7081,17 +5847,6 @@
             "id": "GHCND:USC00221262",
             "elevationUnit": "METERS",
             "longitude": -89.68333
-        },
-        {
-            "elevation": 161.8,
-            "mindate": "1959-07-01",
-            "maxdate": "1962-03-31",
-            "latitude": 34.7,
-            "name": "CAIRO, MS US",
-            "datacoverage": 0.9994,
-            "id": "GHCND:USC00221299",
-            "elevationUnit": "METERS",
-            "longitude": -88.35
         },
         {
             "elevation": 81.7,
@@ -7160,17 +5915,6 @@
             "longitude": -90.0681
         },
         {
-            "elevation": 36.9,
-            "mindate": "1947-04-01",
-            "maxdate": "1951-07-01",
-            "latitude": 33.11667,
-            "name": "CHATHAM 2 NE, MS US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00221623",
-            "elevationUnit": "METERS",
-            "longitude": -91.08333
-        },
-        {
             "elevation": 52.7,
             "mindate": "1892-09-01",
             "maxdate": "2020-05-17",
@@ -7237,15 +5981,6 @@
             "longitude": -89.5572
         },
         {
-            "mindate": "1953-04-01",
-            "maxdate": "1965-04-30",
-            "latitude": 32.53333,
-            "name": "COLLINSVILLE 3 NE, MS US",
-            "datacoverage": 0.9995,
-            "id": "GHCND:USC00221857",
-            "longitude": -88.81667
-        },
-        {
             "elevation": 94.5,
             "mindate": "1965-05-01",
             "maxdate": "2020-05-17",
@@ -7277,17 +6012,6 @@
             "id": "GHCND:USC00221870",
             "elevationUnit": "METERS",
             "longitude": -88.36667
-        },
-        {
-            "elevation": 57.9,
-            "mindate": "1956-01-01",
-            "maxdate": "1956-10-31",
-            "latitude": 33.48333,
-            "name": "COLUMBUS 2, MS US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00221875",
-            "elevationUnit": "METERS",
-            "longitude": -88.43333
         },
         {
             "elevation": 44.2,
@@ -7334,17 +6058,6 @@
             "longitude": -88.7061
         },
         {
-            "elevation": 57.9,
-            "mindate": "1909-04-01",
-            "maxdate": "1920-10-31",
-            "latitude": 34.5,
-            "name": "CRENSHAW, MS US",
-            "datacoverage": 0.9566,
-            "id": "GHCND:USC00222075",
-            "elevationUnit": "METERS",
-            "longitude": -90.18333
-        },
-        {
             "elevation": 148.4,
             "mindate": "1892-07-01",
             "maxdate": "2020-05-15",
@@ -7378,28 +6091,6 @@
             "longitude": -89.05
         },
         {
-            "elevation": 131.1,
-            "mindate": "1959-01-01",
-            "maxdate": "1964-01-31",
-            "latitude": 32.43333,
-            "name": "DECATUR, MS US",
-            "datacoverage": 0.9995,
-            "id": "GHCND:USC00222241",
-            "elevationUnit": "METERS",
-            "longitude": -89.11667
-        },
-        {
-            "elevation": 49.1,
-            "mindate": "1945-08-01",
-            "maxdate": "1946-01-31",
-            "latitude": 34.01667,
-            "name": "DEESON, MS US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00222275",
-            "elevationUnit": "METERS",
-            "longitude": -90.86667
-        },
-        {
             "elevation": 125,
             "mindate": "2005-12-01",
             "maxdate": "2008-08-01",
@@ -7422,15 +6113,6 @@
             "longitude": -88.6495
         },
         {
-            "mindate": "1909-05-01",
-            "maxdate": "1912-02-29",
-            "latitude": 34.3,
-            "name": "DENMARK, MS US",
-            "datacoverage": 0.9705,
-            "id": "GHCND:USC00222313",
-            "longitude": -89.33333
-        },
-        {
             "elevation": 101.8,
             "mindate": "1919-01-01",
             "maxdate": "2017-02-28",
@@ -7440,17 +6122,6 @@
             "id": "GHCND:USC00222385",
             "elevationUnit": "METERS",
             "longitude": -89.9327
-        },
-        {
-            "elevation": 75.9,
-            "mindate": "1893-01-01",
-            "maxdate": "1953-02-28",
-            "latitude": 33.63333,
-            "name": "DUCK HILL, MS US",
-            "datacoverage": 0.8852,
-            "id": "GHCND:USC00222477",
-            "elevationUnit": "METERS",
-            "longitude": -89.71667
         },
         {
             "elevation": 46.3,
@@ -7464,17 +6135,6 @@
             "longitude": -90.7456
         },
         {
-            "elevation": 82,
-            "mindate": "1930-10-01",
-            "maxdate": "1947-06-30",
-            "latitude": 33.08333,
-            "name": "DURANT, MS US",
-            "datacoverage": 0.9603,
-            "id": "GHCND:USC00222522",
-            "elevationUnit": "METERS",
-            "longitude": -89.85
-        },
-        {
             "elevation": 106.7,
             "mindate": "1907-12-01",
             "maxdate": "2010-12-31",
@@ -7484,17 +6144,6 @@
             "id": "GHCND:USC00222658",
             "elevationUnit": "METERS",
             "longitude": -89.3366
-        },
-        {
-            "elevation": 75.9,
-            "mindate": "1891-03-01",
-            "maxdate": "1920-11-30",
-            "latitude": 32.31667,
-            "name": "EDWARDS, MS US",
-            "datacoverage": 0.9495,
-            "id": "GHCND:USC00222668",
-            "elevationUnit": "METERS",
-            "longitude": -90.61667
         },
         {
             "elevation": 79.2,
@@ -7552,59 +6201,6 @@
             "longitude": -89.2358
         },
         {
-            "elevation": 85,
-            "mindate": "1892-12-01",
-            "maxdate": "1908-12-31",
-            "latitude": 31.68333,
-            "name": "FAYETTE, MS US",
-            "datacoverage": 0.9586,
-            "id": "GHCND:USC00222994",
-            "elevationUnit": "METERS",
-            "longitude": -91.06667
-        },
-        {
-            "mindate": "1909-01-01",
-            "maxdate": "1932-07-31",
-            "latitude": 31.683333,
-            "name": "FAYETTE 3 S, MS US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00222997",
-            "longitude": -91.05
-        },
-        {
-            "elevation": 20.4,
-            "mindate": "1937-04-01",
-            "maxdate": "1945-07-31",
-            "latitude": 31.55,
-            "name": "FLEET, MS US",
-            "datacoverage": 0.9992,
-            "id": "GHCND:USC00223050",
-            "elevationUnit": "METERS",
-            "longitude": -91.416667
-        },
-        {
-            "elevation": 67.1,
-            "mindate": "1948-01-01",
-            "maxdate": "1950-03-31",
-            "latitude": 32.53333,
-            "name": "FLORA, MS US",
-            "datacoverage": 0.9639,
-            "id": "GHCND:USC00223067",
-            "elevationUnit": "METERS",
-            "longitude": -90.31667
-        },
-        {
-            "elevation": 66.1,
-            "mindate": "1941-12-01",
-            "maxdate": "1945-10-31",
-            "latitude": 32.6,
-            "name": "FLORA 1, MS US",
-            "datacoverage": 0.9973,
-            "id": "GHCND:USC00223069",
-            "elevationUnit": "METERS",
-            "longitude": -90.333333
-        },
-        {
             "elevation": 137.2,
             "mindate": "1930-01-01",
             "maxdate": "2012-12-31",
@@ -7614,26 +6210,6 @@
             "id": "GHCND:USC00223107",
             "elevationUnit": "METERS",
             "longitude": -89.4208
-        },
-        {
-            "mindate": "1893-09-01",
-            "maxdate": "1948-05-07",
-            "latitude": 33.283333,
-            "name": "FRENCH CAMP, MS US",
-            "datacoverage": 0.333,
-            "id": "GHCND:USC00223173",
-            "longitude": -89.4
-        },
-        {
-            "elevation": 92,
-            "mindate": "1917-01-01",
-            "maxdate": "1945-08-31",
-            "latitude": 30.91667,
-            "name": "FRUITLAND PARK, MS US",
-            "datacoverage": 0.9186,
-            "id": "GHCND:USC00223198",
-            "elevationUnit": "METERS",
-            "longitude": -89.16667
         },
         {
             "elevation": 106.7,
@@ -7669,17 +6245,6 @@
             "longitude": -88.8536
         },
         {
-            "elevation": 182.9,
-            "mindate": "1959-07-01",
-            "maxdate": "1962-03-31",
-            "latitude": 34.88333,
-            "name": "GLENS, MS US",
-            "datacoverage": 0.9994,
-            "id": "GHCND:USC00223429",
-            "elevationUnit": "METERS",
-            "longitude": -88.41667
-        },
-        {
             "elevation": 116.4,
             "mindate": "1996-03-01",
             "maxdate": "2020-05-17",
@@ -7711,17 +6276,6 @@
             "id": "GHCND:USC00223605",
             "elevationUnit": "METERS",
             "longitude": -91.06
-        },
-        {
-            "elevation": 39.9,
-            "mindate": "1950-04-01",
-            "maxdate": "1960-07-14",
-            "latitude": 33.4,
-            "name": "GREENVILLE 2, MS US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00223610",
-            "elevationUnit": "METERS",
-            "longitude": -91.05
         },
         {
             "elevation": 22.9,
@@ -7834,17 +6388,6 @@
             "longitude": -89.3274
         },
         {
-            "elevation": 141.7,
-            "mindate": "1892-08-01",
-            "maxdate": "1921-05-31",
-            "latitude": 31.85833,
-            "name": "HAZLEHURST, MS US",
-            "datacoverage": 0.8994,
-            "id": "GHCND:USC00223917",
-            "elevationUnit": "METERS",
-            "longitude": -90.39389
-        },
-        {
             "elevation": 182.9,
             "mindate": "1975-01-01",
             "maxdate": "2018-05-31",
@@ -7854,17 +6397,6 @@
             "id": "GHCND:USC00223920",
             "elevationUnit": "METERS",
             "longitude": -90.4541
-        },
-        {
-            "elevation": 100.9,
-            "mindate": "1940-02-01",
-            "maxdate": "1951-09-30",
-            "latitude": 31.9,
-            "name": "HEIDELBERG, MS US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00223939",
-            "elevationUnit": "METERS",
-            "longitude": -88.98333
         },
         {
             "elevation": 115.8,
@@ -7922,17 +6454,6 @@
             "longitude": -90.71667
         },
         {
-            "elevation": 153,
-            "mindate": "1892-04-01",
-            "maxdate": "1962-01-31",
-            "latitude": 34.8,
-            "name": "HOLLY SPRINGS 2 N, MS US",
-            "datacoverage": 0.9749,
-            "id": "GHCND:USC00224168",
-            "elevationUnit": "METERS",
-            "longitude": -89.43333
-        },
-        {
             "elevation": 147.2,
             "mindate": "1948-06-01",
             "maxdate": "2017-07-31",
@@ -7966,17 +6487,6 @@
             "longitude": -89.8213
         },
         {
-            "elevation": 36.9,
-            "mindate": "1901-04-01",
-            "maxdate": "1908-12-25",
-            "latitude": 33.45,
-            "name": "INDIANOLA, MS US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00224386",
-            "elevationUnit": "METERS",
-            "longitude": -90.61667
-        },
-        {
             "elevation": 182.9,
             "mindate": "1959-07-01",
             "maxdate": "2012-08-12",
@@ -7986,17 +6496,6 @@
             "id": "GHCND:USC00224455",
             "elevationUnit": "METERS",
             "longitude": -88.19583
-        },
-        {
-            "elevation": 71,
-            "mindate": "1948-07-01",
-            "maxdate": "1956-10-31",
-            "latitude": 32.28167,
-            "name": "JACKSON 1 SSE, MS US",
-            "datacoverage": 0.9996,
-            "id": "GHCND:USC00224462",
-            "elevationUnit": "METERS",
-            "longitude": -90.17861
         },
         {
             "elevation": 98.8,
@@ -8021,17 +6520,6 @@
             "longitude": -88.66306
         },
         {
-            "elevation": 47.2,
-            "mindate": "1947-04-01",
-            "maxdate": "1947-11-27",
-            "latitude": 31.4,
-            "name": "KNOXVILLE TOWER, MS US",
-            "datacoverage": 0.6653,
-            "id": "GHCND:USC00224740",
-            "elevationUnit": "METERS",
-            "longitude": -91.05
-        },
-        {
             "elevation": 125,
             "mindate": "1893-01-01",
             "maxdate": "2020-05-15",
@@ -8043,15 +6531,6 @@
             "longitude": -89.5797
         },
         {
-            "mindate": "1948-06-01",
-            "maxdate": "1949-05-31",
-            "latitude": 34.86667,
-            "name": "KOSSUTH, MS US",
-            "datacoverage": 0.9178,
-            "id": "GHCND:USC00224781",
-            "longitude": -88.65
-        },
-        {
             "elevation": 137.2,
             "mindate": "1944-01-01",
             "maxdate": "2010-12-31",
@@ -8061,26 +6540,6 @@
             "id": "GHCND:USC00224816",
             "elevationUnit": "METERS",
             "longitude": -89.2563
-        },
-        {
-            "elevation": 143,
-            "mindate": "1892-07-01",
-            "maxdate": "1933-03-31",
-            "latitude": 32.35,
-            "name": "LAKE, MS US",
-            "datacoverage": 0.9857,
-            "id": "GHCND:USC00224824",
-            "elevationUnit": "METERS",
-            "longitude": -89.33333
-        },
-        {
-            "mindate": "1902-01-01",
-            "maxdate": "1911-10-31",
-            "latitude": 31.96667,
-            "name": "LAKE COMO, MS US",
-            "datacoverage": 0.9909,
-            "id": "GHCND:USC00224838",
-            "longitude": -89.21667
         },
         {
             "elevation": 62.5,
@@ -8103,17 +6562,6 @@
             "id": "GHCND:USC00224869",
             "elevationUnit": "METERS",
             "longitude": -90.2909
-        },
-        {
-            "elevation": 195.1,
-            "mindate": "1959-07-01",
-            "maxdate": "1961-06-30",
-            "latitude": 34.93333,
-            "name": "LAMBS CHAPEL SCHOOL, MS US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00224874",
-            "elevationUnit": "METERS",
-            "longitude": -88.31667
         },
         {
             "elevation": 68.6,
@@ -8182,17 +6630,6 @@
             "longitude": -89.161
         },
         {
-            "elevation": 70.1,
-            "mindate": "1951-01-01",
-            "maxdate": "1951-09-23",
-            "latitude": 31.81667,
-            "name": "LORMAN, MS US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00225223",
-            "elevationUnit": "METERS",
-            "longitude": -91.05
-        },
-        {
             "elevation": 177.1,
             "mindate": "1891-02-01",
             "maxdate": "2018-05-31",
@@ -8204,37 +6641,6 @@
             "longitude": -89.0711
         },
         {
-            "mindate": "1948-06-01",
-            "maxdate": "1951-09-30",
-            "latitude": 31.51667,
-            "name": "LUCIEN, MS US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00225291",
-            "longitude": -90.65
-        },
-        {
-            "elevation": 61,
-            "mindate": "1909-04-01",
-            "maxdate": "1950-12-01",
-            "latitude": 34.45,
-            "name": "LULA, MS US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00225313",
-            "elevationUnit": "METERS",
-            "longitude": -90.48333
-        },
-        {
-            "elevation": 92,
-            "mindate": "1953-01-01",
-            "maxdate": "1960-11-30",
-            "latitude": 31.03333,
-            "name": "LUMBERTON 2 N, MS US",
-            "datacoverage": 0.8809,
-            "id": "GHCND:USC00225318",
-            "elevationUnit": "METERS",
-            "longitude": -89.45
-        },
-        {
             "elevation": 91.4,
             "mindate": "1998-07-01",
             "maxdate": "1998-10-31",
@@ -8244,26 +6650,6 @@
             "id": "GHCND:USC00225319",
             "elevationUnit": "METERS",
             "longitude": -89.52639
-        },
-        {
-            "elevation": 78.9,
-            "mindate": "1950-01-01",
-            "maxdate": "1954-04-30",
-            "latitude": 30.88333,
-            "name": "LUMBERTON 1O SE, MS US",
-            "datacoverage": 0.9179,
-            "id": "GHCND:USC00225321",
-            "elevationUnit": "METERS",
-            "longitude": -89.4
-        },
-        {
-            "mindate": "1940-12-01",
-            "maxdate": "1942-06-23",
-            "latitude": 33.533333,
-            "name": "MABEN NEAR, MS US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00225350",
-            "longitude": -89
         },
         {
             "elevation": 76.2,
@@ -8286,79 +6672,6 @@
             "id": "GHCND:USC00225366",
             "elevationUnit": "METERS",
             "longitude": -88.53333
-        },
-        {
-            "elevation": 103.9,
-            "mindate": "1948-06-01",
-            "maxdate": "1951-09-25",
-            "latitude": 32.43333,
-            "name": "MADISON STATION 2 SSW, MS US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00225384",
-            "elevationUnit": "METERS",
-            "longitude": -90.13333
-        },
-        {
-            "elevation": 128,
-            "mindate": "1904-01-01",
-            "maxdate": "1960-07-30",
-            "latitude": 31.86667,
-            "name": "MAGEE, MS US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00225389",
-            "elevationUnit": "METERS",
-            "longitude": -89.75
-        },
-        {
-            "elevation": 128,
-            "mindate": "1895-05-01",
-            "maxdate": "1949-01-31",
-            "latitude": 31.1,
-            "name": "MAGNOLIA, MS US",
-            "datacoverage": 0.9937,
-            "id": "GHCND:USC00225397",
-            "elevationUnit": "METERS",
-            "longitude": -90.46667
-        },
-        {
-            "mindate": "1909-05-01",
-            "maxdate": "1915-11-30",
-            "latitude": 34.58333,
-            "name": "MALONE, MS US",
-            "datacoverage": 0.9872,
-            "id": "GHCND:USC00225415",
-            "longitude": -90.5
-        },
-        {
-            "elevation": 121.9,
-            "mindate": "1948-06-01",
-            "maxdate": "1951-09-30",
-            "latitude": 32.41667,
-            "name": "MARION 2 E, MS US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00225467",
-            "elevationUnit": "METERS",
-            "longitude": -88.63333
-        },
-        {
-            "elevation": 52.1,
-            "mindate": "1909-05-01",
-            "maxdate": "1912-02-29",
-            "latitude": 34.25,
-            "name": "MARKS, MS US",
-            "datacoverage": 0.9117,
-            "id": "GHCND:USC00225480",
-            "elevationUnit": "METERS",
-            "longitude": -90.26667
-        },
-        {
-            "mindate": "1894-01-01",
-            "maxdate": "1898-01-31",
-            "latitude": 32.9,
-            "name": "MAYERSVILLE, MS US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00225500",
-            "longitude": -91.05
         },
         {
             "elevation": 115.8,
@@ -8394,17 +6707,6 @@
             "longitude": -89.06667
         },
         {
-            "elevation": 70.1,
-            "mindate": "1903-04-01",
-            "maxdate": "1919-06-30",
-            "latitude": 30.81667,
-            "name": "MC NEILL, MS US",
-            "datacoverage": 0.9693,
-            "id": "GHCND:USC00225687",
-            "elevationUnit": "METERS",
-            "longitude": -89.6
-        },
-        {
             "elevation": 105.2,
             "mindate": "1917-12-01",
             "maxdate": "2020-05-15",
@@ -8427,28 +6729,6 @@
             "longitude": -90.8798
         },
         {
-            "elevation": 93,
-            "mindate": "1939-01-01",
-            "maxdate": "1958-06-30",
-            "latitude": 32.37,
-            "name": "MERIDIAN SOWASHEE CR, MS US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00225771",
-            "elevationUnit": "METERS",
-            "longitude": -88.67889
-        },
-        {
-            "elevation": 116.1,
-            "mindate": "1948-01-01",
-            "maxdate": "1948-09-30",
-            "latitude": 32.35,
-            "name": "MERIDIAN, MS US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00225772",
-            "elevationUnit": "METERS",
-            "longitude": -88.66667
-        },
-        {
             "elevation": 15.2,
             "mindate": "1904-12-26",
             "maxdate": "2010-12-31",
@@ -8458,17 +6738,6 @@
             "id": "GHCND:USC00225789",
             "elevationUnit": "METERS",
             "longitude": -88.71667
-        },
-        {
-            "elevation": 180.1,
-            "mindate": "1948-07-01",
-            "maxdate": "1962-03-31",
-            "latitude": 34.73333,
-            "name": "MIDWAY, MS US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00225825",
-            "elevationUnit": "METERS",
-            "longitude": -88.26667
         },
         {
             "elevation": 44.2,
@@ -8515,15 +6784,6 @@
             "longitude": -90.1058
         },
         {
-            "mindate": "1940-02-01",
-            "maxdate": "1940-12-16",
-            "latitude": 33.7,
-            "name": "MONTPELIER, MS US",
-            "datacoverage": 0.9994,
-            "id": "GHCND:USC00225991",
-            "longitude": -88.95
-        },
-        {
             "elevation": 131.1,
             "mindate": "1940-05-01",
             "maxdate": "1970-08-31",
@@ -8546,17 +6806,6 @@
             "longitude": -90.5097
         },
         {
-            "elevation": 6.1,
-            "mindate": "1893-01-01",
-            "maxdate": "1899-05-31",
-            "latitude": 30.4,
-            "name": "MOSS POINT, MS US",
-            "datacoverage": 0.8838,
-            "id": "GHCND:USC00226054",
-            "elevationUnit": "METERS",
-            "longitude": -88.5
-        },
-        {
             "elevation": 117.3,
             "mindate": "1942-10-01",
             "maxdate": "2017-07-31",
@@ -8566,15 +6815,6 @@
             "id": "GHCND:USC00226084",
             "elevationUnit": "METERS",
             "longitude": -89.6041
-        },
-        {
-            "mindate": "1920-05-01",
-            "maxdate": "1922-10-31",
-            "latitude": 34.55,
-            "name": "MYRTLE, MS US",
-            "datacoverage": 0.8991,
-            "id": "GHCND:USC00226163",
-            "longitude": -89.11667
         },
         {
             "elevation": 59.4,
@@ -8709,17 +6949,6 @@
             "longitude": -90.94
         },
         {
-            "elevation": 52.1,
-            "mindate": "1948-06-01",
-            "maxdate": "1951-09-30",
-            "latitude": 31.48333,
-            "name": "OVETT, MS US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00226626",
-            "elevationUnit": "METERS",
-            "longitude": -89.03333
-        },
-        {
             "elevation": 65.8,
             "mindate": "2003-08-01",
             "maxdate": "2020-02-27",
@@ -8775,26 +7004,6 @@
             "longitude": -89.153
         },
         {
-            "mindate": "1937-12-01",
-            "maxdate": "1941-10-31",
-            "latitude": 34.66667,
-            "name": "PADEN, MS US",
-            "datacoverage": 0.9997,
-            "id": "GHCND:USC00226652",
-            "longitude": -88.26667
-        },
-        {
-            "elevation": 76.2,
-            "mindate": "1893-01-01",
-            "maxdate": "1902-12-31",
-            "latitude": 33.65,
-            "name": "PALO ALTO, MS US",
-            "datacoverage": 0.9504,
-            "id": "GHCND:USC00226670",
-            "elevationUnit": "METERS",
-            "longitude": -88.85
-        },
-        {
             "elevation": 3.7,
             "mindate": "1909-02-01",
             "maxdate": "2017-11-28",
@@ -8806,17 +7015,6 @@
             "longitude": -88.478
         },
         {
-            "elevation": 3,
-            "mindate": "1948-01-01",
-            "maxdate": "1951-09-30",
-            "latitude": 30.36265,
-            "name": "PASCAGOULA SP YD, MS US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00226719",
-            "elevationUnit": "METERS",
-            "longitude": -88.57228
-        },
-        {
             "elevation": 127.4,
             "mindate": "1940-05-01",
             "maxdate": "2010-12-31",
@@ -8826,28 +7024,6 @@
             "id": "GHCND:USC00226750",
             "elevationUnit": "METERS",
             "longitude": -89.03556
-        },
-        {
-            "elevation": 3,
-            "mindate": "1900-01-01",
-            "maxdate": "1968-03-31",
-            "latitude": 30.25,
-            "name": "PEARLINGTON, MS US",
-            "datacoverage": 0.9939,
-            "id": "GHCND:USC00226780",
-            "elevationUnit": "METERS",
-            "longitude": -89.61667
-        },
-        {
-            "elevation": 0,
-            "mindate": "1904-09-01",
-            "maxdate": "1908-06-30",
-            "latitude": 30.43333,
-            "name": "PECAN, MS US",
-            "datacoverage": 0.979,
-            "id": "GHCND:USC00226790",
-            "elevationUnit": "METERS",
-            "longitude": -88.43333
         },
         {
             "elevation": 112.8,
@@ -8870,17 +7046,6 @@
             "id": "GHCND:USC00226894",
             "elevationUnit": "METERS",
             "longitude": -89.1302
-        },
-        {
-            "elevation": 131.1,
-            "mindate": "1948-01-01",
-            "maxdate": "1951-07-31",
-            "latitude": 32.73333,
-            "name": "PHILADELPHIA 5 SW, MS US",
-            "datacoverage": 0.9973,
-            "id": "GHCND:USC00226899",
-            "elevationUnit": "METERS",
-            "longitude": -89.18333
         },
         {
             "elevation": 19.5,
@@ -8914,15 +7079,6 @@
             "id": "GHCND:USC00226926",
             "elevationUnit": "METERS",
             "longitude": -89.9775
-        },
-        {
-            "mindate": "1901-06-01",
-            "maxdate": "1929-12-31",
-            "latitude": 33.93333,
-            "name": "PITTSBORO, MS US",
-            "datacoverage": 0.3469,
-            "id": "GHCND:USC00227036",
-            "longitude": -89.33333
         },
         {
             "elevation": 115.8,
@@ -8991,26 +7147,6 @@
             "longitude": -90.9719
         },
         {
-            "elevation": 61,
-            "mindate": "1905-03-01",
-            "maxdate": "1951-09-30",
-            "latitude": 32.68333,
-            "name": "PORTERVILLE, MS US",
-            "datacoverage": 0.3113,
-            "id": "GHCND:USC00227141",
-            "elevationUnit": "METERS",
-            "longitude": -88.46667
-        },
-        {
-            "mindate": "1940-01-01",
-            "maxdate": "1942-12-31",
-            "latitude": 34.566667,
-            "name": "POTTS CAMP NEAR, MS US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00227155",
-            "longitude": -89.316667
-        },
-        {
             "elevation": 85.6,
             "mindate": "1940-05-01",
             "maxdate": "2020-05-17",
@@ -9066,24 +7202,6 @@
             "longitude": -88.93222
         },
         {
-            "mindate": "1940-01-01",
-            "maxdate": "1968-02-29",
-            "latitude": 31.53333,
-            "name": "RICHTON 12 NNE, MS US",
-            "datacoverage": 0.9882,
-            "id": "GHCND:USC00227449",
-            "longitude": -88.9
-        },
-        {
-            "mindate": "1938-01-01",
-            "maxdate": "1953-03-31",
-            "latitude": 32.5,
-            "name": "RIO 5 S, MS US",
-            "datacoverage": 0.9999,
-            "id": "GHCND:USC00227462",
-            "longitude": -88.83333
-        },
-        {
             "elevation": 160,
             "mindate": "1897-11-01",
             "maxdate": "2010-12-31",
@@ -9093,15 +7211,6 @@
             "id": "GHCND:USC00227467",
             "elevationUnit": "METERS",
             "longitude": -88.9515
-        },
-        {
-            "mindate": "1938-05-01",
-            "maxdate": "1945-07-31",
-            "latitude": 34.08333,
-            "name": "ROCHDALE, MS US",
-            "datacoverage": 0.9767,
-            "id": "GHCND:USC00227527",
-            "longitude": -90.85
         },
         {
             "elevation": 61,
@@ -9137,15 +7246,6 @@
             "longitude": -91.01667
         },
         {
-            "mindate": "1933-05-01",
-            "maxdate": "1936-10-28",
-            "latitude": 32.36667,
-            "name": "ROSE HILL, MS US",
-            "datacoverage": 0.8561,
-            "id": "GHCND:USC00227587",
-            "longitude": -90.83333
-        },
-        {
             "elevation": 94.5,
             "mindate": "2004-03-01",
             "maxdate": "2015-06-01",
@@ -9157,24 +7257,6 @@
             "longitude": -90.0647
         },
         {
-            "mindate": "1948-04-01",
-            "maxdate": "1951-09-30",
-            "latitude": 31.5,
-            "name": "ROXIE, MS US",
-            "datacoverage": 0.8574,
-            "id": "GHCND:USC00227639",
-            "longitude": -91.06667
-        },
-        {
-            "mindate": "1940-05-01",
-            "maxdate": "1950-11-30",
-            "latitude": 33.06667,
-            "name": "RURAL HILL, MS US",
-            "datacoverage": 0.9999,
-            "id": "GHCND:USC00227683",
-            "longitude": -89.28333
-        },
-        {
             "elevation": 118.9,
             "mindate": "1937-01-01",
             "maxdate": "1988-06-30",
@@ -9184,26 +7266,6 @@
             "id": "GHCND:USC00227701",
             "elevationUnit": "METERS",
             "longitude": -88.6
-        },
-        {
-            "mindate": "1948-06-01",
-            "maxdate": "1951-01-09",
-            "latitude": 31.88333,
-            "name": "RUSSUM, MS US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00227710",
-            "longitude": -91
-        },
-        {
-            "elevation": 135,
-            "mindate": "1940-04-01",
-            "maxdate": "1951-09-30",
-            "latitude": 31.37194,
-            "name": "RUTH, MS US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00227714",
-            "elevationUnit": "METERS",
-            "longitude": -90.29861
         },
         {
             "elevation": 102.1,
@@ -9226,17 +7288,6 @@
             "id": "GHCND:USC00227815",
             "elevationUnit": "METERS",
             "longitude": -89.7902
-        },
-        {
-            "elevation": 111.3,
-            "mindate": "1948-06-01",
-            "maxdate": "1951-09-30",
-            "latitude": 34.1207,
-            "name": "SAREPTA 1 NNE, MS US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00227820",
-            "elevationUnit": "METERS",
-            "longitude": -89.2943
         },
         {
             "elevation": 43,
@@ -9283,37 +7334,6 @@
             "longitude": -89.9592
         },
         {
-            "elevation": 52.1,
-            "mindate": "1904-03-01",
-            "maxdate": "1950-01-31",
-            "latitude": 33.95,
-            "name": "SHELBY, MS US",
-            "datacoverage": 0.1125,
-            "id": "GHCND:USC00227983",
-            "elevationUnit": "METERS",
-            "longitude": -90.76667
-        },
-        {
-            "mindate": "1926-02-01",
-            "maxdate": "1935-05-31",
-            "latitude": 33.6,
-            "name": "SHELLMOUND, MS US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00227993",
-            "longitude": -90.26667
-        },
-        {
-            "elevation": 110,
-            "mindate": "1900-06-01",
-            "maxdate": "1915-12-31",
-            "latitude": 32.6,
-            "name": "SHOCCOE, MS US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00228036",
-            "elevationUnit": "METERS",
-            "longitude": -89.91667
-        },
-        {
             "elevation": 59.4,
             "mindate": "1904-12-01",
             "maxdate": "2019-05-14",
@@ -9323,17 +7343,6 @@
             "id": "GHCND:USC00228053",
             "elevationUnit": "METERS",
             "longitude": -88.69532
-        },
-        {
-            "elevation": 59.4,
-            "mindate": "1948-06-01",
-            "maxdate": "1951-09-30",
-            "latitude": 31.86667,
-            "name": "SHUBUTA 2, MS US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00228055",
-            "elevationUnit": "METERS",
-            "longitude": -88.7
         },
         {
             "elevation": 67.1,
@@ -9356,17 +7365,6 @@
             "id": "GHCND:USC00228145",
             "elevationUnit": "METERS",
             "longitude": -90.2158
-        },
-        {
-            "elevation": 82,
-            "mindate": "1940-02-01",
-            "maxdate": "1964-04-08",
-            "latitude": 34.06667,
-            "name": "SMITHVILLE, MS US",
-            "datacoverage": 0.831,
-            "id": "GHCND:USC00228189",
-            "elevationUnit": "METERS",
-            "longitude": -88.38333
         },
         {
             "elevation": 42.7,
@@ -9435,26 +7433,6 @@
             "longitude": -90.9108
         },
         {
-            "elevation": 57.9,
-            "mindate": "1893-01-01",
-            "maxdate": "1908-01-31",
-            "latitude": 31.76667,
-            "name": "STONINGTON, MS US",
-            "datacoverage": 0.4943,
-            "id": "GHCND:USC00228460",
-            "elevationUnit": "METERS",
-            "longitude": -91.01667
-        },
-        {
-            "mindate": "1901-02-01",
-            "maxdate": "1914-12-31",
-            "latitude": 31.46667,
-            "name": "SUFFOLK, MS US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00228530",
-            "longitude": -90.96667
-        },
-        {
             "elevation": 88.4,
             "mindate": "1940-05-01",
             "maxdate": "2020-05-16",
@@ -9477,46 +7455,6 @@
             "longitude": -90.32139
         },
         {
-            "elevation": 116.1,
-            "mindate": "1948-06-01",
-            "maxdate": "1951-09-30",
-            "latitude": 32.01667,
-            "name": "SYLVARENA 1 W, MS US",
-            "datacoverage": 0.6002,
-            "id": "GHCND:USC00228608",
-            "elevationUnit": "METERS",
-            "longitude": -89.4
-        },
-        {
-            "elevation": 36.9,
-            "mindate": "1904-08-01",
-            "maxdate": "1922-12-30",
-            "latitude": 33.18333,
-            "name": "TCHULA, MS US",
-            "datacoverage": 0.9954,
-            "id": "GHCND:USC00228684",
-            "elevationUnit": "METERS",
-            "longitude": -90.21667
-        },
-        {
-            "mindate": "1893-01-01",
-            "maxdate": "1904-02-29",
-            "latitude": 33.08333,
-            "name": "THORNTON, MS US",
-            "datacoverage": 0.9377,
-            "id": "GHCND:USC00228768",
-            "longitude": -90.33333
-        },
-        {
-            "mindate": "1946-11-01",
-            "maxdate": "1957-10-31",
-            "latitude": 34.63333,
-            "name": "THYATIRA, MS US",
-            "datacoverage": 0.9991,
-            "id": "GHCND:USC00228784",
-            "longitude": -89.75
-        },
-        {
             "elevation": 64,
             "mindate": "1956-09-01",
             "maxdate": "2012-09-30",
@@ -9526,17 +7464,6 @@
             "id": "GHCND:USC00228792",
             "elevationUnit": "METERS",
             "longitude": -88.633
-        },
-        {
-            "elevation": 161.8,
-            "mindate": "1944-01-01",
-            "maxdate": "1959-06-30",
-            "latitude": 34.63333,
-            "name": "TISHOMINGO, MS US",
-            "datacoverage": 0.9724,
-            "id": "GHCND:USC00228846",
-            "elevationUnit": "METERS",
-            "longitude": -88.23333
         },
         {
             "elevation": 143.3,
@@ -9550,17 +7477,6 @@
             "longitude": -88.6083
         },
         {
-            "elevation": 57.9,
-            "mindate": "1935-01-01",
-            "maxdate": "1964-03-31",
-            "latitude": 34.68333,
-            "name": "TUNICA, MS US",
-            "datacoverage": 0.9174,
-            "id": "GHCND:USC00228996",
-            "elevationUnit": "METERS",
-            "longitude": -90.38333
-        },
-        {
             "elevation": 62.8,
             "mindate": "1959-01-01",
             "maxdate": "2019-08-31",
@@ -9572,17 +7488,6 @@
             "longitude": -90.3683
         },
         {
-            "elevation": 85,
-            "mindate": "1930-01-01",
-            "maxdate": "1969-04-30",
-            "latitude": 34.25,
-            "name": "TUPELO, MS US",
-            "datacoverage": 0.9916,
-            "id": "GHCND:USC00229000",
-            "elevationUnit": "METERS",
-            "longitude": -88.71667
-        },
-        {
             "elevation": 106.7,
             "mindate": "1998-04-01",
             "maxdate": "2020-05-16",
@@ -9592,17 +7497,6 @@
             "id": "GHCND:USC00229004",
             "elevationUnit": "METERS",
             "longitude": -88.7658
-        },
-        {
-            "elevation": 78.9,
-            "mindate": "1949-01-01",
-            "maxdate": "1962-03-31",
-            "latitude": 34.26667,
-            "name": "TUPELO SUBSTN, MS US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00229005",
-            "elevationUnit": "METERS",
-            "longitude": -88.7
         },
         {
             "elevation": 79.2,
@@ -9737,17 +7631,6 @@
             "longitude": -88.7238
         },
         {
-            "elevation": 14,
-            "mindate": "1892-01-01",
-            "maxdate": "1949-05-31",
-            "latitude": 32.31444,
-            "name": "VICKSBURG, MS US",
-            "datacoverage": 0.9377,
-            "id": "GHCND:USC00229215",
-            "elevationUnit": "METERS",
-            "longitude": -90.90528
-        },
-        {
             "elevation": 77.7,
             "mindate": "1967-07-01",
             "maxdate": "2010-12-31",
@@ -9757,17 +7640,6 @@
             "id": "GHCND:USC00229216",
             "elevationUnit": "METERS",
             "longitude": -90.84444
-        },
-        {
-            "elevation": 54.9,
-            "mindate": "1932-11-01",
-            "maxdate": "1939-12-31",
-            "latitude": 32.29778,
-            "name": "VICKSBURG WATERWAYS, MS US",
-            "datacoverage": 0.5699,
-            "id": "GHCND:USC00229218",
-            "elevationUnit": "METERS",
-            "longitude": -90.86583
         },
         {
             "elevation": 24.4,
@@ -9790,17 +7662,6 @@
             "id": "GHCND:USC00229326",
             "elevationUnit": "METERS",
             "longitude": -89.4605
-        },
-        {
-            "elevation": 85,
-            "mindate": "1891-02-01",
-            "maxdate": "1893-05-31",
-            "latitude": 31.58333,
-            "name": "WASHINGTON, MS US",
-            "datacoverage": 0.5723,
-            "id": "GHCND:USC00229384",
-            "elevationUnit": "METERS",
-            "longitude": -91.28333
         },
         {
             "elevation": 94.5,
@@ -9841,50 +7702,10 @@
             "maxdate": "1970-07-31",
             "latitude": 31.68333,
             "name": "WAYNESBORO 3 WNW, MS US",
-            "datacoverage": 0.8744,
+            "datacoverage": 0.5243,
             "id": "GHCND:USC00229444",
             "elevationUnit": "METERS",
             "longitude": -88.68333
-        },
-        {
-            "mindate": "1948-06-01",
-            "maxdate": "1949-03-24",
-            "latitude": 33.26667,
-            "name": "WEIR, MS US",
-            "datacoverage": 0.991,
-            "id": "GHCND:USC00229475",
-            "longitude": -89.3
-        },
-        {
-            "elevation": 73.2,
-            "mindate": "1948-01-01",
-            "maxdate": "1955-06-03",
-            "latitude": 33.6,
-            "name": "WEST POINT EXPERIMENTAL STATION, MS US",
-            "datacoverage": 0.6246,
-            "id": "GHCND:USC00229537",
-            "elevationUnit": "METERS",
-            "longitude": -88.58333
-        },
-        {
-            "mindate": "1948-06-01",
-            "maxdate": "1949-04-30",
-            "latitude": 33.6,
-            "name": "WEST POINT 3 W, MS US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00229539",
-            "longitude": -88.71667
-        },
-        {
-            "elevation": 70.1,
-            "mindate": "1955-01-01",
-            "maxdate": "1966-12-31",
-            "latitude": 33.61667,
-            "name": "WEST POINT, MS US",
-            "datacoverage": 0.9924,
-            "id": "GHCND:USC00229543",
-            "elevationUnit": "METERS",
-            "longitude": -88.65
         },
         {
             "elevation": 113.7,
@@ -9898,17 +7719,6 @@
             "longitude": -89.70556
         },
         {
-            "elevation": 56.7,
-            "mindate": "1940-08-01",
-            "maxdate": "1951-09-30",
-            "latitude": 30.7975,
-            "name": "WHITE SAND, MS US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00229617",
-            "elevationUnit": "METERS",
-            "longitude": -89.6891
-        },
-        {
             "elevation": 48.8,
             "mindate": "1946-05-01",
             "maxdate": "2020-02-29",
@@ -9918,24 +7728,6 @@
             "id": "GHCND:USC00229639",
             "elevationUnit": "METERS",
             "longitude": -89.1215
-        },
-        {
-            "mindate": "1948-06-01",
-            "maxdate": "1951-07-26",
-            "latitude": 31.23333,
-            "name": "WILKINSON 5 NW, MS US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00229657",
-            "longitude": -91.31667
-        },
-        {
-            "mindate": "1896-05-01",
-            "maxdate": "1901-09-30",
-            "latitude": 31.7,
-            "name": "WINDHAM, MS US",
-            "datacoverage": 0.6309,
-            "id": "GHCND:USC00229735",
-            "longitude": -89.18333
         },
         {
             "elevation": 119.5,
@@ -9949,17 +7741,6 @@
             "longitude": -89.6244
         },
         {
-            "elevation": 100.9,
-            "mindate": "1909-05-01",
-            "maxdate": "1913-09-30",
-            "latitude": 33.78333,
-            "name": "WOODLAND, MS US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00229777",
-            "elevationUnit": "METERS",
-            "longitude": -89.03333
-        },
-        {
             "elevation": 121.9,
             "mindate": "1893-03-01",
             "maxdate": "2012-12-18",
@@ -9971,17 +7752,6 @@
             "longitude": -91.2325
         },
         {
-            "elevation": 35.4,
-            "mindate": "1891-10-01",
-            "maxdate": "1959-12-31",
-            "latitude": 32.866667,
-            "name": "YAZOO CITY, MS US",
-            "datacoverage": 0.9963,
-            "id": "GHCND:USC00229850",
-            "elevationUnit": "METERS",
-            "longitude": -90.4
-        },
-        {
             "elevation": 32.6,
             "mindate": "1960-01-01",
             "maxdate": "2018-11-07",
@@ -9991,15 +7761,6 @@
             "id": "GHCND:USC00229860",
             "elevationUnit": "METERS",
             "longitude": -90.3816
-        },
-        {
-            "mindate": "1948-08-01",
-            "maxdate": "1951-09-30",
-            "latitude": 32.96667,
-            "name": "ZAMA, MS US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00229940",
-            "longitude": -89.38333
         },
         {
             "elevation": 147.8,
@@ -10244,17 +8005,6 @@
             "longitude": -90.0866
         },
         {
-            "elevation": 36.9,
-            "mindate": "1948-01-01",
-            "maxdate": "1950-05-31",
-            "latitude": 32.4,
-            "name": "VICKSBURG OLD, MS US",
-            "datacoverage": 1,
-            "id": "GHCND:USW00013979",
-            "elevationUnit": "METERS",
-            "longitude": -90.78333
-        },
-        {
             "elevation": 147.5,
             "mindate": "2008-02-01",
             "maxdate": "2020-05-16",
@@ -10321,17 +8071,6 @@
             "longitude": -89.0808
         },
         {
-            "elevation": 89.9,
-            "mindate": "1930-01-01",
-            "maxdate": "1967-07-31",
-            "latitude": 32.35,
-            "name": "VICKSBURG, MS US",
-            "datacoverage": 1,
-            "id": "GHCND:USW00093917",
-            "elevationUnit": "METERS",
-            "longitude": -90.88333
-        },
-        {
             "elevation": 125.9,
             "mindate": "1948-01-01",
             "maxdate": "2020-05-16",
@@ -10341,17 +8080,6 @@
             "id": "GHCND:USW00093919",
             "elevationUnit": "METERS",
             "longitude": -90.4708
-        },
-        {
-            "elevation": 31.4,
-            "mindate": "1950-01-01",
-            "maxdate": "1950-09-30",
-            "latitude": 32.23333,
-            "name": "VICKSBURG, MS US",
-            "datacoverage": 1,
-            "id": "GHCND:USW00093999",
-            "elevationUnit": "METERS",
-            "longitude": -90.93333
         },
         {
             "elevation": 196.6,

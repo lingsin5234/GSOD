@@ -2,66 +2,11 @@
     "metadata": {
         "resultset": {
             "offset": 1,
-            "count": 1570,
+            "count": 1200,
             "limit": 1000
         }
     },
     "results": [
-        {
-            "elevation": 299,
-            "mindate": "1905-10-01",
-            "maxdate": "1976-06-01",
-            "latitude": 40.38333,
-            "name": "SALAMONIA, IN US",
-            "datacoverage": 0.8222,
-            "id": "COOP:127747",
-            "elevationUnit": "METERS",
-            "longitude": -84.86667
-        },
-        {
-            "elevation": 170.7,
-            "mindate": "1931-01-01",
-            "maxdate": "2015-11-01",
-            "latitude": 38.45367,
-            "name": "ASHLAND, KY US",
-            "datacoverage": 0.9843,
-            "id": "COOP:150254",
-            "elevationUnit": "METERS",
-            "longitude": -82.61299
-        },
-        {
-            "elevation": 153,
-            "mindate": "1931-01-01",
-            "maxdate": "1962-12-01",
-            "latitude": 39.05,
-            "name": "BRENT DAM 36, OH US",
-            "datacoverage": 0.987,
-            "id": "COOP:150978",
-            "elevationUnit": "METERS",
-            "longitude": -84.41667
-        },
-        {
-            "elevation": 160.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1961-07-01",
-            "latitude": 38.64812,
-            "name": "GREENUP LOCKS AND DAM, KY US",
-            "datacoverage": 0.981,
-            "id": "COOP:153443",
-            "elevationUnit": "METERS",
-            "longitude": -82.86115
-        },
-        {
-            "elevation": 160.9,
-            "mindate": "1961-01-01",
-            "maxdate": "2015-10-01",
-            "latitude": 38.64812,
-            "name": "GREENUP LOCKS AND DAM, KY US",
-            "datacoverage": 0.9909,
-            "id": "COOP:154848",
-            "elevationUnit": "METERS",
-            "longitude": -82.86115
-        },
         {
             "elevation": 369.7,
             "mindate": "1948-07-01",
@@ -96,17 +41,6 @@
             "longitude": -81.51694
         },
         {
-            "elevation": 326.1,
-            "mindate": "1948-01-01",
-            "maxdate": "1952-11-30",
-            "latitude": 41.03333,
-            "name": "AKRON MUNICIPAL AIRPORT, OH US",
-            "datacoverage": 0.9999,
-            "id": "COOP:330063",
-            "elevationUnit": "METERS",
-            "longitude": -81.45
-        },
-        {
             "elevation": 371.9,
             "mindate": "1946-06-01",
             "maxdate": "1988-08-01",
@@ -118,35 +52,15 @@
             "longitude": -82.68333
         },
         {
-            "elevation": 320,
-            "mindate": "1931-01-01",
-            "maxdate": "1949-01-01",
-            "latitude": 40.93333,
-            "name": "ALLIANCE, OH US",
-            "datacoverage": 0.5667,
-            "id": "COOP:330102",
-            "elevationUnit": "METERS",
-            "longitude": -81.1
-        },
-        {
             "elevation": 321.6,
-            "mindate": "1948-08-01",
+            "mindate": "1948-08-12",
             "maxdate": "2014-01-01",
             "latitude": 40.9551,
             "name": "ALLIANCE 3 NNW, OH US",
-            "datacoverage": 0.6846,
+            "datacoverage": 0.0433,
             "id": "COOP:330107",
             "elevationUnit": "METERS",
             "longitude": -81.1167
-        },
-        {
-            "mindate": "1948-08-01",
-            "maxdate": "1949-10-01",
-            "latitude": 39.21667,
-            "name": "ALMA SCIOTO TRAILS F, OH US",
-            "datacoverage": 0.9223,
-            "id": "COOP:330115",
-            "longitude": -82.96667
         },
         {
             "elevation": 201.2,
@@ -169,28 +83,6 @@
             "id": "COOP:330165",
             "elevationUnit": "METERS",
             "longitude": -80.55556
-        },
-        {
-            "elevation": 305.1,
-            "mindate": "1948-03-01",
-            "maxdate": "1959-06-01",
-            "latitude": 41.16667,
-            "name": "APCO RAVENNA ARSENAL, OH US",
-            "datacoverage": 1,
-            "id": "COOP:330195",
-            "elevationUnit": "METERS",
-            "longitude": -81.08333
-        },
-        {
-            "elevation": 320,
-            "mindate": "1931-01-01",
-            "maxdate": "1967-12-01",
-            "latitude": 40.86667,
-            "name": "ASHLAND, OH US",
-            "datacoverage": 0.9685,
-            "id": "COOP:330251",
-            "elevationUnit": "METERS",
-            "longitude": -82.3
         },
         {
             "elevation": 385.6,
@@ -248,17 +140,6 @@
             "longitude": -82.1
         },
         {
-            "elevation": 345,
-            "mindate": "1948-07-01",
-            "maxdate": "1949-01-01",
-            "latitude": 41.01667,
-            "name": "ATWATER CENTER, OH US",
-            "datacoverage": 0.7078,
-            "id": "COOP:330290",
-            "elevationUnit": "METERS",
-            "longitude": -81.16667
-        },
-        {
             "elevation": 289.6,
             "mindate": "1936-06-01",
             "maxdate": "1987-06-01",
@@ -281,17 +162,6 @@
             "longitude": -81.185
         },
         {
-            "elevation": 259.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1951-01-01",
-            "latitude": 39.11667,
-            "name": "BATAVIA 4 N, OH US",
-            "datacoverage": 0.9958,
-            "id": "COOP:330460",
-            "elevationUnit": "METERS",
-            "longitude": -84.16667
-        },
-        {
             "elevation": 300.2,
             "mindate": "1940-01-01",
             "maxdate": "2014-01-01",
@@ -301,28 +171,6 @@
             "id": "COOP:330493",
             "elevationUnit": "METERS",
             "longitude": -81.5577
-        },
-        {
-            "elevation": 274.9,
-            "mindate": "1948-08-01",
-            "maxdate": "1950-03-28",
-            "latitude": 40.01667,
-            "name": "BELLAIRE, OH US",
-            "datacoverage": 0.1001,
-            "id": "COOP:330555",
-            "elevationUnit": "METERS",
-            "longitude": -80.75
-        },
-        {
-            "elevation": 274.9,
-            "mindate": "1950-04-08",
-            "maxdate": "1955-09-01",
-            "latitude": 40.01667,
-            "name": "BELLAIRE, OH US",
-            "datacoverage": 1,
-            "id": "COOP:330556",
-            "elevationUnit": "METERS",
-            "longitude": -80.75
         },
         {
             "elevation": 358.4,
@@ -336,17 +184,6 @@
             "longitude": -83.7754
         },
         {
-            "elevation": 263,
-            "mindate": "1931-01-01",
-            "maxdate": "1942-11-01",
-            "latitude": 40.25,
-            "name": "BELLPOINT, OH US",
-            "datacoverage": 0.7763,
-            "id": "COOP:330568",
-            "elevationUnit": "METERS",
-            "longitude": -83.15
-        },
-        {
             "elevation": 184.1,
             "mindate": "1968-05-01",
             "maxdate": "2015-08-01",
@@ -358,34 +195,12 @@
             "longitude": -81.74284
         },
         {
-            "elevation": 406,
-            "mindate": "1931-01-01",
-            "maxdate": "1949-05-01",
-            "latitude": 39.98333,
-            "name": "BELMONT 4 SE, OH US",
-            "datacoverage": 1,
-            "id": "COOP:330581",
-            "elevationUnit": "METERS",
-            "longitude": -80.98333
-        },
-        {
-            "elevation": 348.1,
-            "mindate": "1948-07-01",
-            "maxdate": "1949-01-01",
-            "latitude": 40.91667,
-            "name": "BELOIT, OH US",
-            "datacoverage": 0.7078,
-            "id": "COOP:330600",
-            "elevationUnit": "METERS",
-            "longitude": -81
-        },
-        {
             "elevation": 317,
-            "mindate": "1948-08-01",
+            "mindate": "1948-08-12",
             "maxdate": "2014-01-01",
             "latitude": 41.1169,
             "name": "BERLIN LAKE, OH US",
-            "datacoverage": 0.9216,
+            "datacoverage": 0.0377,
             "id": "COOP:330639",
             "elevationUnit": "METERS",
             "longitude": -81.0094
@@ -413,17 +228,6 @@
             "longitude": -81.43333
         },
         {
-            "elevation": 228.6,
-            "mindate": "1940-01-01",
-            "maxdate": "1957-04-01",
-            "latitude": 41.1573,
-            "name": "AKRON WPCS, OH US",
-            "datacoverage": 0.7444,
-            "id": "COOP:330847",
-            "elevationUnit": "METERS",
-            "longitude": -81.5664
-        },
-        {
             "elevation": 214.9,
             "mindate": "1955-01-01",
             "maxdate": "1986-09-01",
@@ -444,15 +248,6 @@
             "id": "COOP:330862",
             "elevationUnit": "METERS",
             "longitude": -83.6111
-        },
-        {
-            "mindate": "1931-01-01",
-            "maxdate": "1948-04-01",
-            "latitude": 41.36667,
-            "name": "BRECKSVILLE 3 N, OH US",
-            "datacoverage": 0.9905,
-            "id": "COOP:330911",
-            "longitude": -81.61667
         },
         {
             "elevation": 222.5,
@@ -488,23 +283,12 @@
             "longitude": -82.9698
         },
         {
-            "elevation": 228.3,
-            "mindate": "1951-01-01",
-            "maxdate": "1952-12-01",
-            "latitude": 39.54444,
-            "name": "TOM JENKINS DAM BURR OAK, OH US",
-            "datacoverage": 0.9993,
-            "id": "COOP:331105",
-            "elevationUnit": "METERS",
-            "longitude": -82.05812
-        },
-        {
             "elevation": 353.6,
             "mindate": "1950-07-01",
             "maxdate": "1994-01-01",
             "latitude": 41.46667,
             "name": "BURTON 1 W, OH US",
-            "datacoverage": 0.9324,
+            "datacoverage": 0.0489,
             "id": "COOP:331113",
             "elevationUnit": "METERS",
             "longitude": -81.16667
@@ -521,17 +305,6 @@
             "longitude": -80.99806
         },
         {
-            "elevation": 366.1,
-            "mindate": "1948-01-01",
-            "maxdate": "1950-04-01",
-            "latitude": 40.26667,
-            "name": "CADIZ 2, OH US",
-            "datacoverage": 0.8942,
-            "id": "COOP:331162",
-            "elevationUnit": "METERS",
-            "longitude": -81
-        },
-        {
             "elevation": 268.2,
             "mindate": "2000-12-01",
             "maxdate": "2013-12-01",
@@ -541,17 +314,6 @@
             "id": "COOP:331175",
             "elevationUnit": "METERS",
             "longitude": -81.4642
-        },
-        {
-            "elevation": 305.1,
-            "mindate": "1934-09-01",
-            "maxdate": "1955-05-01",
-            "latitude": 39.73333,
-            "name": "CALDWELL 4 W, OH US",
-            "datacoverage": 0.96,
-            "id": "COOP:331177",
-            "elevationUnit": "METERS",
-            "longitude": -81.58333
         },
         {
             "elevation": 298.7,
@@ -566,11 +328,11 @@
         },
         {
             "elevation": 225.6,
-            "mindate": "1948-08-01",
+            "mindate": "1948-08-11",
             "maxdate": "1983-05-01",
             "latitude": 39.75,
             "name": "CALDWELL WATER WORKS, OH US",
-            "datacoverage": 0.5554,
+            "datacoverage": 0.0491,
             "id": "COOP:331182",
             "elevationUnit": "METERS",
             "longitude": -81.53333
@@ -587,17 +349,6 @@
             "longitude": -81.5794
         },
         {
-            "elevation": 259.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1963-11-01",
-            "latitude": 40.08333,
-            "name": "CAMBRIDGE STATE HOSPITAL, OH US",
-            "datacoverage": 0.9849,
-            "id": "COOP:331202",
-            "elevationUnit": "METERS",
-            "longitude": -81.58333
-        },
-        {
             "elevation": 200.9,
             "mindate": "1956-06-21",
             "maxdate": "1976-11-01",
@@ -607,17 +358,6 @@
             "id": "COOP:331234",
             "elevationUnit": "METERS",
             "longitude": -81.98333
-        },
-        {
-            "elevation": 317,
-            "mindate": "1956-07-01",
-            "maxdate": "1961-06-01",
-            "latitude": 39.75,
-            "name": "CANAL WINCHERSTER 6, OH US",
-            "datacoverage": 1,
-            "id": "COOP:331240",
-            "elevationUnit": "METERS",
-            "longitude": -82.76667
         },
         {
             "elevation": 347.5,
@@ -631,34 +371,12 @@
             "longitude": -80.76667
         },
         {
-            "elevation": 320,
-            "mindate": "1953-01-01",
-            "maxdate": "1969-12-01",
-            "latitude": 40.8,
-            "name": "CANTON REPOSITORY, OH US",
-            "datacoverage": 0.7353,
-            "id": "COOP:331250",
-            "elevationUnit": "METERS",
-            "longitude": -81.38333
-        },
-        {
-            "elevation": 345,
-            "mindate": "1893-07-01",
-            "maxdate": "1948-09-01",
-            "latitude": 40.86667,
-            "name": "CANTON 5 N, OH US",
-            "datacoverage": 1,
-            "id": "COOP:331254",
-            "elevationUnit": "METERS",
-            "longitude": -81.4
-        },
-        {
             "elevation": 310.9,
-            "mindate": "1948-09-01",
+            "mindate": "1948-10-05",
             "maxdate": "1988-03-01",
             "latitude": 40.76667,
             "name": "CANTON HIGHWAY DEPARTMENT, OH US",
-            "datacoverage": 0.974,
+            "datacoverage": 0.0423,
             "id": "COOP:331259",
             "elevationUnit": "METERS",
             "longitude": -81.38333
@@ -675,48 +393,6 @@
             "longitude": -82.21944
         },
         {
-            "elevation": 267.9,
-            "mindate": "1956-07-01",
-            "maxdate": "1961-06-01",
-            "latitude": 39.76667,
-            "name": "CARROLL 2 SSE, OH US",
-            "datacoverage": 0.8168,
-            "id": "COOP:331297",
-            "elevationUnit": "METERS",
-            "longitude": -82.68333
-        },
-        {
-            "elevation": 348.1,
-            "mindate": "1956-07-01",
-            "maxdate": "1961-06-01",
-            "latitude": 39.76667,
-            "name": "CARROLL 3 SW, OH US",
-            "datacoverage": 1,
-            "id": "COOP:331299",
-            "elevationUnit": "METERS",
-            "longitude": -82.75
-        },
-        {
-            "mindate": "1948-08-01",
-            "maxdate": "1948-08-31",
-            "latitude": 39.8,
-            "name": "CARROLL HIGHWAY DEPARTMENT, OH US",
-            "datacoverage": 0.0292,
-            "id": "COOP:331302",
-            "longitude": -82.7
-        },
-        {
-            "elevation": 351.1,
-            "mindate": "1948-08-01",
-            "maxdate": "1950-04-30",
-            "latitude": 40.56667,
-            "name": "CARROLLTON, OH US",
-            "datacoverage": 0.8125,
-            "id": "COOP:331310",
-            "elevationUnit": "METERS",
-            "longitude": -81.08333
-        },
-        {
             "elevation": 362.7,
             "mindate": "1939-09-01",
             "maxdate": "1987-10-01",
@@ -726,17 +402,6 @@
             "id": "COOP:331315",
             "elevationUnit": "METERS",
             "longitude": -81.06667
-        },
-        {
-            "elevation": 182.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1959-06-01",
-            "latitude": 41.55,
-            "name": "CATAWBA ISLAND 1 SW, OH US",
-            "datacoverage": 0.9621,
-            "id": "COOP:331353",
-            "elevationUnit": "METERS",
-            "longitude": -82.85
         },
         {
             "elevation": 264,
@@ -794,50 +459,6 @@
             "longitude": -82.3667
         },
         {
-            "elevation": 359.7,
-            "mindate": "1931-01-01",
-            "maxdate": "1938-09-01",
-            "latitude": 41.16667,
-            "name": "CHARLESTOWN, OH US",
-            "datacoverage": 0.8497,
-            "id": "COOP:331470",
-            "elevationUnit": "METERS",
-            "longitude": -81.15
-        },
-        {
-            "elevation": 320,
-            "mindate": "1948-08-01",
-            "maxdate": "1949-12-26",
-            "latitude": 40.5,
-            "name": "CHARM, OH US",
-            "datacoverage": 0.875,
-            "id": "COOP:331474",
-            "elevationUnit": "METERS",
-            "longitude": -81.78333
-        },
-        {
-            "elevation": 286.2,
-            "mindate": "1940-01-01",
-            "maxdate": "1946-12-01",
-            "latitude": 38.83333,
-            "name": "CHERRY FORK, OH US",
-            "datacoverage": 0.9999,
-            "id": "COOP:331497",
-            "elevationUnit": "METERS",
-            "longitude": -83.56667
-        },
-        {
-            "elevation": 170.7,
-            "mindate": "1948-01-01",
-            "maxdate": "1960-12-01",
-            "latitude": 38.41667,
-            "name": "CHESAPEAKE HUNTINGTON AIRPORT, OH US",
-            "datacoverage": 0.9742,
-            "id": "COOP:331502",
-            "elevationUnit": "METERS",
-            "longitude": -82.5
-        },
-        {
             "elevation": 271.6,
             "mindate": "1965-02-01",
             "maxdate": "2015-11-01",
@@ -893,17 +514,6 @@
             "longitude": -81.9361
         },
         {
-            "elevation": 317,
-            "mindate": "1948-08-01",
-            "maxdate": "1951-05-28",
-            "latitude": 41.06667,
-            "name": "CHIPPEWA LAKE W WKS, OH US",
-            "datacoverage": 0.7359,
-            "id": "COOP:331544",
-            "elevationUnit": "METERS",
-            "longitude": -81.9
-        },
-        {
             "elevation": 152.4,
             "mindate": "1974-05-01",
             "maxdate": "2013-12-01",
@@ -926,61 +536,6 @@
             "longitude": -84.51667
         },
         {
-            "elevation": 235,
-            "mindate": "1942-03-01",
-            "maxdate": "1957-05-01",
-            "latitude": 39.13333,
-            "name": "CINCINNATI AULT PARK, OH US",
-            "datacoverage": 0.978,
-            "id": "COOP:331566",
-            "elevationUnit": "METERS",
-            "longitude": -84.41667
-        },
-        {
-            "elevation": 161.8,
-            "mindate": "1951-08-01",
-            "maxdate": "1961-07-01",
-            "latitude": 39.21667,
-            "name": "CINCINNATI HARTWELL, OH US",
-            "datacoverage": 0.9499,
-            "id": "COOP:331568",
-            "elevationUnit": "METERS",
-            "longitude": -84.48333
-        },
-        {
-            "elevation": 182.9,
-            "mindate": "1951-08-01",
-            "maxdate": "1961-07-01",
-            "latitude": 39.15,
-            "name": "CINCINNATI OAKLEY, OH US",
-            "datacoverage": 0.9499,
-            "id": "COOP:331569",
-            "elevationUnit": "METERS",
-            "longitude": -84.41667
-        },
-        {
-            "elevation": 267.9,
-            "mindate": "1951-08-01",
-            "maxdate": "1961-03-01",
-            "latitude": 39.1,
-            "name": "CINCINNATI PRICE HIL, OH US",
-            "datacoverage": 0.9396,
-            "id": "COOP:331570",
-            "elevationUnit": "METERS",
-            "longitude": -84.55
-        },
-        {
-            "elevation": 228.9,
-            "mindate": "1953-01-01",
-            "maxdate": "1954-12-01",
-            "latitude": 39.08333,
-            "name": "CINCINNATI MOUNT WASH, OH US",
-            "datacoverage": 1,
-            "id": "COOP:331572",
-            "elevationUnit": "METERS",
-            "longitude": -84.38333
-        },
-        {
             "elevation": 246.9,
             "mindate": "1965-02-01",
             "maxdate": "1974-08-01",
@@ -990,17 +545,6 @@
             "id": "COOP:331573",
             "elevationUnit": "METERS",
             "longitude": -84.33333
-        },
-        {
-            "elevation": 271,
-            "mindate": "1965-02-01",
-            "maxdate": "1968-02-01",
-            "latitude": 39.2,
-            "name": "CINCINNATI WHITE OAK, OH US",
-            "datacoverage": 0.7582,
-            "id": "COOP:331574",
-            "elevationUnit": "METERS",
-            "longitude": -84.61667
         },
         {
             "elevation": 149.4,
@@ -1058,17 +602,6 @@
             "longitude": -81.28333
         },
         {
-            "elevation": 351.1,
-            "mindate": "1948-01-01",
-            "maxdate": "1949-06-01",
-            "latitude": 41.36667,
-            "name": "CLEVELAND SEVEN HILL, OH US",
-            "datacoverage": 0.779,
-            "id": "COOP:331650",
-            "elevationUnit": "METERS",
-            "longitude": -81.66667
-        },
-        {
             "elevation": 167.6,
             "mindate": "1955-09-11",
             "maxdate": "2014-01-01",
@@ -1091,17 +624,6 @@
             "longitude": -81.71667
         },
         {
-            "elevation": 299,
-            "mindate": "1942-12-01",
-            "maxdate": "1953-11-01",
-            "latitude": 41.46667,
-            "name": "CLEVELAND SHAKER HEI, OH US",
-            "datacoverage": 0.9545,
-            "id": "COOP:331653",
-            "elevationUnit": "METERS",
-            "longitude": -81.56667
-        },
-        {
             "elevation": 238,
             "mindate": "1948-08-01",
             "maxdate": "2015-11-01",
@@ -1113,34 +635,12 @@
             "longitude": -81.852
         },
         {
-            "elevation": 200.9,
-            "mindate": "1948-02-01",
-            "maxdate": "1957-11-01",
-            "latitude": 41.5,
-            "name": "CLEVELAND WEATHER BUREAU CITY, OH US",
-            "datacoverage": 0.8646,
-            "id": "COOP:331662",
-            "elevationUnit": "METERS",
-            "longitude": -81.66667
-        },
-        {
-            "elevation": 305.1,
-            "mindate": "1948-07-01",
-            "maxdate": "1949-01-01",
-            "latitude": 41.53333,
-            "name": "COLEBROOK, OH US",
-            "datacoverage": 0.7078,
-            "id": "COOP:331755",
-            "elevationUnit": "METERS",
-            "longitude": -80.76667
-        },
-        {
             "elevation": 338.9,
-            "mindate": "1948-08-01",
+            "mindate": "1948-08-08",
             "maxdate": "1975-04-01",
             "latitude": 40.88333,
             "name": "COLUMBIANA, OH US",
-            "datacoverage": 0.546,
+            "datacoverage": 0.0533,
             "id": "COOP:331770",
             "elevationUnit": "METERS",
             "longitude": -80.68333
@@ -1155,17 +655,6 @@
             "id": "COOP:331777",
             "elevationUnit": "METERS",
             "longitude": -82.8941
-        },
-        {
-            "elevation": 232,
-            "mindate": "1931-01-01",
-            "maxdate": "1957-09-01",
-            "latitude": 40,
-            "name": "COLUMBUS OHIO STATE, OH US",
-            "datacoverage": 0.9814,
-            "id": "COOP:331778",
-            "elevationUnit": "METERS",
-            "longitude": -83.01667
         },
         {
             "elevation": 267.9,
@@ -1234,17 +723,6 @@
             "longitude": -83
         },
         {
-            "elevation": 195.1,
-            "mindate": "1948-08-01",
-            "maxdate": "2014-01-01",
-            "latitude": 41.96022,
-            "name": "CONNEAUT, OH US",
-            "datacoverage": 0.5529,
-            "id": "COOP:331818",
-            "elevationUnit": "METERS",
-            "longitude": -80.57279
-        },
-        {
             "elevation": 237.7,
             "mindate": "1948-10-01",
             "maxdate": "2011-12-01",
@@ -1256,17 +734,6 @@
             "longitude": -82.06667
         },
         {
-            "elevation": 305.1,
-            "mindate": "1948-09-01",
-            "maxdate": "1955-11-01",
-            "latitude": 41.31667,
-            "name": "CORTLAND HIGHWAY DEPARTMENT, OH US",
-            "datacoverage": 0.5435,
-            "id": "COOP:331882",
-            "elevationUnit": "METERS",
-            "longitude": -80.73333
-        },
-        {
             "elevation": 231.6,
             "mindate": "1908-10-01",
             "maxdate": "2015-11-01",
@@ -1276,17 +743,6 @@
             "id": "COOP:331890",
             "elevationUnit": "METERS",
             "longitude": -81.871
-        },
-        {
-            "elevation": 228.9,
-            "mindate": "1948-08-01",
-            "maxdate": "1951-05-28",
-            "latitude": 40.3,
-            "name": "COSHOCTON 2 N, OH US",
-            "datacoverage": 0.7948,
-            "id": "COOP:331900",
-            "elevationUnit": "METERS",
-            "longitude": -81.86667
         },
         {
             "elevation": 347.5,
@@ -1366,28 +822,6 @@
             "longitude": -84.42889
         },
         {
-            "elevation": 201.2,
-            "mindate": "1948-08-01",
-            "maxdate": "1963-02-01",
-            "latitude": 41.23694,
-            "name": "DEFIANCE POWER PLANT, OH US",
-            "datacoverage": 0.8728,
-            "id": "COOP:332103",
-            "elevationUnit": "METERS",
-            "longitude": -84.39944
-        },
-        {
-            "elevation": 210,
-            "mindate": "1963-01-01",
-            "maxdate": "1968-01-01",
-            "latitude": 41.28333,
-            "name": "DEFIANCE TOLEDO EDIS, OH US",
-            "datacoverage": 0.0415,
-            "id": "COOP:332108",
-            "elevationUnit": "METERS",
-            "longitude": -84.35
-        },
-        {
             "elevation": 280.4,
             "mindate": "1931-01-01",
             "maxdate": "2001-01-01",
@@ -1408,17 +842,6 @@
             "id": "COOP:332124",
             "elevationUnit": "METERS",
             "longitude": -83.0706
-        },
-        {
-            "elevation": 262.1,
-            "mindate": "1909-09-01",
-            "maxdate": "1959-06-01",
-            "latitude": 40.4056,
-            "name": "DENNISON WATER WORKS, OH US",
-            "datacoverage": 0.985,
-            "id": "COOP:332156",
-            "elevationUnit": "METERS",
-            "longitude": -81.3435
         },
         {
             "elevation": 262.1,
@@ -1470,21 +893,10 @@
             "maxdate": "1975-05-01",
             "latitude": 39.63333,
             "name": "DUFFY DAM 15, OH US",
-            "datacoverage": 0.6576,
+            "datacoverage": 0.0565,
             "id": "COOP:332305",
             "elevationUnit": "METERS",
             "longitude": -80.88333
-        },
-        {
-            "elevation": 355.1,
-            "mindate": "1940-04-01",
-            "maxdate": "1948-09-01",
-            "latitude": 40.68333,
-            "name": "EAST LIVERPOOL WEATHER BUREAU AIRPORT, OH US",
-            "datacoverage": 0.9999,
-            "id": "COOP:332433",
-            "elevationUnit": "METERS",
-            "longitude": -80.63333
         },
         {
             "elevation": 305.4,
@@ -1499,25 +911,14 @@
         },
         {
             "elevation": 253,
-            "mindate": "1948-08-01",
+            "mindate": "1948-08-04",
             "maxdate": "1975-08-01",
             "latitude": 41.45,
             "name": "EDGERTON WATER WORKS, OH US",
-            "datacoverage": 0.9479,
+            "datacoverage": 0.0549,
             "id": "COOP:332512",
             "elevationUnit": "METERS",
             "longitude": -84.73333
-        },
-        {
-            "elevation": 317,
-            "mindate": "1931-01-01",
-            "maxdate": "1959-06-01",
-            "latitude": 41.0247,
-            "name": "ELLSWORTH, OH US",
-            "datacoverage": 0.9856,
-            "id": "COOP:332580",
-            "elevationUnit": "METERS",
-            "longitude": -80.854
         },
         {
             "elevation": 222.5,
@@ -1620,11 +1021,11 @@
         },
         {
             "elevation": 238,
-            "mindate": "1948-08-01",
+            "mindate": "1948-08-11",
             "maxdate": "1975-06-01",
             "latitude": 41.15,
             "name": "FOSTORIA WEST END SU, OH US",
-            "datacoverage": 0.8162,
+            "datacoverage": 0.0601,
             "id": "COOP:332905",
             "elevationUnit": "METERS",
             "longitude": -83.43333
@@ -1697,11 +1098,11 @@
         },
         {
             "elevation": 331.9,
-            "mindate": "1940-01-01",
+            "mindate": "1948-08-11",
             "maxdate": "1971-09-01",
             "latitude": 40.38333,
             "name": "GAMBIER, OH US",
-            "datacoverage": 0.8222,
+            "datacoverage": 0.0582,
             "id": "COOP:333042",
             "elevationUnit": "METERS",
             "longitude": -82.4
@@ -1716,17 +1117,6 @@
             "id": "COOP:333071",
             "elevationUnit": "METERS",
             "longitude": -81.6
-        },
-        {
-            "elevation": 228.9,
-            "mindate": "1943-06-01",
-            "maxdate": "1959-06-01",
-            "latitude": 41.75,
-            "name": "GENEVA 3 S, OH US",
-            "datacoverage": 0.9949,
-            "id": "COOP:333094",
-            "elevationUnit": "METERS",
-            "longitude": -80.95
         },
         {
             "elevation": 228.9,
@@ -1751,59 +1141,15 @@
             "longitude": -84.4015
         },
         {
-            "elevation": 241.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1952-12-01",
-            "latitude": 39.66667,
-            "name": "GERMANTOWN 3 NE, OH US",
-            "datacoverage": 0.9886,
-            "id": "COOP:333125",
-            "elevationUnit": "METERS",
-            "longitude": -84.33333
-        },
-        {
-            "elevation": 176.8,
-            "mindate": "1953-01-01",
-            "maxdate": "1959-08-22",
-            "latitude": 41.65,
-            "name": "PUT IN BAY, OH US",
-            "datacoverage": 0.9627,
-            "id": "COOP:333144",
-            "elevationUnit": "METERS",
-            "longitude": -82.8
-        },
-        {
-            "elevation": 225.9,
-            "mindate": "1953-08-01",
-            "maxdate": "1967-02-01",
-            "latitude": 41.03333,
-            "name": "GLANDORF, OH US",
-            "datacoverage": 0.9205,
-            "id": "COOP:333180",
-            "elevationUnit": "METERS",
-            "longitude": -84.08333
-        },
-        {
             "elevation": 261.5,
-            "mindate": "1948-09-01",
+            "mindate": "1948-09-06",
             "maxdate": "2014-01-01",
             "latitude": 39.3418,
             "name": "GREENFIELD WWTP, OH US",
-            "datacoverage": 0.7846,
+            "datacoverage": 0.0351,
             "id": "COOP:333356",
             "elevationUnit": "METERS",
             "longitude": -83.3766
-        },
-        {
-            "elevation": 246.9,
-            "mindate": "1951-04-01",
-            "maxdate": "1951-06-01",
-            "latitude": 39.26667,
-            "name": "GREENHILLS, OH US",
-            "datacoverage": 1,
-            "id": "COOP:333364",
-            "elevationUnit": "METERS",
-            "longitude": -84.51667
         },
         {
             "elevation": 313.9,
@@ -1815,17 +1161,6 @@
             "id": "COOP:333375",
             "elevationUnit": "METERS",
             "longitude": -84.6504
-        },
-        {
-            "elevation": 274.9,
-            "mindate": "1948-08-01",
-            "maxdate": "1952-02-01",
-            "latitude": 40.1,
-            "name": "GREENVILLE HIGHWAY DEP, OH US",
-            "datacoverage": 0.4524,
-            "id": "COOP:333380",
-            "elevationUnit": "METERS",
-            "longitude": -84.61667
         },
         {
             "elevation": 274.3,
@@ -1927,17 +1262,6 @@
             "longitude": -83.6091
         },
         {
-            "elevation": 287.1,
-            "mindate": "1948-08-01",
-            "maxdate": "1964-06-01",
-            "latitude": 39.23333,
-            "name": "HILLSBORO WATER WORK, OH US",
-            "datacoverage": 0.8952,
-            "id": "COOP:333763",
-            "elevationUnit": "METERS",
-            "longitude": -83.61667
-        },
-        {
             "elevation": 374.9,
             "mindate": "1931-01-01",
             "maxdate": "2015-11-01",
@@ -1947,17 +1271,6 @@
             "id": "COOP:333780",
             "elevationUnit": "METERS",
             "longitude": -81.01333
-        },
-        {
-            "elevation": 217,
-            "mindate": "1931-01-01",
-            "maxdate": "1951-07-01",
-            "latitude": 41.25,
-            "name": "HOLGATE, OH US",
-            "datacoverage": 0.9758,
-            "id": "COOP:333801",
-            "elevationUnit": "METERS",
-            "longitude": -84.15
         },
         {
             "elevation": 213.4,
@@ -2026,17 +1339,6 @@
             "longitude": -82.70644
         },
         {
-            "elevation": 214,
-            "mindate": "1948-08-05",
-            "maxdate": "1960-05-27",
-            "latitude": 39.05,
-            "name": "JACKSON HIGHWAY DEPARTMENT, OH US",
-            "datacoverage": 0.4125,
-            "id": "COOP:334009",
-            "elevationUnit": "METERS",
-            "longitude": -82.65
-        },
-        {
             "elevation": 318.5,
             "mindate": "1998-06-01",
             "maxdate": "2011-12-01",
@@ -2046,28 +1348,6 @@
             "id": "COOP:334038",
             "elevationUnit": "METERS",
             "longitude": -83.5564
-        },
-        {
-            "elevation": 294.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1947-09-01",
-            "latitude": 41.73333,
-            "name": "JEFFERSON, OH US",
-            "datacoverage": 0.9504,
-            "id": "COOP:334047",
-            "elevationUnit": "METERS",
-            "longitude": -80.76667
-        },
-        {
-            "elevation": 305.1,
-            "mindate": "1948-08-01",
-            "maxdate": "1964-07-01",
-            "latitude": 40.63333,
-            "name": "KENTON OHIO POWER CO, OH US",
-            "datacoverage": 0.9742,
-            "id": "COOP:334184",
-            "elevationUnit": "METERS",
-            "longitude": -83.61667
         },
         {
             "elevation": 303.9,
@@ -2114,17 +1394,6 @@
             "longitude": -81.3
         },
         {
-            "elevation": 287.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1952-12-01",
-            "latitude": 41.11667,
-            "name": "LAKE MILTON, OH US",
-            "datacoverage": 0.6401,
-            "id": "COOP:334340",
-            "elevationUnit": "METERS",
-            "longitude": -80.98333
-        },
-        {
             "elevation": 310.9,
             "mindate": "1931-01-01",
             "maxdate": "1983-03-01",
@@ -2137,17 +1406,6 @@
         },
         {
             "elevation": 262.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1951-12-01",
-            "latitude": 39.73333,
-            "name": "LANCASTER 2 NW, OH US",
-            "datacoverage": 0.9842,
-            "id": "COOP:334378",
-            "elevationUnit": "METERS",
-            "longitude": -82.63333
-        },
-        {
-            "elevation": 262.1,
             "mindate": "1949-03-01",
             "maxdate": "1996-12-01",
             "latitude": 39.73333,
@@ -2156,94 +1414,6 @@
             "id": "COOP:334383",
             "elevationUnit": "METERS",
             "longitude": -82.63333
-        },
-        {
-            "elevation": 307.8,
-            "mindate": "1956-07-01",
-            "maxdate": "1961-06-01",
-            "latitude": 39.68333,
-            "name": "LANCASTER, OH US",
-            "datacoverage": 0.8168,
-            "id": "COOP:334387",
-            "elevationUnit": "METERS",
-            "longitude": -82.66667
-        },
-        {
-            "elevation": 278,
-            "mindate": "1956-07-01",
-            "maxdate": "1961-06-01",
-            "latitude": 39.71667,
-            "name": "LANCASTER 3 W, OH US",
-            "datacoverage": 0.8834,
-            "id": "COOP:334389",
-            "elevationUnit": "METERS",
-            "longitude": -82.65
-        },
-        {
-            "elevation": 274.9,
-            "mindate": "1956-07-01",
-            "maxdate": "1966-01-01",
-            "latitude": 39.76667,
-            "name": "LANCASTER 5 NW, OH US",
-            "datacoverage": 0.0647,
-            "id": "COOP:334391",
-            "elevationUnit": "METERS",
-            "longitude": -82.63333
-        },
-        {
-            "elevation": 287.1,
-            "mindate": "1956-09-01",
-            "maxdate": "1961-06-01",
-            "latitude": 39.73333,
-            "name": "LANCASTER 5 WNW, OH US",
-            "datacoverage": 0.9318,
-            "id": "COOP:334393",
-            "elevationUnit": "METERS",
-            "longitude": -82.7
-        },
-        {
-            "elevation": 345,
-            "mindate": "1956-07-03",
-            "maxdate": "1961-08-25",
-            "latitude": 39.7,
-            "name": "LANCASTER 5 WSW, OH US",
-            "datacoverage": 0.0628,
-            "id": "COOP:334395",
-            "elevationUnit": "METERS",
-            "longitude": -82.7
-        },
-        {
-            "elevation": 305.1,
-            "mindate": "1956-07-01",
-            "maxdate": "1961-06-01",
-            "latitude": 39.8,
-            "name": "LANCASTER 6 N, OH US",
-            "datacoverage": 0.7668,
-            "id": "COOP:334397",
-            "elevationUnit": "METERS",
-            "longitude": -82.61667
-        },
-        {
-            "elevation": 335.9,
-            "mindate": "1956-07-01",
-            "maxdate": "1961-06-01",
-            "latitude": 39.71667,
-            "name": "LANCASTER 6 W, OH US",
-            "datacoverage": 0.966,
-            "id": "COOP:334399",
-            "elevationUnit": "METERS",
-            "longitude": -82.71667
-        },
-        {
-            "elevation": 331.9,
-            "mindate": "1956-07-09",
-            "maxdate": "1961-08-25",
-            "latitude": 39.73333,
-            "name": "LANCASTER 7 WNW, OH US",
-            "datacoverage": 0.0659,
-            "id": "COOP:334401",
-            "elevationUnit": "METERS",
-            "longitude": -82.73333
         },
         {
             "elevation": 252.1,
@@ -2290,17 +1460,6 @@
             "longitude": -84.2398
         },
         {
-            "elevation": 223.1,
-            "mindate": "1948-08-01",
-            "maxdate": "1966-12-01",
-            "latitude": 39.43333,
-            "name": "LEBANON HIGHWAY DEPARTMENT, OH US",
-            "datacoverage": 0.8952,
-            "id": "COOP:334461",
-            "elevationUnit": "METERS",
-            "longitude": -84.2
-        },
-        {
             "elevation": 298.7,
             "mindate": "1936-06-01",
             "maxdate": "2014-01-01",
@@ -2335,25 +1494,14 @@
         },
         {
             "elevation": 265.2,
-            "mindate": "1948-08-01",
+            "mindate": "1948-08-17",
             "maxdate": "1989-11-27",
             "latitude": 40.75,
             "name": "LIMA WATER WORKS, OH US",
-            "datacoverage": 0.9479,
+            "datacoverage": 0.0427,
             "id": "COOP:334556",
             "elevationUnit": "METERS",
             "longitude": -84.08333
-        },
-        {
-            "elevation": 253,
-            "mindate": "1931-01-01",
-            "maxdate": "1936-06-01",
-            "latitude": 39.93333,
-            "name": "LINDEN HEIGHTS, OH US",
-            "datacoverage": 1,
-            "id": "COOP:334581",
-            "elevationUnit": "METERS",
-            "longitude": -83.35
         },
         {
             "elevation": 301.8,
@@ -2411,17 +1559,6 @@
             "longitude": -81.25
         },
         {
-            "elevation": 189,
-            "mindate": "1931-01-01",
-            "maxdate": "1952-06-01",
-            "latitude": 39.53333,
-            "name": "LOWELL LOCK 3, OH US",
-            "datacoverage": 0.973,
-            "id": "COOP:334736",
-            "elevationUnit": "METERS",
-            "longitude": -81.51667
-        },
-        {
             "elevation": 173.1,
             "mindate": "2015-01-01",
             "maxdate": "2015-11-01",
@@ -2434,25 +1571,14 @@
         },
         {
             "elevation": 235,
-            "mindate": "1948-08-01",
+            "mindate": "1948-08-18",
             "maxdate": "1975-08-01",
             "latitude": 41.7,
             "name": "LYONS HIGH SCHOOL, OH US",
-            "datacoverage": 0.3463,
+            "datacoverage": 0.0471,
             "id": "COOP:334789",
             "elevationUnit": "METERS",
             "longitude": -84.06667
-        },
-        {
-            "elevation": 171,
-            "mindate": "1951-04-01",
-            "maxdate": "1951-11-01",
-            "latitude": 39.15,
-            "name": "MADISONVILLE, OH US",
-            "datacoverage": 0.8732,
-            "id": "COOP:334824",
-            "elevationUnit": "METERS",
-            "longitude": -84.38333
         },
         {
             "elevation": 393.2,
@@ -2499,28 +1625,6 @@
             "longitude": -81.4329
         },
         {
-            "elevation": 253,
-            "mindate": "1931-01-01",
-            "maxdate": "1963-01-01",
-            "latitude": 39.43333,
-            "name": "MARIETTA WATER WORKS, OH US",
-            "datacoverage": 0.9168,
-            "id": "COOP:334929",
-            "elevationUnit": "METERS",
-            "longitude": -81.46667
-        },
-        {
-            "elevation": 299,
-            "mindate": "1931-01-01",
-            "maxdate": "1949-11-01",
-            "latitude": 40.58333,
-            "name": "MARION, OH US",
-            "datacoverage": 0.9956,
-            "id": "COOP:334937",
-            "elevationUnit": "METERS",
-            "longitude": -83.13333
-        },
-        {
             "elevation": 294.1,
             "mindate": "1948-08-01",
             "maxdate": "2015-11-01",
@@ -2554,17 +1658,6 @@
             "longitude": -83.367
         },
         {
-            "elevation": 305.1,
-            "mindate": "1948-09-01",
-            "maxdate": "1960-06-01",
-            "latitude": 40.23333,
-            "name": "MARYSVILLE HIGHWAY DEP, OH US",
-            "datacoverage": 0.9469,
-            "id": "COOP:334984",
-            "elevationUnit": "METERS",
-            "longitude": -83.36667
-        },
-        {
             "elevation": 283.5,
             "mindate": "1948-08-01",
             "maxdate": "2014-01-01",
@@ -2574,50 +1667,6 @@
             "id": "COOP:334992",
             "elevationUnit": "METERS",
             "longitude": -81.5333
-        },
-        {
-            "elevation": 189,
-            "mindate": "1948-08-01",
-            "maxdate": "1954-08-26",
-            "latitude": 41.61667,
-            "name": "MAUMEE EXPERIMENTAL FARM, OH US",
-            "datacoverage": 0.9742,
-            "id": "COOP:335007",
-            "elevationUnit": "METERS",
-            "longitude": -83.65
-        },
-        {
-            "elevation": 360,
-            "mindate": "1948-07-01",
-            "maxdate": "1949-01-01",
-            "latitude": 40.88333,
-            "name": "MAXIMO, OH US",
-            "datacoverage": 0.7078,
-            "id": "COOP:335015",
-            "elevationUnit": "METERS",
-            "longitude": -81.18333
-        },
-        {
-            "elevation": 225.6,
-            "mindate": "1931-01-01",
-            "maxdate": "1944-10-01",
-            "latitude": 39.25,
-            "name": "MCARTHUR, OH US",
-            "datacoverage": 0.9999,
-            "id": "COOP:335021",
-            "elevationUnit": "METERS",
-            "longitude": -82.48333
-        },
-        {
-            "elevation": 235,
-            "mindate": "1948-08-01",
-            "maxdate": "1957-10-01",
-            "latitude": 39.25,
-            "name": "MC ARTHUR HIGHWAY DEPARTMENT, OH US",
-            "datacoverage": 0.9536,
-            "id": "COOP:335024",
-            "elevationUnit": "METERS",
-            "longitude": -82.46667
         },
         {
             "elevation": 239.3,
@@ -2640,17 +1689,6 @@
             "id": "COOP:335041",
             "elevationUnit": "METERS",
             "longitude": -81.8561
-        },
-        {
-            "elevation": 281,
-            "mindate": "1946-05-01",
-            "maxdate": "1952-12-01",
-            "latitude": 40.4,
-            "name": "MECCA, OH US",
-            "datacoverage": 0.8493,
-            "id": "COOP:335090",
-            "elevationUnit": "METERS",
-            "longitude": -80.73333
         },
         {
             "elevation": 212.4,
@@ -2686,17 +1724,6 @@
             "longitude": -84.4071
         },
         {
-            "elevation": 174,
-            "mindate": "1951-04-01",
-            "maxdate": "1969-02-01",
-            "latitude": 39.16667,
-            "name": "MILFORD, OH US",
-            "datacoverage": 0.9814,
-            "id": "COOP:335265",
-            "elevationUnit": "METERS",
-            "longitude": -84.3
-        },
-        {
             "elevation": 158.5,
             "mindate": "1969-04-01",
             "maxdate": "2004-07-01",
@@ -2706,28 +1733,6 @@
             "id": "COOP:335268",
             "elevationUnit": "METERS",
             "longitude": -84.28667
-        },
-        {
-            "elevation": 317,
-            "mindate": "1948-11-01",
-            "maxdate": "1949-01-01",
-            "latitude": 41,
-            "name": "MILL CREEK, OH US",
-            "datacoverage": 0.9925,
-            "id": "COOP:335282",
-            "elevationUnit": "METERS",
-            "longitude": -80.98333
-        },
-        {
-            "elevation": 246.9,
-            "mindate": "1950-07-01",
-            "maxdate": "1953-04-01",
-            "latitude": 40.56667,
-            "name": "MILLERSBURG, OH US",
-            "datacoverage": 0.3074,
-            "id": "COOP:335296",
-            "elevationUnit": "METERS",
-            "longitude": -81.91667
         },
         {
             "elevation": 249.6,
@@ -2819,17 +1824,6 @@
         },
         {
             "elevation": 332.2,
-            "mindate": "1949-05-01",
-            "maxdate": "1951-12-01",
-            "latitude": 40.55,
-            "name": "MOUNT GILEAD LAKES P, OH US",
-            "datacoverage": 0.999,
-            "id": "COOP:335532",
-            "elevationUnit": "METERS",
-            "longitude": -82.81667
-        },
-        {
-            "elevation": 332.2,
             "mindate": "1952-01-01",
             "maxdate": "1995-12-01",
             "latitude": 40.55,
@@ -2840,70 +1834,26 @@
             "longitude": -82.81667
         },
         {
-            "elevation": 259.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1955-11-01",
-            "latitude": 39.28333,
-            "name": "MOUNT HEALTHY EXPERIMENTAL FA, OH US",
-            "datacoverage": 0.9934,
-            "id": "COOP:335543",
-            "elevationUnit": "METERS",
-            "longitude": -84.56667
-        },
-        {
             "elevation": 281,
             "mindate": "1948-08-01",
             "maxdate": "1979-05-01",
             "latitude": 39.73333,
             "name": "MOUNT STERLING GAS P, OH US",
-            "datacoverage": 0.9216,
+            "datacoverage": 0.0421,
             "id": "COOP:335573",
             "elevationUnit": "METERS",
             "longitude": -83.28333
         },
         {
             "elevation": 298.7,
-            "mindate": "1931-01-01",
+            "mindate": "1971-09-01",
             "maxdate": "2014-01-01",
             "latitude": 40.37915,
             "name": "MOUNT VERNON, OH US",
-            "datacoverage": 0.9127,
+            "datacoverage": 0.03,
             "id": "COOP:335585",
             "elevationUnit": "METERS",
             "longitude": -82.4685
-        },
-        {
-            "elevation": 228.9,
-            "mindate": "1951-04-01",
-            "maxdate": "1952-12-01",
-            "latitude": 39.08333,
-            "name": "CINCINNATI MOUNT WASH, OH US",
-            "datacoverage": 0.8547,
-            "id": "COOP:335590",
-            "elevationUnit": "METERS",
-            "longitude": -84.38333
-        },
-        {
-            "elevation": 317,
-            "mindate": "1948-01-01",
-            "maxdate": "1955-07-01",
-            "latitude": 40.93333,
-            "name": "NANKIN, OH US",
-            "datacoverage": 0.7115,
-            "id": "COOP:335656",
-            "elevationUnit": "METERS",
-            "longitude": -82.28333
-        },
-        {
-            "elevation": 207.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1961-06-01",
-            "latitude": 41.3939,
-            "name": "NAPOLEON, OH US",
-            "datacoverage": 0.9974,
-            "id": "COOP:335664",
-            "elevationUnit": "METERS",
-            "longitude": -84.1144
         },
         {
             "elevation": 204.2,
@@ -2937,17 +1887,6 @@
             "id": "COOP:335718",
             "elevationUnit": "METERS",
             "longitude": -82.2441
-        },
-        {
-            "elevation": 256,
-            "mindate": "1948-08-01",
-            "maxdate": "1956-12-01",
-            "latitude": 40.05,
-            "name": "NEWARK POWER PLANT, OH US",
-            "datacoverage": 0.9216,
-            "id": "COOP:335742",
-            "elevationUnit": "METERS",
-            "longitude": -82.4
         },
         {
             "elevation": 254.5,
@@ -3016,23 +1955,12 @@
             "longitude": -82.21559
         },
         {
-            "elevation": 274.9,
-            "mindate": "1948-09-01",
-            "maxdate": "1949-11-01",
-            "latitude": 41.58333,
-            "name": "SOUTH NEW LYME, OH US",
-            "datacoverage": 1,
-            "id": "COOP:335864",
-            "elevationUnit": "METERS",
-            "longitude": -80.8
-        },
-        {
             "elevation": 189,
-            "mindate": "1948-08-01",
+            "mindate": "1948-08-04",
             "maxdate": "1975-04-01",
             "latitude": 39.46667,
             "name": "NEW MATAMORAS DAM 16, OH US",
-            "datacoverage": 0.8689,
+            "datacoverage": 0.0644,
             "id": "COOP:335878",
             "elevationUnit": "METERS",
             "longitude": -81.11667
@@ -3047,17 +1975,6 @@
             "id": "COOP:335894",
             "elevationUnit": "METERS",
             "longitude": -81.43167
-        },
-        {
-            "elevation": 296,
-            "mindate": "1937-01-01",
-            "maxdate": "1952-12-01",
-            "latitude": 40.48333,
-            "name": "NEW PHILADELPHIA 3 E, OH US",
-            "datacoverage": 0.7396,
-            "id": "COOP:335899",
-            "elevationUnit": "METERS",
-            "longitude": -81.38333
         },
         {
             "elevation": 280.4,
@@ -3093,28 +2010,6 @@
             "longitude": -82.25
         },
         {
-            "elevation": 348.1,
-            "mindate": "1944-03-01",
-            "maxdate": "1952-12-01",
-            "latitude": 40.85,
-            "name": "NORTH GEORGETOWN, OH US",
-            "datacoverage": 0.9335,
-            "id": "COOP:336050",
-            "elevationUnit": "METERS",
-            "longitude": -80.98333
-        },
-        {
-            "elevation": 172.2,
-            "mindate": "1931-01-01",
-            "maxdate": "1961-07-01",
-            "latitude": 38.41667,
-            "name": "NORTH KENOVA, OH US",
-            "datacoverage": 0.9537,
-            "id": "COOP:336061",
-            "elevationUnit": "METERS",
-            "longitude": -82.5
-        },
-        {
             "elevation": 204.2,
             "mindate": "1894-03-01",
             "maxdate": "2015-11-01",
@@ -3131,7 +2026,7 @@
             "maxdate": "2014-01-01",
             "latitude": 41.17654,
             "name": "NORWALK 5 SE, OH US",
-            "datacoverage": 0.8061,
+            "datacoverage": 0.0296,
             "id": "COOP:336123",
             "elevationUnit": "METERS",
             "longitude": -82.56185
@@ -3159,17 +2054,6 @@
             "longitude": -81.78333
         },
         {
-            "elevation": 217,
-            "mindate": "1953-04-01",
-            "maxdate": "1955-05-01",
-            "latitude": 41.08333,
-            "name": "OAKWOOD, OH US",
-            "datacoverage": 0.885,
-            "id": "COOP:336188",
-            "elevationUnit": "METERS",
-            "longitude": -84.38333
-        },
-        {
             "elevation": 248.7,
             "mindate": "1893-06-01",
             "maxdate": "2015-11-01",
@@ -3179,17 +2063,6 @@
             "id": "COOP:336196",
             "elevationUnit": "METERS",
             "longitude": -82.2187
-        },
-        {
-            "elevation": 220.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1949-11-01",
-            "latitude": 41.01667,
-            "name": "OTTAWA, OH US",
-            "datacoverage": 0.9956,
-            "id": "COOP:336337",
-            "elevationUnit": "METERS",
-            "longitude": -84.05
         },
         {
             "elevation": 222.5,
@@ -3214,34 +2087,23 @@
             "longitude": -83.2
         },
         {
-            "elevation": 274.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1950-11-01",
-            "latitude": 39.51667,
-            "name": "OXFORD, OH US",
-            "datacoverage": 0.8494,
-            "id": "COOP:336371",
-            "elevationUnit": "METERS",
-            "longitude": -84.75
-        },
-        {
             "elevation": 238.7,
-            "mindate": "1948-08-01",
+            "mindate": "1948-08-13",
             "maxdate": "2014-01-01",
             "latitude": 39.5068,
             "name": "OXFORD, OH US",
-            "datacoverage": 0.5003,
+            "datacoverage": 0.0454,
             "id": "COOP:336375",
             "elevationUnit": "METERS",
             "longitude": -84.7185
         },
         {
             "elevation": 214,
-            "mindate": "1948-08-01",
+            "mindate": "1948-08-05",
             "maxdate": "1977-06-01",
             "latitude": 41.71667,
             "name": "PAINESVILLE HIGHWAY DE, OH US",
-            "datacoverage": 0.7899,
+            "datacoverage": 0.0591,
             "id": "COOP:336384",
             "elevationUnit": "METERS",
             "longitude": -81.21667
@@ -3291,17 +2153,6 @@
             "longitude": -84.5919
         },
         {
-            "elevation": 228.9,
-            "mindate": "1948-08-01",
-            "maxdate": "1950-09-01",
-            "latitude": 41.08333,
-            "name": "PAYNE W WKS, OH US",
-            "datacoverage": 0.959,
-            "id": "COOP:336475",
-            "elevationUnit": "METERS",
-            "longitude": -84.73333
-        },
-        {
             "elevation": 248.4,
             "mindate": "1948-08-04",
             "maxdate": "1985-04-01",
@@ -3324,17 +2175,6 @@
             "longitude": -83.4
         },
         {
-            "elevation": 253,
-            "mindate": "1936-05-01",
-            "maxdate": "1962-07-01",
-            "latitude": 38.93333,
-            "name": "PEEBLES 1 S, OH US",
-            "datacoverage": 0.9809,
-            "id": "COOP:336498",
-            "elevationUnit": "METERS",
-            "longitude": -83.41667
-        },
-        {
             "elevation": 262.1,
             "mindate": "1984-11-01",
             "maxdate": "1984-12-01",
@@ -3344,39 +2184,6 @@
             "id": "COOP:336512",
             "elevationUnit": "METERS",
             "longitude": -82.1018
-        },
-        {
-            "elevation": 210.9,
-            "mindate": "1948-05-01",
-            "maxdate": "1950-01-21",
-            "latitude": 41.78333,
-            "name": "PERRY CAA AIRPORT, OH US",
-            "datacoverage": 0.8982,
-            "id": "COOP:336545",
-            "elevationUnit": "METERS",
-            "longitude": -81.1
-        },
-        {
-            "elevation": 278,
-            "mindate": "1931-01-01",
-            "maxdate": "1949-01-01",
-            "latitude": 41.26667,
-            "name": "PHALANX STATION, OH US",
-            "datacoverage": 0.5575,
-            "id": "COOP:336554",
-            "elevationUnit": "METERS",
-            "longitude": -80.95
-        },
-        {
-            "elevation": 228.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1965-09-01",
-            "latitude": 39.86667,
-            "name": "PHILO, OH US",
-            "datacoverage": 0.9904,
-            "id": "COOP:336590",
-            "elevationUnit": "METERS",
-            "longitude": -81.9
         },
         {
             "elevation": 310.9,
@@ -3478,17 +2285,6 @@
             "longitude": -82.7
         },
         {
-            "elevation": 180.1,
-            "mindate": "1946-07-01",
-            "maxdate": "1969-09-01",
-            "latitude": 39.01667,
-            "name": "PORTLAND DAM 21, OH US",
-            "datacoverage": 0.9641,
-            "id": "COOP:336773",
-            "elevationUnit": "METERS",
-            "longitude": -81.76667
-        },
-        {
             "elevation": 164.6,
             "mindate": "1931-01-01",
             "maxdate": "2015-11-01",
@@ -3511,28 +2307,6 @@
             "longitude": -82.99694
         },
         {
-            "elevation": 164.9,
-            "mindate": "1948-08-01",
-            "maxdate": "1953-01-01",
-            "latitude": 38.735,
-            "name": "PORTSMOUTH WATER WOR, OH US",
-            "datacoverage": 0.9479,
-            "id": "COOP:336791",
-            "elevationUnit": "METERS",
-            "longitude": -82.99861
-        },
-        {
-            "elevation": 203.9,
-            "mindate": "1953-07-01",
-            "maxdate": "1955-06-25",
-            "latitude": 39,
-            "name": "PORTSMOUTH AREA WEATHER BUREAU, OH US",
-            "datacoverage": 1,
-            "id": "COOP:336796",
-            "elevationUnit": "METERS",
-            "longitude": -83
-        },
-        {
             "elevation": 278.9,
             "mindate": "1931-01-01",
             "maxdate": "2011-12-01",
@@ -3544,28 +2318,6 @@
             "longitude": -83.2
         },
         {
-            "elevation": 176.8,
-            "mindate": "1931-01-01",
-            "maxdate": "1997-09-01",
-            "latitude": 41.65,
-            "name": "PUT IN BAY, OH US",
-            "datacoverage": 0.895,
-            "id": "COOP:336882",
-            "elevationUnit": "METERS",
-            "longitude": -82.8
-        },
-        {
-            "elevation": 232,
-            "mindate": "1954-01-01",
-            "maxdate": "1957-04-01",
-            "latitude": 39.13333,
-            "name": "RADCLIFF 1 E, OH US",
-            "datacoverage": 0.9011,
-            "id": "COOP:336917",
-            "elevationUnit": "METERS",
-            "longitude": -82.38333
-        },
-        {
             "elevation": 337.4,
             "mindate": "1948-08-01",
             "maxdate": "2015-11-01",
@@ -3575,17 +2327,6 @@
             "id": "COOP:336949",
             "elevationUnit": "METERS",
             "longitude": -81.2833
-        },
-        {
-            "elevation": 328.9,
-            "mindate": "1948-09-01",
-            "maxdate": "1950-02-28",
-            "latitude": 41.13333,
-            "name": "RAVENNA PUMP STATION, OH US",
-            "datacoverage": 0.9947,
-            "id": "COOP:336954",
-            "elevationUnit": "METERS",
-            "longitude": -81.23333
         },
         {
             "elevation": 281.9,
@@ -3622,11 +2363,11 @@
         },
         {
             "elevation": 245.4,
-            "mindate": "1948-08-01",
+            "mindate": "1948-08-04",
             "maxdate": "1984-10-01",
             "latitude": 40.68333,
             "name": "ROCKFORD WATER DEPARTMENT, OH US",
-            "datacoverage": 0.237,
+            "datacoverage": 0.038,
             "id": "COOP:337179",
             "elevationUnit": "METERS",
             "longitude": -84.65
@@ -3655,22 +2396,22 @@
         },
         {
             "elevation": 309.4,
-            "mindate": "1948-08-01",
+            "mindate": "1948-08-18",
             "maxdate": "1983-01-01",
             "latitude": 40.51667,
             "name": "RUSSELLS POINT LAKEV, OH US",
-            "datacoverage": 0.4213,
+            "datacoverage": 0.0433,
             "id": "COOP:337333",
             "elevationUnit": "METERS",
             "longitude": -83.9
         },
         {
             "elevation": 300.2,
-            "mindate": "1948-08-01",
+            "mindate": "1948-08-14",
             "maxdate": "1986-03-01",
             "latitude": 39.21667,
             "name": "ST MARTIN URSULINE S, OH US",
-            "datacoverage": 0.8952,
+            "datacoverage": 0.0573,
             "id": "COOP:337375",
             "elevationUnit": "METERS",
             "longitude": -83.88333
@@ -3685,28 +2426,6 @@
             "id": "COOP:337383",
             "elevationUnit": "METERS",
             "longitude": -84.4374
-        },
-        {
-            "elevation": 264.9,
-            "mindate": "1949-05-01",
-            "maxdate": "1958-05-01",
-            "latitude": 40.53333,
-            "name": "ST MARYS WATER WORKS, OH US",
-            "datacoverage": 0.9652,
-            "id": "COOP:337388",
-            "elevationUnit": "METERS",
-            "longitude": -84.4
-        },
-        {
-            "elevation": 366.1,
-            "mindate": "1948-08-01",
-            "maxdate": "1955-06-01",
-            "latitude": 40.13333,
-            "name": "ST PARIS, OH US",
-            "datacoverage": 0.7109,
-            "id": "COOP:337396",
-            "elevationUnit": "METERS",
-            "longitude": -83.96667
         },
         {
             "elevation": 377.6,
@@ -3791,7 +2510,7 @@
             "maxdate": "2014-01-01",
             "latitude": 40.2983,
             "name": "SIDNEY HIGHWAY DEPARTMENT, OH US",
-            "datacoverage": 1,
+            "datacoverage": 0.0403,
             "id": "COOP:337698",
             "elevationUnit": "METERS",
             "longitude": -84.1633
@@ -3813,7 +2532,7 @@
             "maxdate": "1972-08-01",
             "latitude": 41.58333,
             "name": "SOUTH NEW LYME, OH US",
-            "datacoverage": 0.1823,
+            "datacoverage": 0.0599,
             "id": "COOP:337854",
             "elevationUnit": "METERS",
             "longitude": -80.8
@@ -3828,39 +2547,6 @@
             "id": "COOP:337857",
             "elevationUnit": "METERS",
             "longitude": -82.5936
-        },
-        {
-            "elevation": 310.9,
-            "mindate": "1943-05-01",
-            "maxdate": "1969-11-01",
-            "latitude": 39.91667,
-            "name": "SPRINGFIELD, OH US",
-            "datacoverage": 0.9999,
-            "id": "COOP:337925",
-            "elevationUnit": "METERS",
-            "longitude": -83.81667
-        },
-        {
-            "elevation": 310.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1950-07-01",
-            "latitude": 39.91667,
-            "name": "SPRINGFIELD ELMWOOD, OH US",
-            "datacoverage": 0.9959,
-            "id": "COOP:337927",
-            "elevationUnit": "METERS",
-            "longitude": -83.78333
-        },
-        {
-            "elevation": 284.1,
-            "mindate": "1948-01-01",
-            "maxdate": "1951-12-01",
-            "latitude": 39.91667,
-            "name": "SPRINGFIELD MAD RIVE, OH US",
-            "datacoverage": 0.4583,
-            "id": "COOP:337930",
-            "elevationUnit": "METERS",
-            "longitude": -83.85
         },
         {
             "elevation": 274.9,
@@ -3890,7 +2576,7 @@
             "maxdate": "1979-03-01",
             "latitude": 40.36667,
             "name": "STEUBENVILLE WWTP, OH US",
-            "datacoverage": 0.5947,
+            "datacoverage": 0.0543,
             "id": "COOP:338020",
             "elevationUnit": "METERS",
             "longitude": -80.61667
@@ -3951,17 +2637,6 @@
             "longitude": -81.2279
         },
         {
-            "elevation": 292.9,
-            "mindate": "1946-04-01",
-            "maxdate": "1955-07-01",
-            "latitude": 39.9,
-            "name": "THORNVILLE, OH US",
-            "datacoverage": 0.9375,
-            "id": "COOP:338303",
-            "elevationUnit": "METERS",
-            "longitude": -82.41667
-        },
-        {
             "elevation": 225.6,
             "mindate": "1931-01-01",
             "maxdate": "2015-11-01",
@@ -3974,11 +2649,11 @@
         },
         {
             "elevation": 228.6,
-            "mindate": "1959-07-01",
+            "mindate": "1967-02-01",
             "maxdate": "1984-10-01",
             "latitude": 41.1,
             "name": "TIFFIN W WKS, OH US",
-            "datacoverage": 0.9925,
+            "datacoverage": 0.0166,
             "id": "COOP:338318",
             "elevationUnit": "METERS",
             "longitude": -83.18333
@@ -3995,17 +2670,6 @@
             "longitude": -84.169
         },
         {
-            "elevation": 189,
-            "mindate": "1950-02-01",
-            "maxdate": "1955-08-01",
-            "latitude": 41.65,
-            "name": "TOLEDO ACME STATION, OH US",
-            "datacoverage": 0.958,
-            "id": "COOP:338351",
-            "elevationUnit": "METERS",
-            "longitude": -83.51667
-        },
-        {
             "elevation": 176.2,
             "mindate": "1950-08-01",
             "maxdate": "1971-06-01",
@@ -4015,17 +2679,6 @@
             "id": "COOP:338353",
             "elevationUnit": "METERS",
             "longitude": -83.48333
-        },
-        {
-            "elevation": 189.6,
-            "mindate": "1948-01-01",
-            "maxdate": "1955-02-01",
-            "latitude": 41.56306,
-            "name": "TOLEDO METCALF FIELD, OH US",
-            "datacoverage": 0.9308,
-            "id": "COOP:338356",
-            "elevationUnit": "METERS",
-            "longitude": -83.47639
         },
         {
             "elevation": 205.4,
@@ -4061,17 +2714,6 @@
             "longitude": -82.05812
         },
         {
-            "elevation": 253,
-            "mindate": "1951-10-01",
-            "maxdate": "1963-03-01",
-            "latitude": 40,
-            "name": "UPPER ARLINGTON, OH US",
-            "datacoverage": 1,
-            "id": "COOP:338526",
-            "elevationUnit": "METERS",
-            "longitude": -83.06667
-        },
-        {
             "elevation": 260.3,
             "mindate": "1931-01-01",
             "maxdate": "2015-11-01",
@@ -4084,11 +2726,11 @@
         },
         {
             "elevation": 249.9,
-            "mindate": "1948-08-01",
+            "mindate": "1948-08-12",
             "maxdate": "2014-01-01",
             "latitude": 40.84194,
             "name": "UPPER SANDUSKY W WKS, OH US",
-            "datacoverage": 0.9461,
+            "datacoverage": 0.035,
             "id": "COOP:338539",
             "elevationUnit": "METERS",
             "longitude": -83.2775
@@ -4127,17 +2769,6 @@
             "longitude": -82.52
         },
         {
-            "elevation": 305.7,
-            "mindate": "1948-01-01",
-            "maxdate": "1950-02-28",
-            "latitude": 39.9064,
-            "name": "DAYTON INTERNATIONAL AIRPORT, OH US",
-            "datacoverage": 1,
-            "id": "COOP:338598",
-            "elevationUnit": "METERS",
-            "longitude": -84.2185
-        },
-        {
             "elevation": 240.8,
             "mindate": "1931-01-01",
             "maxdate": "2015-11-01",
@@ -4158,28 +2789,6 @@
             "id": "COOP:338642",
             "elevationUnit": "METERS",
             "longitude": -84.4955
-        },
-        {
-            "elevation": 180.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1953-03-01",
-            "latitude": 41.36667,
-            "name": "VICKERY 2 NW, OH US",
-            "datacoverage": 0.9776,
-            "id": "COOP:338656",
-            "elevationUnit": "METERS",
-            "longitude": -82.96667
-        },
-        {
-            "elevation": 256.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1939-06-01",
-            "latitude": 40.366667,
-            "name": "WALHONDING, OH US",
-            "datacoverage": 1,
-            "id": "COOP:338725",
-            "elevationUnit": "METERS",
-            "longitude": -82.133333
         },
         {
             "elevation": 275.5,
@@ -4314,17 +2923,6 @@
             "longitude": -84.03333
         },
         {
-            "elevation": 192,
-            "mindate": "1949-03-01",
-            "maxdate": "1953-05-01",
-            "latitude": 41.68333,
-            "name": "WILLOUGHBY, OH US",
-            "datacoverage": 0.54,
-            "id": "COOP:339185",
-            "elevationUnit": "METERS",
-            "longitude": -81.38333
-        },
-        {
             "elevation": 195.1,
             "mindate": "1931-01-01",
             "maxdate": "1976-12-01",
@@ -4381,22 +2979,22 @@
         },
         {
             "elevation": 299,
-            "mindate": "1948-08-01",
+            "mindate": "1948-08-05",
             "maxdate": "2014-01-01",
             "latitude": 39.4391,
             "name": "WILMINGTON, OH US",
-            "datacoverage": 0.8426,
+            "datacoverage": 0.0402,
             "id": "COOP:339224",
             "elevationUnit": "METERS",
             "longitude": -83.8527
         },
         {
             "elevation": 371.9,
-            "mindate": "1948-08-01",
+            "mindate": "1948-08-11",
             "maxdate": "1994-05-01",
             "latitude": 39.78333,
             "name": "WOODSFIELD, OH US",
-            "datacoverage": 0.9479,
+            "datacoverage": 0.052,
             "id": "COOP:339298",
             "elevationUnit": "METERS",
             "longitude": -81.1
@@ -4422,50 +3020,6 @@
             "id": "COOP:339312",
             "elevationUnit": "METERS",
             "longitude": -81.9167
-        },
-        {
-            "elevation": 335.9,
-            "mindate": "1914-03-01",
-            "maxdate": "1959-06-01",
-            "latitude": 40.78333,
-            "name": "WOOSTER 2 SE, OH US",
-            "datacoverage": 0.9853,
-            "id": "COOP:339322",
-            "elevationUnit": "METERS",
-            "longitude": -81.93333
-        },
-        {
-            "elevation": 289.9,
-            "mindate": "1951-10-01",
-            "maxdate": "1951-12-01",
-            "latitude": 40.16667,
-            "name": "WORTHINGTON 5 N, OH US",
-            "datacoverage": 0.9925,
-            "id": "COOP:339332",
-            "elevationUnit": "METERS",
-            "longitude": -83.01667
-        },
-        {
-            "elevation": 249.9,
-            "mindate": "1948-08-01",
-            "maxdate": "1948-12-29",
-            "latitude": 39.83333,
-            "name": "DAYTON WRIGHT PATTERSON AFB, OH US",
-            "datacoverage": 0.7958,
-            "id": "COOP:339338",
-            "elevationUnit": "METERS",
-            "longitude": -84.05
-        },
-        {
-            "elevation": 256,
-            "mindate": "1948-08-01",
-            "maxdate": "1953-02-21",
-            "latitude": 39.73333,
-            "name": "XENIA, OH US",
-            "datacoverage": 0.7299,
-            "id": "COOP:339356",
-            "elevationUnit": "METERS",
-            "longitude": -83.93333
         },
         {
             "elevation": 249.9,
@@ -4513,25 +3067,14 @@
         },
         {
             "elevation": 213.4,
-            "mindate": "1931-01-01",
+            "mindate": "1948-08-11",
             "maxdate": "2014-01-01",
             "latitude": 39.9125,
             "name": "ZANESVILLE WWTP, OH US",
-            "datacoverage": 0.9789,
+            "datacoverage": 0.0353,
             "id": "COOP:339422",
             "elevationUnit": "METERS",
             "longitude": -82.0042
-        },
-        {
-            "elevation": 182.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1968-06-01",
-            "latitude": 39.15,
-            "name": "BELLEVILLE DAM 2O, OH US",
-            "datacoverage": 0.9934,
-            "id": "COOP:460645",
-            "elevationUnit": "METERS",
-            "longitude": -81.75
         },
         {
             "elevation": 158.5,
@@ -4554,28 +3097,6 @@
             "id": "COOP:466442",
             "elevationUnit": "METERS",
             "longitude": -80.6275
-        },
-        {
-            "elevation": 170.7,
-            "mindate": "1931-01-01",
-            "maxdate": "1937-08-01",
-            "latitude": 38.91667,
-            "name": "POINT PLEASANT DAM 25, OH US",
-            "datacoverage": 1,
-            "id": "COOP:467109",
-            "elevationUnit": "METERS",
-            "longitude": -82.13333
-        },
-        {
-            "elevation": 182.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1968-06-01",
-            "latitude": 39.25,
-            "name": "WASHINGTON DAM 19, OH US",
-            "datacoverage": 0.9956,
-            "id": "COOP:469309",
-            "elevationUnit": "METERS",
-            "longitude": -81.7
         },
         {
             "elevation": 196.6,
@@ -10738,94 +9259,6 @@
             "longitude": -83.133989
         },
         {
-            "elevation": 299,
-            "mindate": "1906-04-01",
-            "maxdate": "1976-03-31",
-            "latitude": 40.38333,
-            "name": "SALAMONIA, IN US",
-            "datacoverage": 0.9869,
-            "id": "GHCND:USC00127747",
-            "elevationUnit": "METERS",
-            "longitude": -84.86667
-        },
-        {
-            "elevation": 337.7,
-            "mindate": "1893-01-01",
-            "maxdate": "1894-04-30",
-            "latitude": 40.2,
-            "name": "UNION CITY, OH US",
-            "datacoverage": 0.8786,
-            "id": "GHCND:USC00128956",
-            "elevationUnit": "METERS",
-            "longitude": -84.8
-        },
-        {
-            "elevation": 170.7,
-            "mindate": "1896-01-01",
-            "maxdate": "2020-03-31",
-            "latitude": 38.45367,
-            "name": "ASHLAND, KY US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00150254",
-            "elevationUnit": "METERS",
-            "longitude": -82.61299
-        },
-        {
-            "elevation": 153,
-            "mindate": "1925-10-01",
-            "maxdate": "1963-01-13",
-            "latitude": 39.05,
-            "name": "BRENT DAM 36, OH US",
-            "datacoverage": 0.8861,
-            "id": "GHCND:USC00150978",
-            "elevationUnit": "METERS",
-            "longitude": -84.41667
-        },
-        {
-            "elevation": 165.8,
-            "mindate": "1887-07-01",
-            "maxdate": "1916-12-31",
-            "latitude": 38.46667,
-            "name": "CATLETTSBURG, OH US",
-            "datacoverage": 0.9999,
-            "id": "GHCND:USC00151386",
-            "elevationUnit": "METERS",
-            "longitude": -82.58333
-        },
-        {
-            "elevation": 160.9,
-            "mindate": "1919-10-01",
-            "maxdate": "1961-07-31",
-            "latitude": 38.64812,
-            "name": "GREENUP LOCKS AND DAM, KY US",
-            "datacoverage": 0.9462,
-            "id": "GHCND:USC00153443",
-            "elevationUnit": "METERS",
-            "longitude": -82.86115
-        },
-        {
-            "elevation": 160.9,
-            "mindate": "1961-03-01",
-            "maxdate": "2020-05-17",
-            "latitude": 38.64812,
-            "name": "GREENUP LOCKS AND DAM, KY US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00154848",
-            "elevationUnit": "METERS",
-            "longitude": -82.86115
-        },
-        {
-            "elevation": 253,
-            "mindate": "1893-01-01",
-            "maxdate": "1916-04-30",
-            "latitude": 40.66667,
-            "name": "CLINTON, OH US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00201634",
-            "elevationUnit": "METERS",
-            "longitude": -83.96667
-        },
-        {
             "elevation": 329.2,
             "mindate": "1970-10-01",
             "maxdate": "2010-12-31",
@@ -10848,37 +9281,6 @@
             "longitude": -82.68333
         },
         {
-            "elevation": 320,
-            "mindate": "1926-10-01",
-            "maxdate": "1949-01-31",
-            "latitude": 40.93333,
-            "name": "ALLIANCE, OH US",
-            "datacoverage": 0.9993,
-            "id": "GHCND:USC00330102",
-            "elevationUnit": "METERS",
-            "longitude": -81.1
-        },
-        {
-            "elevation": 321.6,
-            "mindate": "1948-08-01",
-            "maxdate": "1951-09-30",
-            "latitude": 40.9551,
-            "name": "ALLIANCE 3 NNW, OH US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00330107",
-            "elevationUnit": "METERS",
-            "longitude": -81.1167
-        },
-        {
-            "mindate": "1948-08-01",
-            "maxdate": "1949-09-24",
-            "latitude": 39.21667,
-            "name": "ALMA SCIOTO TRAILS F, OH US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00330115",
-            "longitude": -82.96667
-        },
-        {
             "elevation": 201.2,
             "mindate": "1953-06-01",
             "maxdate": "1988-09-30",
@@ -10899,28 +9301,6 @@
             "id": "GHCND:USC00330165",
             "elevationUnit": "METERS",
             "longitude": -80.55556
-        },
-        {
-            "elevation": 305.1,
-            "mindate": "1948-01-01",
-            "maxdate": "1966-12-31",
-            "latitude": 41.16667,
-            "name": "APCO RAVENNA ARSENAL, OH US",
-            "datacoverage": 0.9999,
-            "id": "GHCND:USC00330195",
-            "elevationUnit": "METERS",
-            "longitude": -81.08333
-        },
-        {
-            "elevation": 320,
-            "mindate": "1893-01-01",
-            "maxdate": "1967-12-31",
-            "latitude": 40.86667,
-            "name": "ASHLAND, OH US",
-            "datacoverage": 0.8378,
-            "id": "GHCND:USC00330251",
-            "elevationUnit": "METERS",
-            "longitude": -82.3
         },
         {
             "elevation": 385.6,
@@ -10967,17 +9347,6 @@
             "longitude": -82.0995
         },
         {
-            "elevation": 345,
-            "mindate": "1894-05-01",
-            "maxdate": "1949-01-31",
-            "latitude": 41.01667,
-            "name": "ATWATER CENTER, OH US",
-            "datacoverage": 0.8747,
-            "id": "GHCND:USC00330290",
-            "elevationUnit": "METERS",
-            "longitude": -81.16667
-        },
-        {
             "elevation": 289.6,
             "mindate": "1949-01-01",
             "maxdate": "1987-06-30",
@@ -10989,15 +9358,1654 @@
             "longitude": -81.28333
         },
         {
-            "elevation": 365.8,
-            "mindate": "1893-01-01",
-            "maxdate": "1897-07-31",
-            "latitude": 41.383333,
-            "name": "AUBURN, OH US",
+            "elevation": 323.1,
+            "mindate": "1946-06-01",
+            "maxdate": "1974-10-31",
+            "latitude": 40.43333,
+            "name": "BALTIC, OH US",
+            "datacoverage": 0.1613,
+            "id": "GHCND:USC00330386",
+            "elevationUnit": "METERS",
+            "longitude": -81.7
+        },
+        {
+            "elevation": 390.1,
+            "mindate": "1939-08-01",
+            "maxdate": "2010-12-31",
+            "latitude": 39.9916,
+            "name": "BARNESVILLE, OH US",
             "datacoverage": 1,
-            "id": "GHCND:USC00330315",
+            "id": "GHCND:USC00330430",
+            "elevationUnit": "METERS",
+            "longitude": -81.185
+        },
+        {
+            "elevation": 300.2,
+            "mindate": "1948-08-01",
+            "maxdate": "1987-06-30",
+            "latitude": 40.6335,
+            "name": "BEACH CITY LAKE, OH US",
+            "datacoverage": 0.9937,
+            "id": "GHCND:USC00330493",
+            "elevationUnit": "METERS",
+            "longitude": -81.5577
+        },
+        {
+            "elevation": 358.4,
+            "mindate": "1894-01-01",
+            "maxdate": "2020-05-15",
+            "latitude": 40.3535,
+            "name": "BELLEFONTAINE, OH US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00330563",
+            "elevationUnit": "METERS",
+            "longitude": -83.7754
+        },
+        {
+            "elevation": 184.1,
+            "mindate": "1968-08-01",
+            "maxdate": "2020-03-31",
+            "latitude": 39.11665,
+            "name": "BELLEVILLE LOCK AND DAM, OH US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00330573",
+            "elevationUnit": "METERS",
+            "longitude": -81.74284
+        },
+        {
+            "elevation": 317,
+            "mindate": "1948-08-01",
+            "maxdate": "2020-05-17",
+            "latitude": 41.1169,
+            "name": "BERLIN LAKE, OH US",
+            "datacoverage": 0.218,
+            "id": "GHCND:USC00330639",
+            "elevationUnit": "METERS",
+            "longitude": -81.0094
+        },
+        {
+            "elevation": 190.2,
+            "mindate": "1905-01-01",
+            "maxdate": "2020-05-15",
+            "latitude": 39.54747,
+            "name": "BEVERLY STP, OH US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00330676",
+            "elevationUnit": "METERS",
+            "longitude": -81.62835
+        },
+        {
+            "elevation": 299,
+            "mindate": "1949-01-01",
+            "maxdate": "1987-07-31",
+            "latitude": 40.65,
+            "name": "BOLIVAR DAM, OH US",
+            "datacoverage": 0.9807,
+            "id": "GHCND:USC00330823",
+            "elevationUnit": "METERS",
+            "longitude": -81.43333
+        },
+        {
+            "elevation": 214.9,
+            "mindate": "1949-06-01",
+            "maxdate": "1986-07-31",
+            "latitude": 39.26667,
+            "name": "BOURNEVILLE 1 SSW, OH US",
+            "datacoverage": 0.9731,
+            "id": "GHCND:USC00330854",
+            "elevationUnit": "METERS",
+            "longitude": -83.16667
+        },
+        {
+            "elevation": 205.7,
+            "mindate": "1893-06-01",
+            "maxdate": "2020-05-16",
+            "latitude": 41.3831,
+            "name": "BOWLING GREEN WWTP, OH US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00330862",
+            "elevationUnit": "METERS",
+            "longitude": -83.6111
+        },
+        {
+            "elevation": 222.5,
+            "mindate": "2006-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 41.4619,
+            "name": "BRYAN 2 SE, OH US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00331042",
+            "elevationUnit": "METERS",
+            "longitude": -84.5272
+        },
+        {
+            "elevation": 270.7,
+            "mindate": "1956-02-01",
+            "maxdate": "2020-05-17",
+            "latitude": 39.9522,
+            "name": "BUCKEYE LAKE 1 N, OH US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00331057",
+            "elevationUnit": "METERS",
+            "longitude": -82.482
+        },
+        {
+            "elevation": 291.1,
+            "mindate": "1893-05-01",
+            "maxdate": "2020-05-16",
+            "latitude": 40.8126,
+            "name": "BUCYRUS, OH US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00331072",
+            "elevationUnit": "METERS",
+            "longitude": -82.9698
+        },
+        {
+            "elevation": 384,
+            "mindate": "1893-06-01",
+            "maxdate": "2010-12-31",
+            "latitude": 40.26861,
+            "name": "CADIZ, OH US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00331152",
+            "elevationUnit": "METERS",
+            "longitude": -80.99806
+        },
+        {
+            "elevation": 268.2,
+            "mindate": "2000-12-01",
+            "maxdate": "2013-10-17",
+            "latitude": 39.7161,
+            "name": "CALDWELL 3 SE, OH US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00331175",
+            "elevationUnit": "METERS",
+            "longitude": -81.4642
+        },
+        {
+            "elevation": 298.7,
+            "mindate": "1936-01-01",
+            "maxdate": "1990-09-30",
+            "latitude": 39.81667,
+            "name": "CALDWELL 6 NW, OH US",
+            "datacoverage": 0.8661,
+            "id": "GHCND:USC00331178",
+            "elevationUnit": "METERS",
+            "longitude": -81.6
+        },
+        {
+            "elevation": 243.8,
+            "mindate": "1948-08-01",
+            "maxdate": "2020-04-01",
+            "latitude": 40.0111,
+            "name": "CAMBRIDGE, OH US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00331197",
+            "elevationUnit": "METERS",
+            "longitude": -81.5794
+        },
+        {
+            "elevation": 347.5,
+            "mindate": "1896-02-01",
+            "maxdate": "2014-05-01",
+            "latitude": 41.01667,
+            "name": "CANFIELD 1 S, OH US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00331245",
+            "elevationUnit": "METERS",
+            "longitude": -80.76667
+        },
+        {
+            "elevation": 250.5,
+            "mindate": "1963-11-01",
+            "maxdate": "2010-12-31",
+            "latitude": 39.14694,
+            "name": "CARPENTER 2 S, OH US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00331288",
+            "elevationUnit": "METERS",
+            "longitude": -82.21944
+        },
+        {
+            "elevation": 362.7,
+            "mindate": "1893-01-01",
+            "maxdate": "1987-10-31",
+            "latitude": 40.61667,
+            "name": "CARROLLTON 3 NNE, OH US",
+            "datacoverage": 0.5659,
+            "id": "GHCND:USC00331315",
+            "elevationUnit": "METERS",
+            "longitude": -81.06667
+        },
+        {
+            "elevation": 264,
+            "mindate": "1956-01-01",
+            "maxdate": "2020-03-31",
+            "latitude": 40.56899,
+            "name": "CELINA 3 NE, OH US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00331390",
+            "elevationUnit": "METERS",
+            "longitude": -84.537
+        },
+        {
+            "elevation": 365.8,
+            "mindate": "1902-06-01",
+            "maxdate": "1981-08-31",
+            "latitude": 40.3,
+            "name": "CENTERBURG, OH US",
+            "datacoverage": 0.9405,
+            "id": "GHCND:USC00331399",
+            "elevationUnit": "METERS",
+            "longitude": -82.7
+        },
+        {
+            "elevation": 367.3,
+            "mindate": "1950-01-01",
+            "maxdate": "2020-05-15",
+            "latitude": 40.2913,
+            "name": "CENTERBURG 2 SE, OH US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00331404",
+            "elevationUnit": "METERS",
+            "longitude": -82.6546
+        },
+        {
+            "elevation": 344.4,
+            "mindate": "1945-06-01",
+            "maxdate": "2020-05-15",
+            "latitude": 41.58732,
+            "name": "CHARDON, OH US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00331458",
+            "elevationUnit": "METERS",
+            "longitude": -81.19138
+        },
+        {
+            "elevation": 312.4,
+            "mindate": "1939-01-01",
+            "maxdate": "1987-07-31",
+            "latitude": 40.7333,
+            "name": "CHARLES MILL LAKE, OH US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00331466",
+            "elevationUnit": "METERS",
+            "longitude": -82.3667
+        },
+        {
+            "elevation": 271.6,
+            "mindate": "1965-01-01",
+            "maxdate": "2017-09-30",
+            "latitude": 39.1547,
+            "name": "CHEVIOT, OH US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00331515",
+            "elevationUnit": "METERS",
+            "longitude": -84.6233
+        },
+        {
+            "elevation": 260,
+            "mindate": "2016-05-08",
+            "maxdate": "2020-05-17",
+            "latitude": 39.15141,
+            "name": "CHEVIOT 3 W, OH US",
+            "datacoverage": 0.9626,
+            "id": "GHCND:USC00331516",
+            "elevationUnit": "METERS",
+            "longitude": -84.67699
+        },
+        {
+            "elevation": 189,
+            "mindate": "1897-11-01",
+            "maxdate": "1972-02-29",
+            "latitude": 39.33333,
+            "name": "CHILLICOTHE, OH US",
+            "datacoverage": 0.9785,
+            "id": "GHCND:USC00331523",
+            "elevationUnit": "METERS",
+            "longitude": -82.96667
+        },
+        {
+            "elevation": 232,
+            "mindate": "2017-04-29",
+            "maxdate": "2020-05-17",
+            "latitude": 39.38354,
+            "name": "CHILLICOTHE 6 NW, OH US",
+            "datacoverage": 0.8278,
+            "id": "GHCND:USC00331524",
+            "elevationUnit": "METERS",
+            "longitude": -83.07734
+        },
+        {
+            "elevation": 198.1,
+            "mindate": "1972-01-01",
+            "maxdate": "2010-12-31",
+            "latitude": 39.37444,
+            "name": "CHILLICOTHE MND CITY, OH US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00331528",
+            "elevationUnit": "METERS",
+            "longitude": -83.00361
+        },
+        {
+            "elevation": 146.3,
+            "mindate": "1920-01-01",
+            "maxdate": "2020-03-31",
+            "latitude": 38.79741,
+            "name": "CHILO MELDAHL LOCKS AND DAM, KY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00331536",
+            "elevationUnit": "METERS",
+            "longitude": -84.17314
+        },
+        {
+            "elevation": 359.7,
+            "mindate": "1895-01-01",
+            "maxdate": "2015-05-01",
+            "latitude": 41.0517,
+            "name": "CHIPPEWA LAKE, OH US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00331541",
+            "elevationUnit": "METERS",
+            "longitude": -81.9361
+        },
+        {
+            "elevation": 152.4,
+            "mindate": "1974-05-01",
+            "maxdate": "2014-01-31",
+            "latitude": 39.1169,
+            "name": "CINCINNATI FERNBANK, OH US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00331550",
+            "elevationUnit": "METERS",
+            "longitude": -84.6961
+        },
+        {
+            "elevation": 246.9,
+            "mindate": "1965-04-01",
+            "maxdate": "1974-08-31",
+            "latitude": 39.06667,
+            "name": "CINCINNATI CHERRY GR, OH US",
+            "datacoverage": 0.9821,
+            "id": "GHCND:USC00331573",
+            "elevationUnit": "METERS",
+            "longitude": -84.33333
+        },
+        {
+            "elevation": 205.7,
+            "mindate": "1894-11-01",
+            "maxdate": "2020-05-17",
+            "latitude": 39.6104,
+            "name": "CIRCLEVILLE, OH US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00331592",
+            "elevationUnit": "METERS",
+            "longitude": -82.9555
+        },
+        {
+            "elevation": 195.1,
+            "mindate": "1901-07-01",
+            "maxdate": "1974-08-31",
+            "latitude": 39.8,
+            "name": "CLARINGTON LOCK 14, OH US",
+            "datacoverage": 0.7187,
+            "id": "GHCND:USC00331600",
+            "elevationUnit": "METERS",
+            "longitude": -80.83333
+        },
+        {
+            "elevation": 280.4,
+            "mindate": "1976-03-01",
+            "maxdate": "1994-06-30",
+            "latitude": 41.15,
+            "name": "CLARKSFIELD 1 SE, OH US",
+            "datacoverage": 0.95,
+            "id": "GHCND:USC00331612",
+            "elevationUnit": "METERS",
+            "longitude": -82.38333
+        },
+        {
+            "elevation": 281.6,
+            "mindate": "1948-08-01",
+            "maxdate": "1987-07-31",
+            "latitude": 40.26667,
+            "name": "CLENDENING LAKE, OH US",
+            "datacoverage": 0.9872,
+            "id": "GHCND:USC00331642",
+            "elevationUnit": "METERS",
+            "longitude": -81.28333
+        },
+        {
+            "elevation": 210,
+            "mindate": "1971-01-01",
+            "maxdate": "1978-05-31",
+            "latitude": 41.48333,
+            "name": "CLEVELAND LUTHERAN M, OH US",
+            "datacoverage": 0.9991,
+            "id": "GHCND:USC00331652",
+            "elevationUnit": "METERS",
+            "longitude": -81.71667
+        },
+        {
+            "elevation": 253.3,
+            "mindate": "1975-10-01",
+            "maxdate": "2020-05-11",
+            "latitude": 40.0604,
+            "name": "COLUMBUS HAP CREMEAN WP, OH US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00331777",
+            "elevationUnit": "METERS",
+            "longitude": -82.8941
+        },
+        {
+            "elevation": 225.2,
+            "mindate": "2009-05-01",
+            "maxdate": "2020-05-16",
+            "latitude": 39.8469,
+            "name": "COLUMBUS PARSONS AVENUE, OH US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00331779",
+            "elevationUnit": "METERS",
+            "longitude": -82.9872
+        },
+        {
+            "elevation": 267.9,
+            "mindate": "1952-01-01",
+            "maxdate": "1983-06-30",
+            "latitude": 39.95,
+            "name": "COLUMBUS SULLIVANT A, OH US",
+            "datacoverage": 0.9895,
+            "id": "GHCND:USC00331781",
+            "elevationUnit": "METERS",
+            "longitude": -83.11667
+        },
+        {
+            "elevation": 244.1,
+            "mindate": "1957-06-01",
+            "maxdate": "1970-02-28",
+            "latitude": 40,
+            "name": "COLUMBUS UNIVERSITY, OH US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00331782",
+            "elevationUnit": "METERS",
+            "longitude": -83.05
+        },
+        {
+            "elevation": 231.6,
+            "mindate": "1946-01-01",
+            "maxdate": "2015-01-31",
+            "latitude": 39.9047,
+            "name": "COLUMBUS VLY CROSSING, OH US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00331783",
+            "elevationUnit": "METERS",
+            "longitude": -82.9199
+        },
+        {
+            "elevation": 225.6,
+            "mindate": "2011-01-01",
+            "maxdate": "2020-05-13",
+            "latitude": 40.0251,
+            "name": "COLUMBUS WCMH, OH US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00331785",
+            "elevationUnit": "METERS",
+            "longitude": -83.027
+        },
+        {
+            "elevation": 344.4,
+            "mindate": "1982-01-01",
+            "maxdate": "1994-12-31",
+            "latitude": 40.9342,
+            "name": "CONGRESS 1 NE, OH US",
+            "datacoverage": 0.8597,
+            "id": "GHCND:USC00331805",
+            "elevationUnit": "METERS",
+            "longitude": -82.0402
+        },
+        {
+            "elevation": 237.7,
+            "mindate": "1948-09-01",
+            "maxdate": "2011-12-31",
+            "latitude": 40.22111,
+            "name": "COOPERDALE, OH US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00331858",
+            "elevationUnit": "METERS",
+            "longitude": -82.06667
+        },
+        {
+            "elevation": 231.6,
+            "mindate": "1908-02-01",
+            "maxdate": "2020-03-31",
+            "latitude": 40.2403,
+            "name": "COSHOCTON WPC PLANT, OH US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00331890",
+            "elevationUnit": "METERS",
+            "longitude": -81.871
+        },
+        {
+            "elevation": 347.5,
+            "mindate": "1956-04-01",
+            "maxdate": "2015-12-18",
+            "latitude": 40.37083,
+            "name": "COSHOCTON ARGICULTURAL RESEARCH STATION, OH US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00331905",
+            "elevationUnit": "METERS",
+            "longitude": -81.79083
+        },
+        {
+            "elevation": 295.7,
+            "mindate": "1963-01-01",
+            "maxdate": "2020-03-31",
+            "latitude": 40.43894,
+            "name": "DANVILLE 2 W, OH US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00332044",
+            "elevationUnit": "METERS",
+            "longitude": -82.30423
+        },
+        {
+            "elevation": 219.5,
+            "mindate": "1893-06-01",
+            "maxdate": "2020-03-31",
+            "latitude": 39.7633,
+            "name": "DAYTON MCD, OH US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00332067",
+            "elevationUnit": "METERS",
+            "longitude": -84.1911
+        },
+        {
+            "elevation": 262.1,
+            "mindate": "1970-07-01",
+            "maxdate": "1987-06-30",
+            "latitude": 39.6254,
+            "name": "DEER CREEK LAKE, OH US",
+            "datacoverage": 0.9853,
+            "id": "GHCND:USC00332090",
+            "elevationUnit": "METERS",
+            "longitude": -83.2132
+        },
+        {
+            "elevation": 213.4,
+            "mindate": "1893-01-01",
+            "maxdate": "2020-05-12",
+            "latitude": 41.2783,
+            "name": "DEFIANCE, OH US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00332098",
+            "elevationUnit": "METERS",
+            "longitude": -84.3847
+        },
+        {
+            "elevation": 280.4,
+            "mindate": "1896-02-01",
+            "maxdate": "2010-12-31",
+            "latitude": 40.3175,
+            "name": "DELAWARE, OH US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00332119",
+            "elevationUnit": "METERS",
+            "longitude": -83.07389
+        },
+        {
+            "elevation": 283.5,
+            "mindate": "1949-01-01",
+            "maxdate": "2020-05-15",
+            "latitude": 40.35383,
+            "name": "DELAWARE LAKE, OH US",
+            "datacoverage": 0.9935,
+            "id": "GHCND:USC00332124",
+            "elevationUnit": "METERS",
+            "longitude": -83.0706
+        },
+        {
+            "elevation": 262.1,
+            "mindate": "1909-08-01",
+            "maxdate": "1981-12-31",
+            "latitude": 40.4056,
+            "name": "DENNISON WATER WORKS, OH US",
+            "datacoverage": 0.7825,
+            "id": "GHCND:USC00332156",
+            "elevationUnit": "METERS",
+            "longitude": -81.3435
+        },
+        {
+            "elevation": 262.1,
+            "mindate": "1982-09-01",
+            "maxdate": "2020-05-17",
+            "latitude": 40.4056,
+            "name": "DENNISON WATER WORKS, OH US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00332160",
+            "elevationUnit": "METERS",
+            "longitude": -81.3435
+        },
+        {
+            "elevation": 278,
+            "mindate": "1975-10-01",
+            "maxdate": "1988-09-30",
+            "latitude": 39.76667,
+            "name": "DERBY, OH US",
+            "datacoverage": 0.9558,
+            "id": "GHCND:USC00332170",
+            "elevationUnit": "METERS",
+            "longitude": -83.2
+        },
+        {
+            "elevation": 249.9,
+            "mindate": "1968-01-01",
+            "maxdate": "1987-07-31",
+            "latitude": 40,
+            "name": "DILLON LAKE, OH US",
+            "datacoverage": 0.7618,
+            "id": "GHCND:USC00332205",
+            "elevationUnit": "METERS",
+            "longitude": -82.08333
+        },
+        {
+            "elevation": 298.7,
+            "mindate": "1956-01-01",
+            "maxdate": "2018-05-31",
+            "latitude": 41.68333,
+            "name": "DORSET, OH US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00332251",
+            "elevationUnit": "METERS",
+            "longitude": -80.66667
+        },
+        {
+            "elevation": 283.5,
+            "mindate": "1949-01-01",
+            "maxdate": "1987-07-31",
+            "latitude": 40.5622,
+            "name": "DOVER DAM, OH US",
+            "datacoverage": 0.9828,
+            "id": "GHCND:USC00332272",
+            "elevationUnit": "METERS",
+            "longitude": -81.4092
+        },
+        {
+            "elevation": 305.4,
+            "mindate": "1915-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 39.7328,
+            "name": "EATON, OH US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00332485",
+            "elevationUnit": "METERS",
+            "longitude": -84.6353
+        },
+        {
+            "elevation": 264.3,
+            "mindate": "2016-12-01",
+            "maxdate": "2020-05-16",
+            "latitude": 41.4981,
+            "name": "EDON 4 S, OH US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00332513",
+            "elevationUnit": "METERS",
+            "longitude": -84.7744
+        },
+        {
+            "elevation": 182.9,
+            "mindate": "2011-01-01",
+            "maxdate": "2020-05-15",
+            "latitude": 41.49139,
+            "name": "ELMORE 5 E, OH US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00332585",
+            "elevationUnit": "METERS",
+            "longitude": -83.21472
+        },
+        {
+            "elevation": 222.5,
+            "mindate": "1949-01-01",
+            "maxdate": "2014-10-31",
+            "latitude": 41.38139,
+            "name": "ELYRIA 3 E, OH US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00332599",
+            "elevationUnit": "METERS",
+            "longitude": -82.05583
+        },
+        {
+            "elevation": 235.3,
+            "mindate": "1975-05-01",
+            "maxdate": "2020-05-16",
+            "latitude": 41.3048,
+            "name": "ELYRIA 4 S, OH US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00332603",
+            "elevationUnit": "METERS",
+            "longitude": -82.1174
+        },
+        {
+            "elevation": 249.9,
+            "mindate": "1948-05-01",
+            "maxdate": "2010-12-31",
+            "latitude": 39.55861,
+            "name": "ENTERPRISE, OH US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00332626",
+            "elevationUnit": "METERS",
+            "longitude": -82.48417
+        },
+        {
+            "elevation": 175.3,
+            "mindate": "1985-10-01",
+            "maxdate": "2020-05-11",
+            "latitude": 39.3477,
+            "name": "FAIRFIELD, OH US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00332651",
+            "elevationUnit": "METERS",
+            "longitude": -84.5897
+        },
+        {
+            "elevation": 300.5,
+            "mindate": "1976-09-01",
+            "maxdate": "2010-12-31",
+            "latitude": 39.21222,
+            "name": "FAYETTEVILLE, OH US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00332727",
+            "elevationUnit": "METERS",
+            "longitude": -83.87778
+        },
+        {
+            "elevation": 152.4,
+            "mindate": "1920-01-01",
+            "maxdate": "1974-04-30",
+            "latitude": 39.1169,
+            "name": "CINCINNATI FERNBANK, OH US",
+            "datacoverage": 0.9985,
+            "id": "GHCND:USC00332766",
+            "elevationUnit": "METERS",
+            "longitude": -84.6961
+        },
+        {
+            "elevation": 234.1,
+            "mindate": "1893-06-01",
+            "maxdate": "2020-05-10",
+            "latitude": 41.0461,
+            "name": "FINDLAY WPCC, OH US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00332791",
+            "elevationUnit": "METERS",
+            "longitude": -83.6622
+        },
+        {
+            "elevation": 256,
+            "mindate": "1975-05-01",
+            "maxdate": "2010-12-31",
+            "latitude": 41.2814,
+            "name": "FLORENCE 3 SSE, OH US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00332847",
+            "elevationUnit": "METERS",
+            "longitude": -82.403
+        },
+        {
+            "elevation": 285,
+            "mindate": "1997-07-01",
+            "maxdate": "2020-05-15",
+            "latitude": 40.41,
+            "name": "FORT RECOVERY, OH US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00332895",
+            "elevationUnit": "METERS",
+            "longitude": -84.7856
+        },
+        {
+            "elevation": 207,
+            "mindate": "1923-01-01",
+            "maxdate": "2020-05-01",
+            "latitude": 39.5536,
+            "name": "FRANKLIN, OH US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00332928",
+            "elevationUnit": "METERS",
+            "longitude": -84.319
+        },
+        {
+            "elevation": 204.2,
+            "mindate": "2019-03-01",
+            "maxdate": "2020-03-31",
+            "latitude": 39.5528,
+            "name": "FRANKLIN MCD, OH US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00332929",
+            "elevationUnit": "METERS",
+            "longitude": -84.3146
+        },
+        {
+            "elevation": 320,
+            "mindate": "1939-08-01",
+            "maxdate": "2012-03-31",
+            "latitude": 40.41667,
+            "name": "FREDERICKTOWN 4 S, OH US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00332956",
+            "elevationUnit": "METERS",
+            "longitude": -82.53333
+        },
+        {
+            "elevation": 182.9,
+            "mindate": "1901-07-01",
+            "maxdate": "2020-05-11",
+            "latitude": 41.3331,
+            "name": "FREMONT, OH US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00332974",
+            "elevationUnit": "METERS",
+            "longitude": -83.1189
+        },
+        {
+            "elevation": 202.4,
+            "mindate": "1996-01-01",
+            "maxdate": "2012-04-30",
+            "latitude": 41.31194,
+            "name": "FREMONT AG STATION, OH US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00332976",
+            "elevationUnit": "METERS",
+            "longitude": -83.17194
+        },
+        {
+            "elevation": 356.6,
+            "mindate": "1948-08-01",
+            "maxdate": "2020-05-17",
+            "latitude": 40.7231,
+            "name": "GALION WATER WORKS, OH US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00333021",
+            "elevationUnit": "METERS",
+            "longitude": -82.7999
+        },
+        {
+            "elevation": 176.2,
+            "mindate": "1928-06-01",
+            "maxdate": "2020-05-17",
+            "latitude": 38.82075,
+            "name": "GALLIPOLIS, OH US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00333029",
+            "elevationUnit": "METERS",
+            "longitude": -82.18171
+        },
+        {
+            "elevation": 284.1,
+            "mindate": "1971-01-01",
+            "maxdate": "1978-03-31",
+            "latitude": 41.41667,
+            "name": "GARFIELD HEIGHTS, OH US",
+            "datacoverage": 0.9504,
+            "id": "GHCND:USC00333071",
+            "elevationUnit": "METERS",
+            "longitude": -81.6
+        },
+        {
+            "elevation": 228.9,
+            "mindate": "1970-01-01",
+            "maxdate": "1983-11-22",
+            "latitude": 41.75,
+            "name": "GENEVA 3 S, OH US",
+            "datacoverage": 0.9444,
+            "id": "GHCND:USC00333095",
+            "elevationUnit": "METERS",
+            "longitude": -80.95
+        },
+        {
+            "elevation": 224.9,
+            "mindate": "1948-08-01",
+            "maxdate": "2020-03-31",
+            "latitude": 39.6361,
+            "name": "GERMANTOWN DAM, OH US",
+            "datacoverage": 0.9995,
+            "id": "GHCND:USC00333120",
+            "elevationUnit": "METERS",
+            "longitude": -84.4015
+        },
+        {
+            "elevation": 190.8,
+            "mindate": "1945-05-17",
+            "maxdate": "2019-11-30",
+            "latitude": 41.4167,
+            "name": "GRAND RAPIDS, OH US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00333292",
+            "elevationUnit": "METERS",
+            "longitude": -83.8667
+        },
+        {
+            "elevation": 261.5,
+            "mindate": "1893-01-01",
+            "maxdate": "2020-04-30",
+            "latitude": 39.3418,
+            "name": "GREENFIELD WWTP, OH US",
+            "datacoverage": 0.1651,
+            "id": "GHCND:USC00333356",
+            "elevationUnit": "METERS",
+            "longitude": -83.3766
+        },
+        {
+            "elevation": 313.9,
+            "mindate": "1893-01-01",
+            "maxdate": "2020-05-13",
+            "latitude": 40.1032,
+            "name": "GREENVILLE WATER PLANT, OH US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00333375",
+            "elevationUnit": "METERS",
+            "longitude": -84.6504
+        },
+        {
+            "elevation": 274.3,
+            "mindate": "1946-03-01",
+            "maxdate": "2020-05-16",
+            "latitude": 40.55167,
+            "name": "GREER, OH US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00333393",
+            "elevationUnit": "METERS",
+            "longitude": -82.20139
+        },
+        {
+            "elevation": 222.5,
+            "mindate": "1955-06-01",
+            "maxdate": "2020-05-17",
+            "latitude": 41.0193,
+            "name": "GROVER HILL, OH US",
+            "datacoverage": 0.9931,
+            "id": "GHCND:USC00333421",
+            "elevationUnit": "METERS",
+            "longitude": -84.4771
+        },
+        {
+            "elevation": 179.8,
+            "mindate": "1909-05-09",
+            "maxdate": "1971-09-30",
+            "latitude": 39.4,
+            "name": "HAMILTON 2, OH US",
+            "datacoverage": 0.9403,
+            "id": "GHCND:USC00333478",
+            "elevationUnit": "METERS",
+            "longitude": -84.56667
+        },
+        {
+            "elevation": 179.8,
+            "mindate": "1971-10-01",
+            "maxdate": "2010-12-31",
+            "latitude": 39.4,
+            "name": "HAMILTON 2, OH US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00333482",
+            "elevationUnit": "METERS",
+            "longitude": -84.56667
+        },
+        {
+            "elevation": 175.3,
+            "mindate": "1913-01-01",
+            "maxdate": "1985-09-30",
+            "latitude": 39.3477,
+            "name": "FAIRFIELD, OH US",
+            "datacoverage": 0.9286,
+            "id": "GHCND:USC00333483",
+            "elevationUnit": "METERS",
+            "longitude": -84.5897
+        },
+        {
+            "elevation": 189,
+            "mindate": "1975-04-01",
+            "maxdate": "2020-05-17",
+            "latitude": 39.6667,
+            "name": "HANNIBAL LOCKS AND DAM, OH US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00333500",
+            "elevationUnit": "METERS",
+            "longitude": -80.8667
+        },
+        {
+            "elevation": 228.6,
+            "mindate": "1965-07-01",
+            "maxdate": "2020-05-07",
+            "latitude": 41.28743,
+            "name": "HICKSVILLE, OH US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00333722",
+            "elevationUnit": "METERS",
+            "longitude": -84.75967
+        },
+        {
+            "elevation": 290.5,
+            "mindate": "1893-01-01",
+            "maxdate": "2020-04-30",
+            "latitude": 39.2334,
+            "name": "HILLSBORO, OH US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00333758",
+            "elevationUnit": "METERS",
+            "longitude": -83.6091
+        },
+        {
+            "elevation": 374.9,
+            "mindate": "1893-06-01",
+            "maxdate": "2020-04-01",
+            "latitude": 41.30722,
+            "name": "HIRAM, OH US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00333780",
+            "elevationUnit": "METERS",
+            "longitude": -81.01333
+        },
+        {
+            "elevation": 371.9,
+            "mindate": "1974-03-01",
+            "maxdate": "2010-12-31",
+            "latitude": 40.32389,
+            "name": "HOPEDALE, OH US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00333838",
+            "elevationUnit": "METERS",
+            "longitude": -80.89917
+        },
+        {
+            "elevation": 213.4,
+            "mindate": "1952-01-01",
+            "maxdate": "2012-05-31",
+            "latitude": 41.21667,
+            "name": "HOYTVILLE 2 NE, OH US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00333874",
+            "elevationUnit": "METERS",
+            "longitude": -83.76667
+        },
+        {
+            "elevation": 292.9,
+            "mindate": "1975-05-01",
+            "maxdate": "1978-11-30",
+            "latitude": 41.11667,
+            "name": "HUNTINGTON, OH US",
+            "datacoverage": 0.5809,
+            "id": "GHCND:USC00333908",
+            "elevationUnit": "METERS",
+            "longitude": -82.23333
+        },
+        {
+            "elevation": 315.2,
+            "mindate": "1948-12-01",
+            "maxdate": "2020-05-17",
+            "latitude": 40.47996,
+            "name": "HUNTSVILLE 3 N, OH US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00333915",
+            "elevationUnit": "METERS",
+            "longitude": -83.81278
+        },
+        {
+            "elevation": 164.9,
+            "mindate": "1900-01-01",
+            "maxdate": "1982-06-30",
+            "latitude": 38.53333,
+            "name": "IRONTON, OH US",
+            "datacoverage": 0.9879,
+            "id": "GHCND:USC00333971",
+            "elevationUnit": "METERS",
+            "longitude": -82.68333
+        },
+        {
+            "elevation": 204.2,
+            "mindate": "1982-07-01",
+            "maxdate": "1985-12-31",
+            "latitude": 38.53333,
+            "name": "IRONTON 1 NE, OH US",
+            "datacoverage": 0.9987,
+            "id": "GHCND:USC00333975",
+            "elevationUnit": "METERS",
+            "longitude": -82.66667
+        },
+        {
+            "elevation": 307.8,
+            "mindate": "1941-04-01",
+            "maxdate": "2010-12-31",
+            "latitude": 40.11667,
+            "name": "IRWIN, OH US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00333987",
+            "elevationUnit": "METERS",
+            "longitude": -83.48333
+        },
+        {
+            "elevation": 257.6,
+            "mindate": "1914-03-01",
+            "maxdate": "2020-05-17",
+            "latitude": 39.07908,
+            "name": "JACKSON 3 NW, OH US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00334004",
+            "elevationUnit": "METERS",
+            "longitude": -82.70644
+        },
+        {
+            "elevation": 318.5,
+            "mindate": "1998-06-01",
+            "maxdate": "2010-12-31",
+            "latitude": 39.6369,
+            "name": "JEFFERSONVILLE 1 S, OH US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00334038",
+            "elevationUnit": "METERS",
+            "longitude": -83.5564
+        },
+        {
+            "elevation": 303.9,
+            "mindate": "1893-01-01",
+            "maxdate": "2020-05-15",
+            "latitude": 40.64851,
+            "name": "KENTON, OH US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00334189",
+            "elevationUnit": "METERS",
+            "longitude": -83.606
+        },
+        {
+            "elevation": 232.3,
+            "mindate": "1912-07-01",
+            "maxdate": "2020-05-17",
+            "latitude": 39.3531,
+            "name": "KINGS MILLS, OH US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00334238",
+            "elevationUnit": "METERS",
+            "longitude": -84.2602
+        },
+        {
+            "elevation": 228,
+            "mindate": "1988-01-01",
+            "maxdate": "2014-05-01",
+            "latitude": 41.61667,
+            "name": "KIRTLAND HOLDEN, OH US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00334258",
             "elevationUnit": "METERS",
             "longitude": -81.3
+        },
+        {
+            "elevation": 313.9,
+            "mindate": "1994-01-01",
+            "maxdate": "2010-12-31",
+            "latitude": 41.61667,
+            "name": "KIRTLAND HOLDEN 2, OH US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00334260",
+            "elevationUnit": "METERS",
+            "longitude": -81.3
+        },
+        {
+            "elevation": 249.3,
+            "mindate": "1975-11-01",
+            "maxdate": "2012-12-31",
+            "latitude": 41.25,
+            "name": "LAGRANGE 1 NE, OH US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00334319",
+            "elevationUnit": "METERS",
+            "longitude": -82.1
+        },
+        {
+            "elevation": 310.9,
+            "mindate": "1914-03-01",
+            "maxdate": "1983-03-31",
+            "latitude": 40.51667,
+            "name": "LAKEVIEW 3 NE, OH US",
+            "datacoverage": 0.9867,
+            "id": "GHCND:USC00334363",
+            "elevationUnit": "METERS",
+            "longitude": -83.88333
+        },
+        {
+            "elevation": 262.1,
+            "mindate": "1936-01-01",
+            "maxdate": "2010-12-31",
+            "latitude": 39.73333,
+            "name": "LANCASTER 2 NW, OH US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00334383",
+            "elevationUnit": "METERS",
+            "longitude": -82.63333
+        },
+        {
+            "elevation": 252.1,
+            "mindate": "1974-04-01",
+            "maxdate": "2020-05-12",
+            "latitude": 39.7156,
+            "name": "LANCASTER, OH US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00334403",
+            "elevationUnit": "METERS",
+            "longitude": -82.6073
+        },
+        {
+            "elevation": 283.5,
+            "mindate": "1917-01-01",
+            "maxdate": "1991-06-30",
+            "latitude": 40.58333,
+            "name": "LA RUE, OH US",
+            "datacoverage": 0.9392,
+            "id": "GHCND:USC00334409",
+            "elevationUnit": "METERS",
+            "longitude": -83.38333
+        },
+        {
+            "elevation": 231.6,
+            "mindate": "1951-10-01",
+            "maxdate": "2020-05-17",
+            "latitude": 39.4706,
+            "name": "LAURELVILLE, OH US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00334434",
+            "elevationUnit": "METERS",
+            "longitude": -82.7344
+        },
+        {
+            "elevation": 298.7,
+            "mindate": "1949-01-01",
+            "maxdate": "1987-06-30",
+            "latitude": 40.4709,
+            "name": "LEESVILLE LAKE, OH US",
+            "datacoverage": 0.9872,
+            "id": "GHCND:USC00334473",
+            "elevationUnit": "METERS",
+            "longitude": -81.1955
+        },
+        {
+            "elevation": 259.1,
+            "mindate": "1901-04-01",
+            "maxdate": "2020-05-15",
+            "latitude": 40.7247,
+            "name": "LIMA WWTP, OH US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00334551",
+            "elevationUnit": "METERS",
+            "longitude": -84.1294
+        },
+        {
+            "elevation": 301.8,
+            "mindate": "1951-12-01",
+            "maxdate": "1988-09-30",
+            "latitude": 39.78333,
+            "name": "LITHOPOLIS 2 S, OH US",
+            "datacoverage": 0.9909,
+            "id": "GHCND:USC00334616",
+            "elevationUnit": "METERS",
+            "longitude": -82.81667
+        },
+        {
+            "elevation": 220.1,
+            "mindate": "1948-08-01",
+            "maxdate": "2020-05-17",
+            "latitude": 39.5326,
+            "name": "LOGAN, OH US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00334672",
+            "elevationUnit": "METERS",
+            "longitude": -82.3939
+        },
+        {
+            "elevation": 341.4,
+            "mindate": "1918-04-01",
+            "maxdate": "2020-05-17",
+            "latitude": 39.8972,
+            "name": "LONDON FISH HATCHERY, OH US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00334681",
+            "elevationUnit": "METERS",
+            "longitude": -83.5096
+        },
+        {
+            "elevation": 335.3,
+            "mindate": "1974-05-01",
+            "maxdate": "1988-11-30",
+            "latitude": 39.88333,
+            "name": "LONDON WWTP, OH US",
+            "datacoverage": 0.9995,
+            "id": "GHCND:USC00334686",
+            "elevationUnit": "METERS",
+            "longitude": -83.43333
+        },
+        {
+            "elevation": 356.6,
+            "mindate": "1946-01-01",
+            "maxdate": "2011-12-31",
+            "latitude": 40.83333,
+            "name": "LOUISVILLE, OH US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00334728",
+            "elevationUnit": "METERS",
+            "longitude": -81.25
+        },
+        {
+            "elevation": 173.1,
+            "mindate": "2015-01-01",
+            "maxdate": "2020-05-11",
+            "latitude": 38.8845,
+            "name": "LUCASVILLE, OH US",
+            "datacoverage": 0.998,
+            "id": "GHCND:USC00334770",
+            "elevationUnit": "METERS",
+            "longitude": -82.9955
+        },
+        {
+            "elevation": 302.1,
+            "mindate": "1974-02-01",
+            "maxdate": "1979-11-30",
+            "latitude": 40.65,
+            "name": "MAGNOLIA, OH US",
+            "datacoverage": 0.9579,
+            "id": "GHCND:USC00334826",
+            "elevationUnit": "METERS",
+            "longitude": -81.3
+        },
+        {
+            "elevation": 164.6,
+            "mindate": "2018-10-23",
+            "maxdate": "2020-03-31",
+            "latitude": 38.70951,
+            "name": "MANCHESTER 5 ENE, OH US",
+            "datacoverage": 0.942,
+            "id": "GHCND:USC00334830",
+            "elevationUnit": "METERS",
+            "longitude": -83.51862
+        },
+        {
+            "elevation": 411.5,
+            "mindate": "1899-03-01",
+            "maxdate": "2020-05-15",
+            "latitude": 40.76667,
+            "name": "MANSFIELD 5 W, OH US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00334874",
+            "elevationUnit": "METERS",
+            "longitude": -82.61667
+        },
+        {
+            "elevation": 338.9,
+            "mindate": "1975-10-01",
+            "maxdate": "1981-11-02",
+            "latitude": 40.41667,
+            "name": "MARENGO 1 NW, OH US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00334915",
+            "elevationUnit": "METERS",
+            "longitude": -82.81667
+        },
+        {
+            "elevation": 185.9,
+            "mindate": "1931-07-01",
+            "maxdate": "2013-12-31",
+            "latitude": 39.4108,
+            "name": "MARIETTA LOCK 1, OH US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00334924",
+            "elevationUnit": "METERS",
+            "longitude": -81.4536
+        },
+        {
+            "elevation": 185.9,
+            "mindate": "1963-01-01",
+            "maxdate": "2020-05-16",
+            "latitude": 39.4087,
+            "name": "MARIETTA WWTP, OH US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00334927",
+            "elevationUnit": "METERS",
+            "longitude": -81.4329
+        },
+        {
+            "elevation": 294.1,
+            "mindate": "1936-01-01",
+            "maxdate": "2020-01-01",
+            "latitude": 40.6167,
+            "name": "MARION 2 N, OH US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00334942",
+            "elevationUnit": "METERS",
+            "longitude": -83.1333
+        },
+        {
+            "elevation": 341.4,
+            "mindate": "1946-03-01",
+            "maxdate": "2010-12-31",
+            "latitude": 40.88333,
+            "name": "MARSHALLVILLE 1 SSW, OH US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00334967",
+            "elevationUnit": "METERS",
+            "longitude": -81.73333
+        },
+        {
+            "elevation": 302.4,
+            "mindate": "1917-01-01",
+            "maxdate": "2020-04-13",
+            "latitude": 40.2411,
+            "name": "MARYSVILLE, OH US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00334979",
+            "elevationUnit": "METERS",
+            "longitude": -83.367
+        },
+        {
+            "elevation": 360,
+            "mindate": "1948-01-01",
+            "maxdate": "1973-09-30",
+            "latitude": 40.88333,
+            "name": "MAXIMO, OH US",
+            "datacoverage": 0.1485,
+            "id": "GHCND:USC00335015",
+            "elevationUnit": "METERS",
+            "longitude": -81.18333
+        },
+        {
+            "elevation": 239.3,
+            "mindate": "1957-05-01",
+            "maxdate": "2011-08-31",
+            "latitude": 39.2503,
+            "name": "MC ARTHUR, OH US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00335029",
+            "elevationUnit": "METERS",
+            "longitude": -82.4822
+        },
+        {
+            "elevation": 231.6,
+            "mindate": "1893-06-01",
+            "maxdate": "2015-10-01",
+            "latitude": 39.6521,
+            "name": "MCCONNELSVILLE LOCK7, OH US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00335041",
+            "elevationUnit": "METERS",
+            "longitude": -81.8561
+        },
+        {
+            "elevation": 212.4,
+            "mindate": "1923-07-01",
+            "maxdate": "1985-01-31",
+            "latitude": 39.61667,
+            "name": "MIAMISBURG, OH US",
+            "datacoverage": 0.9985,
+            "id": "GHCND:USC00335185",
+            "elevationUnit": "METERS",
+            "longitude": -84.28333
+        },
+        {
+            "elevation": 146.9,
+            "mindate": "1987-07-01",
+            "maxdate": "2020-05-14",
+            "latitude": 39.2159,
+            "name": "MIAMITOWN, OH US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00335188",
+            "elevationUnit": "METERS",
+            "longitude": -84.6948
+        },
+        {
+            "elevation": 268.2,
+            "mindate": "1948-01-01",
+            "maxdate": "1987-10-31",
+            "latitude": 40.05,
+            "name": "MIDDLEBOURNE, OH US",
+            "datacoverage": 0.9936,
+            "id": "GHCND:USC00335199",
+            "elevationUnit": "METERS",
+            "longitude": -81.33333
+        },
+        {
+            "elevation": 196.9,
+            "mindate": "1923-07-01",
+            "maxdate": "2020-03-31",
+            "latitude": 39.5161,
+            "name": "MIDDLETOWN, OH US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00335220",
+            "elevationUnit": "METERS",
+            "longitude": -84.4071
+        },
+        {
+            "elevation": 158.5,
+            "mindate": "1969-04-01",
+            "maxdate": "2010-12-31",
+            "latitude": 39.18139,
+            "name": "MILFORD, OH US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00335268",
+            "elevationUnit": "METERS",
+            "longitude": -84.28667
+        },
+        {
+            "elevation": 249.6,
+            "mindate": "1916-11-01",
+            "maxdate": "2020-04-01",
+            "latitude": 40.5375,
+            "name": "MILLERSBURG, OH US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00335297",
+            "elevationUnit": "METERS",
+            "longitude": -81.9197
+        },
+        {
+            "elevation": 356.6,
+            "mindate": "1893-06-01",
+            "maxdate": "2013-01-31",
+            "latitude": 40.7692,
+            "name": "MILLPORT 2 NW, OH US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00335315",
+            "elevationUnit": "METERS",
+            "longitude": -80.8562
+        },
+        {
+            "elevation": 271.3,
+            "mindate": "1929-06-01",
+            "maxdate": "2010-12-31",
+            "latitude": 41.15,
+            "name": "MINERAL RIDGE W WKS, OH US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00335356",
+            "elevationUnit": "METERS",
+            "longitude": -80.78333
+        },
+        {
+            "elevation": 263.7,
+            "mindate": "1949-01-01",
+            "maxdate": "1987-07-31",
+            "latitude": 40.3486,
+            "name": "MOHAWK DAM, OH US",
+            "datacoverage": 0.985,
+            "id": "GHCND:USC00335398",
+            "elevationUnit": "METERS",
+            "longitude": -82.0908
+        },
+        {
+            "elevation": 296,
+            "mindate": "1949-01-01",
+            "maxdate": "1987-06-30",
+            "latitude": 40.73333,
+            "name": "MOHICANVILLE DAM, OH US",
+            "datacoverage": 0.9828,
+            "id": "GHCND:USC00335406",
+            "elevationUnit": "METERS",
+            "longitude": -82.15
+        },
+        {
+            "elevation": 262.1,
+            "mindate": "1893-06-01",
+            "maxdate": "2020-03-06",
+            "latitude": 41.58599,
+            "name": "MONTPELIER, OH US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00335438",
+            "elevationUnit": "METERS",
+            "longitude": -84.62341
+        },
+        {
+            "elevation": 277.4,
+            "mindate": "1944-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 41.29861,
+            "name": "MOSQUITO CREEK LAKE, OH US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00335505",
+            "elevationUnit": "METERS",
+            "longitude": -80.76472
+        },
+        {
+            "elevation": 332.2,
+            "mindate": "1952-05-01",
+            "maxdate": "2010-12-31",
+            "latitude": 40.55,
+            "name": "MOUNT GILEAD LAKES P, OH US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00335535",
+            "elevationUnit": "METERS",
+            "longitude": -82.81667
+        },
+        {
+            "elevation": 204.2,
+            "mindate": "2009-10-01",
+            "maxdate": "2020-05-17",
+            "latitude": 41.3816,
+            "name": "NAPOLEON 1 SW, OH US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00335667",
+            "elevationUnit": "METERS",
+            "longitude": -84.1513
+        },
+        {
+            "elevation": 207.9,
+            "mindate": "1962-05-01",
+            "maxdate": "2010-12-31",
+            "latitude": 41.3939,
+            "name": "NAPOLEON, OH US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00335669",
+            "elevationUnit": "METERS",
+            "longitude": -84.1144
+        },
+        {
+            "elevation": 213.4,
+            "mindate": "1951-10-01",
+            "maxdate": "2020-05-12",
+            "latitude": 39.5015,
+            "name": "NELSONVILLE, OH US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00335718",
+            "elevationUnit": "METERS",
+            "longitude": -82.2441
         }
     ]
 }

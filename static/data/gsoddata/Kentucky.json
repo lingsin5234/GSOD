@@ -2,7 +2,7 @@
     "metadata": {
         "resultset": {
             "offset": 1,
-            "count": 1313,
+            "count": 1089,
             "limit": 1000
         }
     },
@@ -28,28 +28,6 @@
             "id": "COOP:122731",
             "elevationUnit": "METERS",
             "longitude": -87.57305
-        },
-        {
-            "elevation": 100.6,
-            "mindate": "1948-11-01",
-            "maxdate": "1948-11-01",
-            "latitude": 37.96667,
-            "name": "EVANSVILLE FORT COUR, KY US",
-            "datacoverage": 1,
-            "id": "COOP:122733",
-            "elevationUnit": "METERS",
-            "longitude": -87.58333
-        },
-        {
-            "elevation": 139.9,
-            "mindate": "1888-12-01",
-            "maxdate": "1973-12-01",
-            "latitude": 38.28333,
-            "name": "JEFFERSONVILLE, IN US",
-            "datacoverage": 0.9706,
-            "id": "COOP:124382",
-            "elevationUnit": "METERS",
-            "longitude": -85.75
         },
         {
             "elevation": 128,
@@ -173,48 +151,6 @@
             "longitude": -85.53333
         },
         {
-            "mindate": "1931-01-01",
-            "maxdate": "1941-10-01",
-            "latitude": 37.28333,
-            "name": "ANNVILLE, KY US",
-            "datacoverage": 0.9923,
-            "id": "COOP:150174",
-            "longitude": -83.88333
-        },
-        {
-            "elevation": 156.1,
-            "mindate": "1957-07-01",
-            "maxdate": "1960-07-01",
-            "latitude": 37.13333,
-            "name": "APEX 2 NE, KY US",
-            "datacoverage": 0.9723,
-            "id": "COOP:150185",
-            "elevationUnit": "METERS",
-            "longitude": -87.31667
-        },
-        {
-            "elevation": 110,
-            "mindate": "1964-04-01",
-            "maxdate": "1964-07-01",
-            "latitude": 36.83333,
-            "name": "ARLINGTON 3 N, KY US",
-            "datacoverage": 0.998,
-            "id": "COOP:150214",
-            "elevationUnit": "METERS",
-            "longitude": -89
-        },
-        {
-            "elevation": 335.9,
-            "mindate": "1940-04-01",
-            "maxdate": "1957-06-01",
-            "latitude": 37.26667,
-            "name": "ASHCAMP, KY US",
-            "datacoverage": 0.8986,
-            "id": "COOP:150246",
-            "elevationUnit": "METERS",
-            "longitude": -82.43333
-        },
-        {
             "elevation": 170.7,
             "mindate": "1931-01-01",
             "maxdate": "2015-11-01",
@@ -259,17 +195,6 @@
             "longitude": -83.8819
         },
         {
-            "elevation": 195.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1950-09-01",
-            "latitude": 37.8,
-            "name": "BARDSTOWN, KY US",
-            "datacoverage": 0.7089,
-            "id": "COOP:150389",
-            "elevationUnit": "METERS",
-            "longitude": -85.46667
-        },
-        {
             "elevation": 237.7,
             "mindate": "1950-10-01",
             "maxdate": "2015-11-01",
@@ -301,15 +226,6 @@
             "id": "COOP:150422",
             "elevationUnit": "METERS",
             "longitude": -86.1247
-        },
-        {
-            "mindate": "1948-07-01",
-            "maxdate": "1949-02-01",
-            "latitude": 37.31667,
-            "name": "BASS 3 SW, KY US",
-            "datacoverage": 0.8768,
-            "id": "COOP:150438",
-            "longitude": -85.16667
         },
         {
             "elevation": 354.8,
@@ -389,17 +305,6 @@
             "longitude": -88.3363
         },
         {
-            "elevation": 113.1,
-            "mindate": "1956-02-01",
-            "maxdate": "1967-04-01",
-            "latitude": 36.86667,
-            "name": "BENTON 1 N, KY US",
-            "datacoverage": 0.9635,
-            "id": "COOP:150615",
-            "elevationUnit": "METERS",
-            "longitude": -88.33333
-        },
-        {
             "elevation": 326.1,
             "mindate": "1931-01-01",
             "maxdate": "2012-06-01",
@@ -466,17 +371,6 @@
             "longitude": -82.83333
         },
         {
-            "elevation": 570,
-            "mindate": "1957-12-01",
-            "maxdate": "1958-05-01",
-            "latitude": 36.9,
-            "name": "BLEDSOE 2 SSE, KY US",
-            "datacoverage": 0.669,
-            "id": "COOP:150770",
-            "elevationUnit": "METERS",
-            "longitude": -83.33333
-        },
-        {
             "elevation": 185.9,
             "mindate": "1978-05-01",
             "maxdate": "2011-12-01",
@@ -486,17 +380,6 @@
             "id": "COOP:150804",
             "elevationUnit": "METERS",
             "longitude": -83.9983
-        },
-        {
-            "elevation": 223.1,
-            "mindate": "1956-04-01",
-            "maxdate": "1966-09-01",
-            "latitude": 37.43333,
-            "name": "BONNIEVILLE 4 N, KY US",
-            "datacoverage": 0.9048,
-            "id": "COOP:150854",
-            "elevationUnit": "METERS",
-            "longitude": -85.9
         },
         {
             "elevation": 231.6,
@@ -519,17 +402,6 @@
             "id": "COOP:150860",
             "elevationUnit": "METERS",
             "longitude": -83.7705
-        },
-        {
-            "elevation": 121.9,
-            "mindate": "1948-12-01",
-            "maxdate": "1951-10-01",
-            "latitude": 37.76611,
-            "name": "BOSTON NUMBER 2, KY US",
-            "datacoverage": 1,
-            "id": "COOP:150874",
-            "elevationUnit": "METERS",
-            "longitude": -85.70444
         },
         {
             "elevation": 259.1,
@@ -565,17 +437,6 @@
             "longitude": -86.4755
         },
         {
-            "elevation": 143,
-            "mindate": "1949-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 37.01667,
-            "name": "BOWLING GREEN SUBSTN, KY US",
-            "datacoverage": 1,
-            "id": "COOP:150907",
-            "elevationUnit": "METERS",
-            "longitude": -86.43333
-        },
-        {
             "elevation": 160.9,
             "mindate": "1931-01-01",
             "maxdate": "2015-11-01",
@@ -585,17 +446,6 @@
             "id": "COOP:150909",
             "elevationUnit": "METERS",
             "longitude": -86.4238
-        },
-        {
-            "elevation": 171,
-            "mindate": "1953-05-01",
-            "maxdate": "1957-04-28",
-            "latitude": 36.98333,
-            "name": "BOWLING GREEN COLLEG, KY US",
-            "datacoverage": 0.0572,
-            "id": "COOP:150914",
-            "elevationUnit": "METERS",
-            "longitude": -86.45
         },
         {
             "elevation": 201.2,
@@ -618,17 +468,6 @@
             "id": "COOP:150955",
             "elevationUnit": "METERS",
             "longitude": -86.1162
-        },
-        {
-            "elevation": 177.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1961-08-01",
-            "latitude": 37.2,
-            "name": "BROWNSVILLE, KY US",
-            "datacoverage": 0.9701,
-            "id": "COOP:151046",
-            "elevationUnit": "METERS",
-            "longitude": -86.26667
         },
         {
             "elevation": 177.1,
@@ -665,17 +504,6 @@
         },
         {
             "elevation": 475.5,
-            "mindate": "1951-09-01",
-            "maxdate": "1952-05-01",
-            "latitude": 37.21667,
-            "name": "BURDINE 2 NE, KY US",
-            "datacoverage": 1,
-            "id": "COOP:151119",
-            "elevationUnit": "METERS",
-            "longitude": -82.58333
-        },
-        {
-            "elevation": 475.5,
             "mindate": "1952-05-01",
             "maxdate": "2002-08-01",
             "latitude": 37.21667,
@@ -684,17 +512,6 @@
             "id": "COOP:151120",
             "elevationUnit": "METERS",
             "longitude": -82.58333
-        },
-        {
-            "elevation": 265.2,
-            "mindate": "1931-01-01",
-            "maxdate": "1953-10-01",
-            "latitude": 37.7858,
-            "name": "DIX DAM, KY US",
-            "datacoverage": 0.9963,
-            "id": "COOP:151127",
-            "elevationUnit": "METERS",
-            "longitude": -84.7077
         },
         {
             "elevation": 182.9,
@@ -706,28 +523,6 @@
             "id": "COOP:151137",
             "elevationUnit": "METERS",
             "longitude": -85.4
-        },
-        {
-            "elevation": 217,
-            "mindate": "1931-01-01",
-            "maxdate": "1953-06-01",
-            "latitude": 36.98333,
-            "name": "BURNSIDE, KY US",
-            "datacoverage": 0.9964,
-            "id": "COOP:151156",
-            "elevationUnit": "METERS",
-            "longitude": -84.61667
-        },
-        {
-            "elevation": 116.1,
-            "mindate": "1940-03-01",
-            "maxdate": "1965-03-01",
-            "latitude": 36.76667,
-            "name": "CADIZ LOCK E, KY US",
-            "datacoverage": 0.9701,
-            "id": "COOP:151206",
-            "elevationUnit": "METERS",
-            "longitude": -87.96667
         },
         {
             "elevation": 174.7,
@@ -818,17 +613,6 @@
             "longitude": -83.03333
         },
         {
-            "elevation": 146,
-            "mindate": "1950-07-01",
-            "maxdate": "1950-12-01",
-            "latitude": 38.68333,
-            "name": "CARROLLTON, KY US",
-            "datacoverage": 0.8271,
-            "id": "COOP:151340",
-            "elevationUnit": "METERS",
-            "longitude": -85.16667
-        },
-        {
             "elevation": 137.2,
             "mindate": "1931-01-01",
             "maxdate": "2003-05-01",
@@ -873,17 +657,6 @@
             "longitude": -85.93333
         },
         {
-            "elevation": 136.9,
-            "mindate": "1948-08-01",
-            "maxdate": "1957-06-01",
-            "latitude": 37.28333,
-            "name": "CENTRAL CITY, KY US",
-            "datacoverage": 0.7636,
-            "id": "COOP:151439",
-            "elevationUnit": "METERS",
-            "longitude": -87.11667
-        },
-        {
             "elevation": 225.6,
             "mindate": "2001-03-01",
             "maxdate": "2011-12-01",
@@ -904,17 +677,6 @@
             "id": "COOP:151576",
             "elevationUnit": "METERS",
             "longitude": -83.9229
-        },
-        {
-            "elevation": 164.9,
-            "mindate": "1936-09-01",
-            "maxdate": "1969-12-01",
-            "latitude": 37.91667,
-            "name": "CLERMONT, KY US",
-            "datacoverage": 0.8375,
-            "id": "COOP:151611",
-            "elevationUnit": "METERS",
-            "longitude": -85.66667
         },
         {
             "elevation": 110.9,
@@ -961,17 +723,6 @@
             "longitude": -84.1
         },
         {
-            "elevation": 223.1,
-            "mindate": "1940-04-01",
-            "maxdate": "1957-05-01",
-            "latitude": 37.1,
-            "name": "COLUMBIA, KY US",
-            "datacoverage": 0.9126,
-            "id": "COOP:151722",
-            "elevationUnit": "METERS",
-            "longitude": -85.3
-        },
-        {
             "elevation": 257.6,
             "mindate": "1981-04-01",
             "maxdate": "2015-11-01",
@@ -992,28 +743,6 @@
             "id": "COOP:151727",
             "elevationUnit": "METERS",
             "longitude": -89.12167
-        },
-        {
-            "elevation": 244.1,
-            "mindate": "1948-08-01",
-            "maxdate": "1952-05-01",
-            "latitude": 37.66667,
-            "name": "CONSTANTINE, KY US",
-            "datacoverage": 0.6493,
-            "id": "COOP:151763",
-            "elevationUnit": "METERS",
-            "longitude": -86.23333
-        },
-        {
-            "elevation": 359.1,
-            "mindate": "1944-09-01",
-            "maxdate": "1954-09-01",
-            "latitude": 36.96667,
-            "name": "CORBIN CAA AIRPORT, KY US",
-            "datacoverage": 1,
-            "id": "COOP:151801",
-            "elevationUnit": "METERS",
-            "longitude": -84.13333
         },
         {
             "elevation": 323.1,
@@ -1230,7 +959,7 @@
             "maxdate": "2002-04-01",
             "latitude": 37.78333,
             "name": "DAVELLA, KY US",
-            "datacoverage": 0.7899,
+            "datacoverage": 0.057,
             "id": "COOP:152053",
             "elevationUnit": "METERS",
             "longitude": -82.6
@@ -1245,39 +974,6 @@
             "id": "COOP:152072",
             "elevationUnit": "METERS",
             "longitude": -87.688
-        },
-        {
-            "elevation": 555,
-            "mindate": "1940-05-01",
-            "maxdate": "1950-02-01",
-            "latitude": 37.03333,
-            "name": "TILFORD DELPHIA, KY US",
-            "datacoverage": 0.8222,
-            "id": "COOP:152131",
-            "elevationUnit": "METERS",
-            "longitude": -83.06667
-        },
-        {
-            "elevation": 555,
-            "mindate": "1950-03-01",
-            "maxdate": "1964-09-01",
-            "latitude": 37.03333,
-            "name": "TILFORD DELPHIA, KY US",
-            "datacoverage": 0.9255,
-            "id": "COOP:152132",
-            "elevationUnit": "METERS",
-            "longitude": -83.06667
-        },
-        {
-            "elevation": 259.1,
-            "mindate": "1940-06-01",
-            "maxdate": "1965-07-01",
-            "latitude": 37.41667,
-            "name": "DEMA, KY US",
-            "datacoverage": 0.7,
-            "id": "COOP:152139",
-            "elevationUnit": "METERS",
-            "longitude": -82.8
         },
         {
             "elevation": 210,
@@ -1346,15 +1042,6 @@
             "longitude": -87.05
         },
         {
-            "mindate": "1940-05-01",
-            "maxdate": "1957-07-01",
-            "latitude": 37.21667,
-            "name": "DUNNVILLE, KY US",
-            "datacoverage": 0.8792,
-            "id": "COOP:152374",
-            "longitude": -84.96667
-        },
-        {
             "elevation": 237.7,
             "mindate": "1952-04-01",
             "maxdate": "1977-02-01",
@@ -1364,28 +1051,6 @@
             "id": "COOP:152391",
             "elevationUnit": "METERS",
             "longitude": -86.22139
-        },
-        {
-            "elevation": 189,
-            "mindate": "1936-01-01",
-            "maxdate": "1946-11-01",
-            "latitude": 36.9,
-            "name": "EADSVILLE LOCK 21, KY US",
-            "datacoverage": 1,
-            "id": "COOP:152396",
-            "elevationUnit": "METERS",
-            "longitude": -84.88333
-        },
-        {
-            "elevation": 128,
-            "mindate": "1931-01-01",
-            "maxdate": "1948-09-01",
-            "latitude": 37.26667,
-            "name": "EARLINGTON, KY US",
-            "datacoverage": 1,
-            "id": "COOP:152407",
-            "elevationUnit": "METERS",
-            "longitude": -87.51667
         },
         {
             "elevation": 304.8,
@@ -1410,17 +1075,6 @@
             "longitude": -88.0727
         },
         {
-            "elevation": 128,
-            "mindate": "1940-04-01",
-            "maxdate": "1964-07-01",
-            "latitude": 37.05,
-            "name": "EDDYVILLE LOCK F, KY US",
-            "datacoverage": 0.9349,
-            "id": "COOP:152445",
-            "elevationUnit": "METERS",
-            "longitude": -88.08333
-        },
-        {
             "elevation": 237.7,
             "mindate": "1940-05-01",
             "maxdate": "1977-09-01",
@@ -1441,17 +1095,6 @@
             "id": "COOP:152500",
             "elevationUnit": "METERS",
             "longitude": -85.8305
-        },
-        {
-            "elevation": 225.9,
-            "mindate": "1948-12-01",
-            "maxdate": "1964-06-01",
-            "latitude": 37.68333,
-            "name": "ELIZABETHTOWN, KY US",
-            "datacoverage": 0.5883,
-            "id": "COOP:152510",
-            "elevationUnit": "METERS",
-            "longitude": -85.86667
         },
         {
             "elevation": 210.3,
@@ -1498,17 +1141,6 @@
             "longitude": -85.8975
         },
         {
-            "elevation": 360,
-            "mindate": "1931-01-01",
-            "maxdate": "1942-05-01",
-            "latitude": 37.26667,
-            "name": "EUBANK, KY US",
-            "datacoverage": 0.9126,
-            "id": "COOP:152698",
-            "elevationUnit": "METERS",
-            "longitude": -84.65
-        },
-        {
             "elevation": 195.1,
             "mindate": "1982-11-01",
             "maxdate": "1984-05-01",
@@ -1518,17 +1150,6 @@
             "id": "COOP:152740",
             "elevationUnit": "METERS",
             "longitude": -82.75
-        },
-        {
-            "elevation": 170.7,
-            "mindate": "1962-01-01",
-            "maxdate": "1964-03-01",
-            "latitude": 37.6177,
-            "name": "ROUGH RIVER LAKE, KY US",
-            "datacoverage": 1,
-            "id": "COOP:152770",
-            "elevationUnit": "METERS",
-            "longitude": -86.5044
         },
         {
             "elevation": 249.6,
@@ -1806,17 +1427,6 @@
             "longitude": -85.9066
         },
         {
-            "elevation": 239,
-            "mindate": "1948-08-01",
-            "maxdate": "1949-08-28",
-            "latitude": 37.9,
-            "name": "FORT KNOX GODMAN ARMY AIR FIELD, KY US",
-            "datacoverage": 0.4612,
-            "id": "COOP:153280",
-            "elevationUnit": "METERS",
-            "longitude": -85.96667
-        },
-        {
             "elevation": 121.9,
             "mindate": "1953-04-01",
             "maxdate": "2000-07-01",
@@ -1826,17 +1436,6 @@
             "id": "COOP:153295",
             "elevationUnit": "METERS",
             "longitude": -88.01389
-        },
-        {
-            "elevation": 153,
-            "mindate": "1931-01-01",
-            "maxdate": "1962-12-01",
-            "latitude": 38.98333,
-            "name": "GRANT DAM 38, KY US",
-            "datacoverage": 0.974,
-            "id": "COOP:153358",
-            "elevationUnit": "METERS",
-            "longitude": -84.83333
         },
         {
             "elevation": 381,
@@ -1870,17 +1469,6 @@
             "id": "COOP:153391",
             "elevationUnit": "METERS",
             "longitude": -82.97472
-        },
-        {
-            "elevation": 274.9,
-            "mindate": "1959-06-01",
-            "maxdate": "1968-12-01",
-            "latitude": 38.3,
-            "name": "GRAYSON 3 SE, KY US",
-            "datacoverage": 0.9995,
-            "id": "COOP:153392",
-            "elevationUnit": "METERS",
-            "longitude": -82.93333
         },
         {
             "elevation": 217.9,
@@ -1938,17 +1526,6 @@
             "longitude": -87.35
         },
         {
-            "elevation": 225.9,
-            "mindate": "1948-08-01",
-            "maxdate": "1964-03-01",
-            "latitude": 37.05,
-            "name": "HALEYS MILL, KY US",
-            "datacoverage": 0.9216,
-            "id": "COOP:153539",
-            "elevationUnit": "METERS",
-            "longitude": -87.33333
-        },
-        {
             "elevation": 217.9,
             "mindate": "1974-04-01",
             "maxdate": "2009-09-01",
@@ -1958,17 +1535,6 @@
             "id": "COOP:153604",
             "elevationUnit": "METERS",
             "longitude": -86.4622
-        },
-        {
-            "elevation": 366.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1952-01-01",
-            "latitude": 36.83333,
-            "name": "HARLAN, KY US",
-            "datacoverage": 0.336,
-            "id": "COOP:153622",
-            "elevationUnit": "METERS",
-            "longitude": -83.31667
         },
         {
             "elevation": 365.8,
@@ -1994,11 +1560,11 @@
         },
         {
             "elevation": 264.9,
-            "mindate": "1931-01-01",
+            "mindate": "1948-08-01",
             "maxdate": "1985-04-01",
             "latitude": 37.25,
             "name": "HAZARD, KY US",
-            "datacoverage": 0.976,
+            "datacoverage": 0.0721,
             "id": "COOP:153709",
             "elevationUnit": "METERS",
             "longitude": -83.2
@@ -2046,17 +1612,6 @@
             "id": "COOP:153716",
             "elevationUnit": "METERS",
             "longitude": -83.45
-        },
-        {
-            "elevation": 262.1,
-            "mindate": "1941-05-01",
-            "maxdate": "1950-05-01",
-            "latitude": 38.4,
-            "name": "HEADQUARTERS, KY US",
-            "datacoverage": 0.8898,
-            "id": "COOP:153722",
-            "elevationUnit": "METERS",
-            "longitude": -84.11667
         },
         {
             "elevation": 202.7,
@@ -2125,17 +1680,6 @@
             "longitude": -89.16667
         },
         {
-            "elevation": 134.1,
-            "mindate": "1949-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 36.8,
-            "name": "HICKSVILLE, KY US",
-            "datacoverage": 0.994,
-            "id": "COOP:153821",
-            "elevationUnit": "METERS",
-            "longitude": -88.5
-        },
-        {
             "elevation": 164.6,
             "mindate": "1931-01-01",
             "maxdate": "1996-01-01",
@@ -2167,17 +1711,6 @@
             "id": "COOP:153896",
             "elevationUnit": "METERS",
             "longitude": -82.88333
-        },
-        {
-            "elevation": 363,
-            "mindate": "1948-01-01",
-            "maxdate": "1962-01-01",
-            "latitude": 37.33333,
-            "name": "HINDMAN, KY US",
-            "datacoverage": 0.9229,
-            "id": "COOP:153899",
-            "elevationUnit": "METERS",
-            "longitude": -82.98333
         },
         {
             "elevation": 240.2,
@@ -2233,17 +1766,6 @@
             "id": "COOP:154097",
             "elevationUnit": "METERS",
             "longitude": -83.33333
-        },
-        {
-            "elevation": 195.1,
-            "mindate": "1951-02-01",
-            "maxdate": "1962-12-01",
-            "latitude": 37.86667,
-            "name": "INEZ, KY US",
-            "datacoverage": 0.9512,
-            "id": "COOP:154134",
-            "elevationUnit": "METERS",
-            "longitude": -82.53333
         },
         {
             "elevation": 216.4,
@@ -2312,26 +1834,6 @@
             "longitude": -85.0616
         },
         {
-            "mindate": "1931-01-01",
-            "maxdate": "1951-10-01",
-            "latitude": 37.2,
-            "name": "JENKINS, KY US",
-            "datacoverage": 0.7797,
-            "id": "COOP:154236",
-            "longitude": -82.6
-        },
-        {
-            "elevation": 488,
-            "mindate": "1948-08-01",
-            "maxdate": "1950-09-01",
-            "latitude": 37.16667,
-            "name": "JENKINS WATER WORKS, KY US",
-            "datacoverage": 0.6926,
-            "id": "COOP:154241",
-            "elevationUnit": "METERS",
-            "longitude": -82.63333
-        },
-        {
             "elevation": 335.3,
             "mindate": "1940-05-01",
             "maxdate": "2014-12-01",
@@ -2385,17 +1887,6 @@
             "id": "COOP:154376",
             "elevationUnit": "METERS",
             "longitude": -85.41944
-        },
-        {
-            "elevation": 109.7,
-            "mindate": "1938-07-01",
-            "maxdate": "1962-03-01",
-            "latitude": 37.0147,
-            "name": "GILBERTSVILLE KY DAM, KY US",
-            "datacoverage": 1,
-            "id": "COOP:154414",
-            "elevationUnit": "METERS",
-            "longitude": -88.2677
         },
         {
             "elevation": 396.2,
@@ -2486,17 +1977,6 @@
             "longitude": -84.57056
         },
         {
-            "elevation": 207,
-            "mindate": "1940-03-01",
-            "maxdate": "1957-06-01",
-            "latitude": 37.75,
-            "name": "LAURA, KY US",
-            "datacoverage": 0.9279,
-            "id": "COOP:154642",
-            "elevationUnit": "METERS",
-            "longitude": -82.43333
-        },
-        {
             "elevation": 245.4,
             "mindate": "2011-01-01",
             "maxdate": "2015-08-01",
@@ -2517,17 +1997,6 @@
             "id": "COOP:154650",
             "elevationUnit": "METERS",
             "longitude": -85.3084
-        },
-        {
-            "elevation": 335.9,
-            "mindate": "1962-01-01",
-            "maxdate": "1963-03-01",
-            "latitude": 37.33333,
-            "name": "LEBURN 1 E, KY US",
-            "datacoverage": 0.6021,
-            "id": "COOP:154672",
-            "elevationUnit": "METERS",
-            "longitude": -82.95
         },
         {
             "elevation": 189,
@@ -2596,17 +2065,6 @@
             "longitude": -84.93278
         },
         {
-            "elevation": 164.9,
-            "mindate": "1951-10-01",
-            "maxdate": "1951-12-01",
-            "latitude": 37.91667,
-            "name": "CLERMONT, KY US",
-            "datacoverage": 0.9925,
-            "id": "COOP:154784",
-            "elevationUnit": "METERS",
-            "longitude": -85.66667
-        },
-        {
             "elevation": 158.8,
             "mindate": "1931-01-01",
             "maxdate": "1990-03-01",
@@ -2656,7 +2114,7 @@
             "maxdate": "1973-11-01",
             "latitude": 37.85,
             "name": "LOGLICK 1 S, KY US",
-            "datacoverage": 0.9479,
+            "datacoverage": 0.0567,
             "id": "COOP:154882",
             "elevationUnit": "METERS",
             "longitude": -84.03333
@@ -2696,17 +2154,6 @@
         },
         {
             "elevation": 198.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1960-11-01",
-            "latitude": 38.10861,
-            "name": "LOUISA 2 S, KY US",
-            "datacoverage": 0.9545,
-            "id": "COOP:154943",
-            "elevationUnit": "METERS",
-            "longitude": -82.60278
-        },
-        {
-            "elevation": 198.1,
             "mindate": "1951-09-01",
             "maxdate": "1996-11-30",
             "latitude": 38.10861,
@@ -2739,17 +2186,6 @@
             "longitude": -85.76667
         },
         {
-            "elevation": 164.6,
-            "mindate": "1948-08-01",
-            "maxdate": "1963-02-25",
-            "latitude": 38.22806,
-            "name": "LOUISVILLE BOWMAN FIELD, KY US",
-            "datacoverage": 0.8689,
-            "id": "COOP:154951",
-            "elevationUnit": "METERS",
-            "longitude": -85.66361
-        },
-        {
             "elevation": 148.7,
             "mindate": "1948-01-01",
             "maxdate": "2015-11-01",
@@ -2770,17 +2206,6 @@
             "id": "COOP:154955",
             "elevationUnit": "METERS",
             "longitude": -85.79167
-        },
-        {
-            "elevation": 161.8,
-            "mindate": "1948-01-01",
-            "maxdate": "1955-02-01",
-            "latitude": 38.25,
-            "name": "LOUISVILLE WEATHER BUREAU OFFICE, KY US",
-            "datacoverage": 0.9997,
-            "id": "COOP:154956",
-            "elevationUnit": "METERS",
-            "longitude": -85.76667
         },
         {
             "elevation": 192.6,
@@ -2810,19 +2235,10 @@
             "maxdate": "1977-08-01",
             "latitude": 36.88333,
             "name": "LUCAS, KY US",
-            "datacoverage": 0.9479,
+            "datacoverage": 0.061,
             "id": "COOP:155002",
             "elevationUnit": "METERS",
             "longitude": -86.03333
-        },
-        {
-            "mindate": "1948-09-01",
-            "maxdate": "1949-03-01",
-            "latitude": 37.33333,
-            "name": "MADISONVILLE, KY US",
-            "datacoverage": 0.9819,
-            "id": "COOP:155062",
-            "longitude": -87.5
         },
         {
             "elevation": 129.5,
@@ -2856,17 +2272,6 @@
             "id": "COOP:155097",
             "elevationUnit": "METERS",
             "longitude": -86.1481
-        },
-        {
-            "elevation": 136.9,
-            "mindate": "1949-01-01",
-            "maxdate": "1951-05-01",
-            "latitude": 37.15,
-            "name": "MANCHESTER, KY US",
-            "datacoverage": 0.9328,
-            "id": "COOP:155110",
-            "elevationUnit": "METERS",
-            "longitude": -83.76667
         },
         {
             "elevation": 265.2,
@@ -2922,28 +2327,6 @@
             "id": "COOP:155175",
             "elevationUnit": "METERS",
             "longitude": -82.76667
-        },
-        {
-            "elevation": 110,
-            "mindate": "1949-01-01",
-            "maxdate": "1967-04-01",
-            "latitude": 36.73333,
-            "name": "MAYFIELD, KY US",
-            "datacoverage": 1,
-            "id": "COOP:155230",
-            "elevationUnit": "METERS",
-            "longitude": -88.65
-        },
-        {
-            "elevation": 110,
-            "mindate": "1931-01-01",
-            "maxdate": "1956-05-01",
-            "latitude": 36.7,
-            "name": "MAYFIELD 2 S, KY US",
-            "datacoverage": 1,
-            "id": "COOP:155232",
-            "elevationUnit": "METERS",
-            "longitude": -88.63333
         },
         {
             "elevation": 115.8,
@@ -3006,7 +2389,7 @@
             "maxdate": "1975-01-01",
             "latitude": 38.6,
             "name": "MCKINNEYSBURG, KY US",
-            "datacoverage": 0.6476,
+            "datacoverage": 0.0561,
             "id": "COOP:155301",
             "elevationUnit": "METERS",
             "longitude": -84.26667
@@ -3034,17 +2417,6 @@
             "longitude": -83.71444
         },
         {
-            "elevation": 345,
-            "mindate": "1948-08-01",
-            "maxdate": "1964-11-01",
-            "latitude": 36.61667,
-            "name": "MIDDLESBORO SEWAGE P, KY US",
-            "datacoverage": 0.7821,
-            "id": "COOP:155394",
-            "elevationUnit": "METERS",
-            "longitude": -83.71667
-        },
-        {
             "elevation": 235,
             "mindate": "1941-05-01",
             "maxdate": "1978-02-01",
@@ -3056,17 +2428,6 @@
             "longitude": -84.68333
         },
         {
-            "elevation": 107,
-            "mindate": "1962-01-01",
-            "maxdate": "1963-12-01",
-            "latitude": 36.8,
-            "name": "MILBURN 1 E, KY US",
-            "datacoverage": 1,
-            "id": "COOP:155415",
-            "elevationUnit": "METERS",
-            "longitude": -88.88333
-        },
-        {
             "elevation": 256,
             "mindate": "1948-08-01",
             "maxdate": "1985-04-01",
@@ -3076,15 +2437,6 @@
             "id": "COOP:155430",
             "elevationUnit": "METERS",
             "longitude": -84.13333
-        },
-        {
-            "mindate": "1950-06-01",
-            "maxdate": "1951-02-01",
-            "latitude": 38.3,
-            "name": "MILLERSBURG MILIT IN, KY US",
-            "datacoverage": 0.446,
-            "id": "COOP:155434",
-            "longitude": -84.15
         },
         {
             "elevation": 182.9,
@@ -3125,7 +2477,7 @@
             "maxdate": "2012-01-01",
             "latitude": 38.2191,
             "name": "MOREHEAD 3 NW, KY US",
-            "datacoverage": 0.9479,
+            "datacoverage": 0.037,
             "id": "COOP:155555",
             "elevationUnit": "METERS",
             "longitude": -83.4773
@@ -3274,28 +2626,6 @@
             "longitude": -83.10382
         },
         {
-            "elevation": 270.7,
-            "mindate": "1959-07-01",
-            "maxdate": "1968-08-31",
-            "latitude": 38.34233,
-            "name": "OLIVE HILL 5 NE, KY US",
-            "datacoverage": 0.0623,
-            "id": "COOP:156013",
-            "elevationUnit": "METERS",
-            "longitude": -83.10382
-        },
-        {
-            "elevation": 161.8,
-            "mindate": "1941-04-01",
-            "maxdate": "1967-02-01",
-            "latitude": 37.23333,
-            "name": "OLNEY, KY US",
-            "datacoverage": 0.9133,
-            "id": "COOP:156020",
-            "elevationUnit": "METERS",
-            "longitude": -87.78333
-        },
-        {
             "elevation": 231.6,
             "mindate": "1957-07-01",
             "maxdate": "2015-11-01",
@@ -3305,17 +2635,6 @@
             "id": "COOP:156028",
             "elevationUnit": "METERS",
             "longitude": -83.6501
-        },
-        {
-            "elevation": 156.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1963-01-01",
-            "latitude": 38.96667,
-            "name": "ONEONTA DAM 35, KY US",
-            "datacoverage": 1,
-            "id": "COOP:156033",
-            "elevationUnit": "METERS",
-            "longitude": -84.3
         },
         {
             "elevation": 120.7,
@@ -3384,17 +2703,6 @@
             "longitude": -88.7744
         },
         {
-            "elevation": 103.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1969-12-01",
-            "latitude": 37.1,
-            "name": "PADUCAH, KY US",
-            "datacoverage": 0.9893,
-            "id": "COOP:156115",
-            "elevationUnit": "METERS",
-            "longitude": -88.61667
-        },
-        {
             "elevation": 103.6,
             "mindate": "1948-08-01",
             "maxdate": "1996-03-01",
@@ -3404,15 +2712,6 @@
             "id": "COOP:156117",
             "elevationUnit": "METERS",
             "longitude": -88.55
-        },
-        {
-            "mindate": "1948-01-01",
-            "maxdate": "1948-07-01",
-            "latitude": 37.06667,
-            "name": "PADUCAH USE RESERV, KY US",
-            "datacoverage": 1,
-            "id": "COOP:156122",
-            "longitude": -88.58333
         },
         {
             "elevation": 125.9,
@@ -3569,17 +2868,6 @@
             "longitude": -83.75
         },
         {
-            "elevation": 317,
-            "mindate": "1931-08-01",
-            "maxdate": "1947-08-01",
-            "latitude": 37.31667,
-            "name": "PIPPAPASS, KY US",
-            "datacoverage": 0.8652,
-            "id": "COOP:156400",
-            "elevationUnit": "METERS",
-            "longitude": -82.86667
-        },
-        {
             "elevation": 321,
             "mindate": "2011-01-01",
             "maxdate": "2015-11-01",
@@ -3591,17 +2879,6 @@
             "longitude": -82.8786
         },
         {
-            "elevation": 267.9,
-            "mindate": "1941-06-01",
-            "maxdate": "1950-10-01",
-            "latitude": 38.33333,
-            "name": "PLEASUREVILLE 2 S, KY US",
-            "datacoverage": 0.5574,
-            "id": "COOP:156435",
-            "elevationUnit": "METERS",
-            "longitude": -85.11667
-        },
-        {
             "elevation": 135.6,
             "mindate": "2004-11-01",
             "maxdate": "2015-11-01",
@@ -3611,17 +2888,6 @@
             "id": "COOP:156495",
             "elevationUnit": "METERS",
             "longitude": -87.1513
-        },
-        {
-            "elevation": 161.8,
-            "mindate": "1931-01-01",
-            "maxdate": "1965-01-01",
-            "latitude": 37.1,
-            "name": "PRINCETON, KY US",
-            "datacoverage": 0.9926,
-            "id": "COOP:156575",
-            "elevationUnit": "METERS",
-            "longitude": -87.88333
         },
         {
             "elevation": 151.5,
@@ -3668,15 +2934,6 @@
             "longitude": -83.95
         },
         {
-            "mindate": "1948-08-01",
-            "maxdate": "1949-03-30",
-            "latitude": 37.55,
-            "name": "RAYWICK, KY US",
-            "datacoverage": 0.9947,
-            "id": "COOP:156691",
-            "longitude": -85.43333
-        },
-        {
             "elevation": 204.2,
             "mindate": "1978-10-01",
             "maxdate": "1985-06-01",
@@ -3697,17 +2954,6 @@
             "id": "COOP:156732",
             "elevationUnit": "METERS",
             "longitude": -83.005
-        },
-        {
-            "elevation": 323.1,
-            "mindate": "1961-10-01",
-            "maxdate": "1962-09-01",
-            "latitude": 37.38333,
-            "name": "RENFRO VALLEY, KY US",
-            "datacoverage": 1,
-            "id": "COOP:156748",
-            "elevationUnit": "METERS",
-            "longitude": -84.33333
         },
         {
             "elevation": 299,
@@ -3765,17 +3011,6 @@
             "longitude": -86.5044
         },
         {
-            "elevation": 122.5,
-            "mindate": "1931-01-01",
-            "maxdate": "1956-09-16",
-            "latitude": 37.5319,
-            "name": "CALHOUN LOCK 2, KY US",
-            "datacoverage": 1,
-            "id": "COOP:157039",
-            "elevationUnit": "METERS",
-            "longitude": -87.2669
-        },
-        {
             "elevation": 173.7,
             "mindate": "1931-02-01",
             "maxdate": "2015-11-01",
@@ -3787,37 +3022,15 @@
             "longitude": -86.8883
         },
         {
-            "elevation": 177.1,
-            "mindate": "1949-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 36.83333,
-            "name": "RUSSELLVILLE SUB STATION, KY US",
-            "datacoverage": 1,
-            "id": "COOP:157054",
-            "elevationUnit": "METERS",
-            "longitude": -86.9
-        },
-        {
             "elevation": 301.8,
             "mindate": "1948-08-01",
             "maxdate": "2012-10-01",
             "latitude": 38.42472,
             "name": "SADIEVILLE, KY US",
-            "datacoverage": 0.6056,
+            "datacoverage": 0.0431,
             "id": "COOP:157074",
             "elevationUnit": "METERS",
             "longitude": -84.51667
-        },
-        {
-            "elevation": 238,
-            "mindate": "1931-01-01",
-            "maxdate": "1959-06-01",
-            "latitude": 37.7,
-            "name": "ST JOHN BETHLEHEM AC, KY US",
-            "datacoverage": 0.9943,
-            "id": "COOP:157091",
-            "elevationUnit": "METERS",
-            "longitude": -85.98333
         },
         {
             "elevation": 226.5,
@@ -3825,7 +3038,7 @@
             "maxdate": "2013-07-01",
             "latitude": 37.58333,
             "name": "ST MARY, KY US",
-            "datacoverage": 0.9652,
+            "datacoverage": 0.029,
             "id": "COOP:157096",
             "elevationUnit": "METERS",
             "longitude": -85.35
@@ -3897,17 +3110,6 @@
             "longitude": -83.18333
         },
         {
-            "elevation": 326.1,
-            "mindate": "1943-01-01",
-            "maxdate": "1950-05-01",
-            "latitude": 37.18333,
-            "name": "SCIENCE HILL, KY US",
-            "datacoverage": 1,
-            "id": "COOP:157202",
-            "elevationUnit": "METERS",
-            "longitude": -84.65
-        },
-        {
             "elevation": 226.5,
             "mindate": "1946-02-01",
             "maxdate": "2015-11-01",
@@ -3952,17 +3154,6 @@
             "longitude": -87.105
         },
         {
-            "elevation": 107,
-            "mindate": "1951-02-01",
-            "maxdate": "1962-03-01",
-            "latitude": 37.15,
-            "name": "SHAWNEE STEAM PLANT, KY US",
-            "datacoverage": 0.9998,
-            "id": "COOP:157311",
-            "elevationUnit": "METERS",
-            "longitude": -88.78333
-        },
-        {
             "elevation": 222.5,
             "mindate": "1931-01-01",
             "maxdate": "2001-06-01",
@@ -3983,15 +3174,6 @@
             "id": "COOP:157334",
             "elevationUnit": "METERS",
             "longitude": -85.6241
-        },
-        {
-            "mindate": "1931-01-01",
-            "maxdate": "1947-07-01",
-            "latitude": 37.11667,
-            "name": "SIBERT, KY US",
-            "datacoverage": 0.3367,
-            "id": "COOP:157369",
-            "longitude": -83.8
         },
         {
             "elevation": 330.1,
@@ -4021,32 +3203,10 @@
             "maxdate": "2014-01-01",
             "latitude": 38.3409,
             "name": "SMITHFIELD 4 S, KY US",
-            "datacoverage": 0.8689,
+            "datacoverage": 0.046,
             "id": "COOP:157473",
             "elevationUnit": "METERS",
             "longitude": -85.2799
-        },
-        {
-            "elevation": 195.1,
-            "mindate": "1937-06-01",
-            "maxdate": "1944-11-01",
-            "latitude": 37.06667,
-            "name": "SMITHS GROVE, KY US",
-            "datacoverage": 0.9776,
-            "id": "COOP:157486",
-            "elevationUnit": "METERS",
-            "longitude": -86.2
-        },
-        {
-            "elevation": 264.9,
-            "mindate": "1948-08-01",
-            "maxdate": "1952-11-01",
-            "latitude": 37.11667,
-            "name": "SOMERSET HIGHWAY DEP, KY US",
-            "datacoverage": 0.9742,
-            "id": "COOP:157507",
-            "elevationUnit": "METERS",
-            "longitude": -84.58333
         },
         {
             "elevation": 291.1,
@@ -4170,26 +3330,6 @@
             "longitude": -85.7066
         },
         {
-            "mindate": "1949-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 36.88333,
-            "name": "SUMMER SHADE SUB STATION, KY US",
-            "datacoverage": 0.9689,
-            "id": "COOP:157805",
-            "longitude": -85.66667
-        },
-        {
-            "elevation": 203.9,
-            "mindate": "1948-08-01",
-            "maxdate": "1968-11-01",
-            "latitude": 37.86667,
-            "name": "TATHAM SPRINGS, KY US",
-            "datacoverage": 0.9216,
-            "id": "COOP:157924",
-            "elevationUnit": "METERS",
-            "longitude": -85.15
-        },
-        {
             "elevation": 152.4,
             "mindate": "1971-01-01",
             "maxdate": "2003-08-01",
@@ -4223,17 +3363,6 @@
             "longitude": -85.3088
         },
         {
-            "elevation": 210,
-            "mindate": "1963-10-01",
-            "maxdate": "1964-12-01",
-            "latitude": 37.86667,
-            "name": "TOMAHAWK 1 WSW, KY US",
-            "datacoverage": 0.9969,
-            "id": "COOP:157955",
-            "elevationUnit": "METERS",
-            "longitude": -82.61667
-        },
-        {
             "elevation": 555,
             "mindate": "1964-10-01",
             "maxdate": "1974-07-01",
@@ -4261,21 +3390,10 @@
             "maxdate": "1977-09-07",
             "latitude": 36.78333,
             "name": "TOMPKINSVILLE, KY US",
-            "datacoverage": 0.8952,
+            "datacoverage": 0.0517,
             "id": "COOP:158060",
             "elevationUnit": "METERS",
             "longitude": -85.66667
-        },
-        {
-            "elevation": 274.9,
-            "mindate": "1948-01-01",
-            "maxdate": "1956-07-01",
-            "latitude": 36.7,
-            "name": "TOMPKINSVILLE, KY US",
-            "datacoverage": 0.6214,
-            "id": "COOP:158065",
-            "elevationUnit": "METERS",
-            "longitude": -85.68333
         },
         {
             "elevation": 257.6,
@@ -4287,17 +3405,6 @@
             "id": "COOP:158070",
             "elevationUnit": "METERS",
             "longitude": -85.708
-        },
-        {
-            "elevation": 118.9,
-            "mindate": "1949-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 36.75,
-            "name": "TURKEY CREEK SCHOOL, KY US",
-            "datacoverage": 1,
-            "id": "COOP:158144",
-            "elevationUnit": "METERS",
-            "longitude": -88.08333
         },
         {
             "elevation": 159.7,
@@ -4331,28 +3438,6 @@
             "id": "COOP:158246",
             "elevationUnit": "METERS",
             "longitude": -84.45
-        },
-        {
-            "elevation": 167.9,
-            "mindate": "1951-05-01",
-            "maxdate": "1967-07-01",
-            "latitude": 37.96667,
-            "name": "VANBUREN, KY US",
-            "datacoverage": 0.8512,
-            "id": "COOP:158250",
-            "elevationUnit": "METERS",
-            "longitude": -85.16667
-        },
-        {
-            "elevation": 159.1,
-            "mindate": "1950-10-01",
-            "maxdate": "1951-12-01",
-            "latitude": 38.6,
-            "name": "VANCEBURG, KY US",
-            "datacoverage": 0.999,
-            "id": "COOP:158254",
-            "elevationUnit": "METERS",
-            "longitude": -83.31667
         },
         {
             "elevation": 159.1,
@@ -4426,7 +3511,7 @@
             "maxdate": "1984-03-01",
             "latitude": 37.41667,
             "name": "WAYLAND 1 S, KY US",
-            "datacoverage": 0.9898,
+            "datacoverage": 0.0484,
             "id": "COOP:158482",
             "elevationUnit": "METERS",
             "longitude": -82.8
@@ -4498,17 +3583,6 @@
             "longitude": -88.7724
         },
         {
-            "elevation": 146,
-            "mindate": "1950-12-01",
-            "maxdate": "1956-03-01",
-            "latitude": 38.48333,
-            "name": "WESTPORT, KY US",
-            "datacoverage": 0.9844,
-            "id": "COOP:158567",
-            "elevationUnit": "METERS",
-            "longitude": -85.48333
-        },
-        {
             "elevation": 268.2,
             "mindate": "1978-10-01",
             "maxdate": "2008-03-01",
@@ -4529,17 +3603,6 @@
             "id": "COOP:158633",
             "elevationUnit": "METERS",
             "longitude": -82.8281
-        },
-        {
-            "elevation": 286.5,
-            "mindate": "1931-01-01",
-            "maxdate": "1956-12-01",
-            "latitude": 36.73333,
-            "name": "WILLIAMSBURG, KY US",
-            "datacoverage": 0.9423,
-            "id": "COOP:158706",
-            "elevationUnit": "METERS",
-            "longitude": -84.15
         },
         {
             "elevation": 286.5,
@@ -4597,17 +3660,6 @@
             "longitude": -83.83333
         },
         {
-            "elevation": 301.4,
-            "mindate": "1937-05-01",
-            "maxdate": "1944-10-01",
-            "latitude": 37.91667,
-            "name": "WINCHESTER, KY US",
-            "datacoverage": 0.9883,
-            "id": "COOP:158757",
-            "elevationUnit": "METERS",
-            "longitude": -84.26667
-        },
-        {
             "elevation": 180.1,
             "mindate": "1942-08-01",
             "maxdate": "1971-10-01",
@@ -4641,17 +3693,6 @@
             "longitude": -84.81667
         },
         {
-            "elevation": 146.3,
-            "mindate": "1931-01-01",
-            "maxdate": "2014-01-01",
-            "latitude": 38.79741,
-            "name": "CHILO MELDAHL LOCKS AND DAM, KY US",
-            "datacoverage": 0.9578,
-            "id": "COOP:331536",
-            "elevationUnit": "METERS",
-            "longitude": -84.17314
-        },
-        {
             "elevation": 152.4,
             "mindate": "1945-08-01",
             "maxdate": "1982-02-01",
@@ -4672,17 +3713,6 @@
             "id": "COOP:336781",
             "elevationUnit": "METERS",
             "longitude": -82.8872
-        },
-        {
-            "elevation": 189,
-            "mindate": "1931-01-01",
-            "maxdate": "1985-10-01",
-            "latitude": 37.83333,
-            "name": "KERMIT, WV US",
-            "datacoverage": 0.7052,
-            "id": "COOP:464816",
-            "elevationUnit": "METERS",
-            "longitude": -82.4
         },
         {
             "elevation": 204.2,
@@ -8645,28 +7675,6 @@
             "longitude": -85.01073
         },
         {
-            "elevation": 100,
-            "mindate": "1911-10-01",
-            "maxdate": "1914-10-13",
-            "latitude": 37.133333,
-            "name": "METROPOLIS, KY US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00115606",
-            "elevationUnit": "METERS",
-            "longitude": -88.716667
-        },
-        {
-            "elevation": 106.7,
-            "mindate": "1892-01-01",
-            "maxdate": "2018-11-23",
-            "latitude": 37.6977,
-            "name": "SHAWNEETOWN OLD TOWN, IL US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00117859",
-            "elevationUnit": "METERS",
-            "longitude": -88.1336
-        },
-        {
             "elevation": 108.8,
             "mindate": "1980-12-01",
             "maxdate": "2020-05-17",
@@ -8676,17 +7684,6 @@
             "id": "GHCND:USC00118020",
             "elevationUnit": "METERS",
             "longitude": -88.4311
-        },
-        {
-            "elevation": 167.6,
-            "mindate": "1962-01-01",
-            "maxdate": "2010-12-31",
-            "latitude": 38.65,
-            "name": "CHARLESTOWN, IN US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00121425",
-            "elevationUnit": "METERS",
-            "longitude": -85.7
         },
         {
             "elevation": 114,
@@ -8701,25 +7698,14 @@
         },
         {
             "elevation": 100.6,
-            "mindate": "1891-01-01",
+            "mindate": "1891-07-01",
             "maxdate": "2016-03-01",
             "latitude": 37.96667,
             "name": "EVANSVILLE FORT COUR, KY US",
-            "datacoverage": 0.9699,
+            "datacoverage": 0.5037,
             "id": "GHCND:USC00122733",
             "elevationUnit": "METERS",
             "longitude": -87.58333
-        },
-        {
-            "elevation": 139.9,
-            "mindate": "1893-01-01",
-            "maxdate": "1973-12-31",
-            "latitude": 38.28333,
-            "name": "JEFFERSONVILLE, IN US",
-            "datacoverage": 0.9784,
-            "id": "GHCND:USC00124382",
-            "elevationUnit": "METERS",
-            "longitude": -85.75
         },
         {
             "elevation": 128,
@@ -8804,7 +7790,7 @@
             "maxdate": "1985-05-31",
             "latitude": 36.63333,
             "name": "ADOLPHUS, TN US",
-            "datacoverage": 0.6663,
+            "datacoverage": 0.4316,
             "id": "GHCND:USC00150043",
             "elevationUnit": "METERS",
             "longitude": -86.25
@@ -8832,17 +7818,6 @@
             "longitude": -82.66278
         },
         {
-            "elevation": 247.2,
-            "mindate": "1893-12-01",
-            "maxdate": "1921-05-31",
-            "latitude": 36.73333,
-            "name": "ALPHA, KY US",
-            "datacoverage": 0.982,
-            "id": "GHCND:USC00150122",
-            "elevationUnit": "METERS",
-            "longitude": -85.01667
-        },
-        {
             "elevation": 223.1,
             "mindate": "1895-04-01",
             "maxdate": "1982-02-28",
@@ -8854,26 +7829,6 @@
             "longitude": -85.53333
         },
         {
-            "mindate": "1930-11-01",
-            "maxdate": "1941-10-31",
-            "latitude": 37.28333,
-            "name": "ANNVILLE, KY US",
-            "datacoverage": 0.9924,
-            "id": "GHCND:USC00150174",
-            "longitude": -83.88333
-        },
-        {
-            "elevation": 156.1,
-            "mindate": "1957-07-01",
-            "maxdate": "1960-07-31",
-            "latitude": 37.13333,
-            "name": "APEX 2 NE, KY US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00150185",
-            "elevationUnit": "METERS",
-            "longitude": -87.31667
-        },
-        {
             "elevation": 305.7,
             "mindate": "2016-11-01",
             "maxdate": "2020-05-16",
@@ -8883,17 +7838,6 @@
             "id": "GHCND:USC00150202",
             "elevationUnit": "METERS",
             "longitude": -84.5889
-        },
-        {
-            "elevation": 335.9,
-            "mindate": "1940-03-01",
-            "maxdate": "1957-06-30",
-            "latitude": 37.26667,
-            "name": "ASHCAMP, KY US",
-            "datacoverage": 0.9856,
-            "id": "GHCND:USC00150246",
-            "elevationUnit": "METERS",
-            "longitude": -82.43333
         },
         {
             "elevation": 170.7,
@@ -8940,28 +7884,6 @@
             "longitude": -83.8819
         },
         {
-            "elevation": 304.8,
-            "mindate": "1940-01-01",
-            "maxdate": "1945-12-31",
-            "latitude": 36.85,
-            "name": "BARBOURVILLE NEAR, KY US",
-            "datacoverage": 0.9996,
-            "id": "GHCND:USC00150383",
-            "elevationUnit": "METERS",
-            "longitude": -83.866667
-        },
-        {
-            "elevation": 195.1,
-            "mindate": "1896-07-01",
-            "maxdate": "1950-09-30",
-            "latitude": 37.8,
-            "name": "BARDSTOWN, KY US",
-            "datacoverage": 0.914,
-            "id": "GHCND:USC00150389",
-            "elevationUnit": "METERS",
-            "longitude": -85.46667
-        },
-        {
             "elevation": 237.7,
             "mindate": "1950-01-01",
             "maxdate": "2020-05-16",
@@ -8995,15 +7917,6 @@
             "longitude": -86.1247
         },
         {
-            "mindate": "1941-01-01",
-            "maxdate": "1949-02-28",
-            "latitude": 37.31667,
-            "name": "BASS 3 SW, KY US",
-            "datacoverage": 0.9995,
-            "id": "GHCND:USC00150438",
-            "longitude": -85.16667
-        },
-        {
             "elevation": 354.8,
             "mindate": "1948-08-01",
             "maxdate": "2016-01-01",
@@ -9013,17 +7926,6 @@
             "id": "GHCND:USC00150450",
             "elevationUnit": "METERS",
             "longitude": -83.3302
-        },
-        {
-            "elevation": 198.1,
-            "mindate": "1902-10-01",
-            "maxdate": "1933-07-16",
-            "latitude": 37.6,
-            "name": "BEATTYVILLE, KY US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00150481",
-            "elevationUnit": "METERS",
-            "longitude": -83.7
         },
         {
             "elevation": 329.2,
@@ -9092,17 +7994,6 @@
             "longitude": -88.3363
         },
         {
-            "elevation": 113.1,
-            "mindate": "1956-01-01",
-            "maxdate": "1967-04-30",
-            "latitude": 36.86667,
-            "name": "BENTON 1 N, KY US",
-            "datacoverage": 0.956,
-            "id": "GHCND:USC00150615",
-            "elevationUnit": "METERS",
-            "longitude": -88.33333
-        },
-        {
             "elevation": 326.1,
             "mindate": "1901-02-01",
             "maxdate": "2013-04-29",
@@ -9169,28 +8060,6 @@
             "longitude": -82.83333
         },
         {
-            "elevation": 135.6,
-            "mindate": "1894-03-01",
-            "maxdate": "1928-04-30",
-            "latitude": 36.9,
-            "name": "BLANDVILLE, KY US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00150757",
-            "elevationUnit": "METERS",
-            "longitude": -88.96667
-        },
-        {
-            "elevation": 570,
-            "mindate": "1957-12-01",
-            "maxdate": "1958-05-31",
-            "latitude": 36.9,
-            "name": "BLEDSOE 2 SSE, KY US",
-            "datacoverage": 0.669,
-            "id": "GHCND:USC00150770",
-            "elevationUnit": "METERS",
-            "longitude": -83.33333
-        },
-        {
             "elevation": 185.9,
             "mindate": "1978-05-01",
             "maxdate": "2011-11-01",
@@ -9200,17 +8069,6 @@
             "id": "GHCND:USC00150804",
             "elevationUnit": "METERS",
             "longitude": -83.9983
-        },
-        {
-            "elevation": 223.1,
-            "mindate": "1956-01-01",
-            "maxdate": "1966-09-30",
-            "latitude": 37.43333,
-            "name": "BONNIEVILLE 4 N, KY US",
-            "datacoverage": 0.9048,
-            "id": "GHCND:USC00150854",
-            "elevationUnit": "METERS",
-            "longitude": -85.9
         },
         {
             "elevation": 231.6,
@@ -9240,7 +8098,7 @@
             "maxdate": "2016-03-01",
             "latitude": 37.76611,
             "name": "BOSTON NUMBER 2, KY US",
-            "datacoverage": 1,
+            "datacoverage": 0.1027,
             "id": "GHCND:USC00150874",
             "elevationUnit": "METERS",
             "longitude": -85.70444
@@ -9279,17 +8137,6 @@
             "longitude": -86.4755
         },
         {
-            "elevation": 143,
-            "mindate": "1949-01-01",
-            "maxdate": "1962-03-31",
-            "latitude": 37.01667,
-            "name": "BOWLING GREEN SUBSTN, KY US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00150907",
-            "elevationUnit": "METERS",
-            "longitude": -86.43333
-        },
-        {
             "elevation": 165.8,
             "mindate": "2017-04-17",
             "maxdate": "2020-03-31",
@@ -9321,17 +8168,6 @@
             "id": "GHCND:USC00150955",
             "elevationUnit": "METERS",
             "longitude": -86.1162
-        },
-        {
-            "elevation": 177.1,
-            "mindate": "1917-01-01",
-            "maxdate": "1961-08-31",
-            "latitude": 37.2,
-            "name": "BROWNSVILLE, KY US",
-            "datacoverage": 0.9627,
-            "id": "GHCND:USC00151046",
-            "elevationUnit": "METERS",
-            "longitude": -86.26667
         },
         {
             "elevation": 177.1,
@@ -9378,17 +8214,6 @@
             "longitude": -82.58333
         },
         {
-            "elevation": 265.2,
-            "mindate": "1923-11-01",
-            "maxdate": "1953-10-31",
-            "latitude": 37.7858,
-            "name": "DIX DAM, KY US",
-            "datacoverage": 0.9972,
-            "id": "GHCND:USC00151127",
-            "elevationUnit": "METERS",
-            "longitude": -84.7077
-        },
-        {
             "elevation": 182.9,
             "mindate": "1951-10-01",
             "maxdate": "2016-03-01",
@@ -9398,37 +8223,6 @@
             "id": "GHCND:USC00151137",
             "elevationUnit": "METERS",
             "longitude": -85.4
-        },
-        {
-            "elevation": 217,
-            "mindate": "1899-03-01",
-            "maxdate": "1953-06-30",
-            "latitude": 36.98333,
-            "name": "BURNSIDE, KY US",
-            "datacoverage": 0.954,
-            "id": "GHCND:USC00151156",
-            "elevationUnit": "METERS",
-            "longitude": -84.61667
-        },
-        {
-            "mindate": "1893-01-01",
-            "maxdate": "1900-05-25",
-            "latitude": 38.75,
-            "name": "CADDO, KY US",
-            "datacoverage": 0.8883,
-            "id": "GHCND:USC00151194",
-            "longitude": -84.25
-        },
-        {
-            "elevation": 116.1,
-            "mindate": "1902-06-01",
-            "maxdate": "1965-03-31",
-            "latitude": 36.76667,
-            "name": "CADIZ LOCK E, KY US",
-            "datacoverage": 0.5239,
-            "id": "GHCND:USC00151206",
-            "elevationUnit": "METERS",
-            "longitude": -87.96667
         },
         {
             "elevation": 174.7,
@@ -9451,15 +8245,6 @@
             "id": "GHCND:USC00151210",
             "elevationUnit": "METERS",
             "longitude": -87.838
-        },
-        {
-            "mindate": "1903-06-01",
-            "maxdate": "1943-04-30",
-            "latitude": 37.533333,
-            "name": "CALHOUN 1, KY US",
-            "datacoverage": 0.9854,
-            "id": "GHCND:USC00151225",
-            "longitude": -87.25
         },
         {
             "elevation": 122.5,
@@ -9517,15 +8302,6 @@
             "longitude": -87.9463
         },
         {
-            "mindate": "1896-10-01",
-            "maxdate": "1899-02-10",
-            "latitude": 38.31667,
-            "name": "CARLISLE, KY US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00151313",
-            "longitude": -84.03333
-        },
-        {
             "elevation": 309.1,
             "mindate": "1981-09-01",
             "maxdate": "2016-03-01",
@@ -9535,17 +8311,6 @@
             "id": "GHCND:USC00151318",
             "elevationUnit": "METERS",
             "longitude": -83.03333
-        },
-        {
-            "elevation": 146,
-            "mindate": "1950-07-01",
-            "maxdate": "1950-12-31",
-            "latitude": 38.68333,
-            "name": "CARROLLTON, KY US",
-            "datacoverage": 0.9947,
-            "id": "GHCND:USC00151340",
-            "elevationUnit": "METERS",
-            "longitude": -85.16667
         },
         {
             "elevation": 137.2,
@@ -9592,26 +8357,6 @@
             "longitude": -85.93333
         },
         {
-            "mindate": "1900-12-01",
-            "maxdate": "1902-09-30",
-            "latitude": 37.41667,
-            "name": "CENTERTOWN, KY US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00151431",
-            "longitude": -87
-        },
-        {
-            "elevation": 136.9,
-            "mindate": "1948-08-01",
-            "maxdate": "1951-09-30",
-            "latitude": 37.28333,
-            "name": "CENTRAL CITY, KY US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00151439",
-            "elevationUnit": "METERS",
-            "longitude": -87.11667
-        },
-        {
             "elevation": 225.6,
             "mindate": "2001-01-01",
             "maxdate": "2012-04-01",
@@ -9621,17 +8366,6 @@
             "id": "GHCND:USC00151517",
             "elevationUnit": "METERS",
             "longitude": -82.7463
-        },
-        {
-            "elevation": 161.5,
-            "mindate": "1909-05-01",
-            "maxdate": "1930-10-31",
-            "latitude": 38.25,
-            "name": "CHEROKEE PK LVILLE 2, KY US",
-            "datacoverage": 0.9999,
-            "id": "GHCND:USC00151531",
-            "elevationUnit": "METERS",
-            "longitude": -85.75
         },
         {
             "elevation": 192,
@@ -9678,17 +8412,6 @@
             "longitude": -83.01667
         },
         {
-            "elevation": 128.6,
-            "mindate": "1913-01-01",
-            "maxdate": "1928-03-31",
-            "latitude": 37.83333,
-            "name": "CLOVERPORT, KY US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00151651",
-            "elevationUnit": "METERS",
-            "longitude": -86.63333
-        },
-        {
             "elevation": 141.7,
             "mindate": "1957-10-01",
             "maxdate": "2011-10-01",
@@ -9711,17 +8434,6 @@
             "longitude": -84.1
         },
         {
-            "elevation": 223.1,
-            "mindate": "1940-01-01",
-            "maxdate": "1957-05-31",
-            "latitude": 37.1,
-            "name": "COLUMBIA, KY US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00151722",
-            "elevationUnit": "METERS",
-            "longitude": -85.3
-        },
-        {
             "elevation": 257.6,
             "mindate": "1981-01-01",
             "maxdate": "2018-02-24",
@@ -9742,17 +8454,6 @@
             "id": "GHCND:USC00151727",
             "elevationUnit": "METERS",
             "longitude": -89.12167
-        },
-        {
-            "elevation": 244.1,
-            "mindate": "1940-04-01",
-            "maxdate": "1951-09-30",
-            "latitude": 37.66667,
-            "name": "CONSTANTINE, KY US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00151763",
-            "elevationUnit": "METERS",
-            "longitude": -86.23333
         },
         {
             "elevation": 323.1,
@@ -9830,15 +8531,6 @@
             "id": "GHCND:USC00151927",
             "elevationUnit": "METERS",
             "longitude": -87.4986
-        },
-        {
-            "mindate": "1894-05-01",
-            "maxdate": "1895-09-30",
-            "latitude": 37.33333,
-            "name": "CROMWELL, KY US",
-            "datacoverage": 0.8282,
-            "id": "GHCND:USC00151943",
-            "longitude": -86.8
         },
         {
             "elevation": 112.2,
@@ -9929,17 +8621,6 @@
             "longitude": -84.7708
         },
         {
-            "elevation": 221,
-            "mindate": "1948-08-01",
-            "maxdate": "1951-09-30",
-            "latitude": 37.78333,
-            "name": "DAVELLA, KY US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00152053",
-            "elevationUnit": "METERS",
-            "longitude": -82.6
-        },
-        {
             "elevation": 140.2,
             "mindate": "1940-02-01",
             "maxdate": "2013-01-08",
@@ -9949,39 +8630,6 @@
             "id": "GHCND:USC00152072",
             "elevationUnit": "METERS",
             "longitude": -87.688
-        },
-        {
-            "elevation": 555,
-            "mindate": "1940-04-01",
-            "maxdate": "1950-02-28",
-            "latitude": 37.03333,
-            "name": "TILFORD DELPHIA, KY US",
-            "datacoverage": 0.9919,
-            "id": "GHCND:USC00152131",
-            "elevationUnit": "METERS",
-            "longitude": -83.06667
-        },
-        {
-            "elevation": 555,
-            "mindate": "1950-03-01",
-            "maxdate": "1964-09-30",
-            "latitude": 37.03333,
-            "name": "TILFORD DELPHIA, KY US",
-            "datacoverage": 0.9597,
-            "id": "GHCND:USC00152132",
-            "elevationUnit": "METERS",
-            "longitude": -83.06667
-        },
-        {
-            "elevation": 259.1,
-            "mindate": "1940-03-01",
-            "maxdate": "1965-05-31",
-            "latitude": 37.41667,
-            "name": "DEMA, KY US",
-            "datacoverage": 0.7458,
-            "id": "GHCND:USC00152139",
-            "elevationUnit": "METERS",
-            "longitude": -82.8
         },
         {
             "elevation": 210,
@@ -10004,15 +8652,6 @@
             "id": "GHCND:USC00152214",
             "elevationUnit": "METERS",
             "longitude": -84.7077
-        },
-        {
-            "mindate": "1929-05-01",
-            "maxdate": "1930-08-31",
-            "latitude": 37.28333,
-            "name": "DORTON, KY US",
-            "datacoverage": 0.9356,
-            "id": "GHCND:USC00152237",
-            "longitude": -82.56667
         },
         {
             "elevation": 243.8,
@@ -10059,37 +8698,6 @@
             "longitude": -87.05
         },
         {
-            "mindate": "1940-04-01",
-            "maxdate": "1957-07-31",
-            "latitude": 37.21667,
-            "name": "DUNNVILLE, KY US",
-            "datacoverage": 0.9904,
-            "id": "GHCND:USC00152374",
-            "longitude": -84.96667
-        },
-        {
-            "elevation": 189,
-            "mindate": "1936-01-01",
-            "maxdate": "1946-11-30",
-            "latitude": 36.9,
-            "name": "EADSVILLE LOCK 21, KY US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00152396",
-            "elevationUnit": "METERS",
-            "longitude": -84.88333
-        },
-        {
-            "elevation": 128,
-            "mindate": "1893-01-01",
-            "maxdate": "1948-09-30",
-            "latitude": 37.26667,
-            "name": "EARLINGTON, KY US",
-            "datacoverage": 0.9941,
-            "id": "GHCND:USC00152407",
-            "elevationUnit": "METERS",
-            "longitude": -87.51667
-        },
-        {
             "elevation": 304.8,
             "mindate": "1977-01-01",
             "maxdate": "2010-12-31",
@@ -10112,17 +8720,6 @@
             "longitude": -88.0727
         },
         {
-            "elevation": 128,
-            "mindate": "1948-06-01",
-            "maxdate": "1964-07-31",
-            "latitude": 37.05,
-            "name": "EDDYVILLE LOCK F, KY US",
-            "datacoverage": 0.9995,
-            "id": "GHCND:USC00152445",
-            "elevationUnit": "METERS",
-            "longitude": -88.08333
-        },
-        {
             "elevation": 237.7,
             "mindate": "1893-01-01",
             "maxdate": "1977-07-31",
@@ -10143,17 +8740,6 @@
             "id": "GHCND:USC00152500",
             "elevationUnit": "METERS",
             "longitude": -85.8305
-        },
-        {
-            "elevation": 225.9,
-            "mindate": "1893-11-01",
-            "maxdate": "1964-06-30",
-            "latitude": 37.68333,
-            "name": "ELIZABETHTOWN, KY US",
-            "datacoverage": 0.5879,
-            "id": "GHCND:USC00152510",
-            "elevationUnit": "METERS",
-            "longitude": -85.86667
         },
         {
             "elevation": 210.3,
@@ -10189,15 +8775,6 @@
             "longitude": -87.153
         },
         {
-            "mindate": "1897-02-01",
-            "maxdate": "1899-08-31",
-            "latitude": 37.8,
-            "name": "ENSOR, KY US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00152564",
-            "longitude": -86.98333
-        },
-        {
             "elevation": 243.8,
             "mindate": "2008-02-01",
             "maxdate": "2015-05-31",
@@ -10209,17 +8786,6 @@
             "longitude": -85.8975
         },
         {
-            "elevation": 360,
-            "mindate": "1893-06-01",
-            "maxdate": "1942-05-31",
-            "latitude": 37.26667,
-            "name": "EUBANK, KY US",
-            "datacoverage": 0.9014,
-            "id": "GHCND:USC00152698",
-            "elevationUnit": "METERS",
-            "longitude": -84.65
-        },
-        {
             "elevation": 195.1,
             "mindate": "1982-11-01",
             "maxdate": "1984-05-31",
@@ -10229,17 +8795,6 @@
             "id": "GHCND:USC00152740",
             "elevationUnit": "METERS",
             "longitude": -82.75
-        },
-        {
-            "elevation": 170.7,
-            "mindate": "1940-04-01",
-            "maxdate": "1964-03-31",
-            "latitude": 37.6177,
-            "name": "ROUGH RIVER LAKE, KY US",
-            "datacoverage": 0.9991,
-            "id": "GHCND:USC00152770",
-            "elevationUnit": "METERS",
-            "longitude": -86.5044
         },
         {
             "elevation": 249.6,
@@ -10539,28 +9094,6 @@
             "longitude": -88.01389
         },
         {
-            "elevation": 283.5,
-            "mindate": "1940-04-01",
-            "maxdate": "1946-10-31",
-            "latitude": 37.1,
-            "name": "GOOSEROCK, KY US",
-            "datacoverage": 0.9998,
-            "id": "GHCND:USC00153304",
-            "elevationUnit": "METERS",
-            "longitude": -83.71667
-        },
-        {
-            "elevation": 153,
-            "mindate": "1924-12-01",
-            "maxdate": "1962-10-31",
-            "latitude": 38.98333,
-            "name": "GRANT DAM 38, KY US",
-            "datacoverage": 0.9912,
-            "id": "GHCND:USC00153358",
-            "elevationUnit": "METERS",
-            "longitude": -84.83333
-        },
-        {
             "elevation": 381,
             "mindate": "1972-09-01",
             "maxdate": "2010-12-31",
@@ -10594,17 +9127,6 @@
             "longitude": -82.97472
         },
         {
-            "elevation": 274.9,
-            "mindate": "1959-06-01",
-            "maxdate": "1969-03-31",
-            "latitude": 38.3,
-            "name": "GRAYSON 3 SE, KY US",
-            "datacoverage": 0.9991,
-            "id": "GHCND:USC00153392",
-            "elevationUnit": "METERS",
-            "longitude": -82.93333
-        },
-        {
             "elevation": 217.9,
             "mindate": "1969-07-01",
             "maxdate": "2012-01-09",
@@ -10614,26 +9136,6 @@
             "id": "GHCND:USC00153398",
             "elevationUnit": "METERS",
             "longitude": -82.9885
-        },
-        {
-            "mindate": "1933-06-01",
-            "maxdate": "1936-08-31",
-            "latitude": 37.08333,
-            "name": "GREENCASTLE, KY US",
-            "datacoverage": 0.9991,
-            "id": "GHCND:USC00153404",
-            "longitude": -86.5
-        },
-        {
-            "elevation": 288.6,
-            "mindate": "1893-05-01",
-            "maxdate": "1896-10-31",
-            "latitude": 38.1,
-            "name": "GREENDALE, KY US",
-            "datacoverage": 0.9987,
-            "id": "GHCND:USC00153408",
-            "elevationUnit": "METERS",
-            "longitude": -84.53333
         },
         {
             "elevation": 128,
@@ -10680,17 +9182,6 @@
             "longitude": -87.21667
         },
         {
-            "elevation": 225.9,
-            "mindate": "1940-04-01",
-            "maxdate": "1951-09-30",
-            "latitude": 37.05,
-            "name": "HALEYS MILL, KY US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00153539",
-            "elevationUnit": "METERS",
-            "longitude": -87.33333
-        },
-        {
             "elevation": 217.9,
             "mindate": "1974-01-01",
             "maxdate": "2010-12-31",
@@ -10700,17 +9191,6 @@
             "id": "GHCND:USC00153604",
             "elevationUnit": "METERS",
             "longitude": -86.4622
-        },
-        {
-            "elevation": 366.1,
-            "mindate": "1918-09-01",
-            "maxdate": "1952-02-19",
-            "latitude": 36.83333,
-            "name": "HARLAN, KY US",
-            "datacoverage": 0.3781,
-            "id": "GHCND:USC00153622",
-            "elevationUnit": "METERS",
-            "longitude": -83.31667
         },
         {
             "elevation": 378,
@@ -10735,15 +9215,6 @@
             "longitude": -83.31444
         },
         {
-            "mindate": "1893-01-01",
-            "maxdate": "1895-05-31",
-            "latitude": 37.75,
-            "name": "HARRODSBURG, KY US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00153645",
-            "longitude": -84.85
-        },
-        {
             "elevation": 131.1,
             "mindate": "1938-09-01",
             "maxdate": "1988-10-31",
@@ -10753,17 +9224,6 @@
             "id": "GHCND:USC00153652",
             "elevationUnit": "METERS",
             "longitude": -86.9
-        },
-        {
-            "elevation": 264.9,
-            "mindate": "1913-10-01",
-            "maxdate": "1951-09-30",
-            "latitude": 37.25,
-            "name": "HAZARD, KY US",
-            "datacoverage": 0.7478,
-            "id": "GHCND:USC00153709",
-            "elevationUnit": "METERS",
-            "longitude": -83.2
         },
         {
             "elevation": 404.8,
@@ -10810,17 +9270,6 @@
             "longitude": -83.45
         },
         {
-            "elevation": 262.1,
-            "mindate": "1941-05-01",
-            "maxdate": "1950-05-31",
-            "latitude": 38.4,
-            "name": "HEADQUARTERS, KY US",
-            "datacoverage": 0.9995,
-            "id": "GHCND:USC00153722",
-            "elevationUnit": "METERS",
-            "longitude": -84.11667
-        },
-        {
             "elevation": 202.7,
             "mindate": "1932-01-01",
             "maxdate": "2010-12-31",
@@ -10865,15 +9314,6 @@
             "longitude": -87.5708
         },
         {
-            "mindate": "1893-01-01",
-            "maxdate": "1895-09-30",
-            "latitude": 37.71667,
-            "name": "HENDRICKS, KY US",
-            "datacoverage": 0.9104,
-            "id": "GHCND:USC00153781",
-            "longitude": -83.1
-        },
-        {
             "elevation": 170.7,
             "mindate": "1948-08-01",
             "maxdate": "2020-05-16",
@@ -10894,17 +9334,6 @@
             "id": "GHCND:USC00153816",
             "elevationUnit": "METERS",
             "longitude": -89.16667
-        },
-        {
-            "elevation": 134.1,
-            "mindate": "1949-01-01",
-            "maxdate": "1962-03-31",
-            "latitude": 36.8,
-            "name": "HICKSVILLE, KY US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00153821",
-            "elevationUnit": "METERS",
-            "longitude": -88.5
         },
         {
             "elevation": 164.6,
@@ -10940,26 +9369,1643 @@
             "longitude": -82.88333
         },
         {
-            "elevation": 363,
-            "mindate": "1948-01-01",
-            "maxdate": "1962-01-09",
-            "latitude": 37.33333,
-            "name": "HINDMAN, KY US",
-            "datacoverage": 0.9997,
-            "id": "GHCND:USC00153899",
+            "elevation": 240.2,
+            "mindate": "1948-08-01",
+            "maxdate": "2019-02-22",
+            "latitude": 37.5316,
+            "name": "HODGENVILLE LINCOLN, KY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00153929",
             "elevationUnit": "METERS",
-            "longitude": -82.98333
+            "longitude": -85.735
+        },
+        {
+            "elevation": 158.5,
+            "mindate": "1896-05-01",
+            "maxdate": "2020-02-29",
+            "latitude": 36.8491,
+            "name": "HOPKINSVILLE, KY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00153994",
+            "elevationUnit": "METERS",
+            "longitude": -87.5205
+        },
+        {
+            "elevation": 295.7,
+            "mindate": "1940-04-01",
+            "maxdate": "2008-01-31",
+            "latitude": 37.15,
+            "name": "HYDEN, KY US",
+            "datacoverage": 0.6953,
+            "id": "GHCND:USC00154093",
+            "elevationUnit": "METERS",
+            "longitude": -83.36
+        },
+        {
+            "elevation": 275.8,
+            "mindate": "2007-10-01",
+            "maxdate": "2008-06-30",
+            "latitude": 37.18528,
+            "name": "HYDEN 4 NW, KY US",
+            "datacoverage": 0.9973,
+            "id": "GHCND:USC00154095",
+            "elevationUnit": "METERS",
+            "longitude": -83.43417
+        },
+        {
+            "elevation": 359.7,
+            "mindate": "1978-01-01",
+            "maxdate": "1990-10-31",
+            "latitude": 37.13333,
+            "name": "HYDEN 4 E, KY US",
+            "datacoverage": 0.9997,
+            "id": "GHCND:USC00154097",
+            "elevationUnit": "METERS",
+            "longitude": -83.33333
+        },
+        {
+            "elevation": 216.4,
+            "mindate": "1990-07-01",
+            "maxdate": "2020-05-17",
+            "latitude": 37.8725,
+            "name": "INEZ 2 E, KY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00154138",
+            "elevationUnit": "METERS",
+            "longitude": -82.5195
+        },
+        {
+            "elevation": 180.1,
+            "mindate": "1897-07-01",
+            "maxdate": "1973-12-31",
+            "latitude": 37.88333,
+            "name": "IRVINGTON, KY US",
+            "datacoverage": 0.9967,
+            "id": "GHCND:USC00154165",
+            "elevationUnit": "METERS",
+            "longitude": -86.28333
+        },
+        {
+            "elevation": 204.2,
+            "mindate": "1977-11-01",
+            "maxdate": "2011-12-30",
+            "latitude": 37.57528,
+            "name": "IVEL, KY US",
+            "datacoverage": 0.9732,
+            "id": "GHCND:USC00154180",
+            "elevationUnit": "METERS",
+            "longitude": -82.66278
+        },
+        {
+            "elevation": 227.1,
+            "mindate": "1894-05-01",
+            "maxdate": "1984-04-30",
+            "latitude": 37.55,
+            "name": "JACKSON, KY US",
+            "datacoverage": 0.6362,
+            "id": "GHCND:USC00154196",
+            "elevationUnit": "METERS",
+            "longitude": -83.38333
+        },
+        {
+            "elevation": 271.3,
+            "mindate": "1971-01-01",
+            "maxdate": "2020-04-14",
+            "latitude": 37.0055,
+            "name": "JAMESTOWN, KY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00154208",
+            "elevationUnit": "METERS",
+            "longitude": -85.0616
+        },
+        {
+            "elevation": 335.3,
+            "mindate": "1940-04-01",
+            "maxdate": "2014-09-12",
+            "latitude": 37.1614,
+            "name": "JEREMIAH 1 S, KY US",
+            "datacoverage": 0.9486,
+            "id": "GHCND:USC00154255",
+            "elevationUnit": "METERS",
+            "longitude": -82.9364
+        },
+        {
+            "elevation": 287.1,
+            "mindate": "1978-01-01",
+            "maxdate": "1984-09-30",
+            "latitude": 38.65,
+            "name": "JONESVILLE 1 S, KY US",
+            "datacoverage": 0.9994,
+            "id": "GHCND:USC00154309",
+            "elevationUnit": "METERS",
+            "longitude": -84.78333
+        },
+        {
+            "elevation": 265.2,
+            "mindate": "1941-05-01",
+            "maxdate": "2010-12-31",
+            "latitude": 37.93972,
+            "name": "KEENE 1 WSW, KY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00154369",
+            "elevationUnit": "METERS",
+            "longitude": -84.65972
+        },
+        {
+            "elevation": 147.5,
+            "mindate": "2005-05-01",
+            "maxdate": "2020-05-17",
+            "latitude": 36.76,
+            "name": "KENLAKE RESORT, KY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00154375",
+            "elevationUnit": "METERS",
+            "longitude": -88.1386
+        },
+        {
+            "elevation": 298.4,
+            "mindate": "2002-09-01",
+            "maxdate": "2008-06-30",
+            "latitude": 36.69389,
+            "name": "KETTLE, KY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00154376",
+            "elevationUnit": "METERS",
+            "longitude": -85.41944
+        },
+        {
+            "elevation": 396.2,
+            "mindate": "2001-11-01",
+            "maxdate": "2002-07-31",
+            "latitude": 37.3975,
+            "name": "KINGS MOUNTAIN 2 NE, KY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00154433",
+            "elevationUnit": "METERS",
+            "longitude": -84.65306
+        },
+        {
+            "elevation": 310.9,
+            "mindate": "2009-11-01",
+            "maxdate": "2020-05-05",
+            "latitude": 37.0245,
+            "name": "KNOB LICK 4 S, KY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00154449",
+            "elevationUnit": "METERS",
+            "longitude": -85.6987
+        },
+        {
+            "elevation": 140.2,
+            "mindate": "1982-01-01",
+            "maxdate": "1985-12-31",
+            "latitude": 37.06667,
+            "name": "KUTTAWA 2 NE, KY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00154453",
+            "elevationUnit": "METERS",
+            "longitude": -88.16667
+        },
+        {
+            "elevation": 114,
+            "mindate": "2006-10-01",
+            "maxdate": "2007-04-30",
+            "latitude": 37.1075,
+            "name": "LA CENTER 2 N, KY US",
+            "datacoverage": 0.8614,
+            "id": "GHCND:USC00154580",
+            "elevationUnit": "METERS",
+            "longitude": -88.97861
+        },
+        {
+            "elevation": 137.8,
+            "mindate": "2006-08-01",
+            "maxdate": "2008-11-30",
+            "latitude": 37.02583,
+            "name": "LA CENTER 7 SSE, KY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00154593",
+            "elevationUnit": "METERS",
+            "longitude": -88.93333
+        },
+        {
+            "elevation": 238,
+            "mindate": "1893-01-01",
+            "maxdate": "1985-06-30",
+            "latitude": 38.43333,
+            "name": "LA GRANGE, KY US",
+            "datacoverage": 0.5451,
+            "id": "GHCND:USC00154595",
+            "elevationUnit": "METERS",
+            "longitude": -85.36667
+        },
+        {
+            "elevation": 259.1,
+            "mindate": "1985-03-01",
+            "maxdate": "2001-09-30",
+            "latitude": 38.38333,
+            "name": "LAGRANGE ST POLICE, KY US",
+            "datacoverage": 0.9898,
+            "id": "GHCND:USC00154601",
+            "elevationUnit": "METERS",
+            "longitude": -85.4
+        },
+        {
+            "elevation": 310.9,
+            "mindate": "1925-09-01",
+            "maxdate": "2010-12-31",
+            "latitude": 37.61722,
+            "name": "LANCASTER, KY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00154620",
+            "elevationUnit": "METERS",
+            "longitude": -84.57056
+        },
+        {
+            "elevation": 245.4,
+            "mindate": "2011-10-01",
+            "maxdate": "2015-09-30",
+            "latitude": 37.5725,
+            "name": "LEBANON, KY US",
+            "datacoverage": 0.6806,
+            "id": "GHCND:USC00154649",
+            "elevationUnit": "METERS",
+            "longitude": -85.2557
+        },
+        {
+            "elevation": 189,
+            "mindate": "1895-10-01",
+            "maxdate": "2018-04-30",
+            "latitude": 37.5108,
+            "name": "LEITCHFIELD 2 N, KY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00154703",
+            "elevationUnit": "METERS",
+            "longitude": -86.2891
+        },
+        {
+            "elevation": 132,
+            "mindate": "2007-10-01",
+            "maxdate": "2013-07-01",
+            "latitude": 36.9925,
+            "name": "LEWISBURG, KY US",
+            "datacoverage": 0.3571,
+            "id": "GHCND:USC00154720",
+            "elevationUnit": "METERS",
+            "longitude": -86.9447
+        },
+        {
+            "elevation": 120.4,
+            "mindate": "1996-01-01",
+            "maxdate": "2015-02-14",
+            "latitude": 37.8934,
+            "name": "LEWISPORT 4 S, KY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00154732",
+            "elevationUnit": "METERS",
+            "longitude": -86.906
+        },
+        {
+            "elevation": 265.2,
+            "mindate": "1941-04-01",
+            "maxdate": "2016-03-01",
+            "latitude": 37.25083,
+            "name": "LIBERTY, KY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00154755",
+            "elevationUnit": "METERS",
+            "longitude": -84.93278
+        },
+        {
+            "elevation": 158.8,
+            "mindate": "1923-01-01",
+            "maxdate": "1981-05-31",
+            "latitude": 37.75,
+            "name": "LITTLE HICKMAN LOCK, KY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00154825",
+            "elevationUnit": "METERS",
+            "longitude": -84.58333
+        },
+        {
+            "elevation": 110,
+            "mindate": "1975-04-01",
+            "maxdate": "1976-05-31",
+            "latitude": 37.48333,
+            "name": "LIVERMORE, KY US",
+            "datacoverage": 0.9819,
+            "id": "GHCND:USC00154836",
+            "elevationUnit": "METERS",
+            "longitude": -87.13333
+        },
+        {
+            "elevation": 133.2,
+            "mindate": "2004-01-01",
+            "maxdate": "2007-08-31",
+            "latitude": 37.4941,
+            "name": "LIVERMORE 1 ESE, KY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00154838",
+            "elevationUnit": "METERS",
+            "longitude": -87.1391
+        },
+        {
+            "elevation": 160.9,
+            "mindate": "1961-03-01",
+            "maxdate": "2020-05-17",
+            "latitude": 38.64812,
+            "name": "GREENUP LOCKS AND DAM, KY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00154848",
+            "elevationUnit": "METERS",
+            "longitude": -82.86115
+        },
+        {
+            "elevation": 149.4,
+            "mindate": "1923-11-01",
+            "maxdate": "2010-12-31",
+            "latitude": 38.43333,
+            "name": "LOCKPORT LOCK 2, KY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00154857",
+            "elevationUnit": "METERS",
+            "longitude": -84.97639
+        },
+        {
+            "elevation": 390.8,
+            "mindate": "1914-01-01",
+            "maxdate": "2014-06-12",
+            "latitude": 37.1475,
+            "name": "LONDON, KY US",
+            "datacoverage": 0.2017,
+            "id": "GHCND:USC00154893",
+            "elevationUnit": "METERS",
+            "longitude": -84.0833
+        },
+        {
+            "elevation": 370.3,
+            "mindate": "1981-01-01",
+            "maxdate": "2018-02-22",
+            "latitude": 37.13583,
+            "name": "LONDON STATE POLICE, KY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00154905",
+            "elevationUnit": "METERS",
+            "longitude": -84.10389
+        },
+        {
+            "elevation": 198.1,
+            "mindate": "1951-09-01",
+            "maxdate": "2010-12-31",
+            "latitude": 38.10861,
+            "name": "LOUISA 2 S, KY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00154946",
+            "elevationUnit": "METERS",
+            "longitude": -82.60278
+        },
+        {
+            "elevation": 232.3,
+            "mindate": "1996-12-01",
+            "maxdate": "2020-05-14",
+            "latitude": 38.125,
+            "name": "LOUISA 5 W, KY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00154948",
+            "elevationUnit": "METERS",
+            "longitude": -82.6934
+        },
+        {
+            "elevation": 140.8,
+            "mindate": "1955-01-01",
+            "maxdate": "1982-04-14",
+            "latitude": 38.23333,
+            "name": "LOUISVILLE, KY US",
+            "datacoverage": 0.9993,
+            "id": "GHCND:USC00154949",
+            "elevationUnit": "METERS",
+            "longitude": -85.76667
+        },
+        {
+            "elevation": 134.1,
+            "mindate": "1948-06-01",
+            "maxdate": "2020-05-17",
+            "latitude": 38.27778,
+            "name": "LOUISVILLE UPPR GAGE, KY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00154955",
+            "elevationUnit": "METERS",
+            "longitude": -85.79167
+        },
+        {
+            "elevation": 192.6,
+            "mindate": "1997-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 38.1151,
+            "name": "LOUISVILLE WEATHER FORECAST OFFICE, KY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00154958",
+            "elevationUnit": "METERS",
+            "longitude": -85.6445
+        },
+        {
+            "elevation": 112.8,
+            "mindate": "1925-04-01",
+            "maxdate": "2010-12-31",
+            "latitude": 36.96917,
+            "name": "LOVELACEVILLE, KY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00154967",
+            "elevationUnit": "METERS",
+            "longitude": -88.83139
+        },
+        {
+            "elevation": 129.5,
+            "mindate": "1946-06-01",
+            "maxdate": "2020-05-14",
+            "latitude": 37.3475,
+            "name": "MADISONVILLE, KY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00155067",
+            "elevationUnit": "METERS",
+            "longitude": -87.5238
+        },
+        {
+            "elevation": 131.1,
+            "mindate": "1981-10-01",
+            "maxdate": "2010-12-31",
+            "latitude": 37.22028,
+            "name": "MADISONVILLE ST POL, KY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00155072",
+            "elevationUnit": "METERS",
+            "longitude": -87.42833
+        },
+        {
+            "elevation": 231.6,
+            "mindate": "1934-07-01",
+            "maxdate": "2020-05-15",
+            "latitude": 37.1318,
+            "name": "MAMMOTH CAVE, KY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00155097",
+            "elevationUnit": "METERS",
+            "longitude": -86.1481
+        },
+        {
+            "elevation": 265.2,
+            "mindate": "1901-01-01",
+            "maxdate": "2010-12-31",
+            "latitude": 37.15,
+            "name": "MANCHESTER 4 W, KY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00155111",
+            "elevationUnit": "METERS",
+            "longitude": -83.81667
+        },
+        {
+            "elevation": 164.6,
+            "mindate": "1981-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 37.3441,
+            "name": "MARION 1 NE, KY US",
+            "datacoverage": 0.9879,
+            "id": "GHCND:USC00155150",
+            "elevationUnit": "METERS",
+            "longitude": -88.0658
+        },
+        {
+            "elevation": 195.1,
+            "mindate": "1894-05-01",
+            "maxdate": "2010-12-31",
+            "latitude": 36.8425,
+            "name": "MARROWBONE, KY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00155165",
+            "elevationUnit": "METERS",
+            "longitude": -85.5244
+        },
+        {
+            "elevation": 200.9,
+            "mindate": "1960-05-01",
+            "maxdate": "1970-11-19",
+            "latitude": 37.56667,
+            "name": "MARTIN, KY US",
+            "datacoverage": 0.9841,
+            "id": "GHCND:USC00155171",
+            "elevationUnit": "METERS",
+            "longitude": -82.75
+        },
+        {
+            "elevation": 192,
+            "mindate": "1981-01-01",
+            "maxdate": "2010-12-31",
+            "latitude": 37.55,
+            "name": "MARTIN 1 S, KY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00155175",
+            "elevationUnit": "METERS",
+            "longitude": -82.76667
+        },
+        {
+            "elevation": 115.8,
+            "mindate": "1967-05-01",
+            "maxdate": "2010-12-31",
+            "latitude": 36.75806,
+            "name": "MAYFIELD RADIO WLLE, KY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00155233",
+            "elevationUnit": "METERS",
+            "longitude": -88.64056
+        },
+        {
+            "elevation": 137.2,
+            "mindate": "1981-10-01",
+            "maxdate": "2018-02-27",
+            "latitude": 36.8583,
+            "name": "MAYFIELD STATE POLICE, KY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00155235",
+            "elevationUnit": "METERS",
+            "longitude": -88.6686
+        },
+        {
+            "elevation": 157,
+            "mindate": "1896-02-01",
+            "maxdate": "2020-03-31",
+            "latitude": 38.6869,
+            "name": "MAYSVILLE WASTEWATER TREATMENT PLANT, KY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00155243",
+            "elevationUnit": "METERS",
+            "longitude": -83.7872
+        },
+        {
+            "elevation": 129.5,
+            "mindate": "2008-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 37.6497,
+            "name": "MCDANIELS, KY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00155280",
+            "elevationUnit": "METERS",
+            "longitude": -86.4308
+        },
+        {
+            "elevation": 305.1,
+            "mindate": "1951-11-01",
+            "maxdate": "1971-09-30",
+            "latitude": 37.43333,
+            "name": "MCKEE, KY US",
+            "datacoverage": 0.9959,
+            "id": "GHCND:USC00155291",
+            "elevationUnit": "METERS",
+            "longitude": -84
+        },
+        {
+            "elevation": 268.2,
+            "mindate": "1958-07-01",
+            "maxdate": "2010-12-31",
+            "latitude": 37.53333,
+            "name": "META 4 SE, KY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00155370",
+            "elevationUnit": "METERS",
+            "longitude": -82.38333
+        },
+        {
+            "elevation": 344.4,
+            "mindate": "1892-12-01",
+            "maxdate": "2011-12-01",
+            "latitude": 36.60861,
+            "name": "MIDDLESBORO FIRE DEPARTMENT, KY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00155389",
+            "elevationUnit": "METERS",
+            "longitude": -83.71444
+        },
+        {
+            "elevation": 411.8,
+            "mindate": "2011-01-01",
+            "maxdate": "2016-03-29",
+            "latitude": 36.6139,
+            "name": "MIDDLESBORO 4 W, KY US",
+            "datacoverage": 0.9998,
+            "id": "GHCND:USC00155390",
+            "elevationUnit": "METERS",
+            "longitude": -83.7896
+        },
+        {
+            "elevation": 235,
+            "mindate": "1940-12-01",
+            "maxdate": "1978-02-28",
+            "latitude": 38.15,
+            "name": "MIDWAY, KY US",
+            "datacoverage": 0.9531,
+            "id": "GHCND:USC00155407",
+            "elevationUnit": "METERS",
+            "longitude": -84.68333
+        },
+        {
+            "elevation": 256,
+            "mindate": "1948-08-01",
+            "maxdate": "1985-02-28",
+            "latitude": 38.3,
+            "name": "MILLERSBURG 2 NE, KY US",
+            "datacoverage": 0.098,
+            "id": "GHCND:USC00155430",
+            "elevationUnit": "METERS",
+            "longitude": -84.13333
+        },
+        {
+            "elevation": 182.9,
+            "mindate": "1940-01-01",
+            "maxdate": "1985-07-31",
+            "latitude": 37.45,
+            "name": "MILLERSTOWN, KY US",
+            "datacoverage": 0.9945,
+            "id": "GHCND:USC00155438",
+            "elevationUnit": "METERS",
+            "longitude": -86.05
+        },
+        {
+            "elevation": 182.9,
+            "mindate": "2006-09-01",
+            "maxdate": "2020-05-17",
+            "latitude": 37.4335,
+            "name": "MILLERTOWN 4 E, KY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00155444",
+            "elevationUnit": "METERS",
+            "longitude": -86.0089
+        },
+        {
+            "elevation": 298.4,
+            "mindate": "1936-04-01",
+            "maxdate": "2013-07-02",
+            "latitude": 36.86667,
+            "name": "MONTICELLO 3 NE, KY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00155524",
+            "elevationUnit": "METERS",
+            "longitude": -84.8275
+        },
+        {
+            "elevation": 253,
+            "mindate": "1948-08-01",
+            "maxdate": "2009-04-01",
+            "latitude": 38.2191,
+            "name": "MOREHEAD 3 NW, KY US",
+            "datacoverage": 0.1152,
+            "id": "GHCND:USC00155555",
+            "elevationUnit": "METERS",
+            "longitude": -83.4773
+        },
+        {
+            "elevation": 231.6,
+            "mindate": "1983-12-01",
+            "maxdate": "2018-02-21",
+            "latitude": 38.18639,
+            "name": "MOREHEAD ST POLICE, KY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00155559",
+            "elevationUnit": "METERS",
+            "longitude": -83.46694
+        },
+        {
+            "elevation": 161.8,
+            "mindate": "2005-07-01",
+            "maxdate": "2009-01-31",
+            "latitude": 37.5827,
+            "name": "MORGANFIELD 12 SE, KY US",
+            "datacoverage": 0.9983,
+            "id": "GHCND:USC00155569",
+            "elevationUnit": "METERS",
+            "longitude": -87.8577
+        },
+        {
+            "elevation": 292.6,
+            "mindate": "1892-12-01",
+            "maxdate": "2020-04-01",
+            "latitude": 38.05833,
+            "name": "MOUNT STERLING, KY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00155640",
+            "elevationUnit": "METERS",
+            "longitude": -83.93333
+        },
+        {
+            "elevation": 353.6,
+            "mindate": "1956-01-01",
+            "maxdate": "2016-11-30",
+            "latitude": 37.35417,
+            "name": "MOUNT VERNON, KY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00155648",
+            "elevationUnit": "METERS",
+            "longitude": -84.33694
+        },
+        {
+            "elevation": 251.5,
+            "mindate": "2004-07-01",
+            "maxdate": "2007-02-01",
+            "latitude": 38.0286,
+            "name": "MOUNT WASHINGTON, KY US",
+            "datacoverage": 0.9297,
+            "id": "GHCND:USC00155650",
+            "elevationUnit": "METERS",
+            "longitude": -85.5619
+        },
+        {
+            "elevation": 207.3,
+            "mindate": "1893-04-01",
+            "maxdate": "2003-06-30",
+            "latitude": 37.33472,
+            "name": "MUNFORDVILLE 5 NW, KY US",
+            "datacoverage": 0.6191,
+            "id": "GHCND:USC00155684",
+            "elevationUnit": "METERS",
+            "longitude": -85.95028
+        },
+        {
+            "elevation": 160.6,
+            "mindate": "1926-04-01",
+            "maxdate": "2020-05-08",
+            "latitude": 36.6122,
+            "name": "MURRAY, KY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00155694",
+            "elevationUnit": "METERS",
+            "longitude": -88.3083
+        },
+        {
+            "elevation": 265.2,
+            "mindate": "2008-04-01",
+            "maxdate": "2013-08-02",
+            "latitude": 38.7608,
+            "name": "NAPOLEON, KY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00155706",
+            "elevationUnit": "METERS",
+            "longitude": -84.7923
+        },
+        {
+            "elevation": 289.6,
+            "mindate": "1981-01-01",
+            "maxdate": "1994-08-31",
+            "latitude": 37.78333,
+            "name": "NATURAL BRIDGE ST PK, KY US",
+            "datacoverage": 0.9689,
+            "id": "GHCND:USC00155714",
+            "elevationUnit": "METERS",
+            "longitude": -83.68333
+        },
+        {
+            "elevation": 163.7,
+            "mindate": "2002-01-01",
+            "maxdate": "2010-12-31",
+            "latitude": 36.5963,
+            "name": "NEW CONCORD 4 NW, KY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00155757",
+            "elevationUnit": "METERS",
+            "longitude": -88.2194
+        },
+        {
+            "elevation": 245.4,
+            "mindate": "2016-07-01",
+            "maxdate": "2020-05-17",
+            "latitude": 38.4708,
+            "name": "NEW CASTLE 4 NE, KY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00155758",
+            "elevationUnit": "METERS",
+            "longitude": -85.117
+        },
+        {
+            "elevation": 189.9,
+            "mindate": "1964-04-01",
+            "maxdate": "2020-05-14",
+            "latitude": 37.2813,
+            "name": "NOLIN RIVER LAKE, KY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00155834",
+            "elevationUnit": "METERS",
+            "longitude": -86.2497
+        },
+        {
+            "elevation": 270.7,
+            "mindate": "1948-08-01",
+            "maxdate": "2020-05-17",
+            "latitude": 38.34233,
+            "name": "OLIVE HILL 5 NE, KY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00156012",
+            "elevationUnit": "METERS",
+            "longitude": -83.10382
+        },
+        {
+            "elevation": 231.6,
+            "mindate": "1957-07-01",
+            "maxdate": "2020-05-16",
+            "latitude": 37.2669,
+            "name": "ONEIDA, KY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00156028",
+            "elevationUnit": "METERS",
+            "longitude": -83.6501
+        },
+        {
+            "elevation": 120.7,
+            "mindate": "1896-07-01",
+            "maxdate": "2010-12-31",
+            "latitude": 37.78278,
+            "name": "OWENSBORO, IN US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00156091",
+            "elevationUnit": "METERS",
+            "longitude": -87.11833
+        },
+        {
+            "elevation": 121.9,
+            "mindate": "1994-08-01",
+            "maxdate": "2020-02-29",
+            "latitude": 37.7908,
+            "name": "OWENSBORO 3 E, KY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00156094",
+            "elevationUnit": "METERS",
+            "longitude": -87.0663
+        },
+        {
+            "elevation": 125,
+            "mindate": "1928-01-01",
+            "maxdate": "1990-03-30",
+            "latitude": 37.76667,
+            "name": "OWENSBORO TRTMNT PLANT, KY US",
+            "datacoverage": 0.9492,
+            "id": "GHCND:USC00156096",
+            "elevationUnit": "METERS",
+            "longitude": -87.08333
+        },
+        {
+            "elevation": 292.9,
+            "mindate": "1970-01-01",
+            "maxdate": "1984-03-31",
+            "latitude": 38.51667,
+            "name": "OWENTON, KY US",
+            "datacoverage": 0.9111,
+            "id": "GHCND:USC00156104",
+            "elevationUnit": "METERS",
+            "longitude": -84.81667
+        },
+        {
+            "elevation": 249.9,
+            "mindate": "1963-05-01",
+            "maxdate": "1970-02-28",
+            "latitude": 38.53333,
+            "name": "OWENTON 2 S, KY US",
+            "datacoverage": 0.9024,
+            "id": "GHCND:USC00156106",
+            "elevationUnit": "METERS",
+            "longitude": -84.83333
+        },
+        {
+            "elevation": 103.9,
+            "mindate": "1893-01-01",
+            "maxdate": "1970-08-31",
+            "latitude": 37.1,
+            "name": "PADUCAH, KY US",
+            "datacoverage": 0.9475,
+            "id": "GHCND:USC00156115",
+            "elevationUnit": "METERS",
+            "longitude": -88.61667
+        },
+        {
+            "elevation": 103.6,
+            "mindate": "1948-08-01",
+            "maxdate": "2010-12-31",
+            "latitude": 37.05,
+            "name": "PADUCAH WALKER, KY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00156117",
+            "elevationUnit": "METERS",
+            "longitude": -88.55
+        },
+        {
+            "elevation": 125.9,
+            "mindate": "2003-01-01",
+            "maxdate": "2009-12-01",
+            "latitude": 37.0683,
+            "name": "PADUCAH 2 W, KY US",
+            "datacoverage": 0.987,
+            "id": "GHCND:USC00156130",
+            "elevationUnit": "METERS",
+            "longitude": -88.7724
+        },
+        {
+            "elevation": 127.7,
+            "mindate": "2006-09-01",
+            "maxdate": "2009-05-31",
+            "latitude": 37.055,
+            "name": "PADUCAH 4 WSW, KY US",
+            "datacoverage": 0.9991,
+            "id": "GHCND:USC00156134",
+            "elevationUnit": "METERS",
+            "longitude": -88.6511
+        },
+        {
+            "elevation": 192,
+            "mindate": "1933-02-01",
+            "maxdate": "2020-05-17",
+            "latitude": 37.8176,
+            "name": "PAINTSVILLE 1 E, KY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00156136",
+            "elevationUnit": "METERS",
+            "longitude": -82.7882
+        },
+        {
+            "elevation": 122.5,
+            "mindate": "1960-10-01",
+            "maxdate": "2011-11-22",
+            "latitude": 37.2591,
+            "name": "PARADISE STEAM PLANT, KY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00156155",
+            "elevationUnit": "METERS",
+            "longitude": -86.9777
+        },
+        {
+            "elevation": 242.3,
+            "mindate": "1975-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 38.2052,
+            "name": "PARIS, KY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00156170",
+            "elevationUnit": "METERS",
+            "longitude": -84.2382
+        },
+        {
+            "elevation": 345.9,
+            "mindate": "1989-01-01",
+            "maxdate": "2003-05-31",
+            "latitude": 37.48333,
+            "name": "PHELPS 3 S, KY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00156216",
+            "elevationUnit": "METERS",
+            "longitude": -82.15
+        },
+        {
+            "elevation": 310.9,
+            "mindate": "2004-09-01",
+            "maxdate": "2010-12-31",
+            "latitude": 37.16861,
+            "name": "PHIL, KY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00156224",
+            "elevationUnit": "METERS",
+            "longitude": -84.93917
+        },
+        {
+            "elevation": 209.1,
+            "mindate": "1900-01-01",
+            "maxdate": "1978-11-30",
+            "latitude": 37.48333,
+            "name": "PIKEVILLE, KY US",
+            "datacoverage": 0.9293,
+            "id": "GHCND:USC00156353",
+            "elevationUnit": "METERS",
+            "longitude": -82.51667
+        },
+        {
+            "elevation": 323.1,
+            "mindate": "1978-10-01",
+            "maxdate": "1991-06-30",
+            "latitude": 37.48333,
+            "name": "PIKEVILLE NUMBER 2, KY US",
+            "datacoverage": 0.666,
+            "id": "GHCND:USC00156355",
+            "elevationUnit": "METERS",
+            "longitude": -82.51667
+        },
+        {
+            "elevation": 208.8,
+            "mindate": "1994-01-01",
+            "maxdate": "2015-03-01",
+            "latitude": 37.48333,
+            "name": "PIKEVILLE W Z L K, KY US",
+            "datacoverage": 0.9015,
+            "id": "GHCND:USC00156357",
+            "elevationUnit": "METERS",
+            "longitude": -82.51667
+        },
+        {
+            "elevation": 204.2,
+            "mindate": "1982-11-01",
+            "maxdate": "2018-01-31",
+            "latitude": 37.53333,
+            "name": "PIKEVILLE KSP POST 9, KY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00156360",
+            "elevationUnit": "METERS",
+            "longitude": -82.58333
+        },
+        {
+            "elevation": 411.5,
+            "mindate": "1978-05-01",
+            "maxdate": "2010-12-31",
+            "latitude": 36.98333,
+            "name": "PINE MOUNTAIN 3 NW, KY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00156379",
+            "elevationUnit": "METERS",
+            "longitude": -83.21667
+        },
+        {
+            "elevation": 306.3,
+            "mindate": "1940-03-01",
+            "maxdate": "1999-05-31",
+            "latitude": 36.765,
+            "name": "PINEVILLE, KY US",
+            "datacoverage": 0.6034,
+            "id": "GHCND:USC00156384",
+            "elevationUnit": "METERS",
+            "longitude": -83.71
+        },
+        {
+            "elevation": 306.3,
+            "mindate": "1969-03-01",
+            "maxdate": "1979-12-31",
+            "latitude": 36.78333,
+            "name": "FOURMILE KY UTIL PARK, KY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00156388",
+            "elevationUnit": "METERS",
+            "longitude": -83.75
+        },
+        {
+            "elevation": 321,
+            "mindate": "2012-10-01",
+            "maxdate": "2014-08-20",
+            "latitude": 37.3341,
+            "name": "PIPPA PASSES, KY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00156401",
+            "elevationUnit": "METERS",
+            "longitude": -82.8786
+        },
+        {
+            "elevation": 135.6,
+            "mindate": "2004-11-01",
+            "maxdate": "2020-05-17",
+            "latitude": 37.235,
+            "name": "POWDERLY, KY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00156495",
+            "elevationUnit": "METERS",
+            "longitude": -87.1513
+        },
+        {
+            "elevation": 231.6,
+            "mindate": "2016-01-01",
+            "maxdate": "2020-04-01",
+            "latitude": 37.6551,
+            "name": "PRESTONSBURG 3 WSW, KY US",
+            "datacoverage": 0.9989,
+            "id": "GHCND:USC00156563",
+            "elevationUnit": "METERS",
+            "longitude": -82.8294
+        },
+        {
+            "elevation": 151.5,
+            "mindate": "1965-02-01",
+            "maxdate": "2020-02-29",
+            "latitude": 37.1244,
+            "name": "PRINCETON 1 SE, KY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00156580",
+            "elevationUnit": "METERS",
+            "longitude": -87.8672
+        },
+        {
+            "elevation": 124.7,
+            "mindate": "1979-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 37.3997,
+            "name": "PROVIDENCE, KY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00156595",
+            "elevationUnit": "METERS",
+            "longitude": -87.7622
+        },
+        {
+            "elevation": 227.1,
+            "mindate": "1925-07-01",
+            "maxdate": "2020-05-14",
+            "latitude": 37.53351,
+            "name": "QUICKSAND, KY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00156624",
+            "elevationUnit": "METERS",
+            "longitude": -83.34887
+        },
+        {
+            "elevation": 156.7,
+            "mindate": "2018-09-19",
+            "maxdate": "2020-03-31",
+            "latitude": 38.96333,
+            "name": "RABBIT HASH 2 NE, KY US",
+            "datacoverage": 0.9018,
+            "id": "GHCND:USC00156635",
+            "elevationUnit": "METERS",
+            "longitude": -84.82613
+        },
+        {
+            "elevation": 192,
+            "mindate": "1923-11-01",
+            "maxdate": "1981-06-30",
+            "latitude": 37.66667,
+            "name": "RAVENNA LOCK 12, KY US",
+            "datacoverage": 0.9986,
+            "id": "GHCND:USC00156679",
+            "elevationUnit": "METERS",
+            "longitude": -83.95
+        },
+        {
+            "elevation": 204.2,
+            "mindate": "1978-01-01",
+            "maxdate": "1985-06-30",
+            "latitude": 37.95,
+            "name": "RELIEF, KY US",
+            "datacoverage": 0.9991,
+            "id": "GHCND:USC00156728",
+            "elevationUnit": "METERS",
+            "longitude": -83
+        },
+        {
+            "elevation": 256,
+            "mindate": "2011-01-01",
+            "maxdate": "2014-05-01",
+            "latitude": 37.96056,
+            "name": "RELIEF NUMBER 2, KY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00156732",
+            "elevationUnit": "METERS",
+            "longitude": -83.005
+        },
+        {
+            "elevation": 299,
+            "mindate": "1893-01-01",
+            "maxdate": "1977-06-30",
+            "latitude": 37.73333,
+            "name": "RICHMOND, KY US",
+            "datacoverage": 0.9468,
+            "id": "GHCND:USC00156805",
+            "elevationUnit": "METERS",
+            "longitude": -84.3
+        },
+        {
+            "elevation": 303.3,
+            "mindate": "1981-05-01",
+            "maxdate": "2018-01-31",
+            "latitude": 37.7348,
+            "name": "RICHMOND STATE POLICE, KY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00156810",
+            "elevationUnit": "METERS",
+            "longitude": -84.2994
+        },
+        {
+            "elevation": 118.9,
+            "mindate": "1954-02-01",
+            "maxdate": "2020-05-17",
+            "latitude": 37.2166,
+            "name": "ROCHESTER FERRY, KY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00156882",
+            "elevationUnit": "METERS",
+            "longitude": -86.8936
+        },
+        {
+            "elevation": 387.1,
+            "mindate": "2009-01-01",
+            "maxdate": "2015-03-31",
+            "latitude": 37.7433,
+            "name": "ROGERS, KY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00156890",
+            "elevationUnit": "METERS",
+            "longitude": -83.6428
+        },
+        {
+            "elevation": 170.7,
+            "mindate": "1964-01-01",
+            "maxdate": "2020-05-14",
+            "latitude": 37.6177,
+            "name": "ROUGH RIVER LAKE, KY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00156988",
+            "elevationUnit": "METERS",
+            "longitude": -86.5044
+        },
+        {
+            "elevation": 173.7,
+            "mindate": "1893-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 36.855,
+            "name": "RUSSELLVILLE, KY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00157049",
+            "elevationUnit": "METERS",
+            "longitude": -86.8883
+        },
+        {
+            "elevation": 127.4,
+            "mindate": "2003-11-01",
+            "maxdate": "2006-03-31",
+            "latitude": 37.2627,
+            "name": "SALEM, KY US",
+            "datacoverage": 0.9973,
+            "id": "GHCND:USC00157110",
+            "elevationUnit": "METERS",
+            "longitude": -88.258
+        },
+        {
+            "elevation": 149,
+            "mindate": "1893-01-01",
+            "maxdate": "1981-02-28",
+            "latitude": 37.93333,
+            "name": "SALVISA LOCK 6, KY US",
+            "datacoverage": 0.8941,
+            "id": "GHCND:USC00157121",
+            "elevationUnit": "METERS",
+            "longitude": -84.81667
+        },
+        {
+            "elevation": 262.1,
+            "mindate": "1948-08-01",
+            "maxdate": "2016-12-17",
+            "latitude": 37.7467,
+            "name": "SALYERSVILLE, KY US",
+            "datacoverage": 0.0944,
+            "id": "GHCND:USC00157129",
+            "elevationUnit": "METERS",
+            "longitude": -83.0603
+        },
+        {
+            "elevation": 295.7,
+            "mindate": "2016-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 37.7391,
+            "name": "SALYERSVILLE WATER WORKS, KY US",
+            "datacoverage": 0.9989,
+            "id": "GHCND:USC00157130",
+            "elevationUnit": "METERS",
+            "longitude": -83.0673
+        },
+        {
+            "elevation": 280.4,
+            "mindate": "1952-09-01",
+            "maxdate": "2010-12-31",
+            "latitude": 37.73333,
+            "name": "SALYERSVILLE NUMBER 2, KY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00157134",
+            "elevationUnit": "METERS",
+            "longitude": -83.01667
+        },
+        {
+            "elevation": 231.6,
+            "mindate": "1893-11-01",
+            "maxdate": "2017-10-29",
+            "latitude": 38.09694,
+            "name": "SANDY HOOK, KY US",
+            "datacoverage": 0.0938,
+            "id": "GHCND:USC00157158",
+            "elevationUnit": "METERS",
+            "longitude": -83.11889
+        },
+        {
+            "elevation": 243.8,
+            "mindate": "1978-01-01",
+            "maxdate": "1990-12-31",
+            "latitude": 38.06667,
+            "name": "SANDY HOOK 4 SW, KY US",
+            "datacoverage": 0.9994,
+            "id": "GHCND:USC00157161",
+            "elevationUnit": "METERS",
+            "longitude": -83.18333
+        },
+        {
+            "elevation": 226.5,
+            "mindate": "1946-01-01",
+            "maxdate": "2020-05-15",
+            "latitude": 36.7462,
+            "name": "SCOTTSVILLE, KY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00157215",
+            "elevationUnit": "METERS",
+            "longitude": -86.2259
+        },
+        {
+            "elevation": 231,
+            "mindate": "1959-09-01",
+            "maxdate": "1983-11-30",
+            "latitude": 36.73333,
+            "name": "SCOTTSVILLE 2 SW, KY US",
+            "datacoverage": 0.976,
+            "id": "GHCND:USC00157220",
+            "elevationUnit": "METERS",
+            "longitude": -86.21667
+        },
+        {
+            "elevation": 146.3,
+            "mindate": "1943-04-01",
+            "maxdate": "2010-12-31",
+            "latitude": 37.60306,
+            "name": "SEBREE 1 E, KY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00157234",
+            "elevationUnit": "METERS",
+            "longitude": -87.52222
+        },
+        {
+            "elevation": 203.9,
+            "mindate": "2007-06-01",
+            "maxdate": "2010-12-31",
+            "latitude": 36.92528,
+            "name": "SHARON GROVE, KY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00157300",
+            "elevationUnit": "METERS",
+            "longitude": -87.105
+        },
+        {
+            "elevation": 222.5,
+            "mindate": "1893-01-01",
+            "maxdate": "2010-12-31",
+            "latitude": 38.2,
+            "name": "SHELBYVILLE 1 E, KY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00157324",
+            "elevationUnit": "METERS",
+            "longitude": -85.2
+        },
+        {
+            "elevation": 187.5,
+            "mindate": "1948-12-01",
+            "maxdate": "2020-05-17",
+            "latitude": 38.0544,
+            "name": "SHEPHERDSVILLE 5 NE, KY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00157334",
+            "elevationUnit": "METERS",
+            "longitude": -85.6241
+        },
+        {
+            "elevation": 330.1,
+            "mindate": "1975-05-01",
+            "maxdate": "2020-05-17",
+            "latitude": 37.0876,
+            "name": "SKYLINE 1 SE, KY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00157431",
+            "elevationUnit": "METERS",
+            "longitude": -82.9925
+        },
+        {
+            "elevation": 215.5,
+            "mindate": "1984-01-01",
+            "maxdate": "2014-05-21",
+            "latitude": 37.8468,
+            "name": "SLADE 5 NE, KY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00157441",
+            "elevationUnit": "METERS",
+            "longitude": -83.6845
+        },
+        {
+            "elevation": 291.1,
+            "mindate": "1963-02-01",
+            "maxdate": "2010-12-31",
+            "latitude": 37.11667,
+            "name": "SOMERSET 2 NE, KY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00157508",
+            "elevationUnit": "METERS",
+            "longitude": -84.6
+        },
+        {
+            "elevation": 310.9,
+            "mindate": "1950-01-01",
+            "maxdate": "2020-03-20",
+            "latitude": 37.1167,
+            "name": "SOMERSET 2 N, KY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00157510",
+            "elevationUnit": "METERS",
+            "longitude": -84.6167
+        },
+        {
+            "elevation": 118,
+            "mindate": "2005-08-01",
+            "maxdate": "2015-10-01",
+            "latitude": 37.85889,
+            "name": "SPOTTSVILLE, KY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00157592",
+            "elevationUnit": "METERS",
+            "longitude": -87.40861
         },
         {
             "elevation": 225.6,
-            "mindate": "1940-02-01",
-            "maxdate": "1945-07-29",
-            "latitude": 37.566667,
-            "name": "HODGENVILLE, KY US",
-            "datacoverage": 0.8337,
-            "id": "GHCND:USC00153925",
+            "mindate": "1893-01-01",
+            "maxdate": "2016-12-31",
+            "latitude": 37.7054,
+            "name": "SPRINGFIELD 2 W, KY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00157604",
             "elevationUnit": "METERS",
-            "longitude": -85.766667
+            "longitude": -85.2639
+        },
+        {
+            "elevation": 309.4,
+            "mindate": "1980-08-01",
+            "maxdate": "2010-12-31",
+            "latitude": 37.48972,
+            "name": "STANFORD 3 S, KY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00157648",
+            "elevationUnit": "METERS",
+            "longitude": -84.64611
+        },
+        {
+            "elevation": 219.5,
+            "mindate": "2007-11-01",
+            "maxdate": "2020-05-17",
+            "latitude": 37.8604,
+            "name": "STANTON 2 W, KY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00157652",
+            "elevationUnit": "METERS",
+            "longitude": -83.897
+        },
+        {
+            "elevation": 371.9,
+            "mindate": "1936-05-01",
+            "maxdate": "2020-05-05",
+            "latitude": 36.6736,
+            "name": "STEARNS 2 S, KY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00157677",
+            "elevationUnit": "METERS",
+            "longitude": -84.4791
+        },
+        {
+            "elevation": 393.2,
+            "mindate": "1970-08-01",
+            "maxdate": "1980-02-29",
+            "latitude": 36.7,
+            "name": "STEARNS 1 W, KY US",
+            "datacoverage": 0.8783,
+            "id": "GHCND:USC00157680",
+            "elevationUnit": "METERS",
+            "longitude": -84.48333
+        },
+        {
+            "elevation": 231.6,
+            "mindate": "2011-03-01",
+            "maxdate": "2013-07-20",
+            "latitude": 38.3228,
+            "name": "STAMPING GROUND 5 NW, KY US",
+            "datacoverage": 0.9985,
+            "id": "GHCND:USC00157770",
+            "elevationUnit": "METERS",
+            "longitude": -84.749
+        },
+        {
+            "elevation": 263.3,
+            "mindate": "1950-01-01",
+            "maxdate": "2010-12-31",
+            "latitude": 36.8861,
+            "name": "SUMMER SHADE, KY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00157800",
+            "elevationUnit": "METERS",
+            "longitude": -85.7066
+        },
+        {
+            "elevation": 152.4,
+            "mindate": "1902-04-01",
+            "maxdate": "2020-05-17",
+            "latitude": 38.0144,
+            "name": "TAYLORSVILLE 2 SW, KY US",
+            "datacoverage": 0.8808,
+            "id": "GHCND:USC00157948",
+            "elevationUnit": "METERS",
+            "longitude": -85.3713
+        },
+        {
+            "elevation": 213.4,
+            "mindate": "2011-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 38.0013,
+            "name": "TAYLORSVILLE LAKE, KY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00157950",
+            "elevationUnit": "METERS",
+            "longitude": -85.3088
+        },
+        {
+            "elevation": 555,
+            "mindate": "1964-10-01",
+            "maxdate": "1974-07-31",
+            "latitude": 37.03333,
+            "name": "TILFORD DELPHIA, KY US",
+            "datacoverage": 0.9324,
+            "id": "GHCND:USC00158019",
+            "elevationUnit": "METERS",
+            "longitude": -83.06667
+        },
+        {
+            "elevation": 210,
+            "mindate": "1965-01-01",
+            "maxdate": "1985-12-31",
+            "latitude": 37.86667,
+            "name": "TOMAHAWK 1 WSW, KY US",
+            "datacoverage": 0.9961,
+            "id": "GHCND:USC00158055",
+            "elevationUnit": "METERS",
+            "longitude": -82.61667
+        },
+        {
+            "elevation": 257.6,
+            "mindate": "1981-05-01",
+            "maxdate": "2015-12-01",
+            "latitude": 36.8136,
+            "name": "TOMPKINSVILLE 9 NW, KY US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00158070",
+            "elevationUnit": "METERS",
+            "longitude": -85.708
+        },
+        {
+            "elevation": 159.7,
+            "mindate": "1923-11-01",
+            "maxdate": "1981-10-31",
+            "latitude": 38.03333,
+            "name": "TYRONE LOCK 5, KY US",
+            "datacoverage": 0.9971,
+            "id": "GHCND:USC00158179",
+            "elevationUnit": "METERS",
+            "longitude": -84.85
+        },
+        {
+            "elevation": 110,
+            "mindate": "1928-01-01",
+            "maxdate": "1974-03-31",
+            "latitude": 37.76667,
+            "name": "UNIONTOWN DAM 49, KY US",
+            "datacoverage": 0.9993,
+            "id": "GHCND:USC00158197",
+            "elevationUnit": "METERS",
+            "longitude": -87.95
+        },
+        {
+            "elevation": 174,
+            "mindate": "1923-11-01",
+            "maxdate": "1981-02-28",
+            "latitude": 37.85,
+            "name": "VALLEY VIEW LOCK 9, KY US",
+            "datacoverage": 0.9986,
+            "id": "GHCND:USC00158246",
+            "elevationUnit": "METERS",
+            "longitude": -84.45
+        },
+        {
+            "elevation": 159.1,
+            "mindate": "1896-04-01",
+            "maxdate": "1981-06-30",
+            "latitude": 38.58333,
+            "name": "VANCEBURG, KY US",
+            "datacoverage": 0.781,
+            "id": "GHCND:USC00158259",
+            "elevationUnit": "METERS",
+            "longitude": -83.33333
+        },
+        {
+            "elevation": 345,
+            "mindate": "2011-01-01",
+            "maxdate": "2012-09-19",
+            "latitude": 37.32278,
+            "name": "VICTORY 5 NW, KY US",
+            "datacoverage": 0.9986,
+            "id": "GHCND:USC00158330",
+            "elevationUnit": "METERS",
+            "longitude": -84.11833
         }
     ]
 }

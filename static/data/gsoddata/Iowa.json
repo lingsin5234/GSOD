@@ -2,7 +2,7 @@
     "metadata": {
         "resultset": {
             "offset": 1,
-            "count": 1342,
+            "count": 1158,
             "limit": 1000
         }
     },
@@ -61,28 +61,6 @@
             "id": "COOP:130046",
             "elevationUnit": "METERS",
             "longitude": -94.6355
-        },
-        {
-            "elevation": 366.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1950-02-01",
-            "latitude": 41.03333,
-            "name": "AFTON, IA US",
-            "datacoverage": 0.9915,
-            "id": "COOP:130064",
-            "elevationUnit": "METERS",
-            "longitude": -94.2
-        },
-        {
-            "elevation": 271,
-            "mindate": "1958-08-01",
-            "maxdate": "1967-09-01",
-            "latitude": 41.6,
-            "name": "ADEL, IA US",
-            "datacoverage": 0.8455,
-            "id": "COOP:130070",
-            "elevationUnit": "METERS",
-            "longitude": -94.01667
         },
         {
             "elevation": 365.2,
@@ -162,17 +140,6 @@
             "longitude": -92.8022
         },
         {
-            "elevation": 460.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1959-12-01",
-            "latitude": 42.66667,
-            "name": "ALTA, IA US",
-            "datacoverage": 1,
-            "id": "COOP:130173",
-            "elevationUnit": "METERS",
-            "longitude": -95.3
-        },
-        {
             "elevation": 413,
             "mindate": "1931-01-01",
             "maxdate": "2009-12-01",
@@ -215,17 +182,6 @@
             "id": "COOP:130203",
             "elevationUnit": "METERS",
             "longitude": -93.5655
-        },
-        {
-            "elevation": 305.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1964-08-29",
-            "latitude": 42,
-            "name": "AMES 3 SW, IA US",
-            "datacoverage": 1,
-            "id": "COOP:130205",
-            "elevationUnit": "METERS",
-            "longitude": -93.65
         },
         {
             "elevation": 245.4,
@@ -272,17 +228,6 @@
             "longitude": -95.0041
         },
         {
-            "elevation": 360.3,
-            "mindate": "1944-06-01",
-            "maxdate": "1951-05-01",
-            "latitude": 41.40722,
-            "name": "ATLANTIC MUNICIPAL AIRPORT, IA US",
-            "datacoverage": 0.9998,
-            "id": "COOP:130369",
-            "elevationUnit": "METERS",
-            "longitude": -95.04667
-        },
-        {
             "elevation": 353.6,
             "mindate": "2010-05-01",
             "maxdate": "2012-12-01",
@@ -327,17 +272,6 @@
             "longitude": -90.91889
         },
         {
-            "elevation": 366.1,
-            "mindate": "1941-09-01",
-            "maxdate": "1954-10-01",
-            "latitude": 43.3,
-            "name": "BANCROFT, IA US",
-            "datacoverage": 0.981,
-            "id": "COOP:130463",
-            "elevationUnit": "METERS",
-            "longitude": -94.21667
-        },
-        {
             "elevation": 305.1,
             "mindate": "1946-02-01",
             "maxdate": "1972-03-01",
@@ -360,17 +294,6 @@
             "longitude": -95.575
         },
         {
-            "elevation": 302.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1939-12-01",
-            "latitude": 41.81667,
-            "name": "BAXTER, IA US",
-            "datacoverage": 1,
-            "id": "COOP:130513",
-            "elevationUnit": "METERS",
-            "longitude": -93.13333
-        },
-        {
             "elevation": 370.3,
             "mindate": "1956-02-01",
             "maxdate": "2015-11-01",
@@ -380,15 +303,6 @@
             "id": "COOP:130536",
             "elevationUnit": "METERS",
             "longitude": -94.0474
-        },
-        {
-            "mindate": "1948-08-01",
-            "maxdate": "1953-02-01",
-            "latitude": 42.03333,
-            "name": "BEAVER 2 NE, IA US",
-            "datacoverage": 0.4067,
-            "id": "COOP:130549",
-            "longitude": -94.13333
         },
         {
             "elevation": 362.7,
@@ -424,17 +338,6 @@
             "longitude": -90.4231
         },
         {
-            "elevation": 360,
-            "mindate": "1931-01-01",
-            "maxdate": "1945-12-01",
-            "latitude": 42.86667,
-            "name": "BELMOND, IA US",
-            "datacoverage": 1,
-            "id": "COOP:130612",
-            "elevationUnit": "METERS",
-            "longitude": -93.55
-        },
-        {
             "elevation": 362.7,
             "mindate": "1943-01-01",
             "maxdate": "2015-11-01",
@@ -457,17 +360,6 @@
             "longitude": -92.4142
         },
         {
-            "elevation": 174,
-            "mindate": "1931-01-01",
-            "maxdate": "1939-03-01",
-            "latitude": 40.76667,
-            "name": "BONAPARTE 5 NE, IA US",
-            "datacoverage": 1,
-            "id": "COOP:130793",
-            "elevationUnit": "METERS",
-            "longitude": -91.76667
-        },
-        {
             "elevation": 315.5,
             "mindate": "1931-01-01",
             "maxdate": "2015-11-01",
@@ -484,7 +376,7 @@
             "maxdate": "2014-01-01",
             "latitude": 42.1255,
             "name": "BOYER 4 SE, IA US",
-            "datacoverage": 1,
+            "datacoverage": 0.0308,
             "id": "COOP:130853",
             "elevationUnit": "METERS",
             "longitude": -95.1886
@@ -605,7 +497,7 @@
             "maxdate": "2014-01-01",
             "latitude": 41.2738,
             "name": "CARSON 3 NNE, IA US",
-            "datacoverage": 1,
+            "datacoverage": 0.0337,
             "id": "COOP:131245",
             "elevationUnit": "METERS",
             "longitude": -95.4025
@@ -633,17 +525,6 @@
             "longitude": -95.8363
         },
         {
-            "elevation": 232.6,
-            "mindate": "1931-01-01",
-            "maxdate": "1962-12-01",
-            "latitude": 42.5377,
-            "name": "CEDAR FALLS, IA US",
-            "datacoverage": 1,
-            "id": "COOP:131300",
-            "elevationUnit": "METERS",
-            "longitude": -92.443
-        },
-        {
             "elevation": 264.6,
             "mindate": "1953-06-01",
             "maxdate": "2015-11-01",
@@ -664,17 +545,6 @@
             "id": "COOP:131319",
             "elevationUnit": "METERS",
             "longitude": -91.5881
-        },
-        {
-            "elevation": 213.4,
-            "mindate": "1931-01-01",
-            "maxdate": "1966-06-01",
-            "latitude": 41.96667,
-            "name": "CEDAR RAPIDS 2, IA US",
-            "datacoverage": 0.9978,
-            "id": "COOP:131324",
-            "elevationUnit": "METERS",
-            "longitude": -91.66667
         },
         {
             "elevation": 275.8,
@@ -880,7 +750,7 @@
             "maxdate": "2012-09-01",
             "latitude": 41.8747,
             "name": "COON RAPIDS, IA US",
-            "datacoverage": 1,
+            "datacoverage": 0.0312,
             "id": "COOP:131793",
             "elevationUnit": "METERS",
             "longitude": -94.6705
@@ -924,19 +794,8 @@
             "maxdate": "1972-03-01",
             "latitude": 41.33333,
             "name": "COUNCIL BLUFFS 6 NNE, IA US",
-            "datacoverage": 1,
+            "datacoverage": 0.045,
             "id": "COOP:131888",
-            "elevationUnit": "METERS",
-            "longitude": -95.81667
-        },
-        {
-            "elevation": 328.9,
-            "mindate": "1948-10-01",
-            "maxdate": "1965-08-01",
-            "latitude": 41.31667,
-            "name": "COUNCIL BLUFFS 6 NE, IA US",
-            "datacoverage": 1,
-            "id": "COOP:131889",
             "elevationUnit": "METERS",
             "longitude": -95.81667
         },
@@ -974,26 +833,6 @@
             "longitude": -94.86667
         },
         {
-            "mindate": "1934-01-01",
-            "maxdate": "1950-11-01",
-            "latitude": 42.46667,
-            "name": "CUSHING, IA US",
-            "datacoverage": 0.9854,
-            "id": "COOP:132026",
-            "longitude": -95.66667
-        },
-        {
-            "elevation": 320,
-            "mindate": "1931-01-01",
-            "maxdate": "1956-05-01",
-            "latitude": 42.68333,
-            "name": "HUMBOLDT, IA US",
-            "datacoverage": 1,
-            "id": "COOP:132037",
-            "elevationUnit": "METERS",
-            "longitude": -94.2
-        },
-        {
             "elevation": 338.3,
             "mindate": "2009-11-01",
             "maxdate": "2015-11-01",
@@ -1003,17 +842,6 @@
             "id": "COOP:132041",
             "elevationUnit": "METERS",
             "longitude": -94.1952
-        },
-        {
-            "elevation": 173.1,
-            "mindate": "1948-01-01",
-            "maxdate": "1984-05-28",
-            "latitude": 41.51667,
-            "name": "DAVENPORT LOCK AND DAM 15, IL US",
-            "datacoverage": 0.9611,
-            "id": "COOP:132069",
-            "elevationUnit": "METERS",
-            "longitude": -90.56667
         },
         {
             "elevation": 228.6,
@@ -1036,17 +864,6 @@
             "id": "COOP:132110",
             "elevationUnit": "METERS",
             "longitude": -91.7952
-        },
-        {
-            "elevation": 267.9,
-            "mindate": "1940-06-01",
-            "maxdate": "1950-10-01",
-            "latitude": 43.28333,
-            "name": "DECORAH 2 S, IA US",
-            "datacoverage": 0.9999,
-            "id": "COOP:132112",
-            "elevationUnit": "METERS",
-            "longitude": -91.78333
         },
         {
             "elevation": 299,
@@ -1076,7 +893,7 @@
             "maxdate": "2005-09-01",
             "latitude": 40.9308,
             "name": "DERBY, IA US",
-            "datacoverage": 1,
+            "datacoverage": 0.0339,
             "id": "COOP:132195",
             "elevationUnit": "METERS",
             "longitude": -93.458
@@ -1149,11 +966,11 @@
         },
         {
             "elevation": 339.9,
-            "mindate": "1935-08-01",
+            "mindate": "1948-08-01",
             "maxdate": "2014-01-01",
             "latitude": 41.5077,
             "name": "DEXTER, IA US",
-            "datacoverage": 0.8084,
+            "datacoverage": 0.0312,
             "id": "COOP:132240",
             "elevationUnit": "METERS",
             "longitude": -94.2269
@@ -1225,17 +1042,6 @@
             "longitude": -90.70361
         },
         {
-            "elevation": 177.1,
-            "mindate": "1948-01-01",
-            "maxdate": "1952-02-23",
-            "latitude": 42.4,
-            "name": "DUBUQUE RIVER, IA US",
-            "datacoverage": 0.7344,
-            "id": "COOP:132369",
-            "elevationUnit": "METERS",
-            "longitude": -90.7
-        },
-        {
             "elevation": 312.4,
             "mindate": "1934-01-01",
             "maxdate": "2008-10-01",
@@ -1245,17 +1051,6 @@
             "id": "COOP:132388",
             "elevationUnit": "METERS",
             "longitude": -92.9763
-        },
-        {
-            "elevation": 307.8,
-            "mindate": "1934-03-01",
-            "maxdate": "1958-07-01",
-            "latitude": 41.96667,
-            "name": "DUNBAR 2 NE, IA US",
-            "datacoverage": 0.9999,
-            "id": "COOP:132396",
-            "elevationUnit": "METERS",
-            "longitude": -92.76667
         },
         {
             "elevation": 229.8,
@@ -1317,7 +1112,7 @@
             "maxdate": "1972-06-27",
             "latitude": 41.03333,
             "name": "EMERSON, IA US",
-            "datacoverage": 1,
+            "datacoverage": 0.0383,
             "id": "COOP:132676",
             "longitude": -95.4
         },
@@ -1382,7 +1177,7 @@
             "maxdate": "1972-06-27",
             "latitude": 41.56667,
             "name": "EXIRA 7 SE, IA US",
-            "datacoverage": 0.9173,
+            "datacoverage": 0.045,
             "id": "COOP:132768",
             "elevationUnit": "METERS",
             "longitude": -94.78333
@@ -1542,23 +1337,12 @@
             "longitude": -95.68333
         },
         {
-            "elevation": 177.1,
-            "mindate": "1948-06-01",
-            "maxdate": "1948-11-01",
-            "latitude": 42.38333,
-            "name": "GORDONS FERRY, IA US",
-            "datacoverage": 0.6653,
-            "id": "COOP:133304",
-            "elevationUnit": "METERS",
-            "longitude": -90.48333
-        },
-        {
             "elevation": 467,
             "mindate": "1950-10-01",
             "maxdate": "1984-03-01",
             "latitude": 42.98333,
             "name": "GRANVILLE 2 E, IA US",
-            "datacoverage": 0.9173,
+            "datacoverage": 0.0309,
             "id": "COOP:133399",
             "elevationUnit": "METERS",
             "longitude": -95.83333
@@ -1624,7 +1408,7 @@
             "maxdate": "2009-07-01",
             "latitude": 40.61528,
             "name": "HAMBURG 2, IA US",
-            "datacoverage": 1,
+            "datacoverage": 0.0264,
             "id": "COOP:133562",
             "elevationUnit": "METERS",
             "longitude": -95.65333
@@ -1685,15 +1469,6 @@
             "longitude": -95.3339
         },
         {
-            "mindate": "1948-08-01",
-            "maxdate": "1950-12-01",
-            "latitude": 43.15,
-            "name": "HARTLEY 3 S, IA US",
-            "datacoverage": 0.534,
-            "id": "COOP:133667",
-            "longitude": -95.46667
-        },
-        {
             "elevation": 320,
             "mindate": "2008-01-01",
             "maxdate": "2015-11-01",
@@ -1721,7 +1496,7 @@
             "maxdate": "1972-06-19",
             "latitude": 43.06667,
             "name": "HAWARDEN 6 NNE, IA US",
-            "datacoverage": 0.8339,
+            "datacoverage": 0.0381,
             "id": "COOP:133720",
             "elevationUnit": "METERS",
             "longitude": -96.45
@@ -1731,7 +1506,7 @@
             "maxdate": "1972-09-01",
             "latitude": 42.65,
             "name": "HINTON 4 W, IA US",
-            "datacoverage": 0.9479,
+            "datacoverage": 0.0385,
             "id": "COOP:133877",
             "longitude": -96.53333
         },
@@ -1763,7 +1538,7 @@
             "maxdate": "2014-01-01",
             "latitude": 42.1558,
             "name": "HORNICK 5 S, IA US",
-            "datacoverage": 0.9216,
+            "datacoverage": 0.0262,
             "id": "COOP:133944",
             "elevationUnit": "METERS",
             "longitude": -96.083
@@ -1890,22 +1665,11 @@
             "longitude": -91.5051
         },
         {
-            "elevation": 198.1,
-            "mindate": "1944-02-01",
-            "maxdate": "1953-05-01",
-            "latitude": 41.63278,
-            "name": "IOWA CITY MUNICIPAL AIRPORT, IA US",
-            "datacoverage": 0.9914,
-            "id": "COOP:134106",
-            "elevationUnit": "METERS",
-            "longitude": -91.54306
-        },
-        {
             "mindate": "1948-08-01",
             "maxdate": "1974-12-31",
             "latitude": 41.66667,
             "name": "IOWA CITY RALSTON CR, IA US",
-            "datacoverage": 0.9742,
+            "datacoverage": 0.0476,
             "id": "COOP:134111",
             "longitude": -91.5
         },
@@ -1914,7 +1678,7 @@
             "maxdate": "1982-12-28",
             "latitude": 41.68333,
             "name": "IOWA CITY RALSTON CR, IA US",
-            "datacoverage": 1,
+            "datacoverage": 0.0461,
             "id": "COOP:134116",
             "longitude": -91.46667
         },
@@ -1924,7 +1688,7 @@
             "maxdate": "1975-01-01",
             "latitude": 41.68333,
             "name": "IOWA CITY RALSTON CR, IA US",
-            "datacoverage": 0.9216,
+            "datacoverage": 0.043,
             "id": "COOP:134121",
             "elevationUnit": "METERS",
             "longitude": -91.48333
@@ -1934,7 +1698,7 @@
             "maxdate": "1974-12-31",
             "latitude": 41.68333,
             "name": "IOWA CITY RALSTON CR, IA US",
-            "datacoverage": 0.9479,
+            "datacoverage": 0.0487,
             "id": "COOP:134126",
             "longitude": -91.51667
         },
@@ -1943,7 +1707,7 @@
             "maxdate": "1983-01-01",
             "latitude": 41.68333,
             "name": "IOWA CITY RALSTON CR, IA US",
-            "datacoverage": 1,
+            "datacoverage": 0.0496,
             "id": "COOP:134131",
             "longitude": -91.51667
         },
@@ -1997,21 +1761,10 @@
             "maxdate": "2014-01-01",
             "latitude": 41.775,
             "name": "IRWIN 3 ESE, IA US",
-            "datacoverage": 0.9173,
+            "datacoverage": 0.0343,
             "id": "COOP:134174",
             "elevationUnit": "METERS",
             "longitude": -95.1525
-        },
-        {
-            "elevation": 352.7,
-            "mindate": "1948-04-01",
-            "maxdate": "1969-06-01",
-            "latitude": 42.5763,
-            "name": "JAMES 1 NE, IA US",
-            "datacoverage": 0.8784,
-            "id": "COOP:134202",
-            "elevationUnit": "METERS",
-            "longitude": -96.3038
         },
         {
             "elevation": 321.6,
@@ -2124,17 +1877,6 @@
             "longitude": -93.1008
         },
         {
-            "elevation": 249.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1937-10-01",
-            "latitude": 41.18333,
-            "name": "LACONA, IA US",
-            "datacoverage": 0.9999,
-            "id": "COOP:134523",
-            "elevationUnit": "METERS",
-            "longitude": -93.36667
-        },
-        {
             "elevation": 227.1,
             "mindate": "2011-01-01",
             "maxdate": "2014-12-01",
@@ -2177,17 +1919,6 @@
             "id": "COOP:134561",
             "elevationUnit": "METERS",
             "longitude": -95.3247
-        },
-        {
-            "elevation": 378,
-            "mindate": "1938-08-01",
-            "maxdate": "1962-12-01",
-            "latitude": 42.3,
-            "name": "LAKE VIEW, IA US",
-            "datacoverage": 0.9897,
-            "id": "COOP:134569",
-            "elevationUnit": "METERS",
-            "longitude": -95.05
         },
         {
             "elevation": 343.8,
@@ -2250,21 +1981,10 @@
             "maxdate": "2000-11-01",
             "latitude": 42.86444,
             "name": "LARRABEE, IA US",
-            "datacoverage": 1,
+            "datacoverage": 0.0371,
             "id": "COOP:134644",
             "elevationUnit": "METERS",
             "longitude": -95.54667
-        },
-        {
-            "elevation": 177.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1955-06-01",
-            "latitude": 41.6,
-            "name": "LE CLAIRE, IA US",
-            "datacoverage": 1,
-            "id": "COOP:134700",
-            "elevationUnit": "METERS",
-            "longitude": -90.35
         },
         {
             "elevation": 175.9,
@@ -2289,23 +2009,12 @@
             "longitude": -96.1458
         },
         {
-            "elevation": 430.1,
-            "mindate": "1956-07-01",
-            "maxdate": "1958-06-23",
-            "latitude": 42.78333,
-            "name": "LE MARS 6 ESE, IA US",
-            "datacoverage": 0.0296,
-            "id": "COOP:134740",
-            "elevationUnit": "METERS",
-            "longitude": -96.05
-        },
-        {
             "elevation": 383.1,
-            "mindate": "1931-01-01",
+            "mindate": "1948-08-01",
             "maxdate": "2014-01-01",
             "latitude": 40.8747,
             "name": "LENOX, IA US",
-            "datacoverage": 0.6931,
+            "datacoverage": 0.0281,
             "id": "COOP:134746",
             "elevationUnit": "METERS",
             "longitude": -94.5717
@@ -2327,21 +2036,10 @@
             "maxdate": "1991-01-01",
             "latitude": 43.45,
             "name": "LITTLE ROCK, IA US",
-            "datacoverage": 0.8339,
+            "datacoverage": 0.0399,
             "id": "COOP:134863",
             "elevationUnit": "METERS",
             "longitude": -95.88333
-        },
-        {
-            "elevation": 317,
-            "mindate": "1931-01-01",
-            "maxdate": "1948-12-01",
-            "latitude": 41.81667,
-            "name": "LITTLE SIOUX, IA US",
-            "datacoverage": 0.9675,
-            "id": "COOP:134867",
-            "elevationUnit": "METERS",
-            "longitude": -96.01667
         },
         {
             "elevation": 312.4,
@@ -2388,50 +2086,6 @@
             "longitude": -90.9222
         },
         {
-            "elevation": 345,
-            "mindate": "1956-01-01",
-            "maxdate": "1969-06-30",
-            "latitude": 40.93333,
-            "name": "MALVERN 4 SSW, IA US",
-            "datacoverage": 0.0355,
-            "id": "COOP:135074",
-            "elevationUnit": "METERS",
-            "longitude": -95.6
-        },
-        {
-            "elevation": 363,
-            "mindate": "1956-01-01",
-            "maxdate": "1969-06-30",
-            "latitude": 41,
-            "name": "MALVERN 4 W, IA US",
-            "datacoverage": 0.0416,
-            "id": "COOP:135075",
-            "elevationUnit": "METERS",
-            "longitude": -95.48333
-        },
-        {
-            "elevation": 351.1,
-            "mindate": "1958-05-01",
-            "maxdate": "1969-06-30",
-            "latitude": 40.98333,
-            "name": "MALVERN 4 WSW, IA US",
-            "datacoverage": 0.0375,
-            "id": "COOP:135076",
-            "elevationUnit": "METERS",
-            "longitude": -95.65
-        },
-        {
-            "elevation": 310.9,
-            "mindate": "1946-02-01",
-            "maxdate": "1960-02-01",
-            "latitude": 41.01667,
-            "name": "GLENWOOD 5 ESE, IA US",
-            "datacoverage": 0.9826,
-            "id": "COOP:135080",
-            "elevationUnit": "METERS",
-            "longitude": -95.66667
-        },
-        {
             "elevation": 301.8,
             "mindate": "1976-05-01",
             "maxdate": "2015-11-01",
@@ -2476,17 +2130,6 @@
             "longitude": -90.6647
         },
         {
-            "elevation": 417.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1939-03-01",
-            "latitude": 42.9,
-            "name": "MARATHON, IA US",
-            "datacoverage": 1,
-            "id": "COOP:135136",
-            "elevationUnit": "METERS",
-            "longitude": -94.83333
-        },
-        {
             "elevation": 297.2,
             "mindate": "1978-05-01",
             "maxdate": "1998-09-01",
@@ -2507,26 +2150,6 @@
             "id": "COOP:135150",
             "elevationUnit": "METERS",
             "longitude": -92.0707
-        },
-        {
-            "mindate": "1948-08-01",
-            "maxdate": "1955-11-01",
-            "latitude": 42.05,
-            "name": "MARION 4 NE, IA US",
-            "datacoverage": 0.9173,
-            "id": "COOP:135163",
-            "longitude": -91.55
-        },
-        {
-            "elevation": 267.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1949-05-01",
-            "latitude": 42.05,
-            "name": "MARSHALLTOWN 1, IA US",
-            "datacoverage": 1,
-            "id": "COOP:135193",
-            "elevationUnit": "METERS",
-            "longitude": -92.9
         },
         {
             "elevation": 265.2,
@@ -2567,7 +2190,7 @@
             "maxdate": "2015-11-01",
             "latitude": 43.163,
             "name": "MASON CITY, IA US",
-            "datacoverage": 1,
+            "datacoverage": 0.9873,
             "id": "COOP:135230",
             "elevationUnit": "METERS",
             "longitude": -93.1952
@@ -2628,17 +2251,6 @@
             "longitude": -91.1746
         },
         {
-            "elevation": 264.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1946-08-01",
-            "latitude": 40.98333,
-            "name": "MELROSE, IA US",
-            "datacoverage": 0.9947,
-            "id": "COOP:135383",
-            "elevationUnit": "METERS",
-            "longitude": -93.05
-        },
-        {
             "elevation": 420.9,
             "mindate": "1946-03-01",
             "maxdate": "1978-06-01",
@@ -2661,22 +2273,11 @@
             "longitude": -95.1841
         },
         {
-            "elevation": 326.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1951-02-01",
-            "latitude": 40.83333,
-            "name": "MILLERTON, IA US",
-            "datacoverage": 0.9837,
-            "id": "COOP:135517",
-            "elevationUnit": "METERS",
-            "longitude": -93.3
-        },
-        {
             "mindate": "1950-10-01",
             "maxdate": "1972-06-27",
             "latitude": 41.15,
             "name": "MINEOLA 4 WNW, IA US",
-            "datacoverage": 1,
+            "datacoverage": 0.0375,
             "id": "COOP:135549",
             "longitude": -95.8
         },
@@ -2693,67 +2294,14 @@
         },
         {
             "elevation": 365.8,
-            "mindate": "1940-09-01",
+            "mindate": "1948-08-01",
             "maxdate": "2014-01-01",
             "latitude": 41.5736,
             "name": "MISSOURI VALLEY 1 NNE, IA US",
-            "datacoverage": 0.9948,
+            "datacoverage": 0.0245,
             "id": "COOP:135584",
             "elevationUnit": "METERS",
             "longitude": -95.8811
-        },
-        {
-            "elevation": 310.9,
-            "mindate": "1948-01-01",
-            "maxdate": "1948-08-01",
-            "latitude": 41.71667,
-            "name": "MONDAMIN, IA US",
-            "datacoverage": 0.998,
-            "id": "COOP:135608",
-            "elevationUnit": "METERS",
-            "longitude": -96.01667
-        },
-        {
-            "elevation": 430.1,
-            "mindate": "1950-12-01",
-            "maxdate": "1955-12-01",
-            "latitude": 43.13333,
-            "name": "MONETA, IA US",
-            "datacoverage": 0.7179,
-            "id": "COOP:135613",
-            "elevationUnit": "METERS",
-            "longitude": -95.38333
-        },
-        {
-            "elevation": 264.9,
-            "mindate": "1940-07-01",
-            "maxdate": "1953-04-01",
-            "latitude": 42.05,
-            "name": "MONMOUTH 4 SW, IA US",
-            "datacoverage": 0.9027,
-            "id": "COOP:135622",
-            "elevationUnit": "METERS",
-            "longitude": -90.91667
-        },
-        {
-            "mindate": "1948-08-01",
-            "maxdate": "1951-11-01",
-            "latitude": 43.05,
-            "name": "MONONA, IA US",
-            "datacoverage": 1,
-            "id": "COOP:135630",
-            "longitude": -91.36667
-        },
-        {
-            "elevation": 281,
-            "mindate": "1931-01-01",
-            "maxdate": "1948-10-01",
-            "latitude": 41.51667,
-            "name": "MONROE, IA US",
-            "datacoverage": 0.9999,
-            "id": "COOP:135638",
-            "elevationUnit": "METERS",
-            "longitude": -93.1
         },
         {
             "elevation": 289.6,
@@ -2783,7 +2331,7 @@
             "maxdate": "1979-03-01",
             "latitude": 41.75,
             "name": "MORSE, IA US",
-            "datacoverage": 0.9742,
+            "datacoverage": 0.0536,
             "id": "COOP:135732",
             "elevationUnit": "METERS",
             "longitude": -91.43333
@@ -2794,7 +2342,7 @@
             "maxdate": "1979-04-01",
             "latitude": 41.75,
             "name": "MORSE 1 NE, IA US",
-            "datacoverage": 1,
+            "datacoverage": 0.0344,
             "id": "COOP:135737",
             "elevationUnit": "METERS",
             "longitude": -91.41667
@@ -2805,7 +2353,7 @@
             "maxdate": "1979-03-30",
             "latitude": 41.68333,
             "name": "MORSE 4 SSW, IA US",
-            "datacoverage": 0.8952,
+            "datacoverage": 0.0434,
             "id": "COOP:135742",
             "elevationUnit": "METERS",
             "longitude": -91.46667
@@ -2838,7 +2386,7 @@
             "maxdate": "2014-01-01",
             "latitude": 42.4916,
             "name": "MOVILLE, IA US",
-            "datacoverage": 1,
+            "datacoverage": 0.024,
             "id": "COOP:135823",
             "elevationUnit": "METERS",
             "longitude": -96.0688
@@ -2875,35 +2423,6 @@
             "id": "COOP:135844",
             "elevationUnit": "METERS",
             "longitude": -91.0463
-        },
-        {
-            "mindate": "1948-10-06",
-            "maxdate": "1950-03-01",
-            "latitude": 41.5,
-            "name": "MUSCATINE 6 N, IA US",
-            "datacoverage": 0.7992,
-            "id": "COOP:135847",
-            "longitude": -91.05
-        },
-        {
-            "mindate": "1948-10-06",
-            "maxdate": "1949-01-28",
-            "latitude": 41.48333,
-            "name": "MUSCATINE 6 NW, IA US",
-            "datacoverage": 0.9925,
-            "id": "COOP:135852",
-            "longitude": -91.11667
-        },
-        {
-            "elevation": 302.1,
-            "mindate": "1949-12-01",
-            "maxdate": "1951-08-01",
-            "latitude": 42.98333,
-            "name": "NASHUA 2 NW, IA US",
-            "datacoverage": 0.7145,
-            "id": "COOP:135872",
-            "elevationUnit": "METERS",
-            "longitude": -92.56667
         },
         {
             "elevation": 323.4,
@@ -2999,7 +2518,7 @@
             "maxdate": "1979-03-30",
             "latitude": 41.71667,
             "name": "OASIS 1 NW, IA US",
-            "datacoverage": 0.8952,
+            "datacoverage": 0.0425,
             "id": "COOP:136186",
             "elevationUnit": "METERS",
             "longitude": -91.4
@@ -3060,17 +2579,6 @@
             "longitude": -94.0419
         },
         {
-            "elevation": 228.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1941-06-01",
-            "latitude": 42,
-            "name": "OLIN, IA US",
-            "datacoverage": 1,
-            "id": "COOP:136225",
-            "elevationUnit": "METERS",
-            "longitude": -91.13333
-        },
-        {
             "elevation": 323.1,
             "mindate": "1931-01-01",
             "maxdate": "2010-12-01",
@@ -3091,17 +2599,6 @@
             "id": "COOP:136273",
             "elevationUnit": "METERS",
             "longitude": -96.05389
-        },
-        {
-            "elevation": 433.1,
-            "mindate": "1956-07-01",
-            "maxdate": "1958-07-01",
-            "latitude": 42.96667,
-            "name": "ORANGE CITY 3 S, IA US",
-            "datacoverage": 0.0326,
-            "id": "COOP:136274",
-            "elevationUnit": "METERS",
-            "longitude": -96.06667
         },
         {
             "elevation": 356.6,
@@ -3137,17 +2634,6 @@
             "longitude": -92.6466
         },
         {
-            "elevation": 195.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1949-11-05",
-            "latitude": 41.01667,
-            "name": "OTTUMWA 1 WSW, IA US",
-            "datacoverage": 0.9957,
-            "id": "COOP:136386",
-            "elevationUnit": "METERS",
-            "longitude": -92.43333
-        },
-        {
             "elevation": 256.6,
             "mindate": "1948-01-01",
             "maxdate": "2015-11-01",
@@ -3157,17 +2643,6 @@
             "id": "COOP:136389",
             "elevationUnit": "METERS",
             "longitude": -92.4466
-        },
-        {
-            "elevation": 198.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1964-12-01",
-            "latitude": 41.01667,
-            "name": "OTTUMWA, IA US",
-            "datacoverage": 1,
-            "id": "COOP:136391",
-            "elevationUnit": "METERS",
-            "longitude": -92.43333
         },
         {
             "elevation": 253.9,
@@ -3335,34 +2810,12 @@
             "longitude": -95.2419
         },
         {
-            "elevation": 306.3,
-            "mindate": "1948-10-01",
-            "maxdate": "1948-10-01",
-            "latitude": 41.00861,
-            "name": "RED OAK NUMBER 2, IA US",
-            "datacoverage": 0.9819,
-            "id": "COOP:136941",
-            "elevationUnit": "METERS",
-            "longitude": -95.24139
-        },
-        {
-            "elevation": 313.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1948-07-01",
-            "latitude": 40.96667,
-            "name": "RED OAK 10 SW, IA US",
-            "datacoverage": 0.9858,
-            "id": "COOP:136945",
-            "elevationUnit": "METERS",
-            "longitude": -95.46667
-        },
-        {
             "elevation": 405.4,
             "mindate": "1948-08-01",
             "maxdate": "2014-01-01",
             "latitude": 42.8169,
             "name": "REMSEN, IA US",
-            "datacoverage": 0.9742,
+            "datacoverage": 0.0313,
             "id": "COOP:136975",
             "elevationUnit": "METERS",
             "longitude": -95.9711
@@ -3399,17 +2852,6 @@
             "id": "COOP:137058",
             "elevationUnit": "METERS",
             "longitude": -94.51083
-        },
-        {
-            "elevation": 281,
-            "mindate": "1931-01-01",
-            "maxdate": "1960-02-01",
-            "latitude": 40.68333,
-            "name": "RIVERTON, IA US",
-            "datacoverage": 0.963,
-            "id": "COOP:137085",
-            "elevationUnit": "METERS",
-            "longitude": -95.56667
         },
         {
             "elevation": 411.5,
@@ -3456,28 +2898,6 @@
             "longitude": -94.6288
         },
         {
-            "elevation": 305.1,
-            "mindate": "1958-03-01",
-            "maxdate": "1961-06-27",
-            "latitude": 40.95,
-            "name": "RUSSELL 5 ESE, IA US",
-            "datacoverage": 0.0442,
-            "id": "COOP:137276",
-            "elevationUnit": "METERS",
-            "longitude": -93.11667
-        },
-        {
-            "elevation": 317,
-            "mindate": "1956-02-01",
-            "maxdate": "1961-06-29",
-            "latitude": 40.98333,
-            "name": "RUSSELL, IA US",
-            "datacoverage": 0.0426,
-            "id": "COOP:137277",
-            "elevationUnit": "METERS",
-            "longitude": -93.2
-        },
-        {
             "elevation": 368.8,
             "mindate": "1931-01-01",
             "maxdate": "2015-11-01",
@@ -3505,7 +2925,7 @@
             "maxdate": "2014-01-01",
             "latitude": 41.2875,
             "name": "ST CHARLES, IA US",
-            "datacoverage": 1,
+            "datacoverage": 0.0294,
             "id": "COOP:137340",
             "elevationUnit": "METERS",
             "longitude": -93.80778
@@ -3533,23 +2953,12 @@
             "longitude": -95.6602
         },
         {
-            "elevation": 390.1,
-            "mindate": "1949-05-01",
-            "maxdate": "1968-02-01",
-            "latitude": 43.36667,
-            "name": "SARATOGA 2 E, IA US",
-            "datacoverage": 0.9469,
-            "id": "COOP:137410",
-            "elevationUnit": "METERS",
-            "longitude": -92.36667
-        },
-        {
             "elevation": 349,
             "mindate": "1948-08-01",
             "maxdate": "2014-01-01",
             "latitude": 42.9216,
             "name": "SHEFFIELD 3 NW, IA US",
-            "datacoverage": 0.9742,
+            "datacoverage": 0.0292,
             "id": "COOP:137572",
             "elevationUnit": "METERS",
             "longitude": -93.2827
@@ -3560,7 +2969,7 @@
             "maxdate": "2014-01-01",
             "latitude": 41.5116,
             "name": "SHELBY, IA US",
-            "datacoverage": 0.6617,
+            "datacoverage": 0.0305,
             "id": "COOP:137582",
             "elevationUnit": "METERS",
             "longitude": -95.4413
@@ -3582,7 +2991,7 @@
             "maxdate": "2014-01-01",
             "latitude": 42.70417,
             "name": "SHELL ROCK 1 SW, IA US",
-            "datacoverage": 0.2216,
+            "datacoverage": 0.034,
             "id": "COOP:137602",
             "elevationUnit": "METERS",
             "longitude": -92.59056
@@ -3709,23 +3118,12 @@
             "longitude": -95.0652
         },
         {
-            "elevation": 326.1,
-            "mindate": "1941-08-01",
-            "maxdate": "1949-02-01",
-            "latitude": 42.23333,
-            "name": "SLOAN, IA US",
-            "datacoverage": 0.8904,
-            "id": "COOP:137738",
-            "elevationUnit": "METERS",
-            "longitude": -96.23333
-        },
-        {
             "elevation": 342.9,
             "mindate": "1948-08-01",
             "maxdate": "2014-01-01",
             "latitude": 41.9811,
             "name": "SOLDIER, IA US",
-            "datacoverage": 0.9469,
+            "datacoverage": 0.0319,
             "id": "COOP:137774",
             "elevationUnit": "METERS",
             "longitude": -95.7769
@@ -3769,7 +3167,7 @@
             "maxdate": "2007-06-01",
             "latitude": 43.2052,
             "name": "SPILLVILLE, IA US",
-            "datacoverage": 1,
+            "datacoverage": 0.0388,
             "id": "COOP:137855",
             "elevationUnit": "METERS",
             "longitude": -91.9535
@@ -3797,17 +3195,6 @@
             "longitude": -91.8632
         },
         {
-            "elevation": 323.1,
-            "mindate": "1937-01-01",
-            "maxdate": "1951-06-01",
-            "latitude": 42.01667,
-            "name": "STATE CENTER, IA US",
-            "datacoverage": 0.9601,
-            "id": "COOP:137925",
-            "elevationUnit": "METERS",
-            "longitude": -93.16667
-        },
-        {
             "elevation": 297.2,
             "mindate": "1978-05-01",
             "maxdate": "2012-12-01",
@@ -3817,17 +3204,6 @@
             "id": "COOP:137932",
             "elevationUnit": "METERS",
             "longitude": -93.073
-        },
-        {
-            "elevation": 228.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1948-02-01",
-            "latitude": 40.83333,
-            "name": "STOCKPORT, IA US",
-            "datacoverage": 1,
-            "id": "COOP:137955",
-            "elevationUnit": "METERS",
-            "longitude": -91.83333
         },
         {
             "elevation": 439.5,
@@ -3889,40 +3265,18 @@
             "maxdate": "1972-10-01",
             "latitude": 40.96667,
             "name": "TABOR 6 NNW, IA US",
-            "datacoverage": 0.8426,
+            "datacoverage": 0.0409,
             "id": "COOP:138131",
             "longitude": -95.71667
-        },
-        {
-            "elevation": 296,
-            "mindate": "1931-01-01",
-            "maxdate": "1948-11-01",
-            "latitude": 40.81667,
-            "name": "THURMAN, IA US",
-            "datacoverage": 0.9721,
-            "id": "COOP:138231",
-            "elevationUnit": "METERS",
-            "longitude": -95.75
         },
         {
             "mindate": "1950-10-01",
             "maxdate": "1972-06-27",
             "latitude": 40.76667,
             "name": "THURMAN 4 S, IA US",
-            "datacoverage": 0.8876,
+            "datacoverage": 0.0416,
             "id": "COOP:138233",
             "longitude": -95.75
-        },
-        {
-            "elevation": 390.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1956-06-01",
-            "latitude": 40.85,
-            "name": "TINGLEY, IA US",
-            "datacoverage": 1,
-            "id": "COOP:138255",
-            "elevationUnit": "METERS",
-            "longitude": -94.2
         },
         {
             "elevation": 249.9,
@@ -3969,17 +3323,6 @@
             "longitude": -90.86667
         },
         {
-            "elevation": 217,
-            "mindate": "1931-11-01",
-            "maxdate": "1966-09-01",
-            "latitude": 41.2819,
-            "name": "TRACY 1 NE, IA US",
-            "datacoverage": 0.9881,
-            "id": "COOP:138307",
-            "elevationUnit": "METERS",
-            "longitude": -92.8613
-        },
-        {
             "elevation": 285,
             "mindate": "1948-08-01",
             "maxdate": "2015-11-01",
@@ -4011,17 +3354,6 @@
             "id": "COOP:138410",
             "elevationUnit": "METERS",
             "longitude": -95.6811
-        },
-        {
-            "elevation": 268.2,
-            "mindate": "1931-01-01",
-            "maxdate": "1966-03-01",
-            "latitude": 41.5338,
-            "name": "VAN METER, IA US",
-            "datacoverage": 0.993,
-            "id": "COOP:138490",
-            "elevationUnit": "METERS",
-            "longitude": -93.9502
         },
         {
             "elevation": 335.3,
@@ -4062,7 +3394,7 @@
             "maxdate": "2014-01-01",
             "latitude": 41.0458,
             "name": "STANTON 4 N, IA US",
-            "datacoverage": 1,
+            "datacoverage": 0.026,
             "id": "COOP:138646",
             "elevationUnit": "METERS",
             "longitude": -95.0869
@@ -4099,28 +3431,6 @@
             "id": "COOP:138693",
             "elevationUnit": "METERS",
             "longitude": -95.718
-        },
-        {
-            "elevation": 259.1,
-            "mindate": "1954-09-01",
-            "maxdate": "1964-10-01",
-            "latitude": 42.4952,
-            "name": "WATERLOO, IA US",
-            "datacoverage": 0.0449,
-            "id": "COOP:138701",
-            "elevationUnit": "METERS",
-            "longitude": -92.3341
-        },
-        {
-            "elevation": 256,
-            "mindate": "1931-01-01",
-            "maxdate": "1954-10-26",
-            "latitude": 42.51667,
-            "name": "WATERLOO, IA US",
-            "datacoverage": 1,
-            "id": "COOP:138704",
-            "elevationUnit": "METERS",
-            "longitude": -92.33333
         },
         {
             "elevation": 258.5,
@@ -4167,17 +3477,6 @@
             "longitude": -92.0489
         },
         {
-            "elevation": 313.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1952-12-01",
-            "latitude": 41.61667,
-            "name": "WAUKEE, IA US",
-            "datacoverage": 0.9583,
-            "id": "COOP:138747",
-            "elevationUnit": "METERS",
-            "longitude": -93.88333
-        },
-        {
             "elevation": 388.6,
             "mindate": "1934-10-01",
             "maxdate": "2013-12-01",
@@ -4187,17 +3486,6 @@
             "id": "COOP:138755",
             "elevationUnit": "METERS",
             "longitude": -91.4711
-        },
-        {
-            "elevation": 287.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1946-08-01",
-            "latitude": 42.73333,
-            "name": "WAVERLY, IA US",
-            "datacoverage": 1,
-            "id": "COOP:138771",
-            "elevationUnit": "METERS",
-            "longitude": -92.46667
         },
         {
             "elevation": 326.7,
@@ -4211,28 +3499,6 @@
             "longitude": -93.7974
         },
         {
-            "elevation": 307.8,
-            "mindate": "1948-03-01",
-            "maxdate": "1953-08-01",
-            "latitude": 42.4322,
-            "name": "WEBSTER CITY, IA US",
-            "datacoverage": 0.4543,
-            "id": "COOP:138808",
-            "elevationUnit": "METERS",
-            "longitude": -93.8061
-        },
-        {
-            "elevation": 366.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1946-10-01",
-            "latitude": 42.95,
-            "name": "WEST BEND, IA US",
-            "datacoverage": 1,
-            "id": "COOP:138852",
-            "elevationUnit": "METERS",
-            "longitude": -94.41667
-        },
-        {
             "elevation": 355.1,
             "mindate": "2002-10-01",
             "maxdate": "2005-10-01",
@@ -4242,15 +3508,6 @@
             "id": "COOP:138867",
             "elevationUnit": "METERS",
             "longitude": -91.7888
-        },
-        {
-            "mindate": "1948-08-01",
-            "maxdate": "1962-06-01",
-            "latitude": 41.83333,
-            "name": "WHEATLAND, IA US",
-            "datacoverage": 0.9742,
-            "id": "COOP:138989",
-            "longitude": -90.83333
         },
         {
             "elevation": 362.7,
@@ -4287,11 +3544,11 @@
         },
         {
             "elevation": 332.2,
-            "mindate": "1948-03-01",
+            "mindate": "1948-08-01",
             "maxdate": "2012-07-01",
             "latitude": 41.745,
             "name": "WOODBINE, IA US",
-            "datacoverage": 0.6829,
+            "datacoverage": 0.0254,
             "id": "COOP:139164",
             "elevationUnit": "METERS",
             "longitude": -95.7091
@@ -4339,17 +3596,6 @@
             "id": "COOP:255810",
             "elevationUnit": "METERS",
             "longitude": -95.8866
-        },
-        {
-            "elevation": 378,
-            "mindate": "1956-08-01",
-            "maxdate": "1959-06-30",
-            "latitude": 42.98333,
-            "name": "ALCESTER 7 SE, IA US",
-            "datacoverage": 0.0321,
-            "id": "COOP:390110",
-            "elevationUnit": "METERS",
-            "longitude": -96.51667
         },
         {
             "elevation": 192.9,
@@ -9269,17 +8515,6 @@
             "longitude": -93.1732
         },
         {
-            "elevation": 181.4,
-            "mindate": "1893-09-01",
-            "maxdate": "1897-12-31",
-            "latitude": 41.666667,
-            "name": "CORDOVA, IA US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00111841",
-            "elevationUnit": "METERS",
-            "longitude": -90.35
-        },
-        {
             "elevation": 164,
             "mindate": "1938-01-01",
             "maxdate": "2020-05-17",
@@ -9344,28 +8579,6 @@
             "id": "GHCND:USC00130046",
             "elevationUnit": "METERS",
             "longitude": -94.6355
-        },
-        {
-            "elevation": 366.1,
-            "mindate": "1894-06-01",
-            "maxdate": "1950-02-10",
-            "latitude": 41.03333,
-            "name": "AFTON, IA US",
-            "datacoverage": 0.9926,
-            "id": "GHCND:USC00130064",
-            "elevationUnit": "METERS",
-            "longitude": -94.2
-        },
-        {
-            "elevation": 271,
-            "mindate": "1958-01-01",
-            "maxdate": "1967-09-30",
-            "latitude": 41.6,
-            "name": "ADEL, IA US",
-            "datacoverage": 0.7773,
-            "id": "GHCND:USC00130070",
-            "elevationUnit": "METERS",
-            "longitude": -94.01667
         },
         {
             "elevation": 365.2,
@@ -9445,17 +8658,6 @@
             "longitude": -92.8022
         },
         {
-            "elevation": 460.9,
-            "mindate": "1893-01-01",
-            "maxdate": "1959-10-31",
-            "latitude": 42.66667,
-            "name": "ALTA, IA US",
-            "datacoverage": 0.9876,
-            "id": "GHCND:USC00130173",
-            "elevationUnit": "METERS",
-            "longitude": -95.3
-        },
-        {
             "elevation": 413,
             "mindate": "1905-05-01",
             "maxdate": "2016-03-01",
@@ -9487,28 +8689,6 @@
             "id": "GHCND:USC00130203",
             "elevationUnit": "METERS",
             "longitude": -93.5655
-        },
-        {
-            "elevation": 305.1,
-            "mindate": "1893-01-01",
-            "maxdate": "1964-08-31",
-            "latitude": 42,
-            "name": "AMES 3 SW, IA US",
-            "datacoverage": 0.9966,
-            "id": "GHCND:USC00130205",
-            "elevationUnit": "METERS",
-            "longitude": -93.65
-        },
-        {
-            "elevation": 287.1,
-            "mindate": "1893-01-01",
-            "maxdate": "1896-12-31",
-            "latitude": 42.034708,
-            "name": "AMES EXPERIMENT STATION, IA US",
-            "datacoverage": 0.9986,
-            "id": "GHCND:USC00130209",
-            "elevationUnit": "METERS",
-            "longitude": -93.61994
         },
         {
             "elevation": 245.4,
@@ -9599,17 +8779,6 @@
             "longitude": -90.91889
         },
         {
-            "elevation": 366.1,
-            "mindate": "1899-03-01",
-            "maxdate": "1954-10-12",
-            "latitude": 43.3,
-            "name": "BANCROFT, IA US",
-            "datacoverage": 0.8456,
-            "id": "GHCND:USC00130463",
-            "elevationUnit": "METERS",
-            "longitude": -94.21667
-        },
-        {
             "elevation": 305.1,
             "mindate": "1948-01-01",
             "maxdate": "1972-03-31",
@@ -9632,17 +8801,6 @@
             "longitude": -95.575
         },
         {
-            "elevation": 302.1,
-            "mindate": "1899-04-01",
-            "maxdate": "1939-12-31",
-            "latitude": 41.81667,
-            "name": "BAXTER, IA US",
-            "datacoverage": 0.9857,
-            "id": "GHCND:USC00130513",
-            "elevationUnit": "METERS",
-            "longitude": -93.13333
-        },
-        {
             "elevation": 370.3,
             "mindate": "1951-01-01",
             "maxdate": "2020-05-17",
@@ -9652,15 +8810,6 @@
             "id": "GHCND:USC00130536",
             "elevationUnit": "METERS",
             "longitude": -94.0474
-        },
-        {
-            "mindate": "1948-09-01",
-            "maxdate": "1951-06-17",
-            "latitude": 42.03333,
-            "name": "BEAVER 2 NE, IA US",
-            "datacoverage": 0.7072,
-            "id": "GHCND:USC00130549",
-            "longitude": -94.13333
         },
         {
             "elevation": 362.7,
@@ -9707,17 +8856,6 @@
             "longitude": -90.4231
         },
         {
-            "elevation": 360,
-            "mindate": "1909-12-01",
-            "maxdate": "1945-12-31",
-            "latitude": 42.86667,
-            "name": "BELMOND, IA US",
-            "datacoverage": 0.9976,
-            "id": "GHCND:USC00130612",
-            "elevationUnit": "METERS",
-            "longitude": -93.55
-        },
-        {
             "elevation": 362.7,
             "mindate": "1893-01-01",
             "maxdate": "2017-07-19",
@@ -9740,17 +8878,6 @@
             "longitude": -92.4142
         },
         {
-            "elevation": 174,
-            "mindate": "1893-01-01",
-            "maxdate": "1939-03-31",
-            "latitude": 40.76667,
-            "name": "BONAPARTE 5 NE, IA US",
-            "datacoverage": 0.9912,
-            "id": "GHCND:USC00130793",
-            "elevationUnit": "METERS",
-            "longitude": -91.76667
-        },
-        {
             "elevation": 315.5,
             "mindate": "1905-01-01",
             "maxdate": "2020-05-17",
@@ -9760,28 +8887,6 @@
             "id": "GHCND:USC00130807",
             "elevationUnit": "METERS",
             "longitude": -93.89088
-        },
-        {
-            "elevation": 264.9,
-            "mindate": "1915-05-26",
-            "maxdate": "1946-07-31",
-            "latitude": 42.08333,
-            "name": "BOONE 3 WNW, IA US",
-            "datacoverage": 0.7996,
-            "id": "GHCND:USC00130812",
-            "elevationUnit": "METERS",
-            "longitude": -93.93333
-        },
-        {
-            "elevation": 453.2,
-            "mindate": "1950-10-01",
-            "maxdate": "1951-09-30",
-            "latitude": 42.1255,
-            "name": "BOYER 4 SE, IA US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00130853",
-            "elevationUnit": "METERS",
-            "longitude": -95.1886
         },
         {
             "elevation": 225.9,
@@ -9839,17 +8944,6 @@
             "longitude": -93.3775
         },
         {
-            "elevation": 279.2,
-            "mindate": "1899-09-01",
-            "maxdate": "1913-03-31",
-            "latitude": 42.25,
-            "name": "BUCKINGHAM, IA US",
-            "datacoverage": 0.988,
-            "id": "GHCND:USC00131005",
-            "elevationUnit": "METERS",
-            "longitude": -92.46667
-        },
-        {
             "elevation": 210.3,
             "mindate": "1964-01-01",
             "maxdate": "2020-05-09",
@@ -9894,17 +8988,6 @@
             "longitude": -94.85
         },
         {
-            "elevation": 332.2,
-            "mindate": "1950-10-01",
-            "maxdate": "1951-09-30",
-            "latitude": 41.2738,
-            "name": "CARSON 3 NNE, IA US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00131245",
-            "elevationUnit": "METERS",
-            "longitude": -95.4025
-        },
-        {
             "elevation": 248.1,
             "mindate": "1947-07-01",
             "maxdate": "2020-05-14",
@@ -9932,7 +9015,7 @@
             "maxdate": "2020-05-16",
             "latitude": 42.5377,
             "name": "CEDAR FALLS, IA US",
-            "datacoverage": 0.3821,
+            "datacoverage": 0.3563,
             "id": "GHCND:USC00131300",
             "elevationUnit": "METERS",
             "longitude": -92.443
@@ -9947,17 +9030,6 @@
             "id": "GHCND:USC00131319",
             "elevationUnit": "METERS",
             "longitude": -91.5881
-        },
-        {
-            "elevation": 213.4,
-            "mindate": "1904-01-01",
-            "maxdate": "1966-06-30",
-            "latitude": 41.96667,
-            "name": "CEDAR RAPIDS 2, IA US",
-            "datacoverage": 0.9893,
-            "id": "GHCND:USC00131324",
-            "elevationUnit": "METERS",
-            "longitude": -91.66667
         },
         {
             "elevation": 275.8,
@@ -10224,28 +9296,6 @@
             "longitude": -93.48333
         },
         {
-            "elevation": 369.1,
-            "mindate": "1948-08-01",
-            "maxdate": "1951-09-30",
-            "latitude": 41.33333,
-            "name": "COUNCIL BLUFFS 6 NNE, IA US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00131888",
-            "elevationUnit": "METERS",
-            "longitude": -95.81667
-        },
-        {
-            "elevation": 328.9,
-            "mindate": "1893-07-01",
-            "maxdate": "1965-07-31",
-            "latitude": 41.31667,
-            "name": "COUNCIL BLUFFS 6 NE, IA US",
-            "datacoverage": 0.3977,
-            "id": "GHCND:USC00131889",
-            "elevationUnit": "METERS",
-            "longitude": -95.81667
-        },
-        {
             "elevation": 382.5,
             "mindate": "1893-03-01",
             "maxdate": "2020-04-15",
@@ -10279,26 +9329,6 @@
             "longitude": -94.86667
         },
         {
-            "mindate": "1934-01-01",
-            "maxdate": "1950-11-30",
-            "latitude": 42.46667,
-            "name": "CUSHING, IA US",
-            "datacoverage": 0.9903,
-            "id": "GHCND:USC00132026",
-            "longitude": -95.66667
-        },
-        {
-            "elevation": 320,
-            "mindate": "1939-09-01",
-            "maxdate": "1956-03-31",
-            "latitude": 42.68333,
-            "name": "HUMBOLDT, IA US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00132037",
-            "elevationUnit": "METERS",
-            "longitude": -94.2
-        },
-        {
             "elevation": 338.3,
             "mindate": "2009-11-01",
             "maxdate": "2020-05-17",
@@ -10321,17 +9351,6 @@
             "longitude": -90.58025
         },
         {
-            "elevation": 203.9,
-            "mindate": "1922-09-01",
-            "maxdate": "1929-08-31",
-            "latitude": 41.55,
-            "name": "DAVENPORT 2, IA US",
-            "datacoverage": 0.9642,
-            "id": "GHCND:USC00132071",
-            "elevationUnit": "METERS",
-            "longitude": -90.56667
-        },
-        {
             "elevation": 262.1,
             "mindate": "1893-03-01",
             "maxdate": "2020-05-15",
@@ -10341,17 +9360,6 @@
             "id": "GHCND:USC00132110",
             "elevationUnit": "METERS",
             "longitude": -91.7952
-        },
-        {
-            "elevation": 267.9,
-            "mindate": "1948-01-01",
-            "maxdate": "1950-10-31",
-            "latitude": 43.28333,
-            "name": "DECORAH 2 S, IA US",
-            "datacoverage": 0.9995,
-            "id": "GHCND:USC00132112",
-            "elevationUnit": "METERS",
-            "longitude": -91.78333
         },
         {
             "elevation": 299,
@@ -10374,17 +9382,6 @@
             "id": "GHCND:USC00132171",
             "elevationUnit": "METERS",
             "longitude": -95.3288
-        },
-        {
-            "elevation": 362.7,
-            "mindate": "1948-08-01",
-            "maxdate": "1951-09-30",
-            "latitude": 40.9308,
-            "name": "DERBY, IA US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00132195",
-            "elevationUnit": "METERS",
-            "longitude": -93.458
         },
         {
             "elevation": 246.9,
@@ -10464,17 +9461,6 @@
             "longitude": -90.5404
         },
         {
-            "elevation": 339.9,
-            "mindate": "1935-08-01",
-            "maxdate": "1951-09-30",
-            "latitude": 41.5077,
-            "name": "DEXTER, IA US",
-            "datacoverage": 0.3866,
-            "id": "GHCND:USC00132240",
-            "elevationUnit": "METERS",
-            "longitude": -94.2269
-        },
-        {
             "elevation": 214.9,
             "mindate": "1938-01-01",
             "maxdate": "2020-05-17",
@@ -10541,17 +9527,6 @@
             "longitude": -92.9763
         },
         {
-            "elevation": 307.8,
-            "mindate": "1934-03-01",
-            "maxdate": "1958-07-31",
-            "latitude": 41.96667,
-            "name": "DUNBAR 2 NE, IA US",
-            "datacoverage": 0.9999,
-            "id": "GHCND:USC00132396",
-            "elevationUnit": "METERS",
-            "longitude": -92.76667
-        },
-        {
             "elevation": 229.8,
             "mindate": "2006-06-01",
             "maxdate": "2006-11-30",
@@ -10607,15 +9582,6 @@
             "longitude": -92.4433
         },
         {
-            "mindate": "1950-10-01",
-            "maxdate": "1951-09-30",
-            "latitude": 41.03333,
-            "name": "EMERSON, IA US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00132676",
-            "longitude": -95.4
-        },
-        {
             "elevation": 335.9,
             "mindate": "1948-01-01",
             "maxdate": "1971-12-31",
@@ -10658,17 +9624,6 @@
             "id": "GHCND:USC00132755",
             "elevationUnit": "METERS",
             "longitude": -95.383
-        },
-        {
-            "elevation": 412.1,
-            "mindate": "1950-10-01",
-            "maxdate": "1951-09-30",
-            "latitude": 41.56667,
-            "name": "EXIRA 7 SE, IA US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00132768",
-            "elevationUnit": "METERS",
-            "longitude": -94.78333
         },
         {
             "elevation": 301.8,
@@ -10748,17 +9703,6 @@
             "longitude": -90.7063
         },
         {
-            "elevation": 392.9,
-            "mindate": "1893-08-01",
-            "maxdate": "1917-11-30",
-            "latitude": 42.5,
-            "name": "GALVA, IA US",
-            "datacoverage": 0.5651,
-            "id": "GHCND:USC00133107",
-            "elevationUnit": "METERS",
-            "longitude": -95.5
-        },
-        {
             "elevation": 426.7,
             "mindate": "1963-07-01",
             "maxdate": "2010-12-31",
@@ -10836,17 +9780,6 @@
             "longitude": -95.68333
         },
         {
-            "elevation": 467,
-            "mindate": "1950-10-01",
-            "maxdate": "1951-09-30",
-            "latitude": 42.98333,
-            "name": "GRANVILLE 2 E, IA US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00133399",
-            "elevationUnit": "METERS",
-            "longitude": -95.83333
-        },
-        {
             "elevation": 401.1,
             "mindate": "1893-01-01",
             "maxdate": "2020-05-16",
@@ -10902,17 +9835,6 @@
             "longitude": -91.0958
         },
         {
-            "elevation": 274.3,
-            "mindate": "1899-03-01",
-            "maxdate": "1951-09-30",
-            "latitude": 40.61528,
-            "name": "HAMBURG 2, IA US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00133562",
-            "elevationUnit": "METERS",
-            "longitude": -95.65333
-        },
-        {
             "elevation": 271,
             "mindate": "1972-07-01",
             "maxdate": "1976-10-30",
@@ -10966,6 +9888,1106 @@
             "id": "GHCND:USC00133623",
             "elevationUnit": "METERS",
             "longitude": -94.1459
+        },
+        {
+            "elevation": 387.1,
+            "mindate": "1899-02-01",
+            "maxdate": "2016-02-24",
+            "latitude": 41.6452,
+            "name": "HARLAN, IA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00133632",
+            "elevationUnit": "METERS",
+            "longitude": -95.3339
+        },
+        {
+            "elevation": 320,
+            "mindate": "2008-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 41.0772,
+            "name": "HASTINGS 4 NE, IA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00133675",
+            "elevationUnit": "METERS",
+            "longitude": -95.48
+        },
+        {
+            "elevation": 313.9,
+            "mindate": "1971-12-01",
+            "maxdate": "1994-12-31",
+            "latitude": 41.95,
+            "name": "HAVERHILL, IA US",
+            "datacoverage": 0.9995,
+            "id": "GHCND:USC00133712",
+            "elevationUnit": "METERS",
+            "longitude": -92.95
+        },
+        {
+            "elevation": 362.7,
+            "mindate": "1926-08-01",
+            "maxdate": "2020-03-31",
+            "latitude": 43.003,
+            "name": "HAWARDEN, IA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00133718",
+            "elevationUnit": "METERS",
+            "longitude": -96.485
+        },
+        {
+            "elevation": 341.4,
+            "mindate": "1964-05-01",
+            "maxdate": "2020-05-16",
+            "latitude": 42.28389,
+            "name": "HORNICK 4 NNE, IA US",
+            "datacoverage": 0.7773,
+            "id": "GHCND:USC00133900",
+            "elevationUnit": "METERS",
+            "longitude": -96.05806
+        },
+        {
+            "elevation": 417.6,
+            "mindate": "1951-05-01",
+            "maxdate": "2020-02-04",
+            "latitude": 42.4897,
+            "name": "HOLSTEIN, IA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00133909",
+            "elevationUnit": "METERS",
+            "longitude": -95.5488
+        },
+        {
+            "elevation": 337.7,
+            "mindate": "1978-01-01",
+            "maxdate": "2017-12-28",
+            "latitude": 42.30363,
+            "name": "HUBBARD, IA US",
+            "datacoverage": 0.9956,
+            "id": "GHCND:USC00133960",
+            "elevationUnit": "METERS",
+            "longitude": -93.28961
+        },
+        {
+            "elevation": 278.9,
+            "mindate": "2012-03-01",
+            "maxdate": "2019-11-30",
+            "latitude": 42.4075,
+            "name": "HUDSON, IA US",
+            "datacoverage": 0.9352,
+            "id": "GHCND:USC00133964",
+            "elevationUnit": "METERS",
+            "longitude": -92.4633
+        },
+        {
+            "elevation": 335.3,
+            "mindate": "1997-01-01",
+            "maxdate": "2020-05-16",
+            "latitude": 42.7197,
+            "name": "HUMBOLDT WATER PLANT, IA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00133980",
+            "elevationUnit": "METERS",
+            "longitude": -94.2202
+        },
+        {
+            "elevation": 338.3,
+            "mindate": "1893-05-01",
+            "maxdate": "2010-12-31",
+            "latitude": 42.71806,
+            "name": "HUMBOLDT 3 W, IA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00133985",
+            "elevationUnit": "METERS",
+            "longitude": -94.26889
+        },
+        {
+            "elevation": 402.3,
+            "mindate": "1902-10-01",
+            "maxdate": "2010-12-31",
+            "latitude": 42.3941,
+            "name": "IDA GROVE 5 NW, IA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00134038",
+            "elevationUnit": "METERS",
+            "longitude": -95.515
+        },
+        {
+            "elevation": 307.8,
+            "mindate": "1862-11-01",
+            "maxdate": "2010-12-31",
+            "latitude": 42.527,
+            "name": "INDEPENDENCE NUMBER 1, IA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00134049",
+            "elevationUnit": "METERS",
+            "longitude": -91.878
+        },
+        {
+            "elevation": 275.2,
+            "mindate": "1893-01-01",
+            "maxdate": "2016-03-01",
+            "latitude": 42.50694,
+            "name": "INDEPENDENCE, IA US",
+            "datacoverage": 0.9795,
+            "id": "GHCND:USC00134052",
+            "elevationUnit": "METERS",
+            "longitude": -91.90139
+        },
+        {
+            "elevation": 281.6,
+            "mindate": "1893-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 41.36639,
+            "name": "INDIANOLA 2 W, IA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00134063",
+            "elevationUnit": "METERS",
+            "longitude": -93.64806
+        },
+        {
+            "elevation": 249.3,
+            "mindate": "1951-11-01",
+            "maxdate": "2016-03-01",
+            "latitude": 41.4247,
+            "name": "INDIANOLA, IA US",
+            "datacoverage": 0.3118,
+            "id": "GHCND:USC00134067",
+            "elevationUnit": "METERS",
+            "longitude": -93.5869
+        },
+        {
+            "elevation": 445,
+            "mindate": "1902-01-01",
+            "maxdate": "1973-01-31",
+            "latitude": 43.3,
+            "name": "INWOOD 2 SW, IA US",
+            "datacoverage": 0.9728,
+            "id": "GHCND:USC00134087",
+            "elevationUnit": "METERS",
+            "longitude": -96.46667
+        },
+        {
+            "elevation": 310.6,
+            "mindate": "2002-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 43.0336,
+            "name": "IONIA 2 W, IA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00134094",
+            "elevationUnit": "METERS",
+            "longitude": -92.5018
+        },
+        {
+            "elevation": 195.1,
+            "mindate": "1893-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 41.6093,
+            "name": "IOWA CITY, IA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00134101",
+            "elevationUnit": "METERS",
+            "longitude": -91.5051
+        },
+        {
+            "elevation": 321.6,
+            "mindate": "1893-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 42.5188,
+            "name": "IOWA FALLS, IA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00134142",
+            "elevationUnit": "METERS",
+            "longitude": -93.2536
+        },
+        {
+            "elevation": 352.7,
+            "mindate": "1948-04-01",
+            "maxdate": "2013-05-01",
+            "latitude": 42.5763,
+            "name": "JAMES 1 NE, IA US",
+            "datacoverage": 0.3465,
+            "id": "GHCND:USC00134202",
+            "elevationUnit": "METERS",
+            "longitude": -96.3038
+        },
+        {
+            "elevation": 321.6,
+            "mindate": "1893-01-01",
+            "maxdate": "2020-03-31",
+            "latitude": 42.0103,
+            "name": "JEFFERSON, IA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00134228",
+            "elevationUnit": "METERS",
+            "longitude": -94.39523
+        },
+        {
+            "elevation": 318.5,
+            "mindate": "1949-03-01",
+            "maxdate": "2018-02-09",
+            "latitude": 42.3008,
+            "name": "JEWELL, IA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00134244",
+            "elevationUnit": "METERS",
+            "longitude": -93.6388
+        },
+        {
+            "elevation": 361.2,
+            "mindate": "1941-08-01",
+            "maxdate": "2020-05-15",
+            "latitude": 42.9311,
+            "name": "KANAWHA, IA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00134308",
+            "elevationUnit": "METERS",
+            "longitude": -93.7933
+        },
+        {
+            "elevation": 332.2,
+            "mindate": "1950-05-01",
+            "maxdate": "2018-09-30",
+            "latitude": 42.0727,
+            "name": "KENNEBEC, IA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00134342",
+            "elevationUnit": "METERS",
+            "longitude": -95.9955
+        },
+        {
+            "elevation": 160.6,
+            "mindate": "1891-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 40.3968,
+            "name": "KEOKUK LOCK DAM 19, IA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00134381",
+            "elevationUnit": "METERS",
+            "longitude": -91.3749
+        },
+        {
+            "elevation": 191.7,
+            "mindate": "1893-01-01",
+            "maxdate": "2020-05-16",
+            "latitude": 40.7356,
+            "name": "KEOSAUQUA, IA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00134389",
+            "elevationUnit": "METERS",
+            "longitude": -91.9696
+        },
+        {
+            "elevation": 192,
+            "mindate": "1933-11-24",
+            "maxdate": "1976-06-30",
+            "latitude": 40.71667,
+            "name": "KEOSAUQUA 2, IA US",
+            "datacoverage": 0.9261,
+            "id": "GHCND:USC00134394",
+            "elevationUnit": "METERS",
+            "longitude": -91.95
+        },
+        {
+            "elevation": 306,
+            "mindate": "2011-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 42.6611,
+            "name": "KESLEY, IA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00134402",
+            "elevationUnit": "METERS",
+            "longitude": -92.9083
+        },
+        {
+            "elevation": 289,
+            "mindate": "2017-01-01",
+            "maxdate": "2017-09-19",
+            "latitude": 42.7038,
+            "name": "KESLEY 3 NNE, IA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00134403",
+            "elevationUnit": "METERS",
+            "longitude": -92.8891
+        },
+        {
+            "elevation": 286.5,
+            "mindate": "1975-08-01",
+            "maxdate": "1984-11-26",
+            "latitude": 41.61667,
+            "name": "KILLDUFF, IA US",
+            "datacoverage": 0.7498,
+            "id": "GHCND:USC00134433",
+            "elevationUnit": "METERS",
+            "longitude": -92.9
+        },
+        {
+            "elevation": 272.8,
+            "mindate": "1893-06-01",
+            "maxdate": "2020-05-16",
+            "latitude": 41.3247,
+            "name": "KNOXVILLE, IA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00134502",
+            "elevationUnit": "METERS",
+            "longitude": -93.1008
+        },
+        {
+            "elevation": 227.1,
+            "mindate": "2011-04-01",
+            "maxdate": "2015-01-13",
+            "latitude": 41.7565,
+            "name": "LADORA, IA US",
+            "datacoverage": 0.9118,
+            "id": "GHCND:USC00134529",
+            "elevationUnit": "METERS",
+            "longitude": -92.1845
+        },
+        {
+            "elevation": 378,
+            "mindate": "1936-05-01",
+            "maxdate": "1972-10-31",
+            "latitude": 42.26667,
+            "name": "LAKE CITY, IA US",
+            "datacoverage": 0.9771,
+            "id": "GHCND:USC00134547",
+            "elevationUnit": "METERS",
+            "longitude": -94.73333
+        },
+        {
+            "elevation": 384,
+            "mindate": "1955-01-01",
+            "maxdate": "2020-05-14",
+            "latitude": 43.4177,
+            "name": "LAKE MILLS, IA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00134557",
+            "elevationUnit": "METERS",
+            "longitude": -93.5347
+        },
+        {
+            "elevation": 446.5,
+            "mindate": "1912-08-01",
+            "maxdate": "2020-03-31",
+            "latitude": 43.4483,
+            "name": "LAKE PARK, IA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00134561",
+            "elevationUnit": "METERS",
+            "longitude": -95.3247
+        },
+        {
+            "elevation": 343.8,
+            "mindate": "1897-08-01",
+            "maxdate": "2020-05-15",
+            "latitude": 40.6233,
+            "name": "LAMONI, IA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00134585",
+            "elevationUnit": "METERS",
+            "longitude": -93.9343
+        },
+        {
+            "elevation": 196,
+            "mindate": "1896-06-01",
+            "maxdate": "2010-12-31",
+            "latitude": 43.36333,
+            "name": "LANSING, IA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00134620",
+            "elevationUnit": "METERS",
+            "longitude": -91.21611
+        },
+        {
+            "elevation": 253,
+            "mindate": "2003-05-01",
+            "maxdate": "2013-06-14",
+            "latitude": 43.3197,
+            "name": "LANSING 4 SE, IA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00134624",
+            "elevationUnit": "METERS",
+            "longitude": -91.1616
+        },
+        {
+            "elevation": 175.9,
+            "mindate": "1938-03-01",
+            "maxdate": "2020-05-16",
+            "latitude": 41.5747,
+            "name": "LE CLAIRE LOCK AND DAM 14, IA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00134705",
+            "elevationUnit": "METERS",
+            "longitude": -90.4005
+        },
+        {
+            "elevation": 364.2,
+            "mindate": "1896-01-01",
+            "maxdate": "2020-03-31",
+            "latitude": 42.7816,
+            "name": "LE MARS, IA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00134735",
+            "elevationUnit": "METERS",
+            "longitude": -96.1458
+        },
+        {
+            "elevation": 304.8,
+            "mindate": "1962-01-01",
+            "maxdate": "2012-10-11",
+            "latitude": 40.7244,
+            "name": "LEON 6 ESE, IA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00134758",
+            "elevationUnit": "METERS",
+            "longitude": -93.6452
+        },
+        {
+            "elevation": 312.4,
+            "mindate": "2002-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 41.8263,
+            "name": "LITTLE SIOUX 2 NW, IA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00134874",
+            "elevationUnit": "METERS",
+            "longitude": -96.0505
+        },
+        {
+            "elevation": 301.8,
+            "mindate": "1893-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 41.638,
+            "name": "LOGAN, IA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00134894",
+            "elevationUnit": "METERS",
+            "longitude": -95.7883
+        },
+        {
+            "elevation": 313.6,
+            "mindate": "1951-01-01",
+            "maxdate": "2014-06-01",
+            "latitude": 41.6425,
+            "name": "LOGAN NUMBER 2, IA US",
+            "datacoverage": 0.7495,
+            "id": "GHCND:USC00134898",
+            "elevationUnit": "METERS",
+            "longitude": -95.7825
+        },
+        {
+            "elevation": 370.3,
+            "mindate": "1950-04-01",
+            "maxdate": "2019-10-21",
+            "latitude": 41.1247,
+            "name": "LORIMOR, IA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00134926",
+            "elevationUnit": "METERS",
+            "longitude": -94.0513
+        },
+        {
+            "elevation": 224.9,
+            "mindate": "1991-01-01",
+            "maxdate": "2020-05-16",
+            "latitude": 41.86044,
+            "name": "LOWDEN, IA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00134963",
+            "elevationUnit": "METERS",
+            "longitude": -90.9222
+        },
+        {
+            "elevation": 284.1,
+            "mindate": "1987-12-01",
+            "maxdate": "1994-12-31",
+            "latitude": 42.4823,
+            "name": "MANCHESTER, IA US",
+            "datacoverage": 0.9526,
+            "id": "GHCND:USC00135085",
+            "elevationUnit": "METERS",
+            "longitude": -91.4583
+        },
+        {
+            "elevation": 301.8,
+            "mindate": "1976-01-01",
+            "maxdate": "2020-05-15",
+            "latitude": 42.4732,
+            "name": "MANCHESTER NUMBER 2, IA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00135086",
+            "elevationUnit": "METERS",
+            "longitude": -91.4516
+        },
+        {
+            "elevation": 365.8,
+            "mindate": "1937-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 42.162,
+            "name": "MAPLETON NUMBER 2, IA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00135123",
+            "elevationUnit": "METERS",
+            "longitude": -95.7836
+        },
+        {
+            "elevation": 335.3,
+            "mindate": "1948-01-01",
+            "maxdate": "2016-03-01",
+            "latitude": 42.15694,
+            "name": "MAPLETON, IA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00135127",
+            "elevationUnit": "METERS",
+            "longitude": -95.80972
+        },
+        {
+            "elevation": 203.6,
+            "mindate": "1897-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 42.0771,
+            "name": "MAQUOKETA, IA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00135131",
+            "elevationUnit": "METERS",
+            "longitude": -90.6647
+        },
+        {
+            "elevation": 297.2,
+            "mindate": "1954-04-01",
+            "maxdate": "1998-09-30",
+            "latitude": 42.96556,
+            "name": "MARBLE ROCK, IA US",
+            "datacoverage": 0.5197,
+            "id": "GHCND:USC00135141",
+            "elevationUnit": "METERS",
+            "longitude": -92.87056
+        },
+        {
+            "elevation": 225.6,
+            "mindate": "2011-01-01",
+            "maxdate": "2020-05-15",
+            "latitude": 41.7967,
+            "name": "MARENGO, IA US",
+            "datacoverage": 0.8772,
+            "id": "GHCND:USC00135150",
+            "elevationUnit": "METERS",
+            "longitude": -92.0707
+        },
+        {
+            "elevation": 265.2,
+            "mindate": "1893-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 42.0647,
+            "name": "MARSHALLTOWN, IA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00135198",
+            "elevationUnit": "METERS",
+            "longitude": -92.9244
+        },
+        {
+            "elevation": 265.2,
+            "mindate": "1954-08-01",
+            "maxdate": "2020-05-17",
+            "latitude": 42.0655,
+            "name": "MARSHALLTOWN POLLUTION CONTROL PLANT, IA US",
+            "datacoverage": 0.2081,
+            "id": "GHCND:USC00135203",
+            "elevationUnit": "METERS",
+            "longitude": -92.908
+        },
+        {
+            "elevation": 336.8,
+            "mindate": "1893-05-01",
+            "maxdate": "2020-05-17",
+            "latitude": 43.163,
+            "name": "MASON CITY, IA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00135230",
+            "elevationUnit": "METERS",
+            "longitude": -93.1952
+        },
+        {
+            "elevation": 334.4,
+            "mindate": "2000-01-01",
+            "maxdate": "2019-01-27",
+            "latitude": 43.1533,
+            "name": "MASON CITY NUMBER 1, IA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00135232",
+            "elevationUnit": "METERS",
+            "longitude": -93.198
+        },
+        {
+            "elevation": 399.3,
+            "mindate": "1979-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 41.2552,
+            "name": "MASSENA, IA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00135250",
+            "elevationUnit": "METERS",
+            "longitude": -94.765
+        },
+        {
+            "elevation": 351.7,
+            "mindate": "1907-01-01",
+            "maxdate": "2006-09-01",
+            "latitude": 42.7213,
+            "name": "MERRILL, IA US",
+            "datacoverage": 0.1961,
+            "id": "GHCND:USC00135414",
+            "elevationUnit": "METERS",
+            "longitude": -96.2402
+        },
+        {
+            "elevation": 420.9,
+            "mindate": "1941-01-01",
+            "maxdate": "1977-12-31",
+            "latitude": 42.7,
+            "name": "MERRILL 4 WSW, IA US",
+            "datacoverage": 0.8104,
+            "id": "GHCND:USC00135418",
+            "elevationUnit": "METERS",
+            "longitude": -96.33333
+        },
+        {
+            "elevation": 427.3,
+            "mindate": "1919-10-01",
+            "maxdate": "2020-03-31",
+            "latitude": 43.3827,
+            "name": "MILFORD 4 NW, IA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00135493",
+            "elevationUnit": "METERS",
+            "longitude": -95.1841
+        },
+        {
+            "elevation": 347.5,
+            "mindate": "1996-01-01",
+            "maxdate": "2002-12-31",
+            "latitude": 41.17694,
+            "name": "MINEOLA 5 NW, IA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00135552",
+            "elevationUnit": "METERS",
+            "longitude": -95.76833
+        },
+        {
+            "elevation": 289.6,
+            "mindate": "1896-07-01",
+            "maxdate": "2020-05-17",
+            "latitude": 41.58354,
+            "name": "MONTEZUMA 1 W, IA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00135650",
+            "elevationUnit": "METERS",
+            "longitude": -92.54939
+        },
+        {
+            "elevation": 249.9,
+            "mindate": "2011-09-01",
+            "maxdate": "2020-05-17",
+            "latitude": 42.2411,
+            "name": "MONTICELLO, IA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00135669",
+            "elevationUnit": "METERS",
+            "longitude": -91.1732
+        },
+        {
+            "elevation": 347.5,
+            "mindate": "1893-01-01",
+            "maxdate": "2020-05-16",
+            "latitude": 40.7052,
+            "name": "MOUNT AYR, IA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00135769",
+            "elevationUnit": "METERS",
+            "longitude": -94.2427
+        },
+        {
+            "elevation": 222.5,
+            "mindate": "1893-01-01",
+            "maxdate": "2020-05-14",
+            "latitude": 40.9486,
+            "name": "MOUNT PLEASANT 1 SSW, IA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00135796",
+            "elevationUnit": "METERS",
+            "longitude": -91.5647
+        },
+        {
+            "elevation": 167.3,
+            "mindate": "1935-09-01",
+            "maxdate": "2020-05-15",
+            "latitude": 41.4076,
+            "name": "MUSCATINE, IA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00135837",
+            "elevationUnit": "METERS",
+            "longitude": -91.0727
+        },
+        {
+            "elevation": 167.9,
+            "mindate": "1892-12-06",
+            "maxdate": "2016-03-01",
+            "latitude": 41.23,
+            "name": "MUSCATINE 2, IL US",
+            "datacoverage": 0.7943,
+            "id": "GHCND:USC00135842",
+            "elevationUnit": "METERS",
+            "longitude": -91.05
+        },
+        {
+            "elevation": 207.3,
+            "mindate": "1999-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 41.4713,
+            "name": "MUSCATINE 2 N, IA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00135844",
+            "elevationUnit": "METERS",
+            "longitude": -91.0463
+        },
+        {
+            "elevation": 323.4,
+            "mindate": "2011-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 42.93618,
+            "name": "NASHUA 2 SW, IA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00135876",
+            "elevationUnit": "METERS",
+            "longitude": -92.57006
+        },
+        {
+            "elevation": 349.9,
+            "mindate": "1897-01-01",
+            "maxdate": "2020-05-15",
+            "latitude": 43.0452,
+            "name": "NEW HAMPTON, IA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00135952",
+            "elevationUnit": "METERS",
+            "longitude": -92.3123
+        },
+        {
+            "elevation": 292.6,
+            "mindate": "1893-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 41.7116,
+            "name": "NEWTON, IA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00135992",
+            "elevationUnit": "METERS",
+            "longitude": -93.0297
+        },
+        {
+            "elevation": 242.9,
+            "mindate": "1948-08-01",
+            "maxdate": "2020-05-17",
+            "latitude": 41.517,
+            "name": "NORTH ENGLISH, IA US",
+            "datacoverage": 0.9996,
+            "id": "GHCND:USC00136076",
+            "elevationUnit": "METERS",
+            "longitude": -92.0597
+        },
+        {
+            "elevation": 362.7,
+            "mindate": "1896-04-01",
+            "maxdate": "2020-04-10",
+            "latitude": 43.4386,
+            "name": "NORTHWOOD, IA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00136103",
+            "elevationUnit": "METERS",
+            "longitude": -93.2252
+        },
+        {
+            "elevation": 345,
+            "mindate": "1937-12-01",
+            "maxdate": "1970-03-31",
+            "latitude": 40.75,
+            "name": "NORWICH EXPERIMENTAL FARM, IA US",
+            "datacoverage": 0.9975,
+            "id": "GHCND:USC00136119",
+            "elevationUnit": "METERS",
+            "longitude": -95.2
+        },
+        {
+            "elevation": 384,
+            "mindate": "1919-01-01",
+            "maxdate": "2020-05-16",
+            "latitude": 41.3044,
+            "name": "OAKLAND, IA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00136151",
+            "elevationUnit": "METERS",
+            "longitude": -95.3844
+        },
+        {
+            "elevation": 182,
+            "mindate": "1991-01-01",
+            "maxdate": "2016-03-01",
+            "latitude": 40.92694,
+            "name": "OAKLAND MILLS 3 W, IA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00136160",
+            "elevationUnit": "METERS",
+            "longitude": -91.68
+        },
+        {
+            "elevation": 381,
+            "mindate": "1967-01-01",
+            "maxdate": "2013-06-30",
+            "latitude": 43.4144,
+            "name": "OCHEYEDAN, IA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00136190",
+            "elevationUnit": "METERS",
+            "longitude": -95.5313
+        },
+        {
+            "elevation": 355.1,
+            "mindate": "2006-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 42.6801,
+            "name": "OELWEIN 1 E, IA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00136199",
+            "elevationUnit": "METERS",
+            "longitude": -91.8751
+        },
+        {
+            "elevation": 307.8,
+            "mindate": "1923-05-01",
+            "maxdate": "2010-12-31",
+            "latitude": 42.6467,
+            "name": "OELWEIN 2 S, IA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00136200",
+            "elevationUnit": "METERS",
+            "longitude": -91.9131
+        },
+        {
+            "elevation": 323.1,
+            "mindate": "1899-01-01",
+            "maxdate": "2011-11-15",
+            "latitude": 42.0697,
+            "name": "ONAWA 3 NW, IA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00136243",
+            "elevationUnit": "METERS",
+            "longitude": -96.1258
+        },
+        {
+            "elevation": 420.6,
+            "mindate": "2010-07-01",
+            "maxdate": "2020-05-17",
+            "latitude": 43.00056,
+            "name": "ORANGE CITY, IA US",
+            "datacoverage": 0.9996,
+            "id": "GHCND:USC00136273",
+            "elevationUnit": "METERS",
+            "longitude": -96.05389
+        },
+        {
+            "elevation": 356.6,
+            "mindate": "1893-01-01",
+            "maxdate": "2020-05-15",
+            "latitude": 43.2794,
+            "name": "OSAGE, IA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00136305",
+            "elevationUnit": "METERS",
+            "longitude": -92.8106
+        },
+        {
+            "elevation": 313.3,
+            "mindate": "1894-06-01",
+            "maxdate": "2020-05-17",
+            "latitude": 41.0194,
+            "name": "OSCEOLA, IA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00136316",
+            "elevationUnit": "METERS",
+            "longitude": -93.7502
+        },
+        {
+            "elevation": 253,
+            "mindate": "1893-01-01",
+            "maxdate": "2020-05-15",
+            "latitude": 41.3213,
+            "name": "OSKALOOSA, IA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00136327",
+            "elevationUnit": "METERS",
+            "longitude": -92.6466
+        },
+        {
+            "elevation": 253.9,
+            "mindate": "2000-11-01",
+            "maxdate": "2018-06-21",
+            "latitude": 41.0101,
+            "name": "OTTUMWA NUMBER 1, IA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00136392",
+            "elevationUnit": "METERS",
+            "longitude": -92.5174
+        },
+        {
+            "elevation": 285.3,
+            "mindate": "1951-09-01",
+            "maxdate": "2020-03-31",
+            "latitude": 42.57733,
+            "name": "PARKERSBURG, IA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00136492",
+            "elevationUnit": "METERS",
+            "longitude": -92.80495
+        },
+        {
+            "elevation": 451.1,
+            "mindate": "1954-01-01",
+            "maxdate": "1994-12-31",
+            "latitude": 42.9841,
+            "name": "PAULLINA, IA US",
+            "datacoverage": 0.4492,
+            "id": "GHCND:USC00136520",
+            "elevationUnit": "METERS",
+            "longitude": -95.6897
+        },
+        {
+            "elevation": 237.7,
+            "mindate": "1898-01-01",
+            "maxdate": "2020-05-16",
+            "latitude": 41.3761,
+            "name": "PELLA 1 S, IA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00136527",
+            "elevationUnit": "METERS",
+            "longitude": -92.9202
+        },
+        {
+            "elevation": 289.6,
+            "mindate": "1900-10-01",
+            "maxdate": "2020-05-17",
+            "latitude": 41.8394,
+            "name": "PERRY, IA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00136566",
+            "elevationUnit": "METERS",
+            "longitude": -94.1105
+        },
+        {
+            "elevation": 374.9,
+            "mindate": "1953-12-01",
+            "maxdate": "2016-03-01",
+            "latitude": 42.9183,
+            "name": "PETERSON, IA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00136590",
+            "elevationUnit": "METERS",
+            "longitude": -95.3369
+        },
+        {
+            "elevation": 326.7,
+            "mindate": "1950-09-01",
+            "maxdate": "2016-03-01",
+            "latitude": 41.83056,
+            "name": "PISGAH, IA US",
+            "datacoverage": 0.8917,
+            "id": "GHCND:USC00136634",
+            "elevationUnit": "METERS",
+            "longitude": -95.93111
+        },
+        {
+            "elevation": 369.4,
+            "mindate": "1904-05-01",
+            "maxdate": "2020-05-17",
+            "latitude": 42.7291,
+            "name": "POCAHONTAS, IA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00136719",
+            "elevationUnit": "METERS",
+            "longitude": -94.6613
+        },
+        {
+            "elevation": 345.9,
+            "mindate": "1974-08-01",
+            "maxdate": "2015-08-01",
+            "latitude": 42.5863,
+            "name": "POPEJOY 1 S, IA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00136755",
+            "elevationUnit": "METERS",
+            "longitude": -93.4363
+        },
+        {
+            "elevation": 355.1,
+            "mindate": "1893-01-01",
+            "maxdate": "2020-03-31",
+            "latitude": 43.09,
+            "name": "POSTVILLE, IA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00136766",
+            "elevationUnit": "METERS",
+            "longitude": -91.5581
+        },
+        {
+            "elevation": 463.3,
+            "mindate": "1895-04-01",
+            "maxdate": "2020-05-16",
+            "latitude": 43.0863,
+            "name": "PRIMGHAR, IA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00136800",
+            "elevationUnit": "METERS",
+            "longitude": -95.6291
+        },
+        {
+            "elevation": 288,
+            "mindate": "1970-05-01",
+            "maxdate": "2013-11-30",
+            "latitude": 40.7936,
+            "name": "PROMISE CITY, IA US",
+            "datacoverage": 0.4442,
+            "id": "GHCND:USC00136820",
+            "elevationUnit": "METERS",
+            "longitude": -93.1408
+        },
+        {
+            "elevation": 298.7,
+            "mindate": "1953-05-01",
+            "maxdate": "2020-05-16",
+            "latitude": 40.8744,
+            "name": "RANDOLPH, IA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00136891",
+            "elevationUnit": "METERS",
+            "longitude": -95.5666
+        },
+        {
+            "elevation": 294.1,
+            "mindate": "1970-04-01",
+            "maxdate": "2020-05-17",
+            "latitude": 40.825,
+            "name": "RATHBUN DAM, IA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00136910",
+            "elevationUnit": "METERS",
+            "longitude": -92.8925
+        },
+        {
+            "elevation": 327.4,
+            "mindate": "1954-12-01",
+            "maxdate": "2016-03-01",
+            "latitude": 41.5687,
+            "name": "REDFIELD 2 E, IA US",
+            "datacoverage": 0.5661,
+            "id": "GHCND:USC00136920",
+            "elevationUnit": "METERS",
+            "longitude": -94.1401
         }
     ]
 }

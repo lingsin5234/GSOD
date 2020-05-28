@@ -2,7 +2,7 @@
     "metadata": {
         "resultset": {
             "offset": 1,
-            "count": 482,
+            "count": 387,
             "limit": 1000
         }
     },
@@ -52,17 +52,6 @@
             "longitude": -71.6903
         },
         {
-            "elevation": 1012.9,
-            "mindate": "1952-10-01",
-            "maxdate": "1952-10-01",
-            "latitude": 44.76667,
-            "name": "BALD MOUNTAIN, VT US",
-            "datacoverage": 0.9819,
-            "id": "COOP:430267",
-            "elevationUnit": "METERS",
-            "longitude": -71.98333
-        },
-        {
             "elevation": 344.4,
             "mindate": "1962-09-01",
             "maxdate": "2015-11-01",
@@ -72,17 +61,6 @@
             "id": "COOP:430277",
             "elevationUnit": "METERS",
             "longitude": -72.7836
-        },
-        {
-            "elevation": 182.9,
-            "mindate": "1937-01-01",
-            "maxdate": "1960-01-01",
-            "latitude": 44.2,
-            "name": "BARRE, VT US",
-            "datacoverage": 1,
-            "id": "COOP:430337",
-            "elevationUnit": "METERS",
-            "longitude": -72.51667
         },
         {
             "elevation": 82.3,
@@ -96,28 +74,6 @@
             "longitude": -72.45
         },
         {
-            "elevation": 267.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1950-09-01",
-            "latitude": 42.85,
-            "name": "BENNINGTON, VT US",
-            "datacoverage": 0.9579,
-            "id": "COOP:430558",
-            "elevationUnit": "METERS",
-            "longitude": -73.16667
-        },
-        {
-            "elevation": 203.9,
-            "mindate": "1952-07-01",
-            "maxdate": "1969-08-01",
-            "latitude": 42.91667,
-            "name": "BENNINGTON 2 NNW, VT US",
-            "datacoverage": 0.9804,
-            "id": "COOP:430563",
-            "elevationUnit": "METERS",
-            "longitude": -73.21667
-        },
-        {
             "elevation": 292.6,
             "mindate": "1976-10-01",
             "maxdate": "2001-04-01",
@@ -129,17 +85,6 @@
             "longitude": -73.18333
         },
         {
-            "elevation": 164.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1957-10-01",
-            "latitude": 43.83333,
-            "name": "BETHEL, VT US",
-            "datacoverage": 0.6615,
-            "id": "COOP:430660",
-            "elevationUnit": "METERS",
-            "longitude": -72.63333
-        },
-        {
             "elevation": 201.2,
             "mindate": "1958-06-01",
             "maxdate": "2014-12-01",
@@ -149,28 +94,6 @@
             "id": "COOP:430661",
             "elevationUnit": "METERS",
             "longitude": -72.6344
-        },
-        {
-            "elevation": 200.9,
-            "mindate": "1948-11-01",
-            "maxdate": "1949-10-01",
-            "latitude": 44.18333,
-            "name": "BOLTONVILLE, VT US",
-            "datacoverage": 1,
-            "id": "COOP:430724",
-            "elevationUnit": "METERS",
-            "longitude": -72.1
-        },
-        {
-            "elevation": 133.2,
-            "mindate": "1931-01-01",
-            "maxdate": "1942-07-01",
-            "latitude": 42.85,
-            "name": "BRATTLEBORO, VT US",
-            "datacoverage": 0.9786,
-            "id": "COOP:430841",
-            "elevationUnit": "METERS",
-            "longitude": -72.566667
         },
         {
             "elevation": 153,
@@ -294,17 +217,6 @@
             "longitude": -73.2106
         },
         {
-            "elevation": 379.2,
-            "mindate": "1935-07-01",
-            "maxdate": "1947-03-01",
-            "latitude": 44.65,
-            "name": "CRAFTSBURY COMMON, VT US",
-            "datacoverage": 0.9361,
-            "id": "COOP:431657",
-            "elevationUnit": "METERS",
-            "longitude": -72.383333
-        },
-        {
             "elevation": 404.2,
             "mindate": "2002-05-01",
             "maxdate": "2014-12-01",
@@ -349,17 +261,6 @@
             "longitude": -71.8908
         },
         {
-            "elevation": 134.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1949-06-01",
-            "latitude": 44.2,
-            "name": "EAST RYEGATE, VT US",
-            "datacoverage": 0.8695,
-            "id": "COOP:432578",
-            "elevationUnit": "METERS",
-            "longitude": -72.06667
-        },
-        {
             "elevation": 443.8,
             "mindate": "1997-12-01",
             "maxdate": "2011-12-01",
@@ -391,17 +292,6 @@
             "id": "COOP:432773",
             "elevationUnit": "METERS",
             "longitude": -72.8137
-        },
-        {
-            "elevation": 73.2,
-            "mindate": "1937-01-01",
-            "maxdate": "1960-09-01",
-            "latitude": 44.48333,
-            "name": "ESSEX JUNCTION, VT US",
-            "datacoverage": 0.965,
-            "id": "COOP:432828",
-            "elevationUnit": "METERS",
-            "longitude": -73.11667
         },
         {
             "elevation": 103.6,
@@ -453,7 +343,7 @@
             "maxdate": "2011-07-01",
             "latitude": 43.1906,
             "name": "GRAFTON 1 NW, VT US",
-            "datacoverage": 0.9504,
+            "datacoverage": 0.0552,
             "id": "COOP:433400",
             "elevationUnit": "METERS",
             "longitude": -72.6253
@@ -486,7 +376,7 @@
             "maxdate": "2014-01-01",
             "latitude": 44.9339,
             "name": "HIGHGATE FALLS, VT US",
-            "datacoverage": 0.9754,
+            "datacoverage": 0.0527,
             "id": "COOP:433914",
             "elevationUnit": "METERS",
             "longitude": -73.0496
@@ -558,17 +448,6 @@
             "longitude": -72.6786
         },
         {
-            "elevation": 313.9,
-            "mindate": "1943-01-01",
-            "maxdate": "1958-12-01",
-            "latitude": 44.9,
-            "name": "LEMINGTON, VT US",
-            "datacoverage": 0.9428,
-            "id": "COOP:434603",
-            "elevationUnit": "METERS",
-            "longitude": -71.51667
-        },
-        {
             "elevation": 385.6,
             "mindate": "1970-06-01",
             "maxdate": "2005-02-01",
@@ -591,17 +470,6 @@
             "longitude": -72.6791
         },
         {
-            "elevation": 286.5,
-            "mindate": "1948-05-01",
-            "maxdate": "1951-02-28",
-            "latitude": 44.77444,
-            "name": "LYMAN FALLS, VT US",
-            "datacoverage": 0.8061,
-            "id": "COOP:434765",
-            "elevationUnit": "METERS",
-            "longitude": -71.60167
-        },
-        {
             "elevation": 283.5,
             "mindate": "1948-05-01",
             "maxdate": "1989-04-01",
@@ -622,17 +490,6 @@
             "id": "COOP:434887",
             "elevationUnit": "METERS",
             "longitude": -73.05
-        },
-        {
-            "elevation": 262.1,
-            "mindate": "1936-12-01",
-            "maxdate": "1959-09-01",
-            "latitude": 44.36667,
-            "name": "MARSHFIELD, VT US",
-            "datacoverage": 0.9527,
-            "id": "COOP:434985",
-            "elevationUnit": "METERS",
-            "longitude": -72.33333
         },
         {
             "elevation": 242.6,
@@ -668,17 +525,6 @@
             "longitude": -72.06667
         },
         {
-            "elevation": 139.9,
-            "mindate": "1936-12-01",
-            "maxdate": "1968-12-01",
-            "latitude": 44.3,
-            "name": "MIDDLESEX, VT US",
-            "datacoverage": 1,
-            "id": "COOP:435132",
-            "elevationUnit": "METERS",
-            "longitude": -72.68333
-        },
-        {
             "elevation": 161.5,
             "mindate": "1999-05-01",
             "maxdate": "2015-11-01",
@@ -706,7 +552,7 @@
             "maxdate": "2014-01-01",
             "latitude": 44.5618,
             "name": "MORRISVILLE, VT US",
-            "datacoverage": 0.9754,
+            "datacoverage": 0.0589,
             "id": "COOP:435366",
             "elevationUnit": "METERS",
             "longitude": -72.6027
@@ -811,17 +657,6 @@
             "longitude": -72.3621
         },
         {
-            "elevation": 146,
-            "mindate": "1955-11-01",
-            "maxdate": "1956-06-01",
-            "latitude": 43.33333,
-            "name": "NORTH SPRINGFIELD, VT US",
-            "datacoverage": 1,
-            "id": "COOP:435977",
-            "elevationUnit": "METERS",
-            "longitude": -72.51667
-        },
-        {
             "elevation": 170.7,
             "mindate": "1961-07-01",
             "maxdate": "2015-11-01",
@@ -866,17 +701,6 @@
             "longitude": -72.4154
         },
         {
-            "elevation": 433.1,
-            "mindate": "1948-06-01",
-            "maxdate": "1953-02-01",
-            "latitude": 43.53333,
-            "name": "PLYMOUTH, VT US",
-            "datacoverage": 0.6495,
-            "id": "COOP:436438",
-            "elevationUnit": "METERS",
-            "longitude": -72.71667
-        },
-        {
             "elevation": 371.9,
             "mindate": "1955-11-01",
             "maxdate": "1970-04-01",
@@ -897,39 +721,6 @@
             "id": "COOP:436500",
             "elevationUnit": "METERS",
             "longitude": -73.22278
-        },
-        {
-            "elevation": 271,
-            "mindate": "1952-11-01",
-            "maxdate": "1957-01-01",
-            "latitude": 43.93333,
-            "name": "RANDOLPH, VT US",
-            "datacoverage": 0.9996,
-            "id": "COOP:436712",
-            "elevationUnit": "METERS",
-            "longitude": -72.66667
-        },
-        {
-            "elevation": 420.9,
-            "mindate": "1941-06-01",
-            "maxdate": "1957-09-01",
-            "latitude": 43.95,
-            "name": "RANDOLPH CENTER, VT US",
-            "datacoverage": 0.7194,
-            "id": "COOP:436717",
-            "elevationUnit": "METERS",
-            "longitude": -72.6
-        },
-        {
-            "elevation": 451.1,
-            "mindate": "1940-10-01",
-            "maxdate": "1967-12-01",
-            "latitude": 43.51667,
-            "name": "READING HILL, VT US",
-            "datacoverage": 0.9113,
-            "id": "COOP:436746",
-            "elevationUnit": "METERS",
-            "longitude": -72.56667
         },
         {
             "elevation": 341.4,
@@ -963,17 +754,6 @@
             "id": "COOP:436995",
             "elevationUnit": "METERS",
             "longitude": -72.9781
-        },
-        {
-            "elevation": 115.8,
-            "mindate": "1931-01-01",
-            "maxdate": "1956-06-01",
-            "latitude": 44.8593,
-            "name": "ST ALBANS RADIO, VT US",
-            "datacoverage": 0.8563,
-            "id": "COOP:437025",
-            "elevationUnit": "METERS",
-            "longitude": -73.0911
         },
         {
             "elevation": 34.1,
@@ -1031,15 +811,6 @@
             "longitude": -73.0992
         },
         {
-            "mindate": "1931-01-01",
-            "maxdate": "1965-12-01",
-            "latitude": 42.9,
-            "name": "SEARBURG POWER PLANT, VT US",
-            "datacoverage": 0.9976,
-            "id": "COOP:437142",
-            "longitude": -73
-        },
-        {
             "elevation": 475.5,
             "mindate": "1931-01-01",
             "maxdate": "1998-10-01",
@@ -1060,17 +831,6 @@
             "id": "COOP:437217",
             "elevationUnit": "METERS",
             "longitude": -73.25
-        },
-        {
-            "elevation": 634,
-            "mindate": "1931-01-01",
-            "maxdate": "1968-09-01",
-            "latitude": 42.96667,
-            "name": "SOMERSET, VT US",
-            "datacoverage": 0.9978,
-            "id": "COOP:437401",
-            "elevationUnit": "METERS",
-            "longitude": -72.95
         },
         {
             "elevation": 33.5,
@@ -1117,23 +877,12 @@
             "longitude": -72.0753
         },
         {
-            "elevation": 92,
-            "mindate": "1940-10-01",
-            "maxdate": "1956-06-01",
-            "latitude": 43.26667,
-            "name": "SPRINGFIELD 2 SE, VT US",
-            "datacoverage": 0.9737,
-            "id": "COOP:437954",
-            "elevationUnit": "METERS",
-            "longitude": -72.45
-        },
-        {
             "elevation": 259.1,
             "mindate": "1948-05-01",
             "maxdate": "1992-03-01",
             "latitude": 43.77333,
             "name": "PITTSFIELD, VT US",
-            "datacoverage": 0.8426,
+            "datacoverage": 0.0514,
             "id": "COOP:438057",
             "elevationUnit": "METERS",
             "longitude": -72.815
@@ -1194,34 +943,12 @@
             "longitude": -72.7
         },
         {
-            "elevation": 128,
-            "mindate": "1947-10-01",
-            "maxdate": "1957-09-01",
-            "latitude": 43.03333,
-            "name": "TOWNSHEND, VT US",
-            "datacoverage": 0.9637,
-            "id": "COOP:438438",
-            "elevationUnit": "METERS",
-            "longitude": -72.66667
-        },
-        {
-            "elevation": 189,
-            "mindate": "1941-07-01",
-            "maxdate": "1952-05-01",
-            "latitude": 43.91667,
-            "name": "TUNBRIDGE, VT US",
-            "datacoverage": 0.7861,
-            "id": "COOP:438483",
-            "elevationUnit": "METERS",
-            "longitude": -72.48333
-        },
-        {
             "elevation": 335.9,
             "mindate": "1948-05-01",
             "maxdate": "1973-11-01",
             "latitude": 43.46667,
             "name": "TYSON, VT US",
-            "datacoverage": 0.6846,
+            "datacoverage": 0.0754,
             "id": "COOP:438512",
             "elevationUnit": "METERS",
             "longitude": -72.7
@@ -1349,17 +1076,6 @@
         },
         {
             "elevation": 231.6,
-            "mindate": "1941-08-01",
-            "maxdate": "1958-06-01",
-            "latitude": 44.31667,
-            "name": "WATERBURY 2 SSE, VT US",
-            "datacoverage": 0.9607,
-            "id": "COOP:438805",
-            "elevationUnit": "METERS",
-            "longitude": -72.75
-        },
-        {
-            "elevation": 231.6,
             "mindate": "1958-06-01",
             "maxdate": "1992-03-01",
             "latitude": 44.31667,
@@ -1392,28 +1108,6 @@
             "longitude": -72.0232
         },
         {
-            "elevation": 345,
-            "mindate": "1948-01-01",
-            "maxdate": "1950-08-01",
-            "latitude": 44.68333,
-            "name": "WEST BURKE 5 NW, VT US",
-            "datacoverage": 0.8438,
-            "id": "COOP:439109",
-            "elevationUnit": "METERS",
-            "longitude": -72.05
-        },
-        {
-            "elevation": 420.9,
-            "mindate": "1941-07-01",
-            "maxdate": "1955-12-01",
-            "latitude": 44.4,
-            "name": "WEST DANVILLE, VT US",
-            "datacoverage": 0.9826,
-            "id": "COOP:439182",
-            "elevationUnit": "METERS",
-            "longitude": -72.18333
-        },
-        {
             "elevation": 480.1,
             "mindate": "1989-05-01",
             "maxdate": "2002-12-01",
@@ -1434,48 +1128,6 @@
             "id": "COOP:439190",
             "elevationUnit": "METERS",
             "longitude": -72.85
-        },
-        {
-            "elevation": 125,
-            "mindate": "1931-02-01",
-            "maxdate": "1957-09-01",
-            "latitude": 43.71667,
-            "name": "WEST HARTFORD, VT US",
-            "datacoverage": 0.9876,
-            "id": "COOP:439329",
-            "elevationUnit": "METERS",
-            "longitude": -72.41667
-        },
-        {
-            "elevation": 390.1,
-            "mindate": "1940-10-01",
-            "maxdate": "1950-09-01",
-            "latitude": 43.3,
-            "name": "WESTON, VT US",
-            "datacoverage": 0.9168,
-            "id": "COOP:439476",
-            "elevationUnit": "METERS",
-            "longitude": -72.8
-        },
-        {
-            "elevation": 433.1,
-            "mindate": "1950-10-01",
-            "maxdate": "1955-12-01",
-            "latitude": 43.28333,
-            "name": "WESTON 1 S, VT US",
-            "datacoverage": 0.9522,
-            "id": "COOP:439477",
-            "elevationUnit": "METERS",
-            "longitude": -72.78333
-        },
-        {
-            "mindate": "1940-10-01",
-            "maxdate": "1957-06-01",
-            "latitude": 44.13333,
-            "name": "WEST TOPSHAM, VT US",
-            "datacoverage": 0.8708,
-            "id": "COOP:439588",
-            "longitude": -72.3
         },
         {
             "elevation": 429.8,
@@ -1500,17 +1152,6 @@
             "longitude": -72.53333
         },
         {
-            "elevation": 110,
-            "mindate": "1931-01-01",
-            "maxdate": "1960-04-01",
-            "latitude": 43.65,
-            "name": "WHITE RIVER JUNCTION, VT US",
-            "datacoverage": 0.9603,
-            "id": "COOP:439691",
-            "elevationUnit": "METERS",
-            "longitude": -72.31667
-        },
-        {
             "elevation": 427.3,
             "mindate": "1931-01-01",
             "maxdate": "1998-07-01",
@@ -1520,39 +1161,6 @@
             "id": "COOP:439735",
             "elevationUnit": "METERS",
             "longitude": -72.91667
-        },
-        {
-            "elevation": 111.3,
-            "mindate": "1931-01-01",
-            "maxdate": "1960-09-01",
-            "latitude": 43.67028,
-            "name": "WILDER, VT US",
-            "datacoverage": 0.9972,
-            "id": "COOP:439764",
-            "elevationUnit": "METERS",
-            "longitude": -72.30806
-        },
-        {
-            "elevation": 499.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1945-10-01",
-            "latitude": 42.816667,
-            "name": "WILMINGTON, VT US",
-            "datacoverage": 1,
-            "id": "COOP:439858",
-            "elevationUnit": "METERS",
-            "longitude": -72.866667
-        },
-        {
-            "elevation": 683.1,
-            "mindate": "1965-12-01",
-            "maxdate": "1966-08-01",
-            "latitude": 42.88333,
-            "name": "WOODFORD, VT US",
-            "datacoverage": 0.9998,
-            "id": "COOP:439953",
-            "elevationUnit": "METERS",
-            "longitude": -73.03333
         },
         {
             "elevation": 182.9,
@@ -3304,17 +2912,6 @@
             "longitude": -71.53333
         },
         {
-            "elevation": 74.1,
-            "mindate": "1898-04-01",
-            "maxdate": "1912-03-31",
-            "latitude": 43.616667,
-            "name": "CARVERS FALLS, VT US",
-            "datacoverage": 0.9941,
-            "id": "GHCND:USC00301220",
-            "elevationUnit": "METERS",
-            "longitude": -73.3
-        },
-        {
             "elevation": 267,
             "mindate": "1993-01-01",
             "maxdate": "1999-04-30",
@@ -3348,28 +2945,6 @@
             "longitude": -72.7836
         },
         {
-            "elevation": 399.3,
-            "mindate": "1940-10-01",
-            "maxdate": "1944-08-31",
-            "latitude": 43.75,
-            "name": "BARNARD, VT US",
-            "datacoverage": 0.8508,
-            "id": "GHCND:USC00430315",
-            "elevationUnit": "METERS",
-            "longitude": -72.616667
-        },
-        {
-            "elevation": 182.9,
-            "mindate": "1937-01-01",
-            "maxdate": "1960-02-29",
-            "latitude": 44.2,
-            "name": "BARRE, VT US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00430337",
-            "elevationUnit": "METERS",
-            "longitude": -72.51667
-        },
-        {
             "elevation": 82.3,
             "mindate": "1902-01-01",
             "maxdate": "2010-12-31",
@@ -3381,39 +2956,6 @@
             "longitude": -72.45
         },
         {
-            "elevation": 267.9,
-            "mindate": "1948-06-01",
-            "maxdate": "1950-09-30",
-            "latitude": 42.85,
-            "name": "BENNINGTON, VT US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00430558",
-            "elevationUnit": "METERS",
-            "longitude": -73.16667
-        },
-        {
-            "elevation": 203.9,
-            "mindate": "1896-11-01",
-            "maxdate": "1969-07-31",
-            "latitude": 42.91667,
-            "name": "BENNINGTON 2 NNW, VT US",
-            "datacoverage": 0.7125,
-            "id": "GHCND:USC00430563",
-            "elevationUnit": "METERS",
-            "longitude": -73.21667
-        },
-        {
-            "elevation": 164.9,
-            "mindate": "1928-01-01",
-            "maxdate": "1957-08-31",
-            "latitude": 43.83333,
-            "name": "BETHEL, VT US",
-            "datacoverage": 0.6734,
-            "id": "GHCND:USC00430660",
-            "elevationUnit": "METERS",
-            "longitude": -72.63333
-        },
-        {
             "elevation": 201.2,
             "mindate": "1958-05-01",
             "maxdate": "2015-02-01",
@@ -3423,28 +2965,6 @@
             "id": "GHCND:USC00430661",
             "elevationUnit": "METERS",
             "longitude": -72.6344
-        },
-        {
-            "elevation": 200.9,
-            "mindate": "1948-11-01",
-            "maxdate": "1949-10-31",
-            "latitude": 44.18333,
-            "name": "BOLTONVILLE, VT US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00430724",
-            "elevationUnit": "METERS",
-            "longitude": -72.1
-        },
-        {
-            "elevation": 133.2,
-            "mindate": "1893-01-01",
-            "maxdate": "1942-07-31",
-            "latitude": 42.85,
-            "name": "BRATTLEBORO, VT US",
-            "datacoverage": 0.4454,
-            "id": "GHCND:USC00430841",
-            "elevationUnit": "METERS",
-            "longitude": -72.566667
         },
         {
             "elevation": 153,
@@ -3478,17 +2998,6 @@
             "id": "GHCND:USC00430942",
             "elevationUnit": "METERS",
             "longitude": -72.6389
-        },
-        {
-            "elevation": 123.1,
-            "mindate": "1883-12-01",
-            "maxdate": "1943-06-03",
-            "latitude": 44.48333,
-            "name": "BURLINGTON, VT US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00431072",
-            "elevationUnit": "METERS",
-            "longitude": -73.18333
         },
         {
             "elevation": 326.1,
@@ -3579,17 +3088,6 @@
             "longitude": -73.2106
         },
         {
-            "elevation": 379.2,
-            "mindate": "1935-07-01",
-            "maxdate": "1947-03-31",
-            "latitude": 44.65,
-            "name": "CRAFTSBURY COMMON, VT US",
-            "datacoverage": 0.9994,
-            "id": "GHCND:USC00431657",
-            "elevationUnit": "METERS",
-            "longitude": -72.383333
-        },
-        {
             "elevation": 404.2,
             "mindate": "2002-01-01",
             "maxdate": "2016-02-03",
@@ -3612,17 +3110,6 @@
             "longitude": -72.13333
         },
         {
-            "elevation": 251.5,
-            "mindate": "1899-01-01",
-            "maxdate": "1905-05-31",
-            "latitude": 45,
-            "name": "DERBY LINE, VT US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00431730",
-            "elevationUnit": "METERS",
-            "longitude": -72.083333
-        },
-        {
             "elevation": 283.5,
             "mindate": "1940-11-01",
             "maxdate": "1999-06-30",
@@ -3634,17 +3121,6 @@
             "longitude": -73.075
         },
         {
-            "elevation": 213.4,
-            "mindate": "1940-10-01",
-            "maxdate": "1943-02-28",
-            "latitude": 44.016667,
-            "name": "EAST BROOKFIELD, VT US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00432150",
-            "elevationUnit": "METERS",
-            "longitude": -72.566667
-        },
-        {
             "elevation": 304.8,
             "mindate": "1993-01-01",
             "maxdate": "2020-05-16",
@@ -3654,26 +3130,6 @@
             "id": "GHCND:USC00432314",
             "elevationUnit": "METERS",
             "longitude": -71.8908
-        },
-        {
-            "mindate": "1941-05-01",
-            "maxdate": "1943-10-17",
-            "latitude": 44.633333,
-            "name": "EAST HAVEN, VT US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00432318",
-            "longitude": -71.9
-        },
-        {
-            "elevation": 134.1,
-            "mindate": "1930-05-01",
-            "maxdate": "1949-06-30",
-            "latitude": 44.2,
-            "name": "EAST RYEGATE, VT US",
-            "datacoverage": 0.9278,
-            "id": "GHCND:USC00432578",
-            "elevationUnit": "METERS",
-            "longitude": -72.06667
         },
         {
             "elevation": 443.8,
@@ -3709,17 +3165,6 @@
             "longitude": -72.8137
         },
         {
-            "elevation": 73.2,
-            "mindate": "1937-01-01",
-            "maxdate": "1960-09-30",
-            "latitude": 44.48333,
-            "name": "ESSEX JUNCTION, VT US",
-            "datacoverage": 0.9755,
-            "id": "GHCND:USC00432828",
-            "elevationUnit": "METERS",
-            "longitude": -73.11667
-        },
-        {
             "elevation": 103.6,
             "mindate": "1971-11-01",
             "maxdate": "2014-08-20",
@@ -3740,17 +3185,6 @@
             "id": "GHCND:USC00433192",
             "elevationUnit": "METERS",
             "longitude": -71.7837
-        },
-        {
-            "elevation": 39.6,
-            "mindate": "1919-08-01",
-            "maxdate": "1932-06-30",
-            "latitude": 44.616667,
-            "name": "GARFIELD, VT US",
-            "datacoverage": 0.9871,
-            "id": "GHCND:USC00433240",
-            "elevationUnit": "METERS",
-            "longitude": -72.533333
         },
         {
             "elevation": 256,
@@ -3786,24 +3220,6 @@
             "longitude": -72.19972
         },
         {
-            "mindate": "1930-11-01",
-            "maxdate": "1933-12-31",
-            "latitude": 44.566667,
-            "name": "GUILDHALL, VT US",
-            "datacoverage": 0.7366,
-            "id": "GHCND:USC00433640",
-            "longitude": -71.566667
-        },
-        {
-            "mindate": "1887-04-01",
-            "maxdate": "1888-05-31",
-            "latitude": 42.783333,
-            "name": "GUILFORD CENTER, VT US",
-            "datacoverage": 0.7128,
-            "id": "GHCND:USC00433660",
-            "longitude": -72.666667
-        },
-        {
             "elevation": 330.1,
             "mindate": "1997-12-01",
             "maxdate": "2011-09-06",
@@ -3815,17 +3231,6 @@
             "longitude": -72.9655
         },
         {
-            "elevation": 53.3,
-            "mindate": "1948-06-01",
-            "maxdate": "1951-09-30",
-            "latitude": 44.9339,
-            "name": "HIGHGATE FALLS, VT US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00433914",
-            "elevationUnit": "METERS",
-            "longitude": -73.0496
-        },
-        {
             "elevation": 222.5,
             "mindate": "1955-11-01",
             "maxdate": "2010-12-31",
@@ -3835,26 +3240,6 @@
             "id": "GHCND:USC00434052",
             "elevationUnit": "METERS",
             "longitude": -73
-        },
-        {
-            "elevation": 175.6,
-            "mindate": "1892-11-01",
-            "maxdate": "1918-11-30",
-            "latitude": 44.6,
-            "name": "HYDE PARK, VT US",
-            "datacoverage": 0.9995,
-            "id": "GHCND:USC00434075",
-            "elevationUnit": "METERS",
-            "longitude": -72.616667
-        },
-        {
-            "mindate": "1892-11-01",
-            "maxdate": "1896-03-31",
-            "latitude": 44.8,
-            "name": "IRASBURG, VT US",
-            "datacoverage": 0.9275,
-            "id": "GHCND:USC00434110",
-            "longitude": -72.283333
         },
         {
             "elevation": 259.1,
@@ -3890,17 +3275,6 @@
             "longitude": -71.8298
         },
         {
-            "elevation": 576.1,
-            "mindate": "1889-01-01",
-            "maxdate": "1911-11-30",
-            "latitude": 42.8,
-            "name": "JACKSONVILLE, VT US",
-            "datacoverage": 0.8943,
-            "id": "GHCND:USC00434150",
-            "elevationUnit": "METERS",
-            "longitude": -72.816667
-        },
-        {
             "elevation": 560.8,
             "mindate": "1988-09-01",
             "maxdate": "2016-03-01",
@@ -3934,17 +3308,6 @@
             "longitude": -72.6786
         },
         {
-            "elevation": 313.9,
-            "mindate": "1943-01-01",
-            "maxdate": "1958-10-31",
-            "latitude": 44.9,
-            "name": "LEMINGTON, VT US",
-            "datacoverage": 0.9737,
-            "id": "GHCND:USC00434603",
-            "elevationUnit": "METERS",
-            "longitude": -71.51667
-        },
-        {
             "elevation": 385.6,
             "mindate": "1970-06-01",
             "maxdate": "2010-12-31",
@@ -3967,17 +3330,6 @@
             "longitude": -72.6791
         },
         {
-            "elevation": 286.5,
-            "mindate": "1948-06-01",
-            "maxdate": "1951-01-31",
-            "latitude": 44.77444,
-            "name": "LYMAN FALLS, VT US",
-            "datacoverage": 0.8117,
-            "id": "GHCND:USC00434765",
-            "elevationUnit": "METERS",
-            "longitude": -71.60167
-        },
-        {
             "elevation": 283.5,
             "mindate": "1899-11-01",
             "maxdate": "1988-12-31",
@@ -3987,17 +3339,6 @@
             "id": "GHCND:USC00434882",
             "elevationUnit": "METERS",
             "longitude": -73.06667
-        },
-        {
-            "elevation": 262.1,
-            "mindate": "1936-12-01",
-            "maxdate": "1959-09-30",
-            "latitude": 44.36667,
-            "name": "MARSHFIELD, VT US",
-            "datacoverage": 0.9746,
-            "id": "GHCND:USC00434985",
-            "elevationUnit": "METERS",
-            "longitude": -72.33333
         },
         {
             "elevation": 242.6,
@@ -4033,17 +3374,6 @@
             "longitude": -72.06667
         },
         {
-            "elevation": 139.9,
-            "mindate": "1936-12-01",
-            "maxdate": "1968-12-31",
-            "latitude": 44.3,
-            "name": "MIDDLESEX, VT US",
-            "datacoverage": 0.9974,
-            "id": "GHCND:USC00435132",
-            "elevationUnit": "METERS",
-            "longitude": -72.68333
-        },
-        {
             "elevation": 161.5,
             "mindate": "1999-05-01",
             "maxdate": "2020-03-26",
@@ -4053,17 +3383,6 @@
             "id": "GHCND:USC00435273",
             "elevationUnit": "METERS",
             "longitude": -72.6006
-        },
-        {
-            "elevation": 189,
-            "mindate": "1902-11-01",
-            "maxdate": "1951-09-30",
-            "latitude": 44.5618,
-            "name": "MORRISVILLE, VT US",
-            "datacoverage": 0.1158,
-            "id": "GHCND:USC00435366",
-            "elevationUnit": "METERS",
-            "longitude": -72.6027
         },
         {
             "elevation": 231.6,
@@ -4165,17 +3484,6 @@
             "longitude": -72.3621
         },
         {
-            "elevation": 146,
-            "mindate": "1955-11-01",
-            "maxdate": "1956-06-30",
-            "latitude": 43.33333,
-            "name": "NORTH SPRINGFIELD, VT US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00435977",
-            "elevationUnit": "METERS",
-            "longitude": -72.51667
-        },
-        {
             "elevation": 170.7,
             "mindate": "2006-01-01",
             "maxdate": "2020-05-17",
@@ -4185,17 +3493,6 @@
             "id": "GHCND:USC00435982",
             "elevationUnit": "METERS",
             "longitude": -72.5056
-        },
-        {
-            "elevation": 241.7,
-            "mindate": "1892-09-01",
-            "maxdate": "1925-07-31",
-            "latitude": 43.716667,
-            "name": "NORWICH, VT US",
-            "datacoverage": 0.9824,
-            "id": "GHCND:USC00436020",
-            "elevationUnit": "METERS",
-            "longitude": -72.3
         },
         {
             "elevation": 518.2,
@@ -4220,17 +3517,6 @@
             "longitude": -72.4154
         },
         {
-            "elevation": 433.1,
-            "mindate": "1941-05-01",
-            "maxdate": "1953-02-28",
-            "latitude": 43.53333,
-            "name": "PLYMOUTH, VT US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00436438",
-            "elevationUnit": "METERS",
-            "longitude": -72.71667
-        },
-        {
             "elevation": 371.9,
             "mindate": "1955-11-01",
             "maxdate": "1970-04-30",
@@ -4253,39 +3539,6 @@
             "longitude": -73.22278
         },
         {
-            "elevation": 271,
-            "mindate": "1952-01-01",
-            "maxdate": "1957-01-31",
-            "latitude": 43.93333,
-            "name": "RANDOLPH, VT US",
-            "datacoverage": 0.9996,
-            "id": "GHCND:USC00436712",
-            "elevationUnit": "METERS",
-            "longitude": -72.66667
-        },
-        {
-            "elevation": 420.9,
-            "mindate": "1941-06-01",
-            "maxdate": "1957-09-30",
-            "latitude": 43.95,
-            "name": "RANDOLPH CENTER, VT US",
-            "datacoverage": 0.9278,
-            "id": "GHCND:USC00436717",
-            "elevationUnit": "METERS",
-            "longitude": -72.6
-        },
-        {
-            "elevation": 451.1,
-            "mindate": "1948-06-01",
-            "maxdate": "1967-12-31",
-            "latitude": 43.51667,
-            "name": "READING HILL, VT US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00436746",
-            "elevationUnit": "METERS",
-            "longitude": -72.56667
-        },
-        {
             "elevation": 341.4,
             "mindate": "1930-01-01",
             "maxdate": "2010-12-31",
@@ -4295,15 +3548,6 @@
             "id": "GHCND:USC00436761",
             "elevationUnit": "METERS",
             "longitude": -72.93333
-        },
-        {
-            "mindate": "1941-06-01",
-            "maxdate": "1948-01-31",
-            "latitude": 44.25,
-            "name": "RUCKERS MILLS, VT US",
-            "datacoverage": 0.8372,
-            "id": "GHCND:USC00436810",
-            "longitude": -72.233333
         },
         {
             "elevation": 253,
@@ -4326,17 +3570,6 @@
             "id": "GHCND:USC00436995",
             "elevationUnit": "METERS",
             "longitude": -72.9781
-        },
-        {
-            "elevation": 115.8,
-            "mindate": "1929-04-01",
-            "maxdate": "1956-05-31",
-            "latitude": 44.8593,
-            "name": "ST ALBANS RADIO, VT US",
-            "datacoverage": 0.8926,
-            "id": "GHCND:USC00437025",
-            "elevationUnit": "METERS",
-            "longitude": -73.0911
         },
         {
             "elevation": 34.1,
@@ -4383,24 +3616,6 @@
             "longitude": -73.0992
         },
         {
-            "mindate": "1893-01-01",
-            "maxdate": "1893-06-30",
-            "latitude": 43.15,
-            "name": "SAXTONS RIVER, VT US",
-            "datacoverage": 0.6727,
-            "id": "GHCND:USC00437120",
-            "longitude": -72.916667
-        },
-        {
-            "mindate": "1930-04-01",
-            "maxdate": "1965-09-30",
-            "latitude": 42.9,
-            "name": "SEARBURG POWER PLANT, VT US",
-            "datacoverage": 0.9976,
-            "id": "GHCND:USC00437142",
-            "longitude": -73
-        },
-        {
             "elevation": 475.5,
             "mindate": "1930-05-01",
             "maxdate": "2010-12-31",
@@ -4421,28 +3636,6 @@
             "id": "GHCND:USC00437217",
             "elevationUnit": "METERS",
             "longitude": -73.25
-        },
-        {
-            "elevation": 54.9,
-            "mindate": "1893-01-01",
-            "maxdate": "1896-02-29",
-            "latitude": 43.25,
-            "name": "SIMONSVILLE, VT US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00437310",
-            "elevationUnit": "METERS",
-            "longitude": -72.75
-        },
-        {
-            "elevation": 634,
-            "mindate": "1911-12-01",
-            "maxdate": "1968-08-31",
-            "latitude": 42.96667,
-            "name": "SOMERSET, VT US",
-            "datacoverage": 0.9955,
-            "id": "GHCND:USC00437401",
-            "elevationUnit": "METERS",
-            "longitude": -72.95
         },
         {
             "elevation": 33.5,
@@ -4489,39 +3682,6 @@
             "longitude": -72.0753
         },
         {
-            "elevation": 92,
-            "mindate": "1940-10-01",
-            "maxdate": "1956-06-30",
-            "latitude": 43.26667,
-            "name": "SPRINGFIELD 2 SE, VT US",
-            "datacoverage": 0.9366,
-            "id": "GHCND:USC00437954",
-            "elevationUnit": "METERS",
-            "longitude": -72.45
-        },
-        {
-            "elevation": 259.1,
-            "mindate": "1948-06-01",
-            "maxdate": "1951-09-30",
-            "latitude": 43.77333,
-            "name": "PITTSFIELD, VT US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00438057",
-            "elevationUnit": "METERS",
-            "longitude": -72.815
-        },
-        {
-            "elevation": 152.4,
-            "mindate": "1893-01-01",
-            "maxdate": "1897-11-29",
-            "latitude": 43.866667,
-            "name": "STRAFFORD, VT US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00438105",
-            "elevationUnit": "METERS",
-            "longitude": -72.4
-        },
-        {
             "elevation": 199.6,
             "mindate": "1989-01-01",
             "maxdate": "1989-10-31",
@@ -4566,15 +3726,6 @@
             "longitude": -72.0232
         },
         {
-            "mindate": "1940-10-01",
-            "maxdate": "1941-10-31",
-            "latitude": 44.65,
-            "name": "THETFORD, VT US",
-            "datacoverage": 0.6918,
-            "id": "GHCND:USC00438380",
-            "longitude": -72.216667
-        },
-        {
             "elevation": 155.4,
             "mindate": "2011-01-01",
             "maxdate": "2011-10-13",
@@ -4582,39 +3733,6 @@
             "name": "TOWNSHEND LAKE, VT US",
             "datacoverage": 1,
             "id": "GHCND:USC00438428",
-            "elevationUnit": "METERS",
-            "longitude": -72.7
-        },
-        {
-            "elevation": 128,
-            "mindate": "1947-10-01",
-            "maxdate": "1957-01-31",
-            "latitude": 43.03333,
-            "name": "TOWNSHEND, VT US",
-            "datacoverage": 0.937,
-            "id": "GHCND:USC00438438",
-            "elevationUnit": "METERS",
-            "longitude": -72.66667
-        },
-        {
-            "elevation": 189,
-            "mindate": "1941-01-01",
-            "maxdate": "1952-05-31",
-            "latitude": 43.91667,
-            "name": "TUNBRIDGE, VT US",
-            "datacoverage": 0.7954,
-            "id": "GHCND:USC00438483",
-            "elevationUnit": "METERS",
-            "longitude": -72.48333
-        },
-        {
-            "elevation": 335.9,
-            "mindate": "1948-06-01",
-            "maxdate": "1951-09-30",
-            "latitude": 43.46667,
-            "name": "TYSON, VT US",
-            "datacoverage": 0.9504,
-            "id": "GHCND:USC00438512",
             "elevationUnit": "METERS",
             "longitude": -72.7
         },
@@ -4650,15 +3768,6 @@
             "id": "GHCND:USC00438600",
             "elevationUnit": "METERS",
             "longitude": -72.515
-        },
-        {
-            "mindate": "1931-02-01",
-            "maxdate": "1933-06-30",
-            "latitude": 44.516667,
-            "name": "VICTORY, VT US",
-            "datacoverage": 0.8983,
-            "id": "GHCND:USC00438615",
-            "longitude": -71.833333
         },
         {
             "elevation": 365.8,
@@ -4750,17 +3859,6 @@
         },
         {
             "elevation": 231.6,
-            "mindate": "1941-01-01",
-            "maxdate": "1958-06-30",
-            "latitude": 44.31667,
-            "name": "WATERBURY 2 SSE, VT US",
-            "datacoverage": 0.9952,
-            "id": "GHCND:USC00438805",
-            "elevationUnit": "METERS",
-            "longitude": -72.75
-        },
-        {
-            "elevation": 231.6,
             "mindate": "1958-01-01",
             "maxdate": "2010-12-31",
             "latitude": 44.31667,
@@ -4769,17 +3867,6 @@
             "id": "GHCND:USC00438815",
             "elevationUnit": "METERS",
             "longitude": -72.75
-        },
-        {
-            "elevation": 274.3,
-            "mindate": "1893-01-01",
-            "maxdate": "1919-04-30",
-            "latitude": 43.416667,
-            "name": "WELLS, VT US",
-            "datacoverage": 0.9972,
-            "id": "GHCND:USC00438905",
-            "elevationUnit": "METERS",
-            "longitude": -73.2
         },
         {
             "elevation": 304.8,
@@ -4791,28 +3878,6 @@
             "id": "GHCND:USC00439099",
             "elevationUnit": "METERS",
             "longitude": -72.0232
-        },
-        {
-            "elevation": 345,
-            "mindate": "1945-01-01",
-            "maxdate": "1950-09-30",
-            "latitude": 44.68333,
-            "name": "WEST BURKE 5 NW, VT US",
-            "datacoverage": 0.9995,
-            "id": "GHCND:USC00439109",
-            "elevationUnit": "METERS",
-            "longitude": -72.05
-        },
-        {
-            "elevation": 420.9,
-            "mindate": "1941-01-01",
-            "maxdate": "1955-12-31",
-            "latitude": 44.4,
-            "name": "WEST DANVILLE, VT US",
-            "datacoverage": 0.9424,
-            "id": "GHCND:USC00439182",
-            "elevationUnit": "METERS",
-            "longitude": -72.18333
         },
         {
             "elevation": 480.1,
@@ -4837,46 +3902,6 @@
             "longitude": -72.85
         },
         {
-            "mindate": "1904-09-01",
-            "maxdate": "1907-02-28",
-            "latitude": 44.883333,
-            "name": "WESTFIELD, VT US",
-            "datacoverage": 0.9021,
-            "id": "GHCND:USC00439250",
-            "longitude": -72.433333
-        },
-        {
-            "elevation": 125,
-            "mindate": "1930-05-01",
-            "maxdate": "1957-09-30",
-            "latitude": 43.71667,
-            "name": "WEST HARTFORD, VT US",
-            "datacoverage": 0.9999,
-            "id": "GHCND:USC00439329",
-            "elevationUnit": "METERS",
-            "longitude": -72.41667
-        },
-        {
-            "elevation": 433.1,
-            "mindate": "1940-01-01",
-            "maxdate": "1955-10-01",
-            "latitude": 43.28333,
-            "name": "WESTON 1 S, VT US",
-            "datacoverage": 0.8564,
-            "id": "GHCND:USC00439477",
-            "elevationUnit": "METERS",
-            "longitude": -72.78333
-        },
-        {
-            "mindate": "1940-10-01",
-            "maxdate": "1957-06-30",
-            "latitude": 44.13333,
-            "name": "WEST TOPSHAM, VT US",
-            "datacoverage": 0.8509,
-            "id": "GHCND:USC00439588",
-            "longitude": -72.3
-        },
-        {
             "elevation": 429.8,
             "mindate": "1985-01-01",
             "maxdate": "2012-03-31",
@@ -4899,17 +3924,6 @@
             "longitude": -72.53333
         },
         {
-            "elevation": 110,
-            "mindate": "1902-01-01",
-            "maxdate": "1959-11-30",
-            "latitude": 43.65,
-            "name": "WHITE RIVER JUNCTION, VT US",
-            "datacoverage": 0.9168,
-            "id": "GHCND:USC00439691",
-            "elevationUnit": "METERS",
-            "longitude": -72.31667
-        },
-        {
             "elevation": 427.3,
             "mindate": "1930-05-01",
             "maxdate": "2010-12-31",
@@ -4919,39 +3933,6 @@
             "id": "GHCND:USC00439735",
             "elevationUnit": "METERS",
             "longitude": -72.91667
-        },
-        {
-            "elevation": 111.3,
-            "mindate": "1930-01-01",
-            "maxdate": "1960-09-30",
-            "latitude": 43.67028,
-            "name": "WILDER, VT US",
-            "datacoverage": 0.9892,
-            "id": "GHCND:USC00439764",
-            "elevationUnit": "METERS",
-            "longitude": -72.30806
-        },
-        {
-            "elevation": 499.9,
-            "mindate": "1930-05-01",
-            "maxdate": "1945-10-31",
-            "latitude": 42.816667,
-            "name": "WILMINGTON, VT US",
-            "datacoverage": 0.9943,
-            "id": "GHCND:USC00439858",
-            "elevationUnit": "METERS",
-            "longitude": -72.866667
-        },
-        {
-            "elevation": 683.1,
-            "mindate": "1966-05-01",
-            "maxdate": "1966-08-31",
-            "latitude": 42.88333,
-            "name": "WOODFORD, VT US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00439953",
-            "elevationUnit": "METERS",
-            "longitude": -73.03333
         },
         {
             "elevation": 182.9,

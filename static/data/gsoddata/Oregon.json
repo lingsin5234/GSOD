@@ -2,7 +2,7 @@
     "metadata": {
         "resultset": {
             "offset": 1,
-            "count": 2333,
+            "count": 1866,
             "limit": 1000
         }
     },
@@ -52,17 +52,6 @@
             "longitude": -117.06667
         },
         {
-            "elevation": 64,
-            "mindate": "1910-01-01",
-            "maxdate": "1963-01-01",
-            "latitude": 44.65,
-            "name": "ALBANY, OR US",
-            "datacoverage": 0.9623,
-            "id": "COOP:350078",
-            "elevationUnit": "METERS",
-            "longitude": -123.1
-        },
-        {
             "elevation": 67.1,
             "mindate": "1963-01-01",
             "maxdate": "1975-02-01",
@@ -90,7 +79,7 @@
             "maxdate": "2013-01-01",
             "latitude": 43.4291,
             "name": "ALLEGANY, OR US",
-            "datacoverage": 1,
+            "datacoverage": 0.1043,
             "id": "COOP:350126",
             "elevationUnit": "METERS",
             "longitude": -124.0305
@@ -107,28 +96,6 @@
             "longitude": -123.7533
         },
         {
-            "elevation": 1275,
-            "mindate": "1960-04-01",
-            "maxdate": "1968-08-01",
-            "latitude": 42.61667,
-            "name": "ALVORD RANCH, OR US",
-            "datacoverage": 0.6137,
-            "id": "COOP:350170",
-            "elevationUnit": "METERS",
-            "longitude": -118.5
-        },
-        {
-            "elevation": 1250.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1959-11-01",
-            "latitude": 42.43333,
-            "name": "ANDREWS 2 S, OR US",
-            "datacoverage": 0.3862,
-            "id": "COOP:350188",
-            "elevationUnit": "METERS",
-            "longitude": -118.61667
-        },
-        {
             "elevation": 1456.6,
             "mindate": "1969-08-01",
             "maxdate": "1993-03-01",
@@ -138,17 +105,6 @@
             "id": "COOP:350189",
             "elevationUnit": "METERS",
             "longitude": -118.55
-        },
-        {
-            "elevation": 1304.8,
-            "mindate": "1959-04-01",
-            "maxdate": "1964-11-01",
-            "latitude": 42.3,
-            "name": "ANDREWS 23 ESE, OR US",
-            "datacoverage": 0.9994,
-            "id": "COOP:350190",
-            "elevationUnit": "METERS",
-            "longitude": -118.21667
         },
         {
             "elevation": 923.5,
@@ -217,17 +173,6 @@
             "longitude": -123.81667
         },
         {
-            "elevation": 67.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1960-02-01",
-            "latitude": 46.183333,
-            "name": "ASTORIA, OR US",
-            "datacoverage": 0.983,
-            "id": "COOP:350324",
-            "elevationUnit": "METERS",
-            "longitude": -123.83333
-        },
-        {
             "elevation": 2.7,
             "mindate": "1953-02-01",
             "maxdate": "2015-11-01",
@@ -237,17 +182,6 @@
             "id": "COOP:350328",
             "elevationUnit": "METERS",
             "longitude": -123.8825
-        },
-        {
-            "elevation": 21.9,
-            "mindate": "1950-11-01",
-            "maxdate": "1969-08-01",
-            "latitude": 45.233,
-            "name": "AURORA, OR US",
-            "datacoverage": 0.8451,
-            "id": "COOP:350343",
-            "elevationUnit": "METERS",
-            "longitude": -122.7508
         },
         {
             "elevation": 1284.1,
@@ -338,17 +272,6 @@
             "longitude": -122.8203
         },
         {
-            "elevation": 1437.1,
-            "mindate": "1920-01-01",
-            "maxdate": "1949-02-01",
-            "latitude": 44.56667,
-            "name": "BEECH CREEK, OR US",
-            "datacoverage": 0.9658,
-            "id": "COOP:350631",
-            "elevationUnit": "METERS",
-            "longitude": -119.11667
-        },
-        {
             "elevation": 655.9,
             "mindate": "1960-09-01",
             "maxdate": "2015-11-01",
@@ -365,7 +288,7 @@
             "maxdate": "1977-01-18",
             "latitude": 44.36667,
             "name": "BELLFOUNTAIN, OR US",
-            "datacoverage": 0.88,
+            "datacoverage": 0.1005,
             "id": "COOP:350673",
             "elevationUnit": "METERS",
             "longitude": -123.35
@@ -404,34 +327,12 @@
             "longitude": -118.1523
         },
         {
-            "elevation": 39.9,
-            "mindate": "1916-04-01",
-            "maxdate": "1957-03-01",
-            "latitude": 45.61667,
-            "name": "BIG EDDY, OR US",
-            "datacoverage": 0.9736,
-            "id": "COOP:350753",
-            "elevationUnit": "METERS",
-            "longitude": -121.11667
-        },
-        {
-            "elevation": 161.8,
-            "mindate": "1939-06-01",
-            "maxdate": "1953-05-01",
-            "latitude": 46,
-            "name": "BIRKENFELD 1 N, OR US",
-            "datacoverage": 0.8809,
-            "id": "COOP:350773",
-            "elevationUnit": "METERS",
-            "longitude": -123.33333
-        },
-        {
             "elevation": 295.7,
-            "mindate": "1910-01-01",
+            "mindate": "1948-08-01",
             "maxdate": "2014-01-01",
             "latitude": 43.5947,
             "name": "BLACKBUTTE 1 N, OR US",
-            "datacoverage": 0.4993,
+            "datacoverage": 0.0744,
             "id": "COOP:350781",
             "elevationUnit": "METERS",
             "longitude": -123.0705
@@ -442,14 +343,14 @@
             "maxdate": "2014-01-01",
             "latitude": 42.4,
             "name": "BLY RANGER STATION, OR US",
-            "datacoverage": 0.9407,
+            "datacoverage": 0.0302,
             "id": "COOP:350853",
             "elevationUnit": "METERS",
             "longitude": -121.0458
         },
         {
             "elevation": 1334.4,
-            "mindate": "1950-01-01",
+            "mindate": "1988-04-01",
             "maxdate": "1997-09-01",
             "latitude": 42.43333,
             "name": "BLY 3 NW, OR US",
@@ -490,28 +391,6 @@
             "id": "COOP:350897",
             "elevationUnit": "METERS",
             "longitude": -121.9523
-        },
-        {
-            "elevation": 43,
-            "mindate": "1956-11-16",
-            "maxdate": "1960-06-01",
-            "latitude": 45.45,
-            "name": "BORING 2 N, OR US",
-            "datacoverage": 0.1417,
-            "id": "COOP:350907",
-            "elevationUnit": "METERS",
-            "longitude": -122.36667
-        },
-        {
-            "elevation": 677,
-            "mindate": "1948-10-23",
-            "maxdate": "1954-08-01",
-            "latitude": 44.78333,
-            "name": "BREITENBUSH, OR US",
-            "datacoverage": 0.3557,
-            "id": "COOP:350969",
-            "elevationUnit": "METERS",
-            "longitude": -121.98333
         },
         {
             "elevation": 326.1,
@@ -640,7 +519,7 @@
             "maxdate": "2014-01-01",
             "latitude": 45.6898,
             "name": "BUXTON, OR US",
-            "datacoverage": 0.9995,
+            "datacoverage": 0.0756,
             "id": "COOP:351222",
             "elevationUnit": "METERS",
             "longitude": -123.1906
@@ -651,7 +530,7 @@
             "maxdate": "1975-01-01",
             "latitude": 45.68333,
             "name": "BUXTON MOUNTAINDALE, OR US",
-            "datacoverage": 1,
+            "datacoverage": 0.1328,
             "id": "COOP:351227",
             "elevationUnit": "METERS",
             "longitude": -123.06667
@@ -679,28 +558,6 @@
             "longitude": -122.66667
         },
         {
-            "elevation": 28.7,
-            "mindate": "1943-12-01",
-            "maxdate": "1966-04-01",
-            "latitude": 45.2438,
-            "name": "CANBY, OR US",
-            "datacoverage": 0.9778,
-            "id": "COOP:351332",
-            "elevationUnit": "METERS",
-            "longitude": -122.693
-        },
-        {
-            "elevation": 972.9,
-            "mindate": "1910-01-01",
-            "maxdate": "1953-04-01",
-            "latitude": 44.4,
-            "name": "CANYON CITY, OR US",
-            "datacoverage": 0.352,
-            "id": "COOP:351352",
-            "elevationUnit": "METERS",
-            "longitude": -118.95
-        },
-        {
             "elevation": 213.4,
             "mindate": "2005-03-01",
             "maxdate": "2015-11-01",
@@ -723,17 +580,6 @@
             "longitude": -124.56333
         },
         {
-            "elevation": 595,
-            "mindate": "1948-10-01",
-            "maxdate": "1963-02-28",
-            "latitude": 45.31667,
-            "name": "CARLTON 13 W, OR US",
-            "datacoverage": 0.9021,
-            "id": "COOP:351365",
-            "elevationUnit": "METERS",
-            "longitude": -123.43333
-        },
-        {
             "elevation": 43.3,
             "mindate": "1910-01-01",
             "maxdate": "2015-11-01",
@@ -743,17 +589,6 @@
             "id": "COOP:351407",
             "elevationUnit": "METERS",
             "longitude": -121.8736
-        },
-        {
-            "elevation": 1476.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1947-10-01",
-            "latitude": 43.58333,
-            "name": "CASCADE SUMMIT, OR US",
-            "datacoverage": 0.9704,
-            "id": "COOP:351415",
-            "elevationUnit": "METERS",
-            "longitude": -122.03333
         },
         {
             "elevation": 292.6,
@@ -787,17 +622,6 @@
             "id": "COOP:351546",
             "elevationUnit": "METERS",
             "longitude": -121.7894
-        },
-        {
-            "elevation": 1385,
-            "mindate": "1963-04-01",
-            "maxdate": "1964-08-01",
-            "latitude": 42.96667,
-            "name": "CHEMULT 20 SE, OR US",
-            "datacoverage": 0.8211,
-            "id": "COOP:351548",
-            "elevationUnit": "METERS",
-            "longitude": -121.58333
         },
         {
             "elevation": 238,
@@ -888,23 +712,12 @@
             "longitude": -123.07028
         },
         {
-            "elevation": 134.1,
-            "mindate": "1944-01-01",
-            "maxdate": "1951-11-01",
-            "latitude": 44.11667,
-            "name": "COBURG 2 SE ARMITAGE, OR US",
-            "datacoverage": 0.5685,
-            "id": "COOP:351708",
-            "elevationUnit": "METERS",
-            "longitude": -123.05
-        },
-        {
             "elevation": 204.2,
             "mindate": "1948-07-06",
             "maxdate": "2014-01-01",
             "latitude": 45.1728,
             "name": "COLTON, OR US",
-            "datacoverage": 0.9711,
+            "datacoverage": 0.0715,
             "id": "COOP:351735",
             "elevationUnit": "METERS",
             "longitude": -122.4342
@@ -933,11 +746,11 @@
         },
         {
             "elevation": 580,
-            "mindate": "1940-01-01",
+            "mindate": "1948-08-22",
             "maxdate": "1975-11-01",
             "latitude": 42.03333,
             "name": "COPPER, OR US",
-            "datacoverage": 0.8611,
+            "datacoverage": 0.0639,
             "id": "COOP:351826",
             "elevationUnit": "METERS",
             "longitude": -123.13333
@@ -952,17 +765,6 @@
             "id": "COOP:351828",
             "elevationUnit": "METERS",
             "longitude": -123.10417
-        },
-        {
-            "elevation": 3553.1,
-            "mindate": "1942-06-01",
-            "maxdate": "1954-03-01",
-            "latitude": 43.16667,
-            "name": "COQUILLE, OR US",
-            "datacoverage": 0.9719,
-            "id": "COOP:351834",
-            "elevationUnit": "METERS",
-            "longitude": -124.2
         },
         {
             "elevation": 7,
@@ -1097,39 +899,6 @@
             "longitude": -121.93333
         },
         {
-            "elevation": 128,
-            "mindate": "1931-01-01",
-            "maxdate": "1942-07-01",
-            "latitude": 46.13333,
-            "name": "CROSSETT, OR US",
-            "datacoverage": 0.993,
-            "id": "COOP:351996",
-            "elevationUnit": "METERS",
-            "longitude": -123.53333
-        },
-        {
-            "elevation": 153,
-            "mindate": "1947-10-01",
-            "maxdate": "1968-08-01",
-            "latitude": 43.98333,
-            "name": "CROW 4 NE, OR US",
-            "datacoverage": 0.9839,
-            "id": "COOP:351998",
-            "elevationUnit": "METERS",
-            "longitude": -123.23333
-        },
-        {
-            "elevation": 1266.1,
-            "mindate": "1961-10-01",
-            "maxdate": "1966-06-01",
-            "latitude": 43.3,
-            "name": "CROWLEY RANCH, OR US",
-            "datacoverage": 0.8953,
-            "id": "COOP:352000",
-            "elevationUnit": "METERS",
-            "longitude": -117.9
-        },
-        {
             "elevation": 915,
             "mindate": "1966-02-01",
             "maxdate": "1970-11-01",
@@ -1150,17 +919,6 @@
             "id": "COOP:352010",
             "elevationUnit": "METERS",
             "longitude": -123.2086
-        },
-        {
-            "elevation": 1266.1,
-            "mindate": "1949-01-01",
-            "maxdate": "1953-02-01",
-            "latitude": 42.26667,
-            "name": "DAIRY 3 NE YONNA, OR US",
-            "datacoverage": 0.6408,
-            "id": "COOP:352018",
-            "elevationUnit": "METERS",
-            "longitude": -121.46667
         },
         {
             "elevation": 88.4,
@@ -1207,17 +965,6 @@
             "longitude": -119.6447
         },
         {
-            "elevation": 27.4,
-            "mindate": "1951-04-01",
-            "maxdate": "1956-04-01",
-            "latitude": 42.9242,
-            "name": "LANGLOIS NUMBER 2, OR US",
-            "datacoverage": 0.9671,
-            "id": "COOP:352230",
-            "elevationUnit": "METERS",
-            "longitude": -124.4533
-        },
-        {
             "elevation": 484.9,
             "mindate": "1920-01-01",
             "maxdate": "1972-09-01",
@@ -1227,17 +974,6 @@
             "id": "COOP:352277",
             "elevationUnit": "METERS",
             "longitude": -122.15
-        },
-        {
-            "elevation": 484.9,
-            "mindate": "1949-07-01",
-            "maxdate": "1954-12-01",
-            "latitude": 44.73333,
-            "name": "DETROIT, OR US",
-            "datacoverage": 0.9997,
-            "id": "COOP:352290",
-            "elevationUnit": "METERS",
-            "longitude": -122.23333
         },
         {
             "elevation": 371.9,
@@ -1262,28 +998,6 @@
             "longitude": -123.04555
         },
         {
-            "elevation": 1268.9,
-            "mindate": "1942-01-01",
-            "maxdate": "1957-07-01",
-            "latitude": 43.03333,
-            "name": "DIAMOND 4 WNW, OR US",
-            "datacoverage": 0.9894,
-            "id": "COOP:352305",
-            "elevationUnit": "METERS",
-            "longitude": -118.75
-        },
-        {
-            "elevation": 1585.9,
-            "mindate": "1948-07-03",
-            "maxdate": "1953-10-01",
-            "latitude": 43.18333,
-            "name": "DIAMOND LAKE LODGE, OR US",
-            "datacoverage": 0.6489,
-            "id": "COOP:352313",
-            "elevationUnit": "METERS",
-            "longitude": -122.13333
-        },
-        {
             "elevation": 59.1,
             "mindate": "1943-12-01",
             "maxdate": "2015-11-01",
@@ -1293,17 +1007,6 @@
             "id": "COOP:352325",
             "elevationUnit": "METERS",
             "longitude": -123.1135
-        },
-        {
-            "elevation": 1335.9,
-            "mindate": "1948-10-06",
-            "maxdate": "1950-12-12",
-            "latitude": 43.58333,
-            "name": "DISSTON 10 SE CHAMP, OR US",
-            "datacoverage": 0.0171,
-            "id": "COOP:352340",
-            "elevationUnit": "METERS",
-            "longitude": -122.63333
         },
         {
             "elevation": 371.2,
@@ -1337,17 +1040,6 @@
             "id": "COOP:352370",
             "elevationUnit": "METERS",
             "longitude": -123.99556
-        },
-        {
-            "elevation": 228.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1936-06-01",
-            "latitude": 46.03333,
-            "name": "DORAVILLE, OR US",
-            "datacoverage": 1,
-            "id": "COOP:352371",
-            "elevationUnit": "METERS",
-            "longitude": -123.03333
         },
         {
             "elevation": 249.9,
@@ -1392,28 +1084,6 @@
             "id": "COOP:352415",
             "elevationUnit": "METERS",
             "longitude": -118.3776
-        },
-        {
-            "elevation": 1189.9,
-            "mindate": "1967-10-01",
-            "maxdate": "1968-10-01",
-            "latitude": 43.83333,
-            "name": "DREWSEY 13 W, OR US",
-            "datacoverage": 0.9967,
-            "id": "COOP:352417",
-            "elevationUnit": "METERS",
-            "longitude": -118.63333
-        },
-        {
-            "elevation": 1177.1,
-            "mindate": "1965-10-01",
-            "maxdate": "1967-09-01",
-            "latitude": 43.91667,
-            "name": "DREWSEY 12 WNW, OR US",
-            "datacoverage": 0.7088,
-            "id": "COOP:352419",
-            "elevationUnit": "METERS",
-            "longitude": -118.58333
         },
         {
             "elevation": 405.4,
@@ -1493,17 +1163,6 @@
             "longitude": -123.5991
         },
         {
-            "elevation": 27.4,
-            "mindate": "1950-12-01",
-            "maxdate": "1956-03-01",
-            "latitude": 43.5861,
-            "name": "ELKTON 4 S, OR US",
-            "datacoverage": 0.5156,
-            "id": "COOP:352637",
-            "elevationUnit": "METERS",
-            "longitude": -123.5542
-        },
-        {
             "elevation": 1162.8,
             "mindate": "1931-12-01",
             "maxdate": "2014-01-01",
@@ -1526,17 +1185,6 @@
             "longitude": -117.26667
         },
         {
-            "elevation": 1321,
-            "mindate": "1958-06-01",
-            "maxdate": "1962-09-01",
-            "latitude": 45.56667,
-            "name": "ENTERPRISE 16 NNE, OR US",
-            "datacoverage": 0.9998,
-            "id": "COOP:352677",
-            "elevationUnit": "METERS",
-            "longitude": -117.08333
-        },
-        {
             "elevation": 999.7,
             "mindate": "1969-02-01",
             "maxdate": "2012-12-01",
@@ -1546,17 +1194,6 @@
             "id": "COOP:352678",
             "elevationUnit": "METERS",
             "longitude": -117.1528
-        },
-        {
-            "elevation": 1074.1,
-            "mindate": "1963-02-01",
-            "maxdate": "1968-12-01",
-            "latitude": 45.68333,
-            "name": "ENTERPRISE 21 NNE, OR US",
-            "datacoverage": 1,
-            "id": "COOP:352679",
-            "elevationUnit": "METERS",
-            "longitude": -117.1
         },
         {
             "elevation": 156.7,
@@ -1571,25 +1208,14 @@
         },
         {
             "elevation": 670.6,
-            "mindate": "1921-01-01",
+            "mindate": "1948-09-14",
             "maxdate": "2014-01-01",
             "latitude": 45.0767,
             "name": "ESTACADA 24 SE, OR US",
-            "datacoverage": 0.8281,
+            "datacoverage": 0.0794,
             "id": "COOP:352697",
             "elevationUnit": "METERS",
             "longitude": -121.9714
-        },
-        {
-            "elevation": 118.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1945-06-01",
-            "latitude": 44.05,
-            "name": "EUGENE RIVER, OR US",
-            "datacoverage": 1,
-            "id": "COOP:352707",
-            "elevationUnit": "METERS",
-            "longitude": -123.083333
         },
         {
             "elevation": 107.6,
@@ -1603,17 +1229,6 @@
             "longitude": -123.2206
         },
         {
-            "elevation": 267.9,
-            "mindate": "1929-01-01",
-            "maxdate": "1950-02-01",
-            "latitude": 43.83333,
-            "name": "EULA, OR US",
-            "datacoverage": 0.6616,
-            "id": "COOP:352728",
-            "elevationUnit": "METERS",
-            "longitude": -122.61667
-        },
-        {
             "elevation": 59.4,
             "mindate": "1974-05-01",
             "maxdate": "2015-11-01",
@@ -1623,17 +1238,6 @@
             "id": "COOP:352775",
             "elevationUnit": "METERS",
             "longitude": -124.0233
-        },
-        {
-            "elevation": 1311.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1942-09-01",
-            "latitude": 43.76667,
-            "name": "FALL RIVER HATCHERY, OR US",
-            "datacoverage": 0.9647,
-            "id": "COOP:352793",
-            "elevationUnit": "METERS",
-            "longitude": -121.63333
         },
         {
             "elevation": 210.3,
@@ -1680,23 +1284,12 @@
             "longitude": -118.6759
         },
         {
-            "elevation": 1414.9,
-            "mindate": "1918-06-01",
-            "maxdate": "1956-12-01",
-            "latitude": 42.38333,
-            "name": "FISH LAKE, OR US",
-            "datacoverage": 0.879,
-            "id": "COOP:352928",
-            "elevationUnit": "METERS",
-            "longitude": -122.35
-        },
-        {
             "elevation": 3.7,
             "mindate": "1948-08-16",
             "maxdate": "2014-01-01",
             "latitude": 43.9702,
             "name": "FLORENCE, OR US",
-            "datacoverage": 0.6373,
+            "datacoverage": 0.079,
             "id": "COOP:352972",
             "elevationUnit": "METERS",
             "longitude": -124.1152
@@ -1746,28 +1339,6 @@
             "longitude": -123.8783
         },
         {
-            "elevation": 1268.9,
-            "mindate": "1953-03-01",
-            "maxdate": "1965-10-01",
-            "latitude": 42.61667,
-            "name": "FORT KLAMATH 7 SW, OR US",
-            "datacoverage": 0.9734,
-            "id": "COOP:353022",
-            "elevationUnit": "METERS",
-            "longitude": -122.08333
-        },
-        {
-            "elevation": 1368.9,
-            "mindate": "1948-07-03",
-            "maxdate": "1948-07-05",
-            "latitude": 43.35,
-            "name": "FORT ROCK 6 W JUNCTI, OR US",
-            "datacoverage": 0.069,
-            "id": "COOP:353027",
-            "elevationUnit": "METERS",
-            "longitude": -121.16667
-        },
-        {
             "elevation": 1318.6,
             "mindate": "1996-07-01",
             "maxdate": "2011-12-01",
@@ -1790,17 +1361,6 @@
             "longitude": -120.2176
         },
         {
-            "elevation": 220.1,
-            "mindate": "1963-04-01",
-            "maxdate": "1969-12-01",
-            "latitude": 44.43333,
-            "name": "FOSTER 3 NE, OR US",
-            "datacoverage": 0.9994,
-            "id": "COOP:353043",
-            "elevationUnit": "METERS",
-            "longitude": -122.61667
-        },
-        {
             "elevation": 167.6,
             "mindate": "1969-11-01",
             "maxdate": "2015-11-01",
@@ -1812,17 +1372,6 @@
             "longitude": -122.6728
         },
         {
-            "elevation": 1339,
-            "mindate": "1949-06-01",
-            "maxdate": "1957-05-01",
-            "latitude": 44.65,
-            "name": "FOX, OR US",
-            "datacoverage": 0.8958,
-            "id": "COOP:353058",
-            "elevationUnit": "METERS",
-            "longitude": -119.15
-        },
-        {
             "elevation": 1404.8,
             "mindate": "1918-01-01",
             "maxdate": "1996-05-01",
@@ -1832,17 +1381,6 @@
             "id": "COOP:353095",
             "elevationUnit": "METERS",
             "longitude": -121.21222
-        },
-        {
-            "elevation": 1281.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1936-12-01",
-            "latitude": 42.85,
-            "name": "FRENCHGLEN, OR US",
-            "datacoverage": 0.9859,
-            "id": "COOP:353109",
-            "elevationUnit": "METERS",
-            "longitude": -118.88333
         },
         {
             "elevation": 744,
@@ -1868,11 +1406,11 @@
         },
         {
             "elevation": 1484.4,
-            "mindate": "1925-12-01",
+            "mindate": "1958-07-01",
             "maxdate": "2014-01-01",
             "latitude": 42.20516,
             "name": "GERBER DAM, OR US",
-            "datacoverage": 0.9517,
+            "datacoverage": 0.016,
             "id": "COOP:353232",
             "elevationUnit": "METERS",
             "longitude": -121.13136
@@ -1889,23 +1427,12 @@
             "longitude": -118.36667
         },
         {
-            "elevation": 396.8,
-            "mindate": "1910-01-01",
-            "maxdate": "1950-01-01",
-            "latitude": 42.73333,
-            "name": "GLENDALE, OR US",
-            "datacoverage": 0.1572,
-            "id": "COOP:353300",
-            "elevationUnit": "METERS",
-            "longitude": -123.4
-        },
-        {
             "elevation": 422.1,
-            "mindate": "1940-11-01",
+            "mindate": "1950-03-16",
             "maxdate": "2014-01-01",
             "latitude": 42.7422,
             "name": "GLENDALE, OR US",
-            "datacoverage": 0.8001,
+            "datacoverage": 0.056,
             "id": "COOP:353305",
             "elevationUnit": "METERS",
             "longitude": -123.4297
@@ -1916,7 +1443,7 @@
             "maxdate": "2014-01-01",
             "latitude": 45.6561,
             "name": "GLENWOOD 2 WNW, OR US",
-            "datacoverage": 0.6889,
+            "datacoverage": 0.0869,
             "id": "COOP:353318",
             "elevationUnit": "METERS",
             "longitude": -123.3108
@@ -1938,7 +1465,7 @@
             "maxdate": "2014-01-01",
             "latitude": 45.9898,
             "name": "GOBLE 3 SW, OR US",
-            "datacoverage": 0.8194,
+            "datacoverage": 0.0804,
             "id": "COOP:353340",
             "elevationUnit": "METERS",
             "longitude": -122.9256
@@ -1966,17 +1493,6 @@
             "longitude": -121.7425
         },
         {
-            "elevation": 103.9,
-            "mindate": "1948-07-05",
-            "maxdate": "1968-12-01",
-            "latitude": 45.06667,
-            "name": "GRAND RONDE, OR US",
-            "datacoverage": 0.7283,
-            "id": "COOP:353415",
-            "elevationUnit": "METERS",
-            "longitude": -123.61667
-        },
-        {
             "elevation": 120.4,
             "mindate": "1968-07-01",
             "maxdate": "2013-12-23",
@@ -1988,17 +1504,6 @@
             "longitude": -123.6178
         },
         {
-            "elevation": 1506.9,
-            "mindate": "1947-11-01",
-            "maxdate": "1967-09-01",
-            "latitude": 44.8,
-            "name": "GRANITE 4 WSW, OR US",
-            "datacoverage": 0.9666,
-            "id": "COOP:353430",
-            "elevationUnit": "METERS",
-            "longitude": -118.5
-        },
-        {
             "elevation": 284.1,
             "mindate": "1893-01-01",
             "maxdate": "2015-11-01",
@@ -2008,17 +1513,6 @@
             "id": "COOP:353445",
             "elevationUnit": "METERS",
             "longitude": -123.32193
-        },
-        {
-            "elevation": 246.9,
-            "mindate": "1962-04-01",
-            "maxdate": "1963-05-01",
-            "latitude": 44.46667,
-            "name": "GREEN PETER DAM, OR US",
-            "datacoverage": 1,
-            "id": "COOP:353504",
-            "elevationUnit": "METERS",
-            "longitude": -122.51667
         },
         {
             "elevation": 748.6,
@@ -2037,7 +1531,7 @@
             "maxdate": "2013-12-23",
             "latitude": 45.483,
             "name": "GRESHAM, OR US",
-            "datacoverage": 0.789,
+            "datacoverage": 0.0608,
             "id": "COOP:353521",
             "elevationUnit": "METERS",
             "longitude": -122.4152
@@ -2063,28 +1557,6 @@
             "id": "COOP:353542",
             "elevationUnit": "METERS",
             "longitude": -120.9389
-        },
-        {
-            "elevation": 228.9,
-            "mindate": "1948-08-15",
-            "maxdate": "1957-06-01",
-            "latitude": 43.8,
-            "name": "GUNTER, OR US",
-            "datacoverage": 0.7515,
-            "id": "COOP:353562",
-            "elevationUnit": "METERS",
-            "longitude": -123.46667
-        },
-        {
-            "elevation": 915,
-            "mindate": "1936-05-01",
-            "maxdate": "1941-09-01",
-            "latitude": 44.91667,
-            "name": "HALFWAY 6 NW, OR US",
-            "datacoverage": 0.9843,
-            "id": "COOP:353602",
-            "elevationUnit": "METERS",
-            "longitude": -117.16667
         },
         {
             "elevation": 808.6,
@@ -2120,17 +1592,6 @@
             "longitude": -119.68333
         },
         {
-            "elevation": 1263.1,
-            "mindate": "1922-07-01",
-            "maxdate": "1954-09-01",
-            "latitude": 43.58333,
-            "name": "HARNEY BRANCH EXPERI, OR US",
-            "datacoverage": 0.9534,
-            "id": "COOP:353659",
-            "elevationUnit": "METERS",
-            "longitude": -118.93333
-        },
-        {
             "elevation": 766,
             "mindate": "1931-01-01",
             "maxdate": "1975-09-01",
@@ -2140,17 +1601,6 @@
             "id": "COOP:353666",
             "elevationUnit": "METERS",
             "longitude": -117.61667
-        },
-        {
-            "elevation": 87.8,
-            "mindate": "1929-01-01",
-            "maxdate": "1957-06-01",
-            "latitude": 44.27056,
-            "name": "HARRISBURG, OR US",
-            "datacoverage": 0.6295,
-            "id": "COOP:353678",
-            "elevationUnit": "METERS",
-            "longitude": -123.1725
         },
         {
             "elevation": 1712.4,
@@ -2173,17 +1623,6 @@
             "id": "COOP:353705",
             "elevationUnit": "METERS",
             "longitude": -123.35
-        },
-        {
-            "elevation": 897,
-            "mindate": "1931-01-01",
-            "maxdate": "1945-01-01",
-            "latitude": 44.95,
-            "name": "HAY CREEK, OR US",
-            "datacoverage": 0.9998,
-            "id": "COOP:353737",
-            "elevationUnit": "METERS",
-            "longitude": -120.9
         },
         {
             "elevation": 228,
@@ -2307,17 +1746,6 @@
             "longitude": -121.5494
         },
         {
-            "elevation": 75.9,
-            "mindate": "1943-12-01",
-            "maxdate": "1954-08-01",
-            "latitude": 44.68333,
-            "name": "HOSKINS, OR US",
-            "datacoverage": 0.7828,
-            "id": "COOP:354042",
-            "elevationUnit": "METERS",
-            "longitude": -123.46667
-        },
-        {
             "elevation": 1392,
             "mindate": "1960-09-01",
             "maxdate": "2015-11-01",
@@ -2327,17 +1755,6 @@
             "id": "COOP:354060",
             "elevationUnit": "METERS",
             "longitude": -122.3814
-        },
-        {
-            "elevation": 1089.1,
-            "mindate": "1909-06-01",
-            "maxdate": "1955-06-01",
-            "latitude": 45.65,
-            "name": "HOWARDVILLE, OR US",
-            "datacoverage": 0.8337,
-            "id": "COOP:354066",
-            "elevationUnit": "METERS",
-            "longitude": -117.66667
         },
         {
             "elevation": 643.1,
@@ -2351,28 +1768,6 @@
             "longitude": -117.2549
         },
         {
-            "elevation": 1232,
-            "mindate": "1956-07-01",
-            "maxdate": "1961-09-01",
-            "latitude": 43.21667,
-            "name": "HUTCHINSON RANCH, OR US",
-            "datacoverage": 0.9046,
-            "id": "COOP:354114",
-            "elevationUnit": "METERS",
-            "longitude": -118.01667
-        },
-        {
-            "elevation": 329.2,
-            "mindate": "1957-01-01",
-            "maxdate": "1957-12-01",
-            "latitude": 43.3708,
-            "name": "IDLEYLD PARK 4 NE, OR US",
-            "datacoverage": 1,
-            "id": "COOP:354125",
-            "elevationUnit": "METERS",
-            "longitude": -122.9652
-        },
-        {
             "elevation": 329.2,
             "mindate": "1958-03-01",
             "maxdate": "2013-12-01",
@@ -2380,17 +1775,6 @@
             "name": "IDLEYLD PARK 4 NE, OR US",
             "datacoverage": 0.9969,
             "id": "COOP:354126",
-            "elevationUnit": "METERS",
-            "longitude": -122.9652
-        },
-        {
-            "elevation": 329.2,
-            "mindate": "1955-04-01",
-            "maxdate": "1956-12-01",
-            "latitude": 43.3708,
-            "name": "IDLEYLD PARK 4 NE, OR US",
-            "datacoverage": 0.9972,
-            "id": "COOP:354129",
             "elevationUnit": "METERS",
             "longitude": -122.9652
         },
@@ -2406,37 +1790,15 @@
             "longitude": -124.0575
         },
         {
-            "elevation": 106.1,
-            "mindate": "1963-03-01",
-            "maxdate": "1967-07-01",
-            "latitude": 42.62861,
-            "name": "ILLAHE, OR US",
-            "datacoverage": 0.9212,
-            "id": "COOP:354135",
-            "elevationUnit": "METERS",
-            "longitude": -124.0575
-        },
-        {
             "elevation": 599.8,
-            "mindate": "1941-11-01",
+            "mindate": "1948-07-01",
             "maxdate": "2014-01-01",
             "latitude": 45.5622,
             "name": "IMNAHA, OR US",
-            "datacoverage": 0.8608,
+            "datacoverage": 0.0259,
             "id": "COOP:354147",
             "elevationUnit": "METERS",
             "longitude": -116.8331
-        },
-        {
-            "elevation": 604.1,
-            "mindate": "1962-02-01",
-            "maxdate": "1965-08-01",
-            "latitude": 45.56667,
-            "name": "IMNAHA 2, OR US",
-            "datacoverage": 0.6516,
-            "id": "COOP:354149",
-            "elevationUnit": "METERS",
-            "longitude": -116.83333
         },
         {
             "elevation": 537.1,
@@ -2472,23 +1834,12 @@
             "longitude": -117.99639
         },
         {
-            "elevation": 499.9,
-            "mindate": "1910-01-01",
-            "maxdate": "1948-11-01",
-            "latitude": 42.3,
-            "name": "JACKSONVILLE, OR US",
-            "datacoverage": 0.7259,
-            "id": "COOP:354216",
-            "elevationUnit": "METERS",
-            "longitude": -122.98333
-        },
-        {
             "elevation": 67.1,
-            "mindate": "1925-01-01",
+            "mindate": "1948-07-05",
             "maxdate": "2014-01-01",
             "latitude": 44.7234,
             "name": "JEFFERSON, OR US",
-            "datacoverage": 0.7134,
+            "datacoverage": 0.0769,
             "id": "COOP:354238",
             "elevationUnit": "METERS",
             "longitude": -123.0134
@@ -2521,7 +1872,7 @@
             "maxdate": "2014-01-01",
             "latitude": 42.9792,
             "name": "JORDAN VALLEY, OR US",
-            "datacoverage": 0.8194,
+            "datacoverage": 0.0284,
             "id": "COOP:354321",
             "elevationUnit": "METERS",
             "longitude": -117.0533
@@ -2560,17 +1911,6 @@
             "longitude": -117.93333
         },
         {
-            "elevation": 61,
-            "mindate": "1956-10-01",
-            "maxdate": "1962-01-01",
-            "latitude": 43.55,
-            "name": "KELLOGG, OR US",
-            "datacoverage": 0.4685,
-            "id": "COOP:354388",
-            "elevationUnit": "METERS",
-            "longitude": -123.55
-        },
-        {
             "elevation": 1258.2,
             "mindate": "1927-07-01",
             "maxdate": "2015-11-01",
@@ -2593,17 +1933,6 @@
             "longitude": -120.69944
         },
         {
-            "elevation": 387.1,
-            "mindate": "1898-10-01",
-            "maxdate": "1967-07-01",
-            "latitude": 42.21667,
-            "name": "KERBY, OR US",
-            "datacoverage": 0.4296,
-            "id": "COOP:354420",
-            "elevationUnit": "METERS",
-            "longitude": -123.65
-        },
-        {
             "elevation": 368.8,
             "mindate": "1967-04-01",
             "maxdate": "2009-04-30",
@@ -2613,17 +1942,6 @@
             "id": "COOP:354426",
             "elevationUnit": "METERS",
             "longitude": -123.6641
-        },
-        {
-            "elevation": 1051.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1943-03-01",
-            "latitude": 45.03333,
-            "name": "KINZUA, OR US",
-            "datacoverage": 0.9527,
-            "id": "COOP:354479",
-            "elevationUnit": "METERS",
-            "longitude": -119.91667
         },
         {
             "elevation": 1266.1,
@@ -2681,28 +1999,6 @@
             "longitude": -122.7191
         },
         {
-            "elevation": 857.1,
-            "mindate": "1893-01-01",
-            "maxdate": "1965-08-01",
-            "latitude": 45.33333,
-            "name": "LA GRANDE, OR US",
-            "datacoverage": 0.9599,
-            "id": "COOP:354615",
-            "elevationUnit": "METERS",
-            "longitude": -118.11667
-        },
-        {
-            "elevation": 826.9,
-            "mindate": "1940-12-01",
-            "maxdate": "1966-09-01",
-            "latitude": 45.28333,
-            "name": "LA GRANDE MUNICIPAL AIRPORT, OR US",
-            "datacoverage": 0.8639,
-            "id": "COOP:354620",
-            "elevationUnit": "METERS",
-            "longitude": -118
-        },
-        {
             "elevation": 839.7,
             "mindate": "1965-09-01",
             "maxdate": "2015-11-01",
@@ -2712,39 +2008,6 @@
             "id": "COOP:354622",
             "elevationUnit": "METERS",
             "longitude": -118.0747
-        },
-        {
-            "elevation": 1061,
-            "mindate": "1958-09-01",
-            "maxdate": "1959-08-01",
-            "latitude": 45.23333,
-            "name": "LA GRANDE 19 WSW, OR US",
-            "datacoverage": 1,
-            "id": "COOP:354624",
-            "elevationUnit": "METERS",
-            "longitude": -118.45
-        },
-        {
-            "elevation": 1054.9,
-            "mindate": "1959-12-01",
-            "maxdate": "1960-05-01",
-            "latitude": 45.25,
-            "name": "LA GRANDE 16 WSW, OR US",
-            "datacoverage": 0.998,
-            "id": "COOP:354625",
-            "elevationUnit": "METERS",
-            "longitude": -118.4
-        },
-        {
-            "elevation": 1054.9,
-            "mindate": "1960-08-01",
-            "maxdate": "1962-06-01",
-            "latitude": 45.25,
-            "name": "LA GRANDE 16 WSW, OR US",
-            "datacoverage": 0.958,
-            "id": "COOP:354626",
-            "elevationUnit": "METERS",
-            "longitude": -118.4
         },
         {
             "elevation": 1314.9,
@@ -2778,17 +2041,6 @@
             "id": "COOP:354634",
             "elevationUnit": "METERS",
             "longitude": -122.62583
-        },
-        {
-            "elevation": 534,
-            "mindate": "1917-09-01",
-            "maxdate": "1953-03-01",
-            "latitude": 42.36667,
-            "name": "LAKE CREEK 6 SE, OR US",
-            "datacoverage": 0.9649,
-            "id": "COOP:354635",
-            "elevationUnit": "METERS",
-            "longitude": -122.53333
         },
         {
             "elevation": 472.4,
@@ -2873,7 +2125,7 @@
             "maxdate": "2014-01-01",
             "latitude": 45.5925,
             "name": "LEES CAMP, OR US",
-            "datacoverage": 0.8194,
+            "datacoverage": 0.119,
             "id": "COOP:354824",
             "elevationUnit": "METERS",
             "longitude": -123.5222
@@ -2899,28 +2151,6 @@
             "id": "COOP:354939",
             "elevationUnit": "METERS",
             "longitude": -122.98722
-        },
-        {
-            "elevation": 762.9,
-            "mindate": "1944-09-01",
-            "maxdate": "1954-07-01",
-            "latitude": 43.88333,
-            "name": "LITTLE VALLEY, OR US",
-            "datacoverage": 0.7481,
-            "id": "COOP:354943",
-            "elevationUnit": "METERS",
-            "longitude": -117.48333
-        },
-        {
-            "elevation": 284.1,
-            "mindate": "1949-05-01",
-            "maxdate": "1967-11-01",
-            "latitude": 43.65,
-            "name": "LONDON, OR US",
-            "datacoverage": 0.973,
-            "id": "COOP:355008",
-            "elevationUnit": "METERS",
-            "longitude": -123.08333
         },
         {
             "elevation": 1140,
@@ -2976,39 +2206,6 @@
             "id": "COOP:355067",
             "elevationUnit": "METERS",
             "longitude": -117.3736
-        },
-        {
-            "elevation": 225.9,
-            "mindate": "1946-10-01",
-            "maxdate": "1949-06-01",
-            "latitude": 43.91667,
-            "name": "LOWELL, OR US",
-            "datacoverage": 1,
-            "id": "COOP:355072",
-            "elevationUnit": "METERS",
-            "longitude": -122.78333
-        },
-        {
-            "elevation": 307.8,
-            "mindate": "1947-10-01",
-            "maxdate": "1955-10-01",
-            "latitude": 43.91667,
-            "name": "LOWELL 1 E, OR US",
-            "datacoverage": 0.7084,
-            "id": "COOP:355074",
-            "elevationUnit": "METERS",
-            "longitude": -122.76667
-        },
-        {
-            "elevation": 200.9,
-            "mindate": "1951-02-01",
-            "maxdate": "1959-05-01",
-            "latitude": 43.95,
-            "name": "FALL CREEK DAM, OR US",
-            "datacoverage": 0.9906,
-            "id": "COOP:355076",
-            "elevationUnit": "METERS",
-            "longitude": -122.76667
         },
         {
             "elevation": 575.2,
@@ -3077,17 +2274,6 @@
             "longitude": -118.8447
         },
         {
-            "elevation": 1235,
-            "mindate": "1925-07-01",
-            "maxdate": "1946-08-01",
-            "latitude": 42.01667,
-            "name": "MALIN, OR US",
-            "datacoverage": 0.9526,
-            "id": "COOP:355170",
-            "elevationUnit": "METERS",
-            "longitude": -121.41667
-        },
-        {
             "elevation": 1410.3,
             "mindate": "1968-10-01",
             "maxdate": "2007-04-01",
@@ -3126,7 +2312,7 @@
             "maxdate": "2014-01-01",
             "latitude": 44.1706,
             "name": "MARCOLA, OR US",
-            "datacoverage": 0.8194,
+            "datacoverage": 0.0962,
             "id": "COOP:355213",
             "elevationUnit": "METERS",
             "longitude": -122.8714
@@ -3176,17 +2362,6 @@
             "longitude": -117.99417
         },
         {
-            "elevation": 647.1,
-            "mindate": "1921-01-01",
-            "maxdate": "1950-05-01",
-            "latitude": 43.7,
-            "name": "MC CREDIE SPRINGS, OR US",
-            "datacoverage": 0.2437,
-            "id": "COOP:355332",
-            "elevationUnit": "METERS",
-            "longitude": -122.28333
-        },
-        {
             "elevation": 1360.6,
             "mindate": "1955-11-01",
             "maxdate": "2012-12-01",
@@ -3220,17 +2395,6 @@
             "longitude": -122.1164
         },
         {
-            "elevation": 43,
-            "mindate": "1931-01-01",
-            "maxdate": "1944-04-01",
-            "latitude": 43.18333,
-            "name": "MCKINLEY, OR US",
-            "datacoverage": 0.994,
-            "id": "COOP:355375",
-            "elevationUnit": "METERS",
-            "longitude": -124.03333
-        },
-        {
             "elevation": 47.2,
             "mindate": "1910-01-01",
             "maxdate": "2012-12-01",
@@ -3240,28 +2404,6 @@
             "id": "COOP:355384",
             "elevationUnit": "METERS",
             "longitude": -123.16222
-        },
-        {
-            "elevation": 256,
-            "mindate": "1936-12-01",
-            "maxdate": "1942-09-01",
-            "latitude": 45.6,
-            "name": "MCNAMURS, OR US",
-            "datacoverage": 1,
-            "id": "COOP:355387",
-            "elevationUnit": "METERS",
-            "longitude": -123.48333
-        },
-        {
-            "elevation": 146,
-            "mindate": "1948-02-01",
-            "maxdate": "1954-10-01",
-            "latitude": 45.91667,
-            "name": "MC NARY DAM, OR US",
-            "datacoverage": 0.9261,
-            "id": "COOP:355389",
-            "elevationUnit": "METERS",
-            "longitude": -119.3
         },
         {
             "elevation": 110,
@@ -3319,28 +2461,6 @@
             "longitude": -122.8771
         },
         {
-            "elevation": 189,
-            "mindate": "1929-01-01",
-            "maxdate": "1966-04-01",
-            "latitude": 44.78889,
-            "name": "MEHAMA, OR US",
-            "datacoverage": 0.9734,
-            "id": "COOP:355447",
-            "elevationUnit": "METERS",
-            "longitude": -122.61667
-        },
-        {
-            "elevation": 1243.9,
-            "mindate": "1949-06-01",
-            "maxdate": "1968-07-01",
-            "latitude": 42.05,
-            "name": "MERRILL 2 NW, OR US",
-            "datacoverage": 0.9347,
-            "id": "COOP:355505",
-            "elevationUnit": "METERS",
-            "longitude": -121.63333
-        },
-        {
             "elevation": 762.9,
             "mindate": "1913-01-01",
             "maxdate": "1993-11-01",
@@ -3363,17 +2483,6 @@
             "longitude": -120.35
         },
         {
-            "elevation": 548.9,
-            "mindate": "1941-08-01",
-            "maxdate": "1948-01-01",
-            "latitude": 45.46667,
-            "name": "MIKKALO NISH RANCH, OR US",
-            "datacoverage": 0.9612,
-            "id": "COOP:355550",
-            "elevationUnit": "METERS",
-            "longitude": -120.25
-        },
-        {
             "elevation": 295.7,
             "mindate": "1914-12-01",
             "maxdate": "2015-11-01",
@@ -3385,17 +2494,6 @@
             "longitude": -118.4089
         },
         {
-            "elevation": 399.9,
-            "mindate": "1910-01-01",
-            "maxdate": "1950-07-28",
-            "latitude": 45.88333,
-            "name": "MILTON 5 SE, OR US",
-            "datacoverage": 0.7126,
-            "id": "COOP:355598",
-            "elevationUnit": "METERS",
-            "longitude": -118.28333
-        },
-        {
             "elevation": 1102.2,
             "mindate": "1955-07-01",
             "maxdate": "1985-09-01",
@@ -3405,17 +2503,6 @@
             "id": "COOP:355610",
             "elevationUnit": "METERS",
             "longitude": -117.6
-        },
-        {
-            "elevation": 153,
-            "mindate": "1948-07-05",
-            "maxdate": "1958-01-01",
-            "latitude": 45.98333,
-            "name": "MIST 1 SE, OR US",
-            "datacoverage": 0.8194,
-            "id": "COOP:355629",
-            "elevationUnit": "METERS",
-            "longitude": -123.25
         },
         {
             "elevation": 1011.9,
@@ -3440,28 +2527,6 @@
             "longitude": -120.18333
         },
         {
-            "elevation": 903.1,
-            "mindate": "1962-07-01",
-            "maxdate": "1965-05-01",
-            "latitude": 44.56667,
-            "name": "MITCHELL 2, OR US",
-            "datacoverage": 0.9708,
-            "id": "COOP:355642",
-            "elevationUnit": "METERS",
-            "longitude": -120.15
-        },
-        {
-            "elevation": 371.9,
-            "mindate": "1915-04-01",
-            "maxdate": "1966-06-01",
-            "latitude": 42.45,
-            "name": "MODOC ORCHARD, OR US",
-            "datacoverage": 0.9854,
-            "id": "COOP:355656",
-            "elevationUnit": "METERS",
-            "longitude": -122.88333
-        },
-        {
             "elevation": 121.9,
             "mindate": "1936-01-01",
             "maxdate": "1976-12-01",
@@ -3484,28 +2549,6 @@
             "longitude": -122.5063
         },
         {
-            "elevation": 88.1,
-            "mindate": "1910-01-01",
-            "maxdate": "1949-12-01",
-            "latitude": 44.31667,
-            "name": "MONROE, OR US",
-            "datacoverage": 0.2666,
-            "id": "COOP:355695",
-            "elevationUnit": "METERS",
-            "longitude": -123.3
-        },
-        {
-            "elevation": 580,
-            "mindate": "1930-04-01",
-            "maxdate": "1949-02-01",
-            "latitude": 44.61667,
-            "name": "MONTGOMERY RANCH, OR US",
-            "datacoverage": 0.9868,
-            "id": "COOP:355707",
-            "elevationUnit": "METERS",
-            "longitude": -121.48333
-        },
-        {
             "elevation": 608.1,
             "mindate": "1961-02-01",
             "maxdate": "2015-11-01",
@@ -3522,7 +2565,7 @@
             "maxdate": "2007-01-01",
             "latitude": 44.81806,
             "name": "MONUMENT RANGER STATION, OR US",
-            "datacoverage": 0.789,
+            "datacoverage": 0.03,
             "id": "COOP:355715",
             "elevationUnit": "METERS",
             "longitude": -119.42083
@@ -3610,7 +2653,7 @@
             "maxdate": "2014-01-01",
             "latitude": 45.7149,
             "name": "NEHALEM, OR US",
-            "datacoverage": 0.8194,
+            "datacoverage": 0.1318,
             "id": "COOP:355969",
             "elevationUnit": "METERS",
             "longitude": -123.8869
@@ -3698,7 +2741,7 @@
             "maxdate": "1984-10-01",
             "latitude": 44.05,
             "name": "NOTI 2 ESE, OR US",
-            "datacoverage": 0.9547,
+            "datacoverage": 0.135,
             "id": "COOP:356171",
             "elevationUnit": "METERS",
             "longitude": -123.41667
@@ -3753,7 +2796,7 @@
             "maxdate": "2013-03-01",
             "latitude": 44.2994,
             "name": "OCHOCO DAM, OR US",
-            "datacoverage": 0.393,
+            "datacoverage": 0.0221,
             "id": "COOP:356238",
             "elevationUnit": "METERS",
             "longitude": -120.7264
@@ -3790,28 +2833,6 @@
             "id": "COOP:356252",
             "elevationUnit": "METERS",
             "longitude": -121.9638
-        },
-        {
-            "elevation": 1460.9,
-            "mindate": "1928-01-01",
-            "maxdate": "1959-05-01",
-            "latitude": 43.58333,
-            "name": "ODELL LAKE WATER PAN, OR US",
-            "datacoverage": 0.4775,
-            "id": "COOP:356254",
-            "elevationUnit": "METERS",
-            "longitude": -122.05
-        },
-        {
-            "elevation": 1812,
-            "mindate": "1931-01-01",
-            "maxdate": "1947-09-01",
-            "latitude": 44.78333,
-            "name": "OLIVE LAKE, OR US",
-            "datacoverage": 0.9753,
-            "id": "COOP:356269",
-            "elevationUnit": "METERS",
-            "longitude": -118.6
         },
         {
             "elevation": 653.8,
@@ -3889,17 +2910,6 @@
             "id": "COOP:356426",
             "elevationUnit": "METERS",
             "longitude": -120.5403
-        },
-        {
-            "elevation": 522.1,
-            "mindate": "1913-01-01",
-            "maxdate": "1969-03-01",
-            "latitude": 45.51667,
-            "name": "PARKDALE, OR US",
-            "datacoverage": 0.9527,
-            "id": "COOP:356464",
-            "elevationUnit": "METERS",
-            "longitude": -121.58333
         },
         {
             "elevation": 463.3,
@@ -3990,39 +3000,6 @@
             "longitude": -118.8523
         },
         {
-            "elevation": 862.9,
-            "mindate": "1950-06-01",
-            "maxdate": "1965-04-01",
-            "latitude": 42.76667,
-            "name": "PERSIST, OR US",
-            "datacoverage": 0.125,
-            "id": "COOP:356590",
-            "elevationUnit": "METERS",
-            "longitude": -122.6
-        },
-        {
-            "elevation": 595,
-            "mindate": "1948-03-01",
-            "maxdate": "1948-11-30",
-            "latitude": 42.8,
-            "name": "PERSIST 4 NW, OR US",
-            "datacoverage": 0.8855,
-            "id": "COOP:356593",
-            "elevationUnit": "METERS",
-            "longitude": -122.63333
-        },
-        {
-            "elevation": 762.9,
-            "mindate": "1950-04-01",
-            "maxdate": "1950-05-27",
-            "latitude": 42.78333,
-            "name": "PERSIST 2 NW, OR US",
-            "datacoverage": 0.998,
-            "id": "COOP:356595",
-            "elevationUnit": "METERS",
-            "longitude": -122.61667
-        },
-        {
             "elevation": 67.1,
             "mindate": "1941-01-01",
             "maxdate": "1972-09-01",
@@ -4078,17 +3055,6 @@
             "longitude": -120.95
         },
         {
-            "elevation": 1375.9,
-            "mindate": "1936-11-01",
-            "maxdate": "1963-04-01",
-            "latitude": 42.41667,
-            "name": "PLUSH, OR US",
-            "datacoverage": 0.7081,
-            "id": "COOP:356717",
-            "elevationUnit": "METERS",
-            "longitude": -119.9
-        },
-        {
             "elevation": 48.5,
             "mindate": "1973-07-01",
             "maxdate": "2015-11-01",
@@ -4131,17 +3097,6 @@
             "id": "COOP:356761",
             "elevationUnit": "METERS",
             "longitude": -122.66667
-        },
-        {
-            "elevation": 12.8,
-            "mindate": "1911-01-01",
-            "maxdate": "1963-12-01",
-            "latitude": 42.7519,
-            "name": "PORT ORFORD NUMBER 2, OR US",
-            "datacoverage": 0.8616,
-            "id": "COOP:356779",
-            "elevationUnit": "METERS",
-            "longitude": -124.5011
         },
         {
             "elevation": 12.8,
@@ -4189,11 +3144,11 @@
         },
         {
             "elevation": 1080.2,
-            "mindate": "1913-01-01",
+            "mindate": "1948-10-01",
             "maxdate": "2014-01-01",
             "latitude": 44.4581,
             "name": "PRAIRIE CITY, OR US",
-            "datacoverage": 0.9229,
+            "datacoverage": 0.0325,
             "id": "COOP:356845",
             "elevationUnit": "METERS",
             "longitude": -118.7054
@@ -4208,17 +3163,6 @@
             "id": "COOP:356853",
             "elevationUnit": "METERS",
             "longitude": -118.8778
-        },
-        {
-            "elevation": 1193,
-            "mindate": "1962-03-01",
-            "maxdate": "1963-10-01",
-            "latitude": 43.26667,
-            "name": "PRINCETON 13 E, OR US",
-            "datacoverage": 0.6986,
-            "id": "COOP:356872",
-            "elevationUnit": "METERS",
-            "longitude": -118.33333
         },
         {
             "elevation": 876.6,
@@ -4241,17 +3185,6 @@
             "id": "COOP:356907",
             "elevationUnit": "METERS",
             "longitude": -122.5164
-        },
-        {
-            "elevation": 249.9,
-            "mindate": "1948-07-01",
-            "maxdate": "1962-02-01",
-            "latitude": 44.48333,
-            "name": "QUARTZVILLE 10 SW, OR US",
-            "datacoverage": 0.9636,
-            "id": "COOP:356955",
-            "elevationUnit": "METERS",
-            "longitude": -122.5
         },
         {
             "elevation": 1220.1,
@@ -4353,17 +3286,6 @@
             "longitude": -117.1597
         },
         {
-            "elevation": 214,
-            "mindate": "1950-12-01",
-            "maxdate": "1956-03-01",
-            "latitude": 42.95,
-            "name": "RIDDLE, OR US",
-            "datacoverage": 0.5156,
-            "id": "COOP:357168",
-            "elevationUnit": "METERS",
-            "longitude": -123.36667
-        },
-        {
             "elevation": 207.3,
             "mindate": "1899-06-01",
             "maxdate": "2015-11-01",
@@ -4419,17 +3341,6 @@
             "longitude": -118.0625
         },
         {
-            "elevation": 1396.9,
-            "mindate": "1961-04-01",
-            "maxdate": "1968-10-01",
-            "latitude": 42.68333,
-            "name": "ROCK CREEK RANCH, OR US",
-            "datacoverage": 0.9007,
-            "id": "COOP:357260",
-            "elevationUnit": "METERS",
-            "longitude": -119.18333
-        },
-        {
             "elevation": 1118.6,
             "mindate": "1963-10-01",
             "maxdate": "2012-12-01",
@@ -4461,28 +3372,6 @@
             "id": "COOP:357310",
             "elevationUnit": "METERS",
             "longitude": -117.6569
-        },
-        {
-            "elevation": 1234.4,
-            "mindate": "1949-10-01",
-            "maxdate": "1950-10-27",
-            "latitude": 42.59056,
-            "name": "ROME STATE AIRPORT, OR US",
-            "datacoverage": 0.6894,
-            "id": "COOP:357312",
-            "elevationUnit": "METERS",
-            "longitude": -117.86444
-        },
-        {
-            "elevation": 160,
-            "mindate": "1910-01-01",
-            "maxdate": "1965-09-01",
-            "latitude": 43.23889,
-            "name": "ROSEBURG REGIONAL AIRPORT, OR US",
-            "datacoverage": 0.8655,
-            "id": "COOP:357326",
-            "elevationUnit": "METERS",
-            "longitude": -123.35472
         },
         {
             "elevation": 129.5,
@@ -4551,17 +3440,6 @@
             "longitude": -123.0011
         },
         {
-            "elevation": 1427.1,
-            "mindate": "1929-04-01",
-            "maxdate": "1948-07-01",
-            "latitude": 42.85,
-            "name": "SAND CREEK, OR US",
-            "datacoverage": 0.9568,
-            "id": "COOP:357533",
-            "elevationUnit": "METERS",
-            "longitude": -121.9
-        },
-        {
             "elevation": 1143,
             "mindate": "1948-08-01",
             "maxdate": "2015-11-01",
@@ -4589,7 +3467,7 @@
             "maxdate": "2014-01-01",
             "latitude": 45.6555,
             "name": "SAUVIES ISLAND, OR US",
-            "datacoverage": 0.7587,
+            "datacoverage": 0.0636,
             "id": "COOP:357572",
             "elevationUnit": "METERS",
             "longitude": -122.8338
@@ -4639,17 +3517,6 @@
             "longitude": -123.646
         },
         {
-            "elevation": 458.1,
-            "mindate": "1960-11-01",
-            "maxdate": "1961-05-01",
-            "latitude": 42.28333,
-            "name": "SELMA 4 W, OR US",
-            "datacoverage": 1,
-            "id": "COOP:357670",
-            "elevationUnit": "METERS",
-            "longitude": -123.7
-        },
-        {
             "elevation": 1420.4,
             "mindate": "1913-01-01",
             "maxdate": "2015-11-01",
@@ -4694,17 +3561,6 @@
             "longitude": -122.6486
         },
         {
-            "elevation": 1524.9,
-            "mindate": "1967-11-01",
-            "maxdate": "1968-11-01",
-            "latitude": 43.1,
-            "name": "SILVER LAKE 15 W, OR US",
-            "datacoverage": 0.6149,
-            "id": "COOP:357815",
-            "elevationUnit": "METERS",
-            "longitude": -121.36667
-        },
-        {
             "elevation": 1336.5,
             "mindate": "1968-04-01",
             "maxdate": "2015-11-01",
@@ -4727,39 +3583,6 @@
             "longitude": -122.7739
         },
         {
-            "elevation": 310.9,
-            "mindate": "1948-08-14",
-            "maxdate": "1962-09-01",
-            "latitude": 44.96667,
-            "name": "SILVERTON 4 SE, OR US",
-            "datacoverage": 0.9634,
-            "id": "COOP:357827",
-            "elevationUnit": "METERS",
-            "longitude": -122.73333
-        },
-        {
-            "elevation": 732.1,
-            "mindate": "1949-05-03",
-            "maxdate": "1967-06-01",
-            "latitude": 44.96667,
-            "name": "SIMNASHO, OR US",
-            "datacoverage": 0.4931,
-            "id": "COOP:357835",
-            "elevationUnit": "METERS",
-            "longitude": -121.35
-        },
-        {
-            "elevation": 1367,
-            "mindate": "1931-01-01",
-            "maxdate": "1948-08-23",
-            "latitude": 42.08333,
-            "name": "SISKIYOU SUMMIT, OR US",
-            "datacoverage": 1,
-            "id": "COOP:357850",
-            "elevationUnit": "METERS",
-            "longitude": -122.56667
-        },
-        {
             "elevation": 969.3,
             "mindate": "1958-08-01",
             "maxdate": "2015-11-01",
@@ -4772,25 +3595,14 @@
         },
         {
             "elevation": 185.9,
-            "mindate": "1944-09-01",
+            "mindate": "1976-03-01",
             "maxdate": "2012-08-01",
             "latitude": 43.1533,
             "name": "SITKUM 1 E, OR US",
-            "datacoverage": 0.8256,
+            "datacoverage": 0.0476,
             "id": "COOP:357866",
             "elevationUnit": "METERS",
             "longitude": -123.833
-        },
-        {
-            "elevation": 46,
-            "mindate": "1953-01-01",
-            "maxdate": "1955-06-01",
-            "latitude": 43.15,
-            "name": "SITKUM 6 W, OR US",
-            "datacoverage": 1,
-            "id": "COOP:357869",
-            "elevationUnit": "METERS",
-            "longitude": -123.95
         },
         {
             "elevation": 210.3,
@@ -4848,28 +3660,6 @@
             "longitude": -119.7211
         },
         {
-            "elevation": 262.1,
-            "mindate": "1942-01-01",
-            "maxdate": "1951-03-01",
-            "latitude": 43.73333,
-            "name": "STAR, OR US",
-            "datacoverage": 0.9374,
-            "id": "COOP:358066",
-            "elevationUnit": "METERS",
-            "longitude": -122.86667
-        },
-        {
-            "elevation": 1036.9,
-            "mindate": "1920-01-01",
-            "maxdate": "1948-09-01",
-            "latitude": 45.23333,
-            "name": "STARKEY, OR US",
-            "datacoverage": 0.5536,
-            "id": "COOP:358079",
-            "elevationUnit": "METERS",
-            "longitude": -118.45
-        },
-        {
             "elevation": 129.5,
             "mindate": "1951-12-01",
             "maxdate": "2015-11-01",
@@ -4914,39 +3704,6 @@
             "longitude": -123.5786
         },
         {
-            "elevation": 1189.9,
-            "mindate": "1910-01-01",
-            "maxdate": "1951-05-01",
-            "latitude": 45.3,
-            "name": "SUMMIT GUARD STATION, OR US",
-            "datacoverage": 0.5735,
-            "id": "COOP:358190",
-            "elevationUnit": "METERS",
-            "longitude": -121.75
-        },
-        {
-            "elevation": 732.1,
-            "mindate": "1931-05-01",
-            "maxdate": "1955-12-01",
-            "latitude": 44.95,
-            "name": "SUNDOWN RANCH, OR US",
-            "datacoverage": 0.9357,
-            "id": "COOP:358221",
-            "elevationUnit": "METERS",
-            "longitude": -122.5
-        },
-        {
-            "elevation": 1132,
-            "mindate": "1931-01-01",
-            "maxdate": "1936-02-01",
-            "latitude": 43.1,
-            "name": "SUNRISE VALLEY, OR US",
-            "datacoverage": 1,
-            "id": "COOP:358245",
-            "elevationUnit": "METERS",
-            "longitude": -118.16667
-        },
-        {
             "elevation": 1274.1,
             "mindate": "1998-04-01",
             "maxdate": "2015-11-01",
@@ -4969,17 +3726,6 @@
             "longitude": -119.63333
         },
         {
-            "elevation": 1409.1,
-            "mindate": "1955-10-01",
-            "maxdate": "1961-11-01",
-            "latitude": 43.66667,
-            "name": "SUNTEX JUNIPER HR, OR US",
-            "datacoverage": 0.9862,
-            "id": "COOP:358252",
-            "elevationUnit": "METERS",
-            "longitude": -119.86667
-        },
-        {
             "elevation": 121.9,
             "mindate": "1978-01-01",
             "maxdate": "2015-11-01",
@@ -5000,17 +3746,6 @@
             "id": "COOP:358263",
             "elevationUnit": "METERS",
             "longitude": -123.063
-        },
-        {
-            "elevation": 473,
-            "mindate": "1915-01-01",
-            "maxdate": "1960-10-01",
-            "latitude": 42.25,
-            "name": "TALENT, OR US",
-            "datacoverage": 0.9618,
-            "id": "COOP:358338",
-            "elevationUnit": "METERS",
-            "longitude": -122.8
         },
         {
             "elevation": 45.7,
@@ -5095,7 +3830,7 @@
             "maxdate": "2014-01-01",
             "latitude": 45.4128,
             "name": "TILLAMOOK 12 ESE, OR US",
-            "datacoverage": 0.6788,
+            "datacoverage": 0.1417,
             "id": "COOP:358504",
             "elevationUnit": "METERS",
             "longitude": -123.5983
@@ -5145,17 +3880,6 @@
             "longitude": -123.3
         },
         {
-            "elevation": 1812,
-            "mindate": "1938-12-01",
-            "maxdate": "1952-04-01",
-            "latitude": 45.35,
-            "name": "TIMBERLINE LODGE, OR US",
-            "datacoverage": 0.9231,
-            "id": "COOP:358530",
-            "elevationUnit": "METERS",
-            "longitude": -121.7
-        },
-        {
             "elevation": 627.9,
             "mindate": "1953-02-01",
             "maxdate": "2015-11-01",
@@ -5165,28 +3889,6 @@
             "id": "COOP:358536",
             "elevationUnit": "METERS",
             "longitude": -122.4497
-        },
-        {
-            "elevation": 1491.1,
-            "mindate": "1942-02-01",
-            "maxdate": "1963-02-01",
-            "latitude": 45.78333,
-            "name": "TOLLGATE, OR US",
-            "datacoverage": 0.6014,
-            "id": "COOP:358549",
-            "elevationUnit": "METERS",
-            "longitude": -118.08333
-        },
-        {
-            "elevation": 1531,
-            "mindate": "1962-10-01",
-            "maxdate": "1963-10-01",
-            "latitude": 45.78333,
-            "name": "TOLLGATE 2, OR US",
-            "datacoverage": 1,
-            "id": "COOP:358550",
-            "elevationUnit": "METERS",
-            "longitude": -118.11667
         },
         {
             "elevation": 985.1,
@@ -5209,28 +3911,6 @@
             "id": "COOP:358588",
             "elevationUnit": "METERS",
             "longitude": -122.66667
-        },
-        {
-            "elevation": 27.1,
-            "mindate": "1953-11-01",
-            "maxdate": "1955-12-01",
-            "latitude": 45.53333,
-            "name": "TROUTDALE, OR US",
-            "datacoverage": 0.962,
-            "id": "COOP:358631",
-            "elevationUnit": "METERS",
-            "longitude": -122.38333
-        },
-        {
-            "elevation": 43,
-            "mindate": "1956-01-01",
-            "maxdate": "1959-07-01",
-            "latitude": 45.53333,
-            "name": "TROUTDALE 2, OR US",
-            "datacoverage": 0.861,
-            "id": "COOP:358632",
-            "elevationUnit": "METERS",
-            "longitude": -122.38333
         },
         {
             "elevation": 10.1,
@@ -5264,28 +3944,6 @@
             "id": "COOP:358726",
             "elevationUnit": "METERS",
             "longitude": -118.93888
-        },
-        {
-            "elevation": 82,
-            "mindate": "1910-01-01",
-            "maxdate": "1965-10-01",
-            "latitude": 45.91667,
-            "name": "UMATILLA, OR US",
-            "datacoverage": 0.9179,
-            "id": "COOP:358734",
-            "elevationUnit": "METERS",
-            "longitude": -119.35
-        },
-        {
-            "elevation": 34.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1937-05-01",
-            "latitude": 43.7,
-            "name": "UMPQUA, OR ",
-            "datacoverage": 0.9743,
-            "id": "COOP:358740",
-            "elevationUnit": "METERS",
-            "longitude": -124.16667
         },
         {
             "elevation": 846.4,
@@ -5376,28 +4034,6 @@
             "longitude": -123.66667
         },
         {
-            "elevation": 1250.9,
-            "mindate": "1959-04-01",
-            "maxdate": "1965-07-01",
-            "latitude": 43.98333,
-            "name": "VAN, OR US",
-            "datacoverage": 0.855,
-            "id": "COOP:358837",
-            "elevationUnit": "METERS",
-            "longitude": -118.68333
-        },
-        {
-            "elevation": 256,
-            "mindate": "1938-05-01",
-            "maxdate": "1967-07-01",
-            "latitude": 45.86667,
-            "name": "VERNONIA, OR US",
-            "datacoverage": 0.9345,
-            "id": "COOP:358879",
-            "elevationUnit": "METERS",
-            "longitude": -123.2
-        },
-        {
             "elevation": 190.5,
             "mindate": "1964-04-01",
             "maxdate": "2015-11-01",
@@ -5407,28 +4043,6 @@
             "id": "COOP:358884",
             "elevationUnit": "METERS",
             "longitude": -123.1902
-        },
-        {
-            "elevation": 1330.1,
-            "mindate": "1965-10-01",
-            "maxdate": "1968-05-01",
-            "latitude": 43.23333,
-            "name": "VIEWPOINT RANCH, OR US",
-            "datacoverage": 1,
-            "id": "COOP:358895",
-            "elevationUnit": "METERS",
-            "longitude": -120.51667
-        },
-        {
-            "elevation": 1255.2,
-            "mindate": "1937-07-01",
-            "maxdate": "1959-03-01",
-            "latitude": 43.265,
-            "name": "MALHEUR REFUGE HEADQUARTERS, OR US",
-            "datacoverage": 0.9196,
-            "id": "COOP:358924",
-            "elevationUnit": "METERS",
-            "longitude": -118.8447
         },
         {
             "elevation": 1440.5,
@@ -5462,39 +4076,6 @@
             "id": "COOP:358997",
             "elevationUnit": "METERS",
             "longitude": -117.5314
-        },
-        {
-            "elevation": 171,
-            "mindate": "1950-10-01",
-            "maxdate": "1954-08-01",
-            "latitude": 44.06667,
-            "name": "WALTERVILLE 1 SW, OR US",
-            "datacoverage": 0.6594,
-            "id": "COOP:359001",
-            "elevationUnit": "METERS",
-            "longitude": -122.83333
-        },
-        {
-            "elevation": 625.1,
-            "mindate": "1968-05-01",
-            "maxdate": "1969-02-01",
-            "latitude": 45.13333,
-            "name": "WAPINITIA JUNCTION, OR US",
-            "datacoverage": 0.801,
-            "id": "COOP:359022",
-            "elevationUnit": "METERS",
-            "longitude": -121.25
-        },
-        {
-            "elevation": 458.1,
-            "mindate": "1910-01-01",
-            "maxdate": "1949-05-01",
-            "latitude": 44.76667,
-            "name": "WARM SPRINGS AGENCY, OR US",
-            "datacoverage": 0.4947,
-            "id": "COOP:359038",
-            "elevationUnit": "METERS",
-            "longitude": -121.25
         },
         {
             "elevation": 1018.9,
@@ -5552,28 +4133,6 @@
             "longitude": -117.7184
         },
         {
-            "elevation": 356.9,
-            "mindate": "1940-06-01",
-            "maxdate": "1964-09-01",
-            "latitude": 43.75,
-            "name": "WESTFIR, OR US",
-            "datacoverage": 0.7466,
-            "id": "COOP:359184",
-            "elevationUnit": "METERS",
-            "longitude": -122.5
-        },
-        {
-            "elevation": 21,
-            "mindate": "1938-11-01",
-            "maxdate": "1968-12-01",
-            "latitude": 45.33333,
-            "name": "WEST LINN, OR US",
-            "datacoverage": 0.9834,
-            "id": "COOP:359208",
-            "elevationUnit": "METERS",
-            "longitude": -122.65
-        },
-        {
             "elevation": 585.8,
             "mindate": "1953-03-01",
             "maxdate": "2014-01-01",
@@ -5583,17 +4142,6 @@
             "id": "COOP:359213",
             "elevationUnit": "METERS",
             "longitude": -118.4303
-        },
-        {
-            "elevation": 641,
-            "mindate": "1895-01-01",
-            "maxdate": "1954-12-01",
-            "latitude": 45.8,
-            "name": "WESTON 2 SE, OR US",
-            "datacoverage": 0.9473,
-            "id": "COOP:359216",
-            "elevationUnit": "METERS",
-            "longitude": -118.4
         },
         {
             "elevation": 976,
@@ -5618,17 +4166,6 @@
             "longitude": -118.2346
         },
         {
-            "elevation": 25,
-            "mindate": "1941-01-01",
-            "maxdate": "1967-12-01",
-            "latitude": 45.16667,
-            "name": "WHITESON 1 NW, OR US",
-            "datacoverage": 0.7285,
-            "id": "COOP:359298",
-            "elevationUnit": "METERS",
-            "longitude": -123.2
-        },
-        {
             "elevation": 1328.3,
             "mindate": "1941-05-01",
             "maxdate": "2015-11-01",
@@ -5638,28 +4175,6 @@
             "id": "COOP:359316",
             "elevationUnit": "METERS",
             "longitude": -121.6874
-        },
-        {
-            "elevation": 878.1,
-            "mindate": "1928-01-01",
-            "maxdate": "1954-09-01",
-            "latitude": 43.66667,
-            "name": "WICOPEE, OR US",
-            "datacoverage": 0.9471,
-            "id": "COOP:359324",
-            "elevationUnit": "METERS",
-            "longitude": -122.26667
-        },
-        {
-            "elevation": 1250.9,
-            "mindate": "1948-07-05",
-            "maxdate": "1952-10-01",
-            "latitude": 44.35,
-            "name": "WILLAMETTE SNOW LAB, OR US",
-            "datacoverage": 0.7587,
-            "id": "COOP:359364",
-            "elevationUnit": "METERS",
-            "longitude": -122.13333
         },
         {
             "elevation": 73.2,
@@ -5684,17 +4199,6 @@
             "longitude": -123.2858
         },
         {
-            "elevation": 75.9,
-            "mindate": "1922-09-01",
-            "maxdate": "1950-10-01",
-            "latitude": 42.88333,
-            "name": "WILLOW CREEK, OR US",
-            "datacoverage": 0.8639,
-            "id": "COOP:359398",
-            "elevationUnit": "METERS",
-            "longitude": -124.43333
-        },
-        {
             "elevation": 140.2,
             "mindate": "1951-01-01",
             "maxdate": "2015-11-01",
@@ -5717,17 +4221,6 @@
             "longitude": -123.41667
         },
         {
-            "elevation": 388,
-            "mindate": "1931-01-01",
-            "maxdate": "1939-02-01",
-            "latitude": 42.7,
-            "name": "WOLF CREEK, OR US",
-            "datacoverage": 1,
-            "id": "COOP:359500",
-            "elevationUnit": "METERS",
-            "longitude": -123.38333
-        },
-        {
             "elevation": 4.6,
             "mindate": "1966-05-01",
             "maxdate": "2014-01-01",
@@ -5748,39 +4241,6 @@
             "id": "COOP:359588",
             "elevationUnit": "METERS",
             "longitude": -124.0981
-        },
-        {
-            "elevation": 1275,
-            "mindate": "1910-01-01",
-            "maxdate": "1948-12-01",
-            "latitude": 42.3,
-            "name": "YONNA, OR US",
-            "datacoverage": 0.9167,
-            "id": "COOP:359604",
-            "elevationUnit": "METERS",
-            "longitude": -121.48333
-        },
-        {
-            "elevation": 422.1,
-            "mindate": "1919-01-01",
-            "maxdate": "1953-07-01",
-            "latitude": 45.35,
-            "name": "ZIGZAG RANGER STATION, OR US",
-            "datacoverage": 0.8506,
-            "id": "COOP:359616",
-            "elevationUnit": "METERS",
-            "longitude": -121.93333
-        },
-        {
-            "elevation": 613,
-            "mindate": "1919-01-01",
-            "maxdate": "1952-11-01",
-            "latitude": 45.76667,
-            "name": "WHITE SALMON 4 NNE, WA US",
-            "datacoverage": 0.9558,
-            "id": "COOP:459183",
-            "elevationUnit": "METERS",
-            "longitude": -121.48333
         },
         {
             "elevation": 1048.8,
@@ -11006,6 +9466,1546 @@
             "id": "GHCND:US1ORLA0111",
             "elevationUnit": "METERS",
             "longitude": -123.1249
+        },
+        {
+            "elevation": 119.5,
+            "mindate": "2007-12-01",
+            "maxdate": "2020-05-17",
+            "latitude": 44.1088,
+            "name": "EUGENE 2.7, OR US",
+            "datacoverage": 0.9999,
+            "id": "GHCND:US1ORLA0112",
+            "elevationUnit": "METERS",
+            "longitude": -123.2698
+        },
+        {
+            "elevation": 247.2,
+            "mindate": "2008-01-01",
+            "maxdate": "2020-05-15",
+            "latitude": 43.8031,
+            "name": "COTTAGE GROVE 2.6 E, OR US",
+            "datacoverage": 1,
+            "id": "GHCND:US1ORLA0114",
+            "elevationUnit": "METERS",
+            "longitude": -123.0032
+        },
+        {
+            "elevation": 261.8,
+            "mindate": "2008-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 44.0626,
+            "name": "SPRINGFIELD 10.1 E, OR US",
+            "datacoverage": 0.9799,
+            "id": "GHCND:US1ORLA0116",
+            "elevationUnit": "METERS",
+            "longitude": -122.7731
+        },
+        {
+            "elevation": 135.9,
+            "mindate": "2007-12-01",
+            "maxdate": "2015-12-20",
+            "latitude": 44.0356,
+            "name": "EUGENE 1.3 SSW, OR US",
+            "datacoverage": 0.9998,
+            "id": "GHCND:US1ORLA0117",
+            "elevationUnit": "METERS",
+            "longitude": -123.1235
+        },
+        {
+            "elevation": 129.2,
+            "mindate": "2008-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 44.0686,
+            "name": "EUGENE 2.5 ENE, OR US",
+            "datacoverage": 0.9496,
+            "id": "GHCND:US1ORLA0118",
+            "elevationUnit": "METERS",
+            "longitude": -123.066
+        },
+        {
+            "elevation": 138.1,
+            "mindate": "2008-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 44.0684,
+            "name": "SPRINGFIELD 2.1 WNW, OR US",
+            "datacoverage": 1,
+            "id": "GHCND:US1ORLA0121",
+            "elevationUnit": "METERS",
+            "longitude": -123.0138
+        },
+        {
+            "elevation": 149,
+            "mindate": "2008-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 44.0344,
+            "name": "SPRINGFIELD 1.5 SE, OR US",
+            "datacoverage": 1,
+            "id": "GHCND:US1ORLA0122",
+            "elevationUnit": "METERS",
+            "longitude": -122.9579
+        },
+        {
+            "elevation": 230.4,
+            "mindate": "2008-01-01",
+            "maxdate": "2015-08-09",
+            "latitude": 44.0259,
+            "name": "EUGENE 4.6 WSW, OR US",
+            "datacoverage": 0.9673,
+            "id": "GHCND:US1ORLA0123",
+            "elevationUnit": "METERS",
+            "longitude": -123.195
+        },
+        {
+            "elevation": 214.6,
+            "mindate": "2008-03-01",
+            "maxdate": "2015-04-29",
+            "latitude": 43.9408,
+            "name": "LOWELL 2.6 WNW, OR US",
+            "datacoverage": 0.9886,
+            "id": "GHCND:US1ORLA0124",
+            "elevationUnit": "METERS",
+            "longitude": -122.8234
+        },
+        {
+            "elevation": 122.2,
+            "mindate": "2008-02-01",
+            "maxdate": "2020-05-16",
+            "latitude": 44.1386,
+            "name": "COBURG 0.3 W, OR US",
+            "datacoverage": 0.9697,
+            "id": "GHCND:US1ORLA0126",
+            "elevationUnit": "METERS",
+            "longitude": -123.0658
+        },
+        {
+            "elevation": 161.2,
+            "mindate": "2008-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 44.0492,
+            "name": "SPRINGFIELD 3.9 E, OR US",
+            "datacoverage": 1,
+            "id": "GHCND:US1ORLA0127",
+            "elevationUnit": "METERS",
+            "longitude": -122.8982
+        },
+        {
+            "elevation": 137.5,
+            "mindate": "2008-01-01",
+            "maxdate": "2020-05-16",
+            "latitude": 44.0717,
+            "name": "SPRINGFIELD 2.1 NW, OR US",
+            "datacoverage": 1,
+            "id": "GHCND:US1ORLA0129",
+            "elevationUnit": "METERS",
+            "longitude": -123.0101
+        },
+        {
+            "elevation": 417,
+            "mindate": "2007-12-01",
+            "maxdate": "2020-05-17",
+            "latitude": 44.1783,
+            "name": "MCKENZIE BRIDGE 1 N, OR US",
+            "datacoverage": 0.9999,
+            "id": "GHCND:US1ORLA0130",
+            "elevationUnit": "METERS",
+            "longitude": -122.1625
+        },
+        {
+            "elevation": 119.8,
+            "mindate": "2008-01-01",
+            "maxdate": "2010-06-11",
+            "latitude": 44.0918,
+            "name": "RIVER ROAD 0.7 NW, OR US",
+            "datacoverage": 1,
+            "id": "GHCND:US1ORLA0131",
+            "elevationUnit": "METERS",
+            "longitude": -123.1423
+        },
+        {
+            "elevation": 74.4,
+            "mindate": "2008-02-01",
+            "maxdate": "2020-05-15",
+            "latitude": 44.054812,
+            "name": "SWISSHOME 4.2 ESE, OR US",
+            "datacoverage": 0.9493,
+            "id": "GHCND:US1ORLA0132",
+            "elevationUnit": "METERS",
+            "longitude": -123.710081
+        },
+        {
+            "elevation": 210.6,
+            "mindate": "2008-02-01",
+            "maxdate": "2015-04-13",
+            "latitude": 43.793301,
+            "name": "COTTAGE GROVE 2.7 E, OR US",
+            "datacoverage": 0.9993,
+            "id": "GHCND:US1ORLA0134",
+            "elevationUnit": "METERS",
+            "longitude": -123.001822
+        },
+        {
+            "elevation": 135,
+            "mindate": "2008-02-01",
+            "maxdate": "2012-12-12",
+            "latitude": 43.998521,
+            "name": "WALTON 4 SW, OR US",
+            "datacoverage": 0.8304,
+            "id": "GHCND:US1ORLA0135",
+            "elevationUnit": "METERS",
+            "longitude": -123.654351
+        },
+        {
+            "elevation": 237.7,
+            "mindate": "2008-02-01",
+            "maxdate": "2014-08-01",
+            "latitude": 43.979906,
+            "name": "EUGENE 5.8 SSE, OR US",
+            "datacoverage": 1,
+            "id": "GHCND:US1ORLA0136",
+            "elevationUnit": "METERS",
+            "longitude": -123.053728
+        },
+        {
+            "elevation": 137.5,
+            "mindate": "2007-12-01",
+            "maxdate": "2010-12-13",
+            "latitude": 44.0708,
+            "name": "SPRINGFIELD 2.1 NW, OR US",
+            "datacoverage": 0.9993,
+            "id": "GHCND:US1ORLA0137",
+            "elevationUnit": "METERS",
+            "longitude": -123.012
+        },
+        {
+            "elevation": 267.3,
+            "mindate": "2008-04-01",
+            "maxdate": "2011-11-18",
+            "latitude": 44.002126,
+            "name": "EUGENE 3.6 S, OR US",
+            "datacoverage": 0.9819,
+            "id": "GHCND:US1ORLA0139",
+            "elevationUnit": "METERS",
+            "longitude": -123.09909
+        },
+        {
+            "elevation": 114.3,
+            "mindate": "2008-06-01",
+            "maxdate": "2010-02-06",
+            "latitude": 44.13002,
+            "name": "SANTA CLARA 1.1 NNW, OR US",
+            "datacoverage": 0.7156,
+            "id": "GHCND:US1ORLA0140",
+            "elevationUnit": "METERS",
+            "longitude": -123.139317
+        },
+        {
+            "elevation": 61.6,
+            "mindate": "2010-06-01",
+            "maxdate": "2018-11-13",
+            "latitude": 44.054423,
+            "name": "SWISSHOME 4.3 ESE, OR US",
+            "datacoverage": 1,
+            "id": "GHCND:US1ORLA0141",
+            "elevationUnit": "METERS",
+            "longitude": -123.715772
+        },
+        {
+            "elevation": 127.1,
+            "mindate": "2008-12-01",
+            "maxdate": "2010-05-11",
+            "latitude": 44.072055,
+            "name": "EUGENE 2.2 NE, OR US",
+            "datacoverage": 1,
+            "id": "GHCND:US1ORLA0144",
+            "elevationUnit": "METERS",
+            "longitude": -123.075763
+        },
+        {
+            "elevation": 262.1,
+            "mindate": "1999-04-01",
+            "maxdate": "2012-11-01",
+            "latitude": 43.690569,
+            "name": "COTTAGE GROVE 7.4 S, OR US",
+            "datacoverage": 0.4771,
+            "id": "GHCND:US1ORLA0147",
+            "elevationUnit": "METERS",
+            "longitude": -123.058432
+        },
+        {
+            "elevation": 194.2,
+            "mindate": "2010-09-01",
+            "maxdate": "2017-08-03",
+            "latitude": 44.026783,
+            "name": "EUGENE 3.5 ESE, OR US",
+            "datacoverage": 0.9852,
+            "id": "GHCND:US1ORLA0154",
+            "elevationUnit": "METERS",
+            "longitude": -123.05099
+        },
+        {
+            "elevation": 150.9,
+            "mindate": "2010-12-01",
+            "maxdate": "2016-04-04",
+            "latitude": 44.050525,
+            "name": "SPRINGFIELD 1.4 E, OR US",
+            "datacoverage": 1,
+            "id": "GHCND:US1ORLA0156",
+            "elevationUnit": "METERS",
+            "longitude": -122.948417
+        },
+        {
+            "elevation": 183.2,
+            "mindate": "2013-05-01",
+            "maxdate": "2020-05-16",
+            "latitude": 44.0336,
+            "name": "EUGENE 2.7 ESE, OR US",
+            "datacoverage": 0.828,
+            "id": "GHCND:US1ORLA0160",
+            "elevationUnit": "METERS",
+            "longitude": -123.0648
+        },
+        {
+            "elevation": 144.2,
+            "mindate": "2012-12-01",
+            "maxdate": "2014-10-25",
+            "latitude": 44.0045044,
+            "name": "EUGENE 6.5 ESE, OR US",
+            "datacoverage": 1,
+            "id": "GHCND:US1ORLA0162",
+            "elevationUnit": "METERS",
+            "longitude": -123.0003806
+        },
+        {
+            "elevation": 260,
+            "mindate": "2013-01-01",
+            "maxdate": "2018-09-16",
+            "latitude": 43.7059745788574,
+            "name": "COTTAGE GROVE 7.4 SSE, OR US",
+            "datacoverage": 1,
+            "id": "GHCND:US1ORLA0163",
+            "elevationUnit": "METERS",
+            "longitude": -122.978996276855
+        },
+        {
+            "elevation": 129.8,
+            "mindate": "2013-03-01",
+            "maxdate": "2018-05-08",
+            "latitude": 44.0845184326172,
+            "name": "EUGENE 3.4 NE, OR US",
+            "datacoverage": 0.9993,
+            "id": "GHCND:US1ORLA0166",
+            "elevationUnit": "METERS",
+            "longitude": -123.058837890625
+        },
+        {
+            "elevation": 257.6,
+            "mindate": "2013-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 43.7120819091797,
+            "name": "COTTAGE GROVE 7.0 SSE, OR US",
+            "datacoverage": 0.9995,
+            "id": "GHCND:US1ORLA0167",
+            "elevationUnit": "METERS",
+            "longitude": -122.979354858398
+        },
+        {
+            "elevation": 135,
+            "mindate": "2013-12-01",
+            "maxdate": "2020-05-16",
+            "latitude": 44.0826110839844,
+            "name": "ELMIRA 3.9 WNW, OR US",
+            "datacoverage": 1,
+            "id": "GHCND:US1ORLA0169",
+            "elevationUnit": "METERS",
+            "longitude": -123.430923461914
+        },
+        {
+            "elevation": 179.5,
+            "mindate": "2014-03-01",
+            "maxdate": "2020-05-17",
+            "latitude": 43.830663,
+            "name": "LORANE 5.1 W, OR US",
+            "datacoverage": 0.9986,
+            "id": "GHCND:US1ORLA0171",
+            "elevationUnit": "METERS",
+            "longitude": -123.340223
+        },
+        {
+            "elevation": 152.7,
+            "mindate": "2014-10-01",
+            "maxdate": "2016-10-01",
+            "latitude": 44.02743,
+            "name": "EUGENE 1.9 SSE, OR US",
+            "datacoverage": 0.9998,
+            "id": "GHCND:US1ORLA0173",
+            "elevationUnit": "METERS",
+            "longitude": -123.099774
+        },
+        {
+            "elevation": 230.4,
+            "mindate": "2015-01-01",
+            "maxdate": "2016-08-10",
+            "latitude": 43.830264,
+            "name": "COTTAGE GROVE 2.3 N, OR US",
+            "datacoverage": 1,
+            "id": "GHCND:US1ORLA0174",
+            "elevationUnit": "METERS",
+            "longitude": -123.054512
+        },
+        {
+            "elevation": 199.9,
+            "mindate": "1998-06-01",
+            "maxdate": "2017-11-12",
+            "latitude": 43.796058,
+            "name": "COTTAGE GROVE 0.2 ESE, OR US",
+            "datacoverage": 0.2227,
+            "id": "GHCND:US1ORLA0175",
+            "elevationUnit": "METERS",
+            "longitude": -123.052375
+        },
+        {
+            "elevation": 296.6,
+            "mindate": "2015-07-01",
+            "maxdate": "2020-05-17",
+            "latitude": 44.109859,
+            "name": "NIMROD 0.3 SSW, OR US",
+            "datacoverage": 1,
+            "id": "GHCND:US1ORLA0176",
+            "elevationUnit": "METERS",
+            "longitude": -122.424842
+        },
+        {
+            "elevation": 13.1,
+            "mindate": "2015-10-01",
+            "maxdate": "2019-01-20",
+            "latitude": 44.2237693816423,
+            "name": "YACHATS 6.1 S, OR US",
+            "datacoverage": 0.998,
+            "id": "GHCND:US1ORLA0178",
+            "elevationUnit": "METERS",
+            "longitude": -124.104461297393
+        },
+        {
+            "elevation": 123.1,
+            "mindate": "2015-11-11",
+            "maxdate": "2020-05-17",
+            "latitude": 44.083035,
+            "name": "EUGENE 2.1 NNW, OR US",
+            "datacoverage": 0.8661,
+            "id": "GHCND:US1ORLA0179",
+            "elevationUnit": "METERS",
+            "longitude": -123.121758
+        },
+        {
+            "elevation": 137.5,
+            "mindate": "2016-01-30",
+            "maxdate": "2020-05-17",
+            "latitude": 44.0283088684082,
+            "name": "SPRINGFIELD 2.8 SW, OR US",
+            "datacoverage": 1,
+            "id": "GHCND:US1ORLA0180",
+            "elevationUnit": "METERS",
+            "longitude": -123.022666931152
+        },
+        {
+            "elevation": 172.8,
+            "mindate": "2016-03-26",
+            "maxdate": "2017-01-03",
+            "latitude": 44.012787,
+            "name": "EUGENE 3.0 SSE, OR US",
+            "datacoverage": 1,
+            "id": "GHCND:US1ORLA0183",
+            "elevationUnit": "METERS",
+            "longitude": -123.091785
+        },
+        {
+            "elevation": 153.9,
+            "mindate": "2017-08-04",
+            "maxdate": "2020-05-17",
+            "latitude": 44.040161,
+            "name": "EUGENE 2.7 ESE, OR US",
+            "datacoverage": 0.8762,
+            "id": "GHCND:US1ORLA0186",
+            "elevationUnit": "METERS",
+            "longitude": -123.06134
+        },
+        {
+            "elevation": 239.9,
+            "mindate": "2018-01-01",
+            "maxdate": "2019-05-15",
+            "latitude": 44.14,
+            "name": "JUNCTION CITY 8.8 SW, OR US",
+            "datacoverage": 0.7179,
+            "id": "GHCND:US1ORLA0189",
+            "elevationUnit": "METERS",
+            "longitude": -123.345
+        },
+        {
+            "elevation": 216.1,
+            "mindate": "2017-12-18",
+            "maxdate": "2020-05-17",
+            "latitude": 44.02704,
+            "name": "EUGENE 2.3 SW, OR US",
+            "datacoverage": 0.7574,
+            "id": "GHCND:US1ORLA0190",
+            "elevationUnit": "METERS",
+            "longitude": -123.14097
+        },
+        {
+            "elevation": 139,
+            "mindate": "2017-10-23",
+            "maxdate": "2020-05-17",
+            "latitude": 44.132372,
+            "name": "JUNCTION CITY 8.6 SW, OR US",
+            "datacoverage": 1,
+            "id": "GHCND:US1ORLA0191",
+            "elevationUnit": "METERS",
+            "longitude": -123.328529
+        },
+        {
+            "elevation": 369.7,
+            "mindate": "2017-11-16",
+            "maxdate": "2020-05-17",
+            "latitude": 43.7480327,
+            "name": "OAKRIDGE 0.5 E, OR US",
+            "datacoverage": 0.6039,
+            "id": "GHCND:US1ORLA0193",
+            "elevationUnit": "METERS",
+            "longitude": -122.4626055
+        },
+        {
+            "elevation": 125,
+            "mindate": "2017-11-19",
+            "maxdate": "2018-10-11",
+            "latitude": 44.044939,
+            "name": "EUGENE 0.8 SW, OR US",
+            "datacoverage": 0.9011,
+            "id": "GHCND:US1ORLA0194",
+            "elevationUnit": "METERS",
+            "longitude": -123.122786
+        },
+        {
+            "elevation": 221,
+            "mindate": "2017-11-19",
+            "maxdate": "2020-05-17",
+            "latitude": 44.213205,
+            "name": "BLACHLY 2.1 NE, OR US",
+            "datacoverage": 0.8973,
+            "id": "GHCND:US1ORLA0195",
+            "elevationUnit": "METERS",
+            "longitude": -123.500446
+        },
+        {
+            "elevation": 115.8,
+            "mindate": "2017-11-18",
+            "maxdate": "2020-05-17",
+            "latitude": 44.116814,
+            "name": "EUGENE 4.7 NNW, OR US",
+            "datacoverage": 0.7928,
+            "id": "GHCND:US1ORLA0197",
+            "elevationUnit": "METERS",
+            "longitude": -123.143494
+        },
+        {
+            "elevation": 247.8,
+            "mindate": "2017-11-17",
+            "maxdate": "2020-05-17",
+            "latitude": 44.019089,
+            "name": "EUGENE 2.4 S, OR US",
+            "datacoverage": 0.8927,
+            "id": "GHCND:US1ORLA0198",
+            "elevationUnit": "METERS",
+            "longitude": -123.104568
+        },
+        {
+            "elevation": 106.7,
+            "mindate": "2017-11-21",
+            "maxdate": "2020-05-17",
+            "latitude": 44.244376,
+            "name": "JUNCTION CITY 7.3 WNW, OR US",
+            "datacoverage": 0.9538,
+            "id": "GHCND:US1ORLA0200",
+            "elevationUnit": "METERS",
+            "longitude": -123.346634
+        },
+        {
+            "elevation": 240.2,
+            "mindate": "2018-02-01",
+            "maxdate": "2020-05-06",
+            "latitude": 44.195393,
+            "name": "BLACHLY 0.5 W, OR US",
+            "datacoverage": 0.6379,
+            "id": "GHCND:US1ORLA0201",
+            "elevationUnit": "METERS",
+            "longitude": -123.544375
+        },
+        {
+            "elevation": 140.5,
+            "mindate": "2018-09-12",
+            "maxdate": "2020-05-16",
+            "latitude": 44.067459,
+            "name": "SPRINGFIELD 1.6 NW, OR US",
+            "datacoverage": 0.946,
+            "id": "GHCND:US1ORLA0203",
+            "elevationUnit": "METERS",
+            "longitude": -123.001724
+        },
+        {
+            "elevation": 25,
+            "mindate": "2018-10-16",
+            "maxdate": "2020-05-17",
+            "latitude": 44.00209,
+            "name": "FLORENCE 1.1 N, OR US",
+            "datacoverage": 0.9707,
+            "id": "GHCND:US1ORLA0204",
+            "elevationUnit": "METERS",
+            "longitude": -124.104355
+        },
+        {
+            "elevation": 115.5,
+            "mindate": "2018-11-24",
+            "maxdate": "2019-09-07",
+            "latitude": 44.12222,
+            "name": "EUGENE 4.9 NNW, OR US",
+            "datacoverage": 0.8959,
+            "id": "GHCND:US1ORLA0205",
+            "elevationUnit": "METERS",
+            "longitude": -123.1321
+        },
+        {
+            "elevation": 120.1,
+            "mindate": "2019-01-01",
+            "maxdate": "2020-05-14",
+            "latitude": 44.060306,
+            "name": "VENETA 2.1 ENE, OR US",
+            "datacoverage": 1,
+            "id": "GHCND:US1ORLA0206",
+            "elevationUnit": "METERS",
+            "longitude": -123.313319
+        },
+        {
+            "elevation": 239.9,
+            "mindate": "2019-03-27",
+            "maxdate": "2020-05-17",
+            "latitude": 43.89578,
+            "name": "EUGENE 12.7 SSW, OR US",
+            "datacoverage": 0.9306,
+            "id": "GHCND:US1ORLA0208",
+            "elevationUnit": "METERS",
+            "longitude": -123.24628
+        },
+        {
+            "elevation": 35.1,
+            "mindate": "2007-12-01",
+            "maxdate": "2020-05-17",
+            "latitude": 44.689808,
+            "name": "NEWPORT 5.1 N, OR US",
+            "datacoverage": 0.9999,
+            "id": "GHCND:US1ORLC0001",
+            "elevationUnit": "METERS",
+            "longitude": -124.065527
+        },
+        {
+            "elevation": 27.4,
+            "mindate": "2008-11-01",
+            "maxdate": "2020-05-17",
+            "latitude": 44.621,
+            "name": "TOLEDO 0.2 W, OR US",
+            "datacoverage": 1,
+            "id": "GHCND:US1ORLC0002",
+            "elevationUnit": "METERS",
+            "longitude": -123.937
+        },
+        {
+            "elevation": 49.4,
+            "mindate": "2007-12-01",
+            "maxdate": "2010-05-27",
+            "latitude": 44.6122,
+            "name": "TOLEDO 1 SE, OR US",
+            "datacoverage": 1,
+            "id": "GHCND:US1ORLC0003",
+            "elevationUnit": "METERS",
+            "longitude": -123.9197
+        },
+        {
+            "elevation": 117.7,
+            "mindate": "2008-02-01",
+            "maxdate": "2009-06-01",
+            "latitude": 44.491,
+            "name": "WALDPORT 5.2 NNE, OR US",
+            "datacoverage": 0.8848,
+            "id": "GHCND:US1ORLC0005",
+            "elevationUnit": "METERS",
+            "longitude": -124.023
+        },
+        {
+            "elevation": 32.3,
+            "mindate": "2008-10-01",
+            "maxdate": "2020-05-16",
+            "latitude": 44.812152,
+            "name": "DEPOE BAY 0.2 NW, OR US",
+            "datacoverage": 1,
+            "id": "GHCND:US1ORLC0007",
+            "elevationUnit": "METERS",
+            "longitude": -124.060662
+        },
+        {
+            "elevation": 1.8,
+            "mindate": "2009-06-01",
+            "maxdate": "2016-09-18",
+            "latitude": 44.429525,
+            "name": "WALDPORT 0.6 N, OR US",
+            "datacoverage": 0.9999,
+            "id": "GHCND:US1ORLC0008",
+            "elevationUnit": "METERS",
+            "longitude": -124.063004
+        },
+        {
+            "elevation": 26.2,
+            "mindate": "2010-01-01",
+            "maxdate": "2010-07-05",
+            "latitude": 44.80225,
+            "name": "DEPOE BAY 0.5 S, OR US",
+            "datacoverage": 1,
+            "id": "GHCND:US1ORLC0009",
+            "elevationUnit": "METERS",
+            "longitude": -124.05915
+        },
+        {
+            "elevation": 15.5,
+            "mindate": "2012-01-01",
+            "maxdate": "2012-08-29",
+            "latitude": 44.8849,
+            "name": "GLENEDEN BEACH 0.3 N, OR US",
+            "datacoverage": 1,
+            "id": "GHCND:US1ORLC0010",
+            "elevationUnit": "METERS",
+            "longitude": -124.0345
+        },
+        {
+            "elevation": 16.5,
+            "mindate": "2012-02-01",
+            "maxdate": "2020-05-16",
+            "latitude": 44.4169005006552,
+            "name": "WALDPORT 1.0 WSW, OR US",
+            "datacoverage": 1,
+            "id": "GHCND:US1ORLC0011",
+            "elevationUnit": "METERS",
+            "longitude": -124.082402139902
+        },
+        {
+            "elevation": 34.1,
+            "mindate": "2012-10-01",
+            "maxdate": "2014-12-31",
+            "latitude": 44.57546,
+            "name": "SOUTH BEACH 2.7 SW, OR US",
+            "datacoverage": 1,
+            "id": "GHCND:US1ORLC0012",
+            "elevationUnit": "METERS",
+            "longitude": -124.06752
+        },
+        {
+            "elevation": 55.2,
+            "mindate": "2013-01-01",
+            "maxdate": "2018-01-31",
+            "latitude": 44.677341,
+            "name": "NEWPORT 4.2 N, OR US",
+            "datacoverage": 1,
+            "id": "GHCND:US1ORLC0013",
+            "elevationUnit": "METERS",
+            "longitude": -124.059231
+        },
+        {
+            "elevation": 25.9,
+            "mindate": "2012-12-01",
+            "maxdate": "2020-05-16",
+            "latitude": 44.4166282564402,
+            "name": "WALDPORT 1.0 ESE, OR US",
+            "datacoverage": 1,
+            "id": "GHCND:US1ORLC0015",
+            "elevationUnit": "METERS",
+            "longitude": -124.04502555728
+        },
+        {
+            "elevation": 47.9,
+            "mindate": "2012-12-01",
+            "maxdate": "2014-03-09",
+            "latitude": 44.678132,
+            "name": "NEWPORT 4.3 N, OR US",
+            "datacoverage": 1,
+            "id": "GHCND:US1ORLC0018",
+            "elevationUnit": "METERS",
+            "longitude": -124.06431
+        },
+        {
+            "elevation": 15.2,
+            "mindate": "2012-12-01",
+            "maxdate": "2013-08-27",
+            "latitude": 44.6556761115789,
+            "name": "NEWPORT 2.7 N, OR US",
+            "datacoverage": 1,
+            "id": "GHCND:US1ORLC0020",
+            "elevationUnit": "METERS",
+            "longitude": -124.044331535697
+        },
+        {
+            "elevation": 43,
+            "mindate": "2013-01-01",
+            "maxdate": "2013-06-28",
+            "latitude": 44.7215706110001,
+            "name": "SILETZ 0.0 SW, OR US",
+            "datacoverage": 1,
+            "id": "GHCND:US1ORLC0021",
+            "elevationUnit": "METERS",
+            "longitude": -123.917168676853
+        },
+        {
+            "elevation": 23.8,
+            "mindate": "2013-07-01",
+            "maxdate": "2017-10-28",
+            "latitude": 44.76151,
+            "name": "SILETZ 2.9 NNE, OR US",
+            "datacoverage": 1,
+            "id": "GHCND:US1ORLC0023",
+            "elevationUnit": "METERS",
+            "longitude": -123.899132
+        },
+        {
+            "elevation": 7.6,
+            "mindate": "2016-03-26",
+            "maxdate": "2020-05-16",
+            "latitude": 44.5979537963867,
+            "name": "NEWPORT 1.4 SSW, OR US",
+            "datacoverage": 0.3589,
+            "id": "GHCND:US1ORLC0026",
+            "elevationUnit": "METERS",
+            "longitude": -124.06559753418
+        },
+        {
+            "elevation": 13.1,
+            "mindate": "2016-11-13",
+            "maxdate": "2020-05-17",
+            "latitude": 44.313706,
+            "name": "YACHATS 0.4 WNW, OR US",
+            "datacoverage": 0.8489,
+            "id": "GHCND:US1ORLC0027",
+            "elevationUnit": "METERS",
+            "longitude": -124.107972
+        },
+        {
+            "elevation": 29.3,
+            "mindate": "2017-11-18",
+            "maxdate": "2020-04-03",
+            "latitude": 44.981983,
+            "name": "LINCOLN CITY 0.7 NNW, OR US",
+            "datacoverage": 0.6947,
+            "id": "GHCND:US1ORLC0028",
+            "elevationUnit": "METERS",
+            "longitude": -124.014239
+        },
+        {
+            "elevation": 35.7,
+            "mindate": "2017-06-03",
+            "maxdate": "2020-05-16",
+            "latitude": 44.63103,
+            "name": "NEWPORT 1.1 NNW, OR US",
+            "datacoverage": 0.5443,
+            "id": "GHCND:US1ORLC0029",
+            "elevationUnit": "METERS",
+            "longitude": -124.0622
+        },
+        {
+            "elevation": 18.3,
+            "mindate": "2018-03-19",
+            "maxdate": "2020-05-17",
+            "latitude": 44.8573,
+            "name": "DEPOE BAY 3.4 NNE, OR US",
+            "datacoverage": 0.9599,
+            "id": "GHCND:US1ORLC0031",
+            "elevationUnit": "METERS",
+            "longitude": -124.0424
+        },
+        {
+            "elevation": 1460.6,
+            "mindate": "2008-05-01",
+            "maxdate": "2011-10-05",
+            "latitude": 42.218247,
+            "name": "LAKEVIEW 2.2 NNW, OR US",
+            "datacoverage": 0.8091,
+            "id": "GHCND:US1ORLK0004",
+            "elevationUnit": "METERS",
+            "longitude": -120.363997
+        },
+        {
+            "elevation": 1335.6,
+            "mindate": "2012-04-01",
+            "maxdate": "2019-01-05",
+            "latitude": 42.694292,
+            "name": "PAISLEY 0.2 WNW, OR US",
+            "datacoverage": 1,
+            "id": "GHCND:US1ORLK0007",
+            "elevationUnit": "METERS",
+            "longitude": -120.548722
+        },
+        {
+            "elevation": 1329.2,
+            "mindate": "2014-06-01",
+            "maxdate": "2019-10-19",
+            "latitude": 43.33072,
+            "name": "CHRISTMAS VALLEY 9.1 NW, OR US",
+            "datacoverage": 0.6464,
+            "id": "GHCND:US1ORLK0009",
+            "elevationUnit": "METERS",
+            "longitude": -120.79004
+        },
+        {
+            "elevation": 131.7,
+            "mindate": "2007-11-01",
+            "maxdate": "2020-05-17",
+            "latitude": 44.544,
+            "name": "LEBANON 4.8 E, OR US",
+            "datacoverage": 1,
+            "id": "GHCND:US1ORLN0001",
+            "elevationUnit": "METERS",
+            "longitude": -122.807
+        },
+        {
+            "elevation": 254.8,
+            "mindate": "2007-12-01",
+            "maxdate": "2013-12-06",
+            "latitude": 44.4077,
+            "name": "SWEET HOME 2.6 E, OR US",
+            "datacoverage": 0.9174,
+            "id": "GHCND:US1ORLN0002",
+            "elevationUnit": "METERS",
+            "longitude": -122.6501
+        },
+        {
+            "elevation": 69.5,
+            "mindate": "2007-12-01",
+            "maxdate": "2020-05-17",
+            "latitude": 44.611,
+            "name": "ALBANY 0.5 SE, OR US",
+            "datacoverage": 1,
+            "id": "GHCND:US1ORLN0003",
+            "elevationUnit": "METERS",
+            "longitude": -123.0853
+        },
+        {
+            "elevation": 85.6,
+            "mindate": "2007-11-01",
+            "maxdate": "2020-05-17",
+            "latitude": 44.669439,
+            "name": "SCIO 4.2 SW, OR US",
+            "datacoverage": 1,
+            "id": "GHCND:US1ORLN0004",
+            "elevationUnit": "METERS",
+            "longitude": -122.918402
+        },
+        {
+            "elevation": 190.2,
+            "mindate": "2007-12-01",
+            "maxdate": "2020-04-30",
+            "latitude": 44.6833,
+            "name": "SCIO 2.3 SW, OR US",
+            "datacoverage": 0.9999,
+            "id": "GHCND:US1ORLN0005",
+            "elevationUnit": "METERS",
+            "longitude": -122.8833
+        },
+        {
+            "elevation": 196.9,
+            "mindate": "2007-12-01",
+            "maxdate": "2020-05-17",
+            "latitude": 44.396808,
+            "name": "SWEET HOME 1.0 ESE, OR US",
+            "datacoverage": 1,
+            "id": "GHCND:US1ORLN0006",
+            "elevationUnit": "METERS",
+            "longitude": -122.683994
+        },
+        {
+            "elevation": 175,
+            "mindate": "2007-12-01",
+            "maxdate": "2020-05-17",
+            "latitude": 44.3486,
+            "name": "SWEET HOME 5.0 SW, OR US",
+            "datacoverage": 0.9999,
+            "id": "GHCND:US1ORLN0007",
+            "elevationUnit": "METERS",
+            "longitude": -122.771
+        },
+        {
+            "elevation": 123.1,
+            "mindate": "2007-12-01",
+            "maxdate": "2020-05-17",
+            "latitude": 44.418729,
+            "name": "BROWNSVILLE 3.0 NW, OR US",
+            "datacoverage": 0.9999,
+            "id": "GHCND:US1ORLN0008",
+            "elevationUnit": "METERS",
+            "longitude": -123.030401
+        },
+        {
+            "elevation": 140.5,
+            "mindate": "2008-01-01",
+            "maxdate": "2015-12-24",
+            "latitude": 44.57569,
+            "name": "LACOMB 1 W, OR US",
+            "datacoverage": 0.4271,
+            "id": "GHCND:US1ORLN0011",
+            "elevationUnit": "METERS",
+            "longitude": -122.77574
+        },
+        {
+            "elevation": 518.2,
+            "mindate": "2007-10-01",
+            "maxdate": "2020-05-17",
+            "latitude": 44.757059,
+            "name": "LYONS 1.6 SSW, OR US",
+            "datacoverage": 0.9999,
+            "id": "GHCND:US1ORLN0012",
+            "elevationUnit": "METERS",
+            "longitude": -122.624461
+        },
+        {
+            "elevation": 69.2,
+            "mindate": "2007-12-01",
+            "maxdate": "2008-07-25",
+            "latitude": 44.623,
+            "name": "ALBANY 0.5 NE, OR US",
+            "datacoverage": 0.998,
+            "id": "GHCND:US1ORLN0013",
+            "elevationUnit": "METERS",
+            "longitude": -123.085
+        },
+        {
+            "elevation": 98.5,
+            "mindate": "2008-01-01",
+            "maxdate": "2011-01-22",
+            "latitude": 44.5417,
+            "name": "LEBANON 1.1 WNW, OR US",
+            "datacoverage": 0.5672,
+            "id": "GHCND:US1ORLN0015",
+            "elevationUnit": "METERS",
+            "longitude": -122.9236
+        },
+        {
+            "elevation": 109.1,
+            "mindate": "2007-12-01",
+            "maxdate": "2020-05-17",
+            "latitude": 44.5164,
+            "name": "LEBANON 1.4 SSW, OR US",
+            "datacoverage": 0.9999,
+            "id": "GHCND:US1ORLN0016",
+            "elevationUnit": "METERS",
+            "longitude": -122.9171
+        },
+        {
+            "elevation": 219.8,
+            "mindate": "2008-01-01",
+            "maxdate": "2011-01-12",
+            "latitude": 44.4192,
+            "name": "SWEET HOME 2.0 NE, OR US",
+            "datacoverage": 0.9993,
+            "id": "GHCND:US1ORLN0017",
+            "elevationUnit": "METERS",
+            "longitude": -122.671
+        },
+        {
+            "elevation": 68,
+            "mindate": "2008-01-01",
+            "maxdate": "2015-03-09",
+            "latitude": 44.5682,
+            "name": "CORVALLIS 3.5 E, OR US",
+            "datacoverage": 1,
+            "id": "GHCND:US1ORLN0018",
+            "elevationUnit": "METERS",
+            "longitude": -123.205
+        },
+        {
+            "elevation": 507.8,
+            "mindate": "2007-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 44.747519,
+            "name": "LYONS 2.1 S, OR US",
+            "datacoverage": 1,
+            "id": "GHCND:US1ORLN0020",
+            "elevationUnit": "METERS",
+            "longitude": -122.606872
+        },
+        {
+            "elevation": 109.1,
+            "mindate": "2008-02-01",
+            "maxdate": "2009-12-01",
+            "latitude": 44.5204,
+            "name": "LEBANON 1.0 S, OR US",
+            "datacoverage": 1,
+            "id": "GHCND:US1ORLN0021",
+            "elevationUnit": "METERS",
+            "longitude": -122.90046
+        },
+        {
+            "elevation": 292.6,
+            "mindate": "2008-08-01",
+            "maxdate": "2018-03-24",
+            "latitude": 44.424233,
+            "name": "SWEET HOME 2.0 NE, OR US",
+            "datacoverage": 1,
+            "id": "GHCND:US1ORLN0024",
+            "elevationUnit": "METERS",
+            "longitude": -122.670283
+        },
+        {
+            "elevation": 353,
+            "mindate": "2009-02-01",
+            "maxdate": "2009-11-20",
+            "latitude": 44.74427,
+            "name": "GATES 1.1 SE, OR US",
+            "datacoverage": 0.9925,
+            "id": "GHCND:US1ORLN0026",
+            "elevationUnit": "METERS",
+            "longitude": -122.403231
+        },
+        {
+            "elevation": 259.4,
+            "mindate": "2009-04-01",
+            "maxdate": "2013-01-10",
+            "latitude": 44.748543,
+            "name": "MILL CITY 0.4 WSW, OR US",
+            "datacoverage": 1,
+            "id": "GHCND:US1ORLN0028",
+            "elevationUnit": "METERS",
+            "longitude": -122.483752
+        },
+        {
+            "elevation": 248.7,
+            "mindate": "2012-05-01",
+            "maxdate": "2020-05-17",
+            "latitude": 44.3177519738674,
+            "name": "BROWNSVILLE 5.2 S, OR US",
+            "datacoverage": 0.9997,
+            "id": "GHCND:US1ORLN0030",
+            "elevationUnit": "METERS",
+            "longitude": -122.982866093516
+        },
+        {
+            "elevation": 111.3,
+            "mindate": "2012-12-01",
+            "maxdate": "2020-05-17",
+            "latitude": 44.63657,
+            "name": "SCIO 5.1 SSE, OR US",
+            "datacoverage": 0.9504,
+            "id": "GHCND:US1ORLN0032",
+            "elevationUnit": "METERS",
+            "longitude": -122.810738
+        },
+        {
+            "elevation": 67.4,
+            "mindate": "2012-12-01",
+            "maxdate": "2020-05-17",
+            "latitude": 44.6454315185547,
+            "name": "ALBANY 2.7 NE, OR US",
+            "datacoverage": 1,
+            "id": "GHCND:US1ORLN0033",
+            "elevationUnit": "METERS",
+            "longitude": -123.054618835449
+        },
+        {
+            "elevation": 233.8,
+            "mindate": "2012-12-01",
+            "maxdate": "2020-05-16",
+            "latitude": 44.4627914428711,
+            "name": "LEBANON 5.2 SSE, OR US",
+            "datacoverage": 1,
+            "id": "GHCND:US1ORLN0034",
+            "elevationUnit": "METERS",
+            "longitude": -122.875198364258
+        },
+        {
+            "elevation": 139.6,
+            "mindate": "2012-11-01",
+            "maxdate": "2018-05-23",
+            "latitude": 44.737178,
+            "name": "SCIO 2.2 N, OR US",
+            "datacoverage": 1,
+            "id": "GHCND:US1ORLN0039",
+            "elevationUnit": "METERS",
+            "longitude": -122.842436
+        },
+        {
+            "elevation": 72.5,
+            "mindate": "2012-12-01",
+            "maxdate": "2020-05-17",
+            "latitude": 44.602222,
+            "name": "ALBANY 1.1 SSE, OR US",
+            "datacoverage": 1,
+            "id": "GHCND:US1ORLN0042",
+            "elevationUnit": "METERS",
+            "longitude": -123.084444
+        },
+        {
+            "elevation": 74.1,
+            "mindate": "2012-12-01",
+            "maxdate": "2020-05-17",
+            "latitude": 44.68443,
+            "name": "ALBANY 4.9 NNE, OR US",
+            "datacoverage": 0.9004,
+            "id": "GHCND:US1ORLN0043",
+            "elevationUnit": "METERS",
+            "longitude": -123.06352
+        },
+        {
+            "elevation": 69.5,
+            "mindate": "2012-12-01",
+            "maxdate": "2020-05-17",
+            "latitude": 44.6232452392578,
+            "name": "ALBANY 0.7 NE, OR US",
+            "datacoverage": 1,
+            "id": "GHCND:US1ORLN0044",
+            "elevationUnit": "METERS",
+            "longitude": -123.078987121582
+        },
+        {
+            "elevation": 109.7,
+            "mindate": "2013-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 44.5304069,
+            "name": "LEBANON 0.5 SE, OR US",
+            "datacoverage": 0.9752,
+            "id": "GHCND:US1ORLN0045",
+            "elevationUnit": "METERS",
+            "longitude": -122.896784
+        },
+        {
+            "elevation": 66.1,
+            "mindate": "2013-01-01",
+            "maxdate": "2014-11-14",
+            "latitude": 44.6137619018555,
+            "name": "ALBANY 1.3 W, OR US",
+            "datacoverage": 1,
+            "id": "GHCND:US1ORLN0046",
+            "elevationUnit": "METERS",
+            "longitude": -123.118156433105
+        },
+        {
+            "elevation": 72.8,
+            "mindate": "2013-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 44.5873336791992,
+            "name": "ALBANY 2.1 S, OR US",
+            "datacoverage": 1,
+            "id": "GHCND:US1ORLN0047",
+            "elevationUnit": "METERS",
+            "longitude": -123.095756530762
+        },
+        {
+            "elevation": 65.2,
+            "mindate": "2013-01-01",
+            "maxdate": "2013-11-15",
+            "latitude": 44.599556,
+            "name": "ALBANY 2.5 WSW, OR US",
+            "datacoverage": 1,
+            "id": "GHCND:US1ORLN0048",
+            "elevationUnit": "METERS",
+            "longitude": -123.136803
+        },
+        {
+            "elevation": 71,
+            "mindate": "2012-08-11",
+            "maxdate": "2020-05-15",
+            "latitude": 44.5834348350763,
+            "name": "ALBANY 5.0 WSW, OR US",
+            "datacoverage": 1,
+            "id": "GHCND:US1ORLN0050",
+            "elevationUnit": "METERS",
+            "longitude": -123.181690201163
+        },
+        {
+            "elevation": 126.5,
+            "mindate": "2014-10-01",
+            "maxdate": "2020-05-17",
+            "latitude": 44.481496,
+            "name": "LEBANON 6.0 SE, OR US",
+            "datacoverage": 1,
+            "id": "GHCND:US1ORLN0054",
+            "elevationUnit": "METERS",
+            "longitude": -122.808504
+        },
+        {
+            "elevation": 150.3,
+            "mindate": "2014-11-01",
+            "maxdate": "2020-05-17",
+            "latitude": 44.535,
+            "name": "LEBANON 2.3 E, OR US",
+            "datacoverage": 1,
+            "id": "GHCND:US1ORLN0055",
+            "elevationUnit": "METERS",
+            "longitude": -122.858
+        },
+        {
+            "elevation": 261.2,
+            "mindate": "1998-06-17",
+            "maxdate": "2020-05-08",
+            "latitude": 44.592403,
+            "name": "LEBANON 10.6 ENE, OR US",
+            "datacoverage": 0.9479,
+            "id": "GHCND:US1ORLN0056",
+            "elevationUnit": "METERS",
+            "longitude": -122.7045806
+        },
+        {
+            "elevation": 220.1,
+            "mindate": "2001-05-16",
+            "maxdate": "2020-05-17",
+            "latitude": 44.303139,
+            "name": "SWEET HOME 6.8 S, OR US",
+            "datacoverage": 1,
+            "id": "GHCND:US1ORLN0057",
+            "elevationUnit": "METERS",
+            "longitude": -122.692298
+        },
+        {
+            "elevation": 150,
+            "mindate": "2014-11-01",
+            "maxdate": "2020-05-17",
+            "latitude": 44.6153450012207,
+            "name": "SCIO 7.2 SSE, OR US",
+            "datacoverage": 1,
+            "id": "GHCND:US1ORLN0058",
+            "elevationUnit": "METERS",
+            "longitude": -122.77473449707
+        },
+        {
+            "elevation": 203.3,
+            "mindate": "2015-04-01",
+            "maxdate": "2020-04-26",
+            "latitude": 44.451124,
+            "name": "LEBANON 11.5 ESE, OR US",
+            "datacoverage": 0.998,
+            "id": "GHCND:US1ORLN0060",
+            "elevationUnit": "METERS",
+            "longitude": -122.703578
+        },
+        {
+            "elevation": 152.4,
+            "mindate": "2016-04-01",
+            "maxdate": "2020-05-17",
+            "latitude": 44.616,
+            "name": "SCIO 7.3 SSE, OR US",
+            "datacoverage": 0.9854,
+            "id": "GHCND:US1ORLN0062",
+            "elevationUnit": "METERS",
+            "longitude": -122.771
+        },
+        {
+            "elevation": 193.9,
+            "mindate": "2016-04-01",
+            "maxdate": "2016-11-07",
+            "latitude": 44.404047,
+            "name": "SWEET HOME 1.0 E, OR US",
+            "datacoverage": 0.998,
+            "id": "GHCND:US1ORLN0063",
+            "elevationUnit": "METERS",
+            "longitude": -122.682025
+        },
+        {
+            "elevation": 103.6,
+            "mindate": "2016-04-01",
+            "maxdate": "2020-05-17",
+            "latitude": 44.392,
+            "name": "BROWNSVILLE 0.1 SE, OR US",
+            "datacoverage": 0.7666,
+            "id": "GHCND:US1ORLN0064",
+            "elevationUnit": "METERS",
+            "longitude": -122.98
+        },
+        {
+            "elevation": 225.6,
+            "mindate": "2016-04-05",
+            "maxdate": "2020-05-17",
+            "latitude": 44.448443,
+            "name": "LEBANON 11.3 ESE, OR US",
+            "datacoverage": 0.6042,
+            "id": "GHCND:US1ORLN0065",
+            "elevationUnit": "METERS",
+            "longitude": -122.7106105
+        },
+        {
+            "elevation": 182.9,
+            "mindate": "2016-05-08",
+            "maxdate": "2020-05-17",
+            "latitude": 44.43432,
+            "name": "LEBANON 7.9 SSE, OR US",
+            "datacoverage": 0.7668,
+            "id": "GHCND:US1ORLN0066",
+            "elevationUnit": "METERS",
+            "longitude": -122.82854
+        },
+        {
+            "elevation": 77.7,
+            "mindate": "2016-10-01",
+            "maxdate": "2020-05-17",
+            "latitude": 44.476582,
+            "name": "SHEDD 1.9 NW, OR US",
+            "datacoverage": 1,
+            "id": "GHCND:US1ORLN0067",
+            "elevationUnit": "METERS",
+            "longitude": -123.142899
+        },
+        {
+            "elevation": 191.7,
+            "mindate": "2016-11-07",
+            "maxdate": "2020-05-17",
+            "latitude": 44.39815,
+            "name": "SWEET HOME 2.2 E, OR US",
+            "datacoverage": 0.8299,
+            "id": "GHCND:US1ORLN0068",
+            "elevationUnit": "METERS",
+            "longitude": -122.65774
+        },
+        {
+            "elevation": 74.7,
+            "mindate": "2016-12-16",
+            "maxdate": "2020-03-16",
+            "latitude": 44.55861111,
+            "name": "TANGENT 0.7 NW, OR US",
+            "datacoverage": 0.2174,
+            "id": "GHCND:US1ORLN0069",
+            "elevationUnit": "METERS",
+            "longitude": -123.1169444
+        },
+        {
+            "elevation": 101.2,
+            "mindate": "2017-03-27",
+            "maxdate": "2020-05-16",
+            "latitude": 44.5848,
+            "name": "LEBANON 5.1 NE, OR US",
+            "datacoverage": 0.9721,
+            "id": "GHCND:US1ORLN0070",
+            "elevationUnit": "METERS",
+            "longitude": -122.8268
+        },
+        {
+            "elevation": 150,
+            "mindate": "2017-04-24",
+            "maxdate": "2020-05-17",
+            "latitude": 44.52452,
+            "name": "LEBANON 5.4 E, OR US",
+            "datacoverage": 0.4464,
+            "id": "GHCND:US1ORLN0072",
+            "elevationUnit": "METERS",
+            "longitude": -122.796681
+        },
+        {
+            "elevation": 416.7,
+            "mindate": "2017-10-01",
+            "maxdate": "2020-05-17",
+            "latitude": 44.446765,
+            "name": "LEBANON 6.1 S, OR US",
+            "datacoverage": 0.7927,
+            "id": "GHCND:US1ORLN0073",
+            "elevationUnit": "METERS",
+            "longitude": -122.899676
+        },
+        {
+            "elevation": 311.5,
+            "mindate": "2017-12-16",
+            "maxdate": "2020-05-17",
+            "latitude": 44.740553,
+            "name": "GATES 1.4 SW, OR US",
+            "datacoverage": 1,
+            "id": "GHCND:US1ORLN0075",
+            "elevationUnit": "METERS",
+            "longitude": -122.438025
+        },
+        {
+            "elevation": 275.2,
+            "mindate": "2017-10-20",
+            "maxdate": "2020-05-17",
+            "latitude": 44.746693,
+            "name": "MILL CITY 0.9 ESE, OR US",
+            "datacoverage": 0.9352,
+            "id": "GHCND:US1ORLN0076",
+            "elevationUnit": "METERS",
+            "longitude": -122.459698
+        },
+        {
+            "elevation": 68.6,
+            "mindate": "2017-11-18",
+            "maxdate": "2020-05-17",
+            "latitude": 44.567852,
+            "name": "CORVALLIS 3.5 E, OR US",
+            "datacoverage": 0.5241,
+            "id": "GHCND:US1ORLN0078",
+            "elevationUnit": "METERS",
+            "longitude": -123.20578
+        },
+        {
+            "elevation": 164.9,
+            "mindate": "2017-11-18",
+            "maxdate": "2020-05-17",
+            "latitude": 44.326581,
+            "name": "SWEET HOME 8.1 SW, OR US",
+            "datacoverage": 0.8191,
+            "id": "GHCND:US1ORLN0079",
+            "elevationUnit": "METERS",
+            "longitude": -122.829034
+        },
+        {
+            "elevation": 185.6,
+            "mindate": "2017-11-23",
+            "maxdate": "2020-05-17",
+            "latitude": 44.38801,
+            "name": "SWEET HOME 1.7 WSW, OR US",
+            "datacoverage": 0.8501,
+            "id": "GHCND:US1ORLN0080",
+            "elevationUnit": "METERS",
+            "longitude": -122.7318
+        },
+        {
+            "elevation": 96.3,
+            "mindate": "2017-12-31",
+            "maxdate": "2020-05-17",
+            "latitude": 44.263784,
+            "name": "HARRISBURG 0.4 SSE, OR US",
+            "datacoverage": 0.6306,
+            "id": "GHCND:US1ORLN0081",
+            "elevationUnit": "METERS",
+            "longitude": -123.160602
+        },
+        {
+            "elevation": 100,
+            "mindate": "2018-01-09",
+            "maxdate": "2020-05-17",
+            "latitude": 44.559492,
+            "name": "LEBANON 1.8 NNW, OR US",
+            "datacoverage": 0.3116,
+            "id": "GHCND:US1ORLN0082",
+            "elevationUnit": "METERS",
+            "longitude": -122.918787
+        },
+        {
+            "elevation": 57,
+            "mindate": "2018-04-01",
+            "maxdate": "2020-02-11",
+            "latitude": 44.71222222,
+            "name": "ALBANY 7.0 NNW, OR US",
+            "datacoverage": 0.8778,
+            "id": "GHCND:US1ORLN0083",
+            "elevationUnit": "METERS",
+            "longitude": -123.1419444
+        },
+        {
+            "elevation": 108.8,
+            "mindate": "2018-11-26",
+            "maxdate": "2020-05-16",
+            "latitude": 44.520658,
+            "name": "LEBANON 1.1 SSW, OR US",
+            "datacoverage": 1,
+            "id": "GHCND:US1ORLN0086",
+            "elevationUnit": "METERS",
+            "longitude": -122.91299
         }
     ]
 }

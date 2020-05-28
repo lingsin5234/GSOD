@@ -2,22 +2,11 @@
     "metadata": {
         "resultset": {
             "offset": 1,
-            "count": 444,
+            "count": 341,
             "limit": 1000
         }
     },
     "results": [
-        {
-            "elevation": 6.1,
-            "mindate": "1941-04-01",
-            "maxdate": "1966-03-01",
-            "latitude": 41.33333,
-            "name": "ANSONIA, CT US",
-            "datacoverage": 0.9534,
-            "id": "COOP:060120",
-            "elevationUnit": "METERS",
-            "longitude": -73.08333
-        },
         {
             "elevation": 41.5,
             "mindate": "1966-01-01",
@@ -41,17 +30,6 @@
             "longitude": -73.0085
         },
         {
-            "elevation": 43,
-            "mindate": "1931-01-01",
-            "maxdate": "1967-02-01",
-            "latitude": 41.61667,
-            "name": "BALTIC, CT US",
-            "datacoverage": 0.9172,
-            "id": "COOP:060251",
-            "elevationUnit": "METERS",
-            "longitude": -72.1
-        },
-        {
             "elevation": 216.4,
             "mindate": "1932-09-01",
             "maxdate": "2015-11-01",
@@ -63,37 +41,15 @@
             "longitude": -72.9637
         },
         {
-            "elevation": 54.9,
-            "mindate": "1955-12-01",
-            "maxdate": "1956-10-01",
-            "latitude": 41.45,
-            "name": "BEACON FALLS, CT US",
-            "datacoverage": 0.7247,
-            "id": "COOP:060373",
-            "elevationUnit": "METERS",
-            "longitude": -73.05
-        },
-        {
             "elevation": 52.1,
             "mindate": "1948-05-01",
             "maxdate": "1974-01-01",
             "latitude": 41.83333,
             "name": "BLOOMFIELD, CT US",
-            "datacoverage": 0.9254,
+            "datacoverage": 0.0541,
             "id": "COOP:060634",
             "elevationUnit": "METERS",
             "longitude": -72.73333
-        },
-        {
-            "elevation": 43,
-            "mindate": "1931-01-01",
-            "maxdate": "1951-03-01",
-            "latitude": 41.2,
-            "name": "BRIDGEPORT, CT US",
-            "datacoverage": 0.9919,
-            "id": "COOP:060801",
-            "elevationUnit": "METERS",
-            "longitude": -73.2
         },
         {
             "elevation": 1.5,
@@ -116,17 +72,6 @@
             "id": "COOP:060808",
             "elevationUnit": "METERS",
             "longitude": -73.1569
-        },
-        {
-            "elevation": 195.1,
-            "mindate": "1941-05-01",
-            "maxdate": "1957-04-01",
-            "latitude": 41.68333,
-            "name": "BRISTOL 3 W, CT US",
-            "datacoverage": 0.9531,
-            "id": "COOP:060830",
-            "elevationUnit": "METERS",
-            "longitude": -72.98333
         },
         {
             "elevation": 73.2,
@@ -167,7 +112,7 @@
             "maxdate": "1975-04-25",
             "latitude": 41.48333,
             "name": "CANDLEWOOD LAKE, CT US",
-            "datacoverage": 0.6503,
+            "datacoverage": 0.0775,
             "id": "COOP:061093",
             "elevationUnit": "METERS",
             "longitude": -73.46667
@@ -204,17 +149,6 @@
             "id": "COOP:061508",
             "elevationUnit": "METERS",
             "longitude": -73.0439
-        },
-        {
-            "elevation": 85,
-            "mindate": "1931-01-01",
-            "maxdate": "1966-06-01",
-            "latitude": 41.8,
-            "name": "COLLINSVILLE 1 S, CT US",
-            "datacoverage": 0.8992,
-            "id": "COOP:061536",
-            "elevationUnit": "METERS",
-            "longitude": -72.93333
         },
         {
             "elevation": 146.3,
@@ -261,28 +195,6 @@
             "longitude": -72.98333
         },
         {
-            "elevation": 21,
-            "mindate": "1949-06-01",
-            "maxdate": "1960-06-01",
-            "latitude": 41.31667,
-            "name": "DERBY SHELTON, CT US",
-            "datacoverage": 0.9625,
-            "id": "COOP:061844",
-            "elevationUnit": "METERS",
-            "longitude": -73.08333
-        },
-        {
-            "elevation": 164.9,
-            "mindate": "1964-05-01",
-            "maxdate": "1968-12-01",
-            "latitude": 41.9,
-            "name": "EASTFORD, CT US",
-            "datacoverage": 0.9991,
-            "id": "COOP:062073",
-            "elevationUnit": "METERS",
-            "longitude": -72.08333
-        },
-        {
             "elevation": 9.1,
             "mindate": "1941-04-01",
             "maxdate": "1998-12-01",
@@ -327,17 +239,6 @@
             "longitude": -72.08333
         },
         {
-            "elevation": 136.9,
-            "mindate": "1947-12-01",
-            "maxdate": "1953-12-01",
-            "latitude": 41.08333,
-            "name": "GREENWICH, CT US",
-            "datacoverage": 0.9584,
-            "id": "COOP:063137",
-            "elevationUnit": "METERS",
-            "longitude": -73.7
-        },
-        {
             "elevation": 12.2,
             "mindate": "1941-04-01",
             "maxdate": "2015-11-01",
@@ -365,7 +266,7 @@
             "maxdate": "1972-09-01",
             "latitude": 41.76667,
             "name": "HARTFORD, CT US",
-            "datacoverage": 0.8754,
+            "datacoverage": 0.0484,
             "id": "COOP:063446",
             "elevationUnit": "METERS",
             "longitude": -72.7
@@ -426,17 +327,6 @@
             "longitude": -73.28333
         },
         {
-            "elevation": 73.2,
-            "mindate": "1941-04-01",
-            "maxdate": "1960-06-01",
-            "latitude": 41.23333,
-            "name": "HEMLOCKS RESERVOIR, CT US",
-            "datacoverage": 0.9307,
-            "id": "COOP:063583",
-            "elevationUnit": "METERS",
-            "longitude": -73.26667
-        },
-        {
             "elevation": 121.9,
             "mindate": "1948-05-01",
             "maxdate": "2011-05-01",
@@ -448,17 +338,6 @@
             "longitude": -71.9014
         },
         {
-            "elevation": 116.1,
-            "mindate": "1950-12-01",
-            "maxdate": "1957-01-01",
-            "latitude": 41.73333,
-            "name": "KENT, CT US",
-            "datacoverage": 0.9993,
-            "id": "COOP:063905",
-            "elevationUnit": "METERS",
-            "longitude": -73.48333
-        },
-        {
             "elevation": 54.9,
             "mindate": "1931-01-01",
             "maxdate": "1978-01-01",
@@ -468,17 +347,6 @@
             "id": "COOP:063989",
             "elevationUnit": "METERS",
             "longitude": -72.18333
-        },
-        {
-            "elevation": 107,
-            "mindate": "1941-04-01",
-            "maxdate": "1960-06-01",
-            "latitude": 41.16667,
-            "name": "LAUREL RESERVOIR, CT US",
-            "datacoverage": 0.9091,
-            "id": "COOP:064096",
-            "elevationUnit": "METERS",
-            "longitude": -73.55
         },
         {
             "elevation": 128,
@@ -503,17 +371,6 @@
             "longitude": -72.18556
         },
         {
-            "elevation": 41.1,
-            "mindate": "1956-04-01",
-            "maxdate": "1961-06-27",
-            "latitude": 41.55,
-            "name": "MIDDLETOWN WEATHER BUREAU, CT US",
-            "datacoverage": 1,
-            "id": "COOP:064757",
-            "elevationUnit": "METERS",
-            "longitude": -72.55
-        },
-        {
             "elevation": 112.5,
             "mindate": "1931-01-01",
             "maxdate": "1997-01-01",
@@ -536,23 +393,12 @@
             "longitude": -73.08333
         },
         {
-            "elevation": 438.9,
-            "mindate": "1941-04-01",
-            "maxdate": "1960-06-01",
-            "latitude": 41.83333,
-            "name": "MOHAWK RANGER STATION, CT US",
-            "datacoverage": 0.9697,
-            "id": "COOP:064933",
-            "elevationUnit": "METERS",
-            "longitude": -73.3
-        },
-        {
             "elevation": 139.9,
             "mindate": "1948-05-01",
             "maxdate": "1976-10-01",
             "latitude": 41.5,
             "name": "MOODUS RESERVOIR, CT US",
-            "datacoverage": 0.8754,
+            "datacoverage": 0.0684,
             "id": "COOP:065018",
             "elevationUnit": "METERS",
             "longitude": -72.43333
@@ -567,39 +413,6 @@
             "id": "COOP:065077",
             "elevationUnit": "METERS",
             "longitude": -72.90273
-        },
-        {
-            "elevation": 164.9,
-            "mindate": "1942-01-01",
-            "maxdate": "1962-12-01",
-            "latitude": 41.9,
-            "name": "EASTFORD, CT US",
-            "datacoverage": 0.9008,
-            "id": "COOP:065125",
-            "elevationUnit": "METERS",
-            "longitude": -72.08333
-        },
-        {
-            "elevation": 174,
-            "mindate": "1949-09-01",
-            "maxdate": "1960-06-01",
-            "latitude": 41.76667,
-            "name": "NATHAN HALE STATE FO, CT US",
-            "datacoverage": 0.931,
-            "id": "COOP:065131",
-            "elevationUnit": "METERS",
-            "longitude": -72.35
-        },
-        {
-            "elevation": 116.1,
-            "mindate": "1932-09-01",
-            "maxdate": "1960-06-01",
-            "latitude": 41.88333,
-            "name": "NEW HARTFORD, CT US",
-            "datacoverage": 0.9881,
-            "id": "COOP:065262",
-            "elevationUnit": "METERS",
-            "longitude": -72.95
         },
         {
             "elevation": 6.1,
@@ -629,21 +442,10 @@
             "maxdate": "1970-06-01",
             "latitude": 41.7,
             "name": "NEWINGTON, CT US",
-            "datacoverage": 0.9254,
+            "datacoverage": 0.0544,
             "id": "COOP:065285",
             "elevationUnit": "METERS",
             "longitude": -72.73333
-        },
-        {
-            "elevation": 18.3,
-            "mindate": "1931-01-01",
-            "maxdate": "1955-12-01",
-            "latitude": 41.35,
-            "name": "NEW LONDON, CT US",
-            "datacoverage": 0.8867,
-            "id": "COOP:065309",
-            "elevationUnit": "METERS",
-            "longitude": -72.1
         },
         {
             "elevation": 408.4,
@@ -679,17 +481,6 @@
             "longitude": -72.71667
         },
         {
-            "elevation": 139.9,
-            "mindate": "1949-02-01",
-            "maxdate": "1950-11-01",
-            "latitude": 41.76667,
-            "name": "NORTH KENT, CT US",
-            "datacoverage": 0.8657,
-            "id": "COOP:065664",
-            "elevationUnit": "METERS",
-            "longitude": -73.43333
-        },
-        {
             "elevation": 85.3,
             "mindate": "1992-05-01",
             "maxdate": "1994-03-01",
@@ -699,28 +490,6 @@
             "id": "COOP:065757",
             "elevationUnit": "METERS",
             "longitude": -72.43333
-        },
-        {
-            "elevation": 61,
-            "mindate": "1941-04-01",
-            "maxdate": "1950-07-01",
-            "latitude": 41.11667,
-            "name": "NORTH STAMFORD RESER, CT US",
-            "datacoverage": 0.9196,
-            "id": "COOP:065772",
-            "elevationUnit": "METERS",
-            "longitude": -73.53333
-        },
-        {
-            "elevation": 36.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1956-04-01",
-            "latitude": 41.13333,
-            "name": "NORWALK, CT US",
-            "datacoverage": 0.9738,
-            "id": "COOP:065892",
-            "elevationUnit": "METERS",
-            "longitude": -73.45
         },
         {
             "elevation": 11.3,
@@ -734,28 +503,6 @@
             "longitude": -73.41667
         },
         {
-            "elevation": 61,
-            "mindate": "1948-06-01",
-            "maxdate": "1952-11-01",
-            "latitude": 41.55,
-            "name": "NORWICH, CT US",
-            "datacoverage": 0.8146,
-            "id": "COOP:065904",
-            "elevationUnit": "METERS",
-            "longitude": -72.08333
-        },
-        {
-            "elevation": 92,
-            "mindate": "1952-12-01",
-            "maxdate": "1956-07-01",
-            "latitude": 41.5,
-            "name": "NORWICH 5 SW, CT US",
-            "datacoverage": 0.8638,
-            "id": "COOP:065905",
-            "elevationUnit": "METERS",
-            "longitude": -72.15
-        },
-        {
             "elevation": 6.1,
             "mindate": "1956-08-01",
             "maxdate": "2015-11-01",
@@ -765,28 +512,6 @@
             "id": "COOP:065910",
             "elevationUnit": "METERS",
             "longitude": -72.06517
-        },
-        {
-            "elevation": 82,
-            "mindate": "1942-01-01",
-            "maxdate": "1969-06-01",
-            "latitude": 41.58333,
-            "name": "PACHAUG FOREST, CT US",
-            "datacoverage": 0.9274,
-            "id": "COOP:066131",
-            "elevationUnit": "METERS",
-            "longitude": -71.85
-        },
-        {
-            "elevation": 134.1,
-            "mindate": "1941-12-01",
-            "maxdate": "1960-06-01",
-            "latitude": 41.93333,
-            "name": "PEOPLES RANGER STATION, CT US",
-            "datacoverage": 0.9821,
-            "id": "COOP:066239",
-            "elevationUnit": "METERS",
-            "longitude": -73
         },
         {
             "elevation": 128,
@@ -801,28 +526,6 @@
         },
         {
             "elevation": 91.4,
-            "mindate": "1934-09-01",
-            "maxdate": "1962-12-30",
-            "latitude": 41.91667,
-            "name": "PUTNAM, CT US",
-            "datacoverage": 0.9437,
-            "id": "COOP:066645",
-            "elevationUnit": "METERS",
-            "longitude": -71.91667
-        },
-        {
-            "elevation": 171,
-            "mindate": "1948-05-01",
-            "maxdate": "1952-04-01",
-            "latitude": 41.9,
-            "name": "PUTNAM HEIGHTS, CT US",
-            "datacoverage": 0.9254,
-            "id": "COOP:066650",
-            "elevationUnit": "METERS",
-            "longitude": -71.86667
-        },
-        {
-            "elevation": 91.4,
             "mindate": "1941-04-01",
             "maxdate": "2014-12-01",
             "latitude": 41.0825,
@@ -831,17 +534,6 @@
             "id": "COOP:066655",
             "elevationUnit": "METERS",
             "longitude": -73.6386
-        },
-        {
-            "elevation": 109.7,
-            "mindate": "1962-11-01",
-            "maxdate": "1965-11-01",
-            "latitude": 41.9442,
-            "name": "WEST THOMPSON LAKE, CT US",
-            "datacoverage": 0.9998,
-            "id": "COOP:066660",
-            "elevationUnit": "METERS",
-            "longitude": -71.9031
         },
         {
             "elevation": 112.8,
@@ -860,21 +552,10 @@
             "maxdate": "2006-05-01",
             "latitude": 41.86667,
             "name": "ROCKVILLE, CT US",
-            "datacoverage": 0.7693,
+            "datacoverage": 0.0408,
             "id": "COOP:066942",
             "elevationUnit": "METERS",
             "longitude": -72.43333
-        },
-        {
-            "elevation": 100.9,
-            "mindate": "1948-06-01",
-            "maxdate": "1950-12-01",
-            "latitude": 41.1,
-            "name": "ROCKWOOD LAKE, CT US",
-            "datacoverage": 0.8706,
-            "id": "COOP:066954",
-            "elevationUnit": "METERS",
-            "longitude": -73.63333
         },
         {
             "elevation": 67.1,
@@ -899,17 +580,6 @@
             "longitude": -73.5369
         },
         {
-            "elevation": 328.9,
-            "mindate": "1934-01-01",
-            "maxdate": "1966-03-01",
-            "latitude": 41.98333,
-            "name": "SALISBURY, CT US",
-            "datacoverage": 0.9769,
-            "id": "COOP:067109",
-            "elevationUnit": "METERS",
-            "longitude": -73.45
-        },
-        {
             "elevation": 91.4,
             "mindate": "1943-04-01",
             "maxdate": "2013-12-01",
@@ -921,19 +591,8 @@
             "longitude": -73.35
         },
         {
-            "elevation": 21,
-            "mindate": "1941-04-01",
-            "maxdate": "1949-05-01",
-            "latitude": 41.31667,
-            "name": "DERBY SHELTON, CT US",
-            "datacoverage": 0.8775,
-            "id": "COOP:067361",
-            "elevationUnit": "METERS",
-            "longitude": -73.08333
-        },
-        {
             "elevation": 256,
-            "mindate": "1948-05-01",
+            "mindate": "1948-06-01",
             "maxdate": "2013-12-01",
             "latitude": 41.7167,
             "name": "SHEPAUG DAM, CT US",
@@ -952,28 +611,6 @@
             "id": "COOP:067432",
             "elevationUnit": "METERS",
             "longitude": -72.8167
-        },
-        {
-            "elevation": 207,
-            "mindate": "1964-10-01",
-            "maxdate": "1965-12-01",
-            "latitude": 42,
-            "name": "STAFFORD, CT US",
-            "datacoverage": 0.9322,
-            "id": "COOP:067904",
-            "elevationUnit": "METERS",
-            "longitude": -72.28333
-        },
-        {
-            "elevation": 164.9,
-            "mindate": "1944-06-01",
-            "maxdate": "1964-03-01",
-            "latitude": 41.95,
-            "name": "STAFFORD SPRINGS, CT US",
-            "datacoverage": 0.8446,
-            "id": "COOP:067946",
-            "elevationUnit": "METERS",
-            "longitude": -72.3
         },
         {
             "elevation": 224.3,
@@ -996,17 +633,6 @@
             "id": "COOP:067959",
             "elevationUnit": "METERS",
             "longitude": -72.3
-        },
-        {
-            "elevation": 34.1,
-            "mindate": "1950-08-01",
-            "maxdate": "1955-11-01",
-            "latitude": 41.06667,
-            "name": "STAMFORD, CT US",
-            "datacoverage": 1,
-            "id": "COOP:067969",
-            "elevationUnit": "METERS",
-            "longitude": -73.5
         },
         {
             "elevation": 57.9,
@@ -1042,17 +668,6 @@
             "longitude": -72.2285
         },
         {
-            "elevation": 116.1,
-            "mindate": "1956-01-01",
-            "maxdate": "1957-02-01",
-            "latitude": 41.65,
-            "name": "THOMASTON, CT US",
-            "datacoverage": 0.931,
-            "id": "COOP:068324",
-            "elevationUnit": "METERS",
-            "longitude": -73.08333
-        },
-        {
             "elevation": 164,
             "mindate": "1961-09-01",
             "maxdate": "2015-11-01",
@@ -1062,17 +677,6 @@
             "id": "COOP:068330",
             "elevationUnit": "METERS",
             "longitude": -73.06
-        },
-        {
-            "elevation": 31.1,
-            "mindate": "1941-04-01",
-            "maxdate": "1956-08-01",
-            "latitude": 42,
-            "name": "THOMPSONVILLE, CT US",
-            "datacoverage": 0.9187,
-            "id": "COOP:068364",
-            "elevationUnit": "METERS",
-            "longitude": -72.6
         },
         {
             "elevation": 176.8,
@@ -1086,17 +690,6 @@
             "longitude": -73.11667
         },
         {
-            "elevation": 182.9,
-            "mindate": "1941-04-01",
-            "maxdate": "1960-06-01",
-            "latitude": 41.8,
-            "name": "TORRINGTON 2, CT US",
-            "datacoverage": 0.9437,
-            "id": "COOP:068441",
-            "elevationUnit": "METERS",
-            "longitude": -73.13333
-        },
-        {
             "elevation": 98.1,
             "mindate": "1941-04-01",
             "maxdate": "1975-11-01",
@@ -1108,39 +701,6 @@
             "longitude": -73.15
         },
         {
-            "elevation": 310.9,
-            "mindate": "1948-01-01",
-            "maxdate": "1949-01-01",
-            "latitude": 41.73333,
-            "name": "WARREN, CT US",
-            "datacoverage": 0.9967,
-            "id": "COOP:068835",
-            "elevationUnit": "METERS",
-            "longitude": -73.33333
-        },
-        {
-            "elevation": 189,
-            "mindate": "1942-08-01",
-            "maxdate": "1953-10-01",
-            "latitude": 41.63333,
-            "name": "WASHINGTON, CT US",
-            "datacoverage": 0.8443,
-            "id": "COOP:068859",
-            "elevationUnit": "METERS",
-            "longitude": -73.31667
-        },
-        {
-            "elevation": 98.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1954-03-01",
-            "latitude": 41.56667,
-            "name": "WATERBURY ANACONDA, CT US",
-            "datacoverage": 0.9679,
-            "id": "COOP:068906",
-            "elevationUnit": "METERS",
-            "longitude": -73.03333
-        },
-        {
             "elevation": 98.1,
             "mindate": "1971-01-01",
             "maxdate": "1972-10-01",
@@ -1148,28 +708,6 @@
             "name": "WATERBURY ANACONDA, CT US",
             "datacoverage": 0.014,
             "id": "COOP:068909",
-            "elevationUnit": "METERS",
-            "longitude": -73.03333
-        },
-        {
-            "elevation": 103.9,
-            "mindate": "1948-05-01",
-            "maxdate": "1958-06-01",
-            "latitude": 41.56667,
-            "name": "WATERBURY CITY HALL, CT US",
-            "datacoverage": 0.7192,
-            "id": "COOP:068911",
-            "elevationUnit": "METERS",
-            "longitude": -73.03333
-        },
-        {
-            "elevation": 185.9,
-            "mindate": "1958-05-01",
-            "maxdate": "1966-12-01",
-            "latitude": 41.58333,
-            "name": "WATERBURY RADIO WBRY, CT US",
-            "datacoverage": 0.9899,
-            "id": "COOP:068916",
             "elevationUnit": "METERS",
             "longitude": -73.03333
         },
@@ -1207,17 +745,6 @@
             "longitude": -72.78056
         },
         {
-            "elevation": 353.9,
-            "mindate": "1932-01-01",
-            "maxdate": "1964-04-01",
-            "latitude": 42,
-            "name": "WEST HARTLAND, CT US",
-            "datacoverage": 0.9691,
-            "id": "COOP:069174",
-            "elevationUnit": "METERS",
-            "longitude": -72.96667
-        },
-        {
             "elevation": 109.7,
             "mindate": "1965-10-01",
             "maxdate": "2008-12-01",
@@ -1240,17 +767,6 @@
             "longitude": -72.95
         },
         {
-            "elevation": 11.9,
-            "mindate": "1941-04-01",
-            "maxdate": "1960-06-01",
-            "latitude": 41.33333,
-            "name": "WHITNEY LAKE, CT US",
-            "datacoverage": 0.9004,
-            "id": "COOP:069544",
-            "elevationUnit": "METERS",
-            "longitude": -72.91667
-        },
-        {
             "elevation": 173.7,
             "mindate": "1941-01-01",
             "maxdate": "1997-01-01",
@@ -1260,28 +776,6 @@
             "id": "COOP:069568",
             "elevationUnit": "METERS",
             "longitude": -73.13333
-        },
-        {
-            "elevation": 75.9,
-            "mindate": "1943-07-01",
-            "maxdate": "1959-01-01",
-            "latitude": 41.71667,
-            "name": "WILLIMANTIC, CT US",
-            "datacoverage": 0.9194,
-            "id": "COOP:069592",
-            "elevationUnit": "METERS",
-            "longitude": -72.23333
-        },
-        {
-            "elevation": 53.3,
-            "mindate": "1942-02-01",
-            "maxdate": "1953-12-01",
-            "latitude": 41.9375,
-            "name": "HARTFORD BRADLEY INTERNATIONAL AIRPORT, CT US",
-            "datacoverage": 0.7204,
-            "id": "COOP:069704",
-            "elevationUnit": "METERS",
-            "longitude": -72.6819
         },
         {
             "elevation": 259.1,
@@ -1304,17 +798,6 @@
             "id": "COOP:069775",
             "elevationUnit": "METERS",
             "longitude": -73.2296
-        },
-        {
-            "elevation": 285,
-            "mindate": "1940-10-01",
-            "maxdate": "1965-12-01",
-            "latitude": 41.56667,
-            "name": "WOODBURY 3 W, CT US",
-            "datacoverage": 0.9009,
-            "id": "COOP:069783",
-            "elevationUnit": "METERS",
-            "longitude": -73.26667
         },
         {
             "elevation": 256,
@@ -3363,17 +2846,6 @@
             "longitude": -71.92142
         },
         {
-            "elevation": 6.1,
-            "mindate": "1948-06-01",
-            "maxdate": "1966-03-31",
-            "latitude": 41.33333,
-            "name": "ANSONIA, CT US",
-            "datacoverage": 0.9954,
-            "id": "GHCND:USC00060120",
-            "elevationUnit": "METERS",
-            "longitude": -73.08333
-        },
-        {
             "elevation": 41.5,
             "mindate": "1966-04-01",
             "maxdate": "2020-04-01",
@@ -3396,17 +2868,6 @@
             "longitude": -73.0085
         },
         {
-            "elevation": 43,
-            "mindate": "1931-01-01",
-            "maxdate": "1967-02-28",
-            "latitude": 41.61667,
-            "name": "BALTIC, CT US",
-            "datacoverage": 0.9402,
-            "id": "GHCND:USC00060251",
-            "elevationUnit": "METERS",
-            "longitude": -72.1
-        },
-        {
             "elevation": 216.4,
             "mindate": "1932-09-01",
             "maxdate": "2020-04-08",
@@ -3418,39 +2879,6 @@
             "longitude": -72.9637
         },
         {
-            "elevation": 54.9,
-            "mindate": "1955-12-01",
-            "maxdate": "1956-10-30",
-            "latitude": 41.45,
-            "name": "BEACON FALLS, CT US",
-            "datacoverage": 0.8153,
-            "id": "GHCND:USC00060373",
-            "elevationUnit": "METERS",
-            "longitude": -73.05
-        },
-        {
-            "elevation": 52.1,
-            "mindate": "1948-06-01",
-            "maxdate": "1951-09-30",
-            "latitude": 41.83333,
-            "name": "BLOOMFIELD, CT US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00060634",
-            "elevationUnit": "METERS",
-            "longitude": -72.73333
-        },
-        {
-            "elevation": 43,
-            "mindate": "1893-08-01",
-            "maxdate": "1951-03-31",
-            "latitude": 41.2,
-            "name": "BRIDGEPORT, CT US",
-            "datacoverage": 0.977,
-            "id": "GHCND:USC00060801",
-            "elevationUnit": "METERS",
-            "longitude": -73.2
-        },
-        {
             "elevation": 21.3,
             "mindate": "2008-01-01",
             "maxdate": "2019-10-31",
@@ -3460,17 +2888,6 @@
             "id": "GHCND:USC00060808",
             "elevationUnit": "METERS",
             "longitude": -73.1569
-        },
-        {
-            "elevation": 195.1,
-            "mindate": "1948-06-01",
-            "maxdate": "1957-04-30",
-            "latitude": 41.68333,
-            "name": "BRISTOL 3 W, CT US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00060830",
-            "elevationUnit": "METERS",
-            "longitude": -72.98333
         },
         {
             "elevation": 73.2,
@@ -3506,17 +2923,6 @@
             "longitude": -72.932
         },
         {
-            "elevation": 153,
-            "mindate": "1948-06-01",
-            "maxdate": "1951-09-30",
-            "latitude": 41.48333,
-            "name": "CANDLEWOOD LAKE, CT US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00061093",
-            "elevationUnit": "METERS",
-            "longitude": -73.46667
-        },
-        {
             "elevation": 48.8,
             "mindate": "1948-06-01",
             "maxdate": "2000-08-31",
@@ -3548,17 +2954,6 @@
             "id": "GHCND:USC00061508",
             "elevationUnit": "METERS",
             "longitude": -73.0439
-        },
-        {
-            "elevation": 85,
-            "mindate": "1885-01-01",
-            "maxdate": "1966-06-30",
-            "latitude": 41.8,
-            "name": "COLLINSVILLE 1 S, CT US",
-            "datacoverage": 0.4606,
-            "id": "GHCND:USC00061536",
-            "elevationUnit": "METERS",
-            "longitude": -72.93333
         },
         {
             "elevation": 146.3,
@@ -3605,28 +3000,6 @@
             "longitude": -72.98333
         },
         {
-            "elevation": 21,
-            "mindate": "1949-01-01",
-            "maxdate": "1960-06-30",
-            "latitude": 41.31667,
-            "name": "DERBY SHELTON, CT US",
-            "datacoverage": 0.9925,
-            "id": "GHCND:USC00061844",
-            "elevationUnit": "METERS",
-            "longitude": -73.08333
-        },
-        {
-            "elevation": 164.9,
-            "mindate": "1964-01-01",
-            "maxdate": "1968-12-31",
-            "latitude": 41.9,
-            "name": "EASTFORD, CT US",
-            "datacoverage": 0.9991,
-            "id": "GHCND:USC00062073",
-            "elevationUnit": "METERS",
-            "longitude": -72.08333
-        },
-        {
             "elevation": 9.1,
             "mindate": "1948-06-01",
             "maxdate": "2010-12-31",
@@ -3647,17 +3020,6 @@
             "id": "GHCND:USC00062288",
             "elevationUnit": "METERS",
             "longitude": -73.25
-        },
-        {
-            "elevation": 286.5,
-            "mindate": "1893-01-01",
-            "maxdate": "1921-06-30",
-            "latitude": 41.93333,
-            "name": "FALLS VILLAGE 1, CT US",
-            "datacoverage": 0.9944,
-            "id": "GHCND:USC00062655",
-            "elevationUnit": "METERS",
-            "longitude": -73.31667
         },
         {
             "elevation": 167.6,
@@ -3693,17 +3055,6 @@
             "longitude": -72.08333
         },
         {
-            "elevation": 136.9,
-            "mindate": "1947-11-01",
-            "maxdate": "1953-12-31",
-            "latitude": 41.08333,
-            "name": "GREENWICH, CT US",
-            "datacoverage": 0.9997,
-            "id": "GHCND:USC00063137",
-            "elevationUnit": "METERS",
-            "longitude": -73.7
-        },
-        {
             "elevation": 12.2,
             "mindate": "1948-06-01",
             "maxdate": "2020-02-29",
@@ -3737,17 +3088,6 @@
             "longitude": -72.0531
         },
         {
-            "elevation": 43,
-            "mindate": "1893-02-01",
-            "maxdate": "1951-09-30",
-            "latitude": 41.76667,
-            "name": "HARTFORD, CT US",
-            "datacoverage": 0.2017,
-            "id": "GHCND:USC00063446",
-            "elevationUnit": "METERS",
-            "longitude": -72.7
-        },
-        {
             "elevation": 299,
             "mindate": "1974-01-01",
             "maxdate": "1977-05-31",
@@ -3757,17 +3097,6 @@
             "id": "GHCND:USC00063495",
             "elevationUnit": "METERS",
             "longitude": -73.28333
-        },
-        {
-            "elevation": 73.2,
-            "mindate": "1948-06-01",
-            "maxdate": "1960-06-30",
-            "latitude": 41.23333,
-            "name": "HEMLOCKS RESERVOIR, CT US",
-            "datacoverage": 0.9993,
-            "id": "GHCND:USC00063583",
-            "elevationUnit": "METERS",
-            "longitude": -73.26667
         },
         {
             "elevation": 121.9,
@@ -3781,17 +3110,6 @@
             "longitude": -71.9014
         },
         {
-            "elevation": 116.1,
-            "mindate": "1950-01-01",
-            "maxdate": "1957-01-31",
-            "latitude": 41.73333,
-            "name": "KENT, CT US",
-            "datacoverage": 0.9993,
-            "id": "GHCND:USC00063905",
-            "elevationUnit": "METERS",
-            "longitude": -73.48333
-        },
-        {
             "elevation": 54.9,
             "mindate": "1893-01-01",
             "maxdate": "1978-01-31",
@@ -3801,17 +3119,6 @@
             "id": "GHCND:USC00063989",
             "elevationUnit": "METERS",
             "longitude": -72.18333
-        },
-        {
-            "elevation": 107,
-            "mindate": "1948-06-01",
-            "maxdate": "1960-06-30",
-            "latitude": 41.16667,
-            "name": "LAUREL RESERVOIR, CT US",
-            "datacoverage": 0.9173,
-            "id": "GHCND:USC00064096",
-            "elevationUnit": "METERS",
-            "longitude": -73.55
         },
         {
             "elevation": 128,
@@ -3836,17 +3143,6 @@
             "longitude": -72.18556
         },
         {
-            "elevation": 41.1,
-            "mindate": "1849-04-01",
-            "maxdate": "1958-05-31",
-            "latitude": 41.55,
-            "name": "MIDDLETOWN WEATHER BUREAU, CT US",
-            "datacoverage": 0.2084,
-            "id": "GHCND:USC00064757",
-            "elevationUnit": "METERS",
-            "longitude": -72.55
-        },
-        {
             "elevation": 112.5,
             "mindate": "1868-01-01",
             "maxdate": "2016-03-01",
@@ -3869,28 +3165,6 @@
             "longitude": -73.08333
         },
         {
-            "elevation": 438.9,
-            "mindate": "1948-06-01",
-            "maxdate": "1960-06-30",
-            "latitude": 41.83333,
-            "name": "MOHAWK RANGER STATION, CT US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00064933",
-            "elevationUnit": "METERS",
-            "longitude": -73.3
-        },
-        {
-            "elevation": 139.9,
-            "mindate": "1948-06-01",
-            "maxdate": "1951-09-30",
-            "latitude": 41.5,
-            "name": "MOODUS RESERVOIR, CT US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00065018",
-            "elevationUnit": "METERS",
-            "longitude": -72.43333
-        },
-        {
             "elevation": 54.9,
             "mindate": "1936-01-01",
             "maxdate": "2019-10-31",
@@ -3902,39 +3176,6 @@
             "longitude": -72.90273
         },
         {
-            "elevation": 164.9,
-            "mindate": "1948-06-01",
-            "maxdate": "1962-11-30",
-            "latitude": 41.9,
-            "name": "EASTFORD, CT US",
-            "datacoverage": 0.9994,
-            "id": "GHCND:USC00065125",
-            "elevationUnit": "METERS",
-            "longitude": -72.08333
-        },
-        {
-            "elevation": 174,
-            "mindate": "1949-01-01",
-            "maxdate": "1960-06-30",
-            "latitude": 41.76667,
-            "name": "NATHAN HALE STATE FO, CT US",
-            "datacoverage": 0.9993,
-            "id": "GHCND:USC00065131",
-            "elevationUnit": "METERS",
-            "longitude": -72.35
-        },
-        {
-            "elevation": 116.1,
-            "mindate": "1893-01-01",
-            "maxdate": "1960-06-30",
-            "latitude": 41.88333,
-            "name": "NEW HARTFORD, CT US",
-            "datacoverage": 0.5996,
-            "id": "GHCND:USC00065262",
-            "elevationUnit": "METERS",
-            "longitude": -72.95
-        },
-        {
             "elevation": 6.1,
             "mindate": "1969-01-01",
             "maxdate": "1992-06-30",
@@ -3944,28 +3185,6 @@
             "id": "GHCND:USC00065266",
             "elevationUnit": "METERS",
             "longitude": -72.93333
-        },
-        {
-            "elevation": 46,
-            "mindate": "1889-05-01",
-            "maxdate": "1951-09-30",
-            "latitude": 41.7,
-            "name": "NEWINGTON, CT US",
-            "datacoverage": 0.0748,
-            "id": "GHCND:USC00065285",
-            "elevationUnit": "METERS",
-            "longitude": -72.73333
-        },
-        {
-            "elevation": 18.3,
-            "mindate": "1895-10-01",
-            "maxdate": "1955-09-30",
-            "latitude": 41.35,
-            "name": "NEW LONDON, CT US",
-            "datacoverage": 0.9681,
-            "id": "GHCND:USC00065309",
-            "elevationUnit": "METERS",
-            "longitude": -72.1
         },
         {
             "elevation": 408.4,
@@ -4001,17 +3220,6 @@
             "longitude": -72.71667
         },
         {
-            "elevation": 139.9,
-            "mindate": "1949-01-01",
-            "maxdate": "1950-11-30",
-            "latitude": 41.76667,
-            "name": "NORTH KENT, CT US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00065664",
-            "elevationUnit": "METERS",
-            "longitude": -73.43333
-        },
-        {
             "elevation": 85.3,
             "mindate": "1992-01-01",
             "maxdate": "1994-03-31",
@@ -4021,28 +3229,6 @@
             "id": "GHCND:USC00065757",
             "elevationUnit": "METERS",
             "longitude": -72.43333
-        },
-        {
-            "elevation": 61,
-            "mindate": "1948-06-01",
-            "maxdate": "1950-07-31",
-            "latitude": 41.11667,
-            "name": "NORTH STAMFORD RESER, CT US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00065772",
-            "elevationUnit": "METERS",
-            "longitude": -73.53333
-        },
-        {
-            "elevation": 36.9,
-            "mindate": "1893-01-01",
-            "maxdate": "1956-04-11",
-            "latitude": 41.13333,
-            "name": "NORWALK, CT US",
-            "datacoverage": 0.9975,
-            "id": "GHCND:USC00065892",
-            "elevationUnit": "METERS",
-            "longitude": -73.45
         },
         {
             "elevation": 11.3,
@@ -4056,28 +3242,6 @@
             "longitude": -73.41667
         },
         {
-            "elevation": 61,
-            "mindate": "1948-06-01",
-            "maxdate": "1952-12-10",
-            "latitude": 41.55,
-            "name": "NORWICH, CT US",
-            "datacoverage": 0.9993,
-            "id": "GHCND:USC00065904",
-            "elevationUnit": "METERS",
-            "longitude": -72.08333
-        },
-        {
-            "elevation": 92,
-            "mindate": "1952-12-01",
-            "maxdate": "1956-07-31",
-            "latitude": 41.5,
-            "name": "NORWICH 5 SW, CT US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00065905",
-            "elevationUnit": "METERS",
-            "longitude": -72.15
-        },
-        {
             "elevation": 6.1,
             "mindate": "1956-01-01",
             "maxdate": "2020-05-17",
@@ -4087,28 +3251,6 @@
             "id": "GHCND:USC00065910",
             "elevationUnit": "METERS",
             "longitude": -72.06517
-        },
-        {
-            "elevation": 82,
-            "mindate": "1948-06-01",
-            "maxdate": "1969-06-30",
-            "latitude": 41.58333,
-            "name": "PACHAUG FOREST, CT US",
-            "datacoverage": 0.9685,
-            "id": "GHCND:USC00066131",
-            "elevationUnit": "METERS",
-            "longitude": -71.85
-        },
-        {
-            "elevation": 134.1,
-            "mindate": "1948-06-01",
-            "maxdate": "1960-06-30",
-            "latitude": 41.93333,
-            "name": "PEOPLES RANGER STATION, CT US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00066239",
-            "elevationUnit": "METERS",
-            "longitude": -73
         },
         {
             "elevation": 128,
@@ -4123,28 +3265,6 @@
         },
         {
             "elevation": 91.4,
-            "mindate": "1934-09-01",
-            "maxdate": "1962-11-30",
-            "latitude": 41.91667,
-            "name": "PUTNAM, CT US",
-            "datacoverage": 0.9587,
-            "id": "GHCND:USC00066645",
-            "elevationUnit": "METERS",
-            "longitude": -71.91667
-        },
-        {
-            "elevation": 171,
-            "mindate": "1948-06-01",
-            "maxdate": "1951-09-30",
-            "latitude": 41.9,
-            "name": "PUTNAM HEIGHTS, CT US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00066650",
-            "elevationUnit": "METERS",
-            "longitude": -71.86667
-        },
-        {
-            "elevation": 91.4,
             "mindate": "1948-06-01",
             "maxdate": "2020-03-31",
             "latitude": 41.0825,
@@ -4153,39 +3273,6 @@
             "id": "GHCND:USC00066655",
             "elevationUnit": "METERS",
             "longitude": -73.6386
-        },
-        {
-            "elevation": 109.7,
-            "mindate": "1962-01-01",
-            "maxdate": "1965-10-05",
-            "latitude": 41.9442,
-            "name": "WEST THOMPSON LAKE, CT US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00066660",
-            "elevationUnit": "METERS",
-            "longitude": -71.9031
-        },
-        {
-            "elevation": 155.4,
-            "mindate": "1948-06-01",
-            "maxdate": "1951-08-31",
-            "latitude": 41.86667,
-            "name": "ROCKVILLE, CT US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00066942",
-            "elevationUnit": "METERS",
-            "longitude": -72.43333
-        },
-        {
-            "elevation": 100.9,
-            "mindate": "1948-06-01",
-            "maxdate": "1950-12-31",
-            "latitude": 41.1,
-            "name": "ROCKWOOD LAKE, CT US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00066954",
-            "elevationUnit": "METERS",
-            "longitude": -73.63333
         },
         {
             "elevation": 67.1,
@@ -4210,17 +3297,6 @@
             "longitude": -73.5369
         },
         {
-            "elevation": 328.9,
-            "mindate": "1933-12-01",
-            "maxdate": "1966-03-31",
-            "latitude": 41.98333,
-            "name": "SALISBURY, CT US",
-            "datacoverage": 0.9872,
-            "id": "GHCND:USC00067109",
-            "elevationUnit": "METERS",
-            "longitude": -73.45
-        },
-        {
             "elevation": 91.4,
             "mindate": "1948-06-01",
             "maxdate": "2016-03-01",
@@ -4230,17 +3306,6 @@
             "id": "GHCND:USC00067157",
             "elevationUnit": "METERS",
             "longitude": -73.35
-        },
-        {
-            "elevation": 21,
-            "mindate": "1884-11-01",
-            "maxdate": "1949-05-31",
-            "latitude": 41.31667,
-            "name": "DERBY SHELTON, CT US",
-            "datacoverage": 0.833,
-            "id": "GHCND:USC00067361",
-            "elevationUnit": "METERS",
-            "longitude": -73.08333
         },
         {
             "elevation": 256,
@@ -4265,39 +3330,6 @@
             "longitude": -72.8167
         },
         {
-            "elevation": 207,
-            "mindate": "1964-12-01",
-            "maxdate": "1966-08-31",
-            "latitude": 42,
-            "name": "STAFFORD, CT US",
-            "datacoverage": 0.5716,
-            "id": "GHCND:USC00067904",
-            "elevationUnit": "METERS",
-            "longitude": -72.28333
-        },
-        {
-            "elevation": 164.9,
-            "mindate": "1948-06-01",
-            "maxdate": "1964-10-31",
-            "latitude": 41.95,
-            "name": "STAFFORD SPRINGS, CT US",
-            "datacoverage": 0.8222,
-            "id": "GHCND:USC00067946",
-            "elevationUnit": "METERS",
-            "longitude": -72.3
-        },
-        {
-            "elevation": 312.4,
-            "mindate": "1932-11-01",
-            "maxdate": "1934-08-22",
-            "latitude": 41.95,
-            "name": "STAFFORD SPRINGS NEAR, CT US",
-            "datacoverage": 0.9554,
-            "id": "GHCND:USC00067949",
-            "elevationUnit": "METERS",
-            "longitude": -72.2
-        },
-        {
             "elevation": 224.3,
             "mindate": "2002-01-01",
             "maxdate": "2020-05-17",
@@ -4318,17 +3350,6 @@
             "id": "GHCND:USC00067959",
             "elevationUnit": "METERS",
             "longitude": -72.3
-        },
-        {
-            "elevation": 34.1,
-            "mindate": "1950-01-01",
-            "maxdate": "1955-11-30",
-            "latitude": 41.06667,
-            "name": "STAMFORD, CT US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00067969",
-            "elevationUnit": "METERS",
-            "longitude": -73.5
         },
         {
             "elevation": 57.9,
@@ -4364,17 +3385,6 @@
             "longitude": -72.2285
         },
         {
-            "elevation": 116.1,
-            "mindate": "1956-01-01",
-            "maxdate": "1957-02-28",
-            "latitude": 41.65,
-            "name": "THOMASTON, CT US",
-            "datacoverage": 0.931,
-            "id": "GHCND:USC00068324",
-            "elevationUnit": "METERS",
-            "longitude": -73.08333
-        },
-        {
             "elevation": 164,
             "mindate": "2011-01-01",
             "maxdate": "2020-05-14",
@@ -4384,17 +3394,6 @@
             "id": "GHCND:USC00068330",
             "elevationUnit": "METERS",
             "longitude": -73.06
-        },
-        {
-            "elevation": 31.1,
-            "mindate": "1948-06-01",
-            "maxdate": "1956-07-31",
-            "latitude": 42,
-            "name": "THOMPSONVILLE, CT US",
-            "datacoverage": 0.9081,
-            "id": "GHCND:USC00068364",
-            "elevationUnit": "METERS",
-            "longitude": -72.6
         },
         {
             "elevation": 176.8,
@@ -4408,28 +3407,6 @@
             "longitude": -73.11667
         },
         {
-            "elevation": 190.5,
-            "mindate": "1915-07-01",
-            "maxdate": "1924-12-31",
-            "latitude": 41.8,
-            "name": "TORRINGTON 1, CT US",
-            "datacoverage": 0.9644,
-            "id": "GHCND:USC00068438",
-            "elevationUnit": "METERS",
-            "longitude": -73.116667
-        },
-        {
-            "elevation": 182.9,
-            "mindate": "1948-06-01",
-            "maxdate": "1960-06-30",
-            "latitude": 41.8,
-            "name": "TORRINGTON 2, CT US",
-            "datacoverage": 0.9863,
-            "id": "GHCND:USC00068441",
-            "elevationUnit": "METERS",
-            "longitude": -73.13333
-        },
-        {
             "elevation": 98.1,
             "mindate": "1948-06-01",
             "maxdate": "1975-11-30",
@@ -4439,61 +3416,6 @@
             "id": "GHCND:USC00068488",
             "elevationUnit": "METERS",
             "longitude": -73.15
-        },
-        {
-            "elevation": 310.9,
-            "mindate": "1946-12-01",
-            "maxdate": "1949-01-31",
-            "latitude": 41.73333,
-            "name": "WARREN, CT US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00068835",
-            "elevationUnit": "METERS",
-            "longitude": -73.33333
-        },
-        {
-            "elevation": 189,
-            "mindate": "1942-08-01",
-            "maxdate": "1953-10-31",
-            "latitude": 41.63333,
-            "name": "WASHINGTON, CT US",
-            "datacoverage": 0.9257,
-            "id": "GHCND:USC00068859",
-            "elevationUnit": "METERS",
-            "longitude": -73.31667
-        },
-        {
-            "elevation": 98.1,
-            "mindate": "1893-01-01",
-            "maxdate": "1954-03-31",
-            "latitude": 41.56667,
-            "name": "WATERBURY ANACONDA, CT US",
-            "datacoverage": 0.9933,
-            "id": "GHCND:USC00068906",
-            "elevationUnit": "METERS",
-            "longitude": -73.03333
-        },
-        {
-            "elevation": 103.9,
-            "mindate": "1926-01-01",
-            "maxdate": "1958-06-30",
-            "latitude": 41.56667,
-            "name": "WATERBURY CITY HALL, CT US",
-            "datacoverage": 0.9514,
-            "id": "GHCND:USC00068911",
-            "elevationUnit": "METERS",
-            "longitude": -73.03333
-        },
-        {
-            "elevation": 185.9,
-            "mindate": "1958-01-01",
-            "maxdate": "1966-11-30",
-            "latitude": 41.58333,
-            "name": "WATERBURY RADIO WBRY, CT US",
-            "datacoverage": 0.9997,
-            "id": "GHCND:USC00068916",
-            "elevationUnit": "METERS",
-            "longitude": -73.03333
         },
         {
             "elevation": 57.9,
@@ -4529,17 +3451,6 @@
             "longitude": -72.78333
         },
         {
-            "elevation": 353.9,
-            "mindate": "1932-09-01",
-            "maxdate": "1964-04-30",
-            "latitude": 42,
-            "name": "WEST HARTLAND, CT US",
-            "datacoverage": 0.9764,
-            "id": "GHCND:USC00069174",
-            "elevationUnit": "METERS",
-            "longitude": -72.96667
-        },
-        {
             "elevation": 109.7,
             "mindate": "1965-12-01",
             "maxdate": "2020-05-17",
@@ -4562,17 +3473,6 @@
             "longitude": -72.95
         },
         {
-            "elevation": 11.9,
-            "mindate": "1948-06-01",
-            "maxdate": "1960-06-30",
-            "latitude": 41.33333,
-            "name": "WHITNEY LAKE, CT US",
-            "datacoverage": 0.9104,
-            "id": "GHCND:USC00069544",
-            "elevationUnit": "METERS",
-            "longitude": -72.91667
-        },
-        {
             "elevation": 173.7,
             "mindate": "1948-06-01",
             "maxdate": "2010-12-31",
@@ -4582,17 +3482,6 @@
             "id": "GHCND:USC00069568",
             "elevationUnit": "METERS",
             "longitude": -73.13333
-        },
-        {
-            "elevation": 75.9,
-            "mindate": "1948-06-01",
-            "maxdate": "1959-01-31",
-            "latitude": 41.71667,
-            "name": "WILLIMANTIC, CT US",
-            "datacoverage": 0.9997,
-            "id": "GHCND:USC00069592",
-            "elevationUnit": "METERS",
-            "longitude": -72.23333
         },
         {
             "elevation": 259.1,
@@ -4615,28 +3504,6 @@
             "id": "GHCND:USC00069775",
             "elevationUnit": "METERS",
             "longitude": -73.2296
-        },
-        {
-            "elevation": 285,
-            "mindate": "1948-06-01",
-            "maxdate": "1965-11-20",
-            "latitude": 41.56667,
-            "name": "WOODBURY 3 W, CT US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00069783",
-            "elevationUnit": "METERS",
-            "longitude": -73.26667
-        },
-        {
-            "elevation": 129.5,
-            "mindate": "1944-01-01",
-            "maxdate": "1946-03-31",
-            "latitude": 41.066667,
-            "name": "RYE LAKE AIRPORT, NY US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00307338",
-            "elevationUnit": "METERS",
-            "longitude": -73.716667
         },
         {
             "elevation": 3,

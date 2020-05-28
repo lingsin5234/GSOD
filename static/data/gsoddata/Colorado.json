@@ -2,22 +2,11 @@
     "metadata": {
         "resultset": {
             "offset": 1,
-            "count": 4619,
+            "count": 4347,
             "limit": 1000
         }
     },
     "results": [
-        {
-            "elevation": 1670.9,
-            "mindate": "1943-11-01",
-            "maxdate": "1953-01-01",
-            "latitude": 39.45,
-            "name": "AGATE 3 SW, CO US",
-            "datacoverage": 0.9996,
-            "id": "COOP:050092",
-            "elevationUnit": "METERS",
-            "longitude": -103.93333
-        },
         {
             "elevation": 1950.7,
             "mindate": "1980-01-01",
@@ -61,17 +50,6 @@
             "id": "COOP:050114",
             "elevationUnit": "METERS",
             "longitude": -103.21667
-        },
-        {
-            "elevation": 2297,
-            "mindate": "1932-04-01",
-            "maxdate": "1949-12-01",
-            "latitude": 37.46667,
-            "name": "ALAMOSA, CO US",
-            "datacoverage": 0.9999,
-            "id": "COOP:050125",
-            "elevationUnit": "METERS",
-            "longitude": -105.88333
         },
         {
             "elevation": 2298.2,
@@ -151,17 +129,6 @@
             "longitude": -103.65
         },
         {
-            "elevation": 2753.9,
-            "mindate": "1966-06-01",
-            "maxdate": "1968-01-01",
-            "latitude": 38.96667,
-            "name": "ANTERO JUNCTION 3 NN, CO US",
-            "datacoverage": 0.998,
-            "id": "COOP:050258",
-            "elevationUnit": "METERS",
-            "longitude": -105.95
-        },
-        {
             "elevation": 2724.6,
             "mindate": "1961-06-01",
             "maxdate": "2015-11-01",
@@ -206,17 +173,6 @@
             "longitude": -102.1614
         },
         {
-            "elevation": 1884.9,
-            "mindate": "1957-10-01",
-            "maxdate": "1963-09-01",
-            "latitude": 37.01667,
-            "name": "ARBOLES, CO US",
-            "datacoverage": 1,
-            "id": "COOP:050307",
-            "elevationUnit": "METERS",
-            "longitude": -107.41667
-        },
-        {
             "elevation": 1890.7,
             "mindate": "2002-11-01",
             "maxdate": "2007-07-01",
@@ -237,39 +193,6 @@
             "id": "COOP:050343",
             "elevationUnit": "METERS",
             "longitude": -103.08333
-        },
-        {
-            "elevation": 1597.5,
-            "mindate": "1931-01-01",
-            "maxdate": "1958-10-01",
-            "latitude": 39.28333,
-            "name": "ARRIBA, CO US",
-            "datacoverage": 0.9641,
-            "id": "COOP:050348",
-            "elevationUnit": "METERS",
-            "longitude": -103.26667
-        },
-        {
-            "elevation": 1816.6,
-            "mindate": "1948-08-01",
-            "maxdate": "1965-05-31",
-            "latitude": 40.2441,
-            "name": "DINOSAUR NATIONAL MONUMNT, CO US",
-            "datacoverage": 0.297,
-            "id": "COOP:050354",
-            "elevationUnit": "METERS",
-            "longitude": -108.9726
-        },
-        {
-            "elevation": 1677.9,
-            "mindate": "1938-08-01",
-            "maxdate": "1944-11-01",
-            "latitude": 39.83333,
-            "name": "ARVADA, CO US",
-            "datacoverage": 0.9471,
-            "id": "COOP:050357",
-            "elevationUnit": "METERS",
-            "longitude": -105.13333
         },
         {
             "elevation": 2416.5,
@@ -303,15 +226,6 @@
             "id": "COOP:050373",
             "elevationUnit": "METERS",
             "longitude": -106.87056
-        },
-        {
-            "mindate": "1948-08-01",
-            "maxdate": "1949-12-01",
-            "latitude": 37.6,
-            "name": "ATKINSON RANCH, CO US",
-            "datacoverage": 0.5001,
-            "id": "COOP:050381",
-            "longitude": -108.88333
         },
         {
             "elevation": 2283.6,
@@ -402,28 +316,6 @@
             "longitude": -105.78333
         },
         {
-            "elevation": 1281.1,
-            "mindate": "1949-05-01",
-            "maxdate": "1953-06-01",
-            "latitude": 39.3,
-            "name": "BETHUNE, CO US",
-            "datacoverage": 0.7599,
-            "id": "COOP:050686",
-            "elevationUnit": "METERS",
-            "longitude": -102.43333
-        },
-        {
-            "elevation": 1841.9,
-            "mindate": "1948-08-01",
-            "maxdate": "1967-05-04",
-            "latitude": 38.86667,
-            "name": "BIG SPRINGS RANCH, CO US",
-            "datacoverage": 0.9479,
-            "id": "COOP:050712",
-            "elevationUnit": "METERS",
-            "longitude": -104.31667
-        },
-        {
             "elevation": 2484.4,
             "mindate": "2003-10-01",
             "maxdate": "2015-11-01",
@@ -455,28 +347,6 @@
             "id": "COOP:050776",
             "elevationUnit": "METERS",
             "longitude": -105.5718
-        },
-        {
-            "elevation": 1363.4,
-            "mindate": "1931-01-01",
-            "maxdate": "1954-01-01",
-            "latitude": 37.68333,
-            "name": "BLOOM, CO US",
-            "datacoverage": 0.722,
-            "id": "COOP:050784",
-            "elevationUnit": "METERS",
-            "longitude": -103.95
-        },
-        {
-            "elevation": 2295.1,
-            "mindate": "1966-04-01",
-            "maxdate": "1967-10-01",
-            "latitude": 38.45667,
-            "name": "BLUE MESA DAM, CO US",
-            "datacoverage": 0.9988,
-            "id": "COOP:050794",
-            "elevationUnit": "METERS",
-            "longitude": -107.33278
         },
         {
             "elevation": 2306.7,
@@ -561,7 +431,7 @@
             "maxdate": "2014-01-01",
             "latitude": 40.03399,
             "name": "BOULDER 2, CO US",
-            "datacoverage": 0.9216,
+            "datacoverage": 0.0252,
             "id": "COOP:050843",
             "elevationUnit": "METERS",
             "longitude": -105.28125
@@ -576,28 +446,6 @@
             "id": "COOP:050848",
             "elevationUnit": "METERS",
             "longitude": -105.2667
-        },
-        {
-            "elevation": 1609.3,
-            "mindate": "1941-12-01",
-            "maxdate": "1959-12-01",
-            "latitude": 39.31667,
-            "name": "BOVINA 3 NNE, CO US",
-            "datacoverage": 0.9816,
-            "id": "COOP:050862",
-            "elevationUnit": "METERS",
-            "longitude": -103.35
-        },
-        {
-            "elevation": 1706.9,
-            "mindate": "1937-05-01",
-            "maxdate": "1950-04-01",
-            "latitude": 37.23333,
-            "name": "BOX RANCH, CO US",
-            "datacoverage": 0.8719,
-            "id": "COOP:050873",
-            "elevationUnit": "METERS",
-            "longitude": -103.8
         },
         {
             "elevation": 1445.1,
@@ -737,21 +585,10 @@
             "maxdate": "1978-06-01",
             "latitude": 39.48333,
             "name": "BURLINGTON 12 NNE, CO US",
-            "datacoverage": 1,
+            "datacoverage": 0.0201,
             "id": "COOP:051126",
             "elevationUnit": "METERS",
             "longitude": -102.16667
-        },
-        {
-            "elevation": 1293,
-            "mindate": "1948-08-01",
-            "maxdate": "1955-04-23",
-            "latitude": 39.25,
-            "name": "BURLINGTON 8 SE, CO US",
-            "datacoverage": 1,
-            "id": "COOP:051131",
-            "elevationUnit": "METERS",
-            "longitude": -102.15
         },
         {
             "elevation": 1478.9,
@@ -787,17 +624,6 @@
             "longitude": -105.7088
         },
         {
-            "elevation": 1983.6,
-            "mindate": "1931-01-01",
-            "maxdate": "1943-01-01",
-            "latitude": 39.05,
-            "name": "CALHAN, CO US",
-            "datacoverage": 0.9999,
-            "id": "COOP:051220",
-            "elevationUnit": "METERS",
-            "longitude": -104.33333
-        },
-        {
             "elevation": 1251.2,
             "mindate": "1954-05-01",
             "maxdate": "2015-11-01",
@@ -807,17 +633,6 @@
             "id": "COOP:051268",
             "elevationUnit": "METERS",
             "longitude": -102.55367
-        },
-        {
-            "elevation": 1333.5,
-            "mindate": "1951-01-01",
-            "maxdate": "1953-12-01",
-            "latitude": 37.06667,
-            "name": "CAMPO 21 E, CO US",
-            "datacoverage": 0.972,
-            "id": "COOP:051278",
-            "elevationUnit": "METERS",
-            "longitude": -102.23333
         },
         {
             "elevation": 1639.2,
@@ -842,28 +657,6 @@
             "longitude": -105.51667
         },
         {
-            "elevation": 2699,
-            "mindate": "1931-01-01",
-            "maxdate": "1957-12-01",
-            "latitude": 37.66667,
-            "name": "CASCADE, CO US",
-            "datacoverage": 1,
-            "id": "COOP:051384",
-            "elevationUnit": "METERS",
-            "longitude": -107.8
-        },
-        {
-            "elevation": 2439.9,
-            "mindate": "1958-01-01",
-            "maxdate": "1958-12-01",
-            "latitude": 37.61667,
-            "name": "CASCADE NUMBER 2, CO US",
-            "datacoverage": 1,
-            "id": "COOP:051385",
-            "elevationUnit": "METERS",
-            "longitude": -107.81667
-        },
-        {
             "elevation": 1885.2,
             "mindate": "1948-08-01",
             "maxdate": "2015-11-01",
@@ -873,17 +666,6 @@
             "id": "COOP:051401",
             "elevationUnit": "METERS",
             "longitude": -104.9058
-        },
-        {
-            "elevation": 1894,
-            "mindate": "1967-01-01",
-            "maxdate": "1968-11-01",
-            "latitude": 39.36667,
-            "name": "CASTLE ROCK 2, CO US",
-            "datacoverage": 0.0077,
-            "id": "COOP:051408",
-            "elevationUnit": "METERS",
-            "longitude": -104.86667
         },
         {
             "elevation": 1903.2,
@@ -985,28 +767,6 @@
             "longitude": -102.3329
         },
         {
-            "elevation": 1998,
-            "mindate": "1961-08-01",
-            "maxdate": "1962-07-01",
-            "latitude": 37.2,
-            "name": "CHIMNEY ROCK, CO US",
-            "datacoverage": 0.5003,
-            "id": "COOP:051570",
-            "elevationUnit": "METERS",
-            "longitude": -107.3
-        },
-        {
-            "elevation": 1189.9,
-            "mindate": "1953-03-01",
-            "maxdate": "1954-12-01",
-            "latitude": 38.43333,
-            "name": "CHIVINGTON, CO US",
-            "datacoverage": 0.998,
-            "id": "COOP:051586",
-            "elevationUnit": "METERS",
-            "longitude": -102.53333
-        },
-        {
             "elevation": 2100.1,
             "mindate": "1951-10-01",
             "maxdate": "2015-11-01",
@@ -1056,19 +816,8 @@
             "maxdate": "1975-01-01",
             "latitude": 38.38333,
             "name": "COALDALE 1 NW, CO US",
-            "datacoverage": 0.9742,
+            "datacoverage": 0.0264,
             "id": "COOP:051693",
-            "elevationUnit": "METERS",
-            "longitude": -105.78333
-        },
-        {
-            "elevation": 2104.9,
-            "mindate": "1963-10-01",
-            "maxdate": "1964-11-01",
-            "latitude": 38.35,
-            "name": "COALDALE 2 SW, CO US",
-            "datacoverage": 0.998,
-            "id": "COOP:051698",
             "elevationUnit": "METERS",
             "longitude": -105.78333
         },
@@ -1106,17 +855,6 @@
             "longitude": -107.9797
         },
         {
-            "elevation": 1969.9,
-            "mindate": "1968-01-01",
-            "maxdate": "1970-01-01",
-            "latitude": 39.25,
-            "name": "COLLBRAN 3 ENE, CO US",
-            "datacoverage": 0.9986,
-            "id": "COOP:051745",
-            "elevationUnit": "METERS",
-            "longitude": -107.93333
-        },
-        {
             "elevation": 1762,
             "mindate": "1940-03-01",
             "maxdate": "2015-11-01",
@@ -1126,17 +864,6 @@
             "id": "COOP:051772",
             "elevationUnit": "METERS",
             "longitude": -108.7338
-        },
-        {
-            "elevation": 1861.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1947-07-01",
-            "latitude": 38.85,
-            "name": "COLORADO SPRINGS, CO US",
-            "datacoverage": 1,
-            "id": "COOP:051776",
-            "elevationUnit": "METERS",
-            "longitude": -104.83333
         },
         {
             "elevation": 1884,
@@ -1194,17 +921,6 @@
             "longitude": -104.75278
         },
         {
-            "elevation": 2653.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1949-09-01",
-            "latitude": 40.85,
-            "name": "COLUMBINE, CO US",
-            "datacoverage": 0.6934,
-            "id": "COOP:051792",
-            "elevationUnit": "METERS",
-            "longitude": -106.96667
-        },
-        {
             "elevation": 2901.1,
             "mindate": "1998-08-01",
             "maxdate": "2004-12-01",
@@ -1227,17 +943,6 @@
             "longitude": -105.79444
         },
         {
-            "elevation": 2410.1,
-            "mindate": "1940-06-01",
-            "maxdate": "1960-02-01",
-            "latitude": 37.13333,
-            "name": "CONEJOS 3 NNW, CO US",
-            "datacoverage": 0.9706,
-            "id": "COOP:051816",
-            "elevationUnit": "METERS",
-            "longitude": -106.03333
-        },
-        {
             "elevation": 2370.1,
             "mindate": "1965-02-01",
             "maxdate": "1981-04-20",
@@ -1258,17 +963,6 @@
             "id": "COOP:051829",
             "elevationUnit": "METERS",
             "longitude": -105.36306
-        },
-        {
-            "elevation": 1342,
-            "mindate": "1931-01-01",
-            "maxdate": "1942-10-01",
-            "latitude": 39.58333,
-            "name": "COPE, CO US",
-            "datacoverage": 1,
-            "id": "COOP:051855",
-            "elevationUnit": "METERS",
-            "longitude": -102.9
         },
         {
             "elevation": 1879.7,
@@ -1419,7 +1113,7 @@
             "maxdate": "1974-11-01",
             "latitude": 38.9127,
             "name": "FLORISSANT FOSSIL BED, CO US",
-            "datacoverage": 0.974,
+            "datacoverage": 0.032,
             "id": "COOP:051978",
             "elevationUnit": "METERS",
             "longitude": -105.2849
@@ -1447,23 +1141,12 @@
             "longitude": -103.88333
         },
         {
-            "elevation": 2500.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1936-04-01",
-            "latitude": 37.38333,
-            "name": "CUCHACA CAMPS, CO US",
-            "datacoverage": 1,
-            "id": "COOP:052035",
-            "elevationUnit": "METERS",
-            "longitude": -105.1
-        },
-        {
             "elevation": 1781.6,
             "mindate": "1948-08-01",
             "maxdate": "1988-05-01",
             "latitude": 37.75,
             "name": "CUCHARAS DAM, CO US",
-            "datacoverage": 1,
+            "datacoverage": 0.0177,
             "id": "COOP:052040",
             "elevationUnit": "METERS",
             "longitude": -104.6
@@ -1478,28 +1161,6 @@
             "id": "COOP:052042",
             "elevationUnit": "METERS",
             "longitude": -104.66667
-        },
-        {
-            "elevation": 3052.6,
-            "mindate": "1931-01-01",
-            "maxdate": "1951-08-01",
-            "latitude": 37.01667,
-            "name": "CUMBRES, CO US",
-            "datacoverage": 0.9517,
-            "id": "COOP:052048",
-            "elevationUnit": "METERS",
-            "longitude": -106.45
-        },
-        {
-            "elevation": 1510,
-            "mindate": "1951-12-01",
-            "maxdate": "1954-06-01",
-            "latitude": 39.33333,
-            "name": "DE BEQUE, CO US",
-            "datacoverage": 1,
-            "id": "COOP:052121",
-            "elevationUnit": "METERS",
-            "longitude": -108.21667
         },
         {
             "elevation": 1980.9,
@@ -1777,45 +1438,12 @@
             "longitude": -104.5997
         },
         {
-            "elevation": 2217.1,
-            "mindate": "1956-04-01",
-            "maxdate": "1966-06-01",
-            "latitude": 39.08333,
-            "name": "EASTONVILLE 2 NNE, CO US",
-            "datacoverage": 1,
-            "id": "COOP:052496",
-            "elevationUnit": "METERS",
-            "longitude": -104.55
-        },
-        {
-            "elevation": 2135.1,
-            "mindate": "1956-01-01",
-            "maxdate": "1966-07-01",
-            "latitude": 39.1,
-            "name": "EASTONVILLE 3 NW, CO US",
-            "datacoverage": 0.029,
-            "id": "COOP:052497",
-            "elevationUnit": "METERS",
-            "longitude": -104.6
-        },
-        {
-            "elevation": 2318,
-            "mindate": "1956-01-01",
-            "maxdate": "1966-06-01",
-            "latitude": 39.03333,
-            "name": "EASTONVILLE 6 WSW, CO US",
-            "datacoverage": 1,
-            "id": "COOP:052501",
-            "elevationUnit": "METERS",
-            "longitude": -104.66667
-        },
-        {
             "elevation": 1204.9,
             "mindate": "1948-08-01",
             "maxdate": "2014-01-01",
             "latitude": 40.1097,
             "name": "ECKLEY, CO US",
-            "datacoverage": 0.9479,
+            "datacoverage": 0.0199,
             "id": "COOP:052535",
             "elevationUnit": "METERS",
             "longitude": -102.4906
@@ -1843,17 +1471,6 @@
             "longitude": -102.5258
         },
         {
-            "elevation": 1661.2,
-            "mindate": "1931-01-01",
-            "maxdate": "1962-05-01",
-            "latitude": 39.75,
-            "name": "EDGEWATER, CO US",
-            "datacoverage": 0.9921,
-            "id": "COOP:052557",
-            "elevationUnit": "METERS",
-            "longitude": -105.08333
-        },
-        {
             "elevation": 2055.9,
             "mindate": "1962-04-01",
             "maxdate": "1980-03-01",
@@ -1863,72 +1480,6 @@
             "id": "COOP:052593",
             "elevationUnit": "METERS",
             "longitude": -104.55
-        },
-        {
-            "elevation": 2086.1,
-            "mindate": "1956-01-01",
-            "maxdate": "1966-06-01",
-            "latitude": 39.25,
-            "name": "ELBERT 2 WNW, CO US",
-            "datacoverage": 0.913,
-            "id": "COOP:052595",
-            "elevationUnit": "METERS",
-            "longitude": -104.58333
-        },
-        {
-            "elevation": 2058.9,
-            "mindate": "1956-01-01",
-            "maxdate": "1966-06-01",
-            "latitude": 39.2,
-            "name": "ELBERT 3 SE, CO US",
-            "datacoverage": 1,
-            "id": "COOP:052597",
-            "elevationUnit": "METERS",
-            "longitude": -104.5
-        },
-        {
-            "elevation": 2201.9,
-            "mindate": "1956-01-01",
-            "maxdate": "1966-06-01",
-            "latitude": 39.16667,
-            "name": "ELBERT 4 SSW, CO US",
-            "datacoverage": 0.9844,
-            "id": "COOP:052598",
-            "elevationUnit": "METERS",
-            "longitude": -104.56667
-        },
-        {
-            "elevation": 2199.1,
-            "mindate": "1956-01-01",
-            "maxdate": "1966-06-30",
-            "latitude": 39.13333,
-            "name": "ELBERT 6 SSE, CO US",
-            "datacoverage": 0.0332,
-            "id": "COOP:052600",
-            "elevationUnit": "METERS",
-            "longitude": -104.53333
-        },
-        {
-            "elevation": 2114.1,
-            "mindate": "1956-01-01",
-            "maxdate": "1966-06-01",
-            "latitude": 39.16667,
-            "name": "ELBERT 5 SW, CO US",
-            "datacoverage": 0.9447,
-            "id": "COOP:052601",
-            "elevationUnit": "METERS",
-            "longitude": -104.6
-        },
-        {
-            "elevation": 2208,
-            "mindate": "1956-01-01",
-            "maxdate": "1966-06-01",
-            "latitude": 39.11667,
-            "name": "ELBERT 8 SW, CO US",
-            "datacoverage": 1,
-            "id": "COOP:052603",
-            "elevationUnit": "METERS",
-            "longitude": -104.61667
         },
         {
             "elevation": 2562.1,
@@ -1964,17 +1515,6 @@
             "longitude": -104.6091
         },
         {
-            "elevation": 2571,
-            "mindate": "1948-08-01",
-            "maxdate": "1965-03-01",
-            "latitude": 39.48333,
-            "name": "ELK CREEK, CO US",
-            "datacoverage": 0.7636,
-            "id": "COOP:052633",
-            "elevationUnit": "METERS",
-            "longitude": -105.36667
-        },
-        {
             "elevation": 1836.1,
             "mindate": "1967-05-01",
             "maxdate": "1976-10-01",
@@ -1998,11 +1538,11 @@
         },
         {
             "elevation": 1527,
-            "mindate": "1946-01-01",
+            "mindate": "1976-05-01",
             "maxdate": "1977-08-27",
             "latitude": 40.05,
             "name": "ERIE, CO US",
-            "datacoverage": 1,
+            "datacoverage": 0.0115,
             "id": "COOP:052731",
             "elevationUnit": "METERS",
             "longitude": -105.05
@@ -2041,39 +1581,6 @@
             "longitude": -105.315
         },
         {
-            "elevation": 2226.9,
-            "mindate": "1948-08-01",
-            "maxdate": "1968-02-01",
-            "latitude": 39.61667,
-            "name": "EVERGREEN 2 SW, CO US",
-            "datacoverage": 0.9479,
-            "id": "COOP:052795",
-            "elevationUnit": "METERS",
-            "longitude": -105.35
-        },
-        {
-            "elevation": 1090,
-            "mindate": "1943-09-01",
-            "maxdate": "1966-12-01",
-            "latitude": 37.03333,
-            "name": "EVERSOLL RANCH, CO US",
-            "datacoverage": 0.9714,
-            "id": "COOP:052803",
-            "elevationUnit": "METERS",
-            "longitude": -102.06667
-        },
-        {
-            "elevation": 3048,
-            "mindate": "1954-09-01",
-            "maxdate": "1966-08-01",
-            "latitude": 39.23333,
-            "name": "FAIRPLAY, CO US",
-            "datacoverage": 0.9375,
-            "id": "COOP:052814",
-            "elevationUnit": "METERS",
-            "longitude": -106
-        },
-        {
             "elevation": 3046.5,
             "mindate": "2002-06-01",
             "maxdate": "2015-11-01",
@@ -2083,28 +1590,6 @@
             "id": "COOP:052816",
             "elevationUnit": "METERS",
             "longitude": -105.9936
-        },
-        {
-            "elevation": 3034.9,
-            "mindate": "1964-06-01",
-            "maxdate": "1965-09-01",
-            "latitude": 39.21667,
-            "name": "FAIRPLAY 2, CO US",
-            "datacoverage": 0.5,
-            "id": "COOP:052819",
-            "elevationUnit": "METERS",
-            "longitude": -106
-        },
-        {
-            "elevation": 2135.1,
-            "mindate": "1941-08-01",
-            "maxdate": "1960-04-01",
-            "latitude": 40.78333,
-            "name": "FERNDALE RANCH, CO US",
-            "datacoverage": 0.4267,
-            "id": "COOP:052880",
-            "elevationUnit": "METERS",
-            "longitude": -107.65
         },
         {
             "elevation": 1499.9,
@@ -2160,17 +1645,6 @@
             "id": "COOP:052947",
             "elevationUnit": "METERS",
             "longitude": -102.8594
-        },
-        {
-            "elevation": 1583.1,
-            "mindate": "1931-06-01",
-            "maxdate": "1950-08-01",
-            "latitude": 38.38333,
-            "name": "FLORENCE, CO US",
-            "datacoverage": 0.6666,
-            "id": "COOP:052955",
-            "elevationUnit": "METERS",
-            "longitude": -105.13333
         },
         {
             "elevation": 2560.9,
@@ -2283,17 +1757,6 @@
             "longitude": -104.70139
         },
         {
-            "elevation": 1816.6,
-            "mindate": "1941-06-01",
-            "maxdate": "1959-12-01",
-            "latitude": 38.78333,
-            "name": "FOUNTAIN 9 NE, CO US",
-            "datacoverage": 0.9461,
-            "id": "COOP:053068",
-            "elevationUnit": "METERS",
-            "longitude": -104.61667
-        },
-        {
             "elevation": 1319.8,
             "mindate": "1943-09-01",
             "maxdate": "2014-12-01",
@@ -2327,28 +1790,6 @@
             "longitude": -105.8172
         },
         {
-            "elevation": 2699,
-            "mindate": "1931-01-01",
-            "maxdate": "1936-08-01",
-            "latitude": 38.85,
-            "name": "FREMONT EXPERIMENTAL STATION, CO US",
-            "datacoverage": 0.9999,
-            "id": "COOP:053125",
-            "elevationUnit": "METERS",
-            "longitude": -104.95
-        },
-        {
-            "elevation": 2500.9,
-            "mindate": "1948-08-01",
-            "maxdate": "1949-06-01",
-            "latitude": 38,
-            "name": "FROZE CREEK, CO US",
-            "datacoverage": 0.998,
-            "id": "COOP:053138",
-            "elevationUnit": "METERS",
-            "longitude": -105.33333
-        },
-        {
             "elevation": 1371,
             "mindate": "1931-01-01",
             "maxdate": "2011-12-01",
@@ -2380,17 +1821,6 @@
             "id": "COOP:053222",
             "elevationUnit": "METERS",
             "longitude": -105.18333
-        },
-        {
-            "elevation": 2311.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1941-08-01",
-            "latitude": 37.71667,
-            "name": "GARNETT, CO US",
-            "datacoverage": 1,
-            "id": "COOP:053232",
-            "elevationUnit": "METERS",
-            "longitude": -106
         },
         {
             "elevation": 1423.7,
@@ -2437,17 +1867,6 @@
             "longitude": -109.0527
         },
         {
-            "elevation": 2135.1,
-            "mindate": "1967-04-01",
-            "maxdate": "1969-08-01",
-            "latitude": 39,
-            "name": "GLADE PARK STORE, CO US",
-            "datacoverage": 0.6198,
-            "id": "COOP:053310",
-            "elevationUnit": "METERS",
-            "longitude": -108.75
-        },
-        {
             "elevation": 2240.3,
             "mindate": "1995-04-01",
             "maxdate": "1999-03-01",
@@ -2457,28 +1876,6 @@
             "id": "COOP:053331",
             "elevationUnit": "METERS",
             "longitude": -105.45028
-        },
-        {
-            "elevation": 2521.9,
-            "mindate": "1949-10-01",
-            "maxdate": "1958-06-01",
-            "latitude": 40.8,
-            "name": "GLENDEVEY, CO US",
-            "datacoverage": 0.905,
-            "id": "COOP:053340",
-            "elevationUnit": "METERS",
-            "longitude": -105.88333
-        },
-        {
-            "elevation": 2649.9,
-            "mindate": "1948-01-01",
-            "maxdate": "1951-05-01",
-            "latitude": 39.78333,
-            "name": "GLEN MAR, CO US",
-            "datacoverage": 0.8299,
-            "id": "COOP:053345",
-            "elevationUnit": "METERS",
-            "longitude": -106.01667
         },
         {
             "elevation": 1796.8,
@@ -2525,17 +1922,6 @@
             "longitude": -105.32028
         },
         {
-            "elevation": 2318,
-            "mindate": "1957-06-01",
-            "maxdate": "1963-12-01",
-            "latitude": 40.15,
-            "name": "GORE PASS RANCH, CO US",
-            "datacoverage": 0.9998,
-            "id": "COOP:053423",
-            "elevationUnit": "METERS",
-            "longitude": -106.46667
-        },
-        {
             "elevation": 2743.2,
             "mindate": "2000-10-01",
             "maxdate": "2015-11-01",
@@ -2547,23 +1933,12 @@
             "longitude": -106.0056
         },
         {
-            "elevation": 1510,
-            "mindate": "1948-06-01",
-            "maxdate": "1948-11-01",
-            "latitude": 37.45,
-            "name": "GRAFT 2 NNE, CO US",
-            "datacoverage": 0.998,
-            "id": "COOP:053463",
-            "elevationUnit": "METERS",
-            "longitude": -102.88333
-        },
-        {
             "elevation": 1063.4,
             "mindate": "1948-08-01",
             "maxdate": "2014-01-01",
             "latitude": 38.0614,
             "name": "GRANADA, CO US",
-            "datacoverage": 0.8952,
+            "datacoverage": 0.0174,
             "id": "COOP:053477",
             "elevationUnit": "METERS",
             "longitude": -102.3153
@@ -2646,17 +2021,6 @@
             "longitude": -105.6785
         },
         {
-            "elevation": 2094.9,
-            "mindate": "1948-08-01",
-            "maxdate": "1954-08-01",
-            "latitude": 40.78333,
-            "name": "GREAT DIVIDE, CO US",
-            "datacoverage": 0.9742,
-            "id": "COOP:053538",
-            "elevationUnit": "METERS",
-            "longitude": -107.83333
-        },
-        {
             "elevation": 2144,
             "mindate": "1954-07-01",
             "maxdate": "1975-03-01",
@@ -2680,11 +2044,11 @@
         },
         {
             "elevation": 1417.9,
-            "mindate": "1931-01-01",
+            "mindate": "1948-08-01",
             "maxdate": "1989-01-01",
             "latitude": 40.41667,
             "name": "GREELEY, CO US",
-            "datacoverage": 1,
+            "datacoverage": 0.0239,
             "id": "COOP:053546",
             "elevationUnit": "METERS",
             "longitude": -104.68333
@@ -2717,7 +2081,7 @@
             "maxdate": "2014-01-01",
             "latitude": 39.1044,
             "name": "GREENLAND 9 SE, CO US",
-            "datacoverage": 0.9742,
+            "datacoverage": 0.0277,
             "id": "COOP:053579",
             "elevationUnit": "METERS",
             "longitude": -104.7286
@@ -2728,7 +2092,7 @@
             "maxdate": "2014-01-01",
             "latitude": 39.2166,
             "name": "GREENLAND 6 NE, CO US",
-            "datacoverage": 1,
+            "datacoverage": 0.0229,
             "id": "COOP:053584",
             "elevationUnit": "METERS",
             "longitude": -104.7383
@@ -2743,17 +2107,6 @@
             "id": "COOP:053592",
             "elevationUnit": "METERS",
             "longitude": -106.3333
-        },
-        {
-            "elevation": 2072.6,
-            "mindate": "1937-03-01",
-            "maxdate": "1962-03-01",
-            "latitude": 40.61667,
-            "name": "GREYSTONE, CO US",
-            "datacoverage": 0.5515,
-            "id": "COOP:053609",
-            "elevationUnit": "METERS",
-            "longitude": -108.66667
         },
         {
             "elevation": 2429.3,
@@ -2787,28 +2140,6 @@
             "id": "COOP:053652",
             "elevationUnit": "METERS",
             "longitude": -105.3925
-        },
-        {
-            "elevation": 2623.1,
-            "mindate": "1940-06-01",
-            "maxdate": "1950-03-01",
-            "latitude": 38.75,
-            "name": "GUFFEY, CO US",
-            "datacoverage": 0.9832,
-            "id": "COOP:053654",
-            "elevationUnit": "METERS",
-            "longitude": -105.53333
-        },
-        {
-            "elevation": 2745,
-            "mindate": "1950-07-01",
-            "maxdate": "1950-11-01",
-            "latitude": 38.81667,
-            "name": "GUFFEY 5 N, CO US",
-            "datacoverage": 0.9947,
-            "id": "COOP:053655",
-            "elevationUnit": "METERS",
-            "longitude": -105.53333
         },
         {
             "elevation": 2619.8,
@@ -2855,28 +2186,6 @@
             "longitude": -107.608
         },
         {
-            "elevation": 1360,
-            "mindate": "1944-02-01",
-            "maxdate": "1959-12-01",
-            "latitude": 37.48333,
-            "name": "HARMON RANCH, CO US",
-            "datacoverage": 0.9896,
-            "id": "COOP:053783",
-            "elevationUnit": "METERS",
-            "longitude": -102.68333
-        },
-        {
-            "elevation": 2700.5,
-            "mindate": "1931-01-01",
-            "maxdate": "1968-06-01",
-            "latitude": 39.03333,
-            "name": "HARTSEL, CO US",
-            "datacoverage": 0.9976,
-            "id": "COOP:053811",
-            "elevationUnit": "METERS",
-            "longitude": -105.8
-        },
-        {
             "elevation": 1378.3,
             "mindate": "1931-01-01",
             "maxdate": "2015-11-01",
@@ -2897,17 +2206,6 @@
             "id": "COOP:053850",
             "elevationUnit": "METERS",
             "longitude": -105.28333
-        },
-        {
-            "elevation": 1229,
-            "mindate": "1931-01-01",
-            "maxdate": "1946-10-01",
-            "latitude": 40.63333,
-            "name": "HAXTUN, CO US",
-            "datacoverage": 0.7895,
-            "id": "COOP:053854",
-            "elevationUnit": "METERS",
-            "longitude": -102.61667
         },
         {
             "elevation": 1971.1,
@@ -2932,17 +2230,6 @@
             "longitude": -107.095
         },
         {
-            "elevation": 2165.9,
-            "mindate": "1953-09-01",
-            "maxdate": "1957-08-01",
-            "latitude": 40.98333,
-            "name": "HIAWATHA, CO US",
-            "datacoverage": 0.9375,
-            "id": "COOP:053975",
-            "elevationUnit": "METERS",
-            "longitude": -108.61667
-        },
-        {
             "elevation": 1296,
             "mindate": "1941-08-01",
             "maxdate": "1980-07-01",
@@ -2952,17 +2239,6 @@
             "id": "COOP:053982",
             "elevationUnit": "METERS",
             "longitude": -103.46667
-        },
-        {
-            "elevation": 1738.9,
-            "mindate": "1955-12-01",
-            "maxdate": "1968-11-01",
-            "latitude": 37.26667,
-            "name": "HOEHNE, CO US",
-            "datacoverage": 0.0203,
-            "id": "COOP:054047",
-            "elevationUnit": "METERS",
-            "longitude": -104.38333
         },
         {
             "elevation": 2365.2,
@@ -3036,7 +2312,7 @@
             "maxdate": "2014-01-01",
             "latitude": 39.98392,
             "name": "HOYT, CO US",
-            "datacoverage": 0.9479,
+            "datacoverage": 0.0196,
             "id": "COOP:054155",
             "elevationUnit": "METERS",
             "longitude": -104.08378
@@ -3117,17 +2393,6 @@
             "id": "COOP:054293",
             "elevationUnit": "METERS",
             "longitude": -105.2193
-        },
-        {
-            "elevation": 2308.9,
-            "mindate": "1939-08-01",
-            "maxdate": "1949-01-01",
-            "latitude": 37,
-            "name": "JAROSO, CO US",
-            "datacoverage": 0.9731,
-            "id": "COOP:054346",
-            "elevationUnit": "METERS",
-            "longitude": -105.63333
         },
         {
             "elevation": 1303,
@@ -3251,17 +2516,6 @@
             "longitude": -103.2986
         },
         {
-            "elevation": 1951.9,
-            "mindate": "1937-01-01",
-            "maxdate": "1942-09-01",
-            "latitude": 39.35,
-            "name": "KIOWA, CO US",
-            "datacoverage": 1,
-            "id": "COOP:054580",
-            "elevationUnit": "METERS",
-            "longitude": -104.46667
-        },
-        {
             "elevation": 1937,
             "mindate": "1956-01-01",
             "maxdate": "1976-12-01",
@@ -3271,50 +2525,6 @@
             "id": "COOP:054581",
             "elevationUnit": "METERS",
             "longitude": -104.46667
-        },
-        {
-            "elevation": 1937,
-            "mindate": "1956-04-01",
-            "maxdate": "1966-06-01",
-            "latitude": 39.28333,
-            "name": "KIOWA 5 SE, CO US",
-            "datacoverage": 0.9596,
-            "id": "COOP:054584",
-            "elevationUnit": "METERS",
-            "longitude": -104.43333
-        },
-        {
-            "elevation": 1998,
-            "mindate": "1956-01-01",
-            "maxdate": "1966-06-01",
-            "latitude": 39.3,
-            "name": "KIOWA 4 SW, CO US",
-            "datacoverage": 1,
-            "id": "COOP:054585",
-            "elevationUnit": "METERS",
-            "longitude": -104.51667
-        },
-        {
-            "elevation": 2019,
-            "mindate": "1956-01-01",
-            "maxdate": "1966-07-01",
-            "latitude": 39.28333,
-            "name": "KIOWA 5 S, CO US",
-            "datacoverage": 0.0359,
-            "id": "COOP:054587",
-            "elevationUnit": "METERS",
-            "longitude": -104.46667
-        },
-        {
-            "elevation": 1220.1,
-            "mindate": "1949-05-01",
-            "maxdate": "1953-06-01",
-            "latitude": 39.61667,
-            "name": "KIRK, CO US",
-            "datacoverage": 0.54,
-            "id": "COOP:054592",
-            "elevationUnit": "METERS",
-            "longitude": -102.58333
         },
         {
             "elevation": 1311.2,
@@ -3339,17 +2549,6 @@
             "longitude": -102.7232
         },
         {
-            "elevation": 2019,
-            "mindate": "1941-07-01",
-            "maxdate": "1949-06-01",
-            "latitude": 37.11667,
-            "name": "KLINE 3 W, CO US",
-            "datacoverage": 0.9895,
-            "id": "COOP:054614",
-            "elevationUnit": "METERS",
-            "longitude": -108.18333
-        },
-        {
             "elevation": 2273.8,
             "mindate": "1945-06-01",
             "maxdate": "2015-11-01",
@@ -3359,17 +2558,6 @@
             "id": "COOP:054664",
             "elevationUnit": "METERS",
             "longitude": -106.368
-        },
-        {
-            "elevation": 1723,
-            "mindate": "1948-08-01",
-            "maxdate": "1960-06-01",
-            "latitude": 38.91667,
-            "name": "KUTCH, CO US",
-            "datacoverage": 0.7109,
-            "id": "COOP:054684",
-            "elevationUnit": "METERS",
-            "longitude": -103.86667
         },
         {
             "elevation": 1634.9,
@@ -3461,11 +2649,11 @@
         },
         {
             "elevation": 3128.8,
-            "mindate": "1931-01-01",
+            "mindate": "1958-10-01",
             "maxdate": "1991-10-01",
             "latitude": 38.81667,
             "name": "LAKE MORAINE, CO US",
-            "datacoverage": 0.9823,
+            "datacoverage": 0.033,
             "id": "COOP:054750",
             "elevationUnit": "METERS",
             "longitude": -104.98333
@@ -3515,17 +2703,6 @@
             "longitude": -103.2152
         },
         {
-            "elevation": 1460.9,
-            "mindate": "1964-06-01",
-            "maxdate": "1965-03-01",
-            "latitude": 39.75,
-            "name": "LAST CHANCE, CO US",
-            "datacoverage": 0.7009,
-            "id": "COOP:054856",
-            "elevationUnit": "METERS",
-            "longitude": -103.6
-        },
-        {
             "elevation": 2144,
             "mindate": "1963-08-01",
             "maxdate": "1971-07-01",
@@ -3535,17 +2712,6 @@
             "id": "COOP:054865",
             "elevationUnit": "METERS",
             "longitude": -105
-        },
-        {
-            "elevation": 2817,
-            "mindate": "1931-01-01",
-            "maxdate": "1953-12-01",
-            "latitude": 37.46667,
-            "name": "LA VETA PASS, CO US",
-            "datacoverage": 0.9963,
-            "id": "COOP:054870",
-            "elevationUnit": "METERS",
-            "longitude": -105.16667
         },
         {
             "elevation": 2468.9,
@@ -3614,17 +2780,6 @@
             "longitude": -102.99068
         },
         {
-            "elevation": 1493.5,
-            "mindate": "1941-08-01",
-            "maxdate": "1968-10-01",
-            "latitude": 38.11667,
-            "name": "LIME 3 SE, CO US",
-            "datacoverage": 0.9051,
-            "id": "COOP:055001",
-            "elevationUnit": "METERS",
-            "longitude": -104.58333
-        },
-        {
             "elevation": 1695.9,
             "mindate": "1931-01-01",
             "maxdate": "1971-01-01",
@@ -3680,28 +2835,6 @@
             "longitude": -103.4986
         },
         {
-            "elevation": 2044,
-            "mindate": "1942-09-01",
-            "maxdate": "1955-12-01",
-            "latitude": 38.93333,
-            "name": "LITTLE DOLORES, CO US",
-            "datacoverage": 0.6875,
-            "id": "COOP:055040",
-            "elevationUnit": "METERS",
-            "longitude": -108.85
-        },
-        {
-            "elevation": 1946.1,
-            "mindate": "1961-11-01",
-            "maxdate": "1966-11-01",
-            "latitude": 39.05,
-            "name": "LITTLE DOLORES 5 NE, CO US",
-            "datacoverage": 0.8692,
-            "id": "COOP:055041",
-            "elevationUnit": "METERS",
-            "longitude": -108.85
-        },
-        {
             "elevation": 1871.5,
             "mindate": "1946-08-01",
             "maxdate": "1991-09-01",
@@ -3724,17 +2857,6 @@
             "longitude": -105.01667
         },
         {
-            "elevation": 1601.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1946-11-01",
-            "latitude": 38.93333,
-            "name": "LONG BRANCH, CO US",
-            "datacoverage": 0.9792,
-            "id": "COOP:055108",
-            "elevationUnit": "METERS",
-            "longitude": -103.48333
-        },
-        {
             "elevation": 1508.8,
             "mindate": "1931-01-01",
             "maxdate": "2004-11-01",
@@ -3751,21 +2873,10 @@
             "maxdate": "2014-01-01",
             "latitude": 40.2466,
             "name": "LONGMONT 6 NW, CO US",
-            "datacoverage": 1,
+            "datacoverage": 0.0188,
             "id": "COOP:055121",
             "elevationUnit": "METERS",
             "longitude": -105.1463
-        },
-        {
-            "elevation": 2733.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1948-05-01",
-            "latitude": 40.28333,
-            "name": "LONGS PEAK, CO US",
-            "datacoverage": 0.8326,
-            "id": "COOP:055141",
-            "elevationUnit": "METERS",
-            "longitude": -105.55
         },
         {
             "elevation": 1548.4,
@@ -3810,17 +2921,6 @@
             "id": "COOP:055352",
             "elevationUnit": "METERS",
             "longitude": -104.933
-        },
-        {
-            "elevation": 3308.9,
-            "mindate": "1947-07-01",
-            "maxdate": "1952-09-01",
-            "latitude": 38.4,
-            "name": "MARSHALL PASS, CO US",
-            "datacoverage": 0.9993,
-            "id": "COOP:055394",
-            "elevationUnit": "METERS",
-            "longitude": -106.25
         },
         {
             "elevation": 1709.9,
@@ -3933,17 +3033,6 @@
             "longitude": -107.91667
         },
         {
-            "elevation": 1961.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1953-08-01",
-            "latitude": 40.13333,
-            "name": "MEEKER 10 NW, CO US",
-            "datacoverage": 0.9485,
-            "id": "COOP:055489",
-            "elevationUnit": "METERS",
-            "longitude": -107.98333
-        },
-        {
             "elevation": 2385.1,
             "mindate": "1963-08-01",
             "maxdate": "2007-07-01",
@@ -3953,17 +3042,6 @@
             "id": "COOP:055507",
             "elevationUnit": "METERS",
             "longitude": -106.7422
-        },
-        {
-            "elevation": 2592.9,
-            "mindate": "1949-11-01",
-            "maxdate": "1953-06-01",
-            "latitude": 39.36667,
-            "name": "MEREDITH 4 NE, CO US",
-            "datacoverage": 0.9555,
-            "id": "COOP:055513",
-            "elevationUnit": "METERS",
-            "longitude": -106.68333
         },
         {
             "elevation": 2988.9,
@@ -3986,39 +3064,6 @@
             "id": "COOP:055531",
             "elevationUnit": "METERS",
             "longitude": -108.4893
-        },
-        {
-            "elevation": 1631.9,
-            "mindate": "1948-08-01",
-            "maxdate": "1953-11-01",
-            "latitude": 38.61667,
-            "name": "MIDWAY 4 N, CO US",
-            "datacoverage": 0.6846,
-            "id": "COOP:055564",
-            "elevationUnit": "METERS",
-            "longitude": -104.66667
-        },
-        {
-            "elevation": 1250.9,
-            "mindate": "1952-05-01",
-            "maxdate": "1953-06-01",
-            "latitude": 39.83333,
-            "name": "MILDRED, CO US",
-            "datacoverage": 1,
-            "id": "COOP:055573",
-            "elevationUnit": "METERS",
-            "longitude": -102.46667
-        },
-        {
-            "elevation": 1333.5,
-            "mindate": "1941-08-01",
-            "maxdate": "1950-12-01",
-            "latitude": 37.06667,
-            "name": "CAMPO 21 E, CO US",
-            "datacoverage": 0.991,
-            "id": "COOP:055667",
-            "elevationUnit": "METERS",
-            "longitude": -102.23333
         },
         {
             "elevation": 2344.5,
@@ -4074,17 +3119,6 @@
             "id": "COOP:055722",
             "elevationUnit": "METERS",
             "longitude": -107.8791
-        },
-        {
-            "elevation": 2239.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1965-08-01",
-            "latitude": 39.08333,
-            "name": "MONUMENT 2 WSW, CO US",
-            "datacoverage": 0.9753,
-            "id": "COOP:055730",
-            "elevationUnit": "METERS",
-            "longitude": -104.93333
         },
         {
             "elevation": 2113.8,
@@ -4164,23 +3198,12 @@
             "longitude": -105.59972
         },
         {
-            "elevation": 1780,
-            "mindate": "1948-08-01",
-            "maxdate": "1957-12-07",
-            "latitude": 39.6527,
-            "name": "MORRISON 1 SW, CO US",
-            "datacoverage": 1,
-            "id": "COOP:055805",
-            "elevationUnit": "METERS",
-            "longitude": -105.203
-        },
-        {
             "elevation": 2703.6,
             "mindate": "1948-08-01",
             "maxdate": "1986-03-01",
             "latitude": 37.58333,
             "name": "MULE SHOE LODGE 1 SS, CO US",
-            "datacoverage": 0.7372,
+            "datacoverage": 0.0384,
             "id": "COOP:055819",
             "elevationUnit": "METERS",
             "longitude": -105.18333
@@ -4329,28 +3352,6 @@
             "longitude": -107.0969
         },
         {
-            "elevation": 2500.9,
-            "mindate": "1948-01-01",
-            "maxdate": "1951-11-01",
-            "latitude": 39.55,
-            "name": "OIL SHALE MINE, CO US",
-            "datacoverage": 1,
-            "id": "COOP:056073",
-            "elevationUnit": "METERS",
-            "longitude": -107.93333
-        },
-        {
-            "elevation": 1634.9,
-            "mindate": "1941-04-01",
-            "maxdate": "1955-07-01",
-            "latitude": 38.61667,
-            "name": "OLATHE, CO US",
-            "datacoverage": 0.9419,
-            "id": "COOP:056081",
-            "elevationUnit": "METERS",
-            "longitude": -107.98333
-        },
-        {
             "elevation": 1705.7,
             "mindate": "1983-08-01",
             "maxdate": "1985-09-01",
@@ -4415,17 +3416,6 @@
             "id": "COOP:056205",
             "elevationUnit": "METERS",
             "longitude": -107.6725
-        },
-        {
-            "elevation": 1076.9,
-            "mindate": "1941-08-01",
-            "maxdate": "1959-12-01",
-            "latitude": 40.96667,
-            "name": "OVID, CO US",
-            "datacoverage": 1,
-            "id": "COOP:056225",
-            "elevationUnit": "METERS",
-            "longitude": -102.38333
         },
         {
             "elevation": 2172.9,
@@ -4499,7 +3489,7 @@
             "maxdate": "1977-07-01",
             "latitude": 40.61667,
             "name": "PAOLI, CO US",
-            "datacoverage": 0.9835,
+            "datacoverage": 0.0267,
             "id": "COOP:056299",
             "elevationUnit": "METERS",
             "longitude": -102.46667
@@ -4512,17 +3502,6 @@
             "name": "PAONIA 1 SW, CO US",
             "datacoverage": 0.9957,
             "id": "COOP:056306",
-            "elevationUnit": "METERS",
-            "longitude": -107.62249
-        },
-        {
-            "elevation": 1701.1,
-            "mindate": "1905-01-01",
-            "maxdate": "1957-04-01",
-            "latitude": 38.85234,
-            "name": "PAONIA 1 SW, CO US",
-            "datacoverage": 0.9921,
-            "id": "COOP:056307",
             "elevationUnit": "METERS",
             "longitude": -107.62249
         },
@@ -4604,17 +3583,6 @@
             "longitude": -106.11667
         },
         {
-            "elevation": 2592.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1950-09-01",
-            "latitude": 40.96667,
-            "name": "PEARL, CO US",
-            "datacoverage": 0.6541,
-            "id": "COOP:056382",
-            "elevationUnit": "METERS",
-            "longitude": -106.56667
-        },
-        {
             "elevation": 1649.9,
             "mindate": "1931-01-01",
             "maxdate": "1972-12-01",
@@ -4635,17 +3603,6 @@
             "id": "COOP:056430",
             "elevationUnit": "METERS",
             "longitude": -104.96667
-        },
-        {
-            "elevation": 1698.3,
-            "mindate": "1941-07-01",
-            "maxdate": "1955-12-01",
-            "latitude": 38.9496,
-            "name": "LIMON ATWATER RANCH, CO US",
-            "datacoverage": 0.9883,
-            "id": "COOP:056438",
-            "elevationUnit": "METERS",
-            "longitude": -103.7695
         },
         {
             "elevation": 2803.9,
@@ -4697,7 +3654,7 @@
             "maxdate": "2008-04-01",
             "latitude": 37.5875,
             "name": "PLEASANT VIEW, CO US",
-            "datacoverage": 0.7145,
+            "datacoverage": 0.0219,
             "id": "COOP:056591",
             "elevationUnit": "METERS",
             "longitude": -108.7841
@@ -4725,17 +3682,6 @@
             "longitude": -107.1
         },
         {
-            "elevation": 1339,
-            "mindate": "1943-01-01",
-            "maxdate": "1950-12-01",
-            "latitude": 37.31667,
-            "name": "SPRINGFIELD 8 SW, CO US",
-            "datacoverage": 0.9792,
-            "id": "COOP:056705",
-            "elevationUnit": "METERS",
-            "longitude": -102.71667
-        },
-        {
             "elevation": 1578.9,
             "mindate": "1980-12-01",
             "maxdate": "1982-02-01",
@@ -4745,17 +3691,6 @@
             "id": "COOP:056710",
             "elevationUnit": "METERS",
             "longitude": -103.08333
-        },
-        {
-            "elevation": 1464.9,
-            "mindate": "1948-08-01",
-            "maxdate": "1954-07-30",
-            "latitude": 38.23333,
-            "name": "PUEBLO WEATHER BUREAU AIRPORT, CO US",
-            "datacoverage": 1,
-            "id": "COOP:056738",
-            "elevationUnit": "METERS",
-            "longitude": -104.63333
         },
         {
             "elevation": 1441.4,
@@ -4778,28 +3713,6 @@
             "id": "COOP:056743",
             "elevationUnit": "METERS",
             "longitude": -104.65
-        },
-        {
-            "elevation": 1434.1,
-            "mindate": "1945-05-01",
-            "maxdate": "1954-06-01",
-            "latitude": 38.26667,
-            "name": "PUEBLO FIRE STATION NUMBER 2, CO US",
-            "datacoverage": 0.9819,
-            "id": "COOP:056748",
-            "elevationUnit": "METERS",
-            "longitude": -104.6
-        },
-        {
-            "elevation": 1464,
-            "mindate": "1948-01-01",
-            "maxdate": "1950-01-01",
-            "latitude": 38.28333,
-            "name": "PUEBLO FIRE STATION NUMBER 5, CO US",
-            "datacoverage": 0.9986,
-            "id": "COOP:056753",
-            "elevationUnit": "METERS",
-            "longitude": -104.61667
         },
         {
             "elevation": 1427.1,
@@ -4846,17 +3759,6 @@
             "longitude": -107.08639
         },
         {
-            "elevation": 2849,
-            "mindate": "1948-08-01",
-            "maxdate": "1950-03-25",
-            "latitude": 40.36667,
-            "name": "RABBIT EARS PASS, CO US",
-            "datacoverage": 0.211,
-            "id": "COOP:056811",
-            "elevationUnit": "METERS",
-            "longitude": -106.71667
-        },
-        {
             "elevation": 1798.3,
             "mindate": "1978-05-01",
             "maxdate": "2015-11-01",
@@ -4901,17 +3803,6 @@
             "longitude": -105.01667
         },
         {
-            "elevation": 2625.9,
-            "mindate": "1948-01-01",
-            "maxdate": "1951-08-30",
-            "latitude": 39.51667,
-            "name": "REDCLIFF, CO US",
-            "datacoverage": 1,
-            "id": "COOP:056917",
-            "elevationUnit": "METERS",
-            "longitude": -106.36667
-        },
-        {
             "elevation": 2529.8,
             "mindate": "1991-08-01",
             "maxdate": "1997-04-01",
@@ -4932,28 +3823,6 @@
             "id": "COOP:056925",
             "elevationUnit": "METERS",
             "longitude": -105.55
-        },
-        {
-            "elevation": 2318,
-            "mindate": "1959-10-01",
-            "maxdate": "1962-08-01",
-            "latitude": 40.73333,
-            "name": "RED FEATHER LAKES 6, CO US",
-            "datacoverage": 0.9708,
-            "id": "COOP:056930",
-            "elevationUnit": "METERS",
-            "longitude": -105.51667
-        },
-        {
-            "elevation": 2196.1,
-            "mindate": "1963-08-01",
-            "maxdate": "1964-12-01",
-            "latitude": 39.18333,
-            "name": "REDSTONE, CO US",
-            "datacoverage": 0.7624,
-            "id": "COOP:056966",
-            "elevationUnit": "METERS",
-            "longitude": -107.23333
         },
         {
             "elevation": 2458.2,
@@ -5053,17 +3922,6 @@
             "id": "COOP:057167",
             "elevationUnit": "METERS",
             "longitude": -103.69477
-        },
-        {
-            "elevation": 1446,
-            "mindate": "1955-05-01",
-            "maxdate": "1960-09-01",
-            "latitude": 40.15,
-            "name": "ROGGEN 2 S, CO US",
-            "datacoverage": 0.9992,
-            "id": "COOP:057187",
-            "elevationUnit": "METERS",
-            "longitude": -104.38333
         },
         {
             "elevation": 2585.9,
@@ -5176,17 +4034,6 @@
             "longitude": -106.1445
         },
         {
-            "elevation": 3052.9,
-            "mindate": "1951-01-01",
-            "maxdate": "1953-06-01",
-            "latitude": 38.7,
-            "name": "ST ELMO, CO US",
-            "datacoverage": 1,
-            "id": "COOP:057345",
-            "elevationUnit": "METERS",
-            "longitude": -106.36667
-        },
-        {
             "elevation": 2182.4,
             "mindate": "1897-10-01",
             "maxdate": "2010-09-01",
@@ -5209,23 +4056,12 @@
             "longitude": -106.05
         },
         {
-            "elevation": 2589,
-            "mindate": "1938-01-01",
-            "maxdate": "1943-09-01",
-            "latitude": 37.98333,
-            "name": "SAN ISABEL, CO US",
-            "datacoverage": 1,
-            "id": "COOP:057417",
-            "elevationUnit": "METERS",
-            "longitude": -105.05
-        },
-        {
             "elevation": 2421,
             "mindate": "1948-08-01",
             "maxdate": "2006-09-01",
             "latitude": 37.1954,
             "name": "SAN LUIS, CO US",
-            "datacoverage": 0.6895,
+            "datacoverage": 0.0169,
             "id": "COOP:057428",
             "elevationUnit": "METERS",
             "longitude": -105.4242
@@ -5240,17 +4076,6 @@
             "id": "COOP:057430",
             "elevationUnit": "METERS",
             "longitude": -105.4244
-        },
-        {
-            "elevation": 2297,
-            "mindate": "1946-06-01",
-            "maxdate": "1955-06-01",
-            "latitude": 37.65,
-            "name": "SAN LUIS LAKES 3 W, CO US",
-            "datacoverage": 1,
-            "id": "COOP:057433",
-            "elevationUnit": "METERS",
-            "longitude": -105.8
         },
         {
             "elevation": 2418.9,
@@ -5275,39 +4100,6 @@
             "longitude": -107.1097
         },
         {
-            "elevation": 2354.9,
-            "mindate": "1919-01-01",
-            "maxdate": "1965-12-01",
-            "latitude": 38.48333,
-            "name": "SAPINERO 8 E, CO US",
-            "datacoverage": 0.3759,
-            "id": "COOP:057455",
-            "elevationUnit": "METERS",
-            "longitude": -107.18333
-        },
-        {
-            "elevation": 2837.1,
-            "mindate": "1920-01-01",
-            "maxdate": "1946-08-01",
-            "latitude": 38.46667,
-            "name": "SAPINERO 9 W, CO US",
-            "datacoverage": 0.925,
-            "id": "COOP:057456",
-            "elevationUnit": "METERS",
-            "longitude": -107.46667
-        },
-        {
-            "elevation": 2104.9,
-            "mindate": "1940-05-01",
-            "maxdate": "1946-07-01",
-            "latitude": 37.11667,
-            "name": "SARCILLO, CO US",
-            "datacoverage": 0.9333,
-            "id": "COOP:057459",
-            "elevationUnit": "METERS",
-            "longitude": -104.75
-        },
-        {
             "elevation": 2578.6,
             "mindate": "1958-08-01",
             "maxdate": "2015-11-01",
@@ -5317,28 +4109,6 @@
             "id": "COOP:057460",
             "elevationUnit": "METERS",
             "longitude": -106.4236
-        },
-        {
-            "elevation": 2479.9,
-            "mindate": "1947-07-01",
-            "maxdate": "1958-08-01",
-            "latitude": 38.4,
-            "name": "SARGENTS 6 W, CO US",
-            "datacoverage": 0.9922,
-            "id": "COOP:057461",
-            "elevationUnit": "METERS",
-            "longitude": -106.5
-        },
-        {
-            "elevation": 1882.1,
-            "mindate": "1941-04-01",
-            "maxdate": "1948-06-01",
-            "latitude": 39.36667,
-            "name": "SEDALIA, CO US",
-            "datacoverage": 0.9885,
-            "id": "COOP:057508",
-            "elevationUnit": "METERS",
-            "longitude": -105
         },
         {
             "elevation": 1830.9,
@@ -5452,11 +4222,11 @@
         },
         {
             "elevation": 3157.7,
-            "mindate": "1931-01-01",
+            "mindate": "1977-01-01",
             "maxdate": "1996-09-01",
             "latitude": 40.03278,
             "name": "SILVER LAKE, CO US",
-            "datacoverage": 0.8267,
+            "datacoverage": 0.0172,
             "id": "COOP:057648",
             "elevationUnit": "METERS",
             "longitude": -105.57583
@@ -5478,7 +4248,7 @@
             "maxdate": "2014-01-01",
             "latitude": 39.13983,
             "name": "SIMLA, CO US",
-            "datacoverage": 0.8689,
+            "datacoverage": 0.0231,
             "id": "COOP:057664",
             "elevationUnit": "METERS",
             "longitude": -104.08785
@@ -5551,25 +4321,14 @@
         },
         {
             "elevation": 1373.1,
-            "mindate": "1948-01-01",
+            "mindate": "1948-08-01",
             "maxdate": "1972-06-01",
             "latitude": 37.28333,
             "name": "SPRINGFIELD 8 S, CO US",
-            "datacoverage": 0.99,
+            "datacoverage": 0.0216,
             "id": "COOP:057867",
             "elevationUnit": "METERS",
             "longitude": -102.61667
-        },
-        {
-            "elevation": 1339,
-            "mindate": "1951-01-01",
-            "maxdate": "1956-08-01",
-            "latitude": 37.31667,
-            "name": "SPRINGFIELD 8 SW, CO US",
-            "datacoverage": 0.9999,
-            "id": "COOP:057871",
-            "elevationUnit": "METERS",
-            "longitude": -102.71667
         },
         {
             "elevation": 3507.9,
@@ -5581,17 +4340,6 @@
             "id": "COOP:057881",
             "elevationUnit": "METERS",
             "longitude": -105.5
-        },
-        {
-            "elevation": 2030.9,
-            "mindate": "1944-09-01",
-            "maxdate": "1961-06-01",
-            "latitude": 37.21667,
-            "name": "STATE TURKEY EXPERIMENTAL FAR, CO US",
-            "datacoverage": 0.9903,
-            "id": "COOP:057928",
-            "elevationUnit": "METERS",
-            "longitude": -107.26667
         },
         {
             "elevation": 2092.8,
@@ -5660,39 +4408,6 @@
             "longitude": -106.3713
         },
         {
-            "elevation": 3461.9,
-            "mindate": "1939-02-01",
-            "maxdate": "1949-12-01",
-            "latitude": 37.43333,
-            "name": "SUMMITVILLE, CO US",
-            "datacoverage": 0.9241,
-            "id": "COOP:058092",
-            "elevationUnit": "METERS",
-            "longitude": -106.6
-        },
-        {
-            "elevation": 1787,
-            "mindate": "1931-01-01",
-            "maxdate": "1951-10-01",
-            "latitude": 40.5,
-            "name": "SUNBEAM 7 SW, CO US",
-            "datacoverage": 0.992,
-            "id": "COOP:058100",
-            "elevationUnit": "METERS",
-            "longitude": -108.26667
-        },
-        {
-            "elevation": 2541.1,
-            "mindate": "1950-10-01",
-            "maxdate": "1951-09-01",
-            "latitude": 40,
-            "name": "TABERNASH, CO US",
-            "datacoverage": 0.5003,
-            "id": "COOP:058148",
-            "elevationUnit": "METERS",
-            "longitude": -105.85
-        },
-        {
             "elevation": 2225,
             "mindate": "1949-11-01",
             "maxdate": "1987-08-01",
@@ -5737,37 +4452,15 @@
             "longitude": -107.8736
         },
         {
-            "elevation": 3126,
-            "mindate": "1947-07-01",
-            "maxdate": "1953-07-31",
-            "latitude": 39.33333,
-            "name": "TENNESSEE PASS, CO US",
-            "datacoverage": 0.9998,
-            "id": "COOP:058212",
-            "elevationUnit": "METERS",
-            "longitude": -106.33333
-        },
-        {
             "elevation": 2512.8,
             "mindate": "1948-08-01",
             "maxdate": "2014-01-01",
             "latitude": 37.07273,
             "name": "TERCIO 4 NW, CO US",
-            "datacoverage": 1,
+            "datacoverage": 0.0274,
             "id": "COOP:058220",
             "elevationUnit": "METERS",
             "longitude": -105.05299
-        },
-        {
-            "elevation": 1388.1,
-            "mindate": "1949-09-01",
-            "maxdate": "1953-06-01",
-            "latitude": 39.61667,
-            "name": "THURMAN 3 ENE, CO US",
-            "datacoverage": 0.9573,
-            "id": "COOP:058260",
-            "elevationUnit": "METERS",
-            "longitude": -103.18333
         },
         {
             "elevation": 1472.2,
@@ -5847,17 +4540,6 @@
             "longitude": -103.3
         },
         {
-            "elevation": 2797.1,
-            "mindate": "1965-06-01",
-            "maxdate": "1967-04-01",
-            "latitude": 39.08333,
-            "name": "TWIN LAKES EVAPORATI, CO US",
-            "datacoverage": 0.3484,
-            "id": "COOP:058496",
-            "elevationUnit": "METERS",
-            "longitude": -106.3
-        },
-        {
             "elevation": 2815.1,
             "mindate": "1949-08-01",
             "maxdate": "2015-11-01",
@@ -5880,17 +4562,6 @@
             "longitude": -102.4
         },
         {
-            "elevation": 1296,
-            "mindate": "1953-03-01",
-            "maxdate": "1955-03-01",
-            "latitude": 37.65,
-            "name": "TWO BUTTES RESERVOIR, CO US",
-            "datacoverage": 0.9999,
-            "id": "COOP:058516",
-            "elevationUnit": "METERS",
-            "longitude": -102.53333
-        },
-        {
             "elevation": 1530.4,
             "mindate": "1961-01-01",
             "maxdate": "2015-11-01",
@@ -5900,17 +4571,6 @@
             "id": "COOP:058560",
             "elevationUnit": "METERS",
             "longitude": -108.7422
-        },
-        {
-            "elevation": 1524.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1956-07-01",
-            "latitude": 37.26667,
-            "name": "UTLEYVILLE, CO US",
-            "datacoverage": 0.9219,
-            "id": "COOP:058574",
-            "elevationUnit": "METERS",
-            "longitude": -103.03333
         },
         {
             "elevation": 2531.1,
@@ -6045,17 +4705,6 @@
             "longitude": -105.2103
         },
         {
-            "elevation": 2211,
-            "mindate": "1935-05-01",
-            "maxdate": "1942-04-01",
-            "latitude": 38.78333,
-            "name": "WATERFALL RANCH, CO US",
-            "datacoverage": 0.9999,
-            "id": "COOP:058841",
-            "elevationUnit": "METERS",
-            "longitude": -108.68333
-        },
-        {
             "elevation": 2317.4,
             "mindate": "2004-04-01",
             "maxdate": "2015-11-01",
@@ -6098,50 +4747,6 @@
             "id": "COOP:058931",
             "elevationUnit": "METERS",
             "longitude": -105.466
-        },
-        {
-            "elevation": 2379,
-            "mindate": "1948-08-01",
-            "maxdate": "1959-08-30",
-            "latitude": 39.13333,
-            "name": "WESTCREEK, CO US",
-            "datacoverage": 0.9742,
-            "id": "COOP:058939",
-            "elevationUnit": "METERS",
-            "longitude": -105.11667
-        },
-        {
-            "elevation": 2532,
-            "mindate": "1950-06-01",
-            "maxdate": "1957-10-01",
-            "latitude": 39.1,
-            "name": "WEST MUDDY RANGER ST, CO US",
-            "datacoverage": 0.4156,
-            "id": "COOP:058963",
-            "elevationUnit": "METERS",
-            "longitude": -107.51667
-        },
-        {
-            "elevation": 2007.1,
-            "mindate": "1948-01-01",
-            "maxdate": "1968-07-01",
-            "latitude": 38.21667,
-            "name": "WETMORE 2 S, CO US",
-            "datacoverage": 0.9231,
-            "id": "COOP:058986",
-            "elevationUnit": "METERS",
-            "longitude": -105.1
-        },
-        {
-            "elevation": 2377.4,
-            "mindate": "1949-11-01",
-            "maxdate": "1953-06-01",
-            "latitude": 38.13333,
-            "name": "WETMORE 8 SW, CO US",
-            "datacoverage": 1,
-            "id": "COOP:058988",
-            "elevationUnit": "METERS",
-            "longitude": -105.2
         },
         {
             "elevation": 2244.9,
@@ -6193,21 +4798,10 @@
             "maxdate": "2014-01-01",
             "latitude": 37.8673,
             "name": "WHITE ROCK, CO US",
-            "datacoverage": 0.9742,
+            "datacoverage": 0.0179,
             "id": "COOP:058997",
             "elevationUnit": "METERS",
             "longitude": -104.1138
-        },
-        {
-            "elevation": 1388.1,
-            "mindate": "1941-08-01",
-            "maxdate": "1947-02-01",
-            "latitude": 40.2,
-            "name": "WIGGINS 3 SSE, CO US",
-            "datacoverage": 0.8364,
-            "id": "COOP:059021",
-            "elevationUnit": "METERS",
-            "longitude": -104.06667
         },
         {
             "elevation": 1437.1,
@@ -6222,11 +4816,11 @@
         },
         {
             "elevation": 1798.6,
-            "mindate": "1941-11-01",
+            "mindate": "1948-08-01",
             "maxdate": "1983-09-01",
             "latitude": 38.91667,
             "name": "WILCOX RANCH, CO US",
-            "datacoverage": 0.8671,
+            "datacoverage": 0.0543,
             "id": "COOP:059045",
             "elevationUnit": "METERS",
             "longitude": -107.51667
@@ -6263,17 +4857,6 @@
             "id": "COOP:059096",
             "elevationUnit": "METERS",
             "longitude": -106.2038
-        },
-        {
-            "elevation": 2211,
-            "mindate": "1931-01-01",
-            "maxdate": "1948-08-01",
-            "latitude": 40.3,
-            "name": "WILLOW CREEK 4 SE, CO US",
-            "datacoverage": 0.8773,
-            "id": "COOP:059103",
-            "elevationUnit": "METERS",
-            "longitude": -107.26667
         },
         {
             "elevation": 1457.2,
@@ -6325,7 +4908,7 @@
             "maxdate": "2013-12-22",
             "latitude": 39.1005,
             "name": "WOODLAND PARK 8 NNW, CO US",
-            "datacoverage": 0.9742,
+            "datacoverage": 0.0201,
             "id": "COOP:059210",
             "elevationUnit": "METERS",
             "longitude": -105.0942
@@ -6439,17 +5022,6 @@
             "id": "COOP:059297",
             "elevationUnit": "METERS",
             "longitude": -102.8116
-        },
-        {
-            "elevation": 1623.1,
-            "mindate": "1941-03-01",
-            "maxdate": "1959-08-01",
-            "latitude": 37,
-            "name": "LONG CANYON, CO US",
-            "datacoverage": 0.9593,
-            "id": "COOP:295073",
-            "elevationUnit": "METERS",
-            "longitude": -103.65
         },
         {
             "elevation": 1569.1,
@@ -11004,6 +9576,1436 @@
             "id": "GHCND:US1COBO0241",
             "elevationUnit": "METERS",
             "longitude": -105.145087
+        },
+        {
+            "elevation": 1521.6,
+            "mindate": "2007-05-01",
+            "maxdate": "2010-11-01",
+            "latitude": 40.1723412,
+            "name": "LONGMONT 0.7 ENE, CO US",
+            "datacoverage": 0.9759,
+            "id": "GHCND:US1COBO0242",
+            "elevationUnit": "METERS",
+            "longitude": -105.0984157
+        },
+        {
+            "elevation": 1731,
+            "mindate": "2007-05-01",
+            "maxdate": "2016-11-23",
+            "latitude": 39.957167,
+            "name": "LOUISVILLE 2.6 WSW, CO US",
+            "datacoverage": 0.9991,
+            "id": "GHCND:US1COBO0243",
+            "elevationUnit": "METERS",
+            "longitude": -105.1865
+        },
+        {
+            "elevation": 2492,
+            "mindate": "2007-08-01",
+            "maxdate": "2019-07-03",
+            "latitude": 40.002621,
+            "name": "NEDERLAND 3.3 NNE, CO US",
+            "datacoverage": 0.441,
+            "id": "GHCND:US1COBO0247",
+            "elevationUnit": "METERS",
+            "longitude": -105.471881
+        },
+        {
+            "elevation": 1573.1,
+            "mindate": "2007-08-01",
+            "maxdate": "2020-05-17",
+            "latitude": 40.102041,
+            "name": "NIWOT 2.3 W, CO US",
+            "datacoverage": 1,
+            "id": "GHCND:US1COBO0248",
+            "elevationUnit": "METERS",
+            "longitude": -105.198728
+        },
+        {
+            "elevation": 1531.6,
+            "mindate": "2008-02-01",
+            "maxdate": "2017-02-27",
+            "latitude": 40.19942,
+            "name": "LONGMONT 2.6 NE, CO US",
+            "datacoverage": 1,
+            "id": "GHCND:US1COBO0252",
+            "elevationUnit": "METERS",
+            "longitude": -105.076626
+        },
+        {
+            "elevation": 1540.5,
+            "mindate": "2008-02-01",
+            "maxdate": "2020-05-16",
+            "latitude": 40.177776,
+            "name": "LONGMONT 1.4 WNW, CO US",
+            "datacoverage": 0.9799,
+            "id": "GHCND:US1COBO0254",
+            "elevationUnit": "METERS",
+            "longitude": -105.137842
+        },
+        {
+            "elevation": 1540.2,
+            "mindate": "2008-02-01",
+            "maxdate": "2010-01-01",
+            "latitude": 40.16734,
+            "name": "LONGMONT 0.6 SW, CO US",
+            "datacoverage": 0.916,
+            "id": "GHCND:US1COBO0256",
+            "elevationUnit": "METERS",
+            "longitude": -105.120254
+        },
+        {
+            "elevation": 1534.7,
+            "mindate": "2008-02-01",
+            "maxdate": "2017-08-08",
+            "latitude": 40.180185,
+            "name": "LONGMONT 2.3 WNW, CO US",
+            "datacoverage": 1,
+            "id": "GHCND:US1COBO0261",
+            "elevationUnit": "METERS",
+            "longitude": -105.154111
+        },
+        {
+            "elevation": 1646.8,
+            "mindate": "2008-05-01",
+            "maxdate": "2013-01-14",
+            "latitude": 39.9873,
+            "name": "BOULDER 2.7 S, CO US",
+            "datacoverage": 1,
+            "id": "GHCND:US1COBO0264",
+            "elevationUnit": "METERS",
+            "longitude": -105.2496
+        },
+        {
+            "elevation": 1609.6,
+            "mindate": "2008-06-01",
+            "maxdate": "2020-05-17",
+            "latitude": 39.989316,
+            "name": "LAFAYETTE 0.8 WSW, CO US",
+            "datacoverage": 1,
+            "id": "GHCND:US1COBO0266",
+            "elevationUnit": "METERS",
+            "longitude": -105.11106
+        },
+        {
+            "elevation": 1610.9,
+            "mindate": "2008-06-01",
+            "maxdate": "2011-11-30",
+            "latitude": 40.005625,
+            "name": "BOULDER 1.5 S, CO US",
+            "datacoverage": 1,
+            "id": "GHCND:US1COBO0267",
+            "elevationUnit": "METERS",
+            "longitude": -105.247596
+        },
+        {
+            "elevation": 1547.2,
+            "mindate": "2008-07-01",
+            "maxdate": "2011-03-31",
+            "latitude": 40.104965,
+            "name": "NIWOT 0.7 NNW, CO US",
+            "datacoverage": 1,
+            "id": "GHCND:US1COBO0269",
+            "elevationUnit": "METERS",
+            "longitude": -105.160656
+        },
+        {
+            "elevation": 1591.7,
+            "mindate": "2008-08-01",
+            "maxdate": "2010-04-07",
+            "latitude": 40.058165,
+            "name": "BOULDER 4.6 ENE, CO US",
+            "datacoverage": 0.9925,
+            "id": "GHCND:US1COBO0270",
+            "elevationUnit": "METERS",
+            "longitude": -105.173692
+        },
+        {
+            "elevation": 1575.5,
+            "mindate": "2008-08-01",
+            "maxdate": "2020-05-17",
+            "latitude": 40.03737,
+            "name": "ERIE 1.9 WNW, CO US",
+            "datacoverage": 0.9892,
+            "id": "GHCND:US1COBO0271",
+            "elevationUnit": "METERS",
+            "longitude": -105.079923
+        },
+        {
+            "elevation": 1631.3,
+            "mindate": "2009-06-01",
+            "maxdate": "2009-11-13",
+            "latitude": 39.983818,
+            "name": "LOUISVILLE 1.2 NNE, CO US",
+            "datacoverage": 1,
+            "id": "GHCND:US1COBO0277",
+            "elevationUnit": "METERS",
+            "longitude": -105.130777
+        },
+        {
+            "elevation": 2319.2,
+            "mindate": "2009-10-01",
+            "maxdate": "2010-08-10",
+            "latitude": 40.0295,
+            "name": "BOULDER 7.0 W, CO US",
+            "datacoverage": 0.998,
+            "id": "GHCND:US1COBO0280",
+            "elevationUnit": "METERS",
+            "longitude": -105.3842
+        },
+        {
+            "elevation": 1638,
+            "mindate": "2009-10-01",
+            "maxdate": "2011-07-06",
+            "latitude": 39.99229,
+            "name": "BOULDER 2.4 S, CO US",
+            "datacoverage": 1,
+            "id": "GHCND:US1COBO0281",
+            "elevationUnit": "METERS",
+            "longitude": -105.252956
+        },
+        {
+            "elevation": 1658.1,
+            "mindate": "2010-07-01",
+            "maxdate": "2020-05-15",
+            "latitude": 39.964607,
+            "name": "BOULDER 4.4 S, CO US",
+            "datacoverage": 0.8837,
+            "id": "GHCND:US1COBO0282",
+            "elevationUnit": "METERS",
+            "longitude": -105.236213
+        },
+        {
+            "elevation": 1585.9,
+            "mindate": "2010-01-01",
+            "maxdate": "2010-07-20",
+            "latitude": 40.0204,
+            "name": "ERIE 2.5 WSW, CO US",
+            "datacoverage": 1,
+            "id": "GHCND:US1COBO0283",
+            "elevationUnit": "METERS",
+            "longitude": -105.0912
+        },
+        {
+            "elevation": 1563.9,
+            "mindate": "1998-06-17",
+            "maxdate": "2020-05-17",
+            "latitude": 40.0414439,
+            "name": "ERIE 1.7 WNW, CO US",
+            "datacoverage": 0.9998,
+            "id": "GHCND:US1COBO0285",
+            "elevationUnit": "METERS",
+            "longitude": -105.0729374
+        },
+        {
+            "elevation": 1695,
+            "mindate": "2010-05-01",
+            "maxdate": "2020-05-16",
+            "latitude": 39.977,
+            "name": "BOULDER 3.5 S, CO US",
+            "datacoverage": 0.9999,
+            "id": "GHCND:US1COBO0286",
+            "elevationUnit": "METERS",
+            "longitude": -105.2576
+        },
+        {
+            "elevation": 1617,
+            "mindate": "1998-06-01",
+            "maxdate": "2017-06-30",
+            "latitude": 40.032633,
+            "name": "BOULDER 0.5 NNE, CO US",
+            "datacoverage": 0.9999,
+            "id": "GHCND:US1COBO0288",
+            "elevationUnit": "METERS",
+            "longitude": -105.2463
+        },
+        {
+            "elevation": 1604.5,
+            "mindate": "2010-03-01",
+            "maxdate": "2020-05-17",
+            "latitude": 40.0176745,
+            "name": "LAFAYETTE 2.3 NW, CO US",
+            "datacoverage": 0.9037,
+            "id": "GHCND:US1COBO0290",
+            "elevationUnit": "METERS",
+            "longitude": -105.1287757
+        },
+        {
+            "elevation": 1531,
+            "mindate": "2011-03-01",
+            "maxdate": "2019-11-26",
+            "latitude": 40.1498792,
+            "name": "LONGMONT 2.7 SW, CO US",
+            "datacoverage": 0.9993,
+            "id": "GHCND:US1COBO0292",
+            "elevationUnit": "METERS",
+            "longitude": -105.1519936
+        },
+        {
+            "elevation": 2491.4,
+            "mindate": "2011-04-01",
+            "maxdate": "2020-05-14",
+            "latitude": 39.9892,
+            "name": "NEDERLAND 3.7 ENE, CO US",
+            "datacoverage": 0.9996,
+            "id": "GHCND:US1COBO0296",
+            "elevationUnit": "METERS",
+            "longitude": -105.445
+        },
+        {
+            "elevation": 2335.4,
+            "mindate": "1998-06-01",
+            "maxdate": "2013-09-16",
+            "latitude": 40.0304746,
+            "name": "BOULDER 7.4 W, CO US",
+            "datacoverage": 0.2138,
+            "id": "GHCND:US1COBO0297",
+            "elevationUnit": "METERS",
+            "longitude": -105.3918163
+        },
+        {
+            "elevation": 1643.2,
+            "mindate": "2011-06-01",
+            "maxdate": "2020-04-30",
+            "latitude": 39.99083,
+            "name": "BOULDER 2.5 S, CO US",
+            "datacoverage": 0.9383,
+            "id": "GHCND:US1COBO0298",
+            "elevationUnit": "METERS",
+            "longitude": -105.2557
+        },
+        {
+            "elevation": 1648.7,
+            "mindate": "2011-07-01",
+            "maxdate": "2017-03-24",
+            "latitude": 39.983755,
+            "name": "BOULDER 3.0 S, CO US",
+            "datacoverage": 0.9241,
+            "id": "GHCND:US1COBO0299",
+            "elevationUnit": "METERS",
+            "longitude": -105.24333
+        },
+        {
+            "elevation": 2596.6,
+            "mindate": "2011-09-01",
+            "maxdate": "2013-08-18",
+            "latitude": 39.9683139,
+            "name": "NEDERLAND 0.7 NW, CO US",
+            "datacoverage": 0.9993,
+            "id": "GHCND:US1COBO0300",
+            "elevationUnit": "METERS",
+            "longitude": -105.5158217
+        },
+        {
+            "elevation": 2031.8,
+            "mindate": "2011-09-01",
+            "maxdate": "2012-06-09",
+            "latitude": 40.05074,
+            "name": "BOULDER 6.7 WNW, CO US",
+            "datacoverage": 1,
+            "id": "GHCND:US1COBO0301",
+            "elevationUnit": "METERS",
+            "longitude": -105.3741
+        },
+        {
+            "elevation": 1545,
+            "mindate": "2012-02-01",
+            "maxdate": "2017-01-09",
+            "latitude": 40.136884,
+            "name": "LONGMONT 3.4 SW, CO US",
+            "datacoverage": 1,
+            "id": "GHCND:US1COBO0305",
+            "elevationUnit": "METERS",
+            "longitude": -105.155356
+        },
+        {
+            "elevation": 1567,
+            "mindate": "1998-06-01",
+            "maxdate": "2020-03-19",
+            "latitude": 40.10444444,
+            "name": "NIWOT 0.9 NE, CO US",
+            "datacoverage": 0.1682,
+            "id": "GHCND:US1COBO0306",
+            "elevationUnit": "METERS",
+            "longitude": -105.1438889
+        },
+        {
+            "elevation": 2366.5,
+            "mindate": "2012-03-01",
+            "maxdate": "2018-08-15",
+            "latitude": 40.145749,
+            "name": "JAMESTOWN 2.0 N, CO US",
+            "datacoverage": 0.8339,
+            "id": "GHCND:US1COBO0308",
+            "elevationUnit": "METERS",
+            "longitude": -105.390472
+        },
+        {
+            "elevation": 1931.8,
+            "mindate": "2012-06-01",
+            "maxdate": "2013-06-20",
+            "latitude": 40.039437,
+            "name": "BOULDER 5.9 W, CO US",
+            "datacoverage": 1,
+            "id": "GHCND:US1COBO0318",
+            "elevationUnit": "METERS",
+            "longitude": -105.361218
+        },
+        {
+            "elevation": 2062.3,
+            "mindate": "2012-07-01",
+            "maxdate": "2015-12-04",
+            "latitude": 40.0510533,
+            "name": "BOULDER 6.7 WNW, CO US",
+            "datacoverage": 0.8292,
+            "id": "GHCND:US1COBO0320",
+            "elevationUnit": "METERS",
+            "longitude": -105.3746687
+        },
+        {
+            "elevation": 1629.2,
+            "mindate": "2012-06-01",
+            "maxdate": "2013-10-24",
+            "latitude": 40.0022315979004,
+            "name": "BOULDER 1.7 S, CO US",
+            "datacoverage": 0.6464,
+            "id": "GHCND:US1COBO0321",
+            "elevationUnit": "METERS",
+            "longitude": -105.254951477051
+        },
+        {
+            "elevation": 2450.6,
+            "mindate": "2012-06-01",
+            "maxdate": "2020-05-17",
+            "latitude": 39.96605,
+            "name": "NEDERLAND 0.4 WNW, CO US",
+            "datacoverage": 1,
+            "id": "GHCND:US1COBO0322",
+            "elevationUnit": "METERS",
+            "longitude": -105.51248
+        },
+        {
+            "elevation": 1521.3,
+            "mindate": "2012-09-01",
+            "maxdate": "2014-05-22",
+            "latitude": 40.1462275,
+            "name": "LONGMONT 1.9 SSW, CO US",
+            "datacoverage": 0.6202,
+            "id": "GHCND:US1COBO0327",
+            "elevationUnit": "METERS",
+            "longitude": -105.121479
+        },
+        {
+            "elevation": 1668.2,
+            "mindate": "2012-08-21",
+            "maxdate": "2019-09-09",
+            "latitude": 39.98959,
+            "name": "BOULDER 5.0 ESE, CO US",
+            "datacoverage": 0.0512,
+            "id": "GHCND:US1COBO0329",
+            "elevationUnit": "METERS",
+            "longitude": -105.170205
+        },
+        {
+            "elevation": 1544.4,
+            "mindate": "2012-08-01",
+            "maxdate": "2020-03-12",
+            "latitude": 40.1439944,
+            "name": "LONGMONT 3.8 WSW, CO US",
+            "datacoverage": 0.9775,
+            "id": "GHCND:US1COBO0331",
+            "elevationUnit": "METERS",
+            "longitude": -105.1736708
+        },
+        {
+            "elevation": 1652,
+            "mindate": "2012-12-01",
+            "maxdate": "2016-03-01",
+            "latitude": 40.045474,
+            "name": "BOULDER 1.6 NW, CO US",
+            "datacoverage": 1,
+            "id": "GHCND:US1COBO0337",
+            "elevationUnit": "METERS",
+            "longitude": -105.267932
+        },
+        {
+            "elevation": 1547.8,
+            "mindate": "2012-12-01",
+            "maxdate": "2020-05-17",
+            "latitude": 40.104343,
+            "name": "NIWOT 0.7 NNW, CO US",
+            "datacoverage": 1,
+            "id": "GHCND:US1COBO0338",
+            "elevationUnit": "METERS",
+            "longitude": -105.160483
+        },
+        {
+            "elevation": 1546.3,
+            "mindate": "2013-01-01",
+            "maxdate": "2018-07-29",
+            "latitude": 40.138003,
+            "name": "LONGMONT 3.7 SW, CO US",
+            "datacoverage": 1,
+            "id": "GHCND:US1COBO0339",
+            "elevationUnit": "METERS",
+            "longitude": -105.165157
+        },
+        {
+            "elevation": 1540.2,
+            "mindate": "2013-10-01",
+            "maxdate": "2015-11-11",
+            "latitude": 40.202395,
+            "name": "LONGMONT 2.0 N, CO US",
+            "datacoverage": 0.9925,
+            "id": "GHCND:US1COBO0341",
+            "elevationUnit": "METERS",
+            "longitude": -105.11136
+        },
+        {
+            "elevation": 1677,
+            "mindate": "2013-04-01",
+            "maxdate": "2020-05-16",
+            "latitude": 39.983686,
+            "name": "LOUISVILLE 1.2 NNW, CO US",
+            "datacoverage": 0.9998,
+            "id": "GHCND:US1COBO0342",
+            "elevationUnit": "METERS",
+            "longitude": -105.1492
+        },
+        {
+            "elevation": 2147.3,
+            "mindate": "2013-03-01",
+            "maxdate": "2020-05-17",
+            "latitude": 40.08386667,
+            "name": "JAMESTOWN 2.5 SSE, CO US",
+            "datacoverage": 0.9993,
+            "id": "GHCND:US1COBO0343",
+            "elevationUnit": "METERS",
+            "longitude": -105.3689333
+        },
+        {
+            "elevation": 1635.6,
+            "mindate": "2013-04-01",
+            "maxdate": "2020-04-24",
+            "latitude": 39.995349,
+            "name": "LAFAYETTE 1.4 W, CO US",
+            "datacoverage": 0.8438,
+            "id": "GHCND:US1COBO0346",
+            "elevationUnit": "METERS",
+            "longitude": -105.124674
+        },
+        {
+            "elevation": 1629.8,
+            "mindate": "2013-05-01",
+            "maxdate": "2019-08-31",
+            "latitude": 40.0432929992676,
+            "name": "BOULDER 1.2 N, CO US",
+            "datacoverage": 0.9652,
+            "id": "GHCND:US1COBO0349",
+            "elevationUnit": "METERS",
+            "longitude": -105.255088806152
+        },
+        {
+            "elevation": 1679.1,
+            "mindate": "2013-04-01",
+            "maxdate": "2016-04-13",
+            "latitude": 39.92793333,
+            "name": "SUPERIOR 0.1 SE, CO US",
+            "datacoverage": 0.9998,
+            "id": "GHCND:US1COBO0350",
+            "elevationUnit": "METERS",
+            "longitude": -105.1542361
+        },
+        {
+            "elevation": 1638.6,
+            "mindate": "2013-05-01",
+            "maxdate": "2020-05-16",
+            "latitude": 40.0027,
+            "name": "LAFAYETTE 2.3 WNW, CO US",
+            "datacoverage": 0.9994,
+            "id": "GHCND:US1COBO0351",
+            "elevationUnit": "METERS",
+            "longitude": -105.141
+        },
+        {
+            "elevation": 1542.3,
+            "mindate": "2013-04-01",
+            "maxdate": "2020-05-15",
+            "latitude": 40.1848,
+            "name": "LONGMONT 1.8 ENE, CO US",
+            "datacoverage": 0.9998,
+            "id": "GHCND:US1COBO0352",
+            "elevationUnit": "METERS",
+            "longitude": -105.082
+        },
+        {
+            "elevation": 1666.6,
+            "mindate": "2013-07-01",
+            "maxdate": "2019-10-02",
+            "latitude": 39.9769111722708,
+            "name": "LOUISVILLE 0.7 NW, CO US",
+            "datacoverage": 0.773,
+            "id": "GHCND:US1COBO0354",
+            "elevationUnit": "METERS",
+            "longitude": -105.147400572896
+        },
+        {
+            "elevation": 2519.5,
+            "mindate": "1998-06-01",
+            "maxdate": "2020-05-17",
+            "latitude": 39.99498,
+            "name": "NEDERLAND 2.8 NE, CO US",
+            "datacoverage": 1,
+            "id": "GHCND:US1COBO0355",
+            "elevationUnit": "METERS",
+            "longitude": -105.474262
+        },
+        {
+            "elevation": 1688.9,
+            "mindate": "2013-10-01",
+            "maxdate": "2020-05-04",
+            "latitude": 39.984444,
+            "name": "LOUISVILLE 1.2 NNW, CO US",
+            "datacoverage": 0.9001,
+            "id": "GHCND:US1COBO0366",
+            "elevationUnit": "METERS",
+            "longitude": -105.149042
+        },
+        {
+            "elevation": 1584.7,
+            "mindate": "2013-10-01",
+            "maxdate": "2020-05-15",
+            "latitude": 40.0022352486849,
+            "name": "LAFAYETTE 0.9 NE, CO US",
+            "datacoverage": 1,
+            "id": "GHCND:US1COBO0367",
+            "elevationUnit": "METERS",
+            "longitude": -105.085123032331
+        },
+        {
+            "elevation": 1627.6,
+            "mindate": "2013-09-01",
+            "maxdate": "2015-12-10",
+            "latitude": 39.99005,
+            "name": "LOUISVILLE 1.7 NNE, CO US",
+            "datacoverage": 0.9646,
+            "id": "GHCND:US1COBO0368",
+            "elevationUnit": "METERS",
+            "longitude": -105.1225
+        },
+        {
+            "elevation": 1602,
+            "mindate": "2011-12-01",
+            "maxdate": "2014-06-21",
+            "latitude": 40.0318756103516,
+            "name": "BOULDER 0.7 ENE, CO US",
+            "datacoverage": 0.6617,
+            "id": "GHCND:US1COBO0370",
+            "elevationUnit": "METERS",
+            "longitude": -105.240173339844
+        },
+        {
+            "elevation": 1663.6,
+            "mindate": "2013-11-01",
+            "maxdate": "2018-05-21",
+            "latitude": 39.9780960083008,
+            "name": "BOULDER 3.4 S, CO US",
+            "datacoverage": 0.0643,
+            "id": "GHCND:US1COBO0372",
+            "elevationUnit": "METERS",
+            "longitude": -105.241065979004
+        },
+        {
+            "elevation": 2520.7,
+            "mindate": "2014-02-01",
+            "maxdate": "2020-04-16",
+            "latitude": 40.19122983,
+            "name": "ALLENSPARK 2.2 ESE, CO US",
+            "datacoverage": 1,
+            "id": "GHCND:US1COBO0373",
+            "elevationUnit": "METERS",
+            "longitude": -105.4799798
+        },
+        {
+            "elevation": 2593.8,
+            "mindate": "2014-04-01",
+            "maxdate": "2020-05-17",
+            "latitude": 39.9389,
+            "name": "PINECLIFFE 2.5 WNW, CO US",
+            "datacoverage": 0.9993,
+            "id": "GHCND:US1COBO0378",
+            "elevationUnit": "METERS",
+            "longitude": -105.4749
+        },
+        {
+            "elevation": 1690.1,
+            "mindate": "2014-04-01",
+            "maxdate": "2017-10-03",
+            "latitude": 39.9326,
+            "name": "SUPERIOR 0.4 WNW, CO US",
+            "datacoverage": 0.8328,
+            "id": "GHCND:US1COBO0379",
+            "elevationUnit": "METERS",
+            "longitude": -105.1619
+        },
+        {
+            "elevation": 1657.8,
+            "mindate": "2014-05-01",
+            "maxdate": "2020-05-17",
+            "latitude": 40.0239,
+            "name": "BOULDER 2.0 W, CO US",
+            "datacoverage": 0.9987,
+            "id": "GHCND:US1COBO0380",
+            "elevationUnit": "METERS",
+            "longitude": -105.2893
+        },
+        {
+            "elevation": 1530.7,
+            "mindate": "2014-07-01",
+            "maxdate": "2019-10-03",
+            "latitude": 40.193889,
+            "name": "LONGMONT 2.4 NE, CO US",
+            "datacoverage": 0.9819,
+            "id": "GHCND:US1COBO0383",
+            "elevationUnit": "METERS",
+            "longitude": -105.075556
+        },
+        {
+            "elevation": 1548.1,
+            "mindate": "2014-07-01",
+            "maxdate": "2014-11-17",
+            "latitude": 40.104848,
+            "name": "NIWOT 0.7 NNW, CO US",
+            "datacoverage": 0.9947,
+            "id": "GHCND:US1COBO0385",
+            "elevationUnit": "METERS",
+            "longitude": -105.1611
+        },
+        {
+            "elevation": 1644.1,
+            "mindate": "2014-08-01",
+            "maxdate": "2015-04-05",
+            "latitude": 39.986744,
+            "name": "BOULDER 2.8 S, CO US",
+            "datacoverage": 1,
+            "id": "GHCND:US1COBO0386",
+            "elevationUnit": "METERS",
+            "longitude": -105.243332
+        },
+        {
+            "elevation": 1693.2,
+            "mindate": "2014-10-01",
+            "maxdate": "2020-05-17",
+            "latitude": 40.0313,
+            "name": "BOULDER 2.2 W, CO US",
+            "datacoverage": 0.9998,
+            "id": "GHCND:US1COBO0391",
+            "elevationUnit": "METERS",
+            "longitude": -105.292389
+        },
+        {
+            "elevation": 2587.1,
+            "mindate": "2014-11-08",
+            "maxdate": "2020-05-16",
+            "latitude": 40.2326571196318,
+            "name": "ALLENSPARK 2.3 N, CO US",
+            "datacoverage": 0.3658,
+            "id": "GHCND:US1COBO0394",
+            "elevationUnit": "METERS",
+            "longitude": -105.527498424053
+        },
+        {
+            "elevation": 1752,
+            "mindate": "2015-04-01",
+            "maxdate": "2020-05-16",
+            "latitude": 40.129082,
+            "name": "BOULDER 7.4 NNW, CO US",
+            "datacoverage": 0.998,
+            "id": "GHCND:US1COBO0401",
+            "elevationUnit": "METERS",
+            "longitude": -105.289947
+        },
+        {
+            "elevation": 1578.6,
+            "mindate": "2015-09-01",
+            "maxdate": "2020-03-10",
+            "latitude": 40.033368,
+            "name": "BOULDER 2.2 ENE, CO US",
+            "datacoverage": 1,
+            "id": "GHCND:US1COBO0402",
+            "elevationUnit": "METERS",
+            "longitude": -105.210938
+        },
+        {
+            "elevation": 1546.3,
+            "mindate": "2016-12-07",
+            "maxdate": "2020-05-16",
+            "latitude": 40.197936,
+            "name": "LONGMONT 1.9 NNW, CO US",
+            "datacoverage": 0.1313,
+            "id": "GHCND:US1COBO0403",
+            "elevationUnit": "METERS",
+            "longitude": -105.127401
+        },
+        {
+            "elevation": 1598.4,
+            "mindate": "2017-02-14",
+            "maxdate": "2018-07-29",
+            "latitude": 39.9810752868652,
+            "name": "LAFAYETTE 1.0 SSW, CO US",
+            "datacoverage": 0.4783,
+            "id": "GHCND:US1COBO0407",
+            "elevationUnit": "METERS",
+            "longitude": -105.106269836426
+        },
+        {
+            "elevation": 1605.1,
+            "mindate": "2016-04-21",
+            "maxdate": "2020-05-17",
+            "latitude": 40.010224,
+            "name": "BOULDER 1.4 SE, CO US",
+            "datacoverage": 0.9086,
+            "id": "GHCND:US1COBO0409",
+            "elevationUnit": "METERS",
+            "longitude": -105.235447
+        },
+        {
+            "elevation": 1647.4,
+            "mindate": "2017-03-24",
+            "maxdate": "2017-10-09",
+            "latitude": 39.989282,
+            "name": "LOUISVILLE 1.4 N, CO US",
+            "datacoverage": 0.998,
+            "id": "GHCND:US1COBO0423",
+            "elevationUnit": "METERS",
+            "longitude": -105.138524
+        },
+        {
+            "elevation": 1644.7,
+            "mindate": "2017-03-27",
+            "maxdate": "2019-07-06",
+            "latitude": 39.994441,
+            "name": "BOULDER 2.3 S, CO US",
+            "datacoverage": 0.3082,
+            "id": "GHCND:US1COBO0426",
+            "elevationUnit": "METERS",
+            "longitude": -105.255429
+        },
+        {
+            "elevation": 1543.2,
+            "mindate": "2017-06-06",
+            "maxdate": "2019-04-20",
+            "latitude": 40.179,
+            "name": "LONGMONT 1.8 ENE, CO US",
+            "datacoverage": 0.6617,
+            "id": "GHCND:US1COBO0427",
+            "elevationUnit": "METERS",
+            "longitude": -105.07788
+        },
+        {
+            "elevation": 1635.6,
+            "mindate": "2017-06-01",
+            "maxdate": "2020-04-02",
+            "latitude": 39.992771,
+            "name": "BOULDER 2.4 S, CO US",
+            "datacoverage": 0.5063,
+            "id": "GHCND:US1COBO0428",
+            "elevationUnit": "METERS",
+            "longitude": -105.244284
+        },
+        {
+            "elevation": 1902.9,
+            "mindate": "1998-06-17",
+            "maxdate": "2019-04-18",
+            "latitude": 40.05368,
+            "name": "BOULDER 3.3 NW, CO US",
+            "datacoverage": 0.6669,
+            "id": "GHCND:US1COBO0434",
+            "elevationUnit": "METERS",
+            "longitude": -105.30251
+        },
+        {
+            "elevation": 1535,
+            "mindate": "2017-07-01",
+            "maxdate": "2020-05-17",
+            "latitude": 40.1404,
+            "name": "LONGMONT 3.0 SW, CO US",
+            "datacoverage": 0.8384,
+            "id": "GHCND:US1COBO0435",
+            "elevationUnit": "METERS",
+            "longitude": -105.149
+        },
+        {
+            "elevation": 1677,
+            "mindate": "2017-06-23",
+            "maxdate": "2020-05-17",
+            "latitude": 40.027256,
+            "name": "BOULDER 2.1 W, CO US",
+            "datacoverage": 0.8255,
+            "id": "GHCND:US1COBO0437",
+            "elevationUnit": "METERS",
+            "longitude": -105.291319
+        },
+        {
+            "elevation": 1770.9,
+            "mindate": "2017-06-26",
+            "maxdate": "2020-05-16",
+            "latitude": 39.995373,
+            "name": "BOULDER 2.7 SW, CO US",
+            "datacoverage": 0.801,
+            "id": "GHCND:US1COBO0439",
+            "elevationUnit": "METERS",
+            "longitude": -105.282187
+        },
+        {
+            "elevation": 1535.9,
+            "mindate": "2017-06-09",
+            "maxdate": "2020-05-17",
+            "latitude": 40.17254,
+            "name": "LONGMONT 0.3 W, CO US",
+            "datacoverage": 0.7598,
+            "id": "GHCND:US1COBO0441",
+            "elevationUnit": "METERS",
+            "longitude": -105.11745
+        },
+        {
+            "elevation": 1572.8,
+            "mindate": "2017-06-23",
+            "maxdate": "2020-05-16",
+            "latitude": 40.028684,
+            "name": "BOULDER 4.5 E, CO US",
+            "datacoverage": 0.7639,
+            "id": "GHCND:US1COBO0442",
+            "elevationUnit": "METERS",
+            "longitude": -105.165531
+        },
+        {
+            "elevation": 1579.5,
+            "mindate": "2017-06-12",
+            "maxdate": "2020-05-17",
+            "latitude": 40.0589,
+            "name": "BOULDER 4.2 ENE, CO US",
+            "datacoverage": 0.8824,
+            "id": "GHCND:US1COBO0443",
+            "elevationUnit": "METERS",
+            "longitude": -105.18444
+        },
+        {
+            "elevation": 1641,
+            "mindate": "2017-08-01",
+            "maxdate": "2020-05-16",
+            "latitude": 40.045128,
+            "name": "BOULDER 1.4 NNW, CO US",
+            "datacoverage": 0.9925,
+            "id": "GHCND:US1COBO0444",
+            "elevationUnit": "METERS",
+            "longitude": -105.260577
+        },
+        {
+            "elevation": 1626.7,
+            "mindate": "2017-07-01",
+            "maxdate": "2020-04-10",
+            "latitude": 40.00514,
+            "name": "BOULDER 1.5 SSW, CO US",
+            "datacoverage": 1,
+            "id": "GHCND:US1COBO0445",
+            "elevationUnit": "METERS",
+            "longitude": -105.25705
+        },
+        {
+            "elevation": 1620,
+            "mindate": "2017-06-10",
+            "maxdate": "2019-10-03",
+            "latitude": 40.000576,
+            "name": "BOULDER 1.9 SSE, CO US",
+            "datacoverage": 0.6253,
+            "id": "GHCND:US1COBO0446",
+            "elevationUnit": "METERS",
+            "longitude": -105.240434
+        },
+        {
+            "elevation": 1594.1,
+            "mindate": "2012-12-16",
+            "maxdate": "2020-05-11",
+            "latitude": 40.06801,
+            "name": "BOULDER 4.4 NE, CO US",
+            "datacoverage": 0.3572,
+            "id": "GHCND:US1COBO0448",
+            "elevationUnit": "METERS",
+            "longitude": -105.18633
+        },
+        {
+            "elevation": 1642.6,
+            "mindate": "2017-05-29",
+            "maxdate": "2018-08-19",
+            "latitude": 39.99114,
+            "name": "BOULDER 2.5 S, CO US",
+            "datacoverage": 0.7958,
+            "id": "GHCND:US1COBO0451",
+            "elevationUnit": "METERS",
+            "longitude": -105.25185
+        },
+        {
+            "elevation": 1706.3,
+            "mindate": "2017-05-29",
+            "maxdate": "2020-05-16",
+            "latitude": 40.04439,
+            "name": "BOULDER 2.2 NW, CO US",
+            "datacoverage": 1,
+            "id": "GHCND:US1COBO0452",
+            "elevationUnit": "METERS",
+            "longitude": -105.28519
+        },
+        {
+            "elevation": 1707.5,
+            "mindate": "2017-06-23",
+            "maxdate": "2018-07-26",
+            "latitude": 39.98969,
+            "name": "LOUISVILLE 1.6 NNW, CO US",
+            "datacoverage": 1,
+            "id": "GHCND:US1COBO0453",
+            "elevationUnit": "METERS",
+            "longitude": -105.15353
+        },
+        {
+            "elevation": 1574.3,
+            "mindate": "2017-06-30",
+            "maxdate": "2020-05-17",
+            "latitude": 40.0361,
+            "name": "ERIE 1.7 WNW, CO US",
+            "datacoverage": 0.9193,
+            "id": "GHCND:US1COBO0455",
+            "elevationUnit": "METERS",
+            "longitude": -105.0772
+        },
+        {
+            "elevation": 1663.3,
+            "mindate": "2017-06-18",
+            "maxdate": "2020-05-17",
+            "latitude": 39.99698,
+            "name": "BOULDER 2.2 SSW, CO US",
+            "datacoverage": 0.9249,
+            "id": "GHCND:US1COBO0456",
+            "elevationUnit": "METERS",
+            "longitude": -105.26717
+        },
+        {
+            "elevation": 1607.8,
+            "mindate": "2017-11-20",
+            "maxdate": "2020-05-17",
+            "latitude": 40.03176389,
+            "name": "BOULDER 0.7 ENE, CO US",
+            "datacoverage": 0.6096,
+            "id": "GHCND:US1COBO0457",
+            "elevationUnit": "METERS",
+            "longitude": -105.23972222
+        },
+        {
+            "elevation": 1555.7,
+            "mindate": "2017-06-01",
+            "maxdate": "2017-10-07",
+            "latitude": 40.099479,
+            "name": "NIWOT 0.7 WNW, CO US",
+            "datacoverage": 0.998,
+            "id": "GHCND:US1COBO0458",
+            "elevationUnit": "METERS",
+            "longitude": -105.168511
+        },
+        {
+            "elevation": 1611.5,
+            "mindate": "2017-06-08",
+            "maxdate": "2020-05-17",
+            "latitude": 40.03445,
+            "name": "BOULDER 0.8 NE, CO US",
+            "datacoverage": 0.906,
+            "id": "GHCND:US1COBO0462",
+            "elevationUnit": "METERS",
+            "longitude": -105.24074
+        },
+        {
+            "elevation": 1585,
+            "mindate": "2017-07-01",
+            "maxdate": "2018-05-16",
+            "latitude": 39.992073,
+            "name": "LAFAYETTE 0.7 ESE, CO US",
+            "datacoverage": 0.9925,
+            "id": "GHCND:US1COBO0463",
+            "elevationUnit": "METERS",
+            "longitude": -105.085616
+        },
+        {
+            "elevation": 1669.1,
+            "mindate": "2017-07-01",
+            "maxdate": "2020-05-16",
+            "latitude": 39.98062,
+            "name": "BOULDER 3.2 S, CO US",
+            "datacoverage": 0.7392,
+            "id": "GHCND:US1COBO0464",
+            "elevationUnit": "METERS",
+            "longitude": -105.249726
+        },
+        {
+            "elevation": 1671.5,
+            "mindate": "2017-06-11",
+            "maxdate": "2020-05-17",
+            "latitude": 40.0456,
+            "name": "BOULDER 1.8 NW, CO US",
+            "datacoverage": 1,
+            "id": "GHCND:US1COBO0465",
+            "elevationUnit": "METERS",
+            "longitude": -105.275351
+        },
+        {
+            "elevation": 1635.9,
+            "mindate": "2017-06-12",
+            "maxdate": "2020-05-17",
+            "latitude": 39.9917,
+            "name": "LOUISVILLE 1.6 NNE, CO US",
+            "datacoverage": 0.8234,
+            "id": "GHCND:US1COBO0468",
+            "elevationUnit": "METERS",
+            "longitude": -105.1336
+        },
+        {
+            "elevation": 1586.2,
+            "mindate": "2017-06-11",
+            "maxdate": "2020-05-17",
+            "latitude": 40.0739,
+            "name": "NIWOT 2.2 SW, CO US",
+            "datacoverage": 0.8591,
+            "id": "GHCND:US1COBO0469",
+            "elevationUnit": "METERS",
+            "longitude": -105.186
+        },
+        {
+            "elevation": 1595.9,
+            "mindate": "2017-06-23",
+            "maxdate": "2020-05-15",
+            "latitude": 40.01647,
+            "name": "ERIE 2.7 WSW, CO US",
+            "datacoverage": 0.6115,
+            "id": "GHCND:US1COBO0471",
+            "elevationUnit": "METERS",
+            "longitude": -105.09493
+        },
+        {
+            "elevation": 1653.5,
+            "mindate": "2018-02-20",
+            "maxdate": "2020-05-04",
+            "latitude": 40.02404,
+            "name": "BOULDER 1.3 W, CO US",
+            "datacoverage": 0.1727,
+            "id": "GHCND:US1COBO0472",
+            "elevationUnit": "METERS",
+            "longitude": -105.27598
+        },
+        {
+            "elevation": 1623.7,
+            "mindate": "2017-06-12",
+            "maxdate": "2020-05-16",
+            "latitude": 40.00675,
+            "name": "BOULDER 2.9 ESE, CO US",
+            "datacoverage": 0.3243,
+            "id": "GHCND:US1COBO0476",
+            "elevationUnit": "METERS",
+            "longitude": -105.2021
+        },
+        {
+            "elevation": 1630.1,
+            "mindate": "2017-06-23",
+            "maxdate": "2020-05-17",
+            "latitude": 40.060123,
+            "name": "BOULDER 2.3 N, CO US",
+            "datacoverage": 0.9411,
+            "id": "GHCND:US1COBO0477",
+            "elevationUnit": "METERS",
+            "longitude": -105.243721
+        },
+        {
+            "elevation": 1537.7,
+            "mindate": "2017-07-13",
+            "maxdate": "2020-05-17",
+            "latitude": 40.108589,
+            "name": "NIWOT 1.0 NNE, CO US",
+            "datacoverage": 0.6135,
+            "id": "GHCND:US1COBO0479",
+            "elevationUnit": "METERS",
+            "longitude": -105.146366
+        },
+        {
+            "elevation": 1669.1,
+            "mindate": "2017-07-09",
+            "maxdate": "2020-05-17",
+            "latitude": 39.975983,
+            "name": "BOULDER 3.6 SSE, CO US",
+            "datacoverage": 0.7835,
+            "id": "GHCND:US1COBO0481",
+            "elevationUnit": "METERS",
+            "longitude": -105.237104
+        },
+        {
+            "elevation": 1985.8,
+            "mindate": "2017-07-08",
+            "maxdate": "2020-05-15",
+            "latitude": 40.036253,
+            "name": "BOULDER 4.5 W, CO US",
+            "datacoverage": 0.5716,
+            "id": "GHCND:US1COBO0482",
+            "elevationUnit": "METERS",
+            "longitude": -105.335719
+        },
+        {
+            "elevation": 1644.7,
+            "mindate": "2017-08-01",
+            "maxdate": "2018-09-15",
+            "latitude": 40.034714,
+            "name": "BOULDER 1.3 WNW, CO US",
+            "datacoverage": 0.9113,
+            "id": "GHCND:US1COBO0484",
+            "elevationUnit": "METERS",
+            "longitude": -105.273609
+        },
+        {
+            "elevation": 1686.2,
+            "mindate": "2017-10-30",
+            "maxdate": "2020-05-16",
+            "latitude": 39.99855,
+            "name": "BOULDER 2.3 SSW, CO US",
+            "datacoverage": 1,
+            "id": "GHCND:US1COBO0485",
+            "elevationUnit": "METERS",
+            "longitude": -105.27225
+        },
+        {
+            "elevation": 1633.7,
+            "mindate": "2017-11-18",
+            "maxdate": "2019-07-16",
+            "latitude": 40.0422,
+            "name": "BOULDER 1.1 NNW, CO US",
+            "datacoverage": 0.8515,
+            "id": "GHCND:US1COBO0488",
+            "elevationUnit": "METERS",
+            "longitude": -105.2556
+        },
+        {
+            "elevation": 1668.5,
+            "mindate": "2017-03-14",
+            "maxdate": "2018-03-30",
+            "latitude": 40.02247,
+            "name": "BOULDER 2.1 W, CO US",
+            "datacoverage": 1,
+            "id": "GHCND:US1COBO0489",
+            "elevationUnit": "METERS",
+            "longitude": -105.28986
+        },
+        {
+            "elevation": 1650.2,
+            "mindate": "2017-11-12",
+            "maxdate": "2020-05-17",
+            "latitude": 40.03595,
+            "name": "BOULDER 1.5 WNW, CO US",
+            "datacoverage": 0.9161,
+            "id": "GHCND:US1COBO0490",
+            "elevationUnit": "METERS",
+            "longitude": -105.27661
+        },
+        {
+            "elevation": 1654.1,
+            "mindate": "2017-11-12",
+            "maxdate": "2020-05-16",
+            "latitude": 40.02958,
+            "name": "BOULDER 1.8 W, CO US",
+            "datacoverage": 0.7939,
+            "id": "GHCND:US1COBO0491",
+            "elevationUnit": "METERS",
+            "longitude": -105.28524
+        },
+        {
+            "elevation": 1634.6,
+            "mindate": "2017-12-30",
+            "maxdate": "2019-03-04",
+            "latitude": 40.00137,
+            "name": "LAFAYETTE 1.2 WNW, CO US",
+            "datacoverage": 1,
+            "id": "GHCND:US1COBO0492",
+            "elevationUnit": "METERS",
+            "longitude": -105.11871
+        },
+        {
+            "elevation": 1720,
+            "mindate": "2018-03-25",
+            "maxdate": "2020-05-15",
+            "latitude": 40.0011,
+            "name": "BOULDER 2.5 SW, CO US",
+            "datacoverage": 1,
+            "id": "GHCND:US1COBO0494",
+            "elevationUnit": "METERS",
+            "longitude": -105.28342
+        },
+        {
+            "elevation": 1530.1,
+            "mindate": "2018-03-14",
+            "maxdate": "2020-05-17",
+            "latitude": 40.17987,
+            "name": "LONGMONT 1.3 ENE, CO US",
+            "datacoverage": 0.6495,
+            "id": "GHCND:US1COBO0495",
+            "elevationUnit": "METERS",
+            "longitude": -105.08936
+        },
+        {
+            "elevation": 1637.4,
+            "mindate": "2018-03-15",
+            "maxdate": "2020-05-17",
+            "latitude": 40.04725,
+            "name": "BOULDER 1.5 NNW, CO US",
+            "datacoverage": 0.9199,
+            "id": "GHCND:US1COBO0496",
+            "elevationUnit": "METERS",
+            "longitude": -105.25798
+        },
+        {
+            "elevation": 1647.1,
+            "mindate": "2018-04-10",
+            "maxdate": "2020-05-16",
+            "latitude": 39.9807,
+            "name": "BOULDER 3.2 S, CO US",
+            "datacoverage": 0.7214,
+            "id": "GHCND:US1COBO0497",
+            "elevationUnit": "METERS",
+            "longitude": -105.2418
+        },
+        {
+            "elevation": 1624,
+            "mindate": "2018-07-27",
+            "maxdate": "2020-04-13",
+            "latitude": 40.002951,
+            "name": "LAFAYETTE 1.3 WNW, CO US",
+            "datacoverage": 0.6061,
+            "id": "GHCND:US1COBO0504",
+            "elevationUnit": "METERS",
+            "longitude": -105.119328
+        },
+        {
+            "elevation": 1542.9,
+            "mindate": "2018-08-26",
+            "maxdate": "2020-05-17",
+            "latitude": 40.140497,
+            "name": "LONGMONT 3.3 SW, CO US",
+            "datacoverage": 1,
+            "id": "GHCND:US1COBO0507",
+            "elevationUnit": "METERS",
+            "longitude": -105.158107
+        },
+        {
+            "elevation": 1635.9,
+            "mindate": "2018-12-25",
+            "maxdate": "2019-11-09",
+            "latitude": 40.001252,
+            "name": "LAFAYETTE 2.1 WNW, CO US",
+            "datacoverage": 0.7424,
+            "id": "GHCND:US1COBO0513",
+            "elevationUnit": "METERS",
+            "longitude": -105.135974
+        },
+        {
+            "elevation": 1668.8,
+            "mindate": "2019-02-18",
+            "maxdate": "2020-05-16",
+            "latitude": 40.00272,
+            "name": "BOULDER 2.4 SW, CO US",
+            "datacoverage": 0.837,
+            "id": "GHCND:US1COBO0514",
+            "elevationUnit": "METERS",
+            "longitude": -105.28394
+        },
+        {
+            "elevation": 1568.5,
+            "mindate": "2019-05-12",
+            "maxdate": "2020-05-17",
+            "latitude": 40.032219,
+            "name": "ERIE 2.2 W, CO US",
+            "datacoverage": 0.8575,
+            "id": "GHCND:US1COBO0518",
+            "elevationUnit": "METERS",
+            "longitude": -105.087402
+        },
+        {
+            "elevation": 1610,
+            "mindate": "2003-11-01",
+            "maxdate": "2006-11-08",
+            "latitude": 39.9244,
+            "name": "BROOMFIELD 2.5 E, CO US",
+            "datacoverage": 0.9461,
+            "id": "GHCND:US1COBR0003",
+            "elevationUnit": "METERS",
+            "longitude": -105.0393
+        },
+        {
+            "elevation": 1610,
+            "mindate": "2004-05-01",
+            "maxdate": "2005-05-14",
+            "latitude": 39.9396,
+            "name": "BROOMFIELD 3.4 ENE, CO US",
+            "datacoverage": 0.9925,
+            "id": "GHCND:US1COBR0010",
+            "elevationUnit": "METERS",
+            "longitude": -105.0261
+        },
+        {
+            "elevation": 1653.2,
+            "mindate": "1998-06-17",
+            "maxdate": "2019-11-26",
+            "latitude": 39.939,
+            "name": "BROOMFIELD 1.1 NE, CO US",
+            "datacoverage": 0.8379,
+            "id": "GHCND:US1COBR0013",
+            "elevationUnit": "METERS",
+            "longitude": -105.0826
+        },
+        {
+            "elevation": 1642,
+            "mindate": "2006-05-01",
+            "maxdate": "2013-12-03",
+            "latitude": 39.930679,
+            "name": "SUPERIOR 2.5 E, CO US",
+            "datacoverage": 0.9342,
+            "id": "GHCND:US1COBR0021",
+            "elevationUnit": "METERS",
+            "longitude": -105.108266
+        },
+        {
+            "elevation": 1607.5,
+            "mindate": "2008-07-01",
+            "maxdate": "2019-09-01",
+            "latitude": 39.951348,
+            "name": "BROOMFIELD 1.6 ENE, CO US",
+            "datacoverage": 0.9784,
+            "id": "GHCND:US1COBR0023",
+            "elevationUnit": "METERS",
+            "longitude": -105.032886
+        },
+        {
+            "elevation": 1647.7,
+            "mindate": "2008-08-01",
+            "maxdate": "2017-03-21",
+            "latitude": 39.927074,
+            "name": "BROOMFIELD 1.3 SSW, CO US",
+            "datacoverage": 1,
+            "id": "GHCND:US1COBR0024",
+            "elevationUnit": "METERS",
+            "longitude": -105.07429
+        },
+        {
+            "elevation": 1658.4,
+            "mindate": "2009-10-01",
+            "maxdate": "2015-08-20",
+            "latitude": 39.93382,
+            "name": "BROOMFIELD 1.7 WSW, CO US",
+            "datacoverage": 1,
+            "id": "GHCND:US1COBR0025",
+            "elevationUnit": "METERS",
+            "longitude": -105.091588
         }
     ]
 }

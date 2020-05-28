@@ -2,7 +2,7 @@
     "metadata": {
         "resultset": {
             "offset": 1,
-            "count": 706,
+            "count": 586,
             "limit": 1000
         }
     },
@@ -74,28 +74,6 @@
             "longitude": -69.7972
         },
         {
-            "elevation": 465.7,
-            "mindate": "1933-01-01",
-            "maxdate": "1933-08-01",
-            "latitude": 44.966667,
-            "name": "AZISCOHOS DAM, ME US",
-            "datacoverage": 0.3758,
-            "id": "COOP:170325",
-            "elevationUnit": "METERS",
-            "longitude": -70.983333
-        },
-        {
-            "elevation": 18,
-            "mindate": "1931-01-01",
-            "maxdate": "1953-06-01",
-            "latitude": 44.8,
-            "name": "BANGOR, ME US",
-            "datacoverage": 0.9186,
-            "id": "COOP:170350",
-            "elevationUnit": "METERS",
-            "longitude": -68.8
-        },
-        {
             "elevation": 58.5,
             "mindate": "2005-01-01",
             "maxdate": "2005-12-01",
@@ -116,28 +94,6 @@
             "id": "COOP:170355",
             "elevationUnit": "METERS",
             "longitude": -68.8185
-        },
-        {
-            "elevation": 3,
-            "mindate": "1938-09-01",
-            "maxdate": "1948-03-01",
-            "latitude": 44.81667,
-            "name": "BANGOR MUNICIPAL DAM, ME US",
-            "datacoverage": 0.974,
-            "id": "COOP:170360",
-            "elevationUnit": "METERS",
-            "longitude": -68.73333
-        },
-        {
-            "elevation": 34.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1982-08-01",
-            "latitude": 44.41667,
-            "name": "BAR HARBOR 3 NW, ME US",
-            "datacoverage": 0.9742,
-            "id": "COOP:170371",
-            "elevationUnit": "METERS",
-            "longitude": -68.25
         },
         {
             "elevation": 166.1,
@@ -174,11 +130,11 @@
         },
         {
             "elevation": 207.3,
-            "mindate": "1948-05-01",
+            "mindate": "1948-06-01",
             "maxdate": "1988-01-01",
             "latitude": 44.41667,
             "name": "BETHEL, ME US",
-            "datacoverage": 0.0838,
+            "datacoverage": 0.0693,
             "id": "COOP:170571",
             "elevationUnit": "METERS",
             "longitude": -70.78333
@@ -248,17 +204,6 @@
             "id": "COOP:170833",
             "elevationUnit": "METERS",
             "longitude": -67.8442
-        },
-        {
-            "elevation": 220.1,
-            "mindate": "1953-11-01",
-            "maxdate": "1955-07-01",
-            "latitude": 44.11667,
-            "name": "BRIDGTON, ME US",
-            "datacoverage": 1,
-            "id": "COOP:170843",
-            "elevationUnit": "METERS",
-            "longitude": -70.73333
         },
         {
             "elevation": 154.8,
@@ -382,28 +327,6 @@
             "longitude": -69.2416
         },
         {
-            "elevation": 448.1,
-            "mindate": "1956-11-01",
-            "maxdate": "1960-12-01",
-            "latitude": 45.01667,
-            "name": "CUPSUPTIC STOREHOUSE, ME US",
-            "datacoverage": 0.9999,
-            "id": "COOP:171756",
-            "elevationUnit": "METERS",
-            "longitude": -70.85
-        },
-        {
-            "elevation": 64,
-            "mindate": "1957-06-01",
-            "maxdate": "1965-05-01",
-            "latitude": 44.13333,
-            "name": "DAMARISCOTTA MILLS, ME US",
-            "datacoverage": 1,
-            "id": "COOP:171823",
-            "elevationUnit": "METERS",
-            "longitude": -69.51667
-        },
-        {
             "elevation": 144.8,
             "mindate": "1978-09-01",
             "maxdate": "2015-11-01",
@@ -413,17 +336,6 @@
             "id": "COOP:171833",
             "elevationUnit": "METERS",
             "longitude": -67.8613
-        },
-        {
-            "elevation": 353.6,
-            "mindate": "1951-07-01",
-            "maxdate": "1952-06-01",
-            "latitude": 45.2219,
-            "name": "LONG FALLS DAM, ME US",
-            "datacoverage": 0.998,
-            "id": "COOP:171870",
-            "elevationUnit": "METERS",
-            "longitude": -70.1983
         },
         {
             "elevation": 200.3,
@@ -457,17 +369,6 @@
             "id": "COOP:172048",
             "elevationUnit": "METERS",
             "longitude": -70.0963
-        },
-        {
-            "elevation": 185.9,
-            "mindate": "1957-10-01",
-            "maxdate": "1960-10-01",
-            "latitude": 47.03333,
-            "name": "EAGLE LAKE, ME US",
-            "datacoverage": 0.3241,
-            "id": "COOP:172111",
-            "elevationUnit": "METERS",
-            "longitude": -68.6
         },
         {
             "elevation": 231.6,
@@ -536,17 +437,6 @@
             "longitude": -69.2806
         },
         {
-            "elevation": 164.9,
-            "mindate": "1947-05-01",
-            "maxdate": "1969-07-01",
-            "latitude": 45.13333,
-            "name": "EAST SANGERVILLE 5 S, ME US",
-            "datacoverage": 0.9287,
-            "id": "COOP:172442",
-            "elevationUnit": "METERS",
-            "longitude": -69.28333
-        },
-        {
             "elevation": 32,
             "mindate": "2011-01-01",
             "maxdate": "2015-11-01",
@@ -556,17 +446,6 @@
             "id": "COOP:172443",
             "elevationUnit": "METERS",
             "longitude": -68.4582
-        },
-        {
-            "elevation": 52.1,
-            "mindate": "1931-08-01",
-            "maxdate": "1959-06-01",
-            "latitude": 44.31667,
-            "name": "EAST WINTHROP, ME US",
-            "datacoverage": 0.9702,
-            "id": "COOP:172539",
-            "elevationUnit": "METERS",
-            "longitude": -69.9
         },
         {
             "elevation": 6.1,
@@ -603,17 +482,6 @@
         },
         {
             "elevation": 384,
-            "mindate": "1931-01-01",
-            "maxdate": "1948-08-01",
-            "latitude": 45.21039,
-            "name": "EUSTIS, ME US",
-            "datacoverage": 1,
-            "id": "COOP:172695",
-            "elevationUnit": "METERS",
-            "longitude": -70.47272
-        },
-        {
-            "elevation": 384,
             "mindate": "1948-05-01",
             "maxdate": "2015-11-01",
             "latitude": 45.21039,
@@ -631,17 +499,6 @@
             "datacoverage": 0.2711,
             "id": "COOP:172702",
             "longitude": -70.48333
-        },
-        {
-            "elevation": 378,
-            "mindate": "1955-07-01",
-            "maxdate": "1961-09-01",
-            "latitude": 45.28333,
-            "name": "EUSTIS 7 NW, ME US",
-            "datacoverage": 0.0853,
-            "id": "COOP:172705",
-            "elevationUnit": "METERS",
-            "longitude": -70.58333
         },
         {
             "elevation": 39.6,
@@ -677,17 +534,6 @@
             "longitude": -68.61195
         },
         {
-            "elevation": 153,
-            "mindate": "1948-05-01",
-            "maxdate": "1953-11-01",
-            "latitude": 47.25,
-            "name": "FORT KENT 2, ME US",
-            "datacoverage": 0.7145,
-            "id": "COOP:172883",
-            "elevationUnit": "METERS",
-            "longitude": -68.6
-        },
-        {
             "elevation": 268.2,
             "mindate": "2011-01-01",
             "maxdate": "2015-11-01",
@@ -719,28 +565,6 @@
             "id": "COOP:173046",
             "elevationUnit": "METERS",
             "longitude": -69.789
-        },
-        {
-            "elevation": 214,
-            "mindate": "1948-05-01",
-            "maxdate": "1965-07-01",
-            "latitude": 44.4,
-            "name": "GILEAD, ME US",
-            "datacoverage": 0.9466,
-            "id": "COOP:173110",
-            "elevationUnit": "METERS",
-            "longitude": -70.96667
-        },
-        {
-            "elevation": 11.9,
-            "mindate": "1948-05-01",
-            "maxdate": "1948-11-27",
-            "latitude": 44.13333,
-            "name": "GLEN COVE, ME US",
-            "datacoverage": 0.998,
-            "id": "COOP:173137",
-            "elevationUnit": "METERS",
-            "longitude": -69.1
         },
         {
             "elevation": 146.3,
@@ -862,17 +686,6 @@
             "id": "COOP:173794",
             "elevationUnit": "METERS",
             "longitude": -70.75389
-        },
-        {
-            "elevation": 88.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1965-05-01",
-            "latitude": 43.85,
-            "name": "HIRAM 2 S, ME US",
-            "datacoverage": 0.9831,
-            "id": "COOP:173800",
-            "elevationUnit": "METERS",
-            "longitude": -70.8
         },
         {
             "elevation": 92.7,
@@ -1139,17 +952,6 @@
             "longitude": -68.6747
         },
         {
-            "elevation": 125,
-            "mindate": "1952-10-01",
-            "maxdate": "1953-07-01",
-            "latitude": 45.66667,
-            "name": "MILLINOCKET NUMBER 2, ME US",
-            "datacoverage": 0.0893,
-            "id": "COOP:175306",
-            "elevationUnit": "METERS",
-            "longitude": -68.71667
-        },
-        {
             "elevation": 123.7,
             "mindate": "1944-12-01",
             "maxdate": "1972-05-01",
@@ -1172,17 +974,6 @@
             "longitude": -68.6925
         },
         {
-            "elevation": 235,
-            "mindate": "1948-08-01",
-            "maxdate": "1956-09-01",
-            "latitude": 46.3,
-            "name": "MILLINOCKET DAM, ME US",
-            "datacoverage": 0.9387,
-            "id": "COOP:175314",
-            "elevationUnit": "METERS",
-            "longitude": -68.83333
-        },
-        {
             "elevation": 128,
             "mindate": "1931-01-01",
             "maxdate": "2012-05-01",
@@ -1192,17 +983,6 @@
             "id": "COOP:175347",
             "elevationUnit": "METERS",
             "longitude": -69.0101
-        },
-        {
-            "elevation": 195.1,
-            "mindate": "1948-05-01",
-            "maxdate": "1951-10-01",
-            "latitude": 44.45,
-            "name": "MILTON, ME US",
-            "datacoverage": 0.6002,
-            "id": "COOP:175357",
-            "elevationUnit": "METERS",
-            "longitude": -70.65
         },
         {
             "elevation": 316.1,
@@ -1249,28 +1029,6 @@
             "longitude": -70.0002
         },
         {
-            "elevation": 225.9,
-            "mindate": "1948-05-01",
-            "maxdate": "1951-10-29",
-            "latitude": 44.65,
-            "name": "NORTH ANDOVER, ME US",
-            "datacoverage": 0.8503,
-            "id": "COOP:175805",
-            "elevationUnit": "METERS",
-            "longitude": -70.78333
-        },
-        {
-            "elevation": 136.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1953-08-01",
-            "latitude": 44.13333,
-            "name": "NORTH BRIDGTON, ME US",
-            "datacoverage": 0.9816,
-            "id": "COOP:175875",
-            "elevationUnit": "METERS",
-            "longitude": -70.71667
-        },
-        {
             "elevation": 106.7,
             "mindate": "2001-08-01",
             "maxdate": "2012-12-01",
@@ -1293,17 +1051,6 @@
             "longitude": -70.6036
         },
         {
-            "elevation": 34.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1956-10-01",
-            "latitude": 44.93333,
-            "name": "OLD TOWN, ME US",
-            "datacoverage": 0.9774,
-            "id": "COOP:176420",
-            "elevationUnit": "METERS",
-            "longitude": -68.65
-        },
-        {
             "elevation": 41.1,
             "mindate": "1948-06-01",
             "maxdate": "1972-01-01",
@@ -1313,17 +1060,6 @@
             "id": "COOP:176425",
             "elevationUnit": "METERS",
             "longitude": -68.66667
-        },
-        {
-            "elevation": 460.9,
-            "mindate": "1961-07-01",
-            "maxdate": "1969-07-01",
-            "latitude": 44.96667,
-            "name": "OQUOSSOC, ME US",
-            "datacoverage": 0.9792,
-            "id": "COOP:176427",
-            "elevationUnit": "METERS",
-            "longitude": -70.78333
         },
         {
             "elevation": 35.1,
@@ -1357,17 +1093,6 @@
             "id": "COOP:176490",
             "elevationUnit": "METERS",
             "longitude": -68.5523
-        },
-        {
-            "elevation": 214,
-            "mindate": "1962-07-01",
-            "maxdate": "1963-11-01",
-            "latitude": 46.01667,
-            "name": "PATTEN, ME US",
-            "datacoverage": 0.5288,
-            "id": "COOP:176585",
-            "elevationUnit": "METERS",
-            "longitude": -68.45
         },
         {
             "elevation": 244.1,
@@ -1491,17 +1216,6 @@
             "longitude": -70.30444
         },
         {
-            "elevation": 189,
-            "mindate": "1948-06-01",
-            "maxdate": "1957-01-01",
-            "latitude": 45.45,
-            "name": "PRENTISS, ME US",
-            "datacoverage": 0.7318,
-            "id": "COOP:176927",
-            "elevationUnit": "METERS",
-            "longitude": -68.16667
-        },
-        {
             "elevation": 182.6,
             "mindate": "1910-01-01",
             "maxdate": "2015-11-01",
@@ -1511,17 +1225,6 @@
             "id": "COOP:176937",
             "elevationUnit": "METERS",
             "longitude": -68.0089
-        },
-        {
-            "elevation": 163.1,
-            "mindate": "1948-05-01",
-            "maxdate": "1948-08-01",
-            "latitude": 46.68333,
-            "name": "PRESQUE ISLE MUNICIPAL AIRPORT, ME US",
-            "datacoverage": 1,
-            "id": "COOP:176942",
-            "elevationUnit": "METERS",
-            "longitude": -68.05
         },
         {
             "elevation": 98.8,
@@ -1595,21 +1298,10 @@
             "maxdate": "2014-01-01",
             "latitude": 44.103,
             "name": "ROCKLAND, ME US",
-            "datacoverage": 0.7654,
+            "datacoverage": 0.0486,
             "id": "COOP:177255",
             "elevationUnit": "METERS",
             "longitude": -69.1157
-        },
-        {
-            "elevation": 220.1,
-            "mindate": "1943-05-01",
-            "maxdate": "1957-09-01",
-            "latitude": 44.66667,
-            "name": "ROXBURY, ME US",
-            "datacoverage": 0.9073,
-            "id": "COOP:177315",
-            "elevationUnit": "METERS",
-            "longitude": -70.6
         },
         {
             "elevation": 192,
@@ -1621,17 +1313,6 @@
             "id": "COOP:177325",
             "elevationUnit": "METERS",
             "longitude": -70.53722
-        },
-        {
-            "elevation": 153.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1965-11-01",
-            "latitude": 44.55,
-            "name": "RUMFORD, ME US",
-            "datacoverage": 0.9018,
-            "id": "COOP:177330",
-            "elevationUnit": "METERS",
-            "longitude": -70.55
         },
         {
             "elevation": 173.7,
@@ -1678,17 +1359,6 @@
             "longitude": -70.27528
         },
         {
-            "elevation": 185.9,
-            "mindate": "1961-11-01",
-            "maxdate": "1969-12-01",
-            "latitude": 47.16667,
-            "name": "ST FRANCIS, ME US",
-            "datacoverage": 1,
-            "id": "COOP:177407",
-            "elevationUnit": "METERS",
-            "longitude": -68.9
-        },
-        {
             "elevation": 85.3,
             "mindate": "1953-07-01",
             "maxdate": "2015-11-01",
@@ -1727,7 +1397,7 @@
             "maxdate": "2014-01-01",
             "latitude": 44.7638,
             "name": "SKOWHEGAN, ME US",
-            "datacoverage": 0.8253,
+            "datacoverage": 0.0468,
             "id": "COOP:177827",
             "elevationUnit": "METERS",
             "longitude": -69.7194
@@ -1745,7 +1415,7 @@
         },
         {
             "elevation": 200.9,
-            "mindate": "1948-05-01",
+            "mindate": "1948-06-01",
             "maxdate": "1975-12-01",
             "latitude": 44.58333,
             "name": "SOUTH ANDOVER, ME US",
@@ -1760,7 +1430,7 @@
             "maxdate": "1980-12-01",
             "latitude": 44.26805,
             "name": "SOUTHWEST HARBOR 3 S, ME US",
-            "datacoverage": 0.7003,
+            "datacoverage": 0.0624,
             "id": "COOP:178301",
             "elevationUnit": "METERS",
             "longitude": -68.30222
@@ -1788,34 +1458,12 @@
             "longitude": -68.33333
         },
         {
-            "elevation": 351.1,
-            "mindate": "1952-06-01",
-            "maxdate": "1955-06-28",
-            "latitude": 45.13333,
-            "name": "STRATTON, ME US",
-            "datacoverage": 0.9469,
-            "id": "COOP:178555",
-            "elevationUnit": "METERS",
-            "longitude": -70.45
-        },
-        {
-            "elevation": 220.1,
-            "mindate": "1900-01-11",
-            "maxdate": "1951-10-29",
-            "latitude": 44.5,
-            "name": "SUNDAY RIVER, ME US",
-            "datacoverage": 0.8253,
-            "id": "COOP:178598",
-            "elevationUnit": "METERS",
-            "longitude": -70.86667
-        },
-        {
             "elevation": 121.9,
             "mindate": "1948-05-01",
             "maxdate": "1992-02-01",
             "latitude": 44.03333,
             "name": "SWANS FALLS, ME US",
-            "datacoverage": 0.8253,
+            "datacoverage": 0.0632,
             "id": "COOP:178641",
             "elevationUnit": "METERS",
             "longitude": -70.98333
@@ -1830,17 +1478,6 @@
             "id": "COOP:178688",
             "elevationUnit": "METERS",
             "longitude": -69.13333
-        },
-        {
-            "elevation": 182.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1968-03-01",
-            "latitude": 45.35,
-            "name": "THE FORKS, ME US",
-            "datacoverage": 0.9307,
-            "id": "COOP:178721",
-            "elevationUnit": "METERS",
-            "longitude": -69.96667
         },
         {
             "elevation": 189,
@@ -1876,17 +1513,6 @@
             "longitude": -70.2561
         },
         {
-            "elevation": 161.8,
-            "mindate": "1949-09-01",
-            "maxdate": "1959-06-01",
-            "latitude": 44.58333,
-            "name": "UNITY, ME US",
-            "datacoverage": 1,
-            "id": "COOP:178936",
-            "elevationUnit": "METERS",
-            "longitude": -69.33333
-        },
-        {
             "elevation": 446.5,
             "mindate": "1931-01-01",
             "maxdate": "1977-04-01",
@@ -1907,17 +1533,6 @@
             "id": "COOP:178965",
             "elevationUnit": "METERS",
             "longitude": -67.9396
-        },
-        {
-            "elevation": 139.9,
-            "mindate": "1937-07-01",
-            "maxdate": "1950-05-01",
-            "latitude": 45.56667,
-            "name": "VANCEBORO, ME US",
-            "datacoverage": 0.9032,
-            "id": "COOP:178969",
-            "elevationUnit": "METERS",
-            "longitude": -67.43333
         },
         {
             "elevation": 128,
@@ -2019,17 +1634,6 @@
             "longitude": -68.65
         },
         {
-            "elevation": 378,
-            "mindate": "1963-07-01",
-            "maxdate": "1964-06-01",
-            "latitude": 45.38333,
-            "name": "WEST FORKS, ME US",
-            "datacoverage": 0.998,
-            "id": "COOP:179382",
-            "elevationUnit": "METERS",
-            "longitude": -70.01667
-        },
-        {
             "elevation": 164.6,
             "mindate": "1978-05-01",
             "maxdate": "2003-10-01",
@@ -2074,17 +1678,6 @@
             "longitude": -70.4663
         },
         {
-            "elevation": 22.3,
-            "mindate": "1931-01-01",
-            "maxdate": "1957-12-01",
-            "latitude": 44.5272,
-            "name": "WATERVILLE TREATMENT PLANT, ME US",
-            "datacoverage": 0.9753,
-            "id": "COOP:179826",
-            "elevationUnit": "METERS",
-            "longitude": -69.6544
-        },
-        {
             "elevation": 37.5,
             "mindate": "1920-02-01",
             "maxdate": "2015-11-01",
@@ -2105,17 +1698,6 @@
             "id": "GHCND:CA008102975",
             "elevationUnit": "METERS",
             "longitude": -67.3
-        },
-        {
-            "elevation": 11,
-            "mindate": "1898-02-01",
-            "maxdate": "1915-11-30",
-            "latitude": 45.1833,
-            "name": "ST STEPHEN, ME US",
-            "datacoverage": 0.9864,
-            "id": "GHCND:CA008104936",
-            "elevationUnit": "METERS",
-            "longitude": -67.2667
         },
         {
             "elevation": 143.3,
@@ -4943,15 +4525,6 @@
             "longitude": -70.7941
         },
         {
-            "mindate": "1910-11-01",
-            "maxdate": "1922-07-31",
-            "latitude": 46.666667,
-            "name": "ASHLAND, ME US",
-            "datacoverage": 0.8157,
-            "id": "GHCND:USC00170238",
-            "longitude": -68.5
-        },
-        {
             "elevation": 71.3,
             "mindate": "2016-11-01",
             "maxdate": "2020-03-31",
@@ -4963,28 +4536,6 @@
             "longitude": -69.70891
         },
         {
-            "elevation": 40.8,
-            "mindate": "1913-01-01",
-            "maxdate": "1915-01-31",
-            "latitude": 44.3,
-            "name": "AUGUSTA 1, ME US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00170272",
-            "elevationUnit": "METERS",
-            "longitude": -69.783333
-        },
-        {
-            "elevation": 18,
-            "mindate": "1925-10-01",
-            "maxdate": "1953-06-30",
-            "latitude": 44.8,
-            "name": "BANGOR, ME US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00170350",
-            "elevationUnit": "METERS",
-            "longitude": -68.8
-        },
-        {
             "elevation": 58.5,
             "mindate": "2006-02-01",
             "maxdate": "2017-04-19",
@@ -4994,17 +4545,6 @@
             "id": "GHCND:USC00170352",
             "elevationUnit": "METERS",
             "longitude": -68.81333
-        },
-        {
-            "elevation": 34.1,
-            "mindate": "1893-01-01",
-            "maxdate": "1982-08-31",
-            "latitude": 44.41667,
-            "name": "BAR HARBOR 3 NW, ME US",
-            "datacoverage": 0.8997,
-            "id": "GHCND:USC00170371",
-            "elevationUnit": "METERS",
-            "longitude": -68.25
         },
         {
             "elevation": 166.1,
@@ -5029,17 +4569,6 @@
             "longitude": -69.8564
         },
         {
-            "elevation": 457.2,
-            "mindate": "1922-07-01",
-            "maxdate": "1925-09-21",
-            "latitude": 46.283333,
-            "name": "BEETLE MOUNTAIN, ME US",
-            "datacoverage": 0.3331,
-            "id": "GHCND:USC00170445",
-            "elevationUnit": "METERS",
-            "longitude": -69.016667
-        },
-        {
             "elevation": 9.1,
             "mindate": "1893-01-01",
             "maxdate": "2020-03-31",
@@ -5049,17 +4578,6 @@
             "id": "GHCND:USC00170480",
             "elevationUnit": "METERS",
             "longitude": -68.9892
-        },
-        {
-            "elevation": 45.1,
-            "mindate": "1900-01-01",
-            "maxdate": "1903-08-31",
-            "latitude": 44.866667,
-            "name": "BEMIS, ME US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00170495",
-            "elevationUnit": "METERS",
-            "longitude": -70.75
         },
         {
             "elevation": 207.3,
@@ -5093,15 +4611,6 @@
             "id": "GHCND:USC00170583",
             "elevationUnit": "METERS",
             "longitude": -70.7568
-        },
-        {
-            "mindate": "1925-10-01",
-            "maxdate": "1927-01-31",
-            "latitude": 43.483333,
-            "name": "BIDDEFORD, ME US",
-            "datacoverage": 0.3119,
-            "id": "GHCND:USC00170593",
-            "longitude": -70.466667
         },
         {
             "elevation": 114.3,
@@ -5148,17 +4657,6 @@
             "longitude": -67.8442
         },
         {
-            "elevation": 220.1,
-            "mindate": "1953-01-01",
-            "maxdate": "1955-07-31",
-            "latitude": 44.11667,
-            "name": "BRIDGTON, ME US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00170843",
-            "elevationUnit": "METERS",
-            "longitude": -70.73333
-        },
-        {
             "elevation": 154.8,
             "mindate": "1955-01-01",
             "maxdate": "2019-03-01",
@@ -5170,26 +4668,6 @@
             "longitude": -70.7468
         },
         {
-            "elevation": 467,
-            "mindate": "1942-08-01",
-            "maxdate": "1944-06-16",
-            "latitude": 44.35,
-            "name": "CADILLAC, ME US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00171070",
-            "elevationUnit": "METERS",
-            "longitude": -68.233333
-        },
-        {
-            "mindate": "1912-04-01",
-            "maxdate": "1916-12-31",
-            "latitude": 45.033333,
-            "name": "CAMBRIDGE, ME US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00171120",
-            "longitude": -69.466667
-        },
-        {
             "elevation": 46.3,
             "mindate": "2001-01-01",
             "maxdate": "2020-05-16",
@@ -5199,15 +4677,6 @@
             "id": "GHCND:USC00171131",
             "elevationUnit": "METERS",
             "longitude": -70.63882
-        },
-        {
-            "mindate": "1900-01-01",
-            "maxdate": "1902-12-31",
-            "latitude": 44.8,
-            "name": "CARMEL, ME US",
-            "datacoverage": 0.9451,
-            "id": "GHCND:USC00171205",
-            "longitude": -69.05
         },
         {
             "elevation": 256,
@@ -5230,26 +4699,6 @@
             "id": "GHCND:USC00171318",
             "elevationUnit": "METERS",
             "longitude": -69.2083
-        },
-        {
-            "mindate": "1928-07-01",
-            "maxdate": "1929-09-30",
-            "latitude": 46,
-            "name": "CHAMBERLAIN LAKE, ME US",
-            "datacoverage": 0.3996,
-            "id": "GHCND:USC00171320",
-            "longitude": -69
-        },
-        {
-            "elevation": 286.5,
-            "mindate": "1903-12-01",
-            "maxdate": "1906-10-31",
-            "latitude": 46.05,
-            "name": "CHESUNCOOK, ME US",
-            "datacoverage": 0.9708,
-            "id": "GHCND:USC00171350",
-            "elevationUnit": "METERS",
-            "longitude": -69.416667
         },
         {
             "elevation": 284.7,
@@ -5307,50 +4756,6 @@
             "longitude": -69.2416
         },
         {
-            "elevation": 239,
-            "mindate": "1892-12-01",
-            "maxdate": "1924-07-31",
-            "latitude": 43.8,
-            "name": "CORNISH, ME US",
-            "datacoverage": 0.9948,
-            "id": "GHCND:USC00171670",
-            "elevationUnit": "METERS",
-            "longitude": -70.8
-        },
-        {
-            "elevation": 20.4,
-            "mindate": "1896-01-01",
-            "maxdate": "1899-08-31",
-            "latitude": 43.683333,
-            "name": "CUMBERLAND MILLS, ME US",
-            "datacoverage": 0.9997,
-            "id": "GHCND:USC00171705",
-            "elevationUnit": "METERS",
-            "longitude": -70.366667
-        },
-        {
-            "elevation": 448.1,
-            "mindate": "1956-01-01",
-            "maxdate": "1960-10-31",
-            "latitude": 45.01667,
-            "name": "CUPSUPTIC STOREHOUSE, ME US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00171756",
-            "elevationUnit": "METERS",
-            "longitude": -70.85
-        },
-        {
-            "elevation": 64,
-            "mindate": "1956-12-01",
-            "maxdate": "1965-05-11",
-            "latitude": 44.13333,
-            "name": "DAMARISCOTTA MILLS, ME US",
-            "datacoverage": 0.9993,
-            "id": "GHCND:USC00171823",
-            "elevationUnit": "METERS",
-            "longitude": -69.51667
-        },
-        {
             "elevation": 144.8,
             "mindate": "1978-09-01",
             "maxdate": "2016-03-01",
@@ -5360,50 +4765,6 @@
             "id": "GHCND:USC00171833",
             "elevationUnit": "METERS",
             "longitude": -67.8613
-        },
-        {
-            "elevation": 117.7,
-            "mindate": "1902-12-01",
-            "maxdate": "1936-06-30",
-            "latitude": 45.633333,
-            "name": "DANFORTH 1, ME US",
-            "datacoverage": 0.9529,
-            "id": "GHCND:USC00171835",
-            "elevationUnit": "METERS",
-            "longitude": -67.9
-        },
-        {
-            "elevation": 603.8,
-            "mindate": "1922-06-01",
-            "maxdate": "1923-07-31",
-            "latitude": 46.966667,
-            "name": "DEBOLIE MOUNTAIN, ME US",
-            "datacoverage": 0.4287,
-            "id": "GHCND:USC00171860",
-            "elevationUnit": "METERS",
-            "longitude": -68.883333
-        },
-        {
-            "elevation": 205.7,
-            "mindate": "1905-07-01",
-            "maxdate": "1909-10-31",
-            "latitude": 45.783333,
-            "name": "DEBSCONEAG, ME US",
-            "datacoverage": 0.8263,
-            "id": "GHCND:USC00171865",
-            "elevationUnit": "METERS",
-            "longitude": -68.966667
-        },
-        {
-            "elevation": 353.6,
-            "mindate": "1951-01-01",
-            "maxdate": "1953-01-31",
-            "latitude": 45.2219,
-            "name": "LONG FALLS DAM, ME US",
-            "datacoverage": 0.9986,
-            "id": "GHCND:USC00171870",
-            "elevationUnit": "METERS",
-            "longitude": -70.1983
         },
         {
             "elevation": 112.8,
@@ -5426,17 +4787,6 @@
             "id": "GHCND:USC00172048",
             "elevationUnit": "METERS",
             "longitude": -70.0963
-        },
-        {
-            "elevation": 185.9,
-            "mindate": "1957-10-01",
-            "maxdate": "2013-02-01",
-            "latitude": 47.03333,
-            "name": "EAGLE LAKE, ME US",
-            "datacoverage": 0.9986,
-            "id": "GHCND:USC00172111",
-            "elevationUnit": "METERS",
-            "longitude": -68.6
         },
         {
             "elevation": 128,
@@ -5472,15 +4822,6 @@
             "longitude": -67.3817
         },
         {
-            "mindate": "1893-01-01",
-            "maxdate": "1895-04-29",
-            "latitude": 46.616667,
-            "name": "EASTON, ME US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00172390",
-            "longitude": -67.9
-        },
-        {
             "elevation": 25.9,
             "mindate": "1889-09-01",
             "maxdate": "2013-04-19",
@@ -5503,17 +4844,6 @@
             "longitude": -69.2806
         },
         {
-            "elevation": 164.9,
-            "mindate": "1947-05-01",
-            "maxdate": "1969-05-31",
-            "latitude": 45.13333,
-            "name": "EAST SANGERVILLE 5 S, ME US",
-            "datacoverage": 0.9697,
-            "id": "GHCND:USC00172442",
-            "elevationUnit": "METERS",
-            "longitude": -69.28333
-        },
-        {
             "elevation": 32,
             "mindate": "2011-01-01",
             "maxdate": "2020-05-16",
@@ -5523,17 +4853,6 @@
             "id": "GHCND:USC00172443",
             "elevationUnit": "METERS",
             "longitude": -68.4582
-        },
-        {
-            "elevation": 52.1,
-            "mindate": "1931-08-01",
-            "maxdate": "1959-06-30",
-            "latitude": 44.31667,
-            "name": "EAST WINTHROP, ME US",
-            "datacoverage": 0.9971,
-            "id": "GHCND:USC00172539",
-            "elevationUnit": "METERS",
-            "longitude": -69.9
         },
         {
             "elevation": 6.1,
@@ -5570,17 +4889,6 @@
         },
         {
             "elevation": 384,
-            "mindate": "1910-11-01",
-            "maxdate": "1948-05-31",
-            "latitude": 45.21039,
-            "name": "EUSTIS, ME US",
-            "datacoverage": 0.9956,
-            "id": "GHCND:USC00172695",
-            "elevationUnit": "METERS",
-            "longitude": -70.47272
-        },
-        {
-            "elevation": 384,
             "mindate": "1948-10-01",
             "maxdate": "2018-10-01",
             "latitude": 45.21039,
@@ -5589,26 +4897,6 @@
             "id": "GHCND:USC00172700",
             "elevationUnit": "METERS",
             "longitude": -70.47272
-        },
-        {
-            "mindate": "1962-01-01",
-            "maxdate": "1967-08-31",
-            "latitude": 45.21667,
-            "name": "EUSTIS 2, ME US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00172702",
-            "longitude": -70.48333
-        },
-        {
-            "elevation": 27.4,
-            "mindate": "1886-02-01",
-            "maxdate": "1914-12-31",
-            "latitude": 44.583333,
-            "name": "FAIRFIELD, ME US",
-            "datacoverage": 0.9829,
-            "id": "GHCND:USC00172740",
-            "elevationUnit": "METERS",
-            "longitude": -69.583333
         },
         {
             "elevation": 39.6,
@@ -5633,26 +4921,6 @@
             "longitude": -70.15646
         },
         {
-            "mindate": "1895-06-01",
-            "maxdate": "1901-12-31",
-            "latitude": 45.216667,
-            "name": "FLAGSTAFF, ME US",
-            "datacoverage": 0.9745,
-            "id": "GHCND:USC00172805",
-            "longitude": -70.2
-        },
-        {
-            "elevation": 92,
-            "mindate": "1896-03-01",
-            "maxdate": "1980-12-31",
-            "latitude": 46.8,
-            "name": "FORT FAIRFIELD 5 NE, ME CA",
-            "datacoverage": 0.6837,
-            "id": "GHCND:USC00172868",
-            "elevationUnit": "METERS",
-            "longitude": -67.76667
-        },
-        {
             "elevation": 185.9,
             "mindate": "1893-01-01",
             "maxdate": "2020-05-17",
@@ -5662,17 +4930,6 @@
             "id": "GHCND:USC00172878",
             "elevationUnit": "METERS",
             "longitude": -68.61195
-        },
-        {
-            "elevation": 153,
-            "mindate": "1948-06-01",
-            "maxdate": "1951-09-30",
-            "latitude": 47.25,
-            "name": "FORT KENT 2, ME US",
-            "datacoverage": 0.8931,
-            "id": "GHCND:USC00172883",
-            "elevationUnit": "METERS",
-            "longitude": -68.6
         },
         {
             "elevation": 129.5,
@@ -5695,28 +4952,6 @@
             "id": "GHCND:USC00173046",
             "elevationUnit": "METERS",
             "longitude": -69.789
-        },
-        {
-            "elevation": 214,
-            "mindate": "1943-05-01",
-            "maxdate": "1965-07-31",
-            "latitude": 44.4,
-            "name": "GILEAD, ME US",
-            "datacoverage": 0.9549,
-            "id": "GHCND:USC00173110",
-            "elevationUnit": "METERS",
-            "longitude": -70.96667
-        },
-        {
-            "elevation": 11.9,
-            "mindate": "1948-06-01",
-            "maxdate": "1948-11-30",
-            "latitude": 44.13333,
-            "name": "GLEN COVE, ME US",
-            "datacoverage": 0.998,
-            "id": "GHCND:USC00173137",
-            "elevationUnit": "METERS",
-            "longitude": -69.1
         },
         {
             "elevation": 146.3,
@@ -5818,35 +5053,15 @@
             "longitude": -68
         },
         {
-            "mindate": "1924-06-01",
-            "maxdate": "1927-08-31",
-            "latitude": 47,
-            "name": "HEDGEHOG, ME US",
-            "datacoverage": 0.393,
-            "id": "GHCND:USC00173715",
-            "longitude": -69
-        },
-        {
             "elevation": 160.9,
             "mindate": "1965-06-01",
             "maxdate": "1970-10-31",
             "latitude": 43.87861,
             "name": "EAST HIRAM, ME US",
-            "datacoverage": 0.9991,
+            "datacoverage": 0.969,
             "id": "GHCND:USC00173794",
             "elevationUnit": "METERS",
             "longitude": -70.75389
-        },
-        {
-            "elevation": 88.1,
-            "mindate": "1925-04-01",
-            "maxdate": "1965-05-31",
-            "latitude": 43.85,
-            "name": "HIRAM 2 S, ME US",
-            "datacoverage": 0.9751,
-            "id": "GHCND:USC00173800",
-            "elevationUnit": "METERS",
-            "longitude": -70.8
         },
         {
             "elevation": 92.7,
@@ -5882,15 +5097,6 @@
             "longitude": -67.8418
         },
         {
-            "mindate": "1910-10-01",
-            "maxdate": "1917-06-17",
-            "latitude": 46.333333,
-            "name": "HOWE BROOK, ME US",
-            "datacoverage": 0.9878,
-            "id": "GHCND:USC00173965",
-            "longitude": -68.25
-        },
-        {
             "elevation": 370,
             "mindate": "1894-01-01",
             "maxdate": "2020-05-17",
@@ -5913,15 +5119,6 @@
             "longitude": -67.6495
         },
         {
-            "mindate": "1892-03-01",
-            "maxdate": "1893-05-31",
-            "latitude": 44.316667,
-            "name": "KENNEBEC ARSENAL, ME US",
-            "datacoverage": 0.9324,
-            "id": "GHCND:USC00174189",
-            "longitude": -69.7667
-        },
-        {
             "elevation": 6.1,
             "mindate": "1989-01-01",
             "maxdate": "2020-05-15",
@@ -5933,28 +5130,6 @@
             "longitude": -70.4697
         },
         {
-            "elevation": 152.4,
-            "mindate": "1885-10-01",
-            "maxdate": "1894-02-28",
-            "latitude": 44.416667,
-            "name": "KENTS HILL, ME US",
-            "datacoverage": 0.8617,
-            "id": "GHCND:USC00174230",
-            "elevationUnit": "METERS",
-            "longitude": -70.083333
-        },
-        {
-            "elevation": 323.1,
-            "mindate": "1895-01-01",
-            "maxdate": "1903-06-30",
-            "latitude": 45.7,
-            "name": "KINEO, ME US",
-            "datacoverage": 0.8439,
-            "id": "GHCND:USC00174290",
-            "elevationUnit": "METERS",
-            "longitude": -69.733333
-        },
-        {
             "elevation": 182.3,
             "mindate": "1978-01-01",
             "maxdate": "2020-05-17",
@@ -5964,39 +5139,6 @@
             "id": "GHCND:USC00174324",
             "elevationUnit": "METERS",
             "longitude": -70.1753
-        },
-        {
-            "elevation": 171,
-            "mindate": "1928-09-01",
-            "maxdate": "1937-09-30",
-            "latitude": 44.959223,
-            "name": "KINGFIELD 1, ME US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00174326",
-            "elevationUnit": "METERS",
-            "longitude": -70.153954
-        },
-        {
-            "elevation": 457.2,
-            "mindate": "1916-05-01",
-            "maxdate": "1917-08-31",
-            "latitude": 45,
-            "name": "LANGTOWN, ME US",
-            "datacoverage": 0.9365,
-            "id": "GHCND:USC00174460",
-            "elevationUnit": "METERS",
-            "longitude": -70.5
-        },
-        {
-            "elevation": 449.6,
-            "mindate": "1922-01-01",
-            "maxdate": "1930-08-31",
-            "latitude": 44.866667,
-            "name": "LEAD MOUNTAIN, ME US",
-            "datacoverage": 0.6663,
-            "id": "GHCND:USC00174505",
-            "elevationUnit": "METERS",
-            "longitude": -68.116667
         },
         {
             "elevation": 125,
@@ -6041,17 +5183,6 @@
             "id": "GHCND:USC00174656",
             "elevationUnit": "METERS",
             "longitude": -70.65
-        },
-        {
-            "elevation": 65.8,
-            "mindate": "1926-09-01",
-            "maxdate": "1937-02-10",
-            "latitude": 45.433333,
-            "name": "LINCOLN, ME US",
-            "datacoverage": 0.9606,
-            "id": "GHCND:USC00174680",
-            "elevationUnit": "METERS",
-            "longitude": -68.5
         },
         {
             "elevation": 412.1,
@@ -6142,17 +5273,6 @@
             "longitude": -69.889
         },
         {
-            "elevation": 304.8,
-            "mindate": "1885-01-01",
-            "maxdate": "1908-01-31",
-            "latitude": 45.133333,
-            "name": "MAYFIELD, ME US",
-            "datacoverage": 0.9081,
-            "id": "GHCND:USC00175070",
-            "elevationUnit": "METERS",
-            "longitude": -69.683333
-        },
-        {
             "elevation": 445,
             "mindate": "1926-04-01",
             "maxdate": "2013-10-18",
@@ -6186,17 +5306,6 @@
             "longitude": -68.6747
         },
         {
-            "elevation": 235,
-            "mindate": "1948-08-01",
-            "maxdate": "1956-09-30",
-            "latitude": 46.3,
-            "name": "MILLINOCKET DAM, ME US",
-            "datacoverage": 0.9993,
-            "id": "GHCND:USC00175314",
-            "elevationUnit": "METERS",
-            "longitude": -68.83333
-        },
-        {
             "elevation": 128,
             "mindate": "1921-10-01",
             "maxdate": "2016-03-01",
@@ -6208,17 +5317,6 @@
             "longitude": -69.0101
         },
         {
-            "elevation": 195.1,
-            "mindate": "1948-06-01",
-            "maxdate": "1951-09-30",
-            "latitude": 44.45,
-            "name": "MILTON, ME US",
-            "datacoverage": 0.8754,
-            "id": "GHCND:USC00175357",
-            "elevationUnit": "METERS",
-            "longitude": -70.65
-        },
-        {
             "elevation": 316.1,
             "mindate": "1930-09-01",
             "maxdate": "2020-05-15",
@@ -6228,28 +5326,6 @@
             "id": "GHCND:USC00175460",
             "elevationUnit": "METERS",
             "longitude": -69.7187
-        },
-        {
-            "elevation": 210.9,
-            "mindate": "1929-04-01",
-            "maxdate": "1934-09-30",
-            "latitude": 43.216667,
-            "name": "MOUNT AGAMENTICUS, ME US",
-            "datacoverage": 0.4848,
-            "id": "GHCND:USC00175530",
-            "elevationUnit": "METERS",
-            "longitude": -70.7
-        },
-        {
-            "elevation": 1264.9,
-            "mindate": "1929-01-01",
-            "maxdate": "1938-09-30",
-            "latitude": 45.133333,
-            "name": "MOUNT BIGELOW, ME US",
-            "datacoverage": 0.5552,
-            "id": "GHCND:USC00175550",
-            "elevationUnit": "METERS",
-            "longitude": -70.283333
         },
         {
             "elevation": 64.9,
@@ -6264,11 +5340,11 @@
         },
         {
             "elevation": 152.7,
-            "mindate": "1963-01-01",
+            "mindate": "1963-04-01",
             "maxdate": "1989-08-30",
             "latitude": 43.95,
             "name": "NEW GLOUCESTER, ME US",
-            "datacoverage": 1,
+            "datacoverage": 0.2511,
             "id": "GHCND:USC00175686",
             "elevationUnit": "METERS",
             "longitude": -70.3
@@ -6283,39 +5359,6 @@
             "id": "GHCND:USC00175736",
             "elevationUnit": "METERS",
             "longitude": -70.0002
-        },
-        {
-            "elevation": 225.9,
-            "mindate": "1948-06-01",
-            "maxdate": "1951-09-30",
-            "latitude": 44.65,
-            "name": "NORTH ANDOVER, ME US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00175805",
-            "elevationUnit": "METERS",
-            "longitude": -70.78333
-        },
-        {
-            "elevation": 43,
-            "mindate": "1896-04-01",
-            "maxdate": "1897-05-31",
-            "latitude": 43.303696,
-            "name": "NORTH BERWICK, ME US",
-            "datacoverage": 0.643,
-            "id": "GHCND:USC00175835",
-            "elevationUnit": "METERS",
-            "longitude": -70.733389
-        },
-        {
-            "elevation": 136.9,
-            "mindate": "1893-01-01",
-            "maxdate": "1953-08-31",
-            "latitude": 44.13333,
-            "name": "NORTH BRIDGTON, ME US",
-            "datacoverage": 0.9597,
-            "id": "GHCND:USC00175875",
-            "elevationUnit": "METERS",
-            "longitude": -70.71667
         },
         {
             "elevation": 106.7,
@@ -6340,39 +5383,6 @@
             "longitude": -70.6036
         },
         {
-            "elevation": 34.1,
-            "mindate": "1921-01-01",
-            "maxdate": "1956-08-31",
-            "latitude": 44.93333,
-            "name": "OLD TOWN, ME US",
-            "datacoverage": 0.9953,
-            "id": "GHCND:USC00176420",
-            "elevationUnit": "METERS",
-            "longitude": -68.65
-        },
-        {
-            "elevation": 460.9,
-            "mindate": "1961-01-01",
-            "maxdate": "1969-05-31",
-            "latitude": 44.96667,
-            "name": "OQUOSSOC, ME US",
-            "datacoverage": 0.9998,
-            "id": "GHCND:USC00176427",
-            "elevationUnit": "METERS",
-            "longitude": -70.78333
-        },
-        {
-            "elevation": 467.6,
-            "mindate": "1903-12-01",
-            "maxdate": "1916-02-29",
-            "latitude": 44.983333,
-            "name": "OQUOSSOC 1, ME US",
-            "datacoverage": 0.8436,
-            "id": "GHCND:USC00176428",
-            "elevationUnit": "METERS",
-            "longitude": -70.816667
-        },
-        {
             "elevation": 35.1,
             "mindate": "1893-08-01",
             "maxdate": "2010-12-31",
@@ -6382,28 +5392,6 @@
             "id": "GHCND:USC00176430",
             "elevationUnit": "METERS",
             "longitude": -68.67444
-        },
-        {
-            "elevation": 58.8,
-            "mindate": "1943-09-01",
-            "maxdate": "1944-07-31",
-            "latitude": 44.31083,
-            "name": "OTTER POINT, ME US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00176485",
-            "elevationUnit": "METERS",
-            "longitude": -68.19027
-        },
-        {
-            "elevation": 214,
-            "mindate": "1962-01-01",
-            "maxdate": "1963-10-31",
-            "latitude": 46.01667,
-            "name": "PATTEN, ME US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00176585",
-            "elevationUnit": "METERS",
-            "longitude": -68.45
         },
         {
             "elevation": 244.1,
@@ -6437,17 +5425,6 @@
             "id": "GHCND:USC00176595",
             "elevationUnit": "METERS",
             "longitude": -68.53333
-        },
-        {
-            "elevation": 304.8,
-            "mindate": "1902-04-01",
-            "maxdate": "1930-10-31",
-            "latitude": 46.016667,
-            "name": "PATTEN, ME US",
-            "datacoverage": 0.618,
-            "id": "GHCND:USC00176597",
-            "elevationUnit": "METERS",
-            "longitude": -68.466667
         },
         {
             "elevation": 182.9,
@@ -6560,17 +5537,6 @@
             "longitude": -70.25
         },
         {
-            "elevation": 189,
-            "mindate": "1947-07-01",
-            "maxdate": "1957-01-31",
-            "latitude": 45.45,
-            "name": "PRENTISS, ME US",
-            "datacoverage": 0.9993,
-            "id": "GHCND:USC00176927",
-            "elevationUnit": "METERS",
-            "longitude": -68.16667
-        },
-        {
             "elevation": 182.6,
             "mindate": "1893-01-01",
             "maxdate": "2019-03-31",
@@ -6615,15 +5581,6 @@
             "longitude": -69.1776
         },
         {
-            "mindate": "1902-05-01",
-            "maxdate": "1905-11-30",
-            "latitude": 47,
-            "name": "ROACH RIVER, ME US",
-            "datacoverage": 0.4879,
-            "id": "GHCND:USC00177225",
-            "longitude": -69
-        },
-        {
             "elevation": 35.1,
             "mindate": "1994-01-01",
             "maxdate": "2020-05-16",
@@ -6646,28 +5603,6 @@
             "longitude": -69.11667
         },
         {
-            "elevation": 10.7,
-            "mindate": "1948-12-01",
-            "maxdate": "1951-09-30",
-            "latitude": 44.103,
-            "name": "ROCKLAND, ME US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00177255",
-            "elevationUnit": "METERS",
-            "longitude": -69.1157
-        },
-        {
-            "elevation": 220.1,
-            "mindate": "1943-05-01",
-            "maxdate": "1957-09-30",
-            "latitude": 44.66667,
-            "name": "ROXBURY, ME US",
-            "datacoverage": 0.9246,
-            "id": "GHCND:USC00177315",
-            "elevationUnit": "METERS",
-            "longitude": -70.6
-        },
-        {
             "elevation": 192,
             "mindate": "1948-06-01",
             "maxdate": "2010-12-31",
@@ -6677,17 +5612,6 @@
             "id": "GHCND:USC00177325",
             "elevationUnit": "METERS",
             "longitude": -70.53722
-        },
-        {
-            "elevation": 153.9,
-            "mindate": "1899-01-01",
-            "maxdate": "1959-04-30",
-            "latitude": 44.55,
-            "name": "RUMFORD, ME US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00177330",
-            "elevationUnit": "METERS",
-            "longitude": -70.55
         },
         {
             "elevation": 173.7,
@@ -6723,17 +5647,6 @@
             "longitude": -70.45
         },
         {
-            "elevation": 185.9,
-            "mindate": "1961-01-01",
-            "maxdate": "1969-10-31",
-            "latitude": 47.16667,
-            "name": "ST FRANCIS, ME US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00177407",
-            "elevationUnit": "METERS",
-            "longitude": -68.9
-        },
-        {
             "elevation": 85.3,
             "mindate": "1953-01-01",
             "maxdate": "2020-03-31",
@@ -6756,26 +5669,6 @@
             "longitude": -70.29889
         },
         {
-            "elevation": 88.1,
-            "mindate": "1885-05-01",
-            "maxdate": "1886-08-31",
-            "latitude": 43.760911,
-            "name": "SEBAGO LAKE, ME US",
-            "datacoverage": 0.998,
-            "id": "GHCND:USC00177630",
-            "elevationUnit": "METERS",
-            "longitude": -70.52561
-        },
-        {
-            "mindate": "1929-01-01",
-            "maxdate": "1934-04-30",
-            "latitude": 45.25,
-            "name": "SEBEC, ME US",
-            "datacoverage": 0.9973,
-            "id": "GHCND:USC00177646",
-            "longitude": -69.25
-        },
-        {
             "elevation": 115.8,
             "mindate": "1991-01-01",
             "maxdate": "2011-04-01",
@@ -6792,7 +5685,7 @@
             "maxdate": "2016-03-01",
             "latitude": 44.7638,
             "name": "SKOWHEGAN, ME US",
-            "datacoverage": 1,
+            "datacoverage": 0.1237,
             "id": "GHCND:USC00177827",
             "elevationUnit": "METERS",
             "longitude": -69.7194
@@ -6807,28 +5700,6 @@
             "id": "GHCND:USC00177940",
             "elevationUnit": "METERS",
             "longitude": -70.73333
-        },
-        {
-            "elevation": 57,
-            "mindate": "1903-03-01",
-            "maxdate": "1905-03-31",
-            "latitude": 45.116667,
-            "name": "SOUTH LAGRANGE, ME US",
-            "datacoverage": 0.9973,
-            "id": "GHCND:USC00178010",
-            "elevationUnit": "METERS",
-            "longitude": -68.816667
-        },
-        {
-            "elevation": 6.1,
-            "mindate": "1948-06-01",
-            "maxdate": "1951-09-30",
-            "latitude": 44.26805,
-            "name": "SOUTHWEST HARBOR 3 S, ME US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00178301",
-            "elevationUnit": "METERS",
-            "longitude": -68.30222
         },
         {
             "elevation": 134.1,
@@ -6853,39 +5724,6 @@
             "longitude": -68.33333
         },
         {
-            "elevation": 351.1,
-            "mindate": "1952-06-01",
-            "maxdate": "1955-07-10",
-            "latitude": 45.13333,
-            "name": "STRATTON, ME US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00178555",
-            "elevationUnit": "METERS",
-            "longitude": -70.45
-        },
-        {
-            "elevation": 220.1,
-            "mindate": "1948-06-01",
-            "maxdate": "1951-09-30",
-            "latitude": 44.5,
-            "name": "SUNDAY RIVER, ME US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00178598",
-            "elevationUnit": "METERS",
-            "longitude": -70.86667
-        },
-        {
-            "elevation": 121.9,
-            "mindate": "1948-06-01",
-            "maxdate": "1951-09-30",
-            "latitude": 44.03333,
-            "name": "SWANS FALLS, ME US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00178641",
-            "elevationUnit": "METERS",
-            "longitude": -70.98333
-        },
-        {
             "elevation": 292.6,
             "mindate": "1962-01-01",
             "maxdate": "1986-04-30",
@@ -6895,28 +5733,6 @@
             "id": "GHCND:USC00178688",
             "elevationUnit": "METERS",
             "longitude": -69.13333
-        },
-        {
-            "elevation": 182.9,
-            "mindate": "1902-04-01",
-            "maxdate": "1968-03-31",
-            "latitude": 45.35,
-            "name": "THE FORKS, ME US",
-            "datacoverage": 0.8346,
-            "id": "GHCND:USC00178721",
-            "elevationUnit": "METERS",
-            "longitude": -69.96667
-        },
-        {
-            "elevation": 40.8,
-            "mindate": "1904-01-01",
-            "maxdate": "1905-12-31",
-            "latitude": 44.083333,
-            "name": "THOMASTON, ME US",
-            "datacoverage": 0.9973,
-            "id": "GHCND:USC00178760",
-            "elevationUnit": "METERS",
-            "longitude": -69.183333
         },
         {
             "elevation": 189,
@@ -6952,17 +5768,6 @@
             "longitude": -70.2561
         },
         {
-            "elevation": 161.8,
-            "mindate": "1949-01-01",
-            "maxdate": "1959-06-30",
-            "latitude": 44.58333,
-            "name": "UNITY, ME US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00178936",
-            "elevationUnit": "METERS",
-            "longitude": -69.33333
-        },
-        {
             "elevation": 446.5,
             "mindate": "1948-06-01",
             "maxdate": "2014-08-01",
@@ -6974,28 +5779,6 @@
             "longitude": -70.8619
         },
         {
-            "elevation": 530,
-            "mindate": "1928-01-01",
-            "maxdate": "1937-09-30",
-            "latitude": 44.694221,
-            "name": "UPTON, ME US",
-            "datacoverage": 0.6994,
-            "id": "GHCND:USC00178950",
-            "elevationUnit": "METERS",
-            "longitude": -71.010632
-        },
-        {
-            "elevation": 155.4,
-            "mindate": "1902-04-01",
-            "maxdate": "1935-09-30",
-            "latitude": 47.15,
-            "name": "VAN BUREN, ME US",
-            "datacoverage": 0.8657,
-            "id": "GHCND:USC00178963",
-            "elevationUnit": "METERS",
-            "longitude": -67.933333
-        },
-        {
             "elevation": 139,
             "mindate": "1963-01-01",
             "maxdate": "2020-05-17",
@@ -7005,17 +5788,6 @@
             "id": "GHCND:USC00178965",
             "elevationUnit": "METERS",
             "longitude": -67.9396
-        },
-        {
-            "elevation": 139.9,
-            "mindate": "1902-06-01",
-            "maxdate": "1950-05-31",
-            "latitude": 45.56667,
-            "name": "VANCEBORO, ME US",
-            "datacoverage": 0.6662,
-            "id": "GHCND:USC00178969",
-            "elevationUnit": "METERS",
-            "longitude": -67.43333
         },
         {
             "elevation": 128,
@@ -7117,17 +5889,6 @@
             "longitude": -68.65
         },
         {
-            "elevation": 378,
-            "mindate": "1963-01-01",
-            "maxdate": "1964-06-30",
-            "latitude": 45.38333,
-            "name": "WEST FORKS, ME US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00179382",
-            "elevationUnit": "METERS",
-            "longitude": -70.01667
-        },
-        {
             "elevation": 164.6,
             "mindate": "1978-01-01",
             "maxdate": "2010-12-31",
@@ -7150,17 +5911,6 @@
             "longitude": -69.7088
         },
         {
-            "elevation": 100.9,
-            "mindate": "1926-09-01",
-            "maxdate": "1935-09-30",
-            "latitude": 44.18333,
-            "name": "WEST ROCKPORT, ME US",
-            "datacoverage": 0.936,
-            "id": "GHCND:USC00179591",
-            "elevationUnit": "METERS",
-            "longitude": -69.15
-        },
-        {
             "elevation": 115.8,
             "mindate": "1976-01-01",
             "maxdate": "2020-05-17",
@@ -7170,15 +5920,6 @@
             "id": "GHCND:USC00179593",
             "elevationUnit": "METERS",
             "longitude": -69.1461
-        },
-        {
-            "mindate": "1928-07-01",
-            "maxdate": "1930-09-30",
-            "latitude": 45.55,
-            "name": "WHITE CAP MOUNTAIN, ME US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00179710",
-            "longitude": -69.25
         },
         {
             "elevation": 135,
@@ -7201,17 +5942,6 @@
             "id": "GHCND:USC00179721",
             "elevationUnit": "METERS",
             "longitude": -69.97016
-        },
-        {
-            "elevation": 22.3,
-            "mindate": "1895-09-01",
-            "maxdate": "1958-06-30",
-            "latitude": 44.5272,
-            "name": "WATERVILLE TREATMENT PLANT, ME US",
-            "datacoverage": 0.9921,
-            "id": "GHCND:USC00179826",
-            "elevationUnit": "METERS",
-            "longitude": -69.6544
         },
         {
             "elevation": 37.5,
@@ -7292,11 +6022,11 @@
         },
         {
             "elevation": 163.1,
-            "mindate": "1951-01-01",
+            "mindate": "1951-03-01",
             "maxdate": "2016-01-01",
             "latitude": 46.68333,
             "name": "PRESQUE ISLE MUNICIPAL AIRPORT, ME US",
-            "datacoverage": 0.9997,
+            "datacoverage": 0.199,
             "id": "GHCND:USW00014604",
             "elevationUnit": "METERS",
             "longitude": -68.05
@@ -7399,28 +6129,6 @@
             "id": "GHCND:USW00014764",
             "elevationUnit": "METERS",
             "longitude": -70.30444
-        },
-        {
-            "elevation": 82.9,
-            "mindate": "1945-01-01",
-            "maxdate": "1945-08-15",
-            "latitude": 44.05,
-            "name": "LEWISTON NAAF, ME US",
-            "datacoverage": 1,
-            "id": "GHCND:USW00014784",
-            "elevationUnit": "METERS",
-            "longitude": -70.25
-        },
-        {
-            "elevation": 79.9,
-            "mindate": "1945-01-01",
-            "maxdate": "1945-09-30",
-            "latitude": 43.4,
-            "name": "SANFORD, ME US",
-            "datacoverage": 1,
-            "id": "GHCND:USW00014791",
-            "elevationUnit": "METERS",
-            "longitude": -70.75
         },
         {
             "elevation": 135.6,

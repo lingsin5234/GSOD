@@ -2,22 +2,11 @@
     "metadata": {
         "resultset": {
             "offset": 1,
-            "count": 28,
+            "count": 22,
             "limit": 1000
         }
     },
     "results": [
-        {
-            "elevation": 78.9,
-            "mindate": "1948-08-01",
-            "maxdate": "1958-03-01",
-            "latitude": 38.95,
-            "name": "BRIGHTWOOD DC, DC US",
-            "datacoverage": 0.9399,
-            "id": "COOP:181135",
-            "elevationUnit": "METERS",
-            "longitude": -77.01667
-        },
         {
             "elevation": 45.7,
             "mindate": "1946-01-01",
@@ -50,17 +39,6 @@
             "id": "COOP:189035",
             "elevationUnit": "METERS",
             "longitude": -77.01667
-        },
-        {
-            "elevation": 21.9,
-            "mindate": "1948-05-01",
-            "maxdate": "1965-12-25",
-            "latitude": 38.901111,
-            "name": "WASHINGTON DC WEATHER BUREAU CITY, DC US",
-            "datacoverage": 1,
-            "id": "COOP:189290",
-            "elevationUnit": "METERS",
-            "longitude": -77.050278
         },
         {
             "elevation": 17.1,
@@ -195,17 +173,6 @@
             "longitude": -77.036975
         },
         {
-            "elevation": 78.9,
-            "mindate": "1944-11-01",
-            "maxdate": "1959-07-31",
-            "latitude": 38.95,
-            "name": "BRIGHTWOOD DC, DC US",
-            "datacoverage": 0.7138,
-            "id": "GHCND:USC00181135",
-            "elevationUnit": "METERS",
-            "longitude": -77.01667
-        },
-        {
             "elevation": 45.7,
             "mindate": "1948-08-01",
             "maxdate": "2020-02-29",
@@ -237,39 +204,6 @@
             "id": "GHCND:USC00189035",
             "elevationUnit": "METERS",
             "longitude": -77.01667
-        },
-        {
-            "elevation": 18,
-            "mindate": "1947-08-01",
-            "maxdate": "1969-09-04",
-            "latitude": 38.83333,
-            "name": "WASHINGTON DC BOLLING FIELD AFB, DC US",
-            "datacoverage": 0.5552,
-            "id": "GHCND:USW00013710",
-            "elevationUnit": "METERS",
-            "longitude": -77.01667
-        },
-        {
-            "elevation": 15.8,
-            "mindate": "1945-01-01",
-            "maxdate": "1956-12-05",
-            "latitude": 38.85,
-            "name": "ANACOSTIA NAS, VA US",
-            "datacoverage": 0.8328,
-            "id": "GHCND:USW00013751",
-            "elevationUnit": "METERS",
-            "longitude": -77.03333
-        },
-        {
-            "elevation": 21.9,
-            "mindate": "1851-03-01",
-            "maxdate": "1965-12-31",
-            "latitude": 38.901111,
-            "name": "WASHINGTON DC WEATHER BUREAU CITY, DC US",
-            "datacoverage": 0.3468,
-            "id": "GHCND:USW00093725",
-            "elevationUnit": "METERS",
-            "longitude": -77.050278
         },
         {
             "elevation": 34.1,

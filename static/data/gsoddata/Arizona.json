@@ -2,22 +2,11 @@
     "metadata": {
         "resultset": {
             "offset": 1,
-            "count": 2031,
+            "count": 1711,
             "limit": 1000
         }
     },
     "results": [
-        {
-            "elevation": 138.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1937-08-01",
-            "latitude": 32.98333,
-            "name": "AGUA CALIENTE, AZ US",
-            "datacoverage": 0.7875,
-            "id": "COOP:020040",
-            "elevationUnit": "METERS",
-            "longitude": -113.33333
-        },
         {
             "elevation": 659.9,
             "mindate": "1931-01-01",
@@ -50,39 +39,6 @@
             "id": "COOP:020088",
             "elevationUnit": "METERS",
             "longitude": -112.83333
-        },
-        {
-            "elevation": 323.1,
-            "mindate": "1948-03-01",
-            "maxdate": "1965-04-01",
-            "latitude": 34.26667,
-            "name": "ALAMO, AZ US",
-            "datacoverage": 0.6217,
-            "id": "COOP:020096",
-            "elevationUnit": "METERS",
-            "longitude": -113.56667
-        },
-        {
-            "elevation": 289.9,
-            "mindate": "1957-02-01",
-            "maxdate": "1960-07-01",
-            "latitude": 34.2,
-            "name": "ALAMO 8 SW, AZ US",
-            "datacoverage": 0.9534,
-            "id": "COOP:020097",
-            "elevationUnit": "METERS",
-            "longitude": -113.7
-        },
-        {
-            "elevation": 926.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1946-03-01",
-            "latitude": 33.5,
-            "name": "ALAMO RANGER STATION, AZ US",
-            "datacoverage": 0.9674,
-            "id": "COOP:020098",
-            "elevationUnit": "METERS",
-            "longitude": -110.85
         },
         {
             "elevation": 451.1,
@@ -184,17 +140,6 @@
             "longitude": -111.4813
         },
         {
-            "elevation": 1603.9,
-            "mindate": "1955-08-01",
-            "maxdate": "1956-12-01",
-            "latitude": 35.06667,
-            "name": "ANVIL ROCK, AZ US",
-            "datacoverage": 0.997,
-            "id": "COOP:020291",
-            "elevationUnit": "METERS",
-            "longitude": -113.13333
-        },
-        {
             "elevation": 1641,
             "mindate": "1965-03-01",
             "maxdate": "1980-08-01",
@@ -217,17 +162,6 @@
             "longitude": -111.55
         },
         {
-            "elevation": 576.1,
-            "mindate": "1965-01-01",
-            "maxdate": "1969-04-01",
-            "latitude": 33.46667,
-            "name": "APACHE JUNCTION 4 NN, AZ US",
-            "datacoverage": 1,
-            "id": "COOP:020307",
-            "elevationUnit": "METERS",
-            "longitude": -111.58333
-        },
-        {
             "elevation": 1124.4,
             "mindate": "1931-01-01",
             "maxdate": "1990-04-01",
@@ -237,17 +171,6 @@
             "id": "COOP:020309",
             "elevationUnit": "METERS",
             "longitude": -110.25
-        },
-        {
-            "elevation": 1118.9,
-            "mindate": "1952-01-01",
-            "maxdate": "1953-08-01",
-            "latitude": 32.78333,
-            "name": "ARAVAIPA RANGER STATION, AZ US",
-            "datacoverage": 0.9996,
-            "id": "COOP:020344",
-            "elevationUnit": "METERS",
-            "longitude": -110.26667
         },
         {
             "elevation": 1112.2,
@@ -272,17 +195,6 @@
             "longitude": -111.6917
         },
         {
-            "elevation": 381,
-            "mindate": "1963-07-01",
-            "maxdate": "1968-02-01",
-            "latitude": 33.5,
-            "name": "ARIZONA FALLS 1 WNW, AZ US",
-            "datacoverage": 0.9997,
-            "id": "COOP:020406",
-            "elevationUnit": "METERS",
-            "longitude": -111.98333
-        },
-        {
             "elevation": 860.1,
             "mindate": "1962-01-01",
             "maxdate": "1973-06-01",
@@ -292,39 +204,6 @@
             "id": "COOP:020415",
             "elevationUnit": "METERS",
             "longitude": -111.16667
-        },
-        {
-            "elevation": 1434.1,
-            "mindate": "1948-01-01",
-            "maxdate": "1951-12-01",
-            "latitude": 33.26667,
-            "name": "ARSENIC TUBS, AZ US",
-            "datacoverage": 0.5417,
-            "id": "COOP:020433",
-            "elevationUnit": "METERS",
-            "longitude": -109.83333
-        },
-        {
-            "elevation": 1403,
-            "mindate": "1948-01-01",
-            "maxdate": "1948-02-01",
-            "latitude": 33.36667,
-            "name": "ASH CREEK, AZ US",
-            "datacoverage": 1,
-            "id": "COOP:020459",
-            "elevationUnit": "METERS",
-            "longitude": -110.01667
-        },
-        {
-            "elevation": 1007.1,
-            "mindate": "1931-04-01",
-            "maxdate": "1948-05-01",
-            "latitude": 33.96667,
-            "name": "ASHDALE R S, AZ US",
-            "datacoverage": 0.9222,
-            "id": "COOP:020467",
-            "elevationUnit": "METERS",
-            "longitude": -111.86667
         },
         {
             "elevation": 1617,
@@ -393,17 +272,6 @@
             "longitude": -111.24702
         },
         {
-            "elevation": 976,
-            "mindate": "1931-01-01",
-            "maxdate": "1949-11-10",
-            "latitude": 34.6,
-            "name": "BAGDAD, AZ US",
-            "datacoverage": 0.9912,
-            "id": "COOP:020582",
-            "elevationUnit": "METERS",
-            "longitude": -113.2
-        },
-        {
             "elevation": 1254.9,
             "mindate": "1978-09-01",
             "maxdate": "1986-08-01",
@@ -459,17 +327,6 @@
             "longitude": -111.6497
         },
         {
-            "elevation": 1147,
-            "mindate": "1940-06-01",
-            "maxdate": "1956-04-01",
-            "latitude": 31.93333,
-            "name": "MOUNT FAGAN RANCH, AZ US",
-            "datacoverage": 0.9844,
-            "id": "COOP:020640",
-            "elevationUnit": "METERS",
-            "longitude": -110.76667
-        },
-        {
             "elevation": 387.1,
             "mindate": "1950-02-01",
             "maxdate": "1978-06-01",
@@ -479,17 +336,6 @@
             "id": "COOP:020660",
             "elevationUnit": "METERS",
             "longitude": -112.38333
-        },
-        {
-            "elevation": 1229,
-            "mindate": "1943-09-01",
-            "maxdate": "1957-02-01",
-            "latitude": 31.41667,
-            "name": "BEAR VALLEY, AZ US",
-            "datacoverage": 0.9817,
-            "id": "COOP:020665",
-            "elevationUnit": "METERS",
-            "longitude": -111.18333
         },
         {
             "elevation": 1074.4,
@@ -525,17 +371,6 @@
             "longitude": -113.9423
         },
         {
-            "elevation": 2467.1,
-            "mindate": "1948-01-01",
-            "maxdate": "1969-12-01",
-            "latitude": 33.68333,
-            "name": "BEAVERHEAD LODGE, AZ US",
-            "datacoverage": 0.9999,
-            "id": "COOP:020675",
-            "elevationUnit": "METERS",
-            "longitude": -109.21667
-        },
-        {
             "elevation": 2179.9,
             "mindate": "1999-11-01",
             "maxdate": "2015-11-01",
@@ -569,17 +404,6 @@
             "longitude": -110.2403
         },
         {
-            "elevation": 973.5,
-            "mindate": "1965-06-01",
-            "maxdate": "1969-06-01",
-            "latitude": 32.26174,
-            "name": "CASCABEL, AZ US",
-            "datacoverage": 0.9799,
-            "id": "COOP:020690",
-            "elevationUnit": "METERS",
-            "longitude": -110.34803
-        },
-        {
             "elevation": 2220.8,
             "mindate": "1939-03-01",
             "maxdate": "2015-11-01",
@@ -589,17 +413,6 @@
             "id": "COOP:020750",
             "elevationUnit": "METERS",
             "longitude": -110.5411
-        },
-        {
-            "elevation": 2745,
-            "mindate": "1955-04-01",
-            "maxdate": "1957-02-01",
-            "latitude": 33.86667,
-            "name": "BIG LAKE, AZ US",
-            "datacoverage": 0.6957,
-            "id": "COOP:020758",
-            "elevationUnit": "METERS",
-            "longitude": -109.41667
         },
         {
             "elevation": 1617.6,
@@ -635,28 +448,6 @@
             "longitude": -109.9288
         },
         {
-            "elevation": 1800.1,
-            "mindate": "1958-01-01",
-            "maxdate": "1958-12-01",
-            "latitude": 35.41667,
-            "name": "BITA HOCHEE TRADING, AZ US",
-            "datacoverage": 1,
-            "id": "COOP:020781",
-            "elevationUnit": "METERS",
-            "longitude": -110.08333
-        },
-        {
-            "elevation": 1937,
-            "mindate": "1952-01-01",
-            "maxdate": "1965-12-01",
-            "latitude": 36.11667,
-            "name": "BLACK MOUNTAIN MISSION, AZ US",
-            "datacoverage": 0.5476,
-            "id": "COOP:020800",
-            "elevationUnit": "METERS",
-            "longitude": -109.86667
-        },
-        {
             "elevation": 1848.6,
             "mindate": "1947-04-01",
             "maxdate": "2015-11-01",
@@ -690,28 +481,6 @@
             "longitude": -111.1922
         },
         {
-            "elevation": 1464,
-            "mindate": "1948-01-01",
-            "maxdate": "1948-11-01",
-            "latitude": 33.15,
-            "name": "BONITA CREEK, AZ US",
-            "datacoverage": 0.9994,
-            "id": "COOP:020903",
-            "elevationUnit": "METERS",
-            "longitude": -109.78333
-        },
-        {
-            "elevation": 1464,
-            "mindate": "1941-07-01",
-            "maxdate": "1966-06-01",
-            "latitude": 32.56667,
-            "name": "BOSLEY RANCH, AZ US",
-            "datacoverage": 0.9967,
-            "id": "COOP:020923",
-            "elevationUnit": "METERS",
-            "longitude": -110.2
-        },
-        {
             "elevation": 281.9,
             "mindate": "1952-02-01",
             "maxdate": "2015-11-01",
@@ -732,17 +501,6 @@
             "id": "COOP:020958",
             "elevationUnit": "METERS",
             "longitude": -109.4917
-        },
-        {
-            "elevation": 1439.9,
-            "mindate": "1939-08-01",
-            "maxdate": "1967-03-01",
-            "latitude": 32.43333,
-            "name": "BOWIE JUNCTION R15, AZ US",
-            "datacoverage": 0.7699,
-            "id": "COOP:020966",
-            "elevationUnit": "METERS",
-            "longitude": -109.7
         },
         {
             "elevation": 2438.4,
@@ -767,17 +525,6 @@
             "longitude": -112.58278
         },
         {
-            "elevation": 1726.1,
-            "mindate": "1959-08-01",
-            "maxdate": "1962-05-01",
-            "latitude": 36.46667,
-            "name": "BUFFALO RANCH, AZ US",
-            "datacoverage": 0.9999,
-            "id": "COOP:021042",
-            "elevationUnit": "METERS",
-            "longitude": -111.95
-        },
-        {
             "elevation": 161.8,
             "mindate": "1977-11-01",
             "maxdate": "2015-11-01",
@@ -798,28 +545,6 @@
             "id": "COOP:021059",
             "elevationUnit": "METERS",
             "longitude": -112.15
-        },
-        {
-            "elevation": 2073.9,
-            "mindate": "1943-11-01",
-            "maxdate": "1968-10-01",
-            "latitude": 35.26667,
-            "name": "BURRUS RANCH, AZ US",
-            "datacoverage": 0.9799,
-            "id": "COOP:021101",
-            "elevationUnit": "METERS",
-            "longitude": -111.53333
-        },
-        {
-            "elevation": 381,
-            "mindate": "1931-01-01",
-            "maxdate": "1963-06-01",
-            "latitude": 33.5,
-            "name": "ARIZONA FALLS 1 WNW, AZ US",
-            "datacoverage": 0.9976,
-            "id": "COOP:021161",
-            "elevationUnit": "METERS",
-            "longitude": -111.98333
         },
         {
             "elevation": 1269.5,
@@ -888,17 +613,6 @@
             "longitude": -111.9019
         },
         {
-            "elevation": 468.2,
-            "mindate": "1949-11-01",
-            "maxdate": "1958-12-01",
-            "latitude": 33.8383,
-            "name": "LAKE PLEASANT, AZ US",
-            "datacoverage": 1,
-            "id": "COOP:021295",
-            "elevationUnit": "METERS",
-            "longitude": -112.2661
-        },
-        {
             "elevation": 426.7,
             "mindate": "1931-01-01",
             "maxdate": "2009-07-01",
@@ -943,17 +657,6 @@
             "longitude": -112.3628
         },
         {
-            "elevation": 854,
-            "mindate": "1949-06-01",
-            "maxdate": "1958-07-01",
-            "latitude": 34.05,
-            "name": "CASTLE HOT SPRNS 4 N, AZ US",
-            "datacoverage": 1,
-            "id": "COOP:021356",
-            "elevationUnit": "METERS",
-            "longitude": -112.35
-        },
-        {
             "elevation": 825.1,
             "mindate": "2007-04-01",
             "maxdate": "2015-11-01",
@@ -963,61 +666,6 @@
             "id": "COOP:021357",
             "elevationUnit": "METERS",
             "longitude": -110.9302
-        },
-        {
-            "elevation": 647.1,
-            "mindate": "1950-03-01",
-            "maxdate": "1961-09-01",
-            "latitude": 33.83333,
-            "name": "CAVE CREEK, AZ US",
-            "datacoverage": 0.9781,
-            "id": "COOP:021361",
-            "elevationUnit": "METERS",
-            "longitude": -111.95
-        },
-        {
-            "elevation": 771.1,
-            "mindate": "1961-11-01",
-            "maxdate": "1962-05-01",
-            "latitude": 33.8161,
-            "name": "CAREFREE, AZ US",
-            "datacoverage": 1,
-            "id": "COOP:021363",
-            "elevationUnit": "METERS",
-            "longitude": -111.9019
-        },
-        {
-            "elevation": 509,
-            "mindate": "1949-12-01",
-            "maxdate": "1969-02-01",
-            "latitude": 33.71667,
-            "name": "CAVE CREEK DAM, AZ US",
-            "datacoverage": 0.9958,
-            "id": "COOP:021365",
-            "elevationUnit": "METERS",
-            "longitude": -112.05
-        },
-        {
-            "elevation": 1417.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1953-12-01",
-            "latitude": 34.96667,
-            "name": "DRAKE R S, AZ US",
-            "datacoverage": 0.9927,
-            "id": "COOP:021419",
-            "elevationUnit": "METERS",
-            "longitude": -112.38333
-        },
-        {
-            "elevation": 1805.9,
-            "mindate": "1938-02-01",
-            "maxdate": "1967-03-01",
-            "latitude": 36.38333,
-            "name": "CEDAR RIDGE TRADING, AZ US",
-            "datacoverage": 0.5258,
-            "id": "COOP:021427",
-            "elevationUnit": "METERS",
-            "longitude": -111.51667
         },
         {
             "elevation": 371.9,
@@ -1097,17 +745,6 @@
             "longitude": -109.3572
         },
         {
-            "elevation": 1225.9,
-            "mindate": "1965-04-01",
-            "maxdate": "1965-12-01",
-            "latitude": 35.41667,
-            "name": "CHLORIDE, AZ US",
-            "datacoverage": 0.9961,
-            "id": "COOP:021680",
-            "elevationUnit": "METERS",
-            "longitude": -114.2
-        },
-        {
             "elevation": 1517.9,
             "mindate": "1931-01-01",
             "maxdate": "2014-01-01",
@@ -1157,21 +794,10 @@
             "maxdate": "2014-01-01",
             "latitude": 32.0588,
             "name": "COCHISE 4 SSE, AZ US",
-            "datacoverage": 0.9731,
+            "datacoverage": 0.0122,
             "id": "COOP:021870",
             "elevationUnit": "METERS",
             "longitude": -109.8908
-        },
-        {
-            "elevation": 1509.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1943-07-01",
-            "latitude": 31.95,
-            "name": "COCHISE STRONGHOLD 1, AZ US",
-            "datacoverage": 0.8678,
-            "id": "COOP:021875",
-            "elevationUnit": "METERS",
-            "longitude": -109.95
         },
         {
             "elevation": 1524.3,
@@ -1218,17 +844,6 @@
             "longitude": -112.165
         },
         {
-            "elevation": 1692.9,
-            "mindate": "1955-07-01",
-            "maxdate": "1960-02-01",
-            "latitude": 31.36667,
-            "name": "CORONADO NATIONAL MONUMT, AZ US",
-            "datacoverage": 0.9997,
-            "id": "COOP:022139",
-            "elevationUnit": "METERS",
-            "longitude": -110.28333
-        },
-        {
             "elevation": 1597.8,
             "mindate": "1960-02-01",
             "maxdate": "2015-11-01",
@@ -1262,28 +877,6 @@
             "longitude": -112.03333
         },
         {
-            "elevation": 1845,
-            "mindate": "1956-10-01",
-            "maxdate": "1958-12-01",
-            "latitude": 36.06667,
-            "name": "COTTONWOOD INDIAN SC, AZ US",
-            "datacoverage": 0.9998,
-            "id": "COOP:022197",
-            "elevationUnit": "METERS",
-            "longitude": -109.88333
-        },
-        {
-            "elevation": 798.9,
-            "mindate": "1956-02-01",
-            "maxdate": "1963-12-01",
-            "latitude": 32.15,
-            "name": "COVERED WELLS 1 E, AZ US",
-            "datacoverage": 0.8738,
-            "id": "COOP:022216",
-            "elevationUnit": "METERS",
-            "longitude": -112.15
-        },
-        {
             "elevation": 1738.9,
             "mindate": "1965-06-01",
             "maxdate": "1970-05-01",
@@ -1306,17 +899,6 @@
             "longitude": -112.3453
         },
         {
-            "elevation": 136.9,
-            "mindate": "1952-04-01",
-            "maxdate": "1968-10-01",
-            "latitude": 32.8,
-            "name": "DATELAND, AZ US",
-            "datacoverage": 0.9195,
-            "id": "COOP:022430",
-            "elevationUnit": "METERS",
-            "longitude": -113.53333
-        },
-        {
             "elevation": 158.5,
             "mindate": "1972-06-01",
             "maxdate": "2010-05-01",
@@ -1335,17 +917,6 @@
             "name": "DAVIS DAM NUMBER 2, AZ US",
             "datacoverage": 0.9999,
             "id": "COOP:022439",
-            "elevationUnit": "METERS",
-            "longitude": -114.56667
-        },
-        {
-            "elevation": 200.9,
-            "mindate": "1948-03-01",
-            "maxdate": "1954-03-01",
-            "latitude": 35.2,
-            "name": "DAVIS DAM NUMBER 2, AZ US",
-            "datacoverage": 1,
-            "id": "COOP:022440",
             "elevationUnit": "METERS",
             "longitude": -114.56667
         },
@@ -1372,17 +943,6 @@
             "longitude": -110.7313
         },
         {
-            "elevation": 1097.9,
-            "mindate": "1952-07-01",
-            "maxdate": "1956-12-01",
-            "latitude": 35.88333,
-            "name": "DIAMOND BAR RANCH, AZ US",
-            "datacoverage": 0.9807,
-            "id": "COOP:022525",
-            "elevationUnit": "METERS",
-            "longitude": -114
-        },
-        {
             "elevation": 1674,
             "mindate": "1999-08-01",
             "maxdate": "2015-11-01",
@@ -1392,17 +952,6 @@
             "id": "COOP:022527",
             "elevationUnit": "METERS",
             "longitude": -113.3666
-        },
-        {
-            "elevation": 1524.9,
-            "mindate": "1950-11-01",
-            "maxdate": "1950-11-01",
-            "latitude": 35.38333,
-            "name": "DILKON, AZ US",
-            "datacoverage": 1,
-            "id": "COOP:022536",
-            "elevationUnit": "METERS",
-            "longitude": -110.31667
         },
         {
             "elevation": 1531,
@@ -1458,17 +1007,6 @@
             "id": "COOP:022669",
             "elevationUnit": "METERS",
             "longitude": -109.58333
-        },
-        {
-            "elevation": 1417.9,
-            "mindate": "1954-01-01",
-            "maxdate": "1962-04-01",
-            "latitude": 34.96667,
-            "name": "DRAKE R S, AZ US",
-            "datacoverage": 1,
-            "id": "COOP:022705",
-            "elevationUnit": "METERS",
-            "longitude": -112.38333
         },
         {
             "elevation": 1232,
@@ -1559,17 +1097,6 @@
             "longitude": -110.53333
         },
         {
-            "elevation": 348.1,
-            "mindate": "1955-03-01",
-            "maxdate": "1955-09-01",
-            "latitude": 33.63333,
-            "name": "EL MIRAGE, AZ US",
-            "datacoverage": 0.7112,
-            "id": "COOP:022804",
-            "elevationUnit": "METERS",
-            "longitude": -112.31667
-        },
-        {
             "elevation": 470.9,
             "mindate": "1951-06-01",
             "maxdate": "2005-09-01",
@@ -1601,17 +1128,6 @@
             "id": "COOP:022927",
             "elevationUnit": "METERS",
             "longitude": -111.75
-        },
-        {
-            "elevation": 2110.1,
-            "mindate": "1948-07-01",
-            "maxdate": "1951-03-08",
-            "latitude": 35.2,
-            "name": "FLAGSTAFF WEATHER BUREAU CITY, AZ US",
-            "datacoverage": 0.8614,
-            "id": "COOP:023007",
-            "elevationUnit": "METERS",
-            "longitude": -111.66667
         },
         {
             "elevation": 2171.7,
@@ -1658,17 +1174,6 @@
             "longitude": -111.36667
         },
         {
-            "elevation": 1549,
-            "mindate": "1948-01-01",
-            "maxdate": "1958-12-01",
-            "latitude": 31.4,
-            "name": "FLYING H RANCH, AZ US",
-            "datacoverage": 0.9318,
-            "id": "COOP:023071",
-            "elevationUnit": "METERS",
-            "longitude": -110.23333
-        },
-        {
             "elevation": 1861.1,
             "mindate": "1947-10-01",
             "maxdate": "1971-05-01",
@@ -1678,17 +1183,6 @@
             "id": "COOP:023082",
             "elevationUnit": "METERS",
             "longitude": -110.1
-        },
-        {
-            "elevation": 2104.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1948-12-01",
-            "latitude": 35.75,
-            "name": "FORT DEFIANCE, AZ US",
-            "datacoverage": 0.9768,
-            "id": "COOP:023102",
-            "elevationUnit": "METERS",
-            "longitude": -109.08333
         },
         {
             "elevation": 1478.3,
@@ -1711,17 +1205,6 @@
             "id": "COOP:023120",
             "elevationUnit": "METERS",
             "longitude": -110.34417
-        },
-        {
-            "elevation": 816.9,
-            "mindate": "1958-12-01",
-            "maxdate": "1966-05-01",
-            "latitude": 33.03333,
-            "name": "FORT THOMAS, AZ US",
-            "datacoverage": 0.9887,
-            "id": "COOP:023144",
-            "elevationUnit": "METERS",
-            "longitude": -109.95
         },
         {
             "elevation": 864.1,
@@ -1779,17 +1262,6 @@
             "longitude": -112.5259
         },
         {
-            "elevation": 1129,
-            "mindate": "1931-01-01",
-            "maxdate": "1942-08-01",
-            "latitude": 31.81667,
-            "name": "FRESNAL RANCH SCHOOL, AZ US",
-            "datacoverage": 0.8858,
-            "id": "COOP:023253",
-            "elevationUnit": "METERS",
-            "longitude": -111.53333
-        },
-        {
             "elevation": 1318,
             "mindate": "1940-05-01",
             "maxdate": "1980-06-01",
@@ -1821,17 +1293,6 @@
             "id": "COOP:023393",
             "elevationUnit": "METERS",
             "longitude": -112.68109
-        },
-        {
-            "elevation": 220.1,
-            "mindate": "1944-02-01",
-            "maxdate": "1966-12-01",
-            "latitude": 32.95,
-            "name": "GILA BEND AVIATION, AZ US",
-            "datacoverage": 0.9964,
-            "id": "COOP:023398",
-            "elevationUnit": "METERS",
-            "longitude": -112.71667
         },
         {
             "elevation": 883.9,
@@ -1889,28 +1350,6 @@
             "longitude": -110.7711
         },
         {
-            "elevation": 352,
-            "mindate": "1931-01-01",
-            "maxdate": "1960-08-01",
-            "latitude": 33.3814,
-            "name": "SOUTH PHOENIX, AZ US",
-            "datacoverage": 0.9747,
-            "id": "COOP:023573",
-            "elevationUnit": "METERS",
-            "longitude": -112.07
-        },
-        {
-            "elevation": 2106.8,
-            "mindate": "1948-01-01",
-            "maxdate": "1957-09-01",
-            "latitude": 36.05,
-            "name": "GRAND CANYON, AZ US",
-            "datacoverage": 0.9783,
-            "id": "COOP:023581",
-            "elevationUnit": "METERS",
-            "longitude": -112.133333
-        },
-        {
             "elevation": 2158.9,
             "mindate": "2011-01-01",
             "maxdate": "2015-11-01",
@@ -1933,17 +1372,6 @@
             "longitude": -111.8304
         },
         {
-            "elevation": 2126,
-            "mindate": "1913-04-01",
-            "maxdate": "1967-04-01",
-            "latitude": 36.05,
-            "name": "GRAND CANYON AIRWAYS, AZ US",
-            "datacoverage": 0.4761,
-            "id": "COOP:023586",
-            "elevationUnit": "METERS",
-            "longitude": -112.13333
-        },
-        {
             "elevation": 1158.8,
             "mindate": "2010-05-01",
             "maxdate": "2013-12-01",
@@ -1953,17 +1381,6 @@
             "id": "COOP:023589",
             "elevationUnit": "METERS",
             "longitude": -112.1292
-        },
-        {
-            "elevation": 2100.1,
-            "mindate": "1903-10-01",
-            "maxdate": "1957-08-01",
-            "latitude": 36.05,
-            "name": "GRAND CANYON HEADQUARTERS, AZ US",
-            "datacoverage": 0.9984,
-            "id": "COOP:023591",
-            "elevationUnit": "METERS",
-            "longitude": -112.13333
         },
         {
             "elevation": 2119.9,
@@ -2010,28 +1427,6 @@
             "longitude": -109.38333
         },
         {
-            "elevation": 677,
-            "mindate": "1943-06-01",
-            "maxdate": "1950-12-01",
-            "latitude": 33.63333,
-            "name": "GRAPEVINE, AZ US",
-            "datacoverage": 0.9996,
-            "id": "COOP:023643",
-            "elevationUnit": "METERS",
-            "longitude": -111.05
-        },
-        {
-            "elevation": 1498.1,
-            "mindate": "1956-08-01",
-            "maxdate": "1962-04-01",
-            "latitude": 35.73333,
-            "name": "GRAY MOUNTAIN TRADIN POST, AZ US",
-            "datacoverage": 0.9857,
-            "id": "COOP:023663",
-            "elevationUnit": "METERS",
-            "longitude": -111.48333
-        },
-        {
             "elevation": 883.9,
             "mindate": "1988-05-01",
             "maxdate": "2015-11-01",
@@ -2052,17 +1447,6 @@
             "id": "COOP:023683",
             "elevationUnit": "METERS",
             "longitude": -109.4519
-        },
-        {
-            "elevation": 2030,
-            "mindate": "1950-01-01",
-            "maxdate": "1954-06-01",
-            "latitude": 33.25,
-            "name": "GREYS PEAK MNTC YD, AZ US",
-            "datacoverage": 0.7785,
-            "id": "COOP:023697",
-            "elevationUnit": "METERS",
-            "longitude": -109.38333
         },
         {
             "elevation": 2030,
@@ -2096,17 +1480,6 @@
             "id": "COOP:023713",
             "elevationUnit": "METERS",
             "longitude": -112.45
-        },
-        {
-            "elevation": 1092.1,
-            "mindate": "1948-01-01",
-            "maxdate": "1959-02-01",
-            "latitude": 35.36667,
-            "name": "HACKBERRY, AZ US",
-            "datacoverage": 1,
-            "id": "COOP:023788",
-            "elevationUnit": "METERS",
-            "longitude": -113.73333
         },
         {
             "elevation": 1129,
@@ -2153,17 +1526,6 @@
             "longitude": -109.75
         },
         {
-            "elevation": 1983,
-            "mindate": "1948-01-01",
-            "maxdate": "1950-07-01",
-            "latitude": 34.38333,
-            "name": "HEBER, AZ US",
-            "datacoverage": 1,
-            "id": "COOP:023958",
-            "elevationUnit": "METERS",
-            "longitude": -110.58333
-        },
-        {
             "elevation": 2008.6,
             "mindate": "1950-08-01",
             "maxdate": "2015-11-01",
@@ -2175,72 +1537,6 @@
             "longitude": -110.558
         },
         {
-            "elevation": 982.1,
-            "mindate": "1940-11-01",
-            "maxdate": "1954-07-01",
-            "latitude": 31.95,
-            "name": "HELMET PEAK, AZ US",
-            "datacoverage": 0.6729,
-            "id": "COOP:023973",
-            "elevationUnit": "METERS",
-            "longitude": -111.05
-        },
-        {
-            "elevation": 1110.1,
-            "mindate": "1948-02-01",
-            "maxdate": "1950-01-01",
-            "latitude": 31.91667,
-            "name": "HELMET PEAK RUBY STATION, AZ US",
-            "datacoverage": 0.9993,
-            "id": "COOP:023975",
-            "elevationUnit": "METERS",
-            "longitude": -111.08333
-        },
-        {
-            "elevation": 1311.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1950-04-02",
-            "latitude": 31.86667,
-            "name": "HELVETIA SANTA RITA, AZ US",
-            "datacoverage": 1,
-            "id": "COOP:023981",
-            "elevationUnit": "METERS",
-            "longitude": -110.78333
-        },
-        {
-            "elevation": 1708.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1940-04-01",
-            "latitude": 33.81667,
-            "name": "HENRYS CAMP, AZ US",
-            "datacoverage": 0.9021,
-            "id": "COOP:023987",
-            "elevationUnit": "METERS",
-            "longitude": -109.8
-        },
-        {
-            "elevation": 1534.1,
-            "mindate": "1950-03-01",
-            "maxdate": "1950-10-01",
-            "latitude": 31.4,
-            "name": "HEREFORD 8 SW, AZ US",
-            "datacoverage": 0.9939,
-            "id": "COOP:023996",
-            "elevationUnit": "METERS",
-            "longitude": -110.23333
-        },
-        {
-            "elevation": 1174.1,
-            "mindate": "1940-06-01",
-            "maxdate": "1954-12-01",
-            "latitude": 34.41667,
-            "name": "HILLSIDE, AZ US",
-            "datacoverage": 0.7599,
-            "id": "COOP:024049",
-            "elevationUnit": "METERS",
-            "longitude": -112.91667
-        },
-        {
             "elevation": 1011.9,
             "mindate": "1955-01-01",
             "maxdate": "1997-12-01",
@@ -2250,17 +1546,6 @@
             "id": "COOP:024053",
             "elevationUnit": "METERS",
             "longitude": -112.88806
-        },
-        {
-            "elevation": 1738.9,
-            "mindate": "1940-01-01",
-            "maxdate": "1948-08-01",
-            "latitude": 33.61667,
-            "name": "HILLTOP, AZ US",
-            "datacoverage": 0.9518,
-            "id": "COOP:024069",
-            "elevationUnit": "METERS",
-            "longitude": -110.4
         },
         {
             "elevation": 1549.9,
@@ -2285,72 +1570,6 @@
             "longitude": -111.7138
         },
         {
-            "elevation": 1772.1,
-            "mindate": "1957-06-01",
-            "maxdate": "1957-11-01",
-            "latitude": 35.28333,
-            "name": "HOUCK 2 W, AZ US",
-            "datacoverage": 0.998,
-            "id": "COOP:024228",
-            "elevationUnit": "METERS",
-            "longitude": -109.23333
-        },
-        {
-            "elevation": 1641,
-            "mindate": "1948-08-01",
-            "maxdate": "1957-04-01",
-            "latitude": 36.73333,
-            "name": "HOUSE ROCK, AZ US",
-            "datacoverage": 0.3525,
-            "id": "COOP:024240",
-            "elevationUnit": "METERS",
-            "longitude": -112.05
-        },
-        {
-            "elevation": 52.1,
-            "mindate": "1948-01-01",
-            "maxdate": "1949-08-01",
-            "latitude": 32.88333,
-            "name": "IMPERIAL DAM, CA US",
-            "datacoverage": 0.9996,
-            "id": "COOP:024299",
-            "elevationUnit": "METERS",
-            "longitude": -114.46667
-        },
-        {
-            "elevation": 1800.1,
-            "mindate": "1955-03-01",
-            "maxdate": "1965-11-01",
-            "latitude": 35.41667,
-            "name": "BITA HOCHEE TRADING, AZ US",
-            "datacoverage": 0.4184,
-            "id": "COOP:024317",
-            "elevationUnit": "METERS",
-            "longitude": -110.08333
-        },
-        {
-            "elevation": 771.1,
-            "mindate": "1935-06-01",
-            "maxdate": "1966-07-01",
-            "latitude": 36.1066,
-            "name": "PHANTOM RANCH, AZ US",
-            "datacoverage": 0.9786,
-            "id": "COOP:024335",
-            "elevationUnit": "METERS",
-            "longitude": -112.0947
-        },
-        {
-            "elevation": 677,
-            "mindate": "1931-01-01",
-            "maxdate": "1952-04-01",
-            "latitude": 33.61667,
-            "name": "INTAKE, AZ US",
-            "datacoverage": 0.9961,
-            "id": "COOP:024345",
-            "elevationUnit": "METERS",
-            "longitude": -110.93333
-        },
-        {
             "elevation": 1156.7,
             "mindate": "1934-04-01",
             "maxdate": "2005-03-01",
@@ -2373,17 +1592,6 @@
             "longitude": -112.21667
         },
         {
-            "elevation": 2044,
-            "mindate": "1931-12-01",
-            "maxdate": "1955-10-01",
-            "latitude": 35.76667,
-            "name": "JEDDITO, AZ US",
-            "datacoverage": 0.9895,
-            "id": "COOP:024438",
-            "elevationUnit": "METERS",
-            "longitude": -110.13333
-        },
-        {
             "elevation": 1508.8,
             "mindate": "1931-01-01",
             "maxdate": "2015-11-01",
@@ -2404,17 +1612,6 @@
             "id": "COOP:024508",
             "elevationUnit": "METERS",
             "longitude": -111.7553
-        },
-        {
-            "elevation": 1830,
-            "mindate": "1938-02-01",
-            "maxdate": "1961-01-01",
-            "latitude": 36.6,
-            "name": "KAIBITO, AZ US",
-            "datacoverage": 0.9094,
-            "id": "COOP:024528",
-            "elevationUnit": "METERS",
-            "longitude": -111.08333
         },
         {
             "elevation": 1429.5,
@@ -2494,17 +1691,6 @@
             "longitude": -110.96667
         },
         {
-            "elevation": 1024.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1967-09-01",
-            "latitude": 35.183333,
-            "name": "KINGMAN, AZ US",
-            "datacoverage": 0.8885,
-            "id": "COOP:024639",
-            "elevationUnit": "METERS",
-            "longitude": -114.05
-        },
-        {
             "elevation": 1042.4,
             "mindate": "2002-04-01",
             "maxdate": "2015-11-01",
@@ -2536,17 +1722,6 @@
             "id": "COOP:024675",
             "elevationUnit": "METERS",
             "longitude": -111.59787
-        },
-        {
-            "elevation": 1951.9,
-            "mindate": "1950-09-01",
-            "maxdate": "1959-01-01",
-            "latitude": 35.5,
-            "name": "KLAGETOH, AZ US",
-            "datacoverage": 0.9997,
-            "id": "COOP:024683",
-            "elevationUnit": "METERS",
-            "longitude": -109.53333
         },
         {
             "elevation": 1981.2,
@@ -2648,17 +1823,6 @@
             "longitude": -111.6022
         },
         {
-            "elevation": 1271,
-            "mindate": "1931-01-01",
-            "maxdate": "1960-01-01",
-            "latitude": 31.6016,
-            "name": "MC NEAL, AZ US",
-            "datacoverage": 0.9942,
-            "id": "COOP:024864",
-            "elevationUnit": "METERS",
-            "longitude": -109.6686
-        },
-        {
             "elevation": 1434.1,
             "mindate": "1934-06-01",
             "maxdate": "1981-06-01",
@@ -2692,28 +1856,6 @@
             "longitude": -113.9423
         },
         {
-            "elevation": 1220.1,
-            "mindate": "1948-01-01",
-            "maxdate": "1951-04-01",
-            "latitude": 36.53333,
-            "name": "LITTLEFIELD 25 SSW, AZ US",
-            "datacoverage": 0.9498,
-            "id": "COOP:024999",
-            "elevationUnit": "METERS",
-            "longitude": -114.03333
-        },
-        {
-            "elevation": 1524.9,
-            "mindate": "1952-05-01",
-            "maxdate": "1958-12-01",
-            "latitude": 35.2,
-            "name": "LOOKOUT RANCH, AZ US",
-            "datacoverage": 0.9371,
-            "id": "COOP:025064",
-            "elevationUnit": "METERS",
-            "longitude": -113.38333
-        },
-        {
             "elevation": 1987.3,
             "mindate": "1951-09-01",
             "maxdate": "2010-07-01",
@@ -2723,17 +1865,6 @@
             "id": "COOP:025129",
             "elevationUnit": "METERS",
             "longitude": -109.2269
-        },
-        {
-            "elevation": 1894,
-            "mindate": "1958-11-01",
-            "maxdate": "1960-12-01",
-            "latitude": 35.35,
-            "name": "LUPTON, AZ US",
-            "datacoverage": 0.9992,
-            "id": "COOP:025156",
-            "elevationUnit": "METERS",
-            "longitude": -109.05
         },
         {
             "elevation": 1620,
@@ -2756,39 +1887,6 @@
             "id": "COOP:025270",
             "elevationUnit": "METERS",
             "longitude": -112.0303
-        },
-        {
-            "elevation": 427,
-            "mindate": "1931-01-01",
-            "maxdate": "1958-12-01",
-            "latitude": 32.91667,
-            "name": "MARICOPA 9 SSW, AZ US",
-            "datacoverage": 0.8423,
-            "id": "COOP:025274",
-            "elevationUnit": "METERS",
-            "longitude": -112.1
-        },
-        {
-            "elevation": 351.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1964-09-01",
-            "latitude": 33.63333,
-            "name": "MARINETTE, AZ US",
-            "datacoverage": 0.8,
-            "id": "COOP:025282",
-            "elevationUnit": "METERS",
-            "longitude": -112.3
-        },
-        {
-            "elevation": 2379,
-            "mindate": "1948-05-01",
-            "maxdate": "1967-07-01",
-            "latitude": 33.75,
-            "name": "MAVERICK, AZ US",
-            "datacoverage": 0.9957,
-            "id": "COOP:025312",
-            "elevationUnit": "METERS",
-            "longitude": -109.55
         },
         {
             "elevation": 1371.6,
@@ -2879,39 +1977,6 @@
             "longitude": -110.87
         },
         {
-            "elevation": 1716.9,
-            "mindate": "1950-04-01",
-            "maxdate": "1950-09-01",
-            "latitude": 34.4,
-            "name": "MILLERS RIM TRAIL RH, AZ US",
-            "datacoverage": 0.8316,
-            "id": "COOP:025560",
-            "elevationUnit": "METERS",
-            "longitude": -111.23333
-        },
-        {
-            "elevation": 164.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1951-05-01",
-            "latitude": 32.73333,
-            "name": "MOHAWK, AZ US",
-            "datacoverage": 0.9593,
-            "id": "COOP:025627",
-            "elevationUnit": "METERS",
-            "longitude": -113.76667
-        },
-        {
-            "elevation": 225.9,
-            "mindate": "1959-02-01",
-            "maxdate": "1963-07-01",
-            "latitude": 33.1,
-            "name": "MONTEZUMA, AZ US",
-            "datacoverage": 0.6859,
-            "id": "COOP:025633",
-            "elevationUnit": "METERS",
-            "longitude": -113.38333
-        },
-        {
             "elevation": 969.3,
             "mindate": "1938-10-01",
             "maxdate": "2015-11-01",
@@ -2945,28 +2010,6 @@
             "longitude": -111.4425
         },
         {
-            "elevation": 2190,
-            "mindate": "1948-05-01",
-            "maxdate": "1968-08-01",
-            "latitude": 34.91667,
-            "name": "MORMON LAKE R S, AZ US",
-            "datacoverage": 0.5123,
-            "id": "COOP:025708",
-            "elevationUnit": "METERS",
-            "longitude": -111.45
-        },
-        {
-            "elevation": 1147,
-            "mindate": "1956-05-01",
-            "maxdate": "1967-07-01",
-            "latitude": 31.93333,
-            "name": "MOUNT FAGAN RANCH, AZ US",
-            "datacoverage": 0.6445,
-            "id": "COOP:025729",
-            "elevationUnit": "METERS",
-            "longitude": -110.76667
-        },
-        {
             "elevation": 2403.7,
             "mindate": "1958-09-01",
             "maxdate": "2010-01-01",
@@ -2976,28 +2019,6 @@
             "id": "COOP:025732",
             "elevationUnit": "METERS",
             "longitude": -110.75454
-        },
-        {
-            "elevation": 2345.1,
-            "mindate": "1950-05-01",
-            "maxdate": "1956-12-01",
-            "latitude": 32.41667,
-            "name": "MOUNT LEMMON, AZ US",
-            "datacoverage": 0.8743,
-            "id": "COOP:025733",
-            "elevationUnit": "METERS",
-            "longitude": -110.71667
-        },
-        {
-            "elevation": 2788,
-            "mindate": "1957-08-01",
-            "maxdate": "1958-08-01",
-            "latitude": 32.45,
-            "name": "MOUNT LEMMON SUMMIT, AZ US",
-            "datacoverage": 0.9223,
-            "id": "COOP:025734",
-            "elevationUnit": "METERS",
-            "longitude": -110.78333
         },
         {
             "elevation": 1708.1,
@@ -3099,17 +2120,6 @@
             "longitude": -111.7553
         },
         {
-            "elevation": 1403,
-            "mindate": "1931-01-01",
-            "maxdate": "1949-09-25",
-            "latitude": 32.6,
-            "name": "ORACLE, AZ US",
-            "datacoverage": 0.9819,
-            "id": "COOP:026116",
-            "elevationUnit": "METERS",
-            "longitude": -110.78333
-        },
-        {
             "elevation": 1400.6,
             "mindate": "2010-02-01",
             "maxdate": "2015-11-01",
@@ -3132,17 +2142,6 @@
             "longitude": -110.73444
         },
         {
-            "elevation": 1809,
-            "mindate": "1938-05-01",
-            "maxdate": "1965-08-01",
-            "latitude": 35.86667,
-            "name": "ORAIBI, AZ US",
-            "datacoverage": 0.5731,
-            "id": "COOP:026124",
-            "elevationUnit": "METERS",
-            "longitude": -110.61667
-        },
-        {
             "elevation": 511.5,
             "mindate": "1944-01-01",
             "maxdate": "2015-11-01",
@@ -3163,17 +2162,6 @@
             "id": "COOP:026180",
             "elevationUnit": "METERS",
             "longitude": -111.4483
-        },
-        {
-            "elevation": 1642.9,
-            "mindate": "1937-09-01",
-            "maxdate": "1965-02-01",
-            "latitude": 31.8834,
-            "name": "PORTAL 4 SW, AZ US",
-            "datacoverage": 0.7486,
-            "id": "COOP:026186",
-            "elevationUnit": "METERS",
-            "longitude": -109.2056
         },
         {
             "elevation": 1755.6,
@@ -3207,17 +2195,6 @@
             "id": "COOP:026202",
             "elevationUnit": "METERS",
             "longitude": -110.71667
-        },
-        {
-            "elevation": 555,
-            "mindate": "1959-03-01",
-            "maxdate": "1960-05-01",
-            "latitude": 31.78333,
-            "name": "PAPAGO FARMS, AZ US",
-            "datacoverage": 0.9304,
-            "id": "COOP:026233",
-            "elevationUnit": "METERS",
-            "longitude": -112.28333
         },
         {
             "elevation": 1664.2,
@@ -3363,17 +2340,6 @@
             "longitude": -109.8377
         },
         {
-            "elevation": 1501.1,
-            "mindate": "1949-01-01",
-            "maxdate": "1950-02-01",
-            "latitude": 31.88333,
-            "name": "PEARCE 5 W, AZ US",
-            "datacoverage": 0.7897,
-            "id": "COOP:026358",
-            "elevationUnit": "METERS",
-            "longitude": -109.9
-        },
-        {
             "elevation": 1177.1,
             "mindate": "1962-05-01",
             "maxdate": "1972-08-01",
@@ -3383,17 +2349,6 @@
             "id": "COOP:026424",
             "elevationUnit": "METERS",
             "longitude": -112.2
-        },
-        {
-            "elevation": 1708.1,
-            "mindate": "1952-04-01",
-            "maxdate": "1969-12-01",
-            "latitude": 35.36667,
-            "name": "PERNER RANCH, AZ US",
-            "datacoverage": 0.0131,
-            "id": "COOP:026434",
-            "elevationUnit": "METERS",
-            "longitude": -113.28333
         },
         {
             "elevation": 1659.9,
@@ -3452,7 +2407,7 @@
         },
         {
             "elevation": 334.7,
-            "mindate": "1948-07-01",
+            "mindate": "1951-01-01",
             "maxdate": "1998-10-01",
             "latitude": 33.44889,
             "name": "PHOENIX CITY, AZ US",
@@ -3484,17 +2439,6 @@
             "longitude": -111.4017
         },
         {
-            "elevation": 417.9,
-            "mindate": "1948-10-01",
-            "maxdate": "1952-06-01",
-            "latitude": 36.11667,
-            "name": "PIERCE FERRY, AZ US",
-            "datacoverage": 1,
-            "id": "COOP:026536",
-            "elevationUnit": "METERS",
-            "longitude": -114
-        },
-        {
             "elevation": 1175.9,
             "mindate": "1963-06-01",
             "maxdate": "1984-07-01",
@@ -3504,17 +2448,6 @@
             "id": "COOP:026538",
             "elevationUnit": "METERS",
             "longitude": -114.08333
-        },
-        {
-            "elevation": 1150,
-            "mindate": "1943-07-01",
-            "maxdate": "1967-03-01",
-            "latitude": 32.83333,
-            "name": "PIMA R4 ON W2, AZ US",
-            "datacoverage": 0.8679,
-            "id": "COOP:026546",
-            "elevationUnit": "METERS",
-            "longitude": -110.01667
         },
         {
             "elevation": 1378.9,
@@ -3537,17 +2470,6 @@
             "id": "COOP:026571",
             "elevationUnit": "METERS",
             "longitude": -111.46667
-        },
-        {
-            "elevation": 1983,
-            "mindate": "1931-01-01",
-            "maxdate": "1968-12-01",
-            "latitude": 34.3,
-            "name": "PINEDALE, AZ US",
-            "datacoverage": 0.9495,
-            "id": "COOP:026581",
-            "elevationUnit": "METERS",
-            "longitude": -110.25
         },
         {
             "elevation": 2121.4,
@@ -3594,17 +2516,6 @@
             "longitude": -110.23333
         },
         {
-            "elevation": 1652.9,
-            "mindate": "1956-03-01",
-            "maxdate": "1960-09-01",
-            "latitude": 35.05,
-            "name": "PINTA, AZ US",
-            "datacoverage": 0.8904,
-            "id": "COOP:026606",
-            "elevationUnit": "METERS",
-            "longitude": -109.65
-        },
-        {
             "elevation": 1499.6,
             "mindate": "1963-06-01",
             "maxdate": "2015-11-01",
@@ -3616,17 +2527,6 @@
             "longitude": -112.7374
         },
         {
-            "elevation": 580,
-            "mindate": "1936-08-01",
-            "maxdate": "1955-12-01",
-            "latitude": 32.05,
-            "name": "PISINEMO, AZ US",
-            "datacoverage": 1,
-            "id": "COOP:026630",
-            "elevationUnit": "METERS",
-            "longitude": -112.31667
-        },
-        {
             "elevation": 1579.8,
             "mindate": "1964-09-01",
             "maxdate": "2015-11-01",
@@ -3636,28 +2536,6 @@
             "id": "COOP:026653",
             "elevationUnit": "METERS",
             "longitude": -110.9659
-        },
-        {
-            "elevation": 1414.9,
-            "mindate": "1948-01-01",
-            "maxdate": "1969-04-01",
-            "latitude": 34.43333,
-            "name": "MAYER 3 NNW, AZ US",
-            "datacoverage": 0.8893,
-            "id": "COOP:026676",
-            "elevationUnit": "METERS",
-            "longitude": -112.25
-        },
-        {
-            "elevation": 1524.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1955-03-01",
-            "latitude": 31.9,
-            "name": "PORTAL, AZ US",
-            "datacoverage": 0.7149,
-            "id": "COOP:026706",
-            "elevationUnit": "METERS",
-            "longitude": -109.16667
         },
         {
             "elevation": 1642.9,
@@ -3682,17 +2560,6 @@
             "longitude": -112.4322
         },
         {
-            "elevation": 1536.8,
-            "mindate": "1948-01-01",
-            "maxdate": "1969-12-01",
-            "latitude": 34.65167,
-            "name": "PRESCOTT LOVE FIELD, AZ US",
-            "datacoverage": 0.9999,
-            "id": "COOP:026801",
-            "elevationUnit": "METERS",
-            "longitude": -112.42083
-        },
-        {
             "elevation": 708.7,
             "mindate": "1973-06-01",
             "maxdate": "2015-11-01",
@@ -3713,17 +2580,6 @@
             "id": "COOP:026865",
             "elevationUnit": "METERS",
             "longitude": -114.2272
-        },
-        {
-            "elevation": 1961.1,
-            "mindate": "1952-05-01",
-            "maxdate": "1952-10-01",
-            "latitude": 37,
-            "name": "RAINBOW LODGE, AZ US",
-            "datacoverage": 0.9925,
-            "id": "COOP:026940",
-            "elevationUnit": "METERS",
-            "longitude": -110.9
         },
         {
             "elevation": 879,
@@ -3770,28 +2626,6 @@
             "longitude": -111.3063
         },
         {
-            "elevation": 1097.9,
-            "mindate": "1941-06-01",
-            "maxdate": "1962-05-01",
-            "latitude": 34.65,
-            "name": "RIMROCK, AZ US",
-            "datacoverage": 0.9762,
-            "id": "COOP:027131",
-            "elevationUnit": "METERS",
-            "longitude": -111.73333
-        },
-        {
-            "elevation": 1677.9,
-            "mindate": "1951-06-01",
-            "maxdate": "1952-08-01",
-            "latitude": 34.4,
-            "name": "PAYSON 12 NNE, AZ US",
-            "datacoverage": 0.3323,
-            "id": "COOP:027143",
-            "elevationUnit": "METERS",
-            "longitude": -111.26667
-        },
-        {
             "elevation": 455.7,
             "mindate": "2009-10-01",
             "maxdate": "2015-11-01",
@@ -3801,17 +2635,6 @@
             "id": "COOP:027187",
             "elevationUnit": "METERS",
             "longitude": -111.6313
-        },
-        {
-            "elevation": 1107,
-            "mindate": "1955-06-01",
-            "maxdate": "1966-03-28",
-            "latitude": 33.81667,
-            "name": "ROCK CREEK R S, AZ US",
-            "datacoverage": 0.0409,
-            "id": "COOP:027210",
-            "elevationUnit": "METERS",
-            "longitude": -109.8
         },
         {
             "elevation": 794,
@@ -3836,39 +2659,6 @@
             "longitude": -109.85
         },
         {
-            "elevation": 1140.9,
-            "mindate": "1948-01-01",
-            "maxdate": "1969-12-01",
-            "latitude": 35.1,
-            "name": "ROUND VALLEY, AZ US",
-            "datacoverage": 0.6929,
-            "id": "COOP:027311",
-            "elevationUnit": "METERS",
-            "longitude": -113.63333
-        },
-        {
-            "elevation": 1311.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1944-12-01",
-            "latitude": 31.46667,
-            "name": "RUBY, AZ US",
-            "datacoverage": 0.9999,
-            "id": "COOP:027324",
-            "elevationUnit": "METERS",
-            "longitude": -111.23333
-        },
-        {
-            "elevation": 1214,
-            "mindate": "1945-01-01",
-            "maxdate": "1955-12-01",
-            "latitude": 31.5,
-            "name": "RUBY 4 NW, AZ US",
-            "datacoverage": 1,
-            "id": "COOP:027326",
-            "elevationUnit": "METERS",
-            "longitude": -111.28333
-        },
-        {
             "elevation": 1110.1,
             "mindate": "1950-02-01",
             "maxdate": "1983-10-01",
@@ -3889,17 +2679,6 @@
             "id": "COOP:027334",
             "elevationUnit": "METERS",
             "longitude": -109.413
-        },
-        {
-            "elevation": 1922.1,
-            "mindate": "1952-03-01",
-            "maxdate": "1954-12-01",
-            "latitude": 36.68333,
-            "name": "RYAN STATION, AZ US",
-            "datacoverage": 0.9989,
-            "id": "COOP:027349",
-            "elevationUnit": "METERS",
-            "longitude": -112.35
         },
         {
             "elevation": 804.7,
@@ -4012,17 +2791,6 @@
             "longitude": -113.61667
         },
         {
-            "elevation": 519.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1957-03-01",
-            "latitude": 33.73333,
-            "name": "SALOME 6 SE, AZ US",
-            "datacoverage": 1,
-            "id": "COOP:027460",
-            "elevationUnit": "METERS",
-            "longitude": -113.53333
-        },
-        {
             "elevation": 487.4,
             "mindate": "1987-03-01",
             "maxdate": "1998-04-01",
@@ -4032,17 +2800,6 @@
             "id": "COOP:027462",
             "elevationUnit": "METERS",
             "longitude": -113.48333
-        },
-        {
-            "elevation": 1100.9,
-            "mindate": "1941-07-01",
-            "maxdate": "1966-06-01",
-            "latitude": 33.8,
-            "name": "SALT RIVER, AZ US",
-            "datacoverage": 0.7067,
-            "id": "COOP:027466",
-            "elevationUnit": "METERS",
-            "longitude": -110.5
         },
         {
             "elevation": 805,
@@ -4133,28 +2890,6 @@
             "longitude": -109.22691
         },
         {
-            "elevation": 1100.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1949-01-01",
-            "latitude": 32.33333,
-            "name": "SAN SIMON 5 NW, AZ US",
-            "datacoverage": 0.9861,
-            "id": "COOP:027563",
-            "elevationUnit": "METERS",
-            "longitude": -109.26667
-        },
-        {
-            "elevation": 1220.1,
-            "mindate": "1941-06-01",
-            "maxdate": "1949-10-01",
-            "latitude": 32.36667,
-            "name": "SAN SIMON 9 NE, AZ US",
-            "datacoverage": 0.9898,
-            "id": "COOP:027565",
-            "elevationUnit": "METERS",
-            "longitude": -109.13333
-        },
-        {
             "elevation": 1182.6,
             "mindate": "1962-07-01",
             "maxdate": "1986-07-01",
@@ -4164,17 +2899,6 @@
             "id": "COOP:027567",
             "elevationUnit": "METERS",
             "longitude": -109.08333
-        },
-        {
-            "elevation": 1199.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1950-12-01",
-            "latitude": 31.68333,
-            "name": "SANTA MARGARITA, AZ US",
-            "datacoverage": 1,
-            "id": "COOP:027583",
-            "elevationUnit": "METERS",
-            "longitude": -111.58333
         },
         {
             "elevation": 1310.6,
@@ -4276,17 +3000,6 @@
             "longitude": -112.8797
         },
         {
-            "elevation": 1702,
-            "mindate": "1948-03-01",
-            "maxdate": "1951-06-02",
-            "latitude": 35.3,
-            "name": "SELIGMAN AIRPORT, AZ US",
-            "datacoverage": 0.5406,
-            "id": "COOP:027718",
-            "elevationUnit": "METERS",
-            "longitude": -113.16667
-        },
-        {
             "elevation": 1598.1,
             "mindate": "1962-07-01",
             "maxdate": "1982-01-01",
@@ -4307,61 +3020,6 @@
             "id": "COOP:027726",
             "elevationUnit": "METERS",
             "longitude": -111.885
-        },
-        {
-            "elevation": 1501.1,
-            "mindate": "1948-01-01",
-            "maxdate": "1965-12-01",
-            "latitude": 33.78333,
-            "name": "SENECA 3 NW, AZ US",
-            "datacoverage": 0.7729,
-            "id": "COOP:027741",
-            "elevationUnit": "METERS",
-            "longitude": -110.53333
-        },
-        {
-            "elevation": 210,
-            "mindate": "1950-01-01",
-            "maxdate": "1960-03-01",
-            "latitude": 32.86667,
-            "name": "SENTINEL, AZ US",
-            "datacoverage": 0.9352,
-            "id": "COOP:027751",
-            "elevationUnit": "METERS",
-            "longitude": -113.21667
-        },
-        {
-            "elevation": 1866.9,
-            "mindate": "1957-10-01",
-            "maxdate": "1959-04-01",
-            "latitude": 35.8,
-            "name": "SHONGOPOVI, AZ US",
-            "datacoverage": 1,
-            "id": "COOP:027829",
-            "elevationUnit": "METERS",
-            "longitude": -110.53333
-        },
-        {
-            "elevation": 1524.3,
-            "mindate": "1950-07-01",
-            "maxdate": "1963-06-01",
-            "latitude": 36.9935,
-            "name": "COLORADO CITY, AZ US",
-            "datacoverage": 0.9744,
-            "id": "COOP:027837",
-            "elevationUnit": "METERS",
-            "longitude": -112.9719
-        },
-        {
-            "elevation": 1955,
-            "mindate": "1949-11-01",
-            "maxdate": "1965-11-01",
-            "latitude": 34.26667,
-            "name": "SHOW LOW, AZ US",
-            "datacoverage": 0.855,
-            "id": "COOP:027849",
-            "elevationUnit": "METERS",
-            "longitude": -110
         },
         {
             "elevation": 1954.1,
@@ -4397,28 +3055,6 @@
             "longitude": -110.28073
         },
         {
-            "elevation": 463.9,
-            "mindate": "1948-01-01",
-            "maxdate": "1952-07-01",
-            "latitude": 34.46667,
-            "name": "SIGNAL, AZ US",
-            "datacoverage": 0.8104,
-            "id": "COOP:027884",
-            "elevationUnit": "METERS",
-            "longitude": -113.63333
-        },
-        {
-            "elevation": 766,
-            "mindate": "1952-06-01",
-            "maxdate": "1961-08-01",
-            "latitude": 34.36667,
-            "name": "SIGNAL 13 SW, AZ US",
-            "datacoverage": 0.936,
-            "id": "COOP:027888",
-            "elevationUnit": "METERS",
-            "longitude": -113.8
-        },
-        {
             "elevation": 835.2,
             "mindate": "1953-03-01",
             "maxdate": "1974-04-01",
@@ -4428,17 +3064,6 @@
             "id": "COOP:027915",
             "elevationUnit": "METERS",
             "longitude": -111.5
-        },
-        {
-            "elevation": 1876,
-            "mindate": "1939-01-01",
-            "maxdate": "1967-01-01",
-            "latitude": 34.35,
-            "name": "SILVER CREEK RANCH, AZ US",
-            "datacoverage": 0.994,
-            "id": "COOP:027921",
-            "elevationUnit": "METERS",
-            "longitude": -109.98333
         },
         {
             "elevation": 1296,
@@ -4529,28 +3154,6 @@
             "longitude": -109.275
         },
         {
-            "elevation": 399.9,
-            "mindate": "1954-05-01",
-            "maxdate": "1955-05-01",
-            "latitude": 32.88333,
-            "name": "STANFIELD, AZ US",
-            "datacoverage": 0.9992,
-            "id": "COOP:028177",
-            "elevationUnit": "METERS",
-            "longitude": -111.96667
-        },
-        {
-            "elevation": 1061,
-            "mindate": "1944-04-01",
-            "maxdate": "1969-12-01",
-            "latitude": 34.16667,
-            "name": "STANTON, AZ US",
-            "datacoverage": 0.9999,
-            "id": "COOP:028184",
-            "elevationUnit": "METERS",
-            "longitude": -112.73333
-        },
-        {
             "elevation": 1218.9,
             "mindate": "1931-01-01",
             "maxdate": "1982-03-01",
@@ -4582,17 +3185,6 @@
             "id": "COOP:028264",
             "elevationUnit": "METERS",
             "longitude": -110.95
-        },
-        {
-            "elevation": 307.8,
-            "mindate": "1956-08-01",
-            "maxdate": "1957-01-01",
-            "latitude": 33.18333,
-            "name": "SUNDAD, AZ US",
-            "datacoverage": 0.9925,
-            "id": "COOP:028268",
-            "elevationUnit": "METERS",
-            "longitude": -113.23333
         },
         {
             "elevation": 1133.9,
@@ -4661,39 +3253,6 @@
             "longitude": -111.0672
         },
         {
-            "elevation": 851,
-            "mindate": "1948-09-01",
-            "maxdate": "1958-03-01",
-            "latitude": 33.3,
-            "name": "SUPERIOR SMELTER, AZ US",
-            "datacoverage": 0.9348,
-            "id": "COOP:028351",
-            "elevationUnit": "METERS",
-            "longitude": -111.1
-        },
-        {
-            "elevation": 598,
-            "mindate": "1946-11-01",
-            "maxdate": "1968-01-28",
-            "latitude": 33.36667,
-            "name": "SUPERSTITION MOUNTAIN, AZ US",
-            "datacoverage": 0.9627,
-            "id": "COOP:028356",
-            "elevationUnit": "METERS",
-            "longitude": -111.43333
-        },
-        {
-            "elevation": 1232,
-            "mindate": "1931-01-01",
-            "maxdate": "1959-12-01",
-            "latitude": 34.35,
-            "name": "DUGAS 2 SE, AZ US",
-            "datacoverage": 0.9799,
-            "id": "COOP:028391",
-            "elevationUnit": "METERS",
-            "longitude": -111.95
-        },
-        {
             "elevation": 98.8,
             "mindate": "1969-01-01",
             "maxdate": "2015-11-01",
@@ -4703,17 +3262,6 @@
             "id": "COOP:028396",
             "elevationUnit": "METERS",
             "longitude": -113.9191
-        },
-        {
-            "elevation": 1086,
-            "mindate": "1939-01-01",
-            "maxdate": "1967-03-01",
-            "latitude": 32.61667,
-            "name": "TANQUE R9 ON W4, AZ US",
-            "datacoverage": 0.8273,
-            "id": "COOP:028409",
-            "elevationUnit": "METERS",
-            "longitude": -109.61667
         },
         {
             "elevation": 1612.4,
@@ -4727,17 +3275,6 @@
             "longitude": -109.09
         },
         {
-            "elevation": 1769.1,
-            "mindate": "1952-11-01",
-            "maxdate": "1960-06-01",
-            "latitude": 35.5,
-            "name": "TEES TO, AZ US",
-            "datacoverage": 0.7612,
-            "id": "COOP:028483",
-            "elevationUnit": "METERS",
-            "longitude": -110.41667
-        },
-        {
             "elevation": 351.1,
             "mindate": "1931-01-01",
             "maxdate": "1984-09-01",
@@ -4745,17 +3282,6 @@
             "name": "TEMPE 1 SE, AZ US",
             "datacoverage": 1,
             "id": "COOP:028489",
-            "elevationUnit": "METERS",
-            "longitude": -111.93333
-        },
-        {
-            "elevation": 360,
-            "mindate": "1944-01-01",
-            "maxdate": "1952-06-01",
-            "latitude": 33.38333,
-            "name": "TEMPE 3 S, AZ US",
-            "datacoverage": 1,
-            "id": "COOP:028494",
             "elevationUnit": "METERS",
             "longitude": -111.93333
         },
@@ -4769,17 +3295,6 @@
             "id": "COOP:028495",
             "elevationUnit": "METERS",
             "longitude": -111.95111
-        },
-        {
-            "elevation": 360,
-            "mindate": "1931-01-01",
-            "maxdate": "1943-12-01",
-            "latitude": 33.38333,
-            "name": "TEMPE 3 S, AZ US",
-            "datacoverage": 1,
-            "id": "COOP:028496",
-            "elevationUnit": "METERS",
-            "longitude": -111.93333
         },
         {
             "elevation": 355.7,
@@ -4804,17 +3319,6 @@
             "longitude": -114.3288
         },
         {
-            "elevation": 335,
-            "mindate": "1952-07-01",
-            "maxdate": "1960-09-01",
-            "latitude": 33.56667,
-            "name": "WADDELL 3 SSE, AZ US",
-            "datacoverage": 0.9998,
-            "id": "COOP:028566",
-            "elevationUnit": "METERS",
-            "longitude": -112.4
-        },
-        {
             "elevation": 975.4,
             "mindate": "2009-11-01",
             "maxdate": "2011-12-01",
@@ -4824,17 +3328,6 @@
             "id": "COOP:028569",
             "elevationUnit": "METERS",
             "longitude": -111.2638
-        },
-        {
-            "elevation": 2097,
-            "mindate": "1965-06-01",
-            "maxdate": "1967-06-01",
-            "latitude": 34.6108,
-            "name": "BLUE RIDGE RANGER STATION, AZ US",
-            "datacoverage": 1,
-            "id": "COOP:028576",
-            "elevationUnit": "METERS",
-            "longitude": -111.1922
         },
         {
             "elevation": 770.2,
@@ -4868,17 +3361,6 @@
             "id": "COOP:028619",
             "elevationUnit": "METERS",
             "longitude": -110.0686
-        },
-        {
-            "elevation": 1681,
-            "mindate": "1948-10-01",
-            "maxdate": "1949-07-01",
-            "latitude": 36.33333,
-            "name": "TONALEA, AZ US",
-            "datacoverage": 0.9011,
-            "id": "COOP:028634",
-            "elevationUnit": "METERS",
-            "longitude": -110.95
         },
         {
             "elevation": 396.2,
@@ -4923,50 +3405,6 @@
             "id": "COOP:028653",
             "elevationUnit": "METERS",
             "longitude": -111.83333
-        },
-        {
-            "elevation": 1464,
-            "mindate": "1931-04-01",
-            "maxdate": "1966-12-01",
-            "latitude": 34.61667,
-            "name": "TONTO SPRINGS R S 4 W, AZ US",
-            "datacoverage": 0.7925,
-            "id": "COOP:028657",
-            "elevationUnit": "METERS",
-            "longitude": -112.75
-        },
-        {
-            "elevation": 136.9,
-            "mindate": "1961-01-01",
-            "maxdate": "1963-12-01",
-            "latitude": 34.71667,
-            "name": "TOPOCK, AZ US",
-            "datacoverage": 1,
-            "id": "COOP:028678",
-            "elevationUnit": "METERS",
-            "longitude": -114.48333
-        },
-        {
-            "elevation": 153,
-            "mindate": "1948-05-01",
-            "maxdate": "1960-08-01",
-            "latitude": 34.7,
-            "name": "TOPOCK 2 SSE, AZ US",
-            "datacoverage": 0.9997,
-            "id": "COOP:028686",
-            "elevationUnit": "METERS",
-            "longitude": -114.45
-        },
-        {
-            "elevation": 869,
-            "mindate": "1948-03-01",
-            "maxdate": "1969-12-01",
-            "latitude": 34.88333,
-            "name": "TROUT CREEK STORE, AZ US",
-            "datacoverage": 0.6758,
-            "id": "COOP:028762",
-            "elevationUnit": "METERS",
-            "longitude": -113.65
         },
         {
             "elevation": 1164.3,
@@ -5024,39 +3462,6 @@
             "longitude": -110.83333
         },
         {
-            "elevation": 860.1,
-            "mindate": "1943-10-01",
-            "maxdate": "1954-12-01",
-            "latitude": 32.25,
-            "name": "ARIZONA SONORA DST M, AZ US",
-            "datacoverage": 0.8294,
-            "id": "COOP:028805",
-            "elevationUnit": "METERS",
-            "longitude": -111.16667
-        },
-        {
-            "elevation": 816.9,
-            "mindate": "1948-11-01",
-            "maxdate": "1948-12-01",
-            "latitude": 32.21667,
-            "name": "TUCSON MOUNTAIN PARK, AZ US",
-            "datacoverage": 0.499,
-            "id": "COOP:028806",
-            "elevationUnit": "METERS",
-            "longitude": -111.13333
-        },
-        {
-            "elevation": 686.1,
-            "mindate": "1948-01-01",
-            "maxdate": "1965-03-01",
-            "latitude": 32.3,
-            "name": "TUCSON NURSERY 4 NW, AZ US",
-            "datacoverage": 1,
-            "id": "COOP:028810",
-            "elevationUnit": "METERS",
-            "longitude": -111.05
-        },
-        {
             "elevation": 742.2,
             "mindate": "1931-01-01",
             "maxdate": "2008-01-01",
@@ -5101,17 +3506,6 @@
             "longitude": -111.0497
         },
         {
-            "elevation": 2058.9,
-            "mindate": "1955-06-01",
-            "maxdate": "1966-03-28",
-            "latitude": 33.75,
-            "name": "TURKEY CREEK 1, AZ US",
-            "datacoverage": 0.0448,
-            "id": "COOP:028875",
-            "elevationUnit": "METERS",
-            "longitude": -109.8
-        },
-        {
             "elevation": 1455.4,
             "mindate": "1941-07-01",
             "maxdate": "2008-01-01",
@@ -5135,11 +3529,11 @@
         },
         {
             "elevation": 1521.9,
-            "mindate": "1948-01-01",
+            "mindate": "1948-07-01",
             "maxdate": "1972-04-01",
             "latitude": 33.78333,
             "name": "PARKER CREEK MNTC YD, AZ US",
-            "datacoverage": 0.9338,
+            "datacoverage": 0.0339,
             "id": "COOP:028940",
             "elevationUnit": "METERS",
             "longitude": -110.96667
@@ -5167,61 +3561,6 @@
             "longitude": -110.7247
         },
         {
-            "elevation": 1795.9,
-            "mindate": "1957-05-01",
-            "maxdate": "1962-10-01",
-            "latitude": 35.65,
-            "name": "VALLE, AZ US",
-            "datacoverage": 0.1666,
-            "id": "COOP:029005",
-            "elevationUnit": "METERS",
-            "longitude": -112.2
-        },
-        {
-            "elevation": 1830,
-            "mindate": "1947-09-01",
-            "maxdate": "1959-10-01",
-            "latitude": 35.66667,
-            "name": "VALLE AIRPORT, AZ US",
-            "datacoverage": 0.7192,
-            "id": "COOP:029007",
-            "elevationUnit": "METERS",
-            "longitude": -112.15
-        },
-        {
-            "elevation": 360,
-            "mindate": "1943-08-01",
-            "maxdate": "1952-12-01",
-            "latitude": 33.38333,
-            "name": "TEMPE U. OF A. CITRUS EXP. STATION, AZ US",
-            "datacoverage": 0.9995,
-            "id": "COOP:029015",
-            "elevationUnit": "METERS",
-            "longitude": -111.96667
-        },
-        {
-            "elevation": 335,
-            "mindate": "1960-10-01",
-            "maxdate": "1961-12-01",
-            "latitude": 33.56667,
-            "name": "WADDELL 3 SSE, AZ US",
-            "datacoverage": 0.999,
-            "id": "COOP:029095",
-            "elevationUnit": "METERS",
-            "longitude": -112.4
-        },
-        {
-            "elevation": 580,
-            "mindate": "1963-03-01",
-            "maxdate": "1966-05-01",
-            "latitude": 32.21667,
-            "name": "WAHAK HOTRONTK, AZ US",
-            "datacoverage": 0.9736,
-            "id": "COOP:029109",
-            "elevationUnit": "METERS",
-            "longitude": -112.36667
-        },
-        {
             "elevation": 1136.9,
             "mindate": "1961-05-01",
             "maxdate": "2012-12-01",
@@ -5231,17 +3570,6 @@
             "id": "COOP:029114",
             "elevationUnit": "METERS",
             "longitude": -111.4914
-        },
-        {
-            "elevation": 2137.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1959-04-01",
-            "latitude": 34.53333,
-            "name": "WALLACE R S, AZ US",
-            "datacoverage": 0.8266,
-            "id": "COOP:029150",
-            "elevationUnit": "METERS",
-            "longitude": -110.91667
         },
         {
             "elevation": 2040.6,
@@ -5288,17 +3616,6 @@
             "longitude": -114.13333
         },
         {
-            "elevation": 73.2,
-            "mindate": "1950-03-01",
-            "maxdate": "1951-10-01",
-            "latitude": 32.71667,
-            "name": "WELLTON 6 NE, AZ US",
-            "datacoverage": 0.998,
-            "id": "COOP:029215",
-            "elevationUnit": "METERS",
-            "longitude": -114.05
-        },
-        {
             "elevation": 566.9,
             "mindate": "1973-02-01",
             "maxdate": "1973-12-01",
@@ -5310,17 +3627,6 @@
             "longitude": -113.53333
         },
         {
-            "elevation": 741,
-            "mindate": "1962-04-01",
-            "maxdate": "1966-11-01",
-            "latitude": 35.7,
-            "name": "WHITE HILLS 5 WSW, AZ US",
-            "datacoverage": 0.7141,
-            "id": "COOP:029269",
-            "elevationUnit": "METERS",
-            "longitude": -114.48333
-        },
-        {
             "elevation": 1575.8,
             "mindate": "1931-01-01",
             "maxdate": "2012-01-01",
@@ -5330,17 +3636,6 @@
             "id": "COOP:029271",
             "elevationUnit": "METERS",
             "longitude": -109.984
-        },
-        {
-            "elevation": 1003.1,
-            "mindate": "1939-01-01",
-            "maxdate": "1967-03-01",
-            "latitude": 32.81667,
-            "name": "WHITLOCK VALLEY R2, AZ US",
-            "datacoverage": 0.8809,
-            "id": "COOP:029279",
-            "elevationUnit": "METERS",
-            "longitude": -109.51667
         },
         {
             "elevation": 638.6,
@@ -5376,17 +3671,6 @@
             "longitude": -109.8369
         },
         {
-            "elevation": 1281.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1939-04-01",
-            "latitude": 32.31667,
-            "name": "WILLCOX 8 NW, AZ US",
-            "datacoverage": 0.9906,
-            "id": "COOP:029337",
-            "elevationUnit": "METERS",
-            "longitude": -109.95
-        },
-        {
             "elevation": 2105.9,
             "mindate": "1907-04-01",
             "maxdate": "2015-11-01",
@@ -5396,17 +3680,6 @@
             "id": "COOP:029359",
             "elevationUnit": "METERS",
             "longitude": -112.1929
-        },
-        {
-            "elevation": 1754.1,
-            "mindate": "1965-06-01",
-            "maxdate": "1968-03-01",
-            "latitude": 35.53333,
-            "name": "WILLIAMS 24 NNW, AZ US",
-            "datacoverage": 0.9999,
-            "id": "COOP:029362",
-            "elevationUnit": "METERS",
-            "longitude": -112.4
         },
         {
             "elevation": 2122.9,
@@ -5509,23 +3782,12 @@
         },
         {
             "elevation": 2126,
-            "mindate": "1948-01-01",
+            "mindate": "1948-07-01",
             "maxdate": "1986-03-01",
             "latitude": 33.81667,
             "name": "WORKMAN CREEK 1, AZ US",
-            "datacoverage": 0.956,
+            "datacoverage": 0.0337,
             "id": "COOP:029534",
-            "elevationUnit": "METERS",
-            "longitude": -110.91667
-        },
-        {
-            "elevation": 2126,
-            "mindate": "1950-08-10",
-            "maxdate": "1950-08-10",
-            "latitude": 33.81667,
-            "name": "WORKMAN CREEK 2, AZ US",
-            "datacoverage": 0.2381,
-            "id": "COOP:029535",
             "elevationUnit": "METERS",
             "longitude": -110.91667
         },
@@ -5552,17 +3814,6 @@
             "longitude": -110.2266
         },
         {
-            "elevation": 1830,
-            "mindate": "1931-01-01",
-            "maxdate": "1948-08-01",
-            "latitude": 34.68333,
-            "name": "YAEGER CANYON, AZ US",
-            "datacoverage": 0.9764,
-            "id": "COOP:029572",
-            "elevationUnit": "METERS",
-            "longitude": -112.16667
-        },
-        {
             "elevation": 1153.1,
             "mindate": "1946-12-01",
             "maxdate": "1975-04-01",
@@ -5572,28 +3823,6 @@
             "id": "COOP:029601",
             "elevationUnit": "METERS",
             "longitude": -112.8
-        },
-        {
-            "elevation": 1579.8,
-            "mindate": "1931-01-01",
-            "maxdate": "1964-08-01",
-            "latitude": 34.1003,
-            "name": "PLEASANT VALLEY, AZ US",
-            "datacoverage": 0.9653,
-            "id": "COOP:029622",
-            "elevationUnit": "METERS",
-            "longitude": -110.9659
-        },
-        {
-            "elevation": 1989.1,
-            "mindate": "1952-04-01",
-            "maxdate": "1956-12-01",
-            "latitude": 34.26667,
-            "name": "YOUNG 12 N, AZ US",
-            "datacoverage": 0.9994,
-            "id": "COOP:029626",
-            "elevationUnit": "METERS",
-            "longitude": -110.9
         },
         {
             "elevation": 345.9,
@@ -11006,6 +9235,1777 @@
             "id": "GHCND:US1AZPM0093",
             "elevationUnit": "METERS",
             "longitude": -110.782957
+        },
+        {
+            "elevation": 865.3,
+            "mindate": "2009-11-01",
+            "maxdate": "2015-03-23",
+            "latitude": 32.435465,
+            "name": "TUCSON 15.8 NNW, AZ US",
+            "datacoverage": 1,
+            "id": "GHCND:US1AZPM0094",
+            "elevationUnit": "METERS",
+            "longitude": -111.012397
+        },
+        {
+            "elevation": 765.4,
+            "mindate": "2011-06-01",
+            "maxdate": "2015-01-01",
+            "latitude": 32.14509,
+            "name": "TUCSON 5.9 SSW, AZ US",
+            "datacoverage": 0.9969,
+            "id": "GHCND:US1AZPM0095",
+            "elevationUnit": "METERS",
+            "longitude": -110.967557
+        },
+        {
+            "elevation": 595.3,
+            "mindate": "2009-11-01",
+            "maxdate": "2012-09-08",
+            "latitude": 32.4251,
+            "name": "MARANA 5.8 W, AZ US",
+            "datacoverage": 0.6859,
+            "id": "GHCND:US1AZPM0098",
+            "elevationUnit": "METERS",
+            "longitude": -111.319
+        },
+        {
+            "elevation": 806.8,
+            "mindate": "2009-10-01",
+            "maxdate": "2020-04-12",
+            "latitude": 32.2312,
+            "name": "TUCSON 9.0 E, AZ US",
+            "datacoverage": 0.9359,
+            "id": "GHCND:US1AZPM0099",
+            "elevationUnit": "METERS",
+            "longitude": -110.7657
+        },
+        {
+            "elevation": 759.6,
+            "mindate": "2009-10-01",
+            "maxdate": "2020-05-17",
+            "latitude": 32.393336,
+            "name": "ORO VALLEY 1.3 W, AZ US",
+            "datacoverage": 1,
+            "id": "GHCND:US1AZPM0101",
+            "elevationUnit": "METERS",
+            "longitude": -110.98187
+        },
+        {
+            "elevation": 730.9,
+            "mindate": "2008-07-01",
+            "maxdate": "2020-05-17",
+            "latitude": 32.2403,
+            "name": "TUCSON 3.0 WNW, AZ US",
+            "datacoverage": 0.8386,
+            "id": "GHCND:US1AZPM0103",
+            "elevationUnit": "METERS",
+            "longitude": -110.9648
+        },
+        {
+            "elevation": 830,
+            "mindate": "2009-10-01",
+            "maxdate": "2013-01-27",
+            "latitude": 32.286931,
+            "name": "TUCSON 11.1 ENE, AZ US",
+            "datacoverage": 0.9992,
+            "id": "GHCND:US1AZPM0104",
+            "elevationUnit": "METERS",
+            "longitude": -110.746642
+        },
+        {
+            "elevation": 915,
+            "mindate": "1998-06-01",
+            "maxdate": "2020-05-17",
+            "latitude": 31.812,
+            "name": "GREEN VALLEY 3.2 SW, AZ US",
+            "datacoverage": 0.6986,
+            "id": "GHCND:US1AZPM0105",
+            "elevationUnit": "METERS",
+            "longitude": -111.016
+        },
+        {
+            "elevation": 700.1,
+            "mindate": "1998-06-01",
+            "maxdate": "2020-05-11",
+            "latitude": 32.3025,
+            "name": "TUCSON 7.2 NW, AZ US",
+            "datacoverage": 0.9216,
+            "id": "GHCND:US1AZPM0106",
+            "elevationUnit": "METERS",
+            "longitude": -110.99611
+        },
+        {
+            "elevation": 671.5,
+            "mindate": "2009-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 32.34265,
+            "name": "TUCSON 18.6 WNW, AZ US",
+            "datacoverage": 1,
+            "id": "GHCND:US1AZPM0107",
+            "elevationUnit": "METERS",
+            "longitude": -111.204087
+        },
+        {
+            "elevation": 719.9,
+            "mindate": "2009-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 32.2785,
+            "name": "TUCSON 4.1 N, AZ US",
+            "datacoverage": 0.9762,
+            "id": "GHCND:US1AZPM0108",
+            "elevationUnit": "METERS",
+            "longitude": -110.9303
+        },
+        {
+            "elevation": 874.2,
+            "mindate": "1998-06-17",
+            "maxdate": "2020-05-13",
+            "latitude": 31.960748,
+            "name": "SAHUARITA 2.6 WNW, AZ US",
+            "datacoverage": 1,
+            "id": "GHCND:US1AZPM0109",
+            "elevationUnit": "METERS",
+            "longitude": -110.991934
+        },
+        {
+            "elevation": 928.1,
+            "mindate": "2009-11-01",
+            "maxdate": "2015-07-20",
+            "latitude": 31.82096,
+            "name": "GREEN VALLEY 2.7 SW, AZ US",
+            "datacoverage": 0.9716,
+            "id": "GHCND:US1AZPM0110",
+            "elevationUnit": "METERS",
+            "longitude": -111.018113
+        },
+        {
+            "elevation": 886.1,
+            "mindate": "2009-11-01",
+            "maxdate": "2020-05-17",
+            "latitude": 32.139041,
+            "name": "TUCSON 10.5 ESE, AZ US",
+            "datacoverage": 1,
+            "id": "GHCND:US1AZPM0111",
+            "elevationUnit": "METERS",
+            "longitude": -110.76738
+        },
+        {
+            "elevation": 844.3,
+            "mindate": "2009-10-01",
+            "maxdate": "2020-05-11",
+            "latitude": 32.4223,
+            "name": "TUCSON 14.5 NNW, AZ US",
+            "datacoverage": 1,
+            "id": "GHCND:US1AZPM0112",
+            "elevationUnit": "METERS",
+            "longitude": -110.9843
+        },
+        {
+            "elevation": 889.1,
+            "mindate": "2009-12-01",
+            "maxdate": "2020-05-15",
+            "latitude": 31.92019,
+            "name": "SAHUARITA 3.3 SW, AZ US",
+            "datacoverage": 0.9212,
+            "id": "GHCND:US1AZPM0113",
+            "elevationUnit": "METERS",
+            "longitude": -110.99411
+        },
+        {
+            "elevation": 770.5,
+            "mindate": "2010-01-01",
+            "maxdate": "2015-10-01",
+            "latitude": 32.31374,
+            "name": "TUCSON 15.9 WNW, AZ US",
+            "datacoverage": 0.958,
+            "id": "GHCND:US1AZPM0114",
+            "elevationUnit": "METERS",
+            "longitude": -111.16937
+        },
+        {
+            "elevation": 890,
+            "mindate": "2010-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 32.116925,
+            "name": "TUCSON 10.3 SE, AZ US",
+            "datacoverage": 1,
+            "id": "GHCND:US1AZPM0118",
+            "elevationUnit": "METERS",
+            "longitude": -110.793624
+        },
+        {
+            "elevation": 768.1,
+            "mindate": "2010-01-01",
+            "maxdate": "2020-05-10",
+            "latitude": 32.231868,
+            "name": "TUCSON 2.0 ENE, AZ US",
+            "datacoverage": 1,
+            "id": "GHCND:US1AZPM0119",
+            "elevationUnit": "METERS",
+            "longitude": -110.889304
+        },
+        {
+            "elevation": 894.9,
+            "mindate": "2010-01-01",
+            "maxdate": "2020-05-15",
+            "latitude": 32.460368,
+            "name": "ORO VALLEY 4.9 N, AZ US",
+            "datacoverage": 1,
+            "id": "GHCND:US1AZPM0120",
+            "elevationUnit": "METERS",
+            "longitude": -110.949512
+        },
+        {
+            "elevation": 768.4,
+            "mindate": "2010-01-01",
+            "maxdate": "2010-07-31",
+            "latitude": 32.2275,
+            "name": "TUCSON 1.4 ENE, AZ US",
+            "datacoverage": 1,
+            "id": "GHCND:US1AZPM0121",
+            "elevationUnit": "METERS",
+            "longitude": -110.898263
+        },
+        {
+            "elevation": 766.6,
+            "mindate": "2010-01-01",
+            "maxdate": "2015-10-18",
+            "latitude": 32.231473,
+            "name": "TUCSON 2.0 ENE, AZ US",
+            "datacoverage": 0.9819,
+            "id": "GHCND:US1AZPM0122",
+            "elevationUnit": "METERS",
+            "longitude": -110.887845
+        },
+        {
+            "elevation": 948.2,
+            "mindate": "2010-01-01",
+            "maxdate": "2019-07-18",
+            "latitude": 31.73158,
+            "name": "AMADO 1.65 N, AZ US",
+            "datacoverage": 1,
+            "id": "GHCND:US1AZPM0123",
+            "elevationUnit": "METERS",
+            "longitude": -111.0668
+        },
+        {
+            "elevation": 708.4,
+            "mindate": "2010-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 32.282869,
+            "name": "TUCSON 5.2 NNW, AZ US",
+            "datacoverage": 1,
+            "id": "GHCND:US1AZPM0124",
+            "elevationUnit": "METERS",
+            "longitude": -110.968863
+        },
+        {
+            "elevation": 890.3,
+            "mindate": "2010-01-01",
+            "maxdate": "2011-11-15",
+            "latitude": 32.134211,
+            "name": "TUCSON 10.7 ESE, AZ US",
+            "datacoverage": 1,
+            "id": "GHCND:US1AZPM0125",
+            "elevationUnit": "METERS",
+            "longitude": -110.768369
+        },
+        {
+            "elevation": 723.3,
+            "mindate": "2010-01-01",
+            "maxdate": "2013-10-18",
+            "latitude": 32.28929167,
+            "name": "TUCSON 9.5 WNW, AZ US",
+            "datacoverage": 1,
+            "id": "GHCND:US1AZPM0126",
+            "elevationUnit": "METERS",
+            "longitude": -111.0610722
+        },
+        {
+            "elevation": 862,
+            "mindate": "2012-06-01",
+            "maxdate": "2020-04-12",
+            "latitude": 32.210626,
+            "name": "TUCSON 8.8 E, AZ US",
+            "datacoverage": 1,
+            "id": "GHCND:US1AZPM0127",
+            "elevationUnit": "METERS",
+            "longitude": -110.769482
+        },
+        {
+            "elevation": 769.3,
+            "mindate": "2010-01-01",
+            "maxdate": "2020-03-20",
+            "latitude": 32.2188,
+            "name": "TUCSON 0.8 E, AZ US",
+            "datacoverage": 0.9223,
+            "id": "GHCND:US1AZPM0128",
+            "elevationUnit": "METERS",
+            "longitude": -110.905793
+        },
+        {
+            "elevation": 831.2,
+            "mindate": "2010-01-01",
+            "maxdate": "2012-09-10",
+            "latitude": 32.413194,
+            "name": "ORO VALLEY 2.7 NW, AZ US",
+            "datacoverage": 0.8185,
+            "id": "GHCND:US1AZPM0129",
+            "elevationUnit": "METERS",
+            "longitude": -110.996913
+        },
+        {
+            "elevation": 822,
+            "mindate": "2010-01-01",
+            "maxdate": "2014-01-18",
+            "latitude": 32.282617,
+            "name": "TUCSON 9.9 ENE, AZ US",
+            "datacoverage": 0.9996,
+            "id": "GHCND:US1AZPM0130",
+            "elevationUnit": "METERS",
+            "longitude": -110.767174
+        },
+        {
+            "elevation": 857.4,
+            "mindate": "2009-03-01",
+            "maxdate": "2013-04-09",
+            "latitude": 32.32843,
+            "name": "TUCSON 7.5 N, AZ US",
+            "datacoverage": 0.9973,
+            "id": "GHCND:US1AZPM0131",
+            "elevationUnit": "METERS",
+            "longitude": -110.925829
+        },
+        {
+            "elevation": 796.4,
+            "mindate": "2010-02-01",
+            "maxdate": "2020-05-17",
+            "latitude": 32.291831,
+            "name": "TUCSON 8.5 NE, AZ US",
+            "datacoverage": 1,
+            "id": "GHCND:US1AZPM0132",
+            "elevationUnit": "METERS",
+            "longitude": -110.802731
+        },
+        {
+            "elevation": 943.4,
+            "mindate": "2010-01-01",
+            "maxdate": "2012-12-18",
+            "latitude": 31.802721,
+            "name": "GREEN VALLEY SSW 3.9, AZ US",
+            "datacoverage": 0.8331,
+            "id": "GHCND:US1AZPM0133",
+            "elevationUnit": "METERS",
+            "longitude": -111.022151
+        },
+        {
+            "elevation": 812.6,
+            "mindate": "2010-02-01",
+            "maxdate": "2014-08-13",
+            "latitude": 32.240156,
+            "name": "TUCSON 8.8 W, AZ US",
+            "datacoverage": 0.998,
+            "id": "GHCND:US1AZPM0134",
+            "elevationUnit": "METERS",
+            "longitude": -111.068865
+        },
+        {
+            "elevation": 703.2,
+            "mindate": "2010-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 32.270915,
+            "name": "TUCSON 7.3 WNW, AZ US",
+            "datacoverage": 1,
+            "id": "GHCND:US1AZPM0135",
+            "elevationUnit": "METERS",
+            "longitude": -111.02957
+        },
+        {
+            "elevation": 914.4,
+            "mindate": "2010-02-01",
+            "maxdate": "2020-05-17",
+            "latitude": 32.474517,
+            "name": "ORO VALLEY 5.8 N, AZ US",
+            "datacoverage": 0.9745,
+            "id": "GHCND:US1AZPM0137",
+            "elevationUnit": "METERS",
+            "longitude": -110.957964
+        },
+        {
+            "elevation": 905.3,
+            "mindate": "2010-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 32.456031,
+            "name": "ORO VALLEY 4.9 NNW, AZ US",
+            "datacoverage": 0.947,
+            "id": "GHCND:US1AZPM0138",
+            "elevationUnit": "METERS",
+            "longitude": -110.989533
+        },
+        {
+            "elevation": 834.5,
+            "mindate": "2010-02-01",
+            "maxdate": "2020-05-16",
+            "latitude": 32.416632,
+            "name": "ORO VALLEY 2.1 NNW, AZ US",
+            "datacoverage": 1,
+            "id": "GHCND:US1AZPM0139",
+            "elevationUnit": "METERS",
+            "longitude": -110.975786
+        },
+        {
+            "elevation": 866.5,
+            "mindate": "2010-03-01",
+            "maxdate": "2020-05-17",
+            "latitude": 32.4289,
+            "name": "ORO VALLEY 3.1 NNW, AZ US",
+            "datacoverage": 0.9998,
+            "id": "GHCND:US1AZPM0141",
+            "elevationUnit": "METERS",
+            "longitude": -110.9872
+        },
+        {
+            "elevation": 794,
+            "mindate": "2009-10-01",
+            "maxdate": "2020-04-12",
+            "latitude": 32.143071,
+            "name": "TUCSON 10.2 WSW, AZ US",
+            "datacoverage": 0.8334,
+            "id": "GHCND:US1AZPM0142",
+            "elevationUnit": "METERS",
+            "longitude": -111.06967
+        },
+        {
+            "elevation": 827.8,
+            "mindate": "2010-01-01",
+            "maxdate": "2020-05-16",
+            "latitude": 32.254321,
+            "name": "TUCSON 11.7 ENE, AZ US",
+            "datacoverage": 1,
+            "id": "GHCND:US1AZPM0143",
+            "elevationUnit": "METERS",
+            "longitude": -110.723271
+        },
+        {
+            "elevation": 795.8,
+            "mindate": "2010-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 32.2163,
+            "name": "TUCSON 4.9 E, AZ US",
+            "datacoverage": 1,
+            "id": "GHCND:US1AZPM0145",
+            "elevationUnit": "METERS",
+            "longitude": -110.8363
+        },
+        {
+            "elevation": 867.2,
+            "mindate": "2010-04-01",
+            "maxdate": "2020-05-17",
+            "latitude": 32.303011,
+            "name": "TUCSON 11.8 ENE, AZ US",
+            "datacoverage": 1,
+            "id": "GHCND:US1AZPM0146",
+            "elevationUnit": "METERS",
+            "longitude": -110.743755
+        },
+        {
+            "elevation": 750.7,
+            "mindate": "2009-08-01",
+            "maxdate": "2020-05-13",
+            "latitude": 32.231778,
+            "name": "TUCSON 1.3 NW, AZ US",
+            "datacoverage": 0.9832,
+            "id": "GHCND:US1AZPM0147",
+            "elevationUnit": "METERS",
+            "longitude": -110.93631
+        },
+        {
+            "elevation": 710.2,
+            "mindate": "2010-04-01",
+            "maxdate": "2020-05-16",
+            "latitude": 32.2806,
+            "name": "TUCSON 5.0 NNW, AZ US",
+            "datacoverage": 1,
+            "id": "GHCND:US1AZPM0148",
+            "elevationUnit": "METERS",
+            "longitude": -110.9672
+        },
+        {
+            "elevation": 730.3,
+            "mindate": "2010-07-01",
+            "maxdate": "2019-03-14",
+            "latitude": 32.2513,
+            "name": "TUCSON 6.6 WNW, AZ US",
+            "datacoverage": 0.8692,
+            "id": "GHCND:US1AZPM0149",
+            "elevationUnit": "METERS",
+            "longitude": -111.0271
+        },
+        {
+            "elevation": 863.5,
+            "mindate": "2010-07-01",
+            "maxdate": "2020-03-13",
+            "latitude": 32.1598929,
+            "name": "TUCSON 9.7 ESE, AZ US",
+            "datacoverage": 0.536,
+            "id": "GHCND:US1AZPM0152",
+            "elevationUnit": "METERS",
+            "longitude": -110.76968
+        },
+        {
+            "elevation": 842.2,
+            "mindate": "2010-06-01",
+            "maxdate": "2020-05-11",
+            "latitude": 32.4178,
+            "name": "ORO VALLEY 3.1 NW, AZ US",
+            "datacoverage": 0.9925,
+            "id": "GHCND:US1AZPM0153",
+            "elevationUnit": "METERS",
+            "longitude": -111.0015
+        },
+        {
+            "elevation": 861.7,
+            "mindate": "2010-06-01",
+            "maxdate": "2020-04-12",
+            "latitude": 32.25455,
+            "name": "TUCSON 14.7 E, AZ US",
+            "datacoverage": 0.9819,
+            "id": "GHCND:US1AZPM0156",
+            "elevationUnit": "METERS",
+            "longitude": -110.671978
+        },
+        {
+            "elevation": 756.5,
+            "mindate": "2010-06-01",
+            "maxdate": "2012-07-14",
+            "latitude": 32.2406,
+            "name": "TUCSON 1.7 NNE, AZ US",
+            "datacoverage": 1,
+            "id": "GHCND:US1AZPM0157",
+            "elevationUnit": "METERS",
+            "longitude": -110.9056
+        },
+        {
+            "elevation": 845.5,
+            "mindate": "2010-06-01",
+            "maxdate": "2013-06-17",
+            "latitude": 32.292934,
+            "name": "TUCSON 11.9 ENE, AZ US",
+            "datacoverage": 1,
+            "id": "GHCND:US1AZPM0159",
+            "elevationUnit": "METERS",
+            "longitude": -110.735966
+        },
+        {
+            "elevation": 743.1,
+            "mindate": "1998-06-17",
+            "maxdate": "2020-05-16",
+            "latitude": 32.353122,
+            "name": "TUCSON 10.3 NNW, AZ US",
+            "datacoverage": 0.9999,
+            "id": "GHCND:US1AZPM0160",
+            "elevationUnit": "METERS",
+            "longitude": -111.000341
+        },
+        {
+            "elevation": 911,
+            "mindate": "2010-06-01",
+            "maxdate": "2017-03-19",
+            "latitude": 32.099046,
+            "name": "TUCSON 11.8 SE, AZ US",
+            "datacoverage": 0.9259,
+            "id": "GHCND:US1AZPM0161",
+            "elevationUnit": "METERS",
+            "longitude": -110.778003
+        },
+        {
+            "elevation": 888.5,
+            "mindate": "1998-06-01",
+            "maxdate": "2020-05-16",
+            "latitude": 32.446347,
+            "name": "ORO VALLEY 4.0 NNW, AZ US",
+            "datacoverage": 0.9829,
+            "id": "GHCND:US1AZPM0162",
+            "elevationUnit": "METERS",
+            "longitude": -110.973298
+        },
+        {
+            "elevation": 830.3,
+            "mindate": "2010-07-01",
+            "maxdate": "2011-08-25",
+            "latitude": 31.965932,
+            "name": "SAHUARITA 1.5 NW, AZ US",
+            "datacoverage": 0.9992,
+            "id": "GHCND:US1AZPM0163",
+            "elevationUnit": "METERS",
+            "longitude": -110.968211
+        },
+        {
+            "elevation": 760.2,
+            "mindate": "2010-07-01",
+            "maxdate": "2019-01-07",
+            "latitude": 32.24442,
+            "name": "TUCSON 3.1 ENE, AZ US",
+            "datacoverage": 0.9996,
+            "id": "GHCND:US1AZPM0164",
+            "elevationUnit": "METERS",
+            "longitude": -110.875853
+        },
+        {
+            "elevation": 893.7,
+            "mindate": "2010-07-01",
+            "maxdate": "2017-07-14",
+            "latitude": 31.88363,
+            "name": "GREEN VALLEY 4.0 ENE, AZ US",
+            "datacoverage": 0.998,
+            "id": "GHCND:US1AZPM0165",
+            "elevationUnit": "METERS",
+            "longitude": -110.935226
+        },
+        {
+            "elevation": 912.6,
+            "mindate": "2010-07-01",
+            "maxdate": "2011-11-05",
+            "latitude": 32.10028,
+            "name": "TUCSON 11.9 SE, AZ US",
+            "datacoverage": 0.9925,
+            "id": "GHCND:US1AZPM0166",
+            "elevationUnit": "METERS",
+            "longitude": -110.77311
+        },
+        {
+            "elevation": 876.3,
+            "mindate": "2010-07-01",
+            "maxdate": "2016-05-01",
+            "latitude": 32.31383333,
+            "name": "TUCSON 7.5 NNE, AZ US",
+            "datacoverage": 0.9819,
+            "id": "GHCND:US1AZPM0169",
+            "elevationUnit": "METERS",
+            "longitude": -110.855
+        },
+        {
+            "elevation": 789.7,
+            "mindate": "2010-08-01",
+            "maxdate": "2013-04-09",
+            "latitude": 32.3242,
+            "name": "TUCSON 7.5 NNW, AZ US",
+            "datacoverage": 0.7579,
+            "id": "GHCND:US1AZPM0171",
+            "elevationUnit": "METERS",
+            "longitude": -110.9567
+        },
+        {
+            "elevation": 872.6,
+            "mindate": "2009-07-01",
+            "maxdate": "2020-05-16",
+            "latitude": 31.894198,
+            "name": "GREEN VALLEY 3.9 NE, AZ US",
+            "datacoverage": 0.9392,
+            "id": "GHCND:US1AZPM0172",
+            "elevationUnit": "METERS",
+            "longitude": -110.946107
+        },
+        {
+            "elevation": 728.2,
+            "mindate": "2010-08-01",
+            "maxdate": "2011-11-14",
+            "latitude": 32.2697,
+            "name": "TUCSON 3.5 N, AZ US",
+            "datacoverage": 1,
+            "id": "GHCND:US1AZPM0173",
+            "elevationUnit": "METERS",
+            "longitude": -110.9303
+        },
+        {
+            "elevation": 802.5,
+            "mindate": "2010-08-01",
+            "maxdate": "2012-11-10",
+            "latitude": 32.1383,
+            "name": "TUCSON 5.7 S, AZ US",
+            "datacoverage": 1,
+            "id": "GHCND:US1AZPM0174",
+            "elevationUnit": "METERS",
+            "longitude": -110.9105
+        },
+        {
+            "elevation": 774.2,
+            "mindate": "2010-09-01",
+            "maxdate": "2020-05-17",
+            "latitude": 32.393208,
+            "name": "ORO VALLEY 0.4 NW, AZ US",
+            "datacoverage": 1,
+            "id": "GHCND:US1AZPM0176",
+            "elevationUnit": "METERS",
+            "longitude": -110.965608
+        },
+        {
+            "elevation": 648,
+            "mindate": "2011-05-01",
+            "maxdate": "2020-05-17",
+            "latitude": 32.370654,
+            "name": "TUCSON 15.5 NW, AZ US",
+            "datacoverage": 0.9993,
+            "id": "GHCND:US1AZPM0181",
+            "elevationUnit": "METERS",
+            "longitude": -111.11798
+        },
+        {
+            "elevation": 805.3,
+            "mindate": "2013-06-01",
+            "maxdate": "2020-05-09",
+            "latitude": 32.19775,
+            "name": "TUCSON 6.0 ESE, AZ US",
+            "datacoverage": 0.9411,
+            "id": "GHCND:US1AZPM0183",
+            "elevationUnit": "METERS",
+            "longitude": -110.8216
+        },
+        {
+            "elevation": 774.5,
+            "mindate": "2011-06-01",
+            "maxdate": "2020-05-17",
+            "latitude": 32.2483,
+            "name": "TUCSON 6.2 ENE, AZ US",
+            "datacoverage": 0.9996,
+            "id": "GHCND:US1AZPM0184",
+            "elevationUnit": "METERS",
+            "longitude": -110.82
+        },
+        {
+            "elevation": 760.2,
+            "mindate": "2011-07-01",
+            "maxdate": "2020-05-16",
+            "latitude": 32.392437,
+            "name": "ORO VALLEY 1.8 W, AZ US",
+            "datacoverage": 1,
+            "id": "GHCND:US1AZPM0185",
+            "elevationUnit": "METERS",
+            "longitude": -110.991236
+        },
+        {
+            "elevation": 731.2,
+            "mindate": "2011-07-01",
+            "maxdate": "2014-05-07",
+            "latitude": 32.257719,
+            "name": "TUCSON 3.0 NNW, AZ US",
+            "datacoverage": 0.9708,
+            "id": "GHCND:US1AZPM0186",
+            "elevationUnit": "METERS",
+            "longitude": -110.946371
+        },
+        {
+            "elevation": 853.4,
+            "mindate": "2011-07-01",
+            "maxdate": "2014-10-09",
+            "latitude": 32.2272869,
+            "name": "TUCSON 8.2 W, AZ US",
+            "datacoverage": 0.799,
+            "id": "GHCND:US1AZPM0188",
+            "elevationUnit": "METERS",
+            "longitude": -111.059867
+        },
+        {
+            "elevation": 732.7,
+            "mindate": "2011-07-01",
+            "maxdate": "2014-01-26",
+            "latitude": 32.256258,
+            "name": "TUCSON 2.9 NNW, AZ US",
+            "datacoverage": 0.9973,
+            "id": "GHCND:US1AZPM0189",
+            "elevationUnit": "METERS",
+            "longitude": -110.9453913
+        },
+        {
+            "elevation": 833.6,
+            "mindate": "2011-07-01",
+            "maxdate": "2015-12-12",
+            "latitude": 31.958726,
+            "name": "SAHUARITA 1.4 WNW, AZ US",
+            "datacoverage": 1,
+            "id": "GHCND:US1AZPM0190",
+            "elevationUnit": "METERS",
+            "longitude": -110.970794
+        },
+        {
+            "elevation": 697.7,
+            "mindate": "2011-08-01",
+            "maxdate": "2020-05-14",
+            "latitude": 32.3686111,
+            "name": "TUCSON 13.5 NW, AZ US",
+            "datacoverage": 0.9283,
+            "id": "GHCND:US1AZPM0191",
+            "elevationUnit": "METERS",
+            "longitude": -111.0713889
+        },
+        {
+            "elevation": 858.3,
+            "mindate": "2011-08-01",
+            "maxdate": "2017-08-13",
+            "latitude": 32.4300326748822,
+            "name": "ORO VALLEY 2.8 NNW, AZ US",
+            "datacoverage": 0.998,
+            "id": "GHCND:US1AZPM0192",
+            "elevationUnit": "METERS",
+            "longitude": -110.9717027843
+        },
+        {
+            "elevation": 714.8,
+            "mindate": "1998-06-17",
+            "maxdate": "2020-05-17",
+            "latitude": 32.2988,
+            "name": "TUCSON 10.7 WNW, AZ US",
+            "datacoverage": 1,
+            "id": "GHCND:US1AZPM0193",
+            "elevationUnit": "METERS",
+            "longitude": -111.076956
+        },
+        {
+            "elevation": 878.7,
+            "mindate": "2011-10-01",
+            "maxdate": "2020-02-23",
+            "latitude": 31.888367,
+            "name": "GREEN VALLEY 3.7 NE, AZ US",
+            "datacoverage": 0.8263,
+            "id": "GHCND:US1AZPM0194",
+            "elevationUnit": "METERS",
+            "longitude": -110.946202
+        },
+        {
+            "elevation": 907.4,
+            "mindate": "2012-01-01",
+            "maxdate": "2020-05-14",
+            "latitude": 32.46,
+            "name": "ORO VALLEY 4.9 N, AZ US",
+            "datacoverage": 0.9021,
+            "id": "GHCND:US1AZPM0195",
+            "elevationUnit": "METERS",
+            "longitude": -110.97
+        },
+        {
+            "elevation": 913.8,
+            "mindate": "2012-04-01",
+            "maxdate": "2015-12-14",
+            "latitude": 32.3338966369629,
+            "name": "TUCSON 7.9 N, AZ US",
+            "datacoverage": 1,
+            "id": "GHCND:US1AZPM0198",
+            "elevationUnit": "METERS",
+            "longitude": -110.91194152832
+        },
+        {
+            "elevation": 714.8,
+            "mindate": "2012-06-01",
+            "maxdate": "2019-09-27",
+            "latitude": 32.242259979248,
+            "name": "TUCSON 5.5 WNW, AZ US",
+            "datacoverage": 0.8479,
+            "id": "GHCND:US1AZPM0199",
+            "elevationUnit": "METERS",
+            "longitude": -111.009552001953
+        },
+        {
+            "elevation": 704.7,
+            "mindate": "2012-04-01",
+            "maxdate": "2020-05-17",
+            "latitude": 32.246410369873,
+            "name": "TUCSON 5.3 WNW, AZ US",
+            "datacoverage": 1,
+            "id": "GHCND:US1AZPM0201",
+            "elevationUnit": "METERS",
+            "longitude": -111.004592895508
+        },
+        {
+            "elevation": 819.6,
+            "mindate": "2011-11-01",
+            "maxdate": "2020-05-11",
+            "latitude": 32.2824434190989,
+            "name": "TUCSON 9.9 ENE, AZ US",
+            "datacoverage": 1,
+            "id": "GHCND:US1AZPM0202",
+            "elevationUnit": "METERS",
+            "longitude": -110.768314898014
+        },
+        {
+            "elevation": 1303.3,
+            "mindate": "1998-06-17",
+            "maxdate": "2020-05-13",
+            "latitude": 31.8817193806171,
+            "name": "VAIL 8.6 SSE, AZ US",
+            "datacoverage": 0.9813,
+            "id": "GHCND:US1AZPM0204",
+            "elevationUnit": "METERS",
+            "longitude": -110.663935393095
+        },
+        {
+            "elevation": 696.8,
+            "mindate": "2012-05-01",
+            "maxdate": "2020-03-20",
+            "latitude": 32.311299,
+            "name": "TUCSON 11.0 NW, AZ US",
+            "datacoverage": 0.8083,
+            "id": "GHCND:US1AZPM0205",
+            "elevationUnit": "METERS",
+            "longitude": -111.074941
+        },
+        {
+            "elevation": 713.5,
+            "mindate": "2012-06-01",
+            "maxdate": "2020-05-16",
+            "latitude": 32.3585,
+            "name": "TUCSON 12.3 NW, AZ US",
+            "datacoverage": 1,
+            "id": "GHCND:US1AZPM0206",
+            "elevationUnit": "METERS",
+            "longitude": -111.0515
+        },
+        {
+            "elevation": 601.1,
+            "mindate": "2012-06-01",
+            "maxdate": "2020-03-19",
+            "latitude": 32.4025,
+            "name": "MARANA 6.9 WSW, AZ US",
+            "datacoverage": 0.9819,
+            "id": "GHCND:US1AZPM0207",
+            "elevationUnit": "METERS",
+            "longitude": -111.3330556
+        },
+        {
+            "elevation": 731.5,
+            "mindate": "2012-06-01",
+            "maxdate": "2020-03-20",
+            "latitude": 32.267222,
+            "name": "TUCSON 8.3 WNW, AZ US",
+            "datacoverage": 1,
+            "id": "GHCND:US1AZPM0208",
+            "elevationUnit": "METERS",
+            "longitude": -111.050833
+        },
+        {
+            "elevation": 847.6,
+            "mindate": "2012-06-01",
+            "maxdate": "2020-05-08",
+            "latitude": 32.220503,
+            "name": "TUCSON 8.9 E, AZ US",
+            "datacoverage": 1,
+            "id": "GHCND:US1AZPM0210",
+            "elevationUnit": "METERS",
+            "longitude": -110.767423
+        },
+        {
+            "elevation": 912.9,
+            "mindate": "2011-07-01",
+            "maxdate": "2016-09-14",
+            "latitude": 31.870887,
+            "name": "GREEN VALLEY 1.3 NNW, AZ US",
+            "datacoverage": 0.8065,
+            "id": "GHCND:US1AZPM0211",
+            "elevationUnit": "METERS",
+            "longitude": -111.004694
+        },
+        {
+            "elevation": 890.9,
+            "mindate": "2012-06-01",
+            "maxdate": "2017-01-16",
+            "latitude": 31.858929,
+            "name": "GREEN VALLEY 0.4 NNW, AZ US",
+            "datacoverage": 0.8262,
+            "id": "GHCND:US1AZPM0212",
+            "elevationUnit": "METERS",
+            "longitude": -110.996454
+        },
+        {
+            "elevation": 789.7,
+            "mindate": "2012-06-01",
+            "maxdate": "2017-11-07",
+            "latitude": 32.2375,
+            "name": "TUCSON 7.9 E, AZ US",
+            "datacoverage": 1,
+            "id": "GHCND:US1AZPM0213",
+            "elevationUnit": "METERS",
+            "longitude": -110.7864
+        },
+        {
+            "elevation": 893.7,
+            "mindate": "1998-06-01",
+            "maxdate": "2020-05-16",
+            "latitude": 32.107322,
+            "name": "TUCSON 10.8 SE, AZ US",
+            "datacoverage": 0.8511,
+            "id": "GHCND:US1AZPM0214",
+            "elevationUnit": "METERS",
+            "longitude": -110.792927
+        },
+        {
+            "elevation": 822,
+            "mindate": "2012-07-01",
+            "maxdate": "2020-04-12",
+            "latitude": 32.1324462890625,
+            "name": "TUCSON 6.4 SSE, AZ US",
+            "datacoverage": 0.9986,
+            "id": "GHCND:US1AZPM0215",
+            "elevationUnit": "METERS",
+            "longitude": -110.882888793945
+        },
+        {
+            "elevation": 775.4,
+            "mindate": "2012-08-01",
+            "maxdate": "2015-01-12",
+            "latitude": 32.39121,
+            "name": "TUCSON 13.6 NNW, AZ US",
+            "datacoverage": 0.4662,
+            "id": "GHCND:US1AZPM0218",
+            "elevationUnit": "METERS",
+            "longitude": -111.033519
+        },
+        {
+            "elevation": 769,
+            "mindate": "2012-07-01",
+            "maxdate": "2020-03-19",
+            "latitude": 32.3169746398926,
+            "name": "TUCSON 7.1 NNW, AZ US",
+            "datacoverage": 0.7776,
+            "id": "GHCND:US1AZPM0223",
+            "elevationUnit": "METERS",
+            "longitude": -110.96240234375
+        },
+        {
+            "elevation": 1015.3,
+            "mindate": "2015-07-05",
+            "maxdate": "2018-12-28",
+            "latitude": 32.4926521779502,
+            "name": "ORO VALLEY 8.4 NNE, AZ US",
+            "datacoverage": 0.8271,
+            "id": "GHCND:US1AZPM0226",
+            "elevationUnit": "METERS",
+            "longitude": -110.882013067603
+        },
+        {
+            "elevation": 951.3,
+            "mindate": "2013-07-01",
+            "maxdate": "2015-10-31",
+            "latitude": 31.806346,
+            "name": "GREEN VALLEY 4.3 SW, AZ US",
+            "datacoverage": 0.8207,
+            "id": "GHCND:US1AZPM0228",
+            "elevationUnit": "METERS",
+            "longitude": -111.041049
+        },
+        {
+            "elevation": 765,
+            "mindate": "2013-04-01",
+            "maxdate": "2020-05-11",
+            "latitude": 32.262492,
+            "name": "TUCSON 6.4 ENE, AZ US",
+            "datacoverage": 0.9999,
+            "id": "GHCND:US1AZPM0229",
+            "elevationUnit": "METERS",
+            "longitude": -110.822743
+        },
+        {
+            "elevation": 793.4,
+            "mindate": "2010-01-01",
+            "maxdate": "2019-04-02",
+            "latitude": 32.226106,
+            "name": "TUCSON 4.4 E, AZ US",
+            "datacoverage": 0.9973,
+            "id": "GHCND:US1AZPM0230",
+            "elevationUnit": "METERS",
+            "longitude": -110.844425
+        },
+        {
+            "elevation": 1020.5,
+            "mindate": "2013-06-01",
+            "maxdate": "2020-05-16",
+            "latitude": 32.489208,
+            "name": "CATALINA 2.5 ESE, AZ US",
+            "datacoverage": 0.9999,
+            "id": "GHCND:US1AZPM0231",
+            "elevationUnit": "METERS",
+            "longitude": -110.884141
+        },
+        {
+            "elevation": 848.6,
+            "mindate": "2013-07-01",
+            "maxdate": "2020-04-12",
+            "latitude": 32.1710472106934,
+            "name": "TUCSON 8.3 WSW, AZ US",
+            "datacoverage": 1,
+            "id": "GHCND:US1AZPM0233",
+            "elevationUnit": "METERS",
+            "longitude": -111.050018310547
+        },
+        {
+            "elevation": 851.3,
+            "mindate": "2013-07-01",
+            "maxdate": "2020-04-22",
+            "latitude": 32.452579,
+            "name": "MARANA 8.4 E, AZ US",
+            "datacoverage": 0.9086,
+            "id": "GHCND:US1AZPM0234",
+            "elevationUnit": "METERS",
+            "longitude": -111.079228
+        },
+        {
+            "elevation": 875.4,
+            "mindate": "2013-08-01",
+            "maxdate": "2014-03-02",
+            "latitude": 31.878716,
+            "name": "GREEN VALLEY 1.7 N, AZ US",
+            "datacoverage": 0.7515,
+            "id": "GHCND:US1AZPM0238",
+            "elevationUnit": "METERS",
+            "longitude": -110.989746
+        },
+        {
+            "elevation": 810.2,
+            "mindate": "2013-08-19",
+            "maxdate": "2020-03-13",
+            "latitude": 32.3658332824707,
+            "name": "ORO VALLEY 1.7 SSW, AZ US",
+            "datacoverage": 0.9973,
+            "id": "GHCND:US1AZPM0240",
+            "elevationUnit": "METERS",
+            "longitude": -110.967834472656
+        },
+        {
+            "elevation": 911.7,
+            "mindate": "2013-09-01",
+            "maxdate": "2019-05-12",
+            "latitude": 31.810302,
+            "name": "GREEN VALLEY 3.3 SSW, AZ US",
+            "datacoverage": 0.8392,
+            "id": "GHCND:US1AZPM0241",
+            "elevationUnit": "METERS",
+            "longitude": -111.015512
+        },
+        {
+            "elevation": 680.9,
+            "mindate": "2013-10-01",
+            "maxdate": "2020-05-16",
+            "latitude": 32.322036,
+            "name": "TUCSON 9.9 NW, AZ US",
+            "datacoverage": 1,
+            "id": "GHCND:US1AZPM0244",
+            "elevationUnit": "METERS",
+            "longitude": -111.03852
+        },
+        {
+            "elevation": 855.6,
+            "mindate": "2013-10-01",
+            "maxdate": "2020-05-17",
+            "latitude": 32.204713,
+            "name": "TUCSON 8.1 E, AZ US",
+            "datacoverage": 1,
+            "id": "GHCND:US1AZPM0245",
+            "elevationUnit": "METERS",
+            "longitude": -110.782382
+        },
+        {
+            "elevation": 707.7,
+            "mindate": "2014-01-01",
+            "maxdate": "2020-05-11",
+            "latitude": 32.30096,
+            "name": "TUCSON 10.3 WNW, AZ US",
+            "datacoverage": 0.9347,
+            "id": "GHCND:US1AZPM0247",
+            "elevationUnit": "METERS",
+            "longitude": -111.06799
+        },
+        {
+            "elevation": 769.6,
+            "mindate": "2013-01-01",
+            "maxdate": "2020-05-11",
+            "latitude": 32.2258453369141,
+            "name": "TUCSON 1.0 ENE, AZ US",
+            "datacoverage": 0.9992,
+            "id": "GHCND:US1AZPM0248",
+            "elevationUnit": "METERS",
+            "longitude": -110.904647827148
+        },
+        {
+            "elevation": 795.5,
+            "mindate": "2014-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 32.226238,
+            "name": "TUCSON 5.8 E, AZ US",
+            "datacoverage": 1,
+            "id": "GHCND:US1AZPM0249",
+            "elevationUnit": "METERS",
+            "longitude": -110.821327
+        },
+        {
+            "elevation": 745.8,
+            "mindate": "2014-03-01",
+            "maxdate": "2020-05-13",
+            "latitude": 32.2453231811523,
+            "name": "TUCSON 1.8 NNW, AZ US",
+            "datacoverage": 0.9986,
+            "id": "GHCND:US1AZPM0250",
+            "elevationUnit": "METERS",
+            "longitude": -110.928916931152
+        },
+        {
+            "elevation": 651.7,
+            "mindate": "2014-07-01",
+            "maxdate": "2017-10-14",
+            "latitude": 32.3606,
+            "name": "MARANA 8.4 SE, AZ US",
+            "datacoverage": 0.9987,
+            "id": "GHCND:US1AZPM0252",
+            "elevationUnit": "METERS",
+            "longitude": -111.1013
+        },
+        {
+            "elevation": 1024.1,
+            "mindate": "2014-08-01",
+            "maxdate": "2015-09-22",
+            "latitude": 31.9543876647949,
+            "name": "CORONA DE TUCSON 0.5 WSW, AZ US",
+            "datacoverage": 0.9288,
+            "id": "GHCND:US1AZPM0254",
+            "elevationUnit": "METERS",
+            "longitude": -110.774383544922
+        },
+        {
+            "elevation": 757.4,
+            "mindate": "2014-09-01",
+            "maxdate": "2020-05-11",
+            "latitude": 32.205662,
+            "name": "TUCSON 5.6 W, AZ US",
+            "datacoverage": 0.9479,
+            "id": "GHCND:US1AZPM0258",
+            "elevationUnit": "METERS",
+            "longitude": -111.014488
+        },
+        {
+            "elevation": 766.6,
+            "mindate": "2015-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 32.2554856404608,
+            "name": "TUCSON 5.0 ENE, AZ US",
+            "datacoverage": 1,
+            "id": "GHCND:US1AZPM0261",
+            "elevationUnit": "METERS",
+            "longitude": -110.844934612517
+        },
+        {
+            "elevation": 730.3,
+            "mindate": "2015-07-01",
+            "maxdate": "2020-05-11",
+            "latitude": 32.351275,
+            "name": "TUCSON 10.7 NNW, AZ US",
+            "datacoverage": 0.9993,
+            "id": "GHCND:US1AZPM0263",
+            "elevationUnit": "METERS",
+            "longitude": -111.016325
+        },
+        {
+            "elevation": 867.8,
+            "mindate": "2015-08-12",
+            "maxdate": "2020-04-12",
+            "latitude": 32.3407,
+            "name": "TUCSON 8.4 N, AZ US",
+            "datacoverage": 0.5002,
+            "id": "GHCND:US1AZPM0264",
+            "elevationUnit": "METERS",
+            "longitude": -110.9385
+        },
+        {
+            "elevation": 660.5,
+            "mindate": "2015-08-01",
+            "maxdate": "2020-05-12",
+            "latitude": 32.347345,
+            "name": "TUCSON 13.8 NW, AZ US",
+            "datacoverage": 1,
+            "id": "GHCND:US1AZPM0265",
+            "elevationUnit": "METERS",
+            "longitude": -111.101542
+        },
+        {
+            "elevation": 891.5,
+            "mindate": "2015-09-01",
+            "maxdate": "2020-05-17",
+            "latitude": 32.44762,
+            "name": "ORO VALLEY 4.1 NNW, AZ US",
+            "datacoverage": 1,
+            "id": "GHCND:US1AZPM0266",
+            "elevationUnit": "METERS",
+            "longitude": -110.97388
+        },
+        {
+            "elevation": 867.5,
+            "mindate": "2015-09-24",
+            "maxdate": "2020-04-12",
+            "latitude": 32.1572456359863,
+            "name": "TUCSON 9.8 ESE, AZ US",
+            "datacoverage": 0.9819,
+            "id": "GHCND:US1AZPM0268",
+            "elevationUnit": "METERS",
+            "longitude": -110.76953125
+        },
+        {
+            "elevation": 902.5,
+            "mindate": "2015-10-01",
+            "maxdate": "2020-05-16",
+            "latitude": 31.868254,
+            "name": "GREEN VALLEY 1.2 W, AZ US",
+            "datacoverage": 1,
+            "id": "GHCND:US1AZPM0269",
+            "elevationUnit": "METERS",
+            "longitude": -111.009819
+        },
+        {
+            "elevation": 866.5,
+            "mindate": "2015-11-22",
+            "maxdate": "2020-05-16",
+            "latitude": 31.8921203613281,
+            "name": "GREEN VALLEY 2.7 NNE, AZ US",
+            "datacoverage": 0.5873,
+            "id": "GHCND:US1AZPM0272",
+            "elevationUnit": "METERS",
+            "longitude": -110.983985900879
+        },
+        {
+            "elevation": 722.4,
+            "mindate": "2015-09-01",
+            "maxdate": "2020-05-05",
+            "latitude": 32.304529,
+            "name": "TUCSON 11.3 WNW, AZ US",
+            "datacoverage": 1,
+            "id": "GHCND:US1AZPM0273",
+            "elevationUnit": "METERS",
+            "longitude": -111.084797
+        },
+        {
+            "elevation": 888.5,
+            "mindate": "2016-04-08",
+            "maxdate": "2020-05-11",
+            "latitude": 32.4634069,
+            "name": "ORO VALLEY 5.3 NNE, AZ US",
+            "datacoverage": 0.1518,
+            "id": "GHCND:US1AZPM0275",
+            "elevationUnit": "METERS",
+            "longitude": -110.936001
+        },
+        {
+            "elevation": 704.4,
+            "mindate": "2008-07-29",
+            "maxdate": "2020-05-15",
+            "latitude": 32.327309,
+            "name": "TUCSON 13.2 NW, AZ US",
+            "datacoverage": 1,
+            "id": "GHCND:US1AZPM0281",
+            "elevationUnit": "METERS",
+            "longitude": -111.107495
+        },
+        {
+            "elevation": 683.1,
+            "mindate": "2016-06-29",
+            "maxdate": "2020-05-11",
+            "latitude": 32.3766899108887,
+            "name": "TUCSON 14.6 NW, AZ US",
+            "datacoverage": 0.9819,
+            "id": "GHCND:US1AZPM0283",
+            "elevationUnit": "METERS",
+            "longitude": -111.087020874023
+        },
+        {
+            "elevation": 926.9,
+            "mindate": "2016-07-01",
+            "maxdate": "2017-09-16",
+            "latitude": 32.470825,
+            "name": "ORO VALLEY 5.6 N, AZ US",
+            "datacoverage": 0.9707,
+            "id": "GHCND:US1AZPM0284",
+            "elevationUnit": "METERS",
+            "longitude": -110.956727
+        },
+        {
+            "elevation": 916.8,
+            "mindate": "2016-04-01",
+            "maxdate": "2020-05-11",
+            "latitude": 32.461993,
+            "name": "ORO VALLEY 5.0 N, AZ US",
+            "datacoverage": 0.9953,
+            "id": "GHCND:US1AZPM0285",
+            "elevationUnit": "METERS",
+            "longitude": -110.967916
+        },
+        {
+            "elevation": 807.1,
+            "mindate": "2016-07-19",
+            "maxdate": "2020-04-12",
+            "latitude": 32.384287,
+            "name": "ORO VALLEY 0.6 SW, AZ US",
+            "datacoverage": 0.9819,
+            "id": "GHCND:US1AZPM0286",
+            "elevationUnit": "METERS",
+            "longitude": -110.968762
+        },
+        {
+            "elevation": 815,
+            "mindate": "2016-08-03",
+            "maxdate": "2020-05-17",
+            "latitude": 32.441484,
+            "name": "MARANA 8.3 E, AZ US",
+            "datacoverage": 0.9032,
+            "id": "GHCND:US1AZPM0289",
+            "elevationUnit": "METERS",
+            "longitude": -111.078268
+        },
+        {
+            "elevation": 586.4,
+            "mindate": "2017-01-01",
+            "maxdate": "2020-05-13",
+            "latitude": 32.495976,
+            "name": "MARANA 5.4 NNW, AZ US",
+            "datacoverage": 1,
+            "id": "GHCND:US1AZPM0291",
+            "elevationUnit": "METERS",
+            "longitude": -111.268191
+        },
+        {
+            "elevation": 758.6,
+            "mindate": "2016-12-17",
+            "maxdate": "2020-05-11",
+            "latitude": 32.375752,
+            "name": "TUCSON 12.3 NNW, AZ US",
+            "datacoverage": 1,
+            "id": "GHCND:US1AZPM0292",
+            "elevationUnit": "METERS",
+            "longitude": -111.020463
+        },
+        {
+            "elevation": 744.6,
+            "mindate": "2017-01-08",
+            "maxdate": "2020-05-17",
+            "latitude": 32.306854,
+            "name": "ORO VALLEY 9.9 SW, AZ US",
+            "datacoverage": 1,
+            "id": "GHCND:US1AZPM0294",
+            "elevationUnit": "METERS",
+            "longitude": -111.098115
+        },
+        {
+            "elevation": 844.3,
+            "mindate": "2018-01-01",
+            "maxdate": "2019-12-06",
+            "latitude": 32.312638,
+            "name": "TUCSON 8.4 NE, AZ US",
+            "datacoverage": 0.4894,
+            "id": "GHCND:US1AZPM0299",
+            "elevationUnit": "METERS",
+            "longitude": -110.82715
+        },
+        {
+            "elevation": 757.4,
+            "mindate": "2017-11-13",
+            "maxdate": "2020-01-06",
+            "latitude": 32.27296,
+            "name": "TUCSON 4.6 NE, AZ US",
+            "datacoverage": 0.998,
+            "id": "GHCND:US1AZPM0300",
+            "elevationUnit": "METERS",
+            "longitude": -110.871106
+        },
+        {
+            "elevation": 731.2,
+            "mindate": "2017-08-01",
+            "maxdate": "2019-04-22",
+            "latitude": 32.23118,
+            "name": "TUCSON 2.8 WNW, AZ US",
+            "datacoverage": 0.5876,
+            "id": "GHCND:US1AZPM0301",
+            "elevationUnit": "METERS",
+            "longitude": -110.96673
+        },
+        {
+            "elevation": 728.5,
+            "mindate": "2017-06-06",
+            "maxdate": "2020-05-11",
+            "latitude": 32.208443,
+            "name": "TUCSON 3.2 WSW, AZ US",
+            "datacoverage": 0.3853,
+            "id": "GHCND:US1AZPM0302",
+            "elevationUnit": "METERS",
+            "longitude": -110.973194
+        },
+        {
+            "elevation": 776.9,
+            "mindate": "2017-04-05",
+            "maxdate": "2020-03-12",
+            "latitude": 32.146779,
+            "name": "TUCSON 5.3 SSW, AZ US",
+            "datacoverage": 0.3853,
+            "id": "GHCND:US1AZPM0303",
+            "elevationUnit": "METERS",
+            "longitude": -110.945674
+        },
+        {
+            "elevation": 833.3,
+            "mindate": "2017-05-01",
+            "maxdate": "2020-05-11",
+            "latitude": 32.22767,
+            "name": "TUCSON 10.8 E, AZ US",
+            "datacoverage": 1,
+            "id": "GHCND:US1AZPM0304",
+            "elevationUnit": "METERS",
+            "longitude": -110.735516
+        },
+        {
+            "elevation": 728.8,
+            "mindate": "2017-06-01",
+            "maxdate": "2020-05-14",
+            "latitude": 32.35385,
+            "name": "TUCSON 11.5 NW, AZ US",
+            "datacoverage": 1,
+            "id": "GHCND:US1AZPM0305",
+            "elevationUnit": "METERS",
+            "longitude": -111.03806
+        },
+        {
+            "elevation": 756.2,
+            "mindate": "2017-05-26",
+            "maxdate": "2019-05-12",
+            "latitude": 32.39085,
+            "name": "ORO VALLEY 1.8 W, AZ US",
+            "datacoverage": 0.9819,
+            "id": "GHCND:US1AZPM0307",
+            "elevationUnit": "METERS",
+            "longitude": -110.99125
+        },
+        {
+            "elevation": 1055.8,
+            "mindate": "2017-07-09",
+            "maxdate": "2020-05-11",
+            "latitude": 31.98556,
+            "name": "VAIL 1.4 SW, AZ US",
+            "datacoverage": 0.9819,
+            "id": "GHCND:US1AZPM0308",
+            "elevationUnit": "METERS",
+            "longitude": -110.71552
+        },
+        {
+            "elevation": 915.6,
+            "mindate": "2017-06-29",
+            "maxdate": "2020-05-15",
+            "latitude": 31.86725,
+            "name": "GREEN VALLEY 1.1 NW, AZ US",
+            "datacoverage": 0.8528,
+            "id": "GHCND:US1AZPM0311",
+            "elevationUnit": "METERS",
+            "longitude": -111.00556
+        },
+        {
+            "elevation": 934.2,
+            "mindate": "2017-07-12",
+            "maxdate": "2018-03-14",
+            "latitude": 32.47726,
+            "name": "TUCSON 17.8 N, AZ US",
+            "datacoverage": 1,
+            "id": "GHCND:US1AZPM0312",
+            "elevationUnit": "METERS",
+            "longitude": -110.91136
+        },
+        {
+            "elevation": 896.4,
+            "mindate": "2017-07-26",
+            "maxdate": "2019-07-23",
+            "latitude": 31.93403,
+            "name": "SAHUARITA 3.0 WSW, AZ US",
+            "datacoverage": 0.967,
+            "id": "GHCND:US1AZPM0313",
+            "elevationUnit": "METERS",
+            "longitude": -110.997654
+        },
+        {
+            "elevation": 751.3,
+            "mindate": "2017-07-01",
+            "maxdate": "2020-04-12",
+            "latitude": 32.165545,
+            "name": "TUCSON 12.6 WSW, AZ US",
+            "datacoverage": 1,
+            "id": "GHCND:US1AZPM0315",
+            "elevationUnit": "METERS",
+            "longitude": -111.126018
+        },
+        {
+            "elevation": 758.6,
+            "mindate": "2017-08-14",
+            "maxdate": "2020-05-11",
+            "latitude": 32.129715,
+            "name": "VALENCIA WEST 1.1 E, AZ US",
+            "datacoverage": 1,
+            "id": "GHCND:US1AZPM0318",
+            "elevationUnit": "METERS",
+            "longitude": -111.129873
+        },
+        {
+            "elevation": 783.9,
+            "mindate": "2017-11-08",
+            "maxdate": "2020-04-13",
+            "latitude": 32.241516,
+            "name": "TUCSON 7.1 ENE, AZ US",
+            "datacoverage": 0.9819,
+            "id": "GHCND:US1AZPM0321",
+            "elevationUnit": "METERS",
+            "longitude": -110.801342
+        },
+        {
+            "elevation": 935.1,
+            "mindate": "2017-11-01",
+            "maxdate": "2020-05-11",
+            "latitude": 32.477619,
+            "name": "CATALINA 1.6 S, AZ US",
+            "datacoverage": 1,
+            "id": "GHCND:US1AZPM0322",
+            "elevationUnit": "METERS",
+            "longitude": -110.917184
+        },
+        {
+            "elevation": 928.7,
+            "mindate": "2017-11-21",
+            "maxdate": "2020-05-14",
+            "latitude": 31.875219,
+            "name": "GREEN VALLEY 1.5 NW, AZ US",
+            "datacoverage": 1,
+            "id": "GHCND:US1AZPM0323",
+            "elevationUnit": "METERS",
+            "longitude": -111.009087
+        },
+        {
+            "elevation": 1094.5,
+            "mindate": "1998-06-17",
+            "maxdate": "2020-05-17",
+            "latitude": 31.973552,
+            "name": "VAIL 2.0 SSE, AZ US",
+            "datacoverage": 0.8455,
+            "id": "GHCND:US1AZPM0326",
+            "elevationUnit": "METERS",
+            "longitude": -110.689671
+        },
+        {
+            "elevation": 769.9,
+            "mindate": "2018-02-01",
+            "maxdate": "2020-05-12",
+            "latitude": 32.182912,
+            "name": "SOUTH TUCSON 9.8 W, AZ US",
+            "datacoverage": 1,
+            "id": "GHCND:US1AZPM0327",
+            "elevationUnit": "METERS",
+            "longitude": -111.127059
+        },
+        {
+            "elevation": 767.2,
+            "mindate": "2008-07-02",
+            "maxdate": "2020-05-17",
+            "latitude": 32.272289,
+            "name": "TUCSON 5.1 NE, AZ US",
+            "datacoverage": 1,
+            "id": "GHCND:US1AZPM0328",
+            "elevationUnit": "METERS",
+            "longitude": -110.858273
+        },
+        {
+            "elevation": 725.1,
+            "mindate": "2018-03-01",
+            "maxdate": "2019-10-29",
+            "latitude": 32.371851,
+            "name": "ORO VALLEY 3.4 WSW, AZ US",
+            "datacoverage": 0.9851,
+            "id": "GHCND:US1AZPM0329",
+            "elevationUnit": "METERS",
+            "longitude": -111.013836
+        },
+        {
+            "elevation": 1094.2,
+            "mindate": "2018-05-15",
+            "maxdate": "2020-05-17",
+            "latitude": 31.987122,
+            "name": "SAHUARITA 10.0 WNW, AZ US",
+            "datacoverage": 1,
+            "id": "GHCND:US1AZPM0332",
+            "elevationUnit": "METERS",
+            "longitude": -111.115347
+        },
+        {
+            "elevation": 1000.7,
+            "mindate": "2018-04-09",
+            "maxdate": "2019-03-31",
+            "latitude": 31.94972,
+            "name": "SAHUARITA 9.1 E, AZ US",
+            "datacoverage": 0.9994,
+            "id": "GHCND:US1AZPM0333",
+            "elevationUnit": "METERS",
+            "longitude": -110.795
+        },
+        {
+            "elevation": 840.9,
+            "mindate": "2018-05-01",
+            "maxdate": "2020-05-17",
+            "latitude": 32.167593,
+            "name": "TUCSON 8.5 ESE, AZ US",
+            "datacoverage": 0.8847,
+            "id": "GHCND:US1AZPM0338",
+            "elevationUnit": "METERS",
+            "longitude": -110.788003
+        },
+        {
+            "elevation": 736.7,
+            "mindate": "2018-06-01",
+            "maxdate": "2020-05-12",
+            "latitude": 32.2841,
+            "name": "TUCSON 9.9 WNW, AZ US",
+            "datacoverage": 1,
+            "id": "GHCND:US1AZPM0339",
+            "elevationUnit": "METERS",
+            "longitude": -111.0709
+        },
+        {
+            "elevation": 835.5,
+            "mindate": "2018-06-01",
+            "maxdate": "2020-02-11",
+            "latitude": 32.17437,
+            "name": "TUCSON 5.8 ESE, AZ US",
+            "datacoverage": 0.998,
+            "id": "GHCND:US1AZPM0340",
+            "elevationUnit": "METERS",
+            "longitude": -110.83648
+        },
+        {
+            "elevation": 877.8,
+            "mindate": "2018-08-16",
+            "maxdate": "2020-05-17",
+            "latitude": 31.88925,
+            "name": "GREEN VALLEY 3.7 NE, AZ US",
+            "datacoverage": 0.9267,
+            "id": "GHCND:US1AZPM0346",
+            "elevationUnit": "METERS",
+            "longitude": -110.94587
+        },
+        {
+            "elevation": 912.6,
+            "mindate": "2018-08-07",
+            "maxdate": "2020-05-17",
+            "latitude": 31.8731,
+            "name": "GREEN VALLEY 1.4 NNW, AZ US",
+            "datacoverage": 1,
+            "id": "GHCND:US1AZPM0347",
+            "elevationUnit": "METERS",
+            "longitude": -111.00455
+        },
+        {
+            "elevation": 791.9,
+            "mindate": "2018-10-24",
+            "maxdate": "2020-03-13",
+            "latitude": 32.37504,
+            "name": "TUCSON 11.1 NNW, AZ US",
+            "datacoverage": 0.5089,
+            "id": "GHCND:US1AZPM0355",
+            "elevationUnit": "METERS",
+            "longitude": -110.971135
         }
     ]
 }

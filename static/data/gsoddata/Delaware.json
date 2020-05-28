@@ -2,7 +2,7 @@
     "metadata": {
         "resultset": {
             "offset": 1,
-            "count": 145,
+            "count": 130,
             "limit": 1000
         }
     },
@@ -28,28 +28,6 @@
             "id": "COOP:071330",
             "elevationUnit": "METERS",
             "longitude": -75.61667
-        },
-        {
-            "elevation": 11.9,
-            "mindate": "1951-04-01",
-            "maxdate": "1951-11-01",
-            "latitude": 39.3,
-            "name": "CLAYTON, DE US",
-            "datacoverage": 0.998,
-            "id": "COOP:071483",
-            "elevationUnit": "METERS",
-            "longitude": -75.63333
-        },
-        {
-            "elevation": 3,
-            "mindate": "1931-01-01",
-            "maxdate": "1954-04-01",
-            "latitude": 39.56667,
-            "name": "DELAWARE CITY REEDY, DE US",
-            "datacoverage": 0.9823,
-            "id": "COOP:072625",
-            "elevationUnit": "METERS",
-            "longitude": -75.58333
         },
         {
             "elevation": 9.1,
@@ -107,17 +85,6 @@
             "longitude": -75.5125
         },
         {
-            "elevation": 9.1,
-            "mindate": "1953-01-01",
-            "maxdate": "1956-01-01",
-            "latitude": 38.53333,
-            "name": "LAUREL 2 SW, DE US",
-            "datacoverage": 1,
-            "id": "COOP:075217",
-            "elevationUnit": "METERS",
-            "longitude": -75.56667
-        },
-        {
             "elevation": 3,
             "mindate": "1945-02-01",
             "maxdate": "2011-12-01",
@@ -151,17 +118,6 @@
             "longitude": -75.425
         },
         {
-            "elevation": 6.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1954-01-01",
-            "latitude": 38.58333,
-            "name": "MILLSBORO, DE US",
-            "datacoverage": 0.9819,
-            "id": "COOP:076020",
-            "elevationUnit": "METERS",
-            "longitude": -75.31667
-        },
-        {
             "elevation": 10.1,
             "mindate": "2014-01-01",
             "maxdate": "2014-12-01",
@@ -173,17 +129,6 @@
             "longitude": -75.2911
         },
         {
-            "elevation": 34.1,
-            "mindate": "1938-10-01",
-            "maxdate": "1949-03-01",
-            "latitude": 39.66667,
-            "name": "NEWARK PUMPING STATION, DE US",
-            "datacoverage": 0.9603,
-            "id": "COOP:076405",
-            "elevationUnit": "METERS",
-            "longitude": -75.75
-        },
-        {
             "elevation": 32.3,
             "mindate": "1940-05-01",
             "maxdate": "2012-01-01",
@@ -193,17 +138,6 @@
             "id": "COOP:076410",
             "elevationUnit": "METERS",
             "longitude": -75.74569
-        },
-        {
-            "elevation": 6.1,
-            "mindate": "1937-05-01",
-            "maxdate": "1942-12-01",
-            "latitude": 39.46667,
-            "name": "ODESSA, DE US",
-            "datacoverage": 0.9994,
-            "id": "COOP:076825",
-            "elevationUnit": "METERS",
-            "longitude": -75.61667
         },
         {
             "elevation": 9.1,
@@ -228,17 +162,6 @@
             "longitude": -75.61944
         },
         {
-            "elevation": 14.9,
-            "mindate": "1948-06-01",
-            "maxdate": "1952-05-01",
-            "latitude": 39.35,
-            "name": "SMYRNA 3 NNW, DE US",
-            "datacoverage": 0.7292,
-            "id": "COOP:078510",
-            "elevationUnit": "METERS",
-            "longitude": -75.63333
-        },
-        {
             "elevation": 24.1,
             "mindate": "1948-04-01",
             "maxdate": "2015-11-01",
@@ -248,17 +171,6 @@
             "id": "COOP:079595",
             "elevationUnit": "METERS",
             "longitude": -75.60567
-        },
-        {
-            "elevation": 31.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1958-10-01",
-            "latitude": 39.75,
-            "name": "WILMINGTON CITY HALL, DE US",
-            "datacoverage": 0.9671,
-            "id": "COOP:079600",
-            "elevationUnit": "METERS",
-            "longitude": -75.55
         },
         {
             "elevation": 82.3,
@@ -1273,28 +1185,6 @@
             "longitude": -75.61667
         },
         {
-            "elevation": 11.9,
-            "mindate": "1951-01-01",
-            "maxdate": "1952-02-29",
-            "latitude": 39.3,
-            "name": "CLAYTON, DE US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00071483",
-            "elevationUnit": "METERS",
-            "longitude": -75.63333
-        },
-        {
-            "elevation": 3,
-            "mindate": "1902-11-01",
-            "maxdate": "1954-04-30",
-            "latitude": 39.56667,
-            "name": "DELAWARE CITY REEDY, DE US",
-            "datacoverage": 0.9887,
-            "id": "GHCND:USC00072625",
-            "elevationUnit": "METERS",
-            "longitude": -75.58333
-        },
-        {
             "elevation": 9.1,
             "mindate": "1893-01-01",
             "maxdate": "2020-02-29",
@@ -1339,17 +1229,6 @@
             "longitude": -75.5761
         },
         {
-            "elevation": 9.1,
-            "mindate": "1953-01-01",
-            "maxdate": "1953-12-23",
-            "latitude": 38.53333,
-            "name": "LAUREL 2 SW, DE US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00075217",
-            "elevationUnit": "METERS",
-            "longitude": -75.56667
-        },
-        {
             "elevation": 3,
             "mindate": "1945-02-01",
             "maxdate": "2020-03-31",
@@ -1383,17 +1262,6 @@
             "longitude": -75.425
         },
         {
-            "elevation": 6.1,
-            "mindate": "1893-01-01",
-            "maxdate": "1954-01-31",
-            "latitude": 38.58333,
-            "name": "MILLSBORO, DE US",
-            "datacoverage": 0.9946,
-            "id": "GHCND:USC00076020",
-            "elevationUnit": "METERS",
-            "longitude": -75.31667
-        },
-        {
             "elevation": 1.2,
             "mindate": "2014-01-01",
             "maxdate": "2015-01-03",
@@ -1403,17 +1271,6 @@
             "id": "GHCND:USC00076102",
             "elevationUnit": "METERS",
             "longitude": -75.203
-        },
-        {
-            "elevation": 34.1,
-            "mindate": "1938-10-01",
-            "maxdate": "1949-03-31",
-            "latitude": 39.66667,
-            "name": "NEWARK PUMPING STATION, DE US",
-            "datacoverage": 0.9286,
-            "id": "GHCND:USC00076405",
-            "elevationUnit": "METERS",
-            "longitude": -75.75
         },
         {
             "elevation": 32.3,
@@ -1447,28 +1304,6 @@
             "id": "GHCND:USC00078508",
             "elevationUnit": "METERS",
             "longitude": -75.61944
-        },
-        {
-            "elevation": 14.9,
-            "mindate": "1948-08-01",
-            "maxdate": "1952-05-31",
-            "latitude": 39.35,
-            "name": "SMYRNA 3 NNW, DE US",
-            "datacoverage": 0.7495,
-            "id": "GHCND:USC00078510",
-            "elevationUnit": "METERS",
-            "longitude": -75.63333
-        },
-        {
-            "elevation": 31.1,
-            "mindate": "1894-01-01",
-            "maxdate": "1958-10-31",
-            "latitude": 39.75,
-            "name": "WILMINGTON CITY HALL, DE US",
-            "datacoverage": 0.9872,
-            "id": "GHCND:USC00079600",
-            "elevationUnit": "METERS",
-            "longitude": -75.55
         },
         {
             "elevation": 82.3,

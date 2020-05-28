@@ -2,7 +2,7 @@
     "metadata": {
         "resultset": {
             "offset": 1,
-            "count": 1537,
+            "count": 1347,
             "limit": 1000
         }
     },
@@ -39,17 +39,6 @@
             "id": "COOP:340017",
             "elevationUnit": "METERS",
             "longitude": -96.685
-        },
-        {
-            "elevation": 207,
-            "mindate": "1947-10-01",
-            "maxdate": "1969-05-01",
-            "latitude": 36.43333,
-            "name": "ADAIR 1 E, OK US",
-            "datacoverage": 0.8048,
-            "id": "COOP:340026",
-            "elevationUnit": "METERS",
-            "longitude": -95.25
         },
         {
             "elevation": 294.7,
@@ -123,7 +112,7 @@
             "maxdate": "1970-09-01",
             "latitude": 34.71667,
             "name": "ALTUS 7 NE, OK US",
-            "datacoverage": 0.2558,
+            "datacoverage": 0.0206,
             "id": "COOP:340188",
             "elevationUnit": "METERS",
             "longitude": -99.26667
@@ -200,7 +189,7 @@
             "maxdate": "1973-09-01",
             "latitude": 35.75,
             "name": "ANTHON 6 W, OK US",
-            "datacoverage": 0.7208,
+            "datacoverage": 0.0251,
             "id": "COOP:340242",
             "elevationUnit": "METERS",
             "longitude": -99.1
@@ -281,17 +270,6 @@
             "id": "COOP:340293",
             "elevationUnit": "METERS",
             "longitude": -97.15
-        },
-        {
-            "elevation": 221,
-            "mindate": "1947-10-01",
-            "maxdate": "1969-12-01",
-            "latitude": 34.3,
-            "name": "ARDMORE MUNICIPAL AIRPORT, OK US",
-            "datacoverage": 0.9693,
-            "id": "COOP:340296",
-            "elevationUnit": "METERS",
-            "longitude": -97.01667
         },
         {
             "elevation": 282.9,
@@ -426,17 +404,6 @@
             "longitude": -96.0261
         },
         {
-            "elevation": 182.9,
-            "mindate": "1947-11-01",
-            "maxdate": "1951-12-01",
-            "latitude": 34.4,
-            "name": "BATTIEST, OK US",
-            "datacoverage": 0.8799,
-            "id": "COOP:340562",
-            "elevationUnit": "METERS",
-            "longitude": -94.93333
-        },
-        {
             "elevation": 250.5,
             "mindate": "1985-05-01",
             "maxdate": "2015-11-01",
@@ -569,17 +536,6 @@
             "longitude": -97.67
         },
         {
-            "elevation": 153.6,
-            "mindate": "1947-08-01",
-            "maxdate": "1948-05-01",
-            "latitude": 33.9969,
-            "name": "BLUE 1 W, OK US",
-            "datacoverage": 0.998,
-            "id": "COOP:340863",
-            "elevationUnit": "METERS",
-            "longitude": -96.2408
-        },
-        {
             "elevation": 1259.7,
             "mindate": "1925-09-01",
             "maxdate": "2015-11-01",
@@ -677,17 +633,6 @@
             "id": "COOP:341144",
             "elevationUnit": "METERS",
             "longitude": -96.3916
-        },
-        {
-            "elevation": 356.9,
-            "mindate": "1951-05-01",
-            "maxdate": "1957-08-01",
-            "latitude": 35.56667,
-            "name": "BRITTON 2 E, OK US",
-            "datacoverage": 0.8941,
-            "id": "COOP:341148",
-            "elevationUnit": "METERS",
-            "longitude": -97.5
         },
         {
             "elevation": 210,
@@ -834,11 +779,11 @@
         },
         {
             "elevation": 172.2,
-            "mindate": "1944-07-01",
+            "mindate": "1947-10-01",
             "maxdate": "1978-04-30",
             "latitude": 34.23,
             "name": "CANEY 1 E, OK US",
-            "datacoverage": 0.6958,
+            "datacoverage": 0.0398,
             "id": "COOP:341436",
             "elevationUnit": "METERS",
             "longitude": -96.195
@@ -853,17 +798,6 @@
             "id": "COOP:341437",
             "elevationUnit": "METERS",
             "longitude": -96.195
-        },
-        {
-            "elevation": 491,
-            "mindate": "1914-04-01",
-            "maxdate": "1953-11-01",
-            "latitude": 36.05,
-            "name": "CANTON, OK US",
-            "datacoverage": 0.9642,
-            "id": "COOP:341441",
-            "elevationUnit": "METERS",
-            "longitude": -98.58333
         },
         {
             "elevation": 484.6,
@@ -965,17 +899,6 @@
             "longitude": -96.8041
         },
         {
-            "elevation": 262.1,
-            "mindate": "1947-10-01",
-            "maxdate": "1953-07-01",
-            "latitude": 35.71667,
-            "name": "CHANDLER 2, OK US",
-            "datacoverage": 0.3659,
-            "id": "COOP:341688",
-            "elevationUnit": "METERS",
-            "longitude": -96.86667
-        },
-        {
             "elevation": 349.9,
             "mindate": "1914-01-01",
             "maxdate": "2015-11-01",
@@ -1075,17 +998,6 @@
             "longitude": -96.97052
         },
         {
-            "elevation": 331.9,
-            "mindate": "1914-01-01",
-            "maxdate": "1966-04-01",
-            "latitude": 35.03333,
-            "name": "CHICKASHA, OK US",
-            "datacoverage": 0.9571,
-            "id": "COOP:341747",
-            "elevationUnit": "METERS",
-            "longitude": -97.95
-        },
-        {
             "elevation": 330.7,
             "mindate": "1953-06-01",
             "maxdate": "2015-11-01",
@@ -1119,28 +1031,6 @@
             "longitude": -95.5808
         },
         {
-            "elevation": 164.3,
-            "mindate": "1947-01-01",
-            "maxdate": "1949-09-01",
-            "latitude": 36.30722,
-            "name": "CLAREMORE 5 W, OK US",
-            "datacoverage": 0.8489,
-            "id": "COOP:341832",
-            "elevationUnit": "METERS",
-            "longitude": -95.69778
-        },
-        {
-            "elevation": 182.9,
-            "mindate": "1947-01-01",
-            "maxdate": "1969-12-01",
-            "latitude": 34.58333,
-            "name": "CLAYTON, OK US",
-            "datacoverage": 0.9383,
-            "id": "COOP:341855",
-            "elevationUnit": "METERS",
-            "longitude": -95.35
-        },
-        {
             "elevation": 207,
             "mindate": "1981-10-01",
             "maxdate": "2012-12-01",
@@ -1161,17 +1051,6 @@
             "id": "COOP:341873",
             "elevationUnit": "METERS",
             "longitude": -94.98333
-        },
-        {
-            "elevation": 244.1,
-            "mindate": "1914-01-01",
-            "maxdate": "1952-07-01",
-            "latitude": 36.31667,
-            "name": "CLEVELAND 1, OK US",
-            "datacoverage": 0.9461,
-            "id": "COOP:341891",
-            "elevationUnit": "METERS",
-            "longitude": -96.46667
         },
         {
             "elevation": 242.3,
@@ -1295,17 +1174,6 @@
             "longitude": -98.99583
         },
         {
-            "elevation": 317,
-            "mindate": "1958-03-01",
-            "maxdate": "1964-06-23",
-            "latitude": 34.35,
-            "name": "CORUM 1 W, OK US",
-            "datacoverage": 0.0251,
-            "id": "COOP:342145",
-            "elevationUnit": "METERS",
-            "longitude": -98.11667
-        },
-        {
             "elevation": 375.5,
             "mindate": "1980-10-01",
             "maxdate": "2011-12-01",
@@ -1337,17 +1205,6 @@
             "id": "COOP:342242",
             "elevationUnit": "METERS",
             "longitude": -97.6743
-        },
-        {
-            "elevation": 217,
-            "mindate": "1948-01-01",
-            "maxdate": "1951-11-01",
-            "latitude": 34.08333,
-            "name": "CUMBERLAND OIL FIELD, OK US",
-            "datacoverage": 0.8227,
-            "id": "COOP:342309",
-            "elevationUnit": "METERS",
-            "longitude": -96.56667
         },
         {
             "elevation": 289.6,
@@ -1405,15 +1262,6 @@
             "longitude": -95.9072
         },
         {
-            "mindate": "1957-04-01",
-            "maxdate": "1957-07-01",
-            "latitude": 35.03333,
-            "name": "DIBBLE, OK US",
-            "datacoverage": 0.0705,
-            "id": "COOP:342500",
-            "longitude": -97.61667
-        },
-        {
             "elevation": 336.8,
             "mindate": "1979-09-01",
             "maxdate": "2012-02-18",
@@ -1441,7 +1289,7 @@
             "maxdate": "1979-08-27",
             "latitude": 34.48333,
             "name": "DUNCAN 1 SSW, OK US",
-            "datacoverage": 0.4146,
+            "datacoverage": 0.0265,
             "id": "COOP:342665",
             "elevationUnit": "METERS",
             "longitude": -97.96667
@@ -1478,17 +1326,6 @@
             "id": "COOP:342680",
             "elevationUnit": "METERS",
             "longitude": -96.3203
-        },
-        {
-            "elevation": 670.9,
-            "mindate": "1941-08-01",
-            "maxdate": "1948-02-01",
-            "latitude": 35.96667,
-            "name": "DURHAM, OK US",
-            "datacoverage": 0.9623,
-            "id": "COOP:342683",
-            "elevationUnit": "METERS",
-            "longitude": -99.88333
         },
         {
             "elevation": 216.7,
@@ -1623,17 +1460,6 @@
             "longitude": -95.59028
         },
         {
-            "elevation": 164.9,
-            "mindate": "1957-03-01",
-            "maxdate": "1965-06-01",
-            "latitude": 35.3,
-            "name": "EUFAULA DAM, OK US",
-            "datacoverage": 1,
-            "id": "COOP:342994",
-            "elevationUnit": "METERS",
-            "longitude": -95.33333
-        },
-        {
             "elevation": 259.1,
             "mindate": "1965-05-01",
             "maxdate": "1970-08-29",
@@ -1646,11 +1472,11 @@
         },
         {
             "elevation": 1089.4,
-            "mindate": "1940-01-01",
+            "mindate": "1947-10-01",
             "maxdate": "2014-01-01",
             "latitude": 36.7975,
             "name": "EVA, OK US",
-            "datacoverage": 0.8,
+            "datacoverage": 0.016,
             "id": "COOP:343002",
             "elevationUnit": "METERS",
             "longitude": -101.9075
@@ -1722,17 +1548,6 @@
             "longitude": -95.91667
         },
         {
-            "elevation": 555,
-            "mindate": "1940-04-01",
-            "maxdate": "1957-04-01",
-            "latitude": 36.8,
-            "name": "FARRY, OK US",
-            "datacoverage": 0.9318,
-            "id": "COOP:343088",
-            "elevationUnit": "METERS",
-            "longitude": -98.96667
-        },
-        {
             "elevation": 349.9,
             "mindate": "2009-02-01",
             "maxdate": "2015-11-01",
@@ -1799,17 +1614,6 @@
             "longitude": -98.44278
         },
         {
-            "elevation": 171,
-            "mindate": "1931-01-01",
-            "maxdate": "1943-08-01",
-            "latitude": 35.8,
-            "name": "FORT GIBSON 1 SSE, OK US",
-            "datacoverage": 1,
-            "id": "COOP:343284",
-            "elevationUnit": "METERS",
-            "longitude": -95.25
-        },
-        {
             "elevation": 161.8,
             "mindate": "1923-01-01",
             "maxdate": "2001-05-01",
@@ -1819,17 +1623,6 @@
             "id": "COOP:343286",
             "elevationUnit": "METERS",
             "longitude": -95.23333
-        },
-        {
-            "elevation": 424,
-            "mindate": "1914-01-01",
-            "maxdate": "1951-12-01",
-            "latitude": 35.56667,
-            "name": "FORT RENO, OK US",
-            "datacoverage": 0.9254,
-            "id": "COOP:343295",
-            "elevationUnit": "METERS",
-            "longitude": -98.03333
         },
         {
             "elevation": 618.7,
@@ -2052,17 +1845,6 @@
             "longitude": -97.395
         },
         {
-            "elevation": 299,
-            "mindate": "1947-11-01",
-            "maxdate": "1957-10-01",
-            "latitude": 35.8,
-            "name": "GUTHRIE SOIL CONSERVATION SERVICE, OK US",
-            "datacoverage": 0.8371,
-            "id": "COOP:343830",
-            "elevationUnit": "METERS",
-            "longitude": -97.41667
-        },
-        {
             "elevation": 935.7,
             "mindate": "1909-05-01",
             "maxdate": "2009-07-01",
@@ -2072,28 +1854,6 @@
             "id": "COOP:343835",
             "elevationUnit": "METERS",
             "longitude": -101.47806
-        },
-        {
-            "elevation": 929.9,
-            "mindate": "1947-10-01",
-            "maxdate": "1958-07-01",
-            "latitude": 36.53333,
-            "name": "GUYMON LEE RANCH, OK US",
-            "datacoverage": 0.8846,
-            "id": "COOP:343836",
-            "elevationUnit": "METERS",
-            "longitude": -101.4
-        },
-        {
-            "elevation": 1007.1,
-            "mindate": "1949-10-01",
-            "maxdate": "1957-04-01",
-            "latitude": 36.78333,
-            "name": "GDYMON 9 NW, OK US",
-            "datacoverage": 0.9124,
-            "id": "COOP:343838",
-            "elevationUnit": "METERS",
-            "longitude": -101.58333
         },
         {
             "elevation": 287.1,
@@ -2127,17 +1887,6 @@
             "id": "COOP:343884",
             "elevationUnit": "METERS",
             "longitude": -95.88972
-        },
-        {
-            "elevation": 885.1,
-            "mindate": "1941-01-01",
-            "maxdate": "1957-10-01",
-            "latitude": 36.61667,
-            "name": "HARDESTY, OK US",
-            "datacoverage": 0.9208,
-            "id": "COOP:343902",
-            "elevationUnit": "METERS",
-            "longitude": -101.18333
         },
         {
             "elevation": 337.4,
@@ -2184,19 +1933,8 @@
             "longitude": -97.4202
         },
         {
-            "elevation": 274.9,
-            "mindate": "1914-01-01",
-            "maxdate": "1914-05-01",
-            "latitude": 34.23333,
-            "name": "HEALDTON OKC 29, OK US",
-            "datacoverage": 0.8063,
-            "id": "COOP:344003",
-            "elevationUnit": "METERS",
-            "longitude": -97.48333
-        },
-        {
             "elevation": 180.4,
-            "mindate": "1951-11-01",
+            "mindate": "1951-12-01",
             "maxdate": "2002-09-01",
             "latitude": 34.91278,
             "name": "HEAVENER 2 N, OK US",
@@ -2204,17 +1942,6 @@
             "id": "COOP:344008",
             "elevationUnit": "METERS",
             "longitude": -94.59972
-        },
-        {
-            "elevation": 171,
-            "mindate": "1914-01-01",
-            "maxdate": "1967-08-01",
-            "latitude": 34.91667,
-            "name": "HEAVENER EXPERIMENT, OK US",
-            "datacoverage": 0.1714,
-            "id": "COOP:344010",
-            "elevationUnit": "METERS",
-            "longitude": -94.6
         },
         {
             "elevation": 458.1,
@@ -2244,7 +1971,7 @@
             "maxdate": "1974-06-01",
             "latitude": 34.51667,
             "name": "HENNEPIN, OK US",
-            "datacoverage": 0.9523,
+            "datacoverage": 0.0294,
             "id": "COOP:344051",
             "elevationUnit": "METERS",
             "longitude": -97.35
@@ -2272,23 +1999,12 @@
             "longitude": -97.8349
         },
         {
-            "elevation": 302.1,
-            "mindate": "1940-01-01",
-            "maxdate": "1957-05-01",
-            "latitude": 36.86667,
-            "name": "HERD, OK US",
-            "datacoverage": 0.9092,
-            "id": "COOP:344064",
-            "elevationUnit": "METERS",
-            "longitude": -96.2
-        },
-        {
             "elevation": 253.3,
-            "mindate": "1949-04-01",
+            "mindate": "1949-06-01",
             "maxdate": "1997-08-01",
             "latitude": 35.95,
             "name": "HEYBURN DAM, OK US",
-            "datacoverage": 0.9737,
+            "datacoverage": 0.0351,
             "id": "COOP:344098",
             "elevationUnit": "METERS",
             "longitude": -96.28333
@@ -2437,17 +2153,6 @@
             "longitude": -95.4
         },
         {
-            "elevation": 220.1,
-            "mindate": "1947-10-01",
-            "maxdate": "1949-07-13",
-            "latitude": 36.93333,
-            "name": "HULAH, OK US",
-            "datacoverage": 0.7509,
-            "id": "COOP:344388",
-            "elevationUnit": "METERS",
-            "longitude": -96.03333
-        },
-        {
             "elevation": 226.8,
             "mindate": "1946-06-01",
             "maxdate": "1997-06-01",
@@ -2558,28 +2263,6 @@
             "longitude": -102.965
         },
         {
-            "elevation": 1321,
-            "mindate": "1941-01-01",
-            "maxdate": "1957-04-01",
-            "latitude": 36.98333,
-            "name": "KENTON 6 N, OK US",
-            "datacoverage": 0.8727,
-            "id": "COOP:344771",
-            "elevationUnit": "METERS",
-            "longitude": -102.98333
-        },
-        {
-            "elevation": 267.9,
-            "mindate": "1948-06-01",
-            "maxdate": "1964-12-01",
-            "latitude": 36.13333,
-            "name": "KEYSTONE 3 SSW, OK US",
-            "datacoverage": 0.8592,
-            "id": "COOP:344807",
-            "elevationUnit": "METERS",
-            "longitude": -96.28333
-        },
-        {
             "elevation": 214.9,
             "mindate": "1957-08-01",
             "maxdate": "1997-07-01",
@@ -2589,17 +2272,6 @@
             "id": "COOP:344812",
             "elevationUnit": "METERS",
             "longitude": -96.25
-        },
-        {
-            "elevation": 793.1,
-            "mindate": "1938-11-01",
-            "maxdate": "1969-09-01",
-            "latitude": 34.63333,
-            "name": "KIAMICHI TOWER, OK US",
-            "datacoverage": 0.8868,
-            "id": "COOP:344820",
-            "elevationUnit": "METERS",
-            "longitude": -94.81667
         },
         {
             "elevation": 322.8,
@@ -2646,17 +2318,6 @@
             "longitude": -96.75
         },
         {
-            "elevation": 342,
-            "mindate": "1940-09-01",
-            "maxdate": "1948-08-01",
-            "latitude": 36.55,
-            "name": "KREMLIN, OK US",
-            "datacoverage": 0.875,
-            "id": "COOP:344928",
-            "elevationUnit": "METERS",
-            "longitude": -97.83333
-        },
-        {
             "elevation": 388.6,
             "mindate": "1984-01-01",
             "maxdate": "2015-11-01",
@@ -2677,17 +2338,6 @@
             "id": "COOP:344951",
             "elevationUnit": "METERS",
             "longitude": -98.11139
-        },
-        {
-            "elevation": 289.9,
-            "mindate": "1941-09-01",
-            "maxdate": "1953-01-01",
-            "latitude": 36.15,
-            "name": "LAKE C BLACKWELL, OK US",
-            "datacoverage": 0.855,
-            "id": "COOP:344969",
-            "elevationUnit": "METERS",
-            "longitude": -97.18333
         },
         {
             "elevation": 259.1,
@@ -2787,17 +2437,6 @@
             "id": "COOP:345066",
             "elevationUnit": "METERS",
             "longitude": -98.4172
-        },
-        {
-            "elevation": 342,
-            "mindate": "1923-01-01",
-            "maxdate": "1950-08-01",
-            "latitude": 34.65,
-            "name": "LAWTON 2 N, OK US",
-            "datacoverage": 0.4578,
-            "id": "COOP:345068",
-            "elevationUnit": "METERS",
-            "longitude": -98.4
         },
         {
             "elevation": 627.9,
@@ -2987,17 +2626,6 @@
             "longitude": -97.9786
         },
         {
-            "elevation": 348.1,
-            "mindate": "1958-03-01",
-            "maxdate": "1964-06-23",
-            "latitude": 34.61667,
-            "name": "MARLOW 8 WSW, OK US",
-            "datacoverage": 0.0325,
-            "id": "COOP:345582",
-            "elevationUnit": "METERS",
-            "longitude": -98.08333
-        },
-        {
             "elevation": 317.3,
             "mindate": "1951-02-01",
             "maxdate": "2015-11-01",
@@ -3029,17 +2657,6 @@
             "id": "COOP:345648",
             "elevationUnit": "METERS",
             "longitude": -99.8769
-        },
-        {
-            "elevation": 204.2,
-            "mindate": "1914-01-01",
-            "maxdate": "1958-12-01",
-            "latitude": 34.95,
-            "name": "MCALESTER 4 W, OK US",
-            "datacoverage": 0.8611,
-            "id": "COOP:345662",
-            "elevationUnit": "METERS",
-            "longitude": -95.83333
         },
         {
             "elevation": 237.7,
@@ -3207,15 +2824,6 @@
             "longitude": -95.3338
         },
         {
-            "mindate": "1914-01-01",
-            "maxdate": "1948-05-01",
-            "latitude": 35.76667,
-            "name": "MUSKOGEE RIVER, OK US",
-            "datacoverage": 0.1937,
-            "id": "COOP:346132",
-            "longitude": -95.26667
-        },
-        {
             "elevation": 576.1,
             "mindate": "1914-01-01",
             "maxdate": "2015-11-01",
@@ -3249,17 +2857,6 @@
             "longitude": -96.9104
         },
         {
-            "elevation": 353.9,
-            "mindate": "1947-10-01",
-            "maxdate": "1967-01-01",
-            "latitude": 34.95,
-            "name": "NINNEKAH, OK US",
-            "datacoverage": 0.465,
-            "id": "COOP:346328",
-            "elevationUnit": "METERS",
-            "longitude": -97.93333
-        },
-        {
             "elevation": 356,
             "mindate": "2009-02-01",
             "maxdate": "2015-11-01",
@@ -3291,17 +2888,6 @@
             "id": "COOP:346386",
             "elevationUnit": "METERS",
             "longitude": -97.4377
-        },
-        {
-            "elevation": 356.9,
-            "mindate": "1937-05-01",
-            "maxdate": "1956-06-01",
-            "latitude": 35.21667,
-            "name": "NORMAN UNIVERSITY OF OKLAH, OK US",
-            "datacoverage": 0.9565,
-            "id": "COOP:346391",
-            "elevationUnit": "METERS",
-            "longitude": -97.43333
         },
         {
             "elevation": 216.4,
@@ -3342,7 +2928,7 @@
             "maxdate": "2014-01-01",
             "latitude": 36.06667,
             "name": "OILTON 2 SE, OK US",
-            "datacoverage": 0.2856,
+            "datacoverage": 0.0196,
             "id": "COOP:346616",
             "elevationUnit": "METERS",
             "longitude": -96.56667
@@ -3357,17 +2943,6 @@
             "id": "COOP:346620",
             "elevationUnit": "METERS",
             "longitude": -97.97138
-        },
-        {
-            "elevation": 167.9,
-            "mindate": "1920-01-01",
-            "maxdate": "1949-03-01",
-            "latitude": 35.88333,
-            "name": "OKAY 2 NE, OK US",
-            "datacoverage": 0.9488,
-            "id": "COOP:346625",
-            "elevationUnit": "METERS",
-            "longitude": -95.28333
         },
         {
             "elevation": 158.5,
@@ -3401,17 +2976,6 @@
             "id": "COOP:346638",
             "elevationUnit": "METERS",
             "longitude": -96.3033
-        },
-        {
-            "elevation": 244.1,
-            "mindate": "1947-11-01",
-            "maxdate": "1950-11-01",
-            "latitude": 35.45,
-            "name": "OKEMAH 2, OK US",
-            "datacoverage": 0.8333,
-            "id": "COOP:346643",
-            "elevationUnit": "METERS",
-            "longitude": -96.3
         },
         {
             "elevation": 385,
@@ -3551,21 +3115,10 @@
             "maxdate": "1975-11-01",
             "latitude": 36.16667,
             "name": "ORLANDO 1 NNE, OK US",
-            "datacoverage": 0.2325,
+            "datacoverage": 0.0264,
             "id": "COOP:346760",
             "elevationUnit": "METERS",
             "longitude": -97.36667
-        },
-        {
-            "elevation": 262.1,
-            "mindate": "1944-07-01",
-            "maxdate": "1955-01-01",
-            "latitude": 34.03333,
-            "name": "ORR, OK US",
-            "datacoverage": 0.732,
-            "id": "COOP:346764",
-            "elevationUnit": "METERS",
-            "longitude": -97.53333
         },
         {
             "elevation": 298.7,
@@ -3584,21 +3137,10 @@
             "maxdate": "2014-01-01",
             "latitude": 34.823,
             "name": "PAOLI 2 W, OK US",
-            "datacoverage": 0.7559,
+            "datacoverage": 0.0272,
             "id": "COOP:346859",
             "elevationUnit": "METERS",
             "longitude": -97.285
-        },
-        {
-            "elevation": 217,
-            "mindate": "1959-09-01",
-            "maxdate": "1965-06-01",
-            "latitude": 34.71667,
-            "name": "PARKER 1 S, OK US",
-            "datacoverage": 0.9146,
-            "id": "COOP:346901",
-            "elevationUnit": "METERS",
-            "longitude": -96.18333
         },
         {
             "elevation": 286.5,
@@ -3639,7 +3181,7 @@
             "maxdate": "2015-11-01",
             "latitude": 36.3566,
             "name": "PAWNEE, OK US",
-            "datacoverage": 1,
+            "datacoverage": 0.9526,
             "id": "COOP:346940",
             "elevationUnit": "METERS",
             "longitude": -96.8108
@@ -3650,21 +3192,10 @@
             "maxdate": "2014-01-01",
             "latitude": 36.4075,
             "name": "PAWNEE 5 N, OK US",
-            "datacoverage": 0.7734,
+            "datacoverage": 0.0258,
             "id": "COOP:346944",
             "elevationUnit": "METERS",
             "longitude": -96.8144
-        },
-        {
-            "elevation": 195.1,
-            "mindate": "1924-01-01",
-            "maxdate": "1948-06-01",
-            "latitude": 36.45,
-            "name": "PENSACOLA, OK US",
-            "datacoverage": 0.8878,
-            "id": "COOP:346989",
-            "elevationUnit": "METERS",
-            "longitude": -95.13333
         },
         {
             "elevation": 292,
@@ -3755,17 +3286,6 @@
             "longitude": -96.6223
         },
         {
-            "elevation": 954.9,
-            "mindate": "1941-01-01",
-            "maxdate": "1947-08-01",
-            "latitude": 36.91667,
-            "name": "PONY CREEK, OK US",
-            "datacoverage": 0.8629,
-            "id": "COOP:347219",
-            "elevationUnit": "METERS",
-            "longitude": -101.5
-        },
-        {
             "elevation": 203.9,
             "mindate": "1917-09-01",
             "maxdate": "1985-08-01",
@@ -3833,7 +3353,7 @@
         },
         {
             "elevation": 259.1,
-            "mindate": "1947-12-01",
+            "mindate": "1949-05-01",
             "maxdate": "1989-12-01",
             "latitude": 36.96667,
             "name": "QUAPAW, OK US",
@@ -3975,17 +3495,6 @@
             "longitude": -99.91056
         },
         {
-            "elevation": 662,
-            "mindate": "1947-10-01",
-            "maxdate": "1965-10-18",
-            "latitude": 35.75,
-            "name": "REYDON 7 NNE, OK US",
-            "datacoverage": 0.7441,
-            "id": "COOP:347588",
-            "elevationUnit": "METERS",
-            "longitude": -99.86667
-        },
-        {
             "elevation": 282.9,
             "mindate": "2009-02-01",
             "maxdate": "2015-11-01",
@@ -4002,7 +3511,7 @@
             "maxdate": "2014-01-01",
             "latitude": 36.7888,
             "name": "RIVERSIDE 4 W, OK US",
-            "datacoverage": 0.8371,
+            "datacoverage": 0.0168,
             "id": "COOP:347660",
             "elevationUnit": "METERS",
             "longitude": -100.4183
@@ -4024,7 +3533,7 @@
             "maxdate": "2014-01-01",
             "latitude": 34.6373,
             "name": "ROFF 2 WNW, OK US",
-            "datacoverage": 0.8371,
+            "datacoverage": 0.0244,
             "id": "COOP:347705",
             "elevationUnit": "METERS",
             "longitude": -96.8821
@@ -4035,7 +3544,7 @@
             "maxdate": "1970-02-01",
             "latitude": 35.78333,
             "name": "ROLL, OK US",
-            "datacoverage": 0.5348,
+            "datacoverage": 0.0209,
             "id": "COOP:347714",
             "elevationUnit": "METERS",
             "longitude": -99.71667
@@ -4053,11 +3562,11 @@
         },
         {
             "elevation": 305.1,
-            "mindate": "1940-01-01",
+            "mindate": "1951-02-01",
             "maxdate": "1974-02-01",
             "latitude": 36.21667,
             "name": "ROSE, OK US",
-            "datacoverage": 0.8909,
+            "datacoverage": 0.0348,
             "id": "COOP:347732",
             "elevationUnit": "METERS",
             "longitude": -95.03333
@@ -4072,17 +3581,6 @@
             "id": "COOP:347739",
             "elevationUnit": "METERS",
             "longitude": -95.02917
-        },
-        {
-            "elevation": 189,
-            "mindate": "1928-07-01",
-            "maxdate": "1957-12-01",
-            "latitude": 36.36667,
-            "name": "SAGEEYAH, OK US",
-            "datacoverage": 0.9406,
-            "id": "COOP:347844",
-            "elevationUnit": "METERS",
-            "longitude": -95.66667
         },
         {
             "elevation": 201.2,
@@ -4156,7 +3654,7 @@
             "maxdate": "1970-08-01",
             "latitude": 36.18222,
             "name": "SEILING 3 N, OK US",
-            "datacoverage": 0.6912,
+            "datacoverage": 0.0196,
             "id": "COOP:348029",
             "elevationUnit": "METERS",
             "longitude": -98.92083
@@ -4173,32 +3671,12 @@
             "longitude": -96.65298
         },
         {
-            "mindate": "1947-11-01",
-            "maxdate": "1947-11-01",
-            "latitude": 35.85,
-            "name": "SEQUOYAH O T S, OK US",
-            "datacoverage": 1,
-            "id": "COOP:348056",
-            "longitude": -95
-        },
-        {
-            "elevation": 683.1,
-            "mindate": "1921-06-01",
-            "maxdate": "1948-07-01",
-            "latitude": 36.26667,
-            "name": "SHATTUCK, OK US",
-            "datacoverage": 0.3006,
-            "id": "COOP:348092",
-            "elevationUnit": "METERS",
-            "longitude": -99.88333
-        },
-        {
             "elevation": 669,
             "mindate": "1947-10-01",
             "maxdate": "2014-01-01",
             "latitude": 36.2892,
             "name": "SHATTUCK 1 NW, OK US",
-            "datacoverage": 0.8533,
+            "datacoverage": 0.0177,
             "id": "COOP:348101",
             "elevationUnit": "METERS",
             "longitude": -99.8932
@@ -4270,17 +3748,6 @@
             "longitude": -94.64278
         },
         {
-            "elevation": 179.8,
-            "mindate": "1947-10-01",
-            "maxdate": "1980-11-01",
-            "latitude": 35.1,
-            "name": "SNOMAC, OK US",
-            "datacoverage": 0.7673,
-            "id": "COOP:348290",
-            "elevationUnit": "METERS",
-            "longitude": -96.61667
-        },
-        {
             "elevation": 429.8,
             "mindate": "1914-01-01",
             "maxdate": "2011-12-01",
@@ -4301,17 +3768,6 @@
             "id": "COOP:348305",
             "elevationUnit": "METERS",
             "longitude": -95.23333
-        },
-        {
-            "elevation": 232,
-            "mindate": "1942-04-01",
-            "maxdate": "1954-05-01",
-            "latitude": 36.55,
-            "name": "SOUTH GRAND LAKE, OK US",
-            "datacoverage": 0.9452,
-            "id": "COOP:348335",
-            "elevationUnit": "METERS",
-            "longitude": -94.9
         },
         {
             "elevation": 208.8,
@@ -4336,17 +3792,6 @@
             "longitude": -97.34139
         },
         {
-            "elevation": 164.9,
-            "mindate": "1941-08-01",
-            "maxdate": "1956-11-01",
-            "latitude": 34.15,
-            "name": "SPENCERVILLE 1 E, OK US",
-            "datacoverage": 0.9075,
-            "id": "COOP:348407",
-            "elevationUnit": "METERS",
-            "longitude": -95.35
-        },
-        {
             "elevation": 150.9,
             "mindate": "1941-09-01",
             "maxdate": "2009-02-01",
@@ -4369,17 +3814,6 @@
             "longitude": -94.55
         },
         {
-            "elevation": 305.1,
-            "mindate": "1947-10-01",
-            "maxdate": "1951-02-01",
-            "latitude": 36.3,
-            "name": "STEELEY, OK US",
-            "datacoverage": 0.1379,
-            "id": "COOP:348470",
-            "elevationUnit": "METERS",
-            "longitude": -94.88333
-        },
-        {
             "elevation": 368.5,
             "mindate": "1989-06-01",
             "maxdate": "2013-12-01",
@@ -4392,11 +3826,11 @@
         },
         {
             "elevation": 173.7,
-            "mindate": "1938-11-01",
+            "mindate": "1947-10-01",
             "maxdate": "2005-01-01",
             "latitude": 35.24528,
             "name": "STIGLER 1 SE, OK US",
-            "datacoverage": 0.847,
+            "datacoverage": 0.0315,
             "id": "COOP:348497",
             "elevationUnit": "METERS",
             "longitude": -95.11444
@@ -4567,17 +4001,6 @@
             "longitude": -95.05
         },
         {
-            "elevation": 1064.1,
-            "mindate": "1941-01-01",
-            "maxdate": "1957-10-01",
-            "latitude": 36.5,
-            "name": "TEXHOMA, OK US",
-            "datacoverage": 0.8515,
-            "id": "COOP:348798",
-            "elevationUnit": "METERS",
-            "longitude": -101.73333
-        },
-        {
             "elevation": 543.2,
             "mindate": "1988-11-01",
             "maxdate": "2005-03-01",
@@ -4622,17 +4045,6 @@
             "longitude": -96.679
         },
         {
-            "elevation": 313.9,
-            "mindate": "1941-08-01",
-            "maxdate": "1965-06-01",
-            "latitude": 35.13333,
-            "name": "TRIBBEY 1 N, OK US",
-            "datacoverage": 0.9582,
-            "id": "COOP:348951",
-            "elevationUnit": "METERS",
-            "longitude": -97.05
-        },
-        {
             "elevation": 304.8,
             "mindate": "1993-12-01",
             "maxdate": "2000-09-01",
@@ -4644,17 +4056,6 @@
             "longitude": -97.03333
         },
         {
-            "elevation": 207,
-            "mindate": "1914-01-01",
-            "maxdate": "1959-08-01",
-            "latitude": 36.15,
-            "name": "TULSA, OK US",
-            "datacoverage": 0.9727,
-            "id": "COOP:348987",
-            "elevationUnit": "METERS",
-            "longitude": -96
-        },
-        {
             "elevation": 198.1,
             "mindate": "1947-01-01",
             "maxdate": "2015-11-01",
@@ -4664,17 +4065,6 @@
             "id": "COOP:348992",
             "elevationUnit": "METERS",
             "longitude": -95.8872
-        },
-        {
-            "elevation": 836.1,
-            "mindate": "1947-10-01",
-            "maxdate": "1949-11-01",
-            "latitude": 36.86667,
-            "name": "TURPIN, OK US",
-            "datacoverage": 0.2938,
-            "id": "COOP:349014",
-            "elevationUnit": "METERS",
-            "longitude": -100.86667
         },
         {
             "elevation": 824.5,
@@ -4897,28 +4287,6 @@
             "longitude": -98.52611
         },
         {
-            "elevation": 360,
-            "mindate": "1922-05-01",
-            "maxdate": "1954-08-01",
-            "latitude": 36.18333,
-            "name": "WATTS 5 N, OK US",
-            "datacoverage": 0.9303,
-            "id": "COOP:349382",
-            "elevationUnit": "METERS",
-            "longitude": -94.56667
-        },
-        {
-            "elevation": 381,
-            "mindate": "1914-01-01",
-            "maxdate": "1958-07-01",
-            "latitude": 36.28333,
-            "name": "WAUKOMIS, OK US",
-            "datacoverage": 0.9776,
-            "id": "COOP:349391",
-            "elevationUnit": "METERS",
-            "longitude": -97.9
-        },
-        {
             "elevation": 278,
             "mindate": "1914-01-01",
             "maxdate": "2008-07-01",
@@ -5029,17 +4397,6 @@
             "longitude": -96.65
         },
         {
-            "elevation": 232,
-            "mindate": "1941-08-01",
-            "maxdate": "1950-12-01",
-            "latitude": 35.23333,
-            "name": "WETUMKA SOIL CONSERVATION SERVICE, OK US",
-            "datacoverage": 0.6282,
-            "id": "COOP:349566",
-            "elevationUnit": "METERS",
-            "longitude": -96.23333
-        },
-        {
             "elevation": 213.4,
             "mindate": "1947-02-01",
             "maxdate": "2006-09-01",
@@ -5062,17 +4419,6 @@
             "longitude": -96.5389
         },
         {
-            "elevation": 164.9,
-            "mindate": "1947-08-01",
-            "maxdate": "1968-12-01",
-            "latitude": 35.26667,
-            "name": "WHITEFIELD 1 N, OK US",
-            "datacoverage": 0.8675,
-            "id": "COOP:349611",
-            "elevationUnit": "METERS",
-            "longitude": -95.23333
-        },
-        {
             "elevation": 507.5,
             "mindate": "1916-02-01",
             "maxdate": "2015-11-01",
@@ -5093,17 +4439,6 @@
             "id": "COOP:349634",
             "elevationUnit": "METERS",
             "longitude": -95.17111
-        },
-        {
-            "elevation": 200.9,
-            "mindate": "1956-02-01",
-            "maxdate": "1965-12-01",
-            "latitude": 33.88333,
-            "name": "WILLIS OK UNIVERSITY BIO S, OK US",
-            "datacoverage": 0.8572,
-            "id": "COOP:349662",
-            "elevationUnit": "METERS",
-            "longitude": -96.8
         },
         {
             "elevation": 531.9,
@@ -5183,17 +4518,6 @@
             "longitude": -99.41667
         },
         {
-            "elevation": 232,
-            "mindate": "1914-01-01",
-            "maxdate": "1968-02-01",
-            "latitude": 36.81667,
-            "name": "WYANDOTTE 1 N, OK US",
-            "datacoverage": 0.9354,
-            "id": "COOP:349773",
-            "elevationUnit": "METERS",
-            "longitude": -94.71667
-        },
-        {
             "elevation": 185.9,
             "mindate": "1947-12-01",
             "maxdate": "1975-05-01",
@@ -5216,17 +4540,6 @@
             "longitude": -94.63333
         },
         {
-            "elevation": 129.5,
-            "mindate": "1931-02-01",
-            "maxdate": "1970-09-01",
-            "latitude": 33.87556,
-            "name": "ARTHUR CITY, OK US",
-            "datacoverage": 0.9707,
-            "id": "COOP:410367",
-            "elevationUnit": "METERS",
-            "longitude": -95.50222
-        },
-        {
             "elevation": 290.5,
             "mindate": "1996-06-01",
             "maxdate": "2003-04-01",
@@ -5247,17 +4560,6 @@
             "id": "COOP:414196",
             "elevationUnit": "METERS",
             "longitude": -101.35
-        },
-        {
-            "elevation": 591.9,
-            "mindate": "1944-08-01",
-            "maxdate": "1949-10-01",
-            "latitude": 34.9,
-            "name": "SHINNERY STORE, OK US",
-            "datacoverage": 0.0085,
-            "id": "COOP:418289",
-            "elevationUnit": "METERS",
-            "longitude": -100
         },
         {
             "elevation": 281.9,
@@ -10364,17 +9666,6 @@
             "longitude": -96.685
         },
         {
-            "elevation": 207,
-            "mindate": "1948-03-01",
-            "maxdate": "1951-09-30",
-            "latitude": 36.43333,
-            "name": "ADAIR 1 E, OK US",
-            "datacoverage": 0.9534,
-            "id": "GHCND:USC00340026",
-            "elevationUnit": "METERS",
-            "longitude": -95.25
-        },
-        {
             "elevation": 294.7,
             "mindate": "2009-02-01",
             "maxdate": "2020-04-01",
@@ -10439,17 +9730,6 @@
             "id": "GHCND:USC00340184",
             "elevationUnit": "METERS",
             "longitude": -99.2964
-        },
-        {
-            "elevation": 438.9,
-            "mindate": "1948-05-01",
-            "maxdate": "1951-09-30",
-            "latitude": 34.71667,
-            "name": "ALTUS 7 NE, OK US",
-            "datacoverage": 0.6097,
-            "id": "GHCND:USC00340188",
-            "elevationUnit": "METERS",
-            "longitude": -99.26667
         },
         {
             "elevation": 446.2,
@@ -10518,17 +9798,6 @@
             "longitude": -98.1988
         },
         {
-            "elevation": 555,
-            "mindate": "1948-03-01",
-            "maxdate": "1951-09-30",
-            "latitude": 35.75,
-            "name": "ANTHON 6 W, OK US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00340242",
-            "elevationUnit": "METERS",
-            "longitude": -99.1
-        },
-        {
             "elevation": 143.3,
             "mindate": "1918-01-01",
             "maxdate": "2020-05-17",
@@ -10571,15 +9840,6 @@
             "id": "GHCND:USC00340264",
             "elevationUnit": "METERS",
             "longitude": -98.2922
-        },
-        {
-            "mindate": "1893-07-01",
-            "maxdate": "1930-12-31",
-            "latitude": 35.583333,
-            "name": "ARAPAHO, OK US",
-            "datacoverage": 0.9533,
-            "id": "GHCND:USC00340277",
-            "longitude": -98.966667
         },
         {
             "elevation": 309.1,
@@ -10681,17 +9941,6 @@
             "longitude": -96.06667
         },
         {
-            "elevation": 187.1,
-            "mindate": "1908-10-01",
-            "maxdate": "1918-06-30",
-            "latitude": 35.766667,
-            "name": "BACONE, OK US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00340445",
-            "elevationUnit": "METERS",
-            "longitude": -95.333333
-        },
-        {
             "elevation": 331.9,
             "mindate": "1952-05-01",
             "maxdate": "1980-07-31",
@@ -10723,17 +9972,6 @@
             "id": "GHCND:USC00340546",
             "elevationUnit": "METERS",
             "longitude": -96.0116
-        },
-        {
-            "elevation": 182.9,
-            "mindate": "1948-01-01",
-            "maxdate": "1951-12-31",
-            "latitude": 34.4,
-            "name": "BATTIEST, OK US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00340562",
-            "elevationUnit": "METERS",
-            "longitude": -94.93333
         },
         {
             "elevation": 250.5,
@@ -10824,15 +10062,6 @@
             "longitude": -97.4472
         },
         {
-            "mindate": "1903-06-01",
-            "maxdate": "1906-05-31",
-            "latitude": 35.3,
-            "name": "BINGER, OK US",
-            "datacoverage": 0.8054,
-            "id": "GHCND:USC00340760",
-            "longitude": -98.5
-        },
-        {
             "elevation": 184.4,
             "mindate": "1943-11-01",
             "maxdate": "2010-12-31",
@@ -10842,17 +10071,6 @@
             "id": "GHCND:USC00340782",
             "elevationUnit": "METERS",
             "longitude": -95.88333
-        },
-        {
-            "elevation": 243.8,
-            "mindate": "1900-02-01",
-            "maxdate": "1912-08-31",
-            "latitude": 36.366667,
-            "name": "BLACKBURN, OK US",
-            "datacoverage": 0.7816,
-            "id": "GHCND:USC00340800",
-            "elevationUnit": "METERS",
-            "longitude": -96.6
         },
         {
             "elevation": 303.9,
@@ -10921,17 +10139,6 @@
             "longitude": -96.13417
         },
         {
-            "elevation": 274.3,
-            "mindate": "1941-08-01",
-            "maxdate": "1942-06-30",
-            "latitude": 35.5,
-            "name": "BOLEY SOIL CONSERVATION SERVICE NUMBER 1, OK US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00340930",
-            "elevationUnit": "METERS",
-            "longitude": -96.5
-        },
-        {
             "elevation": 167.6,
             "mindate": "1941-08-01",
             "maxdate": "2010-12-31",
@@ -10996,6 +10203,809 @@
             "id": "GHCND:USC00341144",
             "elevationUnit": "METERS",
             "longitude": -96.3916
+        },
+        {
+            "elevation": 210,
+            "mindate": "1941-08-01",
+            "maxdate": "1975-07-31",
+            "latitude": 36.03333,
+            "name": "BROKEN ARROW 2 SW, OK US",
+            "datacoverage": 0.9636,
+            "id": "GHCND:USC00341157",
+            "elevationUnit": "METERS",
+            "longitude": -95.81667
+        },
+        {
+            "elevation": 144.8,
+            "mindate": "1917-11-01",
+            "maxdate": "2020-04-27",
+            "latitude": 34.0497,
+            "name": "BROKEN BOW 1 N, OK US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00341162",
+            "elevationUnit": "METERS",
+            "longitude": -94.738
+        },
+        {
+            "elevation": 135,
+            "mindate": "1964-09-01",
+            "maxdate": "2016-03-01",
+            "latitude": 34.13333,
+            "name": "BROKEN BOW DAM, OK US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00341168",
+            "elevationUnit": "METERS",
+            "longitude": -94.7
+        },
+        {
+            "elevation": 559,
+            "mindate": "2009-02-01",
+            "maxdate": "2020-04-01",
+            "latitude": 36.8313,
+            "name": "BUFFALO 1 SW MESONET, OK US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00341240",
+            "elevationUnit": "METERS",
+            "longitude": -99.641
+        },
+        {
+            "elevation": 588.6,
+            "mindate": "1907-02-01",
+            "maxdate": "2013-01-01",
+            "latitude": 36.8002,
+            "name": "BUFFALO, OK US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00341243",
+            "elevationUnit": "METERS",
+            "longitude": -99.6399
+        },
+        {
+            "elevation": 297.2,
+            "mindate": "1948-01-01",
+            "maxdate": "2011-01-31",
+            "latitude": 36.69278,
+            "name": "BURBANK, OK US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00341256",
+            "elevationUnit": "METERS",
+            "longitude": -96.73194
+        },
+        {
+            "elevation": 228,
+            "mindate": "2009-02-01",
+            "maxdate": "2020-04-01",
+            "latitude": 33.89361,
+            "name": "BURNEYVILLE 2 SE MESONET, OK US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00341266",
+            "elevationUnit": "METERS",
+            "longitude": -97.26917
+        },
+        {
+            "elevation": 520,
+            "mindate": "2009-02-01",
+            "maxdate": "2020-04-01",
+            "latitude": 35.59139,
+            "name": "BUTLER 5 SW MESONET, OK US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00341270",
+            "elevationUnit": "METERS",
+            "longitude": -99.27056
+        },
+        {
+            "elevation": 344.7,
+            "mindate": "2009-02-01",
+            "maxdate": "2020-04-01",
+            "latitude": 34.84944,
+            "name": "BYARS 3 ESE MESONET, OK US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00341283",
+            "elevationUnit": "METERS",
+            "longitude": -97.00306
+        },
+        {
+            "elevation": 243.8,
+            "mindate": "1904-09-01",
+            "maxdate": "2014-09-01",
+            "latitude": 34.9643,
+            "name": "CALVIN, OK US",
+            "datacoverage": 0.9864,
+            "id": "GHCND:USC00341391",
+            "elevationUnit": "METERS",
+            "longitude": -96.2495
+        },
+        {
+            "elevation": 591.9,
+            "mindate": "1923-01-01",
+            "maxdate": "1975-09-30",
+            "latitude": 36.01667,
+            "name": "CAMARGO, OK US",
+            "datacoverage": 0.9621,
+            "id": "GHCND:USC00341396",
+            "elevationUnit": "METERS",
+            "longitude": -99.28333
+        },
+        {
+            "elevation": 588.9,
+            "mindate": "2009-02-01",
+            "maxdate": "2020-04-01",
+            "latitude": 36.02861,
+            "name": "CAMARGO 4 WNW MESONET, OK US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00341404",
+            "elevationUnit": "METERS",
+            "longitude": -99.34639
+        },
+        {
+            "elevation": 172.2,
+            "mindate": "2000-03-01",
+            "maxdate": "2009-11-30",
+            "latitude": 34.23,
+            "name": "CANEY 1 E, OK US",
+            "datacoverage": 0.9741,
+            "id": "GHCND:USC00341437",
+            "elevationUnit": "METERS",
+            "longitude": -96.195
+        },
+        {
+            "elevation": 484.6,
+            "mindate": "1943-05-01",
+            "maxdate": "2010-12-31",
+            "latitude": 36.06167,
+            "name": "CANTON, OK US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00341445",
+            "elevationUnit": "METERS",
+            "longitude": -98.59
+        },
+        {
+            "elevation": 304.8,
+            "mindate": "1938-11-01",
+            "maxdate": "2010-12-31",
+            "latitude": 34.14417,
+            "name": "CARNASAW TOWER, OK US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00341499",
+            "elevationUnit": "METERS",
+            "longitude": -94.63778
+        },
+        {
+            "elevation": 451.4,
+            "mindate": "1914-04-01",
+            "maxdate": "2010-12-31",
+            "latitude": 35.17556,
+            "name": "CARNEGIE, OK US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00341504",
+            "elevationUnit": "METERS",
+            "longitude": -98.57944
+        },
+        {
+            "elevation": 396.2,
+            "mindate": "1939-01-01",
+            "maxdate": "2010-12-31",
+            "latitude": 34.2661,
+            "name": "CARTER TOWER, OK US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00341544",
+            "elevationUnit": "METERS",
+            "longitude": -94.7753
+        },
+        {
+            "elevation": 559.3,
+            "mindate": "1991-01-01",
+            "maxdate": "2010-12-31",
+            "latitude": 36.31083,
+            "name": "CEDARDALE, OK US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00341620",
+            "elevationUnit": "METERS",
+            "longitude": -98.98028
+        },
+        {
+            "elevation": 207.9,
+            "mindate": "2009-02-01",
+            "maxdate": "2020-04-01",
+            "latitude": 34.60889,
+            "name": "CENTRAHOMA 1 E MESONET, OK US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00341644",
+            "elevationUnit": "METERS",
+            "longitude": -96.33306
+        },
+        {
+            "elevation": 216.4,
+            "mindate": "1948-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 34.6008,
+            "name": "CENTRAHOMA 2 ESE, OK US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00341648",
+            "elevationUnit": "METERS",
+            "longitude": -96.3131
+        },
+        {
+            "elevation": 292,
+            "mindate": "1901-01-01",
+            "maxdate": "2020-05-11",
+            "latitude": 35.7062,
+            "name": "CHANDLER, OK US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00341684",
+            "elevationUnit": "METERS",
+            "longitude": -96.8801
+        },
+        {
+            "elevation": 290.8,
+            "mindate": "2009-12-01",
+            "maxdate": "2020-04-01",
+            "latitude": 35.6528,
+            "name": "CHANDLER 5 SE MESONET, OK US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00341685",
+            "elevationUnit": "METERS",
+            "longitude": -96.8041
+        },
+        {
+            "elevation": 349.9,
+            "mindate": "1905-01-01",
+            "maxdate": "2020-05-15",
+            "latitude": 34.4224,
+            "name": "CHATTANOOGA, OK US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00341706",
+            "elevationUnit": "METERS",
+            "longitude": -98.6496
+        },
+        {
+            "elevation": 193.5,
+            "mindate": "1948-01-01",
+            "maxdate": "2010-12-31",
+            "latitude": 35.47222,
+            "name": "CHECOTAH, OK US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00341711",
+            "elevationUnit": "METERS",
+            "longitude": -95.52194
+        },
+        {
+            "elevation": 224,
+            "mindate": "1983-01-01",
+            "maxdate": "2010-12-31",
+            "latitude": 36.48056,
+            "name": "CHELSEA 4 S, OK US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00341717",
+            "elevationUnit": "METERS",
+            "longitude": -95.42111
+        },
+        {
+            "elevation": 377.6,
+            "mindate": "1915-06-01",
+            "maxdate": "2014-12-01",
+            "latitude": 36.7673,
+            "name": "CHEROKEE, OK US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00341724",
+            "elevationUnit": "METERS",
+            "longitude": -98.4244
+        },
+        {
+            "elevation": 361.8,
+            "mindate": "2009-02-01",
+            "maxdate": "2020-04-01",
+            "latitude": 36.7481,
+            "name": "CHEROKEE 1 SSW MESONET, OK US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00341726",
+            "elevationUnit": "METERS",
+            "longitude": -98.3627
+        },
+        {
+            "elevation": 611.1,
+            "mindate": "1923-07-01",
+            "maxdate": "1994-12-31",
+            "latitude": 35.6,
+            "name": "CHEYENNE, OK US",
+            "datacoverage": 0.8916,
+            "id": "GHCND:USC00341738",
+            "elevationUnit": "METERS",
+            "longitude": -99.68333
+        },
+        {
+            "elevation": 694,
+            "mindate": "2009-02-01",
+            "maxdate": "2020-04-01",
+            "latitude": 35.5462,
+            "name": "CHEYENNE 6 SW MESONET, OK US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00341743",
+            "elevationUnit": "METERS",
+            "longitude": -99.7279
+        },
+        {
+            "elevation": 710.2,
+            "mindate": "2003-11-01",
+            "maxdate": "2016-03-01",
+            "latitude": 35.75389,
+            "name": "CHEYENNE 11 NW, OK US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00341744",
+            "elevationUnit": "METERS",
+            "longitude": -99.76278
+        },
+        {
+            "elevation": 319.1,
+            "mindate": "1978-11-01",
+            "maxdate": "2020-04-01",
+            "latitude": 34.49672,
+            "name": "CHICKASAW NRA, OK US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00341745",
+            "elevationUnit": "METERS",
+            "longitude": -96.97052
+        },
+        {
+            "elevation": 330.7,
+            "mindate": "1953-06-01",
+            "maxdate": "2020-05-17",
+            "latitude": 35.0488,
+            "name": "CHICKASHA EXPERIMENT STATION, OK US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00341750",
+            "elevationUnit": "METERS",
+            "longitude": -97.9158
+        },
+        {
+            "elevation": 328,
+            "mindate": "2009-02-01",
+            "maxdate": "2020-04-01",
+            "latitude": 35.03222,
+            "name": "CHICKASHA 2 SSE MESONET, OK US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00341756",
+            "elevationUnit": "METERS",
+            "longitude": -97.91444
+        },
+        {
+            "elevation": 179.2,
+            "mindate": "1900-04-01",
+            "maxdate": "2020-05-15",
+            "latitude": 36.3225,
+            "name": "CLAREMORE 2 ENE, OK US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00341828",
+            "elevationUnit": "METERS",
+            "longitude": -95.5808
+        },
+        {
+            "elevation": 207,
+            "mindate": "1981-10-01",
+            "maxdate": "2013-01-01",
+            "latitude": 34.6605,
+            "name": "CLAYTON 14 WNW, OK US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00341858",
+            "elevationUnit": "METERS",
+            "longitude": -95.5827
+        },
+        {
+            "elevation": 253,
+            "mindate": "1978-05-01",
+            "maxdate": "1982-12-31",
+            "latitude": 34.38333,
+            "name": "CLEBIT 2 ESE, OK US",
+            "datacoverage": 0.9991,
+            "id": "GHCND:USC00341873",
+            "elevationUnit": "METERS",
+            "longitude": -94.98333
+        },
+        {
+            "elevation": 242.3,
+            "mindate": "1948-03-01",
+            "maxdate": "1982-11-30",
+            "latitude": 36.3,
+            "name": "CLEVELAND, OK US",
+            "datacoverage": 0.952,
+            "id": "GHCND:USC00341900",
+            "elevationUnit": "METERS",
+            "longitude": -96.46667
+        },
+        {
+            "elevation": 280.4,
+            "mindate": "1984-01-01",
+            "maxdate": "2010-12-31",
+            "latitude": 36.29028,
+            "name": "CLEVELAND 4 WSW, OK US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00341902",
+            "elevationUnit": "METERS",
+            "longitude": -96.53694
+        },
+        {
+            "elevation": 478.5,
+            "mindate": "1936-08-01",
+            "maxdate": "2010-12-31",
+            "latitude": 35.50139,
+            "name": "CLINTON, OK US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00341909",
+            "elevationUnit": "METERS",
+            "longitude": -98.97722
+        },
+        {
+            "elevation": 458.1,
+            "mindate": "1893-06-01",
+            "maxdate": "1975-06-30",
+            "latitude": 35.23333,
+            "name": "CLOUD CHIEF 2 SE, OK US",
+            "datacoverage": 0.8955,
+            "id": "GHCND:USC00341927",
+            "elevationUnit": "METERS",
+            "longitude": -98.81667
+        },
+        {
+            "elevation": 366.1,
+            "mindate": "1938-11-01",
+            "maxdate": "1973-02-28",
+            "latitude": 34.38333,
+            "name": "CLOUDY TOWER, OK US",
+            "datacoverage": 0.7743,
+            "id": "GHCND:USC00341936",
+            "elevationUnit": "METERS",
+            "longitude": -95.25
+        },
+        {
+            "elevation": 185.9,
+            "mindate": "1904-01-01",
+            "maxdate": "1982-05-31",
+            "latitude": 34.55,
+            "name": "COALGATE 1 WNW, OK US",
+            "datacoverage": 0.755,
+            "id": "GHCND:USC00341954",
+            "elevationUnit": "METERS",
+            "longitude": -96.23333
+        },
+        {
+            "elevation": 227.7,
+            "mindate": "2000-03-01",
+            "maxdate": "2020-05-17",
+            "latitude": 34.27627,
+            "name": "COLEMAN 4 W, OK US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00342011",
+            "elevationUnit": "METERS",
+            "longitude": -96.49483
+        },
+        {
+            "elevation": 460.2,
+            "mindate": "1983-01-01",
+            "maxdate": "2018-01-31",
+            "latitude": 35.35,
+            "name": "COLONY, OK US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00342039",
+            "elevationUnit": "METERS",
+            "longitude": -98.6743
+        },
+        {
+            "elevation": 312.4,
+            "mindate": "1952-05-01",
+            "maxdate": "2018-12-31",
+            "latitude": 34.3622,
+            "name": "COMANCHE, OK US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00342054",
+            "elevationUnit": "METERS",
+            "longitude": -97.9737
+        },
+        {
+            "elevation": 476.7,
+            "mindate": "1936-07-01",
+            "maxdate": "2013-01-01",
+            "latitude": 35.30083,
+            "name": "CORDELL, OK US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00342125",
+            "elevationUnit": "METERS",
+            "longitude": -98.99583
+        },
+        {
+            "elevation": 375.5,
+            "mindate": "1980-10-01",
+            "maxdate": "2013-01-01",
+            "latitude": 34.7423,
+            "name": "COX CITY 2 NE, OK US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00342196",
+            "elevationUnit": "METERS",
+            "longitude": -97.7038
+        },
+        {
+            "elevation": 326.7,
+            "mindate": "2009-08-01",
+            "maxdate": "2020-04-01",
+            "latitude": 36.06417,
+            "name": "COYLE 7 N MESONET, OK US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00342207",
+            "elevationUnit": "METERS",
+            "longitude": -97.21278
+        },
+        {
+            "elevation": 327.4,
+            "mindate": "1940-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 35.9269,
+            "name": "CRESCENT, OK US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00342242",
+            "elevationUnit": "METERS",
+            "longitude": -97.6743
+        },
+        {
+            "elevation": 289.6,
+            "mindate": "1937-09-01",
+            "maxdate": "2013-06-01",
+            "latitude": 35.9802,
+            "name": "CUSHING, OK US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00342318",
+            "elevationUnit": "METERS",
+            "longitude": -96.7758
+        },
+        {
+            "elevation": 451.1,
+            "mindate": "1898-01-01",
+            "maxdate": "1975-10-31",
+            "latitude": 36.68333,
+            "name": "DACOMA 2 NE, OK US",
+            "datacoverage": 0.499,
+            "id": "GHCND:USC00342341",
+            "elevationUnit": "METERS",
+            "longitude": -98.55
+        },
+        {
+            "elevation": 223.7,
+            "mindate": "1944-07-01",
+            "maxdate": "2020-05-17",
+            "latitude": 34.54377,
+            "name": "DAISY 4 ENE, OK US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00342354",
+            "elevationUnit": "METERS",
+            "longitude": -95.67635
+        },
+        {
+            "elevation": 208.8,
+            "mindate": "1948-01-01",
+            "maxdate": "2010-12-31",
+            "latitude": 35.4561,
+            "name": "DEWAR 2 NE, OK US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00342485",
+            "elevationUnit": "METERS",
+            "longitude": -95.9072
+        },
+        {
+            "elevation": 342.9,
+            "mindate": "1936-10-01",
+            "maxdate": "2020-05-17",
+            "latitude": 34.5011,
+            "name": "DUNCAN, OK US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00342660",
+            "elevationUnit": "METERS",
+            "longitude": -97.9591
+        },
+        {
+            "elevation": 339.9,
+            "mindate": "1912-04-01",
+            "maxdate": "2020-05-17",
+            "latitude": 34.4932,
+            "name": "DUNCAN 10 W, OK US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00342668",
+            "elevationUnit": "METERS",
+            "longitude": -98.1419
+        },
+        {
+            "elevation": 182.9,
+            "mindate": "1901-01-01",
+            "maxdate": "2020-05-15",
+            "latitude": 34,
+            "name": "DURANT, OK US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00342678",
+            "elevationUnit": "METERS",
+            "longitude": -96.3686
+        },
+        {
+            "elevation": 196.9,
+            "mindate": "2009-02-01",
+            "maxdate": "2020-04-01",
+            "latitude": 33.9208,
+            "name": "DURANT 6 SSE MESONET, OK US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00342680",
+            "elevationUnit": "METERS",
+            "longitude": -96.3203
+        },
+        {
+            "elevation": 216.7,
+            "mindate": "1997-04-01",
+            "maxdate": "2019-12-31",
+            "latitude": 35.29215,
+            "name": "DUSTIN 2 NW, OK US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00342690",
+            "elevationUnit": "METERS",
+            "longitude": -96.05637
+        },
+        {
+            "elevation": 333.5,
+            "mindate": "1896-04-01",
+            "maxdate": "2020-05-17",
+            "latitude": 35.6127,
+            "name": "EDMOND 5 ESE, OK US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00342788",
+            "elevationUnit": "METERS",
+            "longitude": -97.3865
+        },
+        {
+            "elevation": 403.9,
+            "mindate": "1893-01-01",
+            "maxdate": "2010-12-31",
+            "latitude": 35.54889,
+            "name": "EL RENO 1 N, OK US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00342818",
+            "elevationUnit": "METERS",
+            "longitude": -97.95528
+        },
+        {
+            "elevation": 418.8,
+            "mindate": "2009-02-01",
+            "maxdate": "2020-04-01",
+            "latitude": 35.54833,
+            "name": "EL RENO 5 WNW MESONET, OK US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00342825",
+            "elevationUnit": "METERS",
+            "longitude": -98.03639
+        },
+        {
+            "elevation": 445,
+            "mindate": "1903-05-01",
+            "maxdate": "1975-08-31",
+            "latitude": 34.46667,
+            "name": "ELDORADO, OK US",
+            "datacoverage": 0.5795,
+            "id": "GHCND:USC00342836",
+            "elevationUnit": "METERS",
+            "longitude": -99.65
+        },
+        {
+            "elevation": 646.2,
+            "mindate": "1904-05-01",
+            "maxdate": "2020-04-01",
+            "latitude": 35.3925,
+            "name": "ELK CITY 4 W, OK US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00342849",
+            "elevationUnit": "METERS",
+            "longitude": -99.50639
+        },
+        {
+            "elevation": 310.9,
+            "mindate": "1947-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 34.61,
+            "name": "ELMORE CITY 3 SW, OK US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00342872",
+            "elevationUnit": "METERS",
+            "longitude": -97.42222
+        },
+        {
+            "elevation": 379.5,
+            "mindate": "1894-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 36.4194,
+            "name": "ENID, OK US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00342912",
+            "elevationUnit": "METERS",
+            "longitude": -97.8747
+        },
+        {
+            "elevation": 627.9,
+            "mindate": "1904-09-01",
+            "maxdate": "2020-05-17",
+            "latitude": 35.2164,
+            "name": "ERICK, OK US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00342944",
+            "elevationUnit": "METERS",
+            "longitude": -99.8628
+        },
+        {
+            "elevation": 602.9,
+            "mindate": "2009-02-01",
+            "maxdate": "2020-04-01",
+            "latitude": 35.2049,
+            "name": "ERICK 4 ESE MESONET, OK US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00342948",
+            "elevationUnit": "METERS",
+            "longitude": -99.8034
+        },
+        {
+            "elevation": 189,
+            "mindate": "1896-04-01",
+            "maxdate": "2010-12-31",
+            "latitude": 35.19306,
+            "name": "EUFAULA 6 SSW, OK US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00342993",
+            "elevationUnit": "METERS",
+            "longitude": -95.59028
+        },
+        {
+            "elevation": 259.1,
+            "mindate": "1965-05-01",
+            "maxdate": "1970-08-31",
+            "latitude": 35.29278,
+            "name": "LAKE EUFAULA, OK US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00342997",
+            "elevationUnit": "METERS",
+            "longitude": -95.43222
+        },
+        {
+            "elevation": 1064.1,
+            "mindate": "1972-12-01",
+            "maxdate": "1981-03-31",
+            "latitude": 36.78333,
+            "name": "EVA 4 E, OK US",
+            "datacoverage": 0.8202,
+            "id": "GHCND:USC00343008",
+            "elevationUnit": "METERS",
+            "longitude": -101.83333
+        },
+        {
+            "elevation": 396.8,
+            "mindate": "1932-03-01",
+            "maxdate": "1977-02-28",
+            "latitude": 36.26667,
+            "name": "FAIRVIEW, OK US",
+            "datacoverage": 0.9704,
+            "id": "GHCND:USC00343047",
+            "elevationUnit": "METERS",
+            "longitude": -98.48333
+        },
+        {
+            "elevation": 404.8,
+            "mindate": "2009-02-01",
+            "maxdate": "2020-04-01",
+            "latitude": 36.26333,
+            "name": "FAIRVIEW 1 W MESONET, OK US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00343048",
+            "elevationUnit": "METERS",
+            "longitude": -98.4975
+        },
+        {
+            "elevation": 166.7,
+            "mindate": "1941-09-01",
+            "maxdate": "2018-06-30",
+            "latitude": 34.9511,
+            "name": "FANSHAWE, OK US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00343065",
+            "elevationUnit": "METERS",
+            "longitude": -94.908
         }
     ]
 }

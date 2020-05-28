@@ -2,7 +2,7 @@
     "metadata": {
         "resultset": {
             "offset": 1,
-            "count": 1419,
+            "count": 1168,
             "limit": 1000
         }
     },
@@ -30,17 +30,6 @@
             "longitude": -87.1814
         },
         {
-            "elevation": 302.1,
-            "mindate": "1940-05-01",
-            "maxdate": "1962-03-01",
-            "latitude": 34.41667,
-            "name": "ADDISON CENTRAL TOWER, AL US",
-            "datacoverage": 0.9658,
-            "id": "COOP:010071",
-            "elevationUnit": "METERS",
-            "longitude": -87.31667
-        },
-        {
             "elevation": 172.2,
             "mindate": "1995-04-01",
             "maxdate": "2015-11-01",
@@ -50,28 +39,6 @@
             "id": "COOP:010116",
             "elevationUnit": "METERS",
             "longitude": -86.78167
-        },
-        {
-            "elevation": 183.8,
-            "mindate": "1949-01-01",
-            "maxdate": "1949-12-01",
-            "latitude": 34.6891,
-            "name": "BELLE MINA 2 N, AL US",
-            "datacoverage": 1,
-            "id": "COOP:010117",
-            "elevationUnit": "METERS",
-            "longitude": -86.8819
-        },
-        {
-            "elevation": 34.1,
-            "mindate": "1935-05-01",
-            "maxdate": "1936-11-01",
-            "latitude": 31.13333,
-            "name": "ALAGA, AL US",
-            "datacoverage": 0.2624,
-            "id": "COOP:010125",
-            "elevationUnit": "METERS",
-            "longitude": -85.06667
         },
         {
             "elevation": 53.3,
@@ -105,17 +72,6 @@
             "id": "COOP:010160",
             "elevationUnit": "METERS",
             "longitude": -85.948
-        },
-        {
-            "elevation": 200.9,
-            "mindate": "1942-11-01",
-            "maxdate": "1969-10-01",
-            "latitude": 32.98333,
-            "name": "ALEXANDER CITY 6 NE, AL US",
-            "datacoverage": 0.9629,
-            "id": "COOP:010163",
-            "elevationUnit": "METERS",
-            "longitude": -85.86667
         },
         {
             "elevation": 59.4,
@@ -160,17 +116,6 @@
             "id": "COOP:010260",
             "elevationUnit": "METERS",
             "longitude": -87.37195
-        },
-        {
-            "elevation": 220.1,
-            "mindate": "1948-01-01",
-            "maxdate": "1949-03-01",
-            "latitude": 33.66667,
-            "name": "ANNISTON, AL US",
-            "datacoverage": 1,
-            "id": "COOP:010267",
-            "elevationUnit": "METERS",
-            "longitude": -85.83333
         },
         {
             "elevation": 181.1,
@@ -239,17 +184,6 @@
             "longitude": -86.98333
         },
         {
-            "elevation": 220.1,
-            "mindate": "1958-05-01",
-            "maxdate": "1958-06-01",
-            "latitude": 34.8,
-            "name": "ATHENS COURTHOUSE, AL US",
-            "datacoverage": 0.998,
-            "id": "COOP:010398",
-            "elevationUnit": "METERS",
-            "longitude": -86.96667
-        },
-        {
             "elevation": 91.4,
             "mindate": "1940-01-01",
             "maxdate": "2015-11-01",
@@ -295,17 +229,6 @@
         },
         {
             "elevation": 198.7,
-            "mindate": "1948-01-01",
-            "maxdate": "1962-09-01",
-            "latitude": 32.6,
-            "name": "AUBURN AGRONOMY FARM, AL US",
-            "datacoverage": 1,
-            "id": "COOP:010427",
-            "elevationUnit": "METERS",
-            "longitude": -85.5
-        },
-        {
-            "elevation": 198.7,
             "mindate": "1976-01-01",
             "maxdate": "1996-07-01",
             "latitude": 32.6,
@@ -338,17 +261,6 @@
             "longitude": -87.3572
         },
         {
-            "elevation": 139.9,
-            "mindate": "1949-01-01",
-            "maxdate": "1953-04-01",
-            "latitude": 34.71667,
-            "name": "BARTON, AL US",
-            "datacoverage": 0.9819,
-            "id": "COOP:010546",
-            "elevationUnit": "METERS",
-            "longitude": -87.86667
-        },
-        {
             "elevation": 82.6,
             "mindate": "1931-01-01",
             "maxdate": "2015-11-01",
@@ -369,17 +281,6 @@
             "id": "COOP:010616",
             "elevationUnit": "METERS",
             "longitude": -87.21194
-        },
-        {
-            "elevation": 246.9,
-            "mindate": "1948-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 34.46667,
-            "name": "BELGREEN, AL US",
-            "datacoverage": 1,
-            "id": "COOP:010631",
-            "elevationUnit": "METERS",
-            "longitude": -87.86667
         },
         {
             "elevation": 183.8,
@@ -415,17 +316,6 @@
             "longitude": -87.01667
         },
         {
-            "elevation": 159.1,
-            "mindate": "1958-01-01",
-            "maxdate": "1958-06-01",
-            "latitude": 33.43333,
-            "name": "BESSEMER, AL US",
-            "datacoverage": 1,
-            "id": "COOP:010762",
-            "elevationUnit": "METERS",
-            "longitude": -86.91667
-        },
-        {
             "elevation": 135.6,
             "mindate": "1977-01-01",
             "maxdate": "2015-11-01",
@@ -448,28 +338,6 @@
             "longitude": -86.83306
         },
         {
-            "elevation": 267.9,
-            "mindate": "1958-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 34.98333,
-            "name": "BETHLEHEM, AL US",
-            "datacoverage": 1,
-            "id": "COOP:010776",
-            "elevationUnit": "METERS",
-            "longitude": -86.63333
-        },
-        {
-            "elevation": 174,
-            "mindate": "1948-04-01",
-            "maxdate": "1967-12-01",
-            "latitude": 34.16667,
-            "name": "BEXAR, AL US",
-            "datacoverage": 0.9527,
-            "id": "COOP:010790",
-            "elevationUnit": "METERS",
-            "longitude": -88.11667
-        },
-        {
             "elevation": 134.1,
             "mindate": "1938-12-01",
             "maxdate": "2015-11-01",
@@ -479,17 +347,6 @@
             "id": "COOP:010823",
             "elevationUnit": "METERS",
             "longitude": -86.7244
-        },
-        {
-            "elevation": 499.9,
-            "mindate": "1959-07-01",
-            "maxdate": "1962-03-01",
-            "latitude": 34.76667,
-            "name": "BINGHAM MOUNTAIN, AL US",
-            "datacoverage": 0.9692,
-            "id": "COOP:010826",
-            "elevationUnit": "METERS",
-            "longitude": -86.28333
         },
         {
             "elevation": 226.8,
@@ -512,39 +369,6 @@
             "id": "COOP:010831",
             "elevationUnit": "METERS",
             "longitude": -86.745
-        },
-        {
-            "elevation": 214,
-            "mindate": "1946-01-01",
-            "maxdate": "1953-10-01",
-            "latitude": 33.53333,
-            "name": "BIRMINGHAM, AL US",
-            "datacoverage": 1,
-            "id": "COOP:010836",
-            "elevationUnit": "METERS",
-            "longitude": -86.83333
-        },
-        {
-            "elevation": 143,
-            "mindate": "1948-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 34.65,
-            "name": "BISHOP, AL US",
-            "datacoverage": 0.9885,
-            "id": "COOP:010854",
-            "elevationUnit": "METERS",
-            "longitude": -88.11667
-        },
-        {
-            "elevation": 98.1,
-            "mindate": "1954-07-01",
-            "maxdate": "1957-07-01",
-            "latitude": 31.66667,
-            "name": "BLUE SPRINGS, AL US",
-            "datacoverage": 0.7292,
-            "id": "COOP:010948",
-            "elevationUnit": "METERS",
-            "longitude": -85.51667
         },
         {
             "elevation": 326.1,
@@ -658,17 +482,6 @@
         },
         {
             "elevation": 71.6,
-            "mindate": "1950-01-01",
-            "maxdate": "1961-02-01",
-            "latitude": 32.02889,
-            "name": "CAMDEN 3 NW, AL US",
-            "datacoverage": 0.963,
-            "id": "COOP:011300",
-            "elevationUnit": "METERS",
-            "longitude": -87.31667
-        },
-        {
-            "elevation": 71.6,
             "mindate": "1961-03-01",
             "maxdate": "2001-12-01",
             "latitude": 32.02889,
@@ -677,17 +490,6 @@
             "id": "COOP:011301",
             "elevationUnit": "METERS",
             "longitude": -87.31667
-        },
-        {
-            "elevation": 27.1,
-            "mindate": "1948-01-01",
-            "maxdate": "1967-12-01",
-            "latitude": 31.91667,
-            "name": "CAMPBELL, AL US",
-            "datacoverage": 0.7446,
-            "id": "COOP:011315",
-            "elevationUnit": "METERS",
-            "longitude": -87.98333
         },
         {
             "elevation": 207.3,
@@ -721,28 +523,6 @@
             "id": "COOP:011490",
             "elevationUnit": "METERS",
             "longitude": -85.6846
-        },
-        {
-            "elevation": 238,
-            "mindate": "1948-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 34.38333,
-            "name": "CENTER GROVE, AL US",
-            "datacoverage": 1,
-            "id": "COOP:011492",
-            "elevationUnit": "METERS",
-            "longitude": -86.63333
-        },
-        {
-            "elevation": 182.9,
-            "mindate": "1949-01-01",
-            "maxdate": "1949-03-01",
-            "latitude": 34.81667,
-            "name": "CENTER STAR, AL US",
-            "datacoverage": 1,
-            "id": "COOP:011497",
-            "elevationUnit": "METERS",
-            "longitude": -87.41667
         },
         {
             "elevation": 188.1,
@@ -789,17 +569,6 @@
             "longitude": -88.2504
         },
         {
-            "elevation": 146,
-            "mindate": "1937-01-01",
-            "maxdate": "1968-02-01",
-            "latitude": 33.28333,
-            "name": "CHILDERSBURG, AL US",
-            "datacoverage": 0.9894,
-            "id": "COOP:011615",
-            "elevationUnit": "METERS",
-            "longitude": -86.36667
-        },
-        {
             "elevation": 127.4,
             "mindate": "1957-01-01",
             "maxdate": "2015-11-01",
@@ -809,17 +578,6 @@
             "id": "COOP:011620",
             "elevationUnit": "METERS",
             "longitude": -86.3431
-        },
-        {
-            "elevation": 100.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1966-12-01",
-            "latitude": 31.08333,
-            "name": "CITRONELLE, AL US",
-            "datacoverage": 0.9745,
-            "id": "COOP:011685",
-            "elevationUnit": "METERS",
-            "longitude": -88.23333
         },
         {
             "elevation": 15.2,
@@ -853,17 +611,6 @@
             "id": "COOP:011725",
             "elevationUnit": "METERS",
             "longitude": -85.4501
-        },
-        {
-            "elevation": 46,
-            "mindate": "1956-08-01",
-            "maxdate": "1956-12-01",
-            "latitude": 33.08333,
-            "name": "COCHRANE 2 E, AL US",
-            "datacoverage": 0.7958,
-            "id": "COOP:011799",
-            "elevationUnit": "METERS",
-            "longitude": -88.23333
         },
         {
             "elevation": 3.7,
@@ -904,7 +651,7 @@
             "maxdate": "1981-01-01",
             "latitude": 34.75,
             "name": "COLBERT STEAM PLANT, AL US",
-            "datacoverage": 0.992,
+            "datacoverage": 0.0611,
             "id": "COOP:011819",
             "elevationUnit": "METERS",
             "longitude": -87.85
@@ -919,17 +666,6 @@
             "id": "COOP:011849",
             "elevationUnit": "METERS",
             "longitude": -85.88333
-        },
-        {
-            "elevation": 27.1,
-            "mindate": "1935-07-01",
-            "maxdate": "1966-07-01",
-            "latitude": 31.28333,
-            "name": "COLUMBIA, AL US",
-            "datacoverage": 0.9463,
-            "id": "COOP:011865",
-            "elevationUnit": "METERS",
-            "longitude": -85.11667
         },
         {
             "elevation": 97.5,
@@ -998,28 +734,6 @@
             "longitude": -85.7358
         },
         {
-            "elevation": 64,
-            "mindate": "1931-01-01",
-            "maxdate": "1965-06-01",
-            "latitude": 33.06667,
-            "name": "DANCY, AL US",
-            "datacoverage": 0.9783,
-            "id": "COOP:012141",
-            "elevationUnit": "METERS",
-            "longitude": -88.28333
-        },
-        {
-            "elevation": 182.9,
-            "mindate": "1949-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 34.41667,
-            "name": "DANVILLE, AL US",
-            "datacoverage": 1,
-            "id": "COOP:012149",
-            "elevationUnit": "METERS",
-            "longitude": -87.08333
-        },
-        {
             "elevation": 2.4,
             "mindate": "1975-08-01",
             "maxdate": "2015-11-01",
@@ -1042,17 +756,6 @@
             "longitude": -87.65
         },
         {
-            "elevation": 177.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1969-10-01",
-            "latitude": 34.58333,
-            "name": "DECATUR, AL US",
-            "datacoverage": 0.9892,
-            "id": "COOP:012207",
-            "elevationUnit": "METERS",
-            "longitude": -86.96667
-        },
-        {
             "elevation": 167.6,
             "mindate": "1998-12-01",
             "maxdate": "2015-11-01",
@@ -1064,28 +767,6 @@
             "longitude": -86.93389
         },
         {
-            "elevation": 174,
-            "mindate": "1949-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 34.61667,
-            "name": "DECATUR 4, AL US",
-            "datacoverage": 1,
-            "id": "COOP:012216",
-            "elevationUnit": "METERS",
-            "longitude": -86.98333
-        },
-        {
-            "elevation": 180.1,
-            "mindate": "1949-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 34.6,
-            "name": "DECATUR SUBSTATION, AL US",
-            "datacoverage": 1,
-            "id": "COOP:012221",
-            "elevationUnit": "METERS",
-            "longitude": -86.96667
-        },
-        {
             "elevation": 313.9,
             "mindate": "1956-09-01",
             "maxdate": "1977-06-01",
@@ -1095,17 +776,6 @@
             "id": "COOP:012235",
             "elevationUnit": "METERS",
             "longitude": -85.7
-        },
-        {
-            "elevation": 31.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1954-08-01",
-            "latitude": 32.51667,
-            "name": "DEMOPOLIS LOCK 4, AL US",
-            "datacoverage": 0.9719,
-            "id": "COOP:012240",
-            "elevationUnit": "METERS",
-            "longitude": -87.85
         },
         {
             "elevation": 30.5,
@@ -1174,17 +844,6 @@
             "longitude": -86.0667
         },
         {
-            "elevation": 235,
-            "mindate": "1959-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 34.88333,
-            "name": "ELKMONT, AL US",
-            "datacoverage": 1,
-            "id": "COOP:012600",
-            "elevationUnit": "METERS",
-            "longitude": -86.91667
-        },
-        {
             "elevation": 76.8,
             "mindate": "1940-01-01",
             "maxdate": "2000-07-01",
@@ -1196,17 +855,6 @@
             "longitude": -87.79722
         },
         {
-            "elevation": 116.1,
-            "mindate": "1956-02-01",
-            "maxdate": "1966-05-01",
-            "latitude": 31.31667,
-            "name": "ENTERPRISE, AL US",
-            "datacoverage": 0.9681,
-            "id": "COOP:012670",
-            "elevationUnit": "METERS",
-            "longitude": -85.85
-        },
-        {
             "elevation": 102.7,
             "mindate": "1966-06-01",
             "maxdate": "2015-11-01",
@@ -1216,17 +864,6 @@
             "id": "COOP:012675",
             "elevationUnit": "METERS",
             "longitude": -85.8996
-        },
-        {
-            "elevation": 61.6,
-            "mindate": "1931-01-01",
-            "maxdate": "1966-12-01",
-            "latitude": 31.86667,
-            "name": "EUFAULA, AL US",
-            "datacoverage": 0.963,
-            "id": "COOP:012727",
-            "elevationUnit": "METERS",
-            "longitude": -85.15
         },
         {
             "elevation": 91.4,
@@ -1251,17 +888,6 @@
             "longitude": -86.72556
         },
         {
-            "elevation": 33.5,
-            "mindate": "1938-05-01",
-            "maxdate": "1958-01-01",
-            "latitude": 32.77472,
-            "name": "WARRIOR LOCK AND DAM, AL US",
-            "datacoverage": 0.9659,
-            "id": "COOP:012742",
-            "elevationUnit": "METERS",
-            "longitude": -87.83056
-        },
-        {
             "elevation": 88.4,
             "mindate": "1931-01-01",
             "maxdate": "2015-11-01",
@@ -1271,17 +897,6 @@
             "id": "COOP:012758",
             "elevationUnit": "METERS",
             "longitude": -86.9532
-        },
-        {
-            "elevation": 78,
-            "mindate": "1938-10-01",
-            "maxdate": "1961-07-01",
-            "latitude": 31.41667,
-            "name": "EVERGREEN INTERMEDIATE FIELD, AL US",
-            "datacoverage": 0.854,
-            "id": "COOP:012763",
-            "elevationUnit": "METERS",
-            "longitude": -87.03333
         },
         {
             "elevation": 7,
@@ -1295,17 +910,6 @@
             "longitude": -87.8807
         },
         {
-            "elevation": 70.1,
-            "mindate": "1940-01-01",
-            "maxdate": "1964-12-01",
-            "latitude": 31.1,
-            "name": "FALCO OPEN POND TOWER, AL US",
-            "datacoverage": 0.8033,
-            "id": "COOP:012832",
-            "elevationUnit": "METERS",
-            "longitude": -86.55
-        },
-        {
             "elevation": 190.5,
             "mindate": "1948-01-01",
             "maxdate": "1992-06-01",
@@ -1315,28 +919,6 @@
             "id": "COOP:012840",
             "elevationUnit": "METERS",
             "longitude": -86.88333
-        },
-        {
-            "elevation": 198.1,
-            "mindate": "1940-07-01",
-            "maxdate": "1965-04-01",
-            "latitude": 34.06667,
-            "name": "FALLS CITY BLK POND, AL US",
-            "datacoverage": 0.8356,
-            "id": "COOP:012848",
-            "elevationUnit": "METERS",
-            "longitude": -87.33333
-        },
-        {
-            "elevation": 174,
-            "mindate": "1949-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 34.56667,
-            "name": "FARLEY, AL US",
-            "datacoverage": 0.9248,
-            "id": "COOP:012867",
-            "elevationUnit": "METERS",
-            "longitude": -86.56667
         },
         {
             "elevation": 108.8,
@@ -1350,17 +932,6 @@
             "longitude": -87.8152
         },
         {
-            "elevation": 427,
-            "mindate": "1948-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 34.76667,
-            "name": "FLAT ROCK, AL US",
-            "datacoverage": 0.9709,
-            "id": "COOP:012945",
-            "elevationUnit": "METERS",
-            "longitude": -85.68333
-        },
-        {
             "elevation": 176.2,
             "mindate": "1931-01-01",
             "maxdate": "1977-06-01",
@@ -1372,23 +943,12 @@
             "longitude": -87.68333
         },
         {
-            "elevation": 136.9,
-            "mindate": "1936-02-01",
-            "maxdate": "1959-11-01",
-            "latitude": 34.78333,
-            "name": "FLORENCE AT LOCK, AL US",
-            "datacoverage": 1,
-            "id": "COOP:012976",
-            "elevationUnit": "METERS",
-            "longitude": -87.66667
-        },
-        {
             "elevation": 153,
-            "mindate": "1940-12-01",
+            "mindate": "1966-11-01",
             "maxdate": "1970-05-01",
             "latitude": 31.98333,
             "name": "FORT DEPOSIT, AL US",
-            "datacoverage": 0.8595,
+            "datacoverage": 0.0218,
             "id": "COOP:013024",
             "elevationUnit": "METERS",
             "longitude": -86.58333
@@ -1427,17 +987,6 @@
             "longitude": -87.42028
         },
         {
-            "elevation": 174,
-            "mindate": "1931-01-01",
-            "maxdate": "1968-03-01",
-            "latitude": 34.01667,
-            "name": "GADSDEN, AL US",
-            "datacoverage": 0.9687,
-            "id": "COOP:013151",
-            "elevationUnit": "METERS",
-            "longitude": -86
-        },
-        {
             "elevation": 172.2,
             "mindate": "1953-01-01",
             "maxdate": "2015-11-01",
@@ -1469,17 +1018,6 @@
             "id": "COOP:013200",
             "elevationUnit": "METERS",
             "longitude": -86.75
-        },
-        {
-            "elevation": 198.1,
-            "mindate": "1959-07-01",
-            "maxdate": "1962-03-01",
-            "latitude": 34.73333,
-            "name": "GARTH, AL US",
-            "datacoverage": 0.9994,
-            "id": "COOP:013215",
-            "elevationUnit": "METERS",
-            "longitude": -86.3
         },
         {
             "elevation": 44.2,
@@ -1526,17 +1064,6 @@
             "longitude": -88.33333
         },
         {
-            "elevation": 307.8,
-            "mindate": "1931-01-01",
-            "maxdate": "1954-06-01",
-            "latitude": 33.06667,
-            "name": "GOODWATER, AL US",
-            "datacoverage": 0.9965,
-            "id": "COOP:013399",
-            "elevationUnit": "METERS",
-            "longitude": -86.05
-        },
-        {
             "elevation": 106.7,
             "mindate": "1937-01-01",
             "maxdate": "1994-10-01",
@@ -1546,17 +1073,6 @@
             "id": "COOP:013430",
             "elevationUnit": "METERS",
             "longitude": -87.18333
-        },
-        {
-            "elevation": 85,
-            "mindate": "1954-07-01",
-            "maxdate": "1965-02-01",
-            "latitude": 31.18333,
-            "name": "GREEN BAY, AL US",
-            "datacoverage": 0.9688,
-            "id": "COOP:013496",
-            "elevationUnit": "METERS",
-            "longitude": -86.28333
         },
         {
             "elevation": 75.9,
@@ -1579,17 +1095,6 @@
             "id": "COOP:013519",
             "elevationUnit": "METERS",
             "longitude": -86.6087
-        },
-        {
-            "elevation": 128,
-            "mindate": "1948-01-01",
-            "maxdate": "1966-12-01",
-            "latitude": 31.83333,
-            "name": "GREENVILLE 2, AL US",
-            "datacoverage": 0.8004,
-            "id": "COOP:013524",
-            "elevationUnit": "METERS",
-            "longitude": -86.63333
         },
         {
             "elevation": 3,
@@ -1626,25 +1131,14 @@
         },
         {
             "elevation": 182.9,
-            "mindate": "1948-01-01",
+            "mindate": "1948-07-01",
             "maxdate": "1981-01-01",
             "latitude": 34.35,
             "name": "GUNTERSVILLE, AL US",
-            "datacoverage": 0.9583,
+            "datacoverage": 0.0416,
             "id": "COOP:013578",
             "elevationUnit": "METERS",
             "longitude": -86.3
-        },
-        {
-            "elevation": 185.9,
-            "mindate": "1948-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 34.43333,
-            "name": "GUNTERSVILLE DAM, AL US",
-            "datacoverage": 0.9534,
-            "id": "COOP:013583",
-            "elevationUnit": "METERS",
-            "longitude": -86.4
         },
         {
             "elevation": 272.5,
@@ -1669,17 +1163,6 @@
             "longitude": -87.6352
         },
         {
-            "elevation": 167.9,
-            "mindate": "1938-09-01",
-            "maxdate": "1961-12-01",
-            "latitude": 34.13333,
-            "name": "HAMILTON, AL US",
-            "datacoverage": 0.9857,
-            "id": "COOP:013644",
-            "elevationUnit": "METERS",
-            "longitude": -87.98333
-        },
-        {
             "elevation": 132.6,
             "mindate": "1962-01-01",
             "maxdate": "2015-11-01",
@@ -1700,17 +1183,6 @@
             "id": "COOP:013655",
             "elevationUnit": "METERS",
             "longitude": -86.791
-        },
-        {
-            "elevation": 182.9,
-            "mindate": "1940-01-01",
-            "maxdate": "1962-06-01",
-            "latitude": 32.8,
-            "name": "HARRISBURG CAHABA TOWER, AL US",
-            "datacoverage": 0.8853,
-            "id": "COOP:013697",
-            "elevationUnit": "METERS",
-            "longitude": -87.18333
         },
         {
             "elevation": 97.5,
@@ -1768,17 +1240,6 @@
             "longitude": -86.83361
         },
         {
-            "elevation": 126.8,
-            "mindate": "1931-01-01",
-            "maxdate": "1950-12-01",
-            "latitude": 33.28333,
-            "name": "HELENA, AL US",
-            "datacoverage": 0.9958,
-            "id": "COOP:013783",
-            "elevationUnit": "METERS",
-            "longitude": -86.85
-        },
-        {
             "elevation": 132,
             "mindate": "1931-01-01",
             "maxdate": "2011-12-01",
@@ -1834,17 +1295,6 @@
             "longitude": -87.45
         },
         {
-            "elevation": 185.9,
-            "mindate": "1949-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 34.71667,
-            "name": "HUNTSVILLE SUBSTATION, AL US",
-            "datacoverage": 1,
-            "id": "COOP:014060",
-            "elevationUnit": "METERS",
-            "longitude": -86.58333
-        },
-        {
             "elevation": 190.2,
             "mindate": "1958-07-01",
             "maxdate": "2015-11-01",
@@ -1854,17 +1304,6 @@
             "id": "COOP:014064",
             "elevationUnit": "METERS",
             "longitude": -86.78611
-        },
-        {
-            "elevation": 185.9,
-            "mindate": "1937-01-01",
-            "maxdate": "1954-07-01",
-            "latitude": 34.7,
-            "name": "HUNTSVILLE 4 SSE, AL US",
-            "datacoverage": 0.9952,
-            "id": "COOP:014068",
-            "elevationUnit": "METERS",
-            "longitude": -86.583333
         },
         {
             "elevation": 122.5,
@@ -1878,50 +1317,6 @@
             "longitude": -85.41417
         },
         {
-            "elevation": 305.1,
-            "mindate": "1959-09-01",
-            "maxdate": "1962-03-01",
-            "latitude": 34.31667,
-            "name": "HUSTLEVILLE, AL US",
-            "datacoverage": 1,
-            "id": "COOP:014085",
-            "elevationUnit": "METERS",
-            "longitude": -86.16667
-        },
-        {
-            "elevation": 494.1,
-            "mindate": "1948-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 34.81667,
-            "name": "HYTOP, AL US",
-            "datacoverage": 0.9768,
-            "id": "COOP:014099",
-            "elevationUnit": "METERS",
-            "longitude": -86.11667
-        },
-        {
-            "elevation": 467,
-            "mindate": "1956-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 34.71667,
-            "name": "IDER, AL US",
-            "datacoverage": 0.8931,
-            "id": "COOP:014115",
-            "elevationUnit": "METERS",
-            "longitude": -85.68333
-        },
-        {
-            "elevation": 3,
-            "mindate": "1950-02-01",
-            "maxdate": "1961-08-01",
-            "latitude": 31.55,
-            "name": "JACKSON LOCK 1, AL US",
-            "datacoverage": 0.9085,
-            "id": "COOP:014192",
-            "elevationUnit": "METERS",
-            "longitude": -88.01667
-        },
-        {
             "elevation": 67.1,
             "mindate": "1961-10-01",
             "maxdate": "2015-11-01",
@@ -1933,17 +1328,6 @@
             "longitude": -87.9277
         },
         {
-            "elevation": 146,
-            "mindate": "1937-01-01",
-            "maxdate": "1960-03-01",
-            "latitude": 33.53333,
-            "name": "JACKSON SHOALS, AL US",
-            "datacoverage": 0.9679,
-            "id": "COOP:014198",
-            "elevationUnit": "METERS",
-            "longitude": -86.2
-        },
-        {
             "elevation": 192,
             "mindate": "1948-02-01",
             "maxdate": "2015-11-01",
@@ -1953,17 +1337,6 @@
             "id": "COOP:014209",
             "elevationUnit": "METERS",
             "longitude": -85.78115
-        },
-        {
-            "elevation": 113.1,
-            "mindate": "1955-01-01",
-            "maxdate": "1960-08-01",
-            "latitude": 33.83333,
-            "name": "JASPER, AL US",
-            "datacoverage": 0.9116,
-            "id": "COOP:014225",
-            "elevationUnit": "METERS",
-            "longitude": -87.28333
         },
         {
             "elevation": 148.1,
@@ -2054,17 +1427,6 @@
             "longitude": -85.76667
         },
         {
-            "elevation": 155.4,
-            "mindate": "1949-01-01",
-            "maxdate": "1950-05-01",
-            "latitude": 33.61667,
-            "name": "LINCOLN, AL US",
-            "datacoverage": 1,
-            "id": "COOP:014734",
-            "elevationUnit": "METERS",
-            "longitude": -86.11667
-        },
-        {
             "elevation": 39,
             "mindate": "1937-10-01",
             "maxdate": "2011-12-01",
@@ -2074,72 +1436,6 @@
             "id": "COOP:014798",
             "elevationUnit": "METERS",
             "longitude": -88.1897
-        },
-        {
-            "elevation": 88.1,
-            "mindate": "1942-10-01",
-            "maxdate": "1964-06-01",
-            "latitude": 31.01667,
-            "name": "LOCKHART, AL US",
-            "datacoverage": 0.9694,
-            "id": "COOP:014822",
-            "elevationUnit": "METERS",
-            "longitude": -86.36667
-        },
-        {
-            "elevation": 3,
-            "mindate": "1932-01-01",
-            "maxdate": "1950-02-22",
-            "latitude": 31.55,
-            "name": "JACKSON LOCK 1, AL US",
-            "datacoverage": 0.9952,
-            "id": "COOP:014830",
-            "elevationUnit": "METERS",
-            "longitude": -88.01667
-        },
-        {
-            "elevation": 6.1,
-            "mindate": "1932-01-01",
-            "maxdate": "1950-01-01",
-            "latitude": 32.13333,
-            "name": "PENNINGTON LOCK 2, AL US",
-            "datacoverage": 0.9998,
-            "id": "COOP:014835",
-            "elevationUnit": "METERS",
-            "longitude": -88.03333
-        },
-        {
-            "elevation": 9.1,
-            "mindate": "1932-01-01",
-            "maxdate": "1950-01-01",
-            "latitude": 32.28333,
-            "name": "WHITFIELD LOCK 3, AL US",
-            "datacoverage": 0.9998,
-            "id": "COOP:014840",
-            "elevationUnit": "METERS",
-            "longitude": -88.01667
-        },
-        {
-            "elevation": 156.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1948-12-01",
-            "latitude": 33.63333,
-            "name": "LINCOLN LOCK 4, AL US",
-            "datacoverage": 0.9999,
-            "id": "COOP:014845",
-            "elevationUnit": "METERS",
-            "longitude": -86.18333
-        },
-        {
-            "elevation": 85.3,
-            "mindate": "1938-03-01",
-            "maxdate": "1956-12-01",
-            "latitude": 33.4527,
-            "name": "BANKHEAD LOCK AND DAM, AL US",
-            "datacoverage": 0.9156,
-            "id": "COOP:014855",
-            "elevationUnit": "METERS",
-            "longitude": -87.3572
         },
         {
             "elevation": 137.2,
@@ -2186,39 +1482,6 @@
             "longitude": -86.85
         },
         {
-            "elevation": 54.9,
-            "mindate": "1948-01-01",
-            "maxdate": "1963-10-01",
-            "latitude": 32.13333,
-            "name": "MAGNOLIA, AL US",
-            "datacoverage": 1,
-            "id": "COOP:015004",
-            "elevationUnit": "METERS",
-            "longitude": -87.65
-        },
-        {
-            "elevation": 189,
-            "mindate": "1931-06-01",
-            "maxdate": "1939-01-01",
-            "latitude": 34.2,
-            "name": "MAPLE GROVE, AL US",
-            "datacoverage": 0.1304,
-            "id": "COOP:015072",
-            "elevationUnit": "METERS",
-            "longitude": -85.8
-        },
-        {
-            "elevation": 64,
-            "mindate": "1931-01-01",
-            "maxdate": "1967-11-30",
-            "latitude": 32.63333,
-            "name": "MARION, AL US",
-            "datacoverage": 0.9503,
-            "id": "COOP:015108",
-            "elevationUnit": "METERS",
-            "longitude": -87.3
-        },
-        {
             "elevation": 52.4,
             "mindate": "1967-11-01",
             "maxdate": "2004-12-31",
@@ -2228,17 +1491,6 @@
             "id": "COOP:015112",
             "elevationUnit": "METERS",
             "longitude": -87.26806
-        },
-        {
-            "elevation": 61.6,
-            "mindate": "1938-11-01",
-            "maxdate": "1969-12-01",
-            "latitude": 32.44444,
-            "name": "MARION JUNCTION, AL US",
-            "datacoverage": 0.9786,
-            "id": "COOP:015116",
-            "elevationUnit": "METERS",
-            "longitude": -87.17972
         },
         {
             "elevation": 61,
@@ -2274,28 +1526,6 @@
             "longitude": -86.0003
         },
         {
-            "elevation": 53,
-            "mindate": "1934-05-01",
-            "maxdate": "1956-07-01",
-            "latitude": 32.38333,
-            "name": "MAXWELL AFB, AL US",
-            "datacoverage": 0.9999,
-            "id": "COOP:015202",
-            "elevationUnit": "METERS",
-            "longitude": -86.35
-        },
-        {
-            "elevation": 164.9,
-            "mindate": "1951-01-01",
-            "maxdate": "1953-12-01",
-            "latitude": 33.36667,
-            "name": "BESSEMER, AL US",
-            "datacoverage": 0.972,
-            "id": "COOP:015233",
-            "elevationUnit": "METERS",
-            "longitude": -87.01667
-        },
-        {
             "elevation": 106.7,
             "mindate": "1940-01-01",
             "maxdate": "2015-11-01",
@@ -2329,17 +1559,6 @@
             "longitude": -85.47396
         },
         {
-            "elevation": 24.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1967-10-01",
-            "latitude": 32.1,
-            "name": "MILLERS FERRY, AL US",
-            "datacoverage": 0.948,
-            "id": "COOP:015417",
-            "elevationUnit": "METERS",
-            "longitude": -87.36667
-        },
-        {
             "elevation": 35.1,
             "mindate": "1981-01-01",
             "maxdate": "2015-11-01",
@@ -2349,28 +1568,6 @@
             "id": "COOP:015420",
             "elevationUnit": "METERS",
             "longitude": -87.3982
-        },
-        {
-            "elevation": 110,
-            "mindate": "1931-01-01",
-            "maxdate": "1948-09-01",
-            "latitude": 31.63333,
-            "name": "MILLRY, AL US",
-            "datacoverage": 0.5915,
-            "id": "COOP:015427",
-            "elevationUnit": "METERS",
-            "longitude": -88.31667
-        },
-        {
-            "elevation": 213.4,
-            "mindate": "1931-01-01",
-            "maxdate": "1938-12-01",
-            "latitude": 33.03333,
-            "name": "MILLTOWN, AL US",
-            "datacoverage": 0.75,
-            "id": "COOP:015431",
-            "elevationUnit": "METERS",
-            "longitude": -85.48333
         },
         {
             "elevation": 83.8,
@@ -2406,17 +1603,6 @@
             "longitude": -87.03333
         },
         {
-            "elevation": 128,
-            "mindate": "1959-02-01",
-            "maxdate": "1966-09-01",
-            "latitude": 32.11667,
-            "name": "MINTER 4 NW, AL US",
-            "datacoverage": 0.0465,
-            "id": "COOP:015454",
-            "elevationUnit": "METERS",
-            "longitude": -87.05
-        },
-        {
             "elevation": 106.7,
             "mindate": "1937-01-01",
             "maxdate": "1992-12-01",
@@ -2428,17 +1614,6 @@
             "longitude": -86.44639
         },
         {
-            "elevation": 11.9,
-            "mindate": "1966-02-01",
-            "maxdate": "1967-02-01",
-            "latitude": 30.68333,
-            "name": "MOBILE ALA ST DOCKS, AL US",
-            "datacoverage": 0.0586,
-            "id": "COOP:015474",
-            "elevationUnit": "METERS",
-            "longitude": -88.03333
-        },
-        {
             "elevation": 65.5,
             "mindate": "1948-01-01",
             "maxdate": "2015-11-01",
@@ -2448,28 +1623,6 @@
             "id": "COOP:015478",
             "elevationUnit": "METERS",
             "longitude": -88.24556
-        },
-        {
-            "elevation": 3,
-            "mindate": "1948-01-01",
-            "maxdate": "1965-12-01",
-            "latitude": 30.68333,
-            "name": "MOBILE, AL US",
-            "datacoverage": 0.9814,
-            "id": "COOP:015483",
-            "elevationUnit": "METERS",
-            "longitude": -88.03333
-        },
-        {
-            "elevation": 488,
-            "mindate": "1948-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 34.75,
-            "name": "MONTE SANO, AL US",
-            "datacoverage": 0.9943,
-            "id": "COOP:015529",
-            "elevationUnit": "METERS",
-            "longitude": -86.51667
         },
         {
             "elevation": 125,
@@ -2527,23 +1680,12 @@
             "longitude": -86.218
         },
         {
-            "elevation": 78,
-            "mindate": "1948-01-01",
-            "maxdate": "1954-09-17",
-            "latitude": 32.38333,
-            "name": "MONTGOMERY WEATHER BUREAU OFFICE, AL US",
-            "datacoverage": 1,
-            "id": "COOP:015555",
-            "elevationUnit": "METERS",
-            "longitude": -86.3
-        },
-        {
             "elevation": 192,
-            "mindate": "1948-01-01",
+            "mindate": "1948-07-01",
             "maxdate": "1977-09-01",
             "latitude": 34.46667,
             "name": "MOULTON, AL US",
-            "datacoverage": 1,
+            "datacoverage": 0.0584,
             "id": "COOP:015625",
             "elevationUnit": "METERS",
             "longitude": -87.3
@@ -2604,50 +1746,6 @@
             "longitude": -87.53944
         },
         {
-            "elevation": 54.9,
-            "mindate": "1951-01-01",
-            "maxdate": "1967-06-01",
-            "latitude": 31.71667,
-            "name": "NATCHEZ, AL US",
-            "datacoverage": 0.975,
-            "id": "COOP:015785",
-            "elevationUnit": "METERS",
-            "longitude": -87.26667
-        },
-        {
-            "elevation": 139.9,
-            "mindate": "1948-01-01",
-            "maxdate": "1971-01-01",
-            "latitude": 31.4,
-            "name": "NEW BROCKTON, AL US",
-            "datacoverage": 0.7782,
-            "id": "COOP:015842",
-            "elevationUnit": "METERS",
-            "longitude": -85.93333
-        },
-        {
-            "elevation": 192,
-            "mindate": "1949-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 34.51667,
-            "name": "NEWBURG, AL US",
-            "datacoverage": 1,
-            "id": "COOP:015847",
-            "elevationUnit": "METERS",
-            "longitude": -87.56667
-        },
-        {
-            "elevation": 232,
-            "mindate": "1948-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 34.9,
-            "name": "NEW MARKET, AL US",
-            "datacoverage": 1,
-            "id": "COOP:015862",
-            "elevationUnit": "METERS",
-            "longitude": -86.43333
-        },
-        {
             "elevation": 223.1,
             "mindate": "1957-04-01",
             "maxdate": "1977-06-01",
@@ -2668,17 +1766,6 @@
             "id": "COOP:015875",
             "elevationUnit": "METERS",
             "longitude": -85.6227
-        },
-        {
-            "elevation": 177.1,
-            "mindate": "1958-01-01",
-            "maxdate": "1959-05-01",
-            "latitude": 34.81667,
-            "name": "NEW WILSON LOCK, AL US",
-            "datacoverage": 0.9438,
-            "id": "COOP:015890",
-            "elevationUnit": "METERS",
-            "longitude": -87.63333
         },
         {
             "elevation": 176.8,
@@ -2748,11 +1835,11 @@
         },
         {
             "elevation": 195.1,
-            "mindate": "1948-01-01",
+            "mindate": "1948-07-01",
             "maxdate": "1981-01-01",
             "latitude": 34.7,
             "name": "PAINT ROCK, AL US",
-            "datacoverage": 0.9709,
+            "datacoverage": 0.063,
             "id": "COOP:016226",
             "elevationUnit": "METERS",
             "longitude": -86.33333
@@ -2767,37 +1854,6 @@
             "id": "COOP:016246",
             "elevationUnit": "METERS",
             "longitude": -86.6418
-        },
-        {
-            "mindate": "1938-01-01",
-            "maxdate": "1944-06-01",
-            "latitude": 33.71667,
-            "name": "PARRISH, AL US",
-            "datacoverage": 0.1411,
-            "id": "COOP:016278",
-            "longitude": -87.21667
-        },
-        {
-            "elevation": 292.9,
-            "mindate": "1950-11-01",
-            "maxdate": "1951-01-01",
-            "latitude": 33.6,
-            "name": "PELL CITY, AL US",
-            "datacoverage": 0.9925,
-            "id": "COOP:016327",
-            "elevationUnit": "METERS",
-            "longitude": -86.26667
-        },
-        {
-            "elevation": 246.9,
-            "mindate": "1951-04-01",
-            "maxdate": "1960-05-01",
-            "latitude": 33.6,
-            "name": "PELL CITY, AL US",
-            "datacoverage": 0.9634,
-            "id": "COOP:016328",
-            "elevationUnit": "METERS",
-            "longitude": -86.31667
         },
         {
             "elevation": 292.9,
@@ -2822,17 +1878,6 @@
             "longitude": -88.02806
         },
         {
-            "elevation": 6.1,
-            "mindate": "1950-02-01",
-            "maxdate": "1960-08-01",
-            "latitude": 32.13333,
-            "name": "PENNINGTON LOCK 2, AL US",
-            "datacoverage": 0.9056,
-            "id": "COOP:016335",
-            "elevationUnit": "METERS",
-            "longitude": -88.03333
-        },
-        {
             "elevation": 82.9,
             "mindate": "1940-01-01",
             "maxdate": "2004-10-01",
@@ -2845,25 +1890,14 @@
         },
         {
             "elevation": 73.2,
-            "mindate": "1948-01-01",
+            "mindate": "1948-06-01",
             "maxdate": "2011-07-01",
             "latitude": 31.58833,
             "name": "PETERMAN, AL US",
-            "datacoverage": 0.9338,
+            "datacoverage": 0.0331,
             "id": "COOP:016370",
             "elevationUnit": "METERS",
             "longitude": -87.26806
-        },
-        {
-            "elevation": 118.9,
-            "mindate": "1957-03-01",
-            "maxdate": "1959-01-01",
-            "latitude": 32.51667,
-            "name": "PHENIX CITY 5 NW, AL US",
-            "datacoverage": 0.7805,
-            "id": "COOP:016397",
-            "elevationUnit": "METERS",
-            "longitude": -85.06667
         },
         {
             "elevation": 174,
@@ -2910,17 +1944,6 @@
             "longitude": -86.9865
         },
         {
-            "elevation": 34.1,
-            "mindate": "1940-12-01",
-            "maxdate": "1968-04-01",
-            "latitude": 31.98333,
-            "name": "PINE HILL, AL US",
-            "datacoverage": 0.9271,
-            "id": "COOP:016460",
-            "elevationUnit": "METERS",
-            "longitude": -87.6
-        },
-        {
             "elevation": 146.3,
             "mindate": "1941-01-01",
             "maxdate": "1989-06-01",
@@ -2965,28 +1988,6 @@
             "longitude": -86.9055
         },
         {
-            "elevation": 192,
-            "mindate": "1949-05-01",
-            "maxdate": "1962-03-01",
-            "latitude": 34.95,
-            "name": "PLEASANT GROVE SCHOOL, AL US",
-            "datacoverage": 0.9742,
-            "id": "COOP:016521",
-            "elevationUnit": "METERS",
-            "longitude": -85.91667
-        },
-        {
-            "elevation": 31.1,
-            "mindate": "1948-03-01",
-            "maxdate": "1957-02-01",
-            "latitude": 32.15,
-            "name": "PLEASANT HILL, AL US",
-            "datacoverage": 0.4185,
-            "id": "COOP:016526",
-            "elevationUnit": "METERS",
-            "longitude": -86.91667
-        },
-        {
             "elevation": 92,
             "mindate": "1931-01-01",
             "maxdate": "1978-06-01",
@@ -3007,39 +2008,6 @@
             "id": "COOP:016643",
             "elevationUnit": "METERS",
             "longitude": -86.555
-        },
-        {
-            "elevation": 54.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1965-05-01",
-            "latitude": 32.3,
-            "name": "PRIMROSE FARM, AL US",
-            "datacoverage": 0.9589,
-            "id": "COOP:016684",
-            "elevationUnit": "METERS",
-            "longitude": -86.25
-        },
-        {
-            "elevation": 78.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1964-12-01",
-            "latitude": 32.2,
-            "name": "PUSHMATAHA, AL US",
-            "datacoverage": 0.9558,
-            "id": "COOP:016719",
-            "elevationUnit": "METERS",
-            "longitude": -88.35
-        },
-        {
-            "elevation": 402.9,
-            "mindate": "1956-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 34.5,
-            "name": "RAINSVILLE, AL US",
-            "datacoverage": 0.9203,
-            "id": "COOP:016762",
-            "elevationUnit": "METERS",
-            "longitude": -85.86667
         },
         {
             "elevation": 207,
@@ -3087,11 +2055,11 @@
         },
         {
             "elevation": 57.9,
-            "mindate": "1948-01-01",
+            "mindate": "1948-06-01",
             "maxdate": "1981-01-01",
             "latitude": 31.36667,
             "name": "RIVER FALLS 2 NE, AL US",
-            "datacoverage": 0.6225,
+            "datacoverage": 0.0434,
             "id": "COOP:016942",
             "elevationUnit": "METERS",
             "longitude": -86.51667
@@ -3130,17 +2098,6 @@
             "longitude": -85.2911
         },
         {
-            "elevation": 225.9,
-            "mindate": "1952-12-01",
-            "maxdate": "1962-03-01",
-            "latitude": 34.5,
-            "name": "RUSSELLVILLE, AL US",
-            "datacoverage": 1,
-            "id": "COOP:017126",
-            "elevationUnit": "METERS",
-            "longitude": -87.73333
-        },
-        {
             "elevation": 253,
             "mindate": "1953-09-01",
             "maxdate": "2015-11-01",
@@ -3161,17 +2118,6 @@
             "id": "COOP:017157",
             "elevationUnit": "METERS",
             "longitude": -86.8133
-        },
-        {
-            "elevation": 118.9,
-            "mindate": "1938-01-01",
-            "maxdate": "1938-02-01",
-            "latitude": 33.41667,
-            "name": "SAMANTHA, AL US",
-            "datacoverage": 1,
-            "id": "COOP:017185",
-            "elevationUnit": "METERS",
-            "longitude": -87.6
         },
         {
             "elevation": 362.7,
@@ -3207,17 +2153,6 @@
             "longitude": -86.0536
         },
         {
-            "elevation": 200.9,
-            "mindate": "1949-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 34.68333,
-            "name": "SCOTTSBORO SUBSTATION, AL US",
-            "datacoverage": 0.9752,
-            "id": "COOP:017310",
-            "elevationUnit": "METERS",
-            "longitude": -86.01667
-        },
-        {
             "elevation": 121.9,
             "mindate": "1996-06-01",
             "maxdate": "2015-11-01",
@@ -3227,28 +2162,6 @@
             "id": "COOP:017326",
             "elevationUnit": "METERS",
             "longitude": -85.1794
-        },
-        {
-            "elevation": 118.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1964-12-01",
-            "latitude": 32.3,
-            "name": "SEALE, AL US",
-            "datacoverage": 0.7647,
-            "id": "COOP:017328",
-            "elevationUnit": "METERS",
-            "longitude": -85.16667
-        },
-        {
-            "elevation": 167.9,
-            "mindate": "1953-09-01",
-            "maxdate": "1959-06-01",
-            "latitude": 32.3,
-            "name": "SEALE 6 W, AL US",
-            "datacoverage": 0.8864,
-            "id": "COOP:017329",
-            "elevationUnit": "METERS",
-            "longitude": -85.25
         },
         {
             "elevation": 44.8,
@@ -3262,83 +2175,6 @@
             "longitude": -87.0144
         },
         {
-            "elevation": 54.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1938-04-01",
-            "latitude": 30.63333,
-            "name": "SEVEN HILLS, AL US",
-            "datacoverage": 0.6254,
-            "id": "COOP:017383",
-            "elevationUnit": "METERS",
-            "longitude": -88.36667
-        },
-        {
-            "elevation": 156.1,
-            "mindate": "1948-01-01",
-            "maxdate": "1954-07-01",
-            "latitude": 34.76667,
-            "name": "SHEFFIELD TVA NURSERY, AL US",
-            "datacoverage": 0.9876,
-            "id": "COOP:017415",
-            "elevationUnit": "METERS",
-            "longitude": -87.7
-        },
-        {
-            "elevation": 185.9,
-            "mindate": "1949-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 34.85,
-            "name": "SHOEMAKER SPRINGS, AL US",
-            "datacoverage": 0.994,
-            "id": "COOP:017460",
-            "elevationUnit": "METERS",
-            "longitude": -87.2
-        },
-        {
-            "elevation": 75.9,
-            "mindate": "1948-07-01",
-            "maxdate": "1969-12-01",
-            "latitude": 31.11667,
-            "name": "SLOCOMB, AL US",
-            "datacoverage": 0.8875,
-            "id": "COOP:017576",
-            "elevationUnit": "METERS",
-            "longitude": -85.6
-        },
-        {
-            "elevation": 153,
-            "mindate": "1949-01-01",
-            "maxdate": "1949-03-01",
-            "latitude": 34.76667,
-            "name": "SMITHSONIA, AL US",
-            "datacoverage": 1,
-            "id": "COOP:017599",
-            "elevationUnit": "METERS",
-            "longitude": -87.85
-        },
-        {
-            "elevation": 70.1,
-            "mindate": "1938-01-01",
-            "maxdate": "1967-09-01",
-            "latitude": 32,
-            "name": "SNOW HILL, AL US",
-            "datacoverage": 0.9721,
-            "id": "COOP:017620",
-            "elevationUnit": "METERS",
-            "longitude": -87.01667
-        },
-        {
-            "elevation": 342,
-            "mindate": "1948-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 34.4,
-            "name": "SOUTH HILL, AL US",
-            "datacoverage": 0.9768,
-            "id": "COOP:017671",
-            "elevationUnit": "METERS",
-            "longitude": -86.03333
-        },
-        {
             "elevation": 178.3,
             "mindate": "2013-01-01",
             "maxdate": "2015-11-01",
@@ -3348,17 +2184,6 @@
             "id": "COOP:017674",
             "elevationUnit": "METERS",
             "longitude": -86.7269
-        },
-        {
-            "elevation": 54.9,
-            "mindate": "1938-01-01",
-            "maxdate": "1951-06-01",
-            "latitude": 30.7,
-            "name": "SPRING HILL, AL US",
-            "datacoverage": 0.9201,
-            "id": "COOP:017733",
-            "elevationUnit": "METERS",
-            "longitude": -88.16667
         },
         {
             "elevation": 122.8,
@@ -3394,28 +2219,6 @@
             "longitude": -87.1783
         },
         {
-            "elevation": 203.9,
-            "mindate": "1948-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 34.88333,
-            "name": "SWAIM, AL US",
-            "datacoverage": 0.9768,
-            "id": "COOP:017968",
-            "elevationUnit": "METERS",
-            "longitude": -86.21667
-        },
-        {
-            "elevation": 167.9,
-            "mindate": "1937-01-01",
-            "maxdate": "1959-07-01",
-            "latitude": 33.16667,
-            "name": "SYLACAUGA 2 W, AL US",
-            "datacoverage": 0.9854,
-            "id": "COOP:017994",
-            "elevationUnit": "METERS",
-            "longitude": -86.28333
-        },
-        {
             "elevation": 149.4,
             "mindate": "1955-01-01",
             "maxdate": "2015-11-01",
@@ -3427,17 +2230,6 @@
             "longitude": -86.2114
         },
         {
-            "elevation": 427,
-            "mindate": "1948-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 34.56667,
-            "name": "SYLVANIA, AL US",
-            "datacoverage": 0.9768,
-            "id": "COOP:018012",
-            "elevationUnit": "METERS",
-            "longitude": -85.81667
-        },
-        {
             "elevation": 136.6,
             "mindate": "1931-01-01",
             "maxdate": "2015-11-01",
@@ -3447,17 +2239,6 @@
             "id": "COOP:018024",
             "elevationUnit": "METERS",
             "longitude": -86.135
-        },
-        {
-            "elevation": 586.1,
-            "mindate": "1944-03-01",
-            "maxdate": "1959-09-01",
-            "latitude": 33.3,
-            "name": "TALLADEGA HORN MOUNTAIN TOWER, AL US",
-            "datacoverage": 0.7112,
-            "id": "COOP:018032",
-            "elevationUnit": "METERS",
-            "longitude": -86.06667
         },
         {
             "elevation": 53.9,
@@ -3483,11 +2264,11 @@
         },
         {
             "elevation": 61,
-            "mindate": "1948-01-01",
+            "mindate": "1948-06-01",
             "maxdate": "1972-04-01",
             "latitude": 32.9,
             "name": "THORSBY 1 SW, AL US",
-            "datacoverage": 0.9116,
+            "datacoverage": 0.0464,
             "id": "COOP:018204",
             "elevationUnit": "METERS",
             "longitude": -86.73333
@@ -3515,35 +2296,13 @@
             "longitude": -85.9
         },
         {
-            "elevation": 70.1,
-            "mindate": "1940-01-01",
-            "maxdate": "1949-06-01",
-            "latitude": 31.33333,
-            "name": "TIBBIE 2 S, AL US",
-            "datacoverage": 1,
-            "id": "COOP:018223",
-            "elevationUnit": "METERS",
-            "longitude": -88.25
-        },
-        {
             "elevation": 253,
-            "mindate": "1948-01-01",
+            "mindate": "1948-07-01",
             "maxdate": "1981-01-01",
             "latitude": 34.9,
             "name": "TONEY, AL US",
-            "datacoverage": 0.9943,
+            "datacoverage": 0.0573,
             "id": "COOP:018259",
-            "elevationUnit": "METERS",
-            "longitude": -86.73333
-        },
-        {
-            "elevation": 143,
-            "mindate": "1942-01-01",
-            "maxdate": "1967-03-01",
-            "latitude": 33.81667,
-            "name": "TRAFFORD, AL US",
-            "datacoverage": 0.9701,
-            "id": "COOP:018285",
             "elevationUnit": "METERS",
             "longitude": -86.73333
         },
@@ -3605,39 +2364,6 @@
         {
             "elevation": 134.1,
             "mindate": "1931-01-01",
-            "maxdate": "1954-06-01",
-            "latitude": 32.43333,
-            "name": "TUSKEGEE, AL US",
-            "datacoverage": 0.9931,
-            "id": "COOP:018398",
-            "elevationUnit": "METERS",
-            "longitude": -85.7
-        },
-        {
-            "elevation": 128,
-            "mindate": "1954-07-01",
-            "maxdate": "1968-12-01",
-            "latitude": 32.38333,
-            "name": "TUSKEGEE 3 S, AL US",
-            "datacoverage": 0.9767,
-            "id": "COOP:018403",
-            "elevationUnit": "METERS",
-            "longitude": -85.65
-        },
-        {
-            "elevation": 128,
-            "mindate": "1969-01-01",
-            "maxdate": "1969-12-01",
-            "latitude": 32.38333,
-            "name": "TUSKEGEE 3 SW, AL US",
-            "datacoverage": 0.9173,
-            "id": "COOP:018406",
-            "elevationUnit": "METERS",
-            "longitude": -85.71667
-        },
-        {
-            "elevation": 134.1,
-            "mindate": "1931-01-01",
             "maxdate": "2015-11-01",
             "latitude": 32.0142,
             "name": "UNION SPRINGS 9 S, AL US",
@@ -3658,17 +2384,6 @@
             "longitude": -87.5309
         },
         {
-            "elevation": 70.1,
-            "mindate": "1938-01-01",
-            "maxdate": "1956-09-01",
-            "latitude": 33.2,
-            "name": "UNIVERSITY, AL US",
-            "datacoverage": 0.9775,
-            "id": "COOP:018454",
-            "elevationUnit": "METERS",
-            "longitude": -87.55
-        },
-        {
             "elevation": 341.7,
             "mindate": "1931-01-01",
             "maxdate": "2015-11-01",
@@ -3678,17 +2393,6 @@
             "id": "COOP:018469",
             "elevationUnit": "METERS",
             "longitude": -85.6063
-        },
-        {
-            "elevation": 149,
-            "mindate": "1940-01-01",
-            "maxdate": "1960-05-01",
-            "latitude": 33.16667,
-            "name": "VANCE, AL US",
-            "datacoverage": 0.9551,
-            "id": "COOP:018477",
-            "elevationUnit": "METERS",
-            "longitude": -87.21667
         },
         {
             "elevation": 90.8,
@@ -3889,50 +2593,6 @@
             "longitude": -87.7097
         },
         {
-            "elevation": 177.1,
-            "mindate": "1948-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 34.78333,
-            "name": "WHEELER DAM, AL US",
-            "datacoverage": 1,
-            "id": "COOP:018875",
-            "elevationUnit": "METERS",
-            "longitude": -87.35
-        },
-        {
-            "elevation": 9.1,
-            "mindate": "1950-02-01",
-            "maxdate": "1960-11-01",
-            "latitude": 32.28333,
-            "name": "WHITFIELD LOCK 3, AL US",
-            "datacoverage": 0.9464,
-            "id": "COOP:018925",
-            "elevationUnit": "METERS",
-            "longitude": -88.01667
-        },
-        {
-            "elevation": 192,
-            "mindate": "1950-04-01",
-            "maxdate": "1962-03-01",
-            "latitude": 34.88333,
-            "name": "WIDOWS CREEK STEAM PLANT, AL US",
-            "datacoverage": 0.9649,
-            "id": "COOP:018936",
-            "elevationUnit": "METERS",
-            "longitude": -85.75
-        },
-        {
-            "elevation": 161.8,
-            "mindate": "1949-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 34.8,
-            "name": "WILSON DAM, AL US",
-            "datacoverage": 1,
-            "id": "COOP:018980",
-            "elevationUnit": "METERS",
-            "longitude": -87.61667
-        },
-        {
             "elevation": 158.5,
             "mindate": "1937-05-01",
             "maxdate": "2015-11-01",
@@ -3953,28 +2613,6 @@
             "id": "COOP:019103",
             "elevationUnit": "METERS",
             "longitude": -85.9
-        },
-        {
-            "elevation": 225.9,
-            "mindate": "1949-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 34.95,
-            "name": "YOUNGS STORE, AL US",
-            "datacoverage": 0.9877,
-            "id": "COOP:019350",
-            "elevationUnit": "METERS",
-            "longitude": -87.86667
-        },
-        {
-            "elevation": 136.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1969-12-01",
-            "latitude": 32.6,
-            "name": "GOAT ROCK, AL US",
-            "datacoverage": 0.9381,
-            "id": "COOP:093782",
-            "elevationUnit": "METERS",
-            "longitude": -85.08333
         },
         {
             "elevation": 175.3,
@@ -10375,39 +9013,6 @@
             "longitude": -87.1814
         },
         {
-            "elevation": 302.1,
-            "mindate": "1949-01-01",
-            "maxdate": "1962-03-31",
-            "latitude": 34.41667,
-            "name": "ADDISON CENTRAL TOWER, AL US",
-            "datacoverage": 0.9814,
-            "id": "GHCND:USC00010071",
-            "elevationUnit": "METERS",
-            "longitude": -87.31667
-        },
-        {
-            "elevation": 183.8,
-            "mindate": "1949-01-01",
-            "maxdate": "1949-12-31",
-            "latitude": 34.6891,
-            "name": "BELLE MINA 2 N, AL US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00010117",
-            "elevationUnit": "METERS",
-            "longitude": -86.8819
-        },
-        {
-            "elevation": 34.1,
-            "mindate": "1904-10-01",
-            "maxdate": "1936-12-31",
-            "latitude": 31.13333,
-            "name": "ALAGA, AL US",
-            "datacoverage": 0.9844,
-            "id": "GHCND:USC00010125",
-            "elevationUnit": "METERS",
-            "longitude": -85.06667
-        },
-        {
             "elevation": 53.3,
             "mindate": "1940-10-01",
             "maxdate": "2015-01-25",
@@ -10439,17 +9044,6 @@
             "id": "GHCND:USC00010160",
             "elevationUnit": "METERS",
             "longitude": -85.948
-        },
-        {
-            "elevation": 200.9,
-            "mindate": "1942-11-01",
-            "maxdate": "1969-07-31",
-            "latitude": 32.98333,
-            "name": "ALEXANDER CITY 6 NE, AL US",
-            "datacoverage": 0.9907,
-            "id": "GHCND:USC00010163",
-            "elevationUnit": "METERS",
-            "longitude": -85.86667
         },
         {
             "elevation": 59.4,
@@ -10494,17 +9088,6 @@
             "id": "GHCND:USC00010260",
             "elevationUnit": "METERS",
             "longitude": -87.37195
-        },
-        {
-            "elevation": 220.1,
-            "mindate": "1930-01-01",
-            "maxdate": "1949-03-31",
-            "latitude": 33.66667,
-            "name": "ANNISTON, AL US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00010267",
-            "elevationUnit": "METERS",
-            "longitude": -85.83333
         },
         {
             "elevation": 227.1,
@@ -10629,17 +9212,6 @@
         },
         {
             "elevation": 198.7,
-            "mindate": "1948-07-01",
-            "maxdate": "1951-09-30",
-            "latitude": 32.6,
-            "name": "AUBURN AGRONOMY FARM, AL US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00010427",
-            "elevationUnit": "METERS",
-            "longitude": -85.5
-        },
-        {
-            "elevation": 198.7,
             "mindate": "1976-01-01",
             "maxdate": "2010-12-31",
             "latitude": 32.6,
@@ -10672,17 +9244,6 @@
             "longitude": -87.3572
         },
         {
-            "elevation": 139.9,
-            "mindate": "1949-01-01",
-            "maxdate": "1953-04-30",
-            "latitude": 34.71667,
-            "name": "BARTON, AL US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00010546",
-            "elevationUnit": "METERS",
-            "longitude": -87.86667
-        },
-        {
             "elevation": 82.6,
             "mindate": "1913-11-01",
             "maxdate": "2020-05-17",
@@ -10703,17 +9264,6 @@
             "id": "GHCND:USC00010616",
             "elevationUnit": "METERS",
             "longitude": -87.21194
-        },
-        {
-            "elevation": 246.9,
-            "mindate": "1935-03-01",
-            "maxdate": "1962-03-31",
-            "latitude": 34.46667,
-            "name": "BELGREEN, AL US",
-            "datacoverage": 0.9999,
-            "id": "GHCND:USC00010631",
-            "elevationUnit": "METERS",
-            "longitude": -87.86667
         },
         {
             "elevation": 183.8,
@@ -10749,17 +9299,6 @@
             "longitude": -87.01667
         },
         {
-            "elevation": 159.1,
-            "mindate": "1958-01-01",
-            "maxdate": "1959-05-31",
-            "latitude": 33.43333,
-            "name": "BESSEMER, AL US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00010762",
-            "elevationUnit": "METERS",
-            "longitude": -86.91667
-        },
-        {
             "elevation": 135.6,
             "mindate": "1977-01-01",
             "maxdate": "2020-05-16",
@@ -10782,28 +9321,6 @@
             "longitude": -86.83306
         },
         {
-            "elevation": 267.9,
-            "mindate": "1958-01-01",
-            "maxdate": "1962-03-31",
-            "latitude": 34.98333,
-            "name": "BETHLEHEM, AL US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00010776",
-            "elevationUnit": "METERS",
-            "longitude": -86.63333
-        },
-        {
-            "elevation": 174,
-            "mindate": "1948-07-01",
-            "maxdate": "1951-09-30",
-            "latitude": 34.16667,
-            "name": "BEXAR, AL US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00010790",
-            "elevationUnit": "METERS",
-            "longitude": -88.11667
-        },
-        {
             "elevation": 134.1,
             "mindate": "1938-12-01",
             "maxdate": "2020-05-16",
@@ -10813,59 +9330,6 @@
             "id": "GHCND:USC00010823",
             "elevationUnit": "METERS",
             "longitude": -86.7244
-        },
-        {
-            "elevation": 499.9,
-            "mindate": "1959-07-01",
-            "maxdate": "1962-03-31",
-            "latitude": 34.76667,
-            "name": "BINGHAM MOUNTAIN, AL US",
-            "datacoverage": 0.9986,
-            "id": "GHCND:USC00010826",
-            "elevationUnit": "METERS",
-            "longitude": -86.28333
-        },
-        {
-            "elevation": 214,
-            "mindate": "1893-04-01",
-            "maxdate": "1953-10-31",
-            "latitude": 33.53333,
-            "name": "BIRMINGHAM, AL US",
-            "datacoverage": 0.4374,
-            "id": "GHCND:USC00010836",
-            "elevationUnit": "METERS",
-            "longitude": -86.83333
-        },
-        {
-            "elevation": 143,
-            "mindate": "1937-01-01",
-            "maxdate": "1962-03-31",
-            "latitude": 34.65,
-            "name": "BISHOP, AL US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00010854",
-            "elevationUnit": "METERS",
-            "longitude": -88.11667
-        },
-        {
-            "elevation": 98.1,
-            "mindate": "1954-07-01",
-            "maxdate": "1957-07-31",
-            "latitude": 31.66667,
-            "name": "BLUE SPRINGS, AL US",
-            "datacoverage": 0.8128,
-            "id": "GHCND:USC00010948",
-            "elevationUnit": "METERS",
-            "longitude": -85.51667
-        },
-        {
-            "mindate": "1941-08-01",
-            "maxdate": "1946-01-31",
-            "latitude": 34,
-            "name": "BLUFFTON, AL US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00010952",
-            "longitude": -85.45
         },
         {
             "elevation": 326.1,
@@ -10990,14 +9454,1554 @@
         },
         {
             "elevation": 71.6,
-            "mindate": "1908-06-01",
-            "maxdate": "1961-08-31",
+            "mindate": "1961-09-01",
+            "maxdate": "2010-12-31",
             "latitude": 32.02889,
             "name": "CAMDEN 3 NW, AL US",
-            "datacoverage": 0.9929,
-            "id": "GHCND:USC00011300",
+            "datacoverage": 1,
+            "id": "GHCND:USC00011301",
             "elevationUnit": "METERS",
             "longitude": -87.31667
+        },
+        {
+            "elevation": 207.3,
+            "mindate": "1900-12-01",
+            "maxdate": "2013-11-25",
+            "latitude": 32.8236,
+            "name": "CAMP HILL 2 NW, AL US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00011324",
+            "elevationUnit": "METERS",
+            "longitude": -85.6561
+        },
+        {
+            "elevation": 136.6,
+            "mindate": "1938-03-01",
+            "maxdate": "2016-03-01",
+            "latitude": 33.8463,
+            "name": "CARBON HILL 4 SE, AL US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00011377",
+            "elevationUnit": "METERS",
+            "longitude": -87.4871
+        },
+        {
+            "elevation": 182.9,
+            "mindate": "2002-01-01",
+            "maxdate": "2020-05-14",
+            "latitude": 34.15,
+            "name": "CENTRE, AL US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00011490",
+            "elevationUnit": "METERS",
+            "longitude": -85.6846
+        },
+        {
+            "elevation": 188.1,
+            "mindate": "1956-01-01",
+            "maxdate": "1984-10-31",
+            "latitude": 34.11667,
+            "name": "CENTRE 4 SW, AL US",
+            "datacoverage": 0.9768,
+            "id": "GHCND:USC00011512",
+            "elevationUnit": "METERS",
+            "longitude": -85.73333
+        },
+        {
+            "elevation": 67.1,
+            "mindate": "1916-12-01",
+            "maxdate": "1974-11-30",
+            "latitude": 32.95,
+            "name": "CENTREVILLE, AL US",
+            "datacoverage": 0.9095,
+            "id": "GHCND:USC00011520",
+            "elevationUnit": "METERS",
+            "longitude": -87.13333
+        },
+        {
+            "elevation": 86.9,
+            "mindate": "1949-01-01",
+            "maxdate": "2019-10-02",
+            "latitude": 31.4715,
+            "name": "CHATOM, AL US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00011566",
+            "elevationUnit": "METERS",
+            "longitude": -88.2504
+        },
+        {
+            "elevation": 127.4,
+            "mindate": "1957-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 33.285,
+            "name": "CHILDERSBURG WATER PLANT, AL US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00011620",
+            "elevationUnit": "METERS",
+            "longitude": -86.3431
+        },
+        {
+            "elevation": 15.2,
+            "mindate": "1952-10-01",
+            "maxdate": "2020-04-13",
+            "latitude": 31.61469,
+            "name": "CLAIBORNE LOCK AND DAM, AL US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00011690",
+            "elevationUnit": "METERS",
+            "longitude": -87.5003
+        },
+        {
+            "elevation": 179.8,
+            "mindate": "1893-02-01",
+            "maxdate": "2020-05-17",
+            "latitude": 32.816,
+            "name": "CLANTON, AL US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00011694",
+            "elevationUnit": "METERS",
+            "longitude": -86.60417
+        },
+        {
+            "elevation": 173.4,
+            "mindate": "1928-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 31.8709,
+            "name": "CLAYTON, AL US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00011725",
+            "elevationUnit": "METERS",
+            "longitude": -85.4501
+        },
+        {
+            "elevation": 3.7,
+            "mindate": "1956-01-01",
+            "maxdate": "2014-10-15",
+            "latitude": 30.3875,
+            "name": "CODEN, AL US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00011803",
+            "elevationUnit": "METERS",
+            "longitude": -88.227
+        },
+        {
+            "elevation": 76.2,
+            "mindate": "1923-09-01",
+            "maxdate": "1983-12-31",
+            "latitude": 31.18333,
+            "name": "COFFEE SPRINGS, AL US",
+            "datacoverage": 0.971,
+            "id": "GHCND:USC00011807",
+            "elevationUnit": "METERS",
+            "longitude": -85.93333
+        },
+        {
+            "elevation": 14,
+            "mindate": "1982-12-01",
+            "maxdate": "2020-04-13",
+            "latitude": 31.75615,
+            "name": "COFFEEVILLE LOCK AND DAM, AL US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00011810",
+            "elevationUnit": "METERS",
+            "longitude": -88.12876
+        },
+        {
+            "elevation": 228.9,
+            "mindate": "1938-03-01",
+            "maxdate": "1977-10-31",
+            "latitude": 34.25,
+            "name": "COLLINSVILLE, AL US",
+            "datacoverage": 0.9768,
+            "id": "GHCND:USC00011849",
+            "elevationUnit": "METERS",
+            "longitude": -85.88333
+        },
+        {
+            "elevation": 97.5,
+            "mindate": "1901-02-01",
+            "maxdate": "1991-07-31",
+            "latitude": 33.75,
+            "name": "CORDOVA, AL US",
+            "datacoverage": 0.8113,
+            "id": "GHCND:USC00011940",
+            "elevationUnit": "METERS",
+            "longitude": -87.15
+        },
+        {
+            "elevation": 66.1,
+            "mindate": "1959-05-01",
+            "maxdate": "1986-08-31",
+            "latitude": 32.15,
+            "name": "COTTONTON, AL US",
+            "datacoverage": 0.9206,
+            "id": "GHCND:USC00011974",
+            "elevationUnit": "METERS",
+            "longitude": -85.06667
+        },
+        {
+            "elevation": 67.1,
+            "mindate": "1940-02-01",
+            "maxdate": "1983-02-28",
+            "latitude": 32.43333,
+            "name": "CUBA, AL US",
+            "datacoverage": 0.9943,
+            "id": "GHCND:USC00012079",
+            "elevationUnit": "METERS",
+            "longitude": -88.38333
+        },
+        {
+            "elevation": 247.2,
+            "mindate": "1994-12-01",
+            "maxdate": "2018-12-19",
+            "latitude": 34.1924,
+            "name": "CULLMAN N.A.H.S., AL US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00012096",
+            "elevationUnit": "METERS",
+            "longitude": -86.7972
+        },
+        {
+            "elevation": 198.1,
+            "mindate": "1904-07-01",
+            "maxdate": "1983-12-31",
+            "latitude": 32.81667,
+            "name": "DADEVILLE, AL US",
+            "datacoverage": 0.891,
+            "id": "GHCND:USC00012119",
+            "elevationUnit": "METERS",
+            "longitude": -85.75
+        },
+        {
+            "elevation": 223.4,
+            "mindate": "1948-03-01",
+            "maxdate": "2020-04-01",
+            "latitude": 32.8622,
+            "name": "DADEVILLE 2, AL US",
+            "datacoverage": 0.548,
+            "id": "GHCND:USC00012124",
+            "elevationUnit": "METERS",
+            "longitude": -85.7358
+        },
+        {
+            "elevation": 2.4,
+            "mindate": "1975-08-01",
+            "maxdate": "2020-05-16",
+            "latitude": 30.2505,
+            "name": "DAUPHIN ISLAND NUMBER 2, AL US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00012172",
+            "elevationUnit": "METERS",
+            "longitude": -88.0775
+        },
+        {
+            "elevation": 70.1,
+            "mindate": "1940-01-01",
+            "maxdate": "1982-03-31",
+            "latitude": 32.36667,
+            "name": "DAYTON, AL US",
+            "datacoverage": 0.9744,
+            "id": "GHCND:USC00012188",
+            "elevationUnit": "METERS",
+            "longitude": -87.65
+        },
+        {
+            "elevation": 167.6,
+            "mindate": "1998-12-01",
+            "maxdate": "2020-05-17",
+            "latitude": 34.57556,
+            "name": "DECATUR 4 SE, AL US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00012209",
+            "elevationUnit": "METERS",
+            "longitude": -86.93389
+        },
+        {
+            "elevation": 313.9,
+            "mindate": "1956-09-01",
+            "maxdate": "1977-02-28",
+            "latitude": 33.43333,
+            "name": "DELTA, AL US",
+            "datacoverage": 0.9881,
+            "id": "GHCND:USC00012235",
+            "elevationUnit": "METERS",
+            "longitude": -85.7
+        },
+        {
+            "elevation": 30.5,
+            "mindate": "1951-07-01",
+            "maxdate": "2020-05-17",
+            "latitude": 32.5193,
+            "name": "DEMOPOLIS LOCK AND DAM, AL US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00012245",
+            "elevationUnit": "METERS",
+            "longitude": -87.88
+        },
+        {
+            "elevation": 143.3,
+            "mindate": "2005-10-01",
+            "maxdate": "2020-05-11",
+            "latitude": 33.74778,
+            "name": "DORA, AL US",
+            "datacoverage": 0.7937,
+            "id": "GHCND:USC00012350",
+            "elevationUnit": "METERS",
+            "longitude": -87.05861
+        },
+        {
+            "elevation": 83.8,
+            "mindate": "2003-03-01",
+            "maxdate": "2020-05-04",
+            "latitude": 31.1941,
+            "name": "DOTHAN, AL US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00012377",
+            "elevationUnit": "METERS",
+            "longitude": -85.3708
+        },
+        {
+            "elevation": 246.9,
+            "mindate": "1889-10-01",
+            "maxdate": "1978-09-30",
+            "latitude": 34.15,
+            "name": "DOUBLE SPRINGS, AL US",
+            "datacoverage": 0.9518,
+            "id": "GHCND:USC00012386",
+            "elevationUnit": "METERS",
+            "longitude": -87.41667
+        },
+        {
+            "elevation": 59.4,
+            "mindate": "1893-03-01",
+            "maxdate": "2010-12-31",
+            "latitude": 31.4238,
+            "name": "ELBA, AL US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00012577",
+            "elevationUnit": "METERS",
+            "longitude": -86.0667
+        },
+        {
+            "elevation": 76.8,
+            "mindate": "1940-02-01",
+            "maxdate": "2000-07-31",
+            "latitude": 33.25694,
+            "name": "ELROD, AL US",
+            "datacoverage": 0.9904,
+            "id": "GHCND:USC00012632",
+            "elevationUnit": "METERS",
+            "longitude": -87.79722
+        },
+        {
+            "elevation": 102.7,
+            "mindate": "1966-06-01",
+            "maxdate": "2020-05-16",
+            "latitude": 31.2975,
+            "name": "ENTERPRISE 2 W, AL US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00012675",
+            "elevationUnit": "METERS",
+            "longitude": -85.8996
+        },
+        {
+            "elevation": 91.4,
+            "mindate": "1967-03-01",
+            "maxdate": "2020-02-29",
+            "latitude": 32.0112,
+            "name": "EUFAULA WILDLIFE REF, AL US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00012730",
+            "elevationUnit": "METERS",
+            "longitude": -85.0901
+        },
+        {
+            "elevation": 318.5,
+            "mindate": "1998-06-01",
+            "maxdate": "2000-02-29",
+            "latitude": 34.315,
+            "name": "EVA, AL US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00012737",
+            "elevationUnit": "METERS",
+            "longitude": -86.72556
+        },
+        {
+            "elevation": 88.4,
+            "mindate": "1890-10-01",
+            "maxdate": "2018-02-27",
+            "latitude": 31.4449,
+            "name": "EVERGREEN, AL US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00012758",
+            "elevationUnit": "METERS",
+            "longitude": -86.9532
+        },
+        {
+            "elevation": 7,
+            "mindate": "1917-08-01",
+            "maxdate": "2020-05-15",
+            "latitude": 30.5468,
+            "name": "FAIRHOPE 2 NE, AL US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00012813",
+            "elevationUnit": "METERS",
+            "longitude": -87.8807
+        },
+        {
+            "elevation": 190.5,
+            "mindate": "1938-08-01",
+            "maxdate": "2010-12-31",
+            "latitude": 34.36667,
+            "name": "FALKVILLE, AL US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00012840",
+            "elevationUnit": "METERS",
+            "longitude": -86.88333
+        },
+        {
+            "elevation": 108.8,
+            "mindate": "1892-03-01",
+            "maxdate": "2020-05-17",
+            "latitude": 33.7091,
+            "name": "FAYETTE, AL US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00012883",
+            "elevationUnit": "METERS",
+            "longitude": -87.8152
+        },
+        {
+            "elevation": 176.2,
+            "mindate": "1893-01-01",
+            "maxdate": "1977-04-30",
+            "latitude": 34.8,
+            "name": "FLORENCE, AL US",
+            "datacoverage": 0.8212,
+            "id": "GHCND:USC00012971",
+            "elevationUnit": "METERS",
+            "longitude": -87.68333
+        },
+        {
+            "elevation": 3,
+            "mindate": "1940-05-01",
+            "maxdate": "1975-07-31",
+            "latitude": 30.225833,
+            "name": "FORT MORGAN, AL US",
+            "datacoverage": 0.8143,
+            "id": "GHCND:USC00013035",
+            "elevationUnit": "METERS",
+            "longitude": -88.025833
+        },
+        {
+            "elevation": 279.5,
+            "mindate": "1935-07-01",
+            "maxdate": "2020-05-17",
+            "latitude": 34.4406,
+            "name": "FORT PAYNE, AL US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00013043",
+            "elevationUnit": "METERS",
+            "longitude": -85.7236
+        },
+        {
+            "elevation": 83.8,
+            "mindate": "1930-01-01",
+            "maxdate": "2010-12-31",
+            "latitude": 31.38944,
+            "name": "FRISCO CITY 3 SSW, AL US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00013105",
+            "elevationUnit": "METERS",
+            "longitude": -87.42028
+        },
+        {
+            "elevation": 172.2,
+            "mindate": "1953-03-01",
+            "maxdate": "2020-05-17",
+            "latitude": 34.0219,
+            "name": "GADSDEN, AL US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00013154",
+            "elevationUnit": "METERS",
+            "longitude": -85.9878
+        },
+        {
+            "elevation": 38.1,
+            "mindate": "1948-06-01",
+            "maxdate": "2020-05-17",
+            "latitude": 32.8347,
+            "name": "GAINESVILLE LOCK, AL US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00013160",
+            "elevationUnit": "METERS",
+            "longitude": -88.1341
+        },
+        {
+            "elevation": 153,
+            "mindate": "1938-01-01",
+            "maxdate": "1984-04-01",
+            "latitude": 34.01667,
+            "name": "GARDEN CITY, AL US",
+            "datacoverage": 0.9892,
+            "id": "GHCND:USC00013200",
+            "elevationUnit": "METERS",
+            "longitude": -86.75
+        },
+        {
+            "elevation": 44.2,
+            "mindate": "1976-05-01",
+            "maxdate": "2020-05-17",
+            "latitude": 31.03833,
+            "name": "GENEVA NUMBER 2, AL US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00013251",
+            "elevationUnit": "METERS",
+            "longitude": -85.87083
+        },
+        {
+            "elevation": 32.3,
+            "mindate": "1892-01-01",
+            "maxdate": "2011-03-24",
+            "latitude": 31.03861,
+            "name": "GENEVA, AL US",
+            "datacoverage": 0.7821,
+            "id": "GHCND:USC00013255",
+            "elevationUnit": "METERS",
+            "longitude": -85.87
+        },
+        {
+            "elevation": 91.4,
+            "mindate": "1956-02-01",
+            "maxdate": "2010-12-31",
+            "latitude": 31.67722,
+            "name": "GEORGIANA, AL US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00013271",
+            "elevationUnit": "METERS",
+            "longitude": -86.80611
+        },
+        {
+            "elevation": 39.9,
+            "mindate": "1957-01-01",
+            "maxdate": "1979-03-31",
+            "latitude": 31.88333,
+            "name": "GILBERTOWN, AL US",
+            "datacoverage": 0.9809,
+            "id": "GHCND:USC00013308",
+            "elevationUnit": "METERS",
+            "longitude": -88.33333
+        },
+        {
+            "elevation": 106.7,
+            "mindate": "1937-01-01",
+            "maxdate": "2010-12-31",
+            "latitude": 33.66667,
+            "name": "GORGAS, AL US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00013430",
+            "elevationUnit": "METERS",
+            "longitude": -87.18333
+        },
+        {
+            "elevation": 75.9,
+            "mindate": "1890-02-01",
+            "maxdate": "2020-05-17",
+            "latitude": 32.69212,
+            "name": "GREENSBORO, AL US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00013511",
+            "elevationUnit": "METERS",
+            "longitude": -87.57603
+        },
+        {
+            "elevation": 104.2,
+            "mindate": "1900-01-01",
+            "maxdate": "2020-03-03",
+            "latitude": 31.7901,
+            "name": "GREENVILLE, AL US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00013519",
+            "elevationUnit": "METERS",
+            "longitude": -86.6087
+        },
+        {
+            "elevation": 3,
+            "mindate": "1948-08-01",
+            "maxdate": "1973-07-31",
+            "latitude": 30.28333,
+            "name": "GULF SHORES POST OFFICE, AL US",
+            "datacoverage": 0.97,
+            "id": "GHCND:USC00013559",
+            "elevationUnit": "METERS",
+            "longitude": -87.68333
+        },
+        {
+            "elevation": 176.2,
+            "mindate": "1904-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 34.3344,
+            "name": "GUNTERSVILLE, AL US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00013573",
+            "elevationUnit": "METERS",
+            "longitude": -86.3297
+        },
+        {
+            "elevation": 181.4,
+            "mindate": "1995-11-01",
+            "maxdate": "2020-05-17",
+            "latitude": 34.3347,
+            "name": "GUNTERSVILLE NUMBER 2, AL US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00013575",
+            "elevationUnit": "METERS",
+            "longitude": -86.3294
+        },
+        {
+            "elevation": 272.5,
+            "mindate": "2004-01-01",
+            "maxdate": "2005-06-30",
+            "latitude": 34.28194,
+            "name": "HACKLEBURG, AL US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00013610",
+            "elevationUnit": "METERS",
+            "longitude": -87.85444
+        },
+        {
+            "elevation": 280.4,
+            "mindate": "1902-07-01",
+            "maxdate": "2020-05-16",
+            "latitude": 34.2314,
+            "name": "HALEYVILLE, AL US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00013620",
+            "elevationUnit": "METERS",
+            "longitude": -87.6352
+        },
+        {
+            "elevation": 132.6,
+            "mindate": "1962-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 34.0966,
+            "name": "HAMILTON 3 S, AL US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00013645",
+            "elevationUnit": "METERS",
+            "longitude": -87.9913
+        },
+        {
+            "elevation": 179.8,
+            "mindate": "1985-01-01",
+            "maxdate": "2020-05-11",
+            "latitude": 34.0678,
+            "name": "HANCEVILLE, AL US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00013655",
+            "elevationUnit": "METERS",
+            "longitude": -86.791
+        },
+        {
+            "elevation": 97.5,
+            "mindate": "1995-05-01",
+            "maxdate": "1995-10-31",
+            "latitude": 32.26667,
+            "name": "HATCHECHUBBEE, AL US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00013722",
+            "elevationUnit": "METERS",
+            "longitude": -85.28333
+        },
+        {
+            "elevation": 52.1,
+            "mindate": "1938-01-01",
+            "maxdate": "1981-06-30",
+            "latitude": 32.18333,
+            "name": "HAYNEVILLE, AL US",
+            "datacoverage": 0.9673,
+            "id": "GHCND:USC00013748",
+            "elevationUnit": "METERS",
+            "longitude": -86.58333
+        },
+        {
+            "elevation": 112.8,
+            "mindate": "1950-01-01",
+            "maxdate": "2020-04-09",
+            "latitude": 31.3625,
+            "name": "HEADLAND, AL US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00013761",
+            "elevationUnit": "METERS",
+            "longitude": -85.3397
+        },
+        {
+            "elevation": 304.8,
+            "mindate": "1956-01-01",
+            "maxdate": "2020-04-01",
+            "latitude": 33.64353,
+            "name": "HEFLIN, AL US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00013775",
+            "elevationUnit": "METERS",
+            "longitude": -85.60918
+        },
+        {
+            "elevation": 146.3,
+            "mindate": "2000-03-01",
+            "maxdate": "2020-05-15",
+            "latitude": 33.2725,
+            "name": "HELENA, AL US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00013781",
+            "elevationUnit": "METERS",
+            "longitude": -86.83361
+        },
+        {
+            "elevation": 132,
+            "mindate": "1892-03-01",
+            "maxdate": "2012-05-23",
+            "latitude": 31.8814,
+            "name": "HIGHLAND HOME, AL US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00013816",
+            "elevationUnit": "METERS",
+            "longitude": -86.2503
+        },
+        {
+            "elevation": 169.2,
+            "mindate": "2012-01-01",
+            "maxdate": "2020-03-24",
+            "latitude": 31.9477,
+            "name": "HIGHLAND HOME NUMBER 2, AL US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00013818",
+            "elevationUnit": "METERS",
+            "longitude": -86.3131
+        },
+        {
+            "elevation": 361.2,
+            "mindate": "1941-08-01",
+            "maxdate": "2013-07-16",
+            "latitude": 33.52111,
+            "name": "HIGHTOWER, AL US",
+            "datacoverage": 0.9317,
+            "id": "GHCND:USC00013842",
+            "elevationUnit": "METERS",
+            "longitude": -85.38056
+        },
+        {
+            "elevation": 256,
+            "mindate": "1938-01-01",
+            "maxdate": "2000-03-31",
+            "latitude": 34.36056,
+            "name": "HODGES, AL US",
+            "datacoverage": 0.9798,
+            "id": "GHCND:USC00013899",
+            "elevationUnit": "METERS",
+            "longitude": -87.92833
+        },
+        {
+            "elevation": 59.4,
+            "mindate": "1981-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 33.2533,
+            "name": "HOLT LOCK AND DAM, AL US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00013930",
+            "elevationUnit": "METERS",
+            "longitude": -87.45
+        },
+        {
+            "elevation": 71.6,
+            "mindate": "2017-10-12",
+            "maxdate": "2020-05-17",
+            "latitude": 32.23056,
+            "name": "HOPE HULL 3 S, AL US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00013931",
+            "elevationUnit": "METERS",
+            "longitude": -86.34722
+        },
+        {
+            "elevation": 122.5,
+            "mindate": "1978-01-01",
+            "maxdate": "2020-03-31",
+            "latitude": 32.24667,
+            "name": "HURTSBORO, AL US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00014080",
+            "elevationUnit": "METERS",
+            "longitude": -85.41417
+        },
+        {
+            "elevation": 67.1,
+            "mindate": "1961-10-01",
+            "maxdate": "2020-05-16",
+            "latitude": 31.5253,
+            "name": "JACKSON, AL US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00014193",
+            "elevationUnit": "METERS",
+            "longitude": -87.9277
+        },
+        {
+            "elevation": 192,
+            "mindate": "1948-07-01",
+            "maxdate": "2020-05-17",
+            "latitude": 33.82585,
+            "name": "JACKSONVILLE, AL US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00014209",
+            "elevationUnit": "METERS",
+            "longitude": -85.78115
+        },
+        {
+            "elevation": 148.1,
+            "mindate": "1960-01-01",
+            "maxdate": "2018-07-16",
+            "latitude": 33.9048,
+            "name": "JASPER, AL US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00014226",
+            "elevationUnit": "METERS",
+            "longitude": -87.3154
+        },
+        {
+            "elevation": 44.5,
+            "mindate": "1981-01-01",
+            "maxdate": "2016-03-01",
+            "latitude": 32.3237,
+            "name": "JONES BLUFF LOCK AND DAM, AL US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00014274",
+            "elevationUnit": "METERS",
+            "longitude": -86.7827
+        },
+        {
+            "elevation": 313.6,
+            "mindate": "2019-01-01",
+            "maxdate": "2020-04-01",
+            "latitude": 34.2935,
+            "name": "JOPPA 1 SW, AL US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00014280",
+            "elevationUnit": "METERS",
+            "longitude": -86.5709
+        },
+        {
+            "elevation": 88.4,
+            "mindate": "1937-01-01",
+            "maxdate": "2016-03-01",
+            "latitude": 32.6189,
+            "name": "JORDAN DAM, AL US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00014306",
+            "elevationUnit": "METERS",
+            "longitude": -86.2544
+        },
+        {
+            "elevation": 82.3,
+            "mindate": "1965-06-01",
+            "maxdate": "2010-12-31",
+            "latitude": 31.24028,
+            "name": "KINSTON, AL US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00014431",
+            "elevationUnit": "METERS",
+            "longitude": -86.19472
+        },
+        {
+            "elevation": 225.6,
+            "mindate": "1944-10-01",
+            "maxdate": "2020-04-01",
+            "latitude": 32.9069,
+            "name": "LAFAYETTE 2 W, AL US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00014502",
+            "elevationUnit": "METERS",
+            "longitude": -85.4336
+        },
+        {
+            "elevation": 128,
+            "mindate": "1937-01-01",
+            "maxdate": "2016-03-01",
+            "latitude": 32.96333,
+            "name": "LAY DAM, AL US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00014603",
+            "elevationUnit": "METERS",
+            "longitude": -86.52
+        },
+        {
+            "elevation": 182.9,
+            "mindate": "1917-02-01",
+            "maxdate": "2020-04-23",
+            "latitude": 33.5228,
+            "name": "LEEDS, AL US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00014619",
+            "elevationUnit": "METERS",
+            "longitude": -86.58
+        },
+        {
+            "elevation": 180.1,
+            "mindate": "1900-01-01",
+            "maxdate": "1981-10-31",
+            "latitude": 34.18333,
+            "name": "LEESBURG, AL US",
+            "datacoverage": 0.9975,
+            "id": "GHCND:USC00014627",
+            "elevationUnit": "METERS",
+            "longitude": -85.76667
+        },
+        {
+            "elevation": 39,
+            "mindate": "1891-11-01",
+            "maxdate": "2014-11-01",
+            "latitude": 32.5811,
+            "name": "LIVINGSTON, AL US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00014798",
+            "elevationUnit": "METERS",
+            "longitude": -88.1897
+        },
+        {
+            "elevation": 137.2,
+            "mindate": "1981-10-01",
+            "maxdate": "2018-12-10",
+            "latitude": 33.42583,
+            "name": "LOGAN MARTIN DAM, AL US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00014866",
+            "elevationUnit": "METERS",
+            "longitude": -86.33861
+        },
+        {
+            "elevation": 146.3,
+            "mindate": "1950-04-01",
+            "maxdate": "1990-05-31",
+            "latitude": 31.78333,
+            "name": "LOUISVILLE, AL US",
+            "datacoverage": 0.9924,
+            "id": "GHCND:USC00014884",
+            "elevationUnit": "METERS",
+            "longitude": -85.55
+        },
+        {
+            "elevation": 177.1,
+            "mindate": "1894-02-01",
+            "maxdate": "1974-12-31",
+            "latitude": 34.7,
+            "name": "MADISON, AL US",
+            "datacoverage": 0.964,
+            "id": "GHCND:USC00014976",
+            "elevationUnit": "METERS",
+            "longitude": -86.75
+        },
+        {
+            "elevation": 198.1,
+            "mindate": "1937-01-01",
+            "maxdate": "1977-02-28",
+            "latitude": 33.5,
+            "name": "MAGELLA, AL US",
+            "datacoverage": 0.9981,
+            "id": "GHCND:USC00014996",
+            "elevationUnit": "METERS",
+            "longitude": -86.85
+        },
+        {
+            "elevation": 52.4,
+            "mindate": "1967-11-01",
+            "maxdate": "2010-12-31",
+            "latitude": 32.70278,
+            "name": "MARION 7 NE, AL US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00015112",
+            "elevationUnit": "METERS",
+            "longitude": -87.26806
+        },
+        {
+            "elevation": 61.6,
+            "mindate": "2010-01-01",
+            "maxdate": "2010-12-31",
+            "latitude": 32.44444,
+            "name": "MARION JUNCTION, AL US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00015116",
+            "elevationUnit": "METERS",
+            "longitude": -87.17972
+        },
+        {
+            "elevation": 61,
+            "mindate": "1950-02-01",
+            "maxdate": "2020-05-15",
+            "latitude": 32.4715,
+            "name": "MARION JUNCTION 2 NE, AL US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00015121",
+            "elevationUnit": "METERS",
+            "longitude": -87.2313
+        },
+        {
+            "elevation": 125,
+            "mindate": "1925-01-01",
+            "maxdate": "2010-12-31",
+            "latitude": 32.7028,
+            "name": "WALNUT HILL 3 W, AL US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00015140",
+            "elevationUnit": "METERS",
+            "longitude": -85.8936
+        },
+        {
+            "elevation": 57.9,
+            "mindate": "1956-08-01",
+            "maxdate": "2020-04-01",
+            "latitude": 32.2603,
+            "name": "MATHEWS, AL US",
+            "datacoverage": 0.6865,
+            "id": "GHCND:USC00015172",
+            "elevationUnit": "METERS",
+            "longitude": -86.0003
+        },
+        {
+            "elevation": 106.7,
+            "mindate": "1940-01-01",
+            "maxdate": "2017-05-02",
+            "latitude": 31.9305,
+            "name": "MELVIN, AL US",
+            "datacoverage": 0.6874,
+            "id": "GHCND:USC00015354",
+            "elevationUnit": "METERS",
+            "longitude": -88.4587
+        },
+        {
+            "elevation": 182.9,
+            "mindate": "1940-05-01",
+            "maxdate": "1970-01-31",
+            "latitude": 32.88333,
+            "name": "MERTZ PONDVILLE TOWER, AL US",
+            "datacoverage": 0.9802,
+            "id": "GHCND:USC00015382",
+            "elevationUnit": "METERS",
+            "longitude": -87.33333
+        },
+        {
+            "elevation": 125.6,
+            "mindate": "1940-04-01",
+            "maxdate": "2020-04-30",
+            "latitude": 32.03474,
+            "name": "MIDWAY, AL US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00015397",
+            "elevationUnit": "METERS",
+            "longitude": -85.47396
+        },
+        {
+            "elevation": 35.1,
+            "mindate": "1981-01-01",
+            "maxdate": "2020-04-13",
+            "latitude": 32.1002,
+            "name": "MILLERS FERRY LOCK AND DAM, AL US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00015420",
+            "elevationUnit": "METERS",
+            "longitude": -87.3982
+        },
+        {
+            "elevation": 83.8,
+            "mindate": "1981-10-01",
+            "maxdate": "2020-04-01",
+            "latitude": 33.575,
+            "name": "MILLPORT 2 E, AL US",
+            "datacoverage": 0.9538,
+            "id": "GHCND:USC00015435",
+            "elevationUnit": "METERS",
+            "longitude": -88.0344
+        },
+        {
+            "elevation": 65.5,
+            "mindate": "1902-05-25",
+            "maxdate": "2016-08-31",
+            "latitude": 32.4419,
+            "name": "MILSTEAD, AL US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00015439",
+            "elevationUnit": "METERS",
+            "longitude": -85.8889
+        },
+        {
+            "elevation": 113.1,
+            "mindate": "1957-01-01",
+            "maxdate": "1978-07-31",
+            "latitude": 32.1,
+            "name": "MINTER 3 NW, AL US",
+            "datacoverage": 0.9693,
+            "id": "GHCND:USC00015449",
+            "elevationUnit": "METERS",
+            "longitude": -87.03333
+        },
+        {
+            "elevation": 106.7,
+            "mindate": "1937-01-01",
+            "maxdate": "2016-03-01",
+            "latitude": 32.80444,
+            "name": "MITCHELL DAM, AL US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00015465",
+            "elevationUnit": "METERS",
+            "longitude": -86.44639
+        },
+        {
+            "elevation": 125,
+            "mindate": "1893-12-01",
+            "maxdate": "2020-04-01",
+            "latitude": 33.098,
+            "name": "MONTEVALLO, AL US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00015537",
+            "elevationUnit": "METERS",
+            "longitude": -86.8658
+        },
+        {
+            "elevation": 249.9,
+            "mindate": "1995-01-01",
+            "maxdate": "1998-01-31",
+            "latitude": 33.1525,
+            "name": "MONTEVALLO 5 NW, AL US",
+            "datacoverage": 0.9991,
+            "id": "GHCND:USC00015539",
+            "elevationUnit": "METERS",
+            "longitude": -86.92278
+        },
+        {
+            "elevation": 67.1,
+            "mindate": "1996-01-01",
+            "maxdate": "2007-07-31",
+            "latitude": 32.3036,
+            "name": "MONTGOMERY NUMBER 2, AL US",
+            "datacoverage": 0.8135,
+            "id": "GHCND:USC00015547",
+            "elevationUnit": "METERS",
+            "longitude": -86.3997
+        },
+        {
+            "elevation": 68.6,
+            "mindate": "1998-01-01",
+            "maxdate": "2020-05-12",
+            "latitude": 32.26,
+            "name": "MONTGOMERY 6 SW, AL US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00015553",
+            "elevationUnit": "METERS",
+            "longitude": -86.218
+        },
+        {
+            "elevation": 189.6,
+            "mindate": "1957-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 34.4884,
+            "name": "MOULTON 2, AL US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00015635",
+            "elevationUnit": "METERS",
+            "longitude": -87.299
+        },
+        {
+            "elevation": 36.6,
+            "mindate": "1981-12-01",
+            "maxdate": "2020-02-29",
+            "latitude": 32.9963,
+            "name": "MOUNDVILLE, AL US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00015658",
+            "elevationUnit": "METERS",
+            "longitude": -87.632
+        },
+        {
+            "elevation": 164.6,
+            "mindate": "2012-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 34.7586,
+            "name": "MUSCLE SHOALS WATER PLANT, AL US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00015751",
+            "elevationUnit": "METERS",
+            "longitude": -87.6411
+        },
+        {
+            "elevation": 162.8,
+            "mindate": "2001-01-01",
+            "maxdate": "2012-01-11",
+            "latitude": 34.78889,
+            "name": "MUSCLE SHOALS 3 NE, AL US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00015752",
+            "elevationUnit": "METERS",
+            "longitude": -87.53944
+        },
+        {
+            "elevation": 223.1,
+            "mindate": "1957-01-01",
+            "maxdate": "1977-02-28",
+            "latitude": 34.91667,
+            "name": "NEW MARKET, AL US",
+            "datacoverage": 0.8453,
+            "id": "GHCND:USC00015867",
+            "elevationUnit": "METERS",
+            "longitude": -86.45
+        },
+        {
+            "elevation": 42.4,
+            "mindate": "1891-12-01",
+            "maxdate": "1981-04-30",
+            "latitude": 31.3458,
+            "name": "NEWTON, AL US",
+            "datacoverage": 0.6692,
+            "id": "GHCND:USC00015875",
+            "elevationUnit": "METERS",
+            "longitude": -85.6227
+        },
+        {
+            "elevation": 176.8,
+            "mindate": "1981-07-01",
+            "maxdate": "2011-07-29",
+            "latitude": 33.3263,
+            "name": "OAK MOUNTAIN STATE PARK, AL US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00016000",
+            "elevationUnit": "METERS",
+            "longitude": -86.7562
+        },
+        {
+            "elevation": 109.7,
+            "mindate": "2017-10-17",
+            "maxdate": "2020-05-16",
+            "latitude": 33.72222,
+            "name": "OAKMAN, AL US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00016001",
+            "elevationUnit": "METERS",
+            "longitude": -87.38306
+        },
+        {
+            "elevation": 335.3,
+            "mindate": "1894-08-01",
+            "maxdate": "2020-05-17",
+            "latitude": 33.9265,
+            "name": "ONEONTA, AL US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00016121",
+            "elevationUnit": "METERS",
+            "longitude": -86.42116
+        },
+        {
+            "elevation": 195.1,
+            "mindate": "1957-01-01",
+            "maxdate": "2020-05-15",
+            "latitude": 32.6592,
+            "name": "OPELIKA, AL US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00016129",
+            "elevationUnit": "METERS",
+            "longitude": -85.4492
+        },
+        {
+            "elevation": 61,
+            "mindate": "1891-07-01",
+            "maxdate": "1973-05-31",
+            "latitude": 32.3,
+            "name": "ORRVILLE, AL US",
+            "datacoverage": 0.6558,
+            "id": "GHCND:USC00016161",
+            "elevationUnit": "METERS",
+            "longitude": -87.23333
+        },
+        {
+            "elevation": 179.8,
+            "mindate": "2004-01-01",
+            "maxdate": "2020-05-16",
+            "latitude": 34.5528,
+            "name": "OWENS CROSS ROADS 3 S, AL US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00016196",
+            "elevationUnit": "METERS",
+            "longitude": -86.445
+        },
+        {
+            "elevation": 143.3,
+            "mindate": "1902-05-01",
+            "maxdate": "1986-03-31",
+            "latitude": 31.53333,
+            "name": "OZARK 6 NNW, AL US",
+            "datacoverage": 0.9762,
+            "id": "GHCND:USC00016218",
+            "elevationUnit": "METERS",
+            "longitude": -85.68333
+        },
+        {
+            "elevation": 220.1,
+            "mindate": "1948-06-01",
+            "maxdate": "2016-08-31",
+            "latitude": 33.7449,
+            "name": "PALMERDALE, AL US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00016246",
+            "elevationUnit": "METERS",
+            "longitude": -86.6418
+        },
+        {
+            "elevation": 292.9,
+            "mindate": "1960-01-01",
+            "maxdate": "1976-07-31",
+            "latitude": 33.6,
+            "name": "PELL CITY, AL US",
+            "datacoverage": 0.9845,
+            "id": "GHCND:USC00016329",
+            "elevationUnit": "METERS",
+            "longitude": -86.26667
+        },
+        {
+            "elevation": 25.9,
+            "mindate": "1981-10-01",
+            "maxdate": "2010-12-31",
+            "latitude": 32.22583,
+            "name": "PENNINGTON 2 NE, AL US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00016334",
+            "elevationUnit": "METERS",
+            "longitude": -88.02806
+        },
+        {
+            "elevation": 82.9,
+            "mindate": "1940-01-01",
+            "maxdate": "2004-10-31",
+            "latitude": 32.65667,
+            "name": "PERRYVILLE, AL US",
+            "datacoverage": 0.9151,
+            "id": "GHCND:USC00016362",
+            "elevationUnit": "METERS",
+            "longitude": -87.09278
+        },
+        {
+            "elevation": 174,
+            "mindate": "1959-01-01",
+            "maxdate": "1974-10-31",
+            "latitude": 32.5,
+            "name": "PHENIX CITY 2 NNW, AL US",
+            "datacoverage": 0.9279,
+            "id": "GHCND:USC00016398",
+            "elevationUnit": "METERS",
+            "longitude": -85.01667
+        },
+        {
+            "elevation": 52.1,
+            "mindate": "1940-02-01",
+            "maxdate": "1977-04-30",
+            "latitude": 33.21667,
+            "name": "PICKENSVILLE, AL US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00016414",
+            "elevationUnit": "METERS",
+            "longitude": -88.25
+        },
+        {
+            "elevation": 50.3,
+            "mindate": "1977-07-01",
+            "maxdate": "1980-04-30",
+            "latitude": 33.21,
+            "name": "ALICEVILLE L AND D, AL US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00016418",
+            "elevationUnit": "METERS",
+            "longitude": -88.2878
+        },
+        {
+            "elevation": 80.8,
+            "mindate": "1967-10-01",
+            "maxdate": "2017-11-30",
+            "latitude": 31.8812,
+            "name": "PINE APPLE, AL US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00016436",
+            "elevationUnit": "METERS",
+            "longitude": -86.9865
+        },
+        {
+            "elevation": 146.3,
+            "mindate": "1941-05-01",
+            "maxdate": "1989-06-30",
+            "latitude": 32.03333,
+            "name": "PINE LEVEL 4 ESE, AL US",
+            "datacoverage": 0.9761,
+            "id": "GHCND:USC00016468",
+            "elevationUnit": "METERS",
+            "longitude": -85.98333
+        },
+        {
+            "elevation": 185.3,
+            "mindate": "1951-01-01",
+            "maxdate": "2014-11-30",
+            "latitude": 33.6906,
+            "name": "PINSON, AL US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00016478",
+            "elevationUnit": "METERS",
+            "longitude": -86.685
+        },
+        {
+            "elevation": 115.8,
+            "mindate": "1968-04-01",
+            "maxdate": "1985-10-31",
+            "latitude": 32.18333,
+            "name": "PITTSVIEW, AL US",
+            "datacoverage": 0.8625,
+            "id": "GHCND:USC00016501",
+            "elevationUnit": "METERS",
+            "longitude": -85.16667
+        },
+        {
+            "elevation": 70.1,
+            "mindate": "1940-01-01",
+            "maxdate": "2017-12-31",
+            "latitude": 32.613,
+            "name": "PLANTERSVILLE 2 SSE, AL US",
+            "datacoverage": 0.9967,
+            "id": "GHCND:USC00016508",
+            "elevationUnit": "METERS",
+            "longitude": -86.9055
+        },
+        {
+            "elevation": 92,
+            "mindate": "1899-12-01",
+            "maxdate": "1977-09-30",
+            "latitude": 32.48333,
+            "name": "PRATTVILLE, AL US",
+            "datacoverage": 0.9454,
+            "id": "GHCND:USC00016640",
+            "elevationUnit": "METERS",
+            "longitude": -86.48333
+        },
+        {
+            "elevation": 107,
+            "mindate": "2001-12-01",
+            "maxdate": "2007-04-30",
+            "latitude": 32.44528,
+            "name": "PRATTVILLE 3 SW, AL US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00016643",
+            "elevationUnit": "METERS",
+            "longitude": -86.555
+        },
+        {
+            "elevation": 146.3,
+            "mindate": "2011-02-09",
+            "maxdate": "2020-05-01",
+            "latitude": 33.7075,
+            "name": "RAGLAND 2 SSW, AL US",
+            "datacoverage": 0.9077,
+            "id": "GHCND:USC00016760",
+            "elevationUnit": "METERS",
+            "longitude": -86.18444
+        },
+        {
+            "elevation": 207,
+            "mindate": "1949-01-01",
+            "maxdate": "1979-10-31",
+            "latitude": 34.43333,
+            "name": "RED BAY, AL US",
+            "datacoverage": 0.9676,
+            "id": "GHCND:USC00016805",
+            "elevationUnit": "METERS",
+            "longitude": -88.13333
+        },
+        {
+            "elevation": 174,
+            "mindate": "1954-01-01",
+            "maxdate": "1975-05-31",
+            "latitude": 34.58333,
+            "name": "REDSTONE ARSENAL, AL US",
+            "datacoverage": 0.988,
+            "id": "GHCND:USC00016833",
+            "elevationUnit": "METERS",
+            "longitude": -86.6
+        },
+        {
+            "elevation": 70.1,
+            "mindate": "1938-01-01",
+            "maxdate": "2020-04-23",
+            "latitude": 33.37389,
+            "name": "REFORM, AL US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00016847",
+            "elevationUnit": "METERS",
+            "longitude": -88.00528
+        },
+        {
+            "elevation": 54.9,
+            "mindate": "1928-01-01",
+            "maxdate": "1979-06-30",
+            "latitude": 31.35,
+            "name": "RIVER FALLS, AL US",
+            "datacoverage": 0.9524,
+            "id": "GHCND:USC00016937",
+            "elevationUnit": "METERS",
+            "longitude": -86.53333
+        },
+        {
+            "elevation": 49.1,
+            "mindate": "1912-05-01",
+            "maxdate": "2020-05-11",
+            "latitude": 30.5654,
+            "name": "ROBERTSDALE, AL US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00016988",
+            "elevationUnit": "METERS",
+            "longitude": -87.7018
+        },
+        {
+            "elevation": 182.9,
+            "mindate": "1954-07-01",
+            "maxdate": "2020-04-01",
+            "latitude": 32.8711,
+            "name": "ROCKFORD 3 ESE, AL US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00017020",
+            "elevationUnit": "METERS",
+            "longitude": -86.1758
+        },
+        {
+            "elevation": 228.6,
+            "mindate": "1938-06-01",
+            "maxdate": "2020-05-15",
+            "latitude": 33.158,
+            "name": "ROCK MILLS, AL US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00017025",
+            "elevationUnit": "METERS",
+            "longitude": -85.2911
+        },
+        {
+            "elevation": 253,
+            "mindate": "1953-09-01",
+            "maxdate": "2020-05-17",
+            "latitude": 34.51,
+            "name": "RUSSELLVILLE NUMBER 2, AL US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00017131",
+            "elevationUnit": "METERS",
+            "longitude": -87.7319
+        },
+        {
+            "elevation": 243.8,
+            "mindate": "1907-07-01",
+            "maxdate": "2020-04-01",
+            "latitude": 34.1736,
+            "name": "SAINT BERNARD, AL US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00017157",
+            "elevationUnit": "METERS",
+            "longitude": -86.8133
         }
     ]
 }

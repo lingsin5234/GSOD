@@ -2,7 +2,7 @@
     "metadata": {
         "resultset": {
             "offset": 1,
-            "count": 164,
+            "count": 130,
             "limit": 1000
         }
     },
@@ -17,17 +17,6 @@
             "id": "COOP:370218",
             "elevationUnit": "METERS",
             "longitude": -71.15
-        },
-        {
-            "elevation": 167.9,
-            "mindate": "1948-06-01",
-            "maxdate": "1956-12-01",
-            "latitude": 41.6,
-            "name": "AUSTIN, RI US",
-            "datacoverage": 0.9997,
-            "id": "COOP:370576",
-            "elevationUnit": "METERS",
-            "longitude": -71.65
         },
         {
             "elevation": 32,
@@ -52,17 +41,6 @@
             "longitude": -71.5571
         },
         {
-            "elevation": 18,
-            "mindate": "1948-05-01",
-            "maxdate": "1950-04-20",
-            "latitude": 41.46667,
-            "name": "FORT ADAMS, RI US",
-            "datacoverage": 0.998,
-            "id": "COOP:372826",
-            "elevationUnit": "METERS",
-            "longitude": -71.33333
-        },
-        {
             "elevation": 128,
             "mindate": "1938-04-01",
             "maxdate": "1974-08-01",
@@ -85,17 +63,6 @@
             "longitude": -71.543
         },
         {
-            "elevation": 31.1,
-            "mindate": "1948-01-01",
-            "maxdate": "1948-09-01",
-            "latitude": 41.5,
-            "name": "MIDDLETOWN 2 NE NEWP, RI US",
-            "datacoverage": 0.9998,
-            "id": "COOP:375002",
-            "elevationUnit": "METERS",
-            "longitude": -71.26667
-        },
-        {
             "elevation": 4.6,
             "mindate": "1957-11-01",
             "maxdate": "2005-06-01",
@@ -105,17 +72,6 @@
             "id": "COOP:375215",
             "elevationUnit": "METERS",
             "longitude": -71.34271
-        },
-        {
-            "elevation": 3,
-            "mindate": "1950-05-01",
-            "maxdate": "1965-03-29",
-            "latitude": 41.5,
-            "name": "NEWPORT WATER WORKS, RI US",
-            "datacoverage": 0.8574,
-            "id": "COOP:375225",
-            "elevationUnit": "METERS",
-            "longitude": -71.3
         },
         {
             "elevation": 192,
@@ -140,28 +96,6 @@
             "longitude": -71.68333
         },
         {
-            "elevation": 29.6,
-            "mindate": "1931-01-01",
-            "maxdate": "1938-02-01",
-            "latitude": 41.866667,
-            "name": "PAWTUCKET, RI US",
-            "datacoverage": 1,
-            "id": "COOP:375882",
-            "elevationUnit": "METERS",
-            "longitude": -71.366667
-        },
-        {
-            "elevation": 68.6,
-            "mindate": "1938-03-01",
-            "maxdate": "1946-11-01",
-            "latitude": 41.533333,
-            "name": "PORTSMOUTH, RI US",
-            "datacoverage": 0.9711,
-            "id": "COOP:376453",
-            "elevationUnit": "METERS",
-            "longitude": -71.266667
-        },
-        {
             "elevation": 16.8,
             "mindate": "1948-05-01",
             "maxdate": "2015-11-01",
@@ -171,28 +105,6 @@
             "id": "COOP:376698",
             "elevationUnit": "METERS",
             "longitude": -71.4325
-        },
-        {
-            "elevation": 21,
-            "mindate": "1948-05-01",
-            "maxdate": "1953-04-27",
-            "latitude": 41.83333,
-            "name": "PROVIDENCE, RI US",
-            "datacoverage": 1,
-            "id": "COOP:376703",
-            "elevationUnit": "METERS",
-            "longitude": -71.41667
-        },
-        {
-            "elevation": 46,
-            "mindate": "1940-04-01",
-            "maxdate": "1948-09-01",
-            "latitude": 41.53333,
-            "name": "SLOCUM, RI US",
-            "datacoverage": 0.9901,
-            "id": "COOP:377567",
-            "elevationUnit": "METERS",
-            "longitude": -71.51667
         },
         {
             "elevation": 27.4,
@@ -206,30 +118,8 @@
             "longitude": -71.2093
         },
         {
-            "elevation": 11.9,
-            "mindate": "1944-11-01",
-            "maxdate": "1950-10-01",
-            "latitude": 41.36667,
-            "name": "WESTERLY 1 W, RI US",
-            "datacoverage": 0.9447,
-            "id": "COOP:378911",
-            "elevationUnit": "METERS",
-            "longitude": -71.83333
-        },
-        {
-            "elevation": 14.9,
-            "mindate": "1948-01-01",
-            "maxdate": "1948-09-01",
-            "latitude": 41.43333,
-            "name": "WOOD RIVER JUNCTION, RI US",
-            "datacoverage": 0.9998,
-            "id": "COOP:379327",
-            "elevationUnit": "METERS",
-            "longitude": -71.7
-        },
-        {
             "elevation": 33.5,
-            "mindate": "1948-05-01",
+            "mindate": "1948-07-01",
             "maxdate": "2015-11-01",
             "latitude": 41.9844,
             "name": "WOONSOCKET, RI US",
@@ -1240,17 +1130,6 @@
             "longitude": -71.15
         },
         {
-            "elevation": 167.9,
-            "mindate": "1948-06-01",
-            "maxdate": "1956-11-30",
-            "latitude": 41.6,
-            "name": "AUSTIN, RI US",
-            "datacoverage": 0.9999,
-            "id": "GHCND:USC00370576",
-            "elevationUnit": "METERS",
-            "longitude": -71.65
-        },
-        {
             "elevation": 39.6,
             "mindate": "2015-01-01",
             "maxdate": "2020-05-16",
@@ -1260,17 +1139,6 @@
             "id": "GHCND:USC00370897",
             "elevationUnit": "METERS",
             "longitude": -71.5676
-        },
-        {
-            "elevation": 16.2,
-            "mindate": "1893-01-01",
-            "maxdate": "1926-09-30",
-            "latitude": 41.666667,
-            "name": "BRISTOL, RI US",
-            "datacoverage": 0.973,
-            "id": "GHCND:USC00371175",
-            "elevationUnit": "METERS",
-            "longitude": -71.3
         },
         {
             "elevation": 79.2,
@@ -1295,28 +1163,6 @@
             "longitude": -71.5571
         },
         {
-            "elevation": 18,
-            "mindate": "1948-10-01",
-            "maxdate": "1950-03-26",
-            "latitude": 41.46667,
-            "name": "FORT ADAMS, RI US",
-            "datacoverage": 0.7179,
-            "id": "GHCND:USC00372826",
-            "elevationUnit": "METERS",
-            "longitude": -71.33333
-        },
-        {
-            "elevation": 130.1,
-            "mindate": "1910-01-01",
-            "maxdate": "1925-05-31",
-            "latitude": 41.666667,
-            "name": "GREENE, RI US",
-            "datacoverage": 0.9839,
-            "id": "GHCND:USC00373260",
-            "elevationUnit": "METERS",
-            "longitude": -71.75
-        },
-        {
             "elevation": 128,
             "mindate": "1942-04-01",
             "maxdate": "1974-08-31",
@@ -1326,17 +1172,6 @@
             "id": "GHCND:USC00373306",
             "elevationUnit": "METERS",
             "longitude": -71.56667
-        },
-        {
-            "elevation": 42.7,
-            "mindate": "1910-01-01",
-            "maxdate": "1920-05-31",
-            "latitude": 41.5,
-            "name": "HOPE VALLEY, RI US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00373600",
-            "elevationUnit": "METERS",
-            "longitude": -71.75
         },
         {
             "elevation": 35.7,
@@ -1350,48 +1185,6 @@
             "longitude": -71.543
         },
         {
-            "elevation": 35.4,
-            "mindate": "1893-01-01",
-            "maxdate": "1899-12-31",
-            "latitude": 41.9,
-            "name": "LONSDALE, RI US",
-            "datacoverage": 0.9995,
-            "id": "GHCND:USC00374750",
-            "elevationUnit": "METERS",
-            "longitude": -71.4
-        },
-        {
-            "elevation": 31.1,
-            "mindate": "1946-12-01",
-            "maxdate": "1948-09-30",
-            "latitude": 41.5,
-            "name": "MIDDLETOWN 2 NE NEWP, RI US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00375002",
-            "elevationUnit": "METERS",
-            "longitude": -71.26667
-        },
-        {
-            "elevation": 6.7,
-            "mindate": "1895-05-01",
-            "maxdate": "1918-07-31",
-            "latitude": 41.433333,
-            "name": "NARRAGANSETT PIER, RI US",
-            "datacoverage": 0.9964,
-            "id": "GHCND:USC00375110",
-            "elevationUnit": "METERS",
-            "longitude": -71.466667
-        },
-        {
-            "mindate": "1893-01-01",
-            "maxdate": "1899-05-30",
-            "latitude": 41.533333,
-            "name": "NEWPORT, RI US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00375210",
-            "longitude": -71.3
-        },
-        {
             "elevation": 4.6,
             "mindate": "1957-01-01",
             "maxdate": "2010-12-31",
@@ -1401,17 +1194,6 @@
             "id": "GHCND:USC00375215",
             "elevationUnit": "METERS",
             "longitude": -71.34271
-        },
-        {
-            "elevation": 3,
-            "mindate": "1950-05-01",
-            "maxdate": "1951-09-27",
-            "latitude": 41.5,
-            "name": "NEWPORT WATER WORKS, RI US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00375225",
-            "elevationUnit": "METERS",
-            "longitude": -71.3
         },
         {
             "elevation": 192,
@@ -1436,103 +1218,6 @@
             "longitude": -71.68333
         },
         {
-            "mindate": "1893-01-01",
-            "maxdate": "1893-11-30",
-            "latitude": 41.8,
-            "name": "OLNEYVILLE, RI US",
-            "datacoverage": 0.9113,
-            "id": "GHCND:USC00375610",
-            "longitude": -71.483333
-        },
-        {
-            "elevation": 29.6,
-            "mindate": "1893-01-01",
-            "maxdate": "1938-06-30",
-            "latitude": 41.866667,
-            "name": "PAWTUCKET, RI US",
-            "datacoverage": 0.9947,
-            "id": "GHCND:USC00375882",
-            "elevationUnit": "METERS",
-            "longitude": -71.366667
-        },
-        {
-            "elevation": 7.3,
-            "mindate": "1943-11-01",
-            "maxdate": "1946-01-31",
-            "latitude": 41.366667,
-            "name": "POINT JUDITH, RI US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00376450",
-            "elevationUnit": "METERS",
-            "longitude": -71.483333
-        },
-        {
-            "elevation": 68.6,
-            "mindate": "1900-04-01",
-            "maxdate": "1946-11-30",
-            "latitude": 41.533333,
-            "name": "PORTSMOUTH, RI US",
-            "datacoverage": 0.2875,
-            "id": "GHCND:USC00376453",
-            "elevationUnit": "METERS",
-            "longitude": -71.266667
-        },
-        {
-            "elevation": 21,
-            "mindate": "1948-06-01",
-            "maxdate": "1953-04-30",
-            "latitude": 41.83333,
-            "name": "PROVIDENCE, RI US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00376703",
-            "elevationUnit": "METERS",
-            "longitude": -71.41667
-        },
-        {
-            "elevation": 22.9,
-            "mindate": "1896-02-01",
-            "maxdate": "1917-01-31",
-            "latitude": 41.833333,
-            "name": "PROVIDENCE 1, RI US",
-            "datacoverage": 0.9961,
-            "id": "GHCND:USC00376710",
-            "elevationUnit": "METERS",
-            "longitude": -71.416667
-        },
-        {
-            "elevation": 62.2,
-            "mindate": "1893-01-01",
-            "maxdate": "1913-11-30",
-            "latitude": 41.833333,
-            "name": "PROVIDENCE 2, RI US",
-            "datacoverage": 0.9843,
-            "id": "GHCND:USC00376712",
-            "elevationUnit": "METERS",
-            "longitude": -71.4
-        },
-        {
-            "elevation": 21.3,
-            "mindate": "1893-01-01",
-            "maxdate": "1893-06-30",
-            "latitude": 41.833333,
-            "name": "PROVIDENCE 3, RI US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00376714",
-            "elevationUnit": "METERS",
-            "longitude": -71.416667
-        },
-        {
-            "elevation": 46,
-            "mindate": "1938-04-01",
-            "maxdate": "1948-09-30",
-            "latitude": 41.53333,
-            "name": "SLOCUM, RI US",
-            "datacoverage": 0.9998,
-            "id": "GHCND:USC00377567",
-            "elevationUnit": "METERS",
-            "longitude": -71.51667
-        },
-        {
             "elevation": 27.4,
             "mindate": "1998-01-01",
             "maxdate": "2019-06-30",
@@ -1542,39 +1227,6 @@
             "id": "GHCND:USC00377581",
             "elevationUnit": "METERS",
             "longitude": -71.2093
-        },
-        {
-            "elevation": 182.9,
-            "mindate": "1910-01-01",
-            "maxdate": "1917-12-31",
-            "latitude": 42,
-            "name": "WALLUM LAKE, RI US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00378820",
-            "elevationUnit": "METERS",
-            "longitude": -71.766667
-        },
-        {
-            "elevation": 11.9,
-            "mindate": "1944-09-01",
-            "maxdate": "1950-10-31",
-            "latitude": 41.36667,
-            "name": "WESTERLY 1 W, RI US",
-            "datacoverage": 0.9326,
-            "id": "GHCND:USC00378911",
-            "elevationUnit": "METERS",
-            "longitude": -71.83333
-        },
-        {
-            "elevation": 14.9,
-            "mindate": "1938-04-01",
-            "maxdate": "1948-09-30",
-            "latitude": 41.43333,
-            "name": "WOOD RIVER JUNCTION, RI US",
-            "datacoverage": 0.9839,
-            "id": "GHCND:USC00379327",
-            "elevationUnit": "METERS",
-            "longitude": -71.7
         },
         {
             "elevation": 33.5,
@@ -1599,17 +1251,6 @@
             "longitude": -71.4325
         },
         {
-            "elevation": 14.9,
-            "mindate": "1947-01-01",
-            "maxdate": "1947-06-30",
-            "latitude": 41.368075,
-            "name": "CHARLESTOWN NAAS, RI US",
-            "datacoverage": 1,
-            "id": "GHCND:USW00014782",
-            "elevationUnit": "METERS",
-            "longitude": -71.667131
-        },
-        {
             "elevation": 52.4,
             "mindate": "1996-07-01",
             "maxdate": "2020-05-15",
@@ -1630,17 +1271,6 @@
             "id": "GHCND:USW00014794",
             "elevationUnit": "METERS",
             "longitude": -71.79889
-        },
-        {
-            "elevation": 13.1,
-            "mindate": "1948-01-01",
-            "maxdate": "1950-09-22",
-            "latitude": 41.16667,
-            "name": "BLOCK ISLAND, RI US",
-            "datacoverage": 1,
-            "id": "GHCND:USW00014799",
-            "elevationUnit": "METERS",
-            "longitude": -71.56667
         },
         {
             "elevation": 35.1,

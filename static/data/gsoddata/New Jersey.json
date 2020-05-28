@@ -2,7 +2,7 @@
     "metadata": {
         "resultset": {
             "offset": 1,
-            "count": 856,
+            "count": 750,
             "limit": 1000
         }
     },
@@ -74,17 +74,6 @@
             "longitude": -74.843
         },
         {
-            "elevation": 11.9,
-            "mindate": "1941-10-01",
-            "maxdate": "1967-12-01",
-            "latitude": 40.15,
-            "name": "BELMAR 2 SW, NJ US",
-            "datacoverage": 0.8095,
-            "id": "COOP:280721",
-            "elevationUnit": "METERS",
-            "longitude": -74.06667
-        },
-        {
             "elevation": 85,
             "mindate": "1931-01-01",
             "maxdate": "1981-12-01",
@@ -105,17 +94,6 @@
             "id": "COOP:280734",
             "elevationUnit": "METERS",
             "longitude": -75.08339
-        },
-        {
-            "elevation": 46,
-            "mindate": "1941-07-01",
-            "maxdate": "1959-06-01",
-            "latitude": 39.8,
-            "name": "BERLIN 1 W, NJ US",
-            "datacoverage": 0.9399,
-            "id": "COOP:280787",
-            "elevationUnit": "METERS",
-            "longitude": -74.95
         },
         {
             "elevation": 73.2,
@@ -184,28 +162,6 @@
             "longitude": -74.2453
         },
         {
-            "elevation": 34.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1957-11-01",
-            "latitude": 39.46667,
-            "name": "BRIDGETON 1 NE, NJ US",
-            "datacoverage": 0.9659,
-            "id": "COOP:281028",
-            "elevationUnit": "METERS",
-            "longitude": -75.2
-        },
-        {
-            "elevation": 31.7,
-            "mindate": "1948-08-01",
-            "maxdate": "1948-12-01",
-            "latitude": 39.4871,
-            "name": "SEABROOK FARMS, NJ US",
-            "datacoverage": 0.5968,
-            "id": "COOP:281033",
-            "elevationUnit": "METERS",
-            "longitude": -75.2201
-        },
-        {
             "elevation": 30.5,
             "mindate": "1977-08-01",
             "maxdate": "1990-12-01",
@@ -217,17 +173,6 @@
             "longitude": -75.16667
         },
         {
-            "elevation": 9.1,
-            "mindate": "1941-07-01",
-            "maxdate": "1949-12-01",
-            "latitude": 39.88333,
-            "name": "BROOKLAWN, NJ US",
-            "datacoverage": 0.9016,
-            "id": "COOP:281106",
-            "elevationUnit": "METERS",
-            "longitude": -75.11667
-        },
-        {
             "elevation": 3.7,
             "mindate": "1931-01-01",
             "maxdate": "1978-06-01",
@@ -237,17 +182,6 @@
             "id": "COOP:281211",
             "elevationUnit": "METERS",
             "longitude": -74.86667
-        },
-        {
-            "elevation": 4.3,
-            "mindate": "1952-03-01",
-            "maxdate": "1953-02-01",
-            "latitude": 39.91667,
-            "name": "CAMDEN, NJ US",
-            "datacoverage": 0.6671,
-            "id": "COOP:281280",
-            "elevationUnit": "METERS",
-            "longitude": -75.11667
         },
         {
             "elevation": 370,
@@ -294,17 +228,6 @@
             "longitude": -74.93611
         },
         {
-            "elevation": 121.9,
-            "mindate": "1948-08-01",
-            "maxdate": "1965-10-01",
-            "latitude": 40.86667,
-            "name": "CEDAR GROVE, NJ US",
-            "datacoverage": 0.9613,
-            "id": "COOP:281472",
-            "elevationUnit": "METERS",
-            "longitude": -74.21667
-        },
-        {
             "elevation": 30.5,
             "mindate": "1954-04-01",
             "maxdate": "1972-11-01",
@@ -325,17 +248,6 @@
             "id": "COOP:281582",
             "elevationUnit": "METERS",
             "longitude": -74.42477
-        },
-        {
-            "elevation": 57.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1963-02-01",
-            "latitude": 40.75,
-            "name": "CHATHAM, NJ US",
-            "datacoverage": 0.9613,
-            "id": "COOP:281590",
-            "elevationUnit": "METERS",
-            "longitude": -74.36667
         },
         {
             "elevation": 108.2,
@@ -371,28 +283,6 @@
             "longitude": -75.01667
         },
         {
-            "elevation": 36.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1962-07-01",
-            "latitude": 39.65,
-            "name": "CLAYTON, NJ US",
-            "datacoverage": 0.7626,
-            "id": "COOP:281708",
-            "elevationUnit": "METERS",
-            "longitude": -75.1
-        },
-        {
-            "elevation": 61,
-            "mindate": "1943-05-01",
-            "maxdate": "1969-11-01",
-            "latitude": 40.63333,
-            "name": "CLINTON, NJ US",
-            "datacoverage": 0.9559,
-            "id": "COOP:281749",
-            "elevationUnit": "METERS",
-            "longitude": -74.91667
-        },
-        {
             "elevation": 93,
             "mindate": "1970-07-01",
             "maxdate": "2012-01-01",
@@ -426,28 +316,6 @@
             "longitude": -74.32349
         },
         {
-            "elevation": 232,
-            "mindate": "1931-01-01",
-            "maxdate": "1953-12-01",
-            "latitude": 41.16667,
-            "name": "CULVERS LAKE, NJ US",
-            "datacoverage": 0.9529,
-            "id": "COOP:282130",
-            "elevationUnit": "METERS",
-            "longitude": -74.78333
-        },
-        {
-            "elevation": 3,
-            "mindate": "1948-08-01",
-            "maxdate": "1959-06-01",
-            "latitude": 39.68333,
-            "name": "DEEPWATER, NJ US",
-            "datacoverage": 0.9622,
-            "id": "COOP:282209",
-            "elevationUnit": "METERS",
-            "longitude": -75.5
-        },
-        {
             "elevation": 11.9,
             "mindate": "1931-01-01",
             "maxdate": "1970-06-01",
@@ -459,17 +327,6 @@
             "longitude": -74.23333
         },
         {
-            "elevation": 3,
-            "mindate": "1948-05-03",
-            "maxdate": "1964-08-01",
-            "latitude": 40.64222,
-            "name": "ELIZABETHPORT, NJ US",
-            "datacoverage": 0.9105,
-            "id": "COOP:282652",
-            "elevationUnit": "METERS",
-            "longitude": -74.20166
-        },
-        {
             "elevation": 106.7,
             "mindate": "1949-06-01",
             "maxdate": "2014-01-01",
@@ -477,17 +334,6 @@
             "name": "ESSEX FELLS SERV BUILDING, NJ US",
             "datacoverage": 0.8709,
             "id": "COOP:282768",
-            "elevationUnit": "METERS",
-            "longitude": -74.2858
-        },
-        {
-            "elevation": 106.7,
-            "mindate": "1945-07-01",
-            "maxdate": "1949-05-01",
-            "latitude": 40.8314,
-            "name": "ESSEX FELLS SERV BUILDING, NJ US",
-            "datacoverage": 0.9572,
-            "id": "COOP:282773",
             "elevationUnit": "METERS",
             "longitude": -74.2858
         },
@@ -547,17 +393,6 @@
             "longitude": -75.09528
         },
         {
-            "elevation": 164.9,
-            "mindate": "1948-05-12",
-            "maxdate": "1962-01-01",
-            "latitude": 40.93333,
-            "name": "GREAT MEADOWS 4 N, NJ US",
-            "datacoverage": 0.7372,
-            "id": "COOP:283416",
-            "elevationUnit": "METERS",
-            "longitude": -74.91667
-        },
-        {
             "elevation": 143.3,
             "mindate": "1948-08-01",
             "maxdate": "2011-12-01",
@@ -567,17 +402,6 @@
             "id": "COOP:283516",
             "elevationUnit": "METERS",
             "longitude": -74.32444
-        },
-        {
-            "elevation": 3,
-            "mindate": "1953-01-01",
-            "maxdate": "1964-03-01",
-            "latitude": 40.88333,
-            "name": "HACKENSACK, NJ US",
-            "datacoverage": 0.0615,
-            "id": "COOP:283572",
-            "elevationUnit": "METERS",
-            "longitude": -74.05
         },
         {
             "elevation": 38.1,
@@ -624,17 +448,6 @@
             "longitude": -74.56417
         },
         {
-            "elevation": 24.1,
-            "mindate": "1948-08-05",
-            "maxdate": "1960-05-01",
-            "latitude": 40.28333,
-            "name": "HIGHTSTOWN PUMP STATION, NJ US",
-            "datacoverage": 0.5005,
-            "id": "COOP:283956",
-            "elevationUnit": "METERS",
-            "longitude": -74.53333
-        },
-        {
             "elevation": 30.5,
             "mindate": "1931-01-01",
             "maxdate": "2015-11-01",
@@ -644,17 +457,6 @@
             "id": "COOP:284229",
             "elevationUnit": "METERS",
             "longitude": -74.78042
-        },
-        {
-            "elevation": 27.1,
-            "mindate": "1948-05-01",
-            "maxdate": "1964-05-15",
-            "latitude": 40.71667,
-            "name": "IRVINGTON, NJ US",
-            "datacoverage": 0.979,
-            "id": "COOP:284260",
-            "elevationUnit": "METERS",
-            "longitude": -74.25
         },
         {
             "elevation": 41.1,
@@ -668,28 +470,6 @@
             "longitude": -74.05722
         },
         {
-            "elevation": 34.1,
-            "mindate": "1948-05-07",
-            "maxdate": "1951-09-25",
-            "latitude": 40.03333,
-            "name": "LAKEHURST NAS, NJ US",
-            "datacoverage": 0.7372,
-            "id": "COOP:284596",
-            "elevationUnit": "METERS",
-            "longitude": -74.35
-        },
-        {
-            "elevation": 16.5,
-            "mindate": "1931-01-01",
-            "maxdate": "1957-09-01",
-            "latitude": 40.1,
-            "name": "LAKEWOOD 2 ENE, NJ US",
-            "datacoverage": 0.9615,
-            "id": "COOP:284627",
-            "elevationUnit": "METERS",
-            "longitude": -74.18333
-        },
-        {
             "elevation": 20.7,
             "mindate": "1931-01-01",
             "maxdate": "2015-11-01",
@@ -699,39 +479,6 @@
             "id": "COOP:284635",
             "elevationUnit": "METERS",
             "longitude": -74.94461
-        },
-        {
-            "elevation": 6.1,
-            "mindate": "1957-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 40.06667,
-            "name": "LAURELTON 1 E, NJ US",
-            "datacoverage": 0.8278,
-            "id": "COOP:284700",
-            "elevationUnit": "METERS",
-            "longitude": -74.11667
-        },
-        {
-            "elevation": 143,
-            "mindate": "1931-01-01",
-            "maxdate": "1962-02-01",
-            "latitude": 41.25,
-            "name": "LAYTON 3 NW, NJ US",
-            "datacoverage": 0.9895,
-            "id": "COOP:284735",
-            "elevationUnit": "METERS",
-            "longitude": -74.85
-        },
-        {
-            "elevation": 3,
-            "mindate": "1951-08-01",
-            "maxdate": "1959-06-01",
-            "latitude": 39.23333,
-            "name": "LEESBURG STATE FARM, NJ US",
-            "datacoverage": 1,
-            "id": "COOP:284762",
-            "elevationUnit": "METERS",
-            "longitude": -74.96667
         },
         {
             "elevation": 45.7,
@@ -783,21 +530,10 @@
             "maxdate": "1970-10-01",
             "latitude": 39.9883,
             "name": "MOUNT HOLLY, NJ US",
-            "datacoverage": 0.9216,
+            "datacoverage": 0.0552,
             "id": "COOP:285055",
             "elevationUnit": "METERS",
             "longitude": -74.8047
-        },
-        {
-            "elevation": 176.8,
-            "mindate": "1948-08-01",
-            "maxdate": "1960-12-01",
-            "latitude": 41.01667,
-            "name": "MACOPIN LOWER INTAKE DAM, NJ US",
-            "datacoverage": 0.9797,
-            "id": "COOP:285071",
-            "elevationUnit": "METERS",
-            "longitude": -74.4
         },
         {
             "elevation": 75.9,
@@ -809,39 +545,6 @@
             "id": "COOP:285104",
             "elevationUnit": "METERS",
             "longitude": -74.16667
-        },
-        {
-            "elevation": 14.9,
-            "mindate": "1945-08-01",
-            "maxdate": "1967-09-01",
-            "latitude": 40.55,
-            "name": "MANVILLE, NJ US",
-            "datacoverage": 0.9361,
-            "id": "COOP:285197",
-            "elevationUnit": "METERS",
-            "longitude": -74.56667
-        },
-        {
-            "elevation": 36.9,
-            "mindate": "1948-05-07",
-            "maxdate": "1968-04-01",
-            "latitude": 40.33333,
-            "name": "MARLBORO SOIL CONSERVATION SERVICE, NJ US",
-            "datacoverage": 0.9216,
-            "id": "COOP:285244",
-            "elevationUnit": "METERS",
-            "longitude": -74.23333
-        },
-        {
-            "elevation": 27.1,
-            "mindate": "1941-07-01",
-            "maxdate": "1968-09-01",
-            "latitude": 39.9,
-            "name": "MARLTON 1 W, NJ US",
-            "datacoverage": 0.9862,
-            "id": "COOP:285252",
-            "elevationUnit": "METERS",
-            "longitude": -74.93333
         },
         {
             "elevation": 8.5,
@@ -954,17 +657,6 @@
             "longitude": -74.42259
         },
         {
-            "elevation": 26.2,
-            "mindate": "1931-01-01",
-            "maxdate": "1968-06-01",
-            "latitude": 40.46667,
-            "name": "NEW BRUNSWICK, NJ US",
-            "datacoverage": 0.9822,
-            "id": "COOP:286062",
-            "elevationUnit": "METERS",
-            "longitude": -74.43333
-        },
-        {
             "elevation": 3.7,
             "mindate": "1931-01-01",
             "maxdate": "2014-12-01",
@@ -974,17 +666,6 @@
             "id": "COOP:286146",
             "elevationUnit": "METERS",
             "longitude": -74.01583
-        },
-        {
-            "elevation": 9.1,
-            "mindate": "1961-04-01",
-            "maxdate": "1968-09-01",
-            "latitude": 40.41667,
-            "name": "NEW MONMOUTH, NJ US",
-            "datacoverage": 0.9775,
-            "id": "COOP:286154",
-            "elevationUnit": "METERS",
-            "longitude": -74.1
         },
         {
             "elevation": 184.4,
@@ -1009,28 +690,6 @@
             "longitude": -74.50124
         },
         {
-            "elevation": 78.9,
-            "mindate": "1956-11-01",
-            "maxdate": "1968-02-01",
-            "latitude": 40.66667,
-            "name": "OLDWICK, NJ US",
-            "datacoverage": 1,
-            "id": "COOP:286544",
-            "elevationUnit": "METERS",
-            "longitude": -74.75
-        },
-        {
-            "elevation": 49.1,
-            "mindate": "1940-04-01",
-            "maxdate": "1964-04-01",
-            "latitude": 40.78333,
-            "name": "ORANGE, NJ US",
-            "datacoverage": 0.9343,
-            "id": "COOP:286560",
-            "elevationUnit": "METERS",
-            "longitude": -74.21667
-        },
-        {
             "elevation": 31.1,
             "mindate": "1931-01-01",
             "maxdate": "1974-09-01",
@@ -1051,17 +710,6 @@
             "id": "COOP:286843",
             "elevationUnit": "METERS",
             "longitude": -74.68278
-        },
-        {
-            "elevation": 18,
-            "mindate": "1964-07-01",
-            "maxdate": "1968-06-01",
-            "latitude": 39.95,
-            "name": "PENNSAUKEN, NJ US",
-            "datacoverage": 1,
-            "id": "COOP:286863",
-            "elevationUnit": "METERS",
-            "longitude": -75.06667
         },
         {
             "elevation": 14,
@@ -1097,17 +745,6 @@
             "longitude": -75.18333
         },
         {
-            "elevation": 70.7,
-            "mindate": "1940-01-01",
-            "maxdate": "1969-09-01",
-            "latitude": 40.69555,
-            "name": "PHILLIPSBURG EASTON BRIDGE, NJ US",
-            "datacoverage": 0.9496,
-            "id": "COOP:286979",
-            "elevationUnit": "METERS",
-            "longitude": -75.19994
-        },
-        {
             "elevation": 27.4,
             "mindate": "1931-01-01",
             "maxdate": "2015-11-01",
@@ -1117,39 +754,6 @@
             "id": "COOP:287079",
             "elevationUnit": "METERS",
             "longitude": -74.4025
-        },
-        {
-            "elevation": 34.1,
-            "mindate": "1941-07-01",
-            "maxdate": "1948-12-01",
-            "latitude": 40.31667,
-            "name": "PLAINSBORO, NJ US",
-            "datacoverage": 0.966,
-            "id": "COOP:287095",
-            "elevationUnit": "METERS",
-            "longitude": -74.6
-        },
-        {
-            "elevation": 43,
-            "mindate": "1957-01-01",
-            "maxdate": "1959-03-01",
-            "latitude": 40.56667,
-            "name": "PLEASANT RUN, NJ US",
-            "datacoverage": 1,
-            "id": "COOP:287123",
-            "elevationUnit": "METERS",
-            "longitude": -74.8
-        },
-        {
-            "elevation": 3,
-            "mindate": "1931-01-01",
-            "maxdate": "1958-06-01",
-            "latitude": 39.41667,
-            "name": "PLEASANTVILLE 1 N, NJ US",
-            "datacoverage": 0.9941,
-            "id": "COOP:287131",
-            "elevationUnit": "METERS",
-            "longitude": -74.51667
         },
         {
             "elevation": 111.3,
@@ -1174,17 +778,6 @@
             "longitude": -74.66667
         },
         {
-            "elevation": 195.1,
-            "mindate": "1948-05-03",
-            "maxdate": "1951-10-01",
-            "latitude": 40.56667,
-            "name": "QUAKERTOWN, NJ US",
-            "datacoverage": 0.7438,
-            "id": "COOP:287372",
-            "elevationUnit": "METERS",
-            "longitude": -74.95
-        },
-        {
             "elevation": 6.1,
             "mindate": "1940-01-01",
             "maxdate": "2003-06-01",
@@ -1194,17 +787,6 @@
             "id": "COOP:287393",
             "elevationUnit": "METERS",
             "longitude": -74.25694
-        },
-        {
-            "elevation": 24.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1960-04-01",
-            "latitude": 40.83333,
-            "name": "RIDGEFIELD, NJ US",
-            "datacoverage": 0.9944,
-            "id": "COOP:287545",
-            "elevationUnit": "METERS",
-            "longitude": -74.01667
         },
         {
             "elevation": 93,
@@ -1218,50 +800,6 @@
             "longitude": -74.2683
         },
         {
-            "elevation": 11.9,
-            "mindate": "1948-02-01",
-            "maxdate": "1953-06-01",
-            "latitude": 39.85,
-            "name": "RUNNEMEDE, NJ US",
-            "datacoverage": 0.9699,
-            "id": "COOP:287817",
-            "elevationUnit": "METERS",
-            "longitude": -75.06667
-        },
-        {
-            "elevation": 6.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1958-05-01",
-            "latitude": 40.43333,
-            "name": "RUNYON, NJ US",
-            "datacoverage": 0.9758,
-            "id": "COOP:287825",
-            "elevationUnit": "METERS",
-            "longitude": -74.33333
-        },
-        {
-            "elevation": 39.9,
-            "mindate": "1964-08-01",
-            "maxdate": "1968-05-31",
-            "latitude": 40.48333,
-            "name": "RUTGERS MICRO MET ST, NJ US",
-            "datacoverage": 0.0559,
-            "id": "COOP:287831",
-            "elevationUnit": "METERS",
-            "longitude": -74.43333
-        },
-        {
-            "elevation": 14.9,
-            "mindate": "1944-07-01",
-            "maxdate": "1951-02-01",
-            "latitude": 40.81667,
-            "name": "RUTHERFORD, NJ US",
-            "datacoverage": 0.8878,
-            "id": "COOP:287833",
-            "elevationUnit": "METERS",
-            "longitude": -74.11667
-        },
-        {
             "elevation": 3,
             "mindate": "1969-07-01",
             "maxdate": "2012-12-01",
@@ -1271,17 +809,6 @@
             "id": "COOP:287865",
             "elevationUnit": "METERS",
             "longitude": -74.0055
-        },
-        {
-            "elevation": 6.7,
-            "mindate": "1931-01-01",
-            "maxdate": "1959-06-01",
-            "latitude": 40.4675,
-            "name": "FORT HANCOCK COAST GUARD STATION, NJ US",
-            "datacoverage": 0.9651,
-            "id": "COOP:287869",
-            "elevationUnit": "METERS",
-            "longitude": -74.0091
         },
         {
             "elevation": 31.7,
@@ -1355,7 +882,7 @@
             "maxdate": "2003-06-01",
             "latitude": 40.69639,
             "name": "SPRINGFIELD, NJ US",
-            "datacoverage": 0.9479,
+            "datacoverage": 0.0627,
             "id": "COOP:288423",
             "elevationUnit": "METERS",
             "longitude": -74.33639
@@ -1383,28 +910,6 @@
             "longitude": -74.6446
         },
         {
-            "elevation": 24.1,
-            "mindate": "1946-03-01",
-            "maxdate": "1954-03-01",
-            "latitude": 39.73333,
-            "name": "SWEDESBORO, NJ US",
-            "datacoverage": 0.8761,
-            "id": "COOP:288680",
-            "elevationUnit": "METERS",
-            "longitude": -75.31667
-        },
-        {
-            "elevation": 3,
-            "mindate": "1946-09-01",
-            "maxdate": "1959-06-01",
-            "latitude": 39.78333,
-            "name": "SWEDESBORO 5 NW, NJ US",
-            "datacoverage": 0.8769,
-            "id": "COOP:288685",
-            "elevationUnit": "METERS",
-            "longitude": -75.4
-        },
-        {
             "elevation": 3,
             "mindate": "1939-07-01",
             "maxdate": "2011-12-01",
@@ -1414,28 +919,6 @@
             "id": "COOP:288816",
             "elevationUnit": "METERS",
             "longitude": -74.2167
-        },
-        {
-            "elevation": 167.9,
-            "mindate": "1956-01-01",
-            "maxdate": "1962-05-01",
-            "latitude": 40.95,
-            "name": "TRANQUILITY 2 W, NJ US",
-            "datacoverage": 0.0753,
-            "id": "COOP:288858",
-            "elevationUnit": "METERS",
-            "longitude": -74.83333
-        },
-        {
-            "elevation": 11.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1959-06-01",
-            "latitude": 40.23333,
-            "name": "TRENTON NOTTINGHAMWA, NJ US",
-            "datacoverage": 0.9709,
-            "id": "COOP:288878",
-            "elevationUnit": "METERS",
-            "longitude": -74.76667
         },
         {
             "elevation": 30.5,
@@ -1471,17 +954,6 @@
             "longitude": -74.3387
         },
         {
-            "elevation": 34.1,
-            "mindate": "1939-07-01",
-            "maxdate": "1959-06-01",
-            "latitude": 39.48333,
-            "name": "VINELAND, NJ US",
-            "datacoverage": 0.9708,
-            "id": "COOP:289135",
-            "elevationUnit": "METERS",
-            "longitude": -75
-        },
-        {
             "elevation": 74.7,
             "mindate": "1945-08-01",
             "maxdate": "2011-05-01",
@@ -1498,7 +970,7 @@
             "maxdate": "2012-10-01",
             "latitude": 40.66667,
             "name": "WATCHUNG, NJ US",
-            "datacoverage": 0.9458,
+            "datacoverage": 0.0524,
             "id": "COOP:289271",
             "elevationUnit": "METERS",
             "longitude": -74.41667
@@ -1513,17 +985,6 @@
             "id": "COOP:289363",
             "elevationUnit": "METERS",
             "longitude": -74.77911
-        },
-        {
-            "elevation": 43,
-            "mindate": "1939-11-01",
-            "maxdate": "1961-05-31",
-            "latitude": 40.65,
-            "name": "WESTFIELD, NJ US",
-            "datacoverage": 0.9015,
-            "id": "COOP:289455",
-            "elevationUnit": "METERS",
-            "longitude": -74.35
         },
         {
             "elevation": 207,
@@ -1568,17 +1029,6 @@
             "id": "COOP:289910",
             "elevationUnit": "METERS",
             "longitude": -75.16444
-        },
-        {
-            "elevation": 131.1,
-            "mindate": "1939-11-01",
-            "maxdate": "1983-01-31",
-            "latitude": 41.21667,
-            "name": "DINGMANS FERRY, PA US",
-            "datacoverage": 0.8726,
-            "id": "COOP:362160",
-            "elevationUnit": "METERS",
-            "longitude": -74.86667
         },
         {
             "elevation": 31.4,
@@ -7389,17 +6839,6 @@
             "longitude": -74.843
         },
         {
-            "elevation": 11.9,
-            "mindate": "1941-10-01",
-            "maxdate": "1967-09-30",
-            "latitude": 40.15,
-            "name": "BELMAR 2 SW, NJ US",
-            "datacoverage": 0.843,
-            "id": "GHCND:USC00280721",
-            "elevationUnit": "METERS",
-            "longitude": -74.06667
-        },
-        {
             "elevation": 85,
             "mindate": "1893-01-01",
             "maxdate": "1981-10-31",
@@ -7420,17 +6859,6 @@
             "id": "GHCND:USC00280734",
             "elevationUnit": "METERS",
             "longitude": -75.08339
-        },
-        {
-            "elevation": 46,
-            "mindate": "1941-01-01",
-            "maxdate": "1959-06-30",
-            "latitude": 39.8,
-            "name": "BERLIN 1 W, NJ US",
-            "datacoverage": 0.9677,
-            "id": "GHCND:USC00280787",
-            "elevationUnit": "METERS",
-            "longitude": -74.95
         },
         {
             "elevation": 73.2,
@@ -7499,28 +6927,6 @@
             "longitude": -74.2453
         },
         {
-            "elevation": 34.1,
-            "mindate": "1893-01-01",
-            "maxdate": "1958-06-30",
-            "latitude": 39.46667,
-            "name": "BRIDGETON 1 NE, NJ US",
-            "datacoverage": 0.9594,
-            "id": "GHCND:USC00281028",
-            "elevationUnit": "METERS",
-            "longitude": -75.2
-        },
-        {
-            "elevation": 31.7,
-            "mindate": "1948-08-01",
-            "maxdate": "1949-05-31",
-            "latitude": 39.4871,
-            "name": "SEABROOK FARMS, NJ US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00281033",
-            "elevationUnit": "METERS",
-            "longitude": -75.2201
-        },
-        {
             "elevation": 30.5,
             "mindate": "1977-08-01",
             "maxdate": "1990-12-31",
@@ -7532,17 +6938,6 @@
             "longitude": -75.16667
         },
         {
-            "elevation": 9.1,
-            "mindate": "1948-08-01",
-            "maxdate": "1949-12-31",
-            "latitude": 39.88333,
-            "name": "BROOKLAWN, NJ US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00281106",
-            "elevationUnit": "METERS",
-            "longitude": -75.11667
-        },
-        {
             "elevation": 3.7,
             "mindate": "1907-01-01",
             "maxdate": "1977-10-31",
@@ -7552,17 +6947,6 @@
             "id": "GHCND:USC00281211",
             "elevationUnit": "METERS",
             "longitude": -74.86667
-        },
-        {
-            "elevation": 4.3,
-            "mindate": "1893-01-01",
-            "maxdate": "1953-02-28",
-            "latitude": 39.91667,
-            "name": "CAMDEN, NJ US",
-            "datacoverage": 0.32,
-            "id": "GHCND:USC00281280",
-            "elevationUnit": "METERS",
-            "longitude": -75.11667
         },
         {
             "elevation": 370,
@@ -7620,17 +7004,6 @@
             "longitude": -74.93611
         },
         {
-            "elevation": 121.9,
-            "mindate": "1941-01-01",
-            "maxdate": "1965-10-31",
-            "latitude": 40.86667,
-            "name": "CEDAR GROVE, NJ US",
-            "datacoverage": 0.943,
-            "id": "GHCND:USC00281472",
-            "elevationUnit": "METERS",
-            "longitude": -74.21667
-        },
-        {
             "elevation": 15.8,
             "mindate": "2016-10-01",
             "maxdate": "2017-12-29",
@@ -7651,17 +7024,6 @@
             "id": "GHCND:USC00281582",
             "elevationUnit": "METERS",
             "longitude": -74.42477
-        },
-        {
-            "elevation": 57.9,
-            "mindate": "1903-02-01",
-            "maxdate": "1963-02-24",
-            "latitude": 40.75,
-            "name": "CHATHAM, NJ US",
-            "datacoverage": 0.9641,
-            "id": "GHCND:USC00281590",
-            "elevationUnit": "METERS",
-            "longitude": -74.36667
         },
         {
             "elevation": 108.2,
@@ -7697,28 +7059,6 @@
             "longitude": -75.01667
         },
         {
-            "elevation": 36.9,
-            "mindate": "1896-11-01",
-            "maxdate": "1962-07-31",
-            "latitude": 39.65,
-            "name": "CLAYTON, NJ US",
-            "datacoverage": 0.7935,
-            "id": "GHCND:USC00281708",
-            "elevationUnit": "METERS",
-            "longitude": -75.1
-        },
-        {
-            "elevation": 61,
-            "mindate": "1943-04-01",
-            "maxdate": "1969-07-31",
-            "latitude": 40.63333,
-            "name": "CLINTON, NJ US",
-            "datacoverage": 0.9746,
-            "id": "GHCND:USC00281749",
-            "elevationUnit": "METERS",
-            "longitude": -74.91667
-        },
-        {
             "elevation": 24.4,
             "mindate": "1969-01-01",
             "maxdate": "2016-02-29",
@@ -7728,39 +7068,6 @@
             "id": "GHCND:USC00282023",
             "elevationUnit": "METERS",
             "longitude": -74.32349
-        },
-        {
-            "elevation": 232,
-            "mindate": "1902-04-01",
-            "maxdate": "1954-07-31",
-            "latitude": 41.16667,
-            "name": "CULVERS LAKE, NJ US",
-            "datacoverage": 0.9681,
-            "id": "GHCND:USC00282130",
-            "elevationUnit": "METERS",
-            "longitude": -74.78333
-        },
-        {
-            "elevation": 3,
-            "mindate": "1940-01-01",
-            "maxdate": "1959-06-30",
-            "latitude": 39.68333,
-            "name": "DEEPWATER, NJ US",
-            "datacoverage": 0.9733,
-            "id": "GHCND:USC00282209",
-            "elevationUnit": "METERS",
-            "longitude": -75.5
-        },
-        {
-            "elevation": 175.3,
-            "mindate": "1893-01-01",
-            "maxdate": "1943-12-31",
-            "latitude": 40.88333,
-            "name": "DOVER, NJ US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00282340",
-            "elevationUnit": "METERS",
-            "longitude": -74.56667
         },
         {
             "elevation": 11.9,
@@ -7774,17 +7081,6 @@
             "longitude": -74.23333
         },
         {
-            "elevation": 3,
-            "mindate": "1948-08-01",
-            "maxdate": "1964-05-31",
-            "latitude": 40.64222,
-            "name": "ELIZABETHPORT, NJ US",
-            "datacoverage": 0.979,
-            "id": "GHCND:USC00282652",
-            "elevationUnit": "METERS",
-            "longitude": -74.20166
-        },
-        {
             "elevation": 106.7,
             "mindate": "1949-01-01",
             "maxdate": "2010-12-31",
@@ -7792,17 +7088,6 @@
             "name": "ESSEX FELLS SERV BUILDING, NJ US",
             "datacoverage": 1,
             "id": "GHCND:USC00282768",
-            "elevationUnit": "METERS",
-            "longitude": -74.2858
-        },
-        {
-            "elevation": 106.7,
-            "mindate": "1903-03-01",
-            "maxdate": "1949-05-31",
-            "latitude": 40.8314,
-            "name": "ESSEX FELLS SERV BUILDING, NJ US",
-            "datacoverage": 0.9986,
-            "id": "GHCND:USC00282773",
             "elevationUnit": "METERS",
             "longitude": -74.2858
         },
@@ -7873,17 +7158,6 @@
             "longitude": -75.09528
         },
         {
-            "elevation": 164.9,
-            "mindate": "1948-08-01",
-            "maxdate": "1951-09-30",
-            "latitude": 40.93333,
-            "name": "GREAT MEADOWS 4 N, NJ US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00283416",
-            "elevationUnit": "METERS",
-            "longitude": -74.91667
-        },
-        {
             "elevation": 143.3,
             "mindate": "1941-01-01",
             "maxdate": "2010-12-31",
@@ -7950,17 +7224,6 @@
             "longitude": -74.56417
         },
         {
-            "elevation": 24.1,
-            "mindate": "1948-11-01",
-            "maxdate": "1951-08-02",
-            "latitude": 40.28333,
-            "name": "HIGHTSTOWN PUMP STATION, NJ US",
-            "datacoverage": 0.8537,
-            "id": "GHCND:USC00283956",
-            "elevationUnit": "METERS",
-            "longitude": -74.53333
-        },
-        {
             "elevation": 30.5,
             "mindate": "1901-05-01",
             "maxdate": "2020-02-29",
@@ -7970,17 +7233,6 @@
             "id": "GHCND:USC00284229",
             "elevationUnit": "METERS",
             "longitude": -74.78042
-        },
-        {
-            "elevation": 27.1,
-            "mindate": "1948-08-01",
-            "maxdate": "1964-05-31",
-            "latitude": 40.71667,
-            "name": "IRVINGTON, NJ US",
-            "datacoverage": 0.9895,
-            "id": "GHCND:USC00284260",
-            "elevationUnit": "METERS",
-            "longitude": -74.25
         },
         {
             "elevation": 41.1,
@@ -7994,17 +7246,6 @@
             "longitude": -74.05722
         },
         {
-            "elevation": 16.5,
-            "mindate": "1948-08-01",
-            "maxdate": "1957-10-31",
-            "latitude": 40.1,
-            "name": "LAKEWOOD 2 ENE, NJ US",
-            "datacoverage": 0.9994,
-            "id": "GHCND:USC00284627",
-            "elevationUnit": "METERS",
-            "longitude": -74.18333
-        },
-        {
             "elevation": 20.7,
             "mindate": "1931-01-01",
             "maxdate": "2020-05-17",
@@ -8014,50 +7255,6 @@
             "id": "GHCND:USC00284635",
             "elevationUnit": "METERS",
             "longitude": -74.94461
-        },
-        {
-            "elevation": 18.3,
-            "mindate": "1893-01-01",
-            "maxdate": "1949-12-31",
-            "latitude": 40.36667,
-            "name": "LAMBERTVILLE RIVER, PA US",
-            "datacoverage": 0.943,
-            "id": "GHCND:USC00284653",
-            "elevationUnit": "METERS",
-            "longitude": -74.95
-        },
-        {
-            "elevation": 6.1,
-            "mindate": "1957-01-01",
-            "maxdate": "1961-04-30",
-            "latitude": 40.06667,
-            "name": "LAURELTON 1 E, NJ US",
-            "datacoverage": 0.9995,
-            "id": "GHCND:USC00284700",
-            "elevationUnit": "METERS",
-            "longitude": -74.11667
-        },
-        {
-            "elevation": 143,
-            "mindate": "1900-06-01",
-            "maxdate": "1962-02-28",
-            "latitude": 41.25,
-            "name": "LAYTON 3 NW, NJ US",
-            "datacoverage": 0.9785,
-            "id": "GHCND:USC00284735",
-            "elevationUnit": "METERS",
-            "longitude": -74.85
-        },
-        {
-            "elevation": 3,
-            "mindate": "1951-01-01",
-            "maxdate": "1959-06-30",
-            "latitude": 39.23333,
-            "name": "LEESBURG STATE FARM, NJ US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00284762",
-            "elevationUnit": "METERS",
-            "longitude": -74.96667
         },
         {
             "elevation": 45.7,
@@ -8109,21 +7306,10 @@
             "maxdate": "2005-07-01",
             "latitude": 39.9883,
             "name": "MOUNT HOLLY, NJ US",
-            "datacoverage": 1,
+            "datacoverage": 0.0601,
             "id": "GHCND:USC00285055",
             "elevationUnit": "METERS",
             "longitude": -74.8047
-        },
-        {
-            "elevation": 176.8,
-            "mindate": "1941-01-01",
-            "maxdate": "1960-10-31",
-            "latitude": 41.01667,
-            "name": "MACOPIN LOWER INTAKE DAM, NJ US",
-            "datacoverage": 0.9874,
-            "id": "GHCND:USC00285071",
-            "elevationUnit": "METERS",
-            "longitude": -74.4
         },
         {
             "elevation": 75.9,
@@ -8137,17 +7323,6 @@
             "longitude": -74.16667
         },
         {
-            "elevation": 14.9,
-            "mindate": "1941-01-01",
-            "maxdate": "1967-09-30",
-            "latitude": 40.55,
-            "name": "MANVILLE, NJ US",
-            "datacoverage": 0.9659,
-            "id": "GHCND:USC00285197",
-            "elevationUnit": "METERS",
-            "longitude": -74.56667
-        },
-        {
             "elevation": 4.9,
             "mindate": "2018-01-01",
             "maxdate": "2020-05-17",
@@ -8157,28 +7332,6 @@
             "id": "GHCND:USC00285243",
             "elevationUnit": "METERS",
             "longitude": -74.5036
-        },
-        {
-            "elevation": 36.9,
-            "mindate": "1948-08-01",
-            "maxdate": "1951-09-30",
-            "latitude": 40.33333,
-            "name": "MARLBORO SOIL CONSERVATION SERVICE, NJ US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00285244",
-            "elevationUnit": "METERS",
-            "longitude": -74.23333
-        },
-        {
-            "elevation": 27.1,
-            "mindate": "1945-01-01",
-            "maxdate": "1959-06-30",
-            "latitude": 39.9,
-            "name": "MARLTON 1 W, NJ US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00285252",
-            "elevationUnit": "METERS",
-            "longitude": -74.93333
         },
         {
             "elevation": 8.5,
@@ -8204,7 +7357,7 @@
         },
         {
             "elevation": 21,
-            "mindate": "1893-01-01",
+            "mindate": "1893-03-01",
             "maxdate": "1970-03-16",
             "latitude": 39.4,
             "name": "MILLVILLE, NJ US",
@@ -8258,17 +7411,6 @@
             "longitude": -75.2533
         },
         {
-            "elevation": 30.5,
-            "mindate": "1893-01-01",
-            "maxdate": "1911-12-31",
-            "latitude": 40.483333,
-            "name": "NEW BRUNSWICK, NJ US",
-            "datacoverage": 0.9871,
-            "id": "GHCND:USC00286053",
-            "elevationUnit": "METERS",
-            "longitude": -74.45
-        },
-        {
             "elevation": 33.8,
             "mindate": "1968-06-01",
             "maxdate": "2020-05-17",
@@ -8278,17 +7420,6 @@
             "id": "GHCND:USC00286055",
             "elevationUnit": "METERS",
             "longitude": -74.42259
-        },
-        {
-            "elevation": 26.2,
-            "mindate": "1896-01-01",
-            "maxdate": "1968-05-31",
-            "latitude": 40.46667,
-            "name": "NEW BRUNSWICK, NJ US",
-            "datacoverage": 0.9954,
-            "id": "GHCND:USC00286062",
-            "elevationUnit": "METERS",
-            "longitude": -74.43333
         },
         {
             "elevation": 3.7,
@@ -8302,17 +7433,6 @@
             "longitude": -74.01583
         },
         {
-            "elevation": 9.1,
-            "mindate": "1961-01-01",
-            "maxdate": "1968-07-31",
-            "latitude": 40.41667,
-            "name": "NEW MONMOUTH, NJ US",
-            "datacoverage": 0.9998,
-            "id": "GHCND:USC00286154",
-            "elevationUnit": "METERS",
-            "longitude": -74.1
-        },
-        {
             "elevation": 184.4,
             "mindate": "1893-01-01",
             "maxdate": "2010-12-31",
@@ -8324,28 +7444,6 @@
             "longitude": -74.75917
         },
         {
-            "elevation": 7.6,
-            "mindate": "1908-01-01",
-            "maxdate": "1939-03-31",
-            "latitude": 39.36667,
-            "name": "NORTHFIELD, NJ US",
-            "datacoverage": 0.9894,
-            "id": "GHCND:USC00286320",
-            "elevationUnit": "METERS",
-            "longitude": -74.53333
-        },
-        {
-            "elevation": 19.2,
-            "mindate": "1935-04-01",
-            "maxdate": "1942-12-31",
-            "latitude": 39.96667,
-            "name": "MERCHANTVILLE, NJ US",
-            "datacoverage": 0.9995,
-            "id": "GHCND:USC00286350",
-            "elevationUnit": "METERS",
-            "longitude": -75.06667
-        },
-        {
             "elevation": 258.2,
             "mindate": "1941-01-01",
             "maxdate": "2020-03-31",
@@ -8355,28 +7453,6 @@
             "id": "GHCND:USC00286460",
             "elevationUnit": "METERS",
             "longitude": -74.50124
-        },
-        {
-            "elevation": 78.9,
-            "mindate": "1956-11-01",
-            "maxdate": "1968-03-11",
-            "latitude": 40.66667,
-            "name": "OLDWICK, NJ US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00286544",
-            "elevationUnit": "METERS",
-            "longitude": -74.75
-        },
-        {
-            "elevation": 49.1,
-            "mindate": "1940-04-01",
-            "maxdate": "1964-04-30",
-            "latitude": 40.78333,
-            "name": "ORANGE, NJ US",
-            "datacoverage": 0.9793,
-            "id": "GHCND:USC00286560",
-            "elevationUnit": "METERS",
-            "longitude": -74.21667
         },
         {
             "elevation": 31.1,
@@ -8399,17 +7475,6 @@
             "id": "GHCND:USC00286843",
             "elevationUnit": "METERS",
             "longitude": -74.68278
-        },
-        {
-            "elevation": 18,
-            "mindate": "1964-01-01",
-            "maxdate": "1968-06-30",
-            "latitude": 39.95,
-            "name": "PENNSAUKEN, NJ US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00286863",
-            "elevationUnit": "METERS",
-            "longitude": -75.06667
         },
         {
             "elevation": 14,
@@ -8467,39 +7532,6 @@
             "longitude": -74.4025
         },
         {
-            "elevation": 34.1,
-            "mindate": "1948-08-01",
-            "maxdate": "1948-12-31",
-            "latitude": 40.31667,
-            "name": "PLAINSBORO, NJ US",
-            "datacoverage": 0.7958,
-            "id": "GHCND:USC00287095",
-            "elevationUnit": "METERS",
-            "longitude": -74.6
-        },
-        {
-            "elevation": 43,
-            "mindate": "1957-01-01",
-            "maxdate": "1959-03-31",
-            "latitude": 40.56667,
-            "name": "PLEASANT RUN, NJ US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00287123",
-            "elevationUnit": "METERS",
-            "longitude": -74.8
-        },
-        {
-            "elevation": 3,
-            "mindate": "1898-10-01",
-            "maxdate": "1958-06-30",
-            "latitude": 39.41667,
-            "name": "PLEASANTVILLE 1 N, NJ US",
-            "datacoverage": 0.9987,
-            "id": "GHCND:USC00287131",
-            "elevationUnit": "METERS",
-            "longitude": -74.51667
-        },
-        {
             "elevation": 111.3,
             "mindate": "1968-05-01",
             "maxdate": "2015-06-30",
@@ -8520,17 +7552,6 @@
             "id": "GHCND:USC00287328",
             "elevationUnit": "METERS",
             "longitude": -74.66667
-        },
-        {
-            "elevation": 195.1,
-            "mindate": "1940-12-01",
-            "maxdate": "1951-06-30",
-            "latitude": 40.56667,
-            "name": "QUAKERTOWN, NJ US",
-            "datacoverage": 0.9059,
-            "id": "GHCND:USC00287372",
-            "elevationUnit": "METERS",
-            "longitude": -74.95
         },
         {
             "elevation": 6.1,
@@ -8555,17 +7576,6 @@
             "longitude": -75.18967
         },
         {
-            "elevation": 24.1,
-            "mindate": "1916-03-01",
-            "maxdate": "1960-04-30",
-            "latitude": 40.83333,
-            "name": "RIDGEFIELD, NJ US",
-            "datacoverage": 0.9528,
-            "id": "GHCND:USC00287545",
-            "elevationUnit": "METERS",
-            "longitude": -74.01667
-        },
-        {
             "elevation": 93,
             "mindate": "1902-01-01",
             "maxdate": "2013-09-01",
@@ -8575,50 +7585,6 @@
             "id": "GHCND:USC00287587",
             "elevationUnit": "METERS",
             "longitude": -74.2683
-        },
-        {
-            "elevation": 11.9,
-            "mindate": "1948-08-01",
-            "maxdate": "1953-06-30",
-            "latitude": 39.85,
-            "name": "RUNNEMEDE, NJ US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00287817",
-            "elevationUnit": "METERS",
-            "longitude": -75.06667
-        },
-        {
-            "elevation": 6.1,
-            "mindate": "1907-04-01",
-            "maxdate": "1958-05-31",
-            "latitude": 40.43333,
-            "name": "RUNYON, NJ US",
-            "datacoverage": 0.728,
-            "id": "GHCND:USC00287825",
-            "elevationUnit": "METERS",
-            "longitude": -74.33333
-        },
-        {
-            "elevation": 39.9,
-            "mindate": "1967-04-01",
-            "maxdate": "1967-11-07",
-            "latitude": 40.48333,
-            "name": "RUTGERS MICRO MET ST, NJ US",
-            "datacoverage": 0.9956,
-            "id": "GHCND:USC00287831",
-            "elevationUnit": "METERS",
-            "longitude": -74.43333
-        },
-        {
-            "elevation": 14.9,
-            "mindate": "1944-03-01",
-            "maxdate": "1951-02-28",
-            "latitude": 40.81667,
-            "name": "RUTHERFORD, NJ US",
-            "datacoverage": 0.9288,
-            "id": "GHCND:USC00287833",
-            "elevationUnit": "METERS",
-            "longitude": -74.11667
         },
         {
             "elevation": 5.5,
@@ -8641,17 +7607,6 @@
             "id": "GHCND:USC00287865",
             "elevationUnit": "METERS",
             "longitude": -74.0055
-        },
-        {
-            "elevation": 6.7,
-            "mindate": "1903-10-01",
-            "maxdate": "1959-06-30",
-            "latitude": 40.4675,
-            "name": "FORT HANCOCK COAST GUARD STATION, NJ US",
-            "datacoverage": 0.3872,
-            "id": "GHCND:USC00287869",
-            "elevationUnit": "METERS",
-            "longitude": -74.0091
         },
         {
             "elevation": 31.7,
@@ -8720,17 +7675,6 @@
             "longitude": -74.46667
         },
         {
-            "elevation": 27.4,
-            "mindate": "1948-08-01",
-            "maxdate": "1951-09-30",
-            "latitude": 40.69639,
-            "name": "SPRINGFIELD, NJ US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00288423",
-            "elevationUnit": "METERS",
-            "longitude": -74.33639
-        },
-        {
             "elevation": 203.3,
             "mindate": "1893-01-01",
             "maxdate": "2020-05-17",
@@ -8753,28 +7697,6 @@
             "longitude": -74.6446
         },
         {
-            "elevation": 24.1,
-            "mindate": "1946-02-01",
-            "maxdate": "1954-04-30",
-            "latitude": 39.73333,
-            "name": "SWEDESBORO, NJ US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00288680",
-            "elevationUnit": "METERS",
-            "longitude": -75.31667
-        },
-        {
-            "elevation": 3,
-            "mindate": "1946-09-01",
-            "maxdate": "1959-06-30",
-            "latitude": 39.78333,
-            "name": "SWEDESBORO 5 NW, NJ US",
-            "datacoverage": 0.9938,
-            "id": "GHCND:USC00288685",
-            "elevationUnit": "METERS",
-            "longitude": -75.4
-        },
-        {
             "elevation": 3,
             "mindate": "1893-01-01",
             "maxdate": "2011-04-30",
@@ -8784,17 +7706,6 @@
             "id": "GHCND:USC00288816",
             "elevationUnit": "METERS",
             "longitude": -74.2167
-        },
-        {
-            "elevation": 11.9,
-            "mindate": "1865-06-01",
-            "maxdate": "1959-06-30",
-            "latitude": 40.23333,
-            "name": "TRENTON NOTTINGHAMWA, NJ US",
-            "datacoverage": 0.7742,
-            "id": "GHCND:USC00288878",
-            "elevationUnit": "METERS",
-            "longitude": -74.76667
         },
         {
             "elevation": 30.5,
@@ -8819,17 +7730,6 @@
             "longitude": -74.3387
         },
         {
-            "elevation": 34.1,
-            "mindate": "1893-02-01",
-            "maxdate": "1959-06-30",
-            "latitude": 39.48333,
-            "name": "VINELAND, NJ US",
-            "datacoverage": 0.8245,
-            "id": "GHCND:USC00289135",
-            "elevationUnit": "METERS",
-            "longitude": -75
-        },
-        {
             "elevation": 74.7,
             "mindate": "1945-08-01",
             "maxdate": "2020-03-31",
@@ -8839,17 +7739,6 @@
             "id": "GHCND:USC00289187",
             "elevationUnit": "METERS",
             "longitude": -74.2933
-        },
-        {
-            "elevation": 79.2,
-            "mindate": "1948-08-01",
-            "maxdate": "1951-09-30",
-            "latitude": 40.66667,
-            "name": "WATCHUNG, NJ US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00289271",
-            "elevationUnit": "METERS",
-            "longitude": -74.41667
         },
         {
             "elevation": 51.8,
@@ -8883,17 +7772,6 @@
             "id": "GHCND:USC00289450",
             "elevationUnit": "METERS",
             "longitude": -75.2317
-        },
-        {
-            "elevation": 43,
-            "mindate": "1939-11-01",
-            "maxdate": "1960-10-31",
-            "latitude": 40.65,
-            "name": "WESTFIELD, NJ US",
-            "datacoverage": 0.9444,
-            "id": "GHCND:USC00289455",
-            "elevationUnit": "METERS",
-            "longitude": -74.35
         },
         {
             "elevation": 207,
@@ -8940,17 +7818,6 @@
             "longitude": -75.16444
         },
         {
-            "elevation": 131.1,
-            "mindate": "1939-11-01",
-            "maxdate": "1951-09-30",
-            "latitude": 41.21667,
-            "name": "DINGMANS FERRY, PA US",
-            "datacoverage": 0.8565,
-            "id": "GHCND:USC00362160",
-            "elevationUnit": "METERS",
-            "longitude": -74.86667
-        },
-        {
             "elevation": 396.2,
             "mindate": "2002-11-01",
             "maxdate": "2020-05-17",
@@ -8973,17 +7840,6 @@
             "longitude": -74.06667
         },
         {
-            "elevation": 50,
-            "mindate": "1962-01-01",
-            "maxdate": "1963-11-29",
-            "latitude": 40.18333,
-            "name": "BELMAR, NJ US",
-            "datacoverage": 1,
-            "id": "GHCND:USW00004783",
-            "elevationUnit": "METERS",
-            "longitude": -74.11667
-        },
-        {
             "elevation": 3,
             "mindate": "1873-12-10",
             "maxdate": "2020-05-14",
@@ -9004,28 +7860,6 @@
             "id": "GHCND:USW00013735",
             "elevationUnit": "METERS",
             "longitude": -75.0778
-        },
-        {
-            "elevation": 20.1,
-            "mindate": "1943-07-12",
-            "maxdate": "1958-06-15",
-            "latitude": 39.45,
-            "name": "ATLANTIC CITY NAS, NJ US",
-            "datacoverage": 1,
-            "id": "GHCND:USW00013753",
-            "elevationUnit": "METERS",
-            "longitude": -74.58333
-        },
-        {
-            "elevation": 17.1,
-            "mindate": "1945-01-01",
-            "maxdate": "1945-12-07",
-            "latitude": 38.98333,
-            "name": "WILDWOOD NAS, NJ US",
-            "datacoverage": 1,
-            "id": "GHCND:USW00013775",
-            "elevationUnit": "METERS",
-            "longitude": -74.91667
         },
         {
             "elevation": 39.9,

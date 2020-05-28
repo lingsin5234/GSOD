@@ -2,7 +2,7 @@
     "metadata": {
         "resultset": {
             "offset": 1,
-            "count": 1430,
+            "count": 1273,
             "limit": 1000
         }
     },
@@ -30,17 +30,6 @@
             "longitude": -88.0841
         },
         {
-            "elevation": 435.9,
-            "mindate": "1931-01-01",
-            "maxdate": "2015-11-01",
-            "latitude": 46.4656,
-            "name": "IRONWOOD, MI US",
-            "datacoverage": 0.9833,
-            "id": "COOP:204104",
-            "elevationUnit": "METERS",
-            "longitude": -90.1892
-        },
-        {
             "elevation": 197.2,
             "mindate": "1948-08-01",
             "maxdate": "2015-11-01",
@@ -63,17 +52,6 @@
             "longitude": -91.8121
         },
         {
-            "elevation": 228.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1956-01-01",
-            "latitude": 44.4,
-            "name": "READS LANDING, MN US",
-            "datacoverage": 0.9966,
-            "id": "COOP:216777",
-            "elevationUnit": "METERS",
-            "longitude": -92.08333
-        },
-        {
             "elevation": 206.3,
             "mindate": "1948-07-01",
             "maxdate": "2015-11-01",
@@ -83,17 +61,6 @@
             "id": "COOP:216822",
             "elevationUnit": "METERS",
             "longitude": -92.6101
-        },
-        {
-            "elevation": 216.4,
-            "mindate": "1944-07-01",
-            "maxdate": "2006-01-01",
-            "latitude": 45.0417,
-            "name": "STILLWATER 1 SE, MN US",
-            "datacoverage": 0.9769,
-            "id": "COOP:218037",
-            "elevationUnit": "METERS",
-            "longitude": -92.7975
         },
         {
             "elevation": 226.2,
@@ -239,17 +206,6 @@
             "longitude": -91.1357
         },
         {
-            "elevation": 396.8,
-            "mindate": "1943-11-01",
-            "maxdate": "1953-05-01",
-            "latitude": 45.78333,
-            "name": "BABBS ISLAND, WI US",
-            "datacoverage": 0.8523,
-            "id": "COOP:470448",
-            "elevationUnit": "METERS",
-            "longitude": -90.75
-        },
-        {
             "elevation": 297.2,
             "mindate": "1948-08-01",
             "maxdate": "2015-11-01",
@@ -338,23 +294,12 @@
             "longitude": -89.0311
         },
         {
-            "elevation": 238,
-            "mindate": "1931-01-01",
-            "maxdate": "1951-07-01",
-            "latitude": 43.96667,
-            "name": "BERLIN LOCK, WI US",
-            "datacoverage": 0.9758,
-            "id": "COOP:470735",
-            "elevationUnit": "METERS",
-            "longitude": -88.95
-        },
-        {
             "elevation": 232,
             "mindate": "1948-08-01",
             "maxdate": "1984-03-01",
             "latitude": 43.98333,
             "name": "BERLIN, WI US",
-            "datacoverage": 0.6846,
+            "datacoverage": 0.0387,
             "id": "COOP:470740",
             "elevationUnit": "METERS",
             "longitude": -88.95
@@ -431,7 +376,7 @@
             "maxdate": "2014-01-01",
             "latitude": 42.8169,
             "name": "BLANCHARDVILLE, WI US",
-            "datacoverage": 0.4516,
+            "datacoverage": 0.0382,
             "id": "COOP:470890",
             "elevationUnit": "METERS",
             "longitude": -89.8627
@@ -457,17 +402,6 @@
             "id": "COOP:470904",
             "elevationUnit": "METERS",
             "longitude": -91.4864
-        },
-        {
-            "elevation": 299,
-            "mindate": "1956-03-01",
-            "maxdate": "1969-09-29",
-            "latitude": 43.66667,
-            "name": "BLOOMINGDALE 2 NNE, WI US",
-            "datacoverage": 0.0539,
-            "id": "COOP:470909",
-            "elevationUnit": "METERS",
-            "longitude": -90.76667
         },
         {
             "elevation": 320,
@@ -624,72 +558,6 @@
             "longitude": -90.7783
         },
         {
-            "elevation": 348.1,
-            "mindate": "1956-01-01",
-            "maxdate": "1969-09-29",
-            "latitude": 43.7,
-            "name": "CASHTON 4 SE, WI US",
-            "datacoverage": 0.0557,
-            "id": "COOP:471281",
-            "elevationUnit": "METERS",
-            "longitude": -90.75
-        },
-        {
-            "elevation": 406,
-            "mindate": "1956-04-01",
-            "maxdate": "1969-09-01",
-            "latitude": 43.71667,
-            "name": "CASHTON 2 S, WI US",
-            "datacoverage": 0.8395,
-            "id": "COOP:471282",
-            "elevationUnit": "METERS",
-            "longitude": -90.76667
-        },
-        {
-            "elevation": 409,
-            "mindate": "1956-04-01",
-            "maxdate": "1969-09-01",
-            "latitude": 43.7,
-            "name": "CASHTON 5 SE, WI US",
-            "datacoverage": 1,
-            "id": "COOP:471283",
-            "elevationUnit": "METERS",
-            "longitude": -90.7
-        },
-        {
-            "elevation": 378,
-            "mindate": "1956-04-01",
-            "maxdate": "1969-09-01",
-            "latitude": 43.68333,
-            "name": "CASHTON 4 SSE, WI US",
-            "datacoverage": 0.8765,
-            "id": "COOP:471284",
-            "elevationUnit": "METERS",
-            "longitude": -90.75
-        },
-        {
-            "elevation": 409,
-            "mindate": "1962-08-01",
-            "maxdate": "1969-09-29",
-            "latitude": 43.73333,
-            "name": "CASHTON 2 SE, WI US",
-            "datacoverage": 0.0311,
-            "id": "COOP:471285",
-            "elevationUnit": "METERS",
-            "longitude": -90.75
-        },
-        {
-            "elevation": 412.1,
-            "mindate": "1962-08-01",
-            "maxdate": "1969-09-29",
-            "latitude": 43.71667,
-            "name": "CASHTON 4 ESE, WI US",
-            "datacoverage": 0.05,
-            "id": "COOP:471286",
-            "elevationUnit": "METERS",
-            "longitude": -90.71667
-        },
-        {
             "elevation": 286.2,
             "mindate": "2014-01-01",
             "maxdate": "2015-11-01",
@@ -732,17 +600,6 @@
             "id": "COOP:471416",
             "elevationUnit": "METERS",
             "longitude": -89.4819
-        },
-        {
-            "elevation": 390.1,
-            "mindate": "1946-02-01",
-            "maxdate": "1954-07-01",
-            "latitude": 44.9,
-            "name": "CHEROKEE, WI US",
-            "datacoverage": 0.824,
-            "id": "COOP:471543",
-            "elevationUnit": "METERS",
-            "longitude": -90.21667
         },
         {
             "elevation": 256,
@@ -844,17 +701,6 @@
             "longitude": -89.53333
         },
         {
-            "elevation": 406,
-            "mindate": "1949-05-01",
-            "maxdate": "1967-05-01",
-            "latitude": 44.88333,
-            "name": "COLBY 2 S, WI US",
-            "datacoverage": 0.6205,
-            "id": "COOP:471720",
-            "elevationUnit": "METERS",
-            "longitude": -90.3
-        },
-        {
             "elevation": 252.7,
             "mindate": "2014-01-01",
             "maxdate": "2015-11-01",
@@ -864,28 +710,6 @@
             "id": "COOP:471790",
             "elevationUnit": "METERS",
             "longitude": -89.0081
-        },
-        {
-            "elevation": 392.9,
-            "mindate": "1948-08-01",
-            "maxdate": "1952-09-30",
-            "latitude": 43.75,
-            "name": "COON VALLEY EXPERIMENTAL FARM, WI US",
-            "datacoverage": 0.8689,
-            "id": "COOP:471806",
-            "elevationUnit": "METERS",
-            "longitude": -91.01667
-        },
-        {
-            "elevation": 195.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1937-09-01",
-            "latitude": 46.86667,
-            "name": "CORNUCOPIA 3 E, WI US",
-            "datacoverage": 0.9508,
-            "id": "COOP:471836",
-            "elevationUnit": "METERS",
-            "longitude": -91.08333
         },
         {
             "elevation": 264,
@@ -908,17 +732,6 @@
             "id": "COOP:471847",
             "elevationUnit": "METERS",
             "longitude": -91.4594
-        },
-        {
-            "elevation": 499.9,
-            "mindate": "1940-08-01",
-            "maxdate": "1953-09-01",
-            "latitude": 45.56667,
-            "name": "CRANDON RANGER STATION, WI US",
-            "datacoverage": 0.6519,
-            "id": "COOP:471875",
-            "elevationUnit": "METERS",
-            "longitude": -88.9
         },
         {
             "elevation": 289.6,
@@ -998,17 +811,6 @@
             "longitude": -90.1063
         },
         {
-            "elevation": 323.1,
-            "mindate": "1948-08-01",
-            "maxdate": "1952-04-01",
-            "latitude": 45.2,
-            "name": "DEER PARK, WI US",
-            "datacoverage": 0.4136,
-            "id": "COOP:472041",
-            "elevationUnit": "METERS",
-            "longitude": -92.4
-        },
-        {
             "elevation": 280.7,
             "mindate": "2011-01-01",
             "maxdate": "2015-11-01",
@@ -1053,17 +855,6 @@
             "longitude": -90.1161
         },
         {
-            "elevation": 299,
-            "mindate": "1931-01-01",
-            "maxdate": "1937-08-01",
-            "latitude": 45.05,
-            "name": "DOWNING 1 E, WI US",
-            "datacoverage": 0.8875,
-            "id": "COOP:472209",
-            "elevationUnit": "METERS",
-            "longitude": -92.13333
-        },
-        {
             "elevation": 408.4,
             "mindate": "1948-08-01",
             "maxdate": "2005-10-01",
@@ -1091,7 +882,7 @@
             "maxdate": "1994-03-27",
             "latitude": 42.86667,
             "name": "EAGLE 2 W, WI US",
-            "datacoverage": 0.7899,
+            "datacoverage": 0.0503,
             "id": "COOP:472302",
             "elevationUnit": "METERS",
             "longitude": -88.51667
@@ -1128,17 +919,6 @@
             "id": "COOP:472413",
             "elevationUnit": "METERS",
             "longitude": -88.3955
-        },
-        {
-            "elevation": 233.2,
-            "mindate": "1931-01-01",
-            "maxdate": "1960-12-01",
-            "latitude": 44.81667,
-            "name": "EAU CLAIRE, WI US",
-            "datacoverage": 0.9888,
-            "id": "COOP:472423",
-            "elevationUnit": "METERS",
-            "longitude": -91.5
         },
         {
             "elevation": 268.2,
@@ -1223,7 +1003,7 @@
             "maxdate": "1970-07-01",
             "latitude": 43,
             "name": "FENNIMORE 1 NE, WI US",
-            "datacoverage": 0.8952,
+            "datacoverage": 0.0477,
             "id": "COOP:472745",
             "elevationUnit": "METERS",
             "longitude": -90.65
@@ -1284,17 +1064,6 @@
             "longitude": -88.4669
         },
         {
-            "elevation": 320,
-            "mindate": "1959-01-01",
-            "maxdate": "1968-12-01",
-            "latitude": 42.55,
-            "name": "FONTANA, WI US",
-            "datacoverage": 0.9999,
-            "id": "COOP:472844",
-            "elevationUnit": "METERS",
-            "longitude": -88.58333
-        },
-        {
             "elevation": 210.3,
             "mindate": "2002-09-01",
             "maxdate": "2015-11-01",
@@ -1326,26 +1095,6 @@
             "id": "COOP:472889",
             "elevationUnit": "METERS",
             "longitude": -92.2875
-        },
-        {
-            "elevation": 384,
-            "mindate": "1960-09-01",
-            "maxdate": "1963-09-01",
-            "latitude": 46.41667,
-            "name": "FOXBORO 6 SSE, WI US",
-            "datacoverage": 1,
-            "id": "COOP:472893",
-            "elevationUnit": "METERS",
-            "longitude": -92.25
-        },
-        {
-            "mindate": "1948-08-01",
-            "maxdate": "1950-04-01",
-            "latitude": 43.55,
-            "name": "FOX LAKE, WI US",
-            "datacoverage": 0.4294,
-            "id": "COOP:472901",
-            "longitude": -88.91667
         },
         {
             "elevation": 378,
@@ -1390,17 +1139,6 @@
             "id": "COOP:472996",
             "elevationUnit": "METERS",
             "longitude": -91.3872
-        },
-        {
-            "elevation": 210,
-            "mindate": "1939-04-01",
-            "maxdate": "1956-10-01",
-            "latitude": 43.3145,
-            "name": "GAYS MILLS, WI US",
-            "datacoverage": 0.7628,
-            "id": "COOP:473021",
-            "elevationUnit": "METERS",
-            "longitude": -90.8486
         },
         {
             "elevation": 210,
@@ -1500,28 +1238,6 @@
             "id": "COOP:473198",
             "elevationUnit": "METERS",
             "longitude": -87.9552
-        },
-        {
-            "elevation": 235,
-            "mindate": "1931-01-01",
-            "maxdate": "1954-08-01",
-            "latitude": 43.76667,
-            "name": "GRAND RIVER LOCK, WI US",
-            "datacoverage": 0.9859,
-            "id": "COOP:473214",
-            "elevationUnit": "METERS",
-            "longitude": -89.3
-        },
-        {
-            "elevation": 335.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1950-06-01",
-            "latitude": 45.78333,
-            "name": "GRANTSBURG, WI US",
-            "datacoverage": 0.9916,
-            "id": "COOP:473242",
-            "elevationUnit": "METERS",
-            "longitude": -92.68333
         },
         {
             "elevation": 301.8,
@@ -1645,17 +1361,6 @@
             "longitude": -88.90426
         },
         {
-            "elevation": 305.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1958-12-01",
-            "latitude": 43.65,
-            "name": "HILLSBORO, WI US",
-            "datacoverage": 0.9881,
-            "id": "COOP:473649",
-            "elevationUnit": "METERS",
-            "longitude": -90.33333
-        },
-        {
             "elevation": 317.9,
             "mindate": "2013-01-01",
             "maxdate": "2015-11-01",
@@ -1766,17 +1471,6 @@
             "longitude": -88.6005
         },
         {
-            "elevation": 335.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1947-04-01",
-            "latitude": 46.58333,
-            "name": "IRON RIVER, WI US",
-            "datacoverage": 0.9339,
-            "id": "COOP:473917",
-            "elevationUnit": "METERS",
-            "longitude": -91.4
-        },
-        {
             "elevation": 275.2,
             "mindate": "2008-11-01",
             "maxdate": "2015-11-01",
@@ -1854,28 +1548,6 @@
             "longitude": -87.50491
         },
         {
-            "elevation": 342,
-            "mindate": "1948-06-01",
-            "maxdate": "1954-03-27",
-            "latitude": 44.71667,
-            "name": "KNOWLTON 1 W, WI US",
-            "datacoverage": 0.6542,
-            "id": "COOP:474282",
-            "elevationUnit": "METERS",
-            "longitude": -89.7
-        },
-        {
-            "elevation": 384,
-            "mindate": "1948-08-01",
-            "maxdate": "1963-11-01",
-            "latitude": 43.81667,
-            "name": "LA CROSSE EXPERIMENTAL FARM, WI US",
-            "datacoverage": 0.7899,
-            "id": "COOP:474365",
-            "elevationUnit": "METERS",
-            "longitude": -91.18333
-        },
-        {
             "elevation": 201.2,
             "mindate": "1999-01-01",
             "maxdate": "2015-11-01",
@@ -1918,17 +1590,6 @@
             "id": "COOP:474373",
             "elevationUnit": "METERS",
             "longitude": -91.1915
-        },
-        {
-            "elevation": 207.9,
-            "mindate": "1948-01-01",
-            "maxdate": "1952-08-31",
-            "latitude": 43.81667,
-            "name": "LA CROSSE, WI US",
-            "datacoverage": 0.8926,
-            "id": "COOP:474375",
-            "elevationUnit": "METERS",
-            "longitude": -91.25
         },
         {
             "elevation": 536.4,
@@ -2052,17 +1713,6 @@
             "longitude": -90.7889
         },
         {
-            "elevation": 522.1,
-            "mindate": "1941-12-01",
-            "maxdate": "1954-09-01",
-            "latitude": 46.16667,
-            "name": "LAND O LAKES, MI US",
-            "datacoverage": 0.6819,
-            "id": "COOP:474555",
-            "elevationUnit": "METERS",
-            "longitude": -89.21667
-        },
-        {
             "elevation": 516.6,
             "mindate": "1931-01-01",
             "maxdate": "2015-11-01",
@@ -2072,17 +1722,6 @@
             "id": "COOP:474582",
             "elevationUnit": "METERS",
             "longitude": -88.7594
-        },
-        {
-            "elevation": 438.9,
-            "mindate": "1948-08-01",
-            "maxdate": "1958-01-01",
-            "latitude": 45.31667,
-            "name": "LILY, WI US",
-            "datacoverage": 0.5003,
-            "id": "COOP:474720",
-            "elevationUnit": "METERS",
-            "longitude": -88.85
         },
         {
             "elevation": 251.2,
@@ -2160,17 +1799,6 @@
             "id": "COOP:474961",
             "elevationUnit": "METERS",
             "longitude": -89.3452
-        },
-        {
-            "elevation": 296.9,
-            "mindate": "1948-01-01",
-            "maxdate": "1963-05-29",
-            "latitude": 43.08333,
-            "name": "MADISON WEATHER BUREAU CITY, WI US",
-            "datacoverage": 0.9461,
-            "id": "COOP:474966",
-            "elevationUnit": "METERS",
-            "longitude": -89.4
         },
         {
             "elevation": 178,
@@ -2261,17 +1889,6 @@
             "longitude": -89.8191
         },
         {
-            "elevation": 305.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1952-11-01",
-            "latitude": 44.23333,
-            "name": "MEADOW VALLEY RANGER STATION, WI US",
-            "datacoverage": 0.7376,
-            "id": "COOP:475236",
-            "elevationUnit": "METERS",
-            "longitude": -90.23333
-        },
-        {
             "elevation": 448.1,
             "mindate": "1931-01-01",
             "maxdate": "2015-11-01",
@@ -2292,28 +1909,6 @@
             "id": "COOP:475286",
             "elevationUnit": "METERS",
             "longitude": -90.6417
-        },
-        {
-            "elevation": 225.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1956-12-01",
-            "latitude": 44.2,
-            "name": "MENASHA, WI US",
-            "datacoverage": 0.9871,
-            "id": "COOP:475298",
-            "elevationUnit": "METERS",
-            "longitude": -88.46667
-        },
-        {
-            "elevation": 271,
-            "mindate": "1938-03-01",
-            "maxdate": "1957-03-01",
-            "latitude": 44.86667,
-            "name": "MENOMONIE, WI US",
-            "datacoverage": 0.965,
-            "id": "COOP:475330",
-            "elevationUnit": "METERS",
-            "longitude": -91.91667
         },
         {
             "elevation": 237.7,
@@ -2347,17 +1942,6 @@
             "id": "COOP:475364",
             "elevationUnit": "METERS",
             "longitude": -89.66154
-        },
-        {
-            "elevation": 220.4,
-            "mindate": "1948-01-01",
-            "maxdate": "1951-01-01",
-            "latitude": 43.0175,
-            "name": "WEST ALLIS, WI US",
-            "datacoverage": 0.4591,
-            "id": "COOP:475469",
-            "elevationUnit": "METERS",
-            "longitude": -88.0017
         },
         {
             "elevation": 293.2,
@@ -2415,17 +1999,6 @@
             "longitude": -87.9044
         },
         {
-            "elevation": 189,
-            "mindate": "1948-01-01",
-            "maxdate": "1954-03-29",
-            "latitude": 43.03333,
-            "name": "MILWAUKEE, WI US",
-            "datacoverage": 0.9203,
-            "id": "COOP:475484",
-            "elevationUnit": "METERS",
-            "longitude": -87.9
-        },
-        {
             "elevation": 223.7,
             "mindate": "2010-01-01",
             "maxdate": "2015-11-01",
@@ -2453,7 +2026,7 @@
             "maxdate": "2014-01-01",
             "latitude": 46.1006,
             "name": "MINONG RANGER STATION, WI US",
-            "datacoverage": 0.6319,
+            "datacoverage": 0.0316,
             "id": "COOP:475524",
             "elevationUnit": "METERS",
             "longitude": -91.8178
@@ -2512,17 +2085,6 @@
             "id": "COOP:475674",
             "elevationUnit": "METERS",
             "longitude": -89.7419
-        },
-        {
-            "elevation": 371.9,
-            "mindate": "1951-08-01",
-            "maxdate": "1961-12-01",
-            "latitude": 43,
-            "name": "MOUNT HOREB 1 WSW, WI US",
-            "datacoverage": 0.9917,
-            "id": "COOP:475677",
-            "elevationUnit": "METERS",
-            "longitude": -89.76667
         },
         {
             "elevation": 208.8,
@@ -2849,7 +2411,7 @@
             "maxdate": "2014-01-01",
             "latitude": 45.54631,
             "name": "PRENTICE, WI US",
-            "datacoverage": 0.8426,
+            "datacoverage": 0.0309,
             "id": "COOP:476854",
             "elevationUnit": "METERS",
             "longitude": -90.31286
@@ -3064,24 +2626,6 @@
             "longitude": -91.8876
         },
         {
-            "mindate": "1944-01-01",
-            "maxdate": "1951-07-01",
-            "latitude": 43,
-            "name": "RIDGEWAY, WI US",
-            "datacoverage": 0.5167,
-            "id": "COOP:477182",
-            "longitude": -90
-        },
-        {
-            "mindate": "1948-08-01",
-            "maxdate": "1950-04-01",
-            "latitude": 43.85,
-            "name": "RIPON 1 E, WI US",
-            "datacoverage": 0.5725,
-            "id": "COOP:477207",
-            "longitude": -88.81667
-        },
-        {
             "elevation": 283.5,
             "mindate": "1946-08-01",
             "maxdate": "2015-11-01",
@@ -3135,15 +2679,6 @@
             "id": "COOP:477319",
             "elevationUnit": "METERS",
             "longitude": -89.96972
-        },
-        {
-            "mindate": "1948-08-01",
-            "maxdate": "1950-04-01",
-            "latitude": 43.81667,
-            "name": "ROSENDALE, WI US",
-            "datacoverage": 0.5725,
-            "id": "COOP:477341",
-            "longitude": -88.68333
         },
         {
             "elevation": 360.6,
@@ -3201,17 +2736,6 @@
             "longitude": -87.94028
         },
         {
-            "elevation": 335.9,
-            "mindate": "1948-01-01",
-            "maxdate": "1952-04-01",
-            "latitude": 46.5,
-            "name": "SAXON 1 NE, WI US",
-            "datacoverage": 0.4233,
-            "id": "COOP:477612",
-            "elevationUnit": "METERS",
-            "longitude": -90.38333
-        },
-        {
             "elevation": 242,
             "mindate": "1983-03-01",
             "maxdate": "2001-05-01",
@@ -3265,17 +2789,6 @@
             "id": "COOP:477761",
             "elevationUnit": "METERS",
             "longitude": -88.5838
-        },
-        {
-            "elevation": 200.9,
-            "mindate": "1959-06-01",
-            "maxdate": "1966-09-01",
-            "latitude": 43.1,
-            "name": "SHOREWOOD, WI US",
-            "datacoverage": 0.9884,
-            "id": "COOP:477792",
-            "elevationUnit": "METERS",
-            "longitude": -87.9
         },
         {
             "elevation": 313.6,
@@ -3411,11 +2924,11 @@
         },
         {
             "elevation": 208.8,
-            "mindate": "1939-04-01",
+            "mindate": "1948-08-01",
             "maxdate": "1971-07-01",
             "latitude": 43.18333,
             "name": "STEUBEN, WI US",
-            "datacoverage": 0.8416,
+            "datacoverage": 0.0554,
             "id": "COOP:478163",
             "elevationUnit": "METERS",
             "longitude": -90.86667
@@ -3481,7 +2994,7 @@
             "maxdate": "2014-01-01",
             "latitude": 44.4965,
             "name": "STRUM 4 S, WI US",
-            "datacoverage": 0.7636,
+            "datacoverage": 0.0311,
             "id": "COOP:478259",
             "elevationUnit": "METERS",
             "longitude": -91.3965
@@ -3580,21 +3093,10 @@
             "maxdate": "2014-01-01",
             "latitude": 43.9713,
             "name": "TOMAH RANGER STATION 2, WI US",
-            "datacoverage": 0.6583,
+            "datacoverage": 0.0295,
             "id": "COOP:478515",
             "elevationUnit": "METERS",
             "longitude": -90.4679
-        },
-        {
-            "elevation": 442,
-            "mindate": "1948-08-01",
-            "maxdate": "1949-10-21",
-            "latitude": 45.46667,
-            "name": "TOMAHAWK, WI US",
-            "datacoverage": 0.5328,
-            "id": "COOP:478520",
-            "elevationUnit": "METERS",
-            "longitude": -89.73333
         },
         {
             "elevation": 438.9,
@@ -3617,17 +3119,6 @@
             "id": "COOP:478540",
             "elevationUnit": "METERS",
             "longitude": -88.8824
-        },
-        {
-            "elevation": 415.1,
-            "mindate": "1945-01-01",
-            "maxdate": "1968-07-01",
-            "latitude": 45.33333,
-            "name": "TOWNSEND, WI US",
-            "datacoverage": 0.9117,
-            "id": "COOP:478561",
-            "elevationUnit": "METERS",
-            "longitude": -88.58333
         },
         {
             "elevation": 201.2,
@@ -3683,17 +3174,6 @@
             "id": "COOP:478827",
             "elevationUnit": "METERS",
             "longitude": -90.876
-        },
-        {
-            "elevation": 320,
-            "mindate": "1958-02-01",
-            "maxdate": "1958-12-01",
-            "latitude": 42.55,
-            "name": "FONTANA, WI US",
-            "datacoverage": 1,
-            "id": "COOP:478872",
-            "elevationUnit": "METERS",
-            "longitude": -88.58333
         },
         {
             "elevation": 209.1,
@@ -3767,7 +3247,7 @@
             "maxdate": "1996-03-01",
             "latitude": 44.86667,
             "name": "WAUSAU 7 SSW, WI US",
-            "datacoverage": 0.9479,
+            "datacoverage": 0.0401,
             "id": "COOP:478963",
             "elevationUnit": "METERS",
             "longitude": -89.65
@@ -3793,17 +3273,6 @@
             "id": "COOP:478969",
             "elevationUnit": "METERS",
             "longitude": -89.6222
-        },
-        {
-            "elevation": 371.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1960-12-01",
-            "latitude": 44.95,
-            "name": "WAUSAU RECORD HERALD, WI US",
-            "datacoverage": 1,
-            "id": "COOP:478971",
-            "elevationUnit": "METERS",
-            "longitude": -89.61667
         },
         {
             "elevation": 227.1,
@@ -3894,17 +3363,6 @@
             "longitude": -88.1605
         },
         {
-            "elevation": 390.1,
-            "mindate": "1956-03-01",
-            "maxdate": "1969-10-01",
-            "latitude": 43.68333,
-            "name": "WESTBY 4 NE, WI US",
-            "datacoverage": 0.052,
-            "id": "COOP:479061",
-            "elevationUnit": "METERS",
-            "longitude": -90.8
-        },
-        {
             "elevation": 390.8,
             "mindate": "1956-05-01",
             "maxdate": "2015-11-01",
@@ -3914,17 +3372,6 @@
             "id": "COOP:479062",
             "elevationUnit": "METERS",
             "longitude": -90.8077
-        },
-        {
-            "elevation": 225.9,
-            "mindate": "1938-08-01",
-            "maxdate": "1954-02-01",
-            "latitude": 43.9,
-            "name": "WEST SALEM, WI US",
-            "datacoverage": 0.8878,
-            "id": "COOP:479119",
-            "elevationUnit": "METERS",
-            "longitude": -91.08333
         },
         {
             "elevation": 364.2,
@@ -3976,21 +3423,10 @@
             "maxdate": "2014-01-01",
             "latitude": 44.7313,
             "name": "WILLARD, WI US",
-            "datacoverage": 0.6846,
+            "datacoverage": 0.0268,
             "id": "COOP:479218",
             "elevationUnit": "METERS",
             "longitude": -90.7216
-        },
-        {
-            "elevation": 271,
-            "mindate": "1931-01-01",
-            "maxdate": "1958-01-01",
-            "latitude": 42.58333,
-            "name": "WILLIAMS BAY, WI US",
-            "datacoverage": 0.9784,
-            "id": "COOP:479226",
-            "elevationUnit": "METERS",
-            "longitude": -88.53333
         },
         {
             "elevation": 467,
@@ -10120,17 +9556,6 @@
             "longitude": -88.0994
         },
         {
-            "elevation": 250.5,
-            "mindate": "1895-08-01",
-            "maxdate": "2020-05-13",
-            "latitude": 42.3995,
-            "name": "GALENA, IL US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00113312",
-            "elevationUnit": "METERS",
-            "longitude": -90.386
-        },
-        {
             "elevation": 326.4,
             "mindate": "1899-02-01",
             "maxdate": "2020-02-29",
@@ -10140,17 +9565,6 @@
             "id": "GHCND:USC00204090",
             "elevationUnit": "METERS",
             "longitude": -88.0841
-        },
-        {
-            "elevation": 435.9,
-            "mindate": "1901-07-01",
-            "maxdate": "2020-05-17",
-            "latitude": 46.4656,
-            "name": "IRONWOOD, MI US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00204104",
-            "elevationUnit": "METERS",
-            "longitude": -90.1892
         },
         {
             "elevation": 197.2,
@@ -10175,17 +9589,6 @@
             "longitude": -91.8121
         },
         {
-            "elevation": 228.9,
-            "mindate": "1948-07-01",
-            "maxdate": "1955-12-31",
-            "latitude": 44.4,
-            "name": "READS LANDING, MN US",
-            "datacoverage": 0.9998,
-            "id": "GHCND:USC00216777",
-            "elevationUnit": "METERS",
-            "longitude": -92.08333
-        },
-        {
             "elevation": 206.3,
             "mindate": "1948-07-01",
             "maxdate": "2020-05-17",
@@ -10195,28 +9598,6 @@
             "id": "GHCND:USC00216822",
             "elevationUnit": "METERS",
             "longitude": -92.6101
-        },
-        {
-            "elevation": 216.4,
-            "mindate": "1904-11-09",
-            "maxdate": "2012-04-01",
-            "latitude": 45.0417,
-            "name": "STILLWATER 1 SE, MN US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00218037",
-            "elevationUnit": "METERS",
-            "longitude": -92.7975
-        },
-        {
-            "elevation": 531,
-            "mindate": "1894-01-01",
-            "maxdate": "1896-02-29",
-            "latitude": 45.58333,
-            "name": "SUNRISE CITY, WI US",
-            "datacoverage": 0.9991,
-            "id": "GHCND:USC00218061",
-            "elevationUnit": "METERS",
-            "longitude": -92.83333
         },
         {
             "elevation": 226.2,
@@ -10263,17 +9644,6 @@
             "longitude": -92.363
         },
         {
-            "elevation": 363.9,
-            "mindate": "1893-01-01",
-            "maxdate": "1908-04-30",
-            "latitude": 44.46667,
-            "name": "AMHERST, WI US",
-            "datacoverage": 0.9352,
-            "id": "GHCND:USC00470205",
-            "elevationUnit": "METERS",
-            "longitude": -89.28333
-        },
-        {
             "elevation": 463,
             "mindate": "1894-05-01",
             "maxdate": "2020-05-17",
@@ -10294,15 +9664,6 @@
             "id": "GHCND:USC00470265",
             "elevationUnit": "METERS",
             "longitude": -88.43772
-        },
-        {
-            "mindate": "1894-01-01",
-            "maxdate": "1897-03-31",
-            "latitude": 45.416667,
-            "name": "APPOLONIA, WI US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00470268",
-            "longitude": -91.316667
         },
         {
             "elevation": 263.7,
@@ -10382,17 +9743,6 @@
             "longitude": -91.1357
         },
         {
-            "elevation": 396.8,
-            "mindate": "1948-01-01",
-            "maxdate": "1953-06-13",
-            "latitude": 45.78333,
-            "name": "BABBS ISLAND, WI US",
-            "datacoverage": 0.7544,
-            "id": "GHCND:USC00470448",
-            "elevationUnit": "METERS",
-            "longitude": -90.75
-        },
-        {
             "elevation": 297.2,
             "mindate": "1948-08-01",
             "maxdate": "2020-03-31",
@@ -10435,17 +9785,6 @@
             "id": "GHCND:USC00470519",
             "elevationUnit": "METERS",
             "longitude": -89.7594
-        },
-        {
-            "elevation": 339.9,
-            "mindate": "1893-01-01",
-            "maxdate": "1921-08-31",
-            "latitude": 45.5,
-            "name": "BARRON, WI US",
-            "datacoverage": 0.9478,
-            "id": "GHCND:USC00470565",
-            "elevationUnit": "METERS",
-            "longitude": -91.83333
         },
         {
             "elevation": 249.9,
@@ -10503,15 +9842,6 @@
             "longitude": -87.8547
         },
         {
-            "mindate": "1893-04-01",
-            "maxdate": "1895-10-31",
-            "latitude": 42.85,
-            "name": "BELLEVILLE, WI US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00470660",
-            "longitude": -89.55
-        },
-        {
             "elevation": 237.7,
             "mindate": "1893-01-01",
             "maxdate": "2020-05-17",
@@ -10521,28 +9851,6 @@
             "id": "GHCND:USC00470696",
             "elevationUnit": "METERS",
             "longitude": -89.0311
-        },
-        {
-            "elevation": 238,
-            "mindate": "1894-12-01",
-            "maxdate": "1951-07-31",
-            "latitude": 43.96667,
-            "name": "BERLIN LOCK, WI US",
-            "datacoverage": 0.5147,
-            "id": "GHCND:USC00470735",
-            "elevationUnit": "METERS",
-            "longitude": -88.95
-        },
-        {
-            "elevation": 232,
-            "mindate": "1948-08-01",
-            "maxdate": "1951-09-30",
-            "latitude": 43.98333,
-            "name": "BERLIN, WI US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00470740",
-            "elevationUnit": "METERS",
-            "longitude": -88.95
         },
         {
             "elevation": 233.5,
@@ -10622,17 +9930,6 @@
             "longitude": -91.26528
         },
         {
-            "elevation": 253,
-            "mindate": "1948-09-01",
-            "maxdate": "1953-12-31",
-            "latitude": 42.8169,
-            "name": "BLANCHARDVILLE, WI US",
-            "datacoverage": 0.6875,
-            "id": "GHCND:USC00470890",
-            "elevationUnit": "METERS",
-            "longitude": -89.8627
-        },
-        {
             "elevation": 253.9,
             "mindate": "1954-01-01",
             "maxdate": "2012-09-30",
@@ -10664,17 +9961,6 @@
             "id": "GHCND:USC00470929",
             "elevationUnit": "METERS",
             "longitude": -89.79028
-        },
-        {
-            "elevation": 216.4,
-            "mindate": "1895-10-01",
-            "maxdate": "1897-02-28",
-            "latitude": 43.1,
-            "name": "BOSCOBEL, WI US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00470950",
-            "elevationUnit": "METERS",
-            "longitude": -90.733333
         },
         {
             "elevation": 329.2,
@@ -10787,17 +10073,6 @@
             "longitude": -88.7
         },
         {
-            "elevation": 459.6,
-            "mindate": "1893-01-01",
-            "maxdate": "1908-01-31",
-            "latitude": 46,
-            "name": "BUTTERNUT, WI US",
-            "datacoverage": 0.8234,
-            "id": "GHCND:USC00471245",
-            "elevationUnit": "METERS",
-            "longitude": -90.5
-        },
-        {
             "elevation": 478.5,
             "mindate": "1997-01-01",
             "maxdate": "2020-05-17",
@@ -10807,28 +10082,6 @@
             "id": "GHCND:USC00471249",
             "elevationUnit": "METERS",
             "longitude": -90.5416
-        },
-        {
-            "elevation": 182.6,
-            "mindate": "1893-01-01",
-            "maxdate": "1894-08-31",
-            "latitude": 42.533333,
-            "name": "CADIZ, WI US",
-            "datacoverage": 0.9512,
-            "id": "GHCND:USC00471250",
-            "elevationUnit": "METERS",
-            "longitude": -89.8
-        },
-        {
-            "elevation": 264,
-            "mindate": "1931-01-01",
-            "maxdate": "1931-12-31",
-            "latitude": 43.533333,
-            "name": "CAMBRIA, WI US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00471265",
-            "elevationUnit": "METERS",
-            "longitude": -89.083333
         },
         {
             "elevation": 417.6,
@@ -10842,39 +10095,6 @@
             "longitude": -90.7783
         },
         {
-            "elevation": 406,
-            "mindate": "1956-04-01",
-            "maxdate": "1969-09-30",
-            "latitude": 43.71667,
-            "name": "CASHTON 2 S, WI US",
-            "datacoverage": 0.8395,
-            "id": "GHCND:USC00471282",
-            "elevationUnit": "METERS",
-            "longitude": -90.76667
-        },
-        {
-            "elevation": 409,
-            "mindate": "1956-01-01",
-            "maxdate": "1969-09-30",
-            "latitude": 43.7,
-            "name": "CASHTON 5 SE, WI US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00471283",
-            "elevationUnit": "METERS",
-            "longitude": -90.7
-        },
-        {
-            "elevation": 378,
-            "mindate": "1956-04-01",
-            "maxdate": "1969-09-30",
-            "latitude": 43.68333,
-            "name": "CASHTON 4 SSE, WI US",
-            "datacoverage": 0.895,
-            "id": "GHCND:USC00471284",
-            "elevationUnit": "METERS",
-            "longitude": -90.75
-        },
-        {
             "elevation": 286.2,
             "mindate": "2014-01-01",
             "maxdate": "2020-05-15",
@@ -10884,17 +10104,6 @@
             "id": "GHCND:USC00471287",
             "elevationUnit": "METERS",
             "longitude": -90.7952
-        },
-        {
-            "elevation": 245.1,
-            "mindate": "1907-04-01",
-            "maxdate": "1924-09-30",
-            "latitude": 44.66667,
-            "name": "CECIL, WI US",
-            "datacoverage": 0.9379,
-            "id": "GHCND:USC00471295",
-            "elevationUnit": "METERS",
-            "longitude": -88.45
         },
         {
             "elevation": 239.9,
@@ -10919,17 +10128,6 @@
             "longitude": -91.8885
         },
         {
-            "elevation": 273.1,
-            "mindate": "1893-01-01",
-            "maxdate": "1897-01-31",
-            "latitude": 44.35,
-            "name": "CENTRALIA, WI US",
-            "datacoverage": 0.9996,
-            "id": "GHCND:USC00471360",
-            "elevationUnit": "METERS",
-            "longitude": -89.83333
-        },
-        {
             "elevation": 277.4,
             "mindate": "1959-01-01",
             "maxdate": "2020-05-17",
@@ -10939,17 +10137,6 @@
             "id": "GHCND:USC00471416",
             "elevationUnit": "METERS",
             "longitude": -89.4819
-        },
-        {
-            "elevation": 390.1,
-            "mindate": "1948-01-01",
-            "maxdate": "1954-07-31",
-            "latitude": 44.9,
-            "name": "CHEROKEE, WI US",
-            "datacoverage": 0.9369,
-            "id": "GHCND:USC00471543",
-            "elevationUnit": "METERS",
-            "longitude": -90.21667
         },
         {
             "elevation": 256,
@@ -10974,17 +10161,6 @@
             "longitude": -91.4081
         },
         {
-            "elevation": 296.6,
-            "mindate": "1893-10-01",
-            "maxdate": "1908-05-31",
-            "latitude": 44.4,
-            "name": "CITY POINT, WI US",
-            "datacoverage": 0.7899,
-            "id": "GHCND:USC00471600",
-            "elevationUnit": "METERS",
-            "longitude": -90.333333
-        },
-        {
             "elevation": 456.6,
             "mindate": "2007-05-01",
             "maxdate": "2020-05-17",
@@ -10994,6 +10170,842 @@
             "id": "GHCND:USC00471604",
             "elevationUnit": "METERS",
             "longitude": -90.98083
+        },
+        {
+            "elevation": 183.8,
+            "mindate": "2008-09-01",
+            "maxdate": "2020-05-17",
+            "latitude": 43.71843,
+            "name": "SHEBOYGAN WWTP, WI US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00471605",
+            "elevationUnit": "METERS",
+            "longitude": -87.70871
+        },
+        {
+            "elevation": 419.7,
+            "mindate": "1998-08-01",
+            "maxdate": "2009-02-01",
+            "latitude": 46.0464,
+            "name": "CLAM LAKE 10 SW, WI US",
+            "datacoverage": 0.9993,
+            "id": "GHCND:USC00471618",
+            "elevationUnit": "METERS",
+            "longitude": -91.0703
+        },
+        {
+            "elevation": 292.6,
+            "mindate": "1948-08-01",
+            "maxdate": "2020-05-17",
+            "latitude": 42.5491,
+            "name": "CLINTON, WI US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00471667",
+            "elevationUnit": "METERS",
+            "longitude": -88.8752
+        },
+        {
+            "elevation": 244.4,
+            "mindate": "1948-08-01",
+            "maxdate": "2020-05-17",
+            "latitude": 44.6227,
+            "name": "CLINTONVILLE, WI US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00471676",
+            "elevationUnit": "METERS",
+            "longitude": -88.7483
+        },
+        {
+            "elevation": 274.9,
+            "mindate": "2007-10-01",
+            "maxdate": "2020-04-30",
+            "latitude": 43.3125,
+            "name": "CLYMAN, WI US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00471681",
+            "elevationUnit": "METERS",
+            "longitude": -88.7197
+        },
+        {
+            "elevation": 323.1,
+            "mindate": "1921-08-01",
+            "maxdate": "1984-04-30",
+            "latitude": 44.36667,
+            "name": "CODDINGTON 1 E, WI US",
+            "datacoverage": 0.9987,
+            "id": "GHCND:USC00471708",
+            "elevationUnit": "METERS",
+            "longitude": -89.53333
+        },
+        {
+            "elevation": 252.7,
+            "mindate": "2013-12-01",
+            "maxdate": "2020-05-16",
+            "latitude": 43.3261,
+            "name": "COLUMBUS, WI US",
+            "datacoverage": 0.9993,
+            "id": "GHCND:USC00471790",
+            "elevationUnit": "METERS",
+            "longitude": -89.0081
+        },
+        {
+            "elevation": 264,
+            "mindate": "1910-11-01",
+            "maxdate": "2016-03-01",
+            "latitude": 43.0769,
+            "name": "COTTAGE GROVE, WI US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00471840",
+            "elevationUnit": "METERS",
+            "longitude": -89.1911
+        },
+        {
+            "elevation": 396.2,
+            "mindate": "1948-08-01",
+            "maxdate": "2020-05-16",
+            "latitude": 45.8003,
+            "name": "COUDERAY 7 W, WI US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00471847",
+            "elevationUnit": "METERS",
+            "longitude": -91.4594
+        },
+        {
+            "elevation": 304.8,
+            "mindate": "1915-01-01",
+            "maxdate": "1993-10-21",
+            "latitude": 44.35,
+            "name": "CRANMOOR, WI US",
+            "datacoverage": 0.1265,
+            "id": "GHCND:USC00471880",
+            "elevationUnit": "METERS",
+            "longitude": -90
+        },
+        {
+            "elevation": 289.6,
+            "mindate": "1948-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 45.35807,
+            "name": "CRIVITZ HIGH FALLS, WI US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00471897",
+            "elevationUnit": "METERS",
+            "longitude": -88.19222
+        },
+        {
+            "elevation": 296.6,
+            "mindate": "1927-07-01",
+            "maxdate": "2020-05-14",
+            "latitude": 42.6001,
+            "name": "CUBA CITY, WI US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00471913",
+            "elevationUnit": "METERS",
+            "longitude": -90.4237
+        },
+        {
+            "elevation": 378,
+            "mindate": "1931-12-01",
+            "maxdate": "2020-05-15",
+            "latitude": 45.5331,
+            "name": "CUMBERLAND, WI US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00471923",
+            "elevationUnit": "METERS",
+            "longitude": -92.0226
+        },
+        {
+            "elevation": 417.6,
+            "mindate": "1948-08-01",
+            "maxdate": "1983-11-30",
+            "latitude": 44.95,
+            "name": "CURTISS, WI US",
+            "datacoverage": 0.9788,
+            "id": "GHCND:USC00471931",
+            "elevationUnit": "METERS",
+            "longitude": -90.43333
+        },
+        {
+            "elevation": 262.1,
+            "mindate": "1944-08-01",
+            "maxdate": "2010-12-31",
+            "latitude": 43.6561,
+            "name": "DALTON, WI US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00471970",
+            "elevationUnit": "METERS",
+            "longitude": -89.2027
+        },
+        {
+            "elevation": 289.6,
+            "mindate": "1919-09-01",
+            "maxdate": "2016-03-01",
+            "latitude": 46.0087,
+            "name": "DANBURY, WI US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00471978",
+            "elevationUnit": "METERS",
+            "longitude": -92.3735
+        },
+        {
+            "elevation": 283.5,
+            "mindate": "1901-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 42.678,
+            "name": "DARLINGTON, WI US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00472001",
+            "elevationUnit": "METERS",
+            "longitude": -90.1063
+        },
+        {
+            "elevation": 280.7,
+            "mindate": "2011-06-01",
+            "maxdate": "2020-05-17",
+            "latitude": 42.6344,
+            "name": "WALWORTH CO METRO SEWERAGE DIST, WI US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00472051",
+            "elevationUnit": "METERS",
+            "longitude": -88.6628
+        },
+        {
+            "elevation": 247.2,
+            "mindate": "2007-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 44.3514,
+            "name": "DENMARK WWTP, WI US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00472055",
+            "elevationUnit": "METERS",
+            "longitude": -87.812
+        },
+        {
+            "elevation": 208.8,
+            "mindate": "1948-07-01",
+            "maxdate": "2014-10-31",
+            "latitude": 44.133,
+            "name": "DODGE, WI US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00472165",
+            "elevationUnit": "METERS",
+            "longitude": -91.5511
+        },
+        {
+            "elevation": 338.3,
+            "mindate": "1896-01-01",
+            "maxdate": "2020-05-13",
+            "latitude": 42.9608,
+            "name": "DODGEVILLE, WI US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00472173",
+            "elevationUnit": "METERS",
+            "longitude": -90.1161
+        },
+        {
+            "elevation": 408.4,
+            "mindate": "1948-08-01",
+            "maxdate": "2010-12-31",
+            "latitude": 46.33333,
+            "name": "DRUMMOND, WI US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00472240",
+            "elevationUnit": "METERS",
+            "longitude": -91.26667
+        },
+        {
+            "elevation": 214.9,
+            "mindate": "1935-01-01",
+            "maxdate": "2020-05-16",
+            "latitude": 44.6197,
+            "name": "DURAND, WI US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00472279",
+            "elevationUnit": "METERS",
+            "longitude": -91.9795
+        },
+        {
+            "elevation": 494.7,
+            "mindate": "1939-11-01",
+            "maxdate": "2020-05-14",
+            "latitude": 45.9169,
+            "name": "EAGLE RIVER, WI US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00472314",
+            "elevationUnit": "METERS",
+            "longitude": -89.2563
+        },
+        {
+            "elevation": 256,
+            "mindate": "2001-10-01",
+            "maxdate": "2003-02-28",
+            "latitude": 42.79806,
+            "name": "EAST TROY AIRPORT, WI US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00472412",
+            "elevationUnit": "METERS",
+            "longitude": -88.38028
+        },
+        {
+            "elevation": 254.2,
+            "mindate": "2008-03-01",
+            "maxdate": "2011-10-05",
+            "latitude": 42.7844,
+            "name": "EAST TROY, WI US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00472413",
+            "elevationUnit": "METERS",
+            "longitude": -88.3955
+        },
+        {
+            "elevation": 268.2,
+            "mindate": "2000-02-01",
+            "maxdate": "2020-05-16",
+            "latitude": 44.7878,
+            "name": "EAU CLAIRE 3 SW, WI US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00472425",
+            "elevationUnit": "METERS",
+            "longitude": -91.5165
+        },
+        {
+            "elevation": 356.6,
+            "mindate": "1948-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 44.7722,
+            "name": "EAU PLEINE RESERVOIR, WI US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00472447",
+            "elevationUnit": "METERS",
+            "longitude": -89.76745
+        },
+        {
+            "elevation": 271,
+            "mindate": "1939-03-01",
+            "maxdate": "1981-06-30",
+            "latitude": 43.8,
+            "name": "EL DORADO 1 SSW, WI US",
+            "datacoverage": 0.9921,
+            "id": "GHCND:USC00472507",
+            "elevationUnit": "METERS",
+            "longitude": -88.63333
+        },
+        {
+            "elevation": 313.9,
+            "mindate": "1908-03-01",
+            "maxdate": "2020-05-17",
+            "latitude": 44.7303,
+            "name": "ELLSWORTH 1 E, WI US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00472556",
+            "elevationUnit": "METERS",
+            "longitude": -92.4586
+        },
+        {
+            "elevation": 223.4,
+            "mindate": "2008-01-01",
+            "maxdate": "2020-05-15",
+            "latitude": 45.17079,
+            "name": "EPHRAIM 1NE WWTP, WI US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00472626",
+            "elevationUnit": "METERS",
+            "longitude": -87.15377
+        },
+        {
+            "elevation": 329.2,
+            "mindate": "1948-01-01",
+            "maxdate": "2002-08-31",
+            "latitude": 44.6,
+            "name": "FAIRCHILD RANGER STATION, WI US",
+            "datacoverage": 0.9969,
+            "id": "GHCND:USC00472678",
+            "elevationUnit": "METERS",
+            "longitude": -90.96667
+        },
+        {
+            "elevation": 478.8,
+            "mindate": "1926-05-01",
+            "maxdate": "1981-07-31",
+            "latitude": 46.06667,
+            "name": "FLAMBEAU RESERVOIR, WI US",
+            "datacoverage": 0.9879,
+            "id": "GHCND:USC00472814",
+            "elevationUnit": "METERS",
+            "longitude": -90.23333
+        },
+        {
+            "elevation": 396.2,
+            "mindate": "1997-12-01",
+            "maxdate": "2020-05-14",
+            "latitude": 45.93364,
+            "name": "FLORENCE, WI US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00472826",
+            "elevationUnit": "METERS",
+            "longitude": -88.25828
+        },
+        {
+            "elevation": 231.6,
+            "mindate": "1893-01-01",
+            "maxdate": "2020-05-13",
+            "latitude": 43.7952,
+            "name": "FOND DU LAC, WI US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00472839",
+            "elevationUnit": "METERS",
+            "longitude": -88.4533
+        },
+        {
+            "elevation": 242.3,
+            "mindate": "2010-01-01",
+            "maxdate": "2020-05-16",
+            "latitude": 43.7666,
+            "name": "FOND DU LAC 2 SW, WI US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00472842",
+            "elevationUnit": "METERS",
+            "longitude": -88.4669
+        },
+        {
+            "elevation": 210.3,
+            "mindate": "2002-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 44.6998,
+            "name": "FORESTVILLE 4E, WI US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00472851",
+            "elevationUnit": "METERS",
+            "longitude": -87.39693
+        },
+        {
+            "elevation": 243.8,
+            "mindate": "1941-09-01",
+            "maxdate": "2020-05-17",
+            "latitude": 42.905,
+            "name": "FORT ATKINSON, WI US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00472869",
+            "elevationUnit": "METERS",
+            "longitude": -88.8588
+        },
+        {
+            "elevation": 284.1,
+            "mindate": "1963-11-01",
+            "maxdate": "2018-08-31",
+            "latitude": 46.4856,
+            "name": "FOXBORO, WI US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00472889",
+            "elevationUnit": "METERS",
+            "longitude": -92.2875
+        },
+        {
+            "elevation": 378,
+            "mindate": "1948-08-01",
+            "maxdate": "1971-04-30",
+            "latitude": 45.65,
+            "name": "FREDERIC, WI US",
+            "datacoverage": 0.9452,
+            "id": "GHCND:USC00472934",
+            "elevationUnit": "METERS",
+            "longitude": -92.46667
+        },
+        {
+            "elevation": 288,
+            "mindate": "1930-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 43.975,
+            "name": "FRIENDSHIP, WI US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00472973",
+            "elevationUnit": "METERS",
+            "longitude": -89.8309
+        },
+        {
+            "elevation": 245.4,
+            "mindate": "2009-12-01",
+            "maxdate": "2014-01-18",
+            "latitude": 44.0949,
+            "name": "GALESVILLE 2 ESE, WI US",
+            "datacoverage": 0.9995,
+            "id": "GHCND:USC00472992",
+            "elevationUnit": "METERS",
+            "longitude": -91.2922
+        },
+        {
+            "elevation": 234.1,
+            "mindate": "1938-08-01",
+            "maxdate": "2010-12-31",
+            "latitude": 44.07439,
+            "name": "GALESVILLE 2 WSW, WI US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00472996",
+            "elevationUnit": "METERS",
+            "longitude": -91.3872
+        },
+        {
+            "elevation": 210,
+            "mindate": "1981-04-01",
+            "maxdate": "2020-04-21",
+            "latitude": 43.3145,
+            "name": "GAYS MILLS, WI US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00473022",
+            "elevationUnit": "METERS",
+            "longitude": -90.8486
+        },
+        {
+            "elevation": 194.8,
+            "mindate": "1936-11-01",
+            "maxdate": "2020-05-17",
+            "latitude": 43.5705,
+            "name": "GENOA DAM 8, WI US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00473038",
+            "elevationUnit": "METERS",
+            "longitude": -91.2295
+        },
+        {
+            "elevation": 259.1,
+            "mindate": "2000-01-01",
+            "maxdate": "2009-10-01",
+            "latitude": 42.5,
+            "name": "GENOA CITY, WI US",
+            "datacoverage": 0.981,
+            "id": "GHCND:USC00473040",
+            "elevationUnit": "METERS",
+            "longitude": -88.3786
+        },
+        {
+            "elevation": 259.1,
+            "mindate": "1944-06-01",
+            "maxdate": "2020-05-15",
+            "latitude": 43.2388,
+            "name": "GERMANTOWN, WI US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00473058",
+            "elevationUnit": "METERS",
+            "longitude": -88.1222
+        },
+        {
+            "elevation": 206.7,
+            "mindate": "2001-01-01",
+            "maxdate": "2020-05-15",
+            "latitude": 43.63096,
+            "name": "OOSTBURG, WI US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00473116",
+            "elevationUnit": "METERS",
+            "longitude": -87.79965
+        },
+        {
+            "elevation": 441.4,
+            "mindate": "1959-01-01",
+            "maxdate": "2010-12-31",
+            "latitude": 45.62139,
+            "name": "GOODMAN SANITARY DISTRICT, WI US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00473174",
+            "elevationUnit": "METERS",
+            "longitude": -88.36028
+        },
+        {
+            "elevation": 423.7,
+            "mindate": "1948-01-01",
+            "maxdate": "2011-01-15",
+            "latitude": 45.149,
+            "name": "GOODRICH 1 E, WI US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00473182",
+            "elevationUnit": "METERS",
+            "longitude": -90.0668
+        },
+        {
+            "elevation": 317,
+            "mindate": "1951-01-01",
+            "maxdate": "2020-05-03",
+            "latitude": 46.245,
+            "name": "GORDON, WI US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00473186",
+            "elevationUnit": "METERS",
+            "longitude": -91.8047
+        },
+        {
+            "elevation": 225.9,
+            "mindate": "2009-04-01",
+            "maxdate": "2020-05-15",
+            "latitude": 43.308,
+            "name": "GRAFTON WWTP, WI US",
+            "datacoverage": 0.9999,
+            "id": "GHCND:USC00473198",
+            "elevationUnit": "METERS",
+            "longitude": -87.9552
+        },
+        {
+            "elevation": 207.9,
+            "mindate": "2004-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 44.49824,
+            "name": "GREEN BAY WEATHER FORECAST OFFICE, WI US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00473268",
+            "elevationUnit": "METERS",
+            "longitude": -88.11205
+        },
+        {
+            "elevation": 211.5,
+            "mindate": "1999-12-01",
+            "maxdate": "2020-05-15",
+            "latitude": 44.533,
+            "name": "GREEN BAY BOTANICAL, WI US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00473271",
+            "elevationUnit": "METERS",
+            "longitude": -88.098
+        },
+        {
+            "elevation": 355.1,
+            "mindate": "1952-01-01",
+            "maxdate": "2019-06-04",
+            "latitude": 46.4859,
+            "name": "GURNEY, WI US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00473332",
+            "elevationUnit": "METERS",
+            "longitude": -90.4373
+        },
+        {
+            "elevation": 235.9,
+            "mindate": "2004-01-01",
+            "maxdate": "2020-05-15",
+            "latitude": 42.93754,
+            "name": "HALES CORNERS WHITNALL PARK BOERNER BOTANICAL GARDENS, WI US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00473391",
+            "elevationUnit": "METERS",
+            "longitude": -88.02972
+        },
+        {
+            "elevation": 332.8,
+            "mindate": "1903-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 44.11869,
+            "name": "HANCOCK EXPERIMENTAL FARM, WI US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00473405",
+            "elevationUnit": "METERS",
+            "longitude": -89.53587
+        },
+        {
+            "elevation": 292.9,
+            "mindate": "1893-12-01",
+            "maxdate": "2020-05-17",
+            "latitude": 43.33159,
+            "name": "HARTFORD WWTP, WI US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00473453",
+            "elevationUnit": "METERS",
+            "longitude": -88.41165
+        },
+        {
+            "elevation": 271.9,
+            "mindate": "1908-08-01",
+            "maxdate": "2010-12-31",
+            "latitude": 44.4169,
+            "name": "HATFIELD, WI US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00473471",
+            "elevationUnit": "METERS",
+            "longitude": -90.7314
+        },
+        {
+            "elevation": 365.8,
+            "mindate": "1893-03-01",
+            "maxdate": "2020-03-31",
+            "latitude": 46.0002,
+            "name": "HAYWARD RANGER STATION, WI US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00473511",
+            "elevationUnit": "METERS",
+            "longitude": -91.5074
+        },
+        {
+            "elevation": 509.9,
+            "mindate": "1999-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 45.67347,
+            "name": "ARGONNE 1.5 NW, WI US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00473636",
+            "elevationUnit": "METERS",
+            "longitude": -88.90426
+        },
+        {
+            "elevation": 317.9,
+            "mindate": "2013-07-01",
+            "maxdate": "2020-05-17",
+            "latitude": 43.6341,
+            "name": "HILLSBORO 2 SW, WI US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00473650",
+            "elevationUnit": "METERS",
+            "longitude": -90.3792
+        },
+        {
+            "elevation": 301.8,
+            "mindate": "2011-01-01",
+            "maxdate": "2012-01-31",
+            "latitude": 43.64667,
+            "name": "HILLSBORO 1 SW, WI US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00473651",
+            "elevationUnit": "METERS",
+            "longitude": -90.3525
+        },
+        {
+            "elevation": 286.5,
+            "mindate": "1948-08-01",
+            "maxdate": "2013-09-01",
+            "latitude": 43.6541,
+            "name": "HILLSBORO, WI US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00473654",
+            "elevationUnit": "METERS",
+            "longitude": -90.3339
+        },
+        {
+            "elevation": 232,
+            "mindate": "2001-01-01",
+            "maxdate": "2020-05-13",
+            "latitude": 43.64097,
+            "name": "HINGHAM WWTP, WI US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00473661",
+            "elevationUnit": "METERS",
+            "longitude": -87.90968
+        },
+        {
+            "elevation": 266.1,
+            "mindate": "2003-01-01",
+            "maxdate": "2006-02-05",
+            "latitude": 44.63056,
+            "name": "HOFA PARK, WI US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00473680",
+            "elevationUnit": "METERS",
+            "longitude": -88.32722
+        },
+        {
+            "elevation": 322.2,
+            "mindate": "1929-08-01",
+            "maxdate": "2020-05-15",
+            "latitude": 45.2237,
+            "name": "HOLCOMBE, WI US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00473698",
+            "elevationUnit": "METERS",
+            "longitude": -91.127
+        },
+        {
+            "elevation": 294.1,
+            "mindate": "2007-01-01",
+            "maxdate": "2016-03-31",
+            "latitude": 43.2422,
+            "name": "HOLY HILL 2 E, WI US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00473702",
+            "elevationUnit": "METERS",
+            "longitude": -88.2888
+        },
+        {
+            "elevation": 268.5,
+            "mindate": "1970-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 43.4388,
+            "name": "HORICON, WI US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00473756",
+            "elevationUnit": "METERS",
+            "longitude": -88.63133
+        },
+        {
+            "elevation": 440.1,
+            "mindate": "1987-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 46.4625,
+            "name": "HURLEY, WI US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00473800",
+            "elevationUnit": "METERS",
+            "longitude": -90.1955
+        },
+        {
+            "elevation": 263.3,
+            "mindate": "2005-11-01",
+            "maxdate": "2018-09-30",
+            "latitude": 43.34,
+            "name": "HUSTISFORD WWTP, WI US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00473820",
+            "elevationUnit": "METERS",
+            "longitude": -88.6005
+        },
+        {
+            "elevation": 275.2,
+            "mindate": "2008-03-01",
+            "maxdate": "2020-05-16",
+            "latitude": 43.3194,
+            "name": "JACKSON, WI US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00473930",
+            "elevationUnit": "METERS",
+            "longitude": -88.168
+        },
+        {
+            "elevation": 232,
+            "mindate": "1893-01-01",
+            "maxdate": "1987-02-28",
+            "latitude": 42.66667,
+            "name": "JANESVILLE, WI US",
+            "datacoverage": 0.4868,
+            "id": "GHCND:USC00473979",
+            "elevationUnit": "METERS",
+            "longitude": -89.01667
+        },
+        {
+            "elevation": 326.1,
+            "mindate": "2008-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 45.08272,
+            "name": "JIM FALLS 3 NW, WI US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00474027",
+            "elevationUnit": "METERS",
+            "longitude": -91.33133
+        },
+        {
+            "elevation": 385.6,
+            "mindate": "1948-08-01",
+            "maxdate": "2015-06-16",
+            "latitude": 45.3497,
+            "name": "JUMP RIVER 3 E, WI US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00474080",
+            "elevationUnit": "METERS",
+            "longitude": -90.7484
+        },
+        {
+            "elevation": 239.9,
+            "mindate": "2004-09-01",
+            "maxdate": "2020-05-16",
+            "latitude": 42.9944,
+            "name": "JEFFERSON WWTP, WI US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00474108",
+            "elevationUnit": "METERS",
+            "longitude": -88.8041
         }
     ]
 }

@@ -2,7 +2,7 @@
     "metadata": {
         "resultset": {
             "offset": 1,
-            "count": 1295,
+            "count": 1099,
             "limit": 1000
         }
     },
@@ -28,17 +28,6 @@
             "id": "COOP:030064",
             "elevationUnit": "METERS",
             "longitude": -91.055
-        },
-        {
-            "elevation": 121.9,
-            "mindate": "1944-04-01",
-            "maxdate": "1949-12-01",
-            "latitude": 34.23333,
-            "name": "ALPINE, AR US",
-            "datacoverage": 0.7388,
-            "id": "COOP:030118",
-            "elevationUnit": "METERS",
-            "longitude": -93.28333
         },
         {
             "elevation": 212.8,
@@ -96,17 +85,6 @@
             "longitude": -93
         },
         {
-            "elevation": 159.1,
-            "mindate": "1948-01-01",
-            "maxdate": "1966-10-01",
-            "latitude": 35.41667,
-            "name": "APPLETON, AR US",
-            "datacoverage": 0.3319,
-            "id": "COOP:030196",
-            "elevationUnit": "METERS",
-            "longitude": -92.88333
-        },
-        {
             "elevation": 59.7,
             "mindate": "1931-01-01",
             "maxdate": "2015-11-01",
@@ -162,17 +140,6 @@
             "longitude": -93.98111
         },
         {
-            "elevation": 100.9,
-            "mindate": "1948-05-03",
-            "maxdate": "1950-09-01",
-            "latitude": 33.11667,
-            "name": "ATLANTA, AR US",
-            "datacoverage": 0.7913,
-            "id": "COOP:030310",
-            "elevationUnit": "METERS",
-            "longitude": -93.03333
-        },
-        {
             "elevation": 59.4,
             "mindate": "1943-12-01",
             "maxdate": "2015-11-01",
@@ -184,17 +151,6 @@
             "longitude": -91.3533
         },
         {
-            "elevation": 70.1,
-            "mindate": "1950-01-01",
-            "maxdate": "1967-03-01",
-            "latitude": 35.3,
-            "name": "BALD KNOB, AR US",
-            "datacoverage": 0.9906,
-            "id": "COOP:030350",
-            "elevationUnit": "METERS",
-            "longitude": -91.56667
-        },
-        {
             "elevation": 177.1,
             "mindate": "1967-01-01",
             "maxdate": "1975-03-01",
@@ -204,17 +160,6 @@
             "id": "COOP:030355",
             "elevationUnit": "METERS",
             "longitude": -91.56667
-        },
-        {
-            "elevation": 110,
-            "mindate": "1937-03-01",
-            "maxdate": "1951-01-31",
-            "latitude": 35.76667,
-            "name": "BATESVILLE AIRWAY, AR US",
-            "datacoverage": 0.9996,
-            "id": "COOP:030456",
-            "elevationUnit": "METERS",
-            "longitude": -91.65
         },
         {
             "elevation": 174,
@@ -239,67 +184,12 @@
             "longitude": -91.6384
         },
         {
-            "elevation": 67.1,
-            "mindate": "1948-05-02",
-            "maxdate": "1960-03-01",
-            "latitude": 34.71667,
-            "name": "BEAR CREEK LAKE, AR US",
-            "datacoverage": 0.1144,
-            "id": "COOP:030496",
-            "elevationUnit": "METERS",
-            "longitude": -90.7
-        },
-        {
-            "elevation": 121.9,
-            "mindate": "1940-01-01",
-            "maxdate": "1960-07-01",
-            "latitude": 35.08333,
-            "name": "BEATY LAKE, AR US",
-            "datacoverage": 0.9676,
-            "id": "COOP:030512",
-            "elevationUnit": "METERS",
-            "longitude": -90.71667
-        },
-        {
-            "elevation": 284.1,
-            "mindate": "1944-11-01",
-            "maxdate": "1959-05-01",
-            "latitude": 36.46667,
-            "name": "BEAVER 1 SE, AR US",
-            "datacoverage": 0.9946,
-            "id": "COOP:030518",
-            "elevationUnit": "METERS",
-            "longitude": -93.76667
-        },
-        {
-            "elevation": 348.1,
-            "mindate": "1961-06-01",
-            "maxdate": "1965-10-01",
-            "latitude": 36.41667,
-            "name": "BEAVER DAM, AR US",
-            "datacoverage": 0.9618,
-            "id": "COOP:030524",
-            "elevationUnit": "METERS",
-            "longitude": -93.83333
-        },
-        {
-            "elevation": 198.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1953-04-01",
-            "latitude": 35.45,
-            "name": "BEE BRANCH, AR US",
-            "datacoverage": 0.9852,
-            "id": "COOP:030528",
-            "elevationUnit": "METERS",
-            "longitude": -92.4
-        },
-        {
             "elevation": 76.2,
             "mindate": "1948-05-07",
             "maxdate": "2014-01-01",
             "latitude": 35.0644,
             "name": "BEEBE, AR US",
-            "datacoverage": 0.3109,
+            "datacoverage": 0.0307,
             "id": "COOP:030530",
             "elevationUnit": "METERS",
             "longitude": -91.8961
@@ -371,28 +261,6 @@
             "longitude": -93.5513
         },
         {
-            "elevation": 153,
-            "mindate": "1940-01-01",
-            "maxdate": "1949-06-01",
-            "latitude": 35.81667,
-            "name": "BETHESDA, AR US",
-            "datacoverage": 0.9915,
-            "id": "COOP:030644",
-            "elevationUnit": "METERS",
-            "longitude": -91.78333
-        },
-        {
-            "elevation": 381,
-            "mindate": "1945-01-01",
-            "maxdate": "1951-10-01",
-            "latitude": 36,
-            "name": "BIG FLAT, AR US",
-            "datacoverage": 0.915,
-            "id": "COOP:030662",
-            "elevationUnit": "METERS",
-            "longitude": -92.4
-        },
-        {
             "elevation": 365.8,
             "mindate": "1944-05-01",
             "maxdate": "2015-11-01",
@@ -402,17 +270,6 @@
             "id": "COOP:030664",
             "elevationUnit": "METERS",
             "longitude": -93.9983
-        },
-        {
-            "elevation": 70.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1960-07-01",
-            "latitude": 35.85,
-            "name": "BIG LAKE OUTLET, AR US",
-            "datacoverage": 0.9972,
-            "id": "COOP:030676",
-            "elevationUnit": "METERS",
-            "longitude": -90.13333
         },
         {
             "elevation": 152.4,
@@ -536,17 +393,6 @@
             "longitude": -93.9
         },
         {
-            "elevation": 139.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1949-08-01",
-            "latitude": 35.15,
-            "name": "BOONEVILLE 3 W, AR US",
-            "datacoverage": 0.982,
-            "id": "COOP:030828",
-            "elevationUnit": "METERS",
-            "longitude": -93.96667
-        },
-        {
             "elevation": 182.9,
             "mindate": "1941-03-01",
             "maxdate": "1977-06-01",
@@ -589,17 +435,6 @@
             "id": "COOP:030848",
             "elevationUnit": "METERS",
             "longitude": -93.33333
-        },
-        {
-            "elevation": 73.2,
-            "mindate": "1945-04-01",
-            "maxdate": "1960-07-01",
-            "latitude": 35.41667,
-            "name": "BRADFORD, AR US",
-            "datacoverage": 0.9999,
-            "id": "COOP:030872",
-            "elevationUnit": "METERS",
-            "longitude": -91.46667
         },
         {
             "elevation": 143,
@@ -662,7 +497,7 @@
             "maxdate": "2014-01-01",
             "latitude": 36.3647,
             "name": "BULL SHOALS DAM, AR US",
-            "datacoverage": 0.9173,
+            "datacoverage": 0.0334,
             "id": "COOP:031020",
             "elevationUnit": "METERS",
             "longitude": -92.5781
@@ -745,39 +580,6 @@
             "longitude": -92.8236
         },
         {
-            "elevation": 49.1,
-            "mindate": "1948-01-01",
-            "maxdate": "1966-05-01",
-            "latitude": 33.58333,
-            "name": "CAMDEN 2, AR US",
-            "datacoverage": 0.8226,
-            "id": "COOP:031154",
-            "elevationUnit": "METERS",
-            "longitude": -92.85
-        },
-        {
-            "elevation": 128,
-            "mindate": "1941-12-01",
-            "maxdate": "1959-03-01",
-            "latitude": 35.3,
-            "name": "CAMP CHAFFEE, AR US",
-            "datacoverage": 0.904,
-            "id": "COOP:031172",
-            "elevationUnit": "METERS",
-            "longitude": -94.3
-        },
-        {
-            "elevation": 244.1,
-            "mindate": "1948-05-01",
-            "maxdate": "1956-10-30",
-            "latitude": 35.86667,
-            "name": "CANAAN 2 W, AR US",
-            "datacoverage": 0.7899,
-            "id": "COOP:031188",
-            "elevationUnit": "METERS",
-            "longitude": -92.73333
-        },
-        {
             "elevation": 79.2,
             "mindate": "1998-09-01",
             "maxdate": "2015-11-01",
@@ -811,37 +613,6 @@
             "longitude": -93.01667
         },
         {
-            "mindate": "1931-06-01",
-            "maxdate": "1938-09-01",
-            "latitude": 34.06667,
-            "name": "CARTHAGE, AR US",
-            "datacoverage": 0.9089,
-            "id": "COOP:031255",
-            "longitude": -92.55
-        },
-        {
-            "elevation": 143,
-            "mindate": "1931-01-01",
-            "maxdate": "1936-06-01",
-            "latitude": 34.03333,
-            "name": "CENTER POINT, AR US",
-            "datacoverage": 0.9246,
-            "id": "COOP:031306",
-            "elevationUnit": "METERS",
-            "longitude": -93.95
-        },
-        {
-            "elevation": 195.1,
-            "mindate": "1949-08-01",
-            "maxdate": "1950-12-01",
-            "latitude": 35.36667,
-            "name": "CENTER RIDGE, AR US",
-            "datacoverage": 0.1763,
-            "id": "COOP:031308",
-            "elevationUnit": "METERS",
-            "longitude": -92.56667
-        },
-        {
             "elevation": 203.9,
             "mindate": "1995-11-01",
             "maxdate": "2015-11-01",
@@ -851,17 +622,6 @@
             "id": "COOP:031310",
             "elevationUnit": "METERS",
             "longitude": -92.56539
-        },
-        {
-            "elevation": 103.9,
-            "mindate": "1947-08-01",
-            "maxdate": "1948-05-01",
-            "latitude": 35.06667,
-            "name": "CENTERVILLE, AR US",
-            "datacoverage": 0.998,
-            "id": "COOP:031326",
-            "elevationUnit": "METERS",
-            "longitude": -93.2
         },
         {
             "elevation": 97.5,
@@ -908,17 +668,6 @@
             "longitude": -93.45
         },
         {
-            "elevation": 167.9,
-            "mindate": "1948-05-05",
-            "maxdate": "1953-12-01",
-            "latitude": 35.43333,
-            "name": "LAMAR, AR US",
-            "datacoverage": 0.6411,
-            "id": "COOP:031456",
-            "elevationUnit": "METERS",
-            "longitude": -93.41667
-        },
-        {
             "elevation": 259.1,
             "mindate": "1961-12-01",
             "maxdate": "2015-11-01",
@@ -963,23 +712,12 @@
             "longitude": -93.6716
         },
         {
-            "elevation": 381,
-            "mindate": "1941-10-01",
-            "maxdate": "1958-03-01",
-            "latitude": 34.96667,
-            "name": "COLD SPRINGS GUARD STATION, AR US",
-            "datacoverage": 0.99,
-            "id": "COOP:031520",
-            "elevationUnit": "METERS",
-            "longitude": -93.9
-        },
-        {
             "elevation": 426.7,
-            "mindate": "1940-07-01",
+            "mindate": "1948-05-02",
             "maxdate": "1986-11-01",
             "latitude": 35.8,
             "name": "COMBS, AR US",
-            "datacoverage": 0.8959,
+            "datacoverage": 0.0463,
             "id": "COOP:031574",
             "elevationUnit": "METERS",
             "longitude": -93.8
@@ -1018,28 +756,6 @@
             "longitude": -90.5858
         },
         {
-            "elevation": 85.3,
-            "mindate": "1947-08-01",
-            "maxdate": "1948-05-01",
-            "latitude": 36.4,
-            "name": "CORNING 2 E, AR US",
-            "datacoverage": 0.499,
-            "id": "COOP:031634",
-            "elevationUnit": "METERS",
-            "longitude": -90.53333
-        },
-        {
-            "elevation": 134.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1956-06-01",
-            "latitude": 36.28333,
-            "name": "COTTER, AR US",
-            "datacoverage": 1,
-            "id": "COOP:031640",
-            "elevationUnit": "METERS",
-            "longitude": -92.51667
-        },
-        {
             "elevation": 323.1,
             "mindate": "1946-03-01",
             "maxdate": "2015-11-01",
@@ -1071,28 +787,6 @@
             "id": "COOP:031750",
             "elevationUnit": "METERS",
             "longitude": -92.45
-        },
-        {
-            "elevation": 228.9,
-            "mindate": "1947-09-01",
-            "maxdate": "1948-05-01",
-            "latitude": 35.5,
-            "name": "CULPEPPER, AR US",
-            "datacoverage": 0.9998,
-            "id": "COOP:031756",
-            "elevationUnit": "METERS",
-            "longitude": -92.55
-        },
-        {
-            "elevation": 54.9,
-            "mindate": "1944-07-01",
-            "maxdate": "1965-04-01",
-            "latitude": 34.06667,
-            "name": "CUMMINS FARM, AR US",
-            "datacoverage": 0.992,
-            "id": "COOP:031768",
-            "elevationUnit": "METERS",
-            "longitude": -91.58333
         },
         {
             "elevation": 192,
@@ -1216,28 +910,6 @@
             "longitude": -94.4008
         },
         {
-            "elevation": 313.9,
-            "mindate": "1948-05-01",
-            "maxdate": "1956-07-01",
-            "latitude": 36.38333,
-            "name": "DENVER, AR US",
-            "datacoverage": 0.9504,
-            "id": "COOP:031956",
-            "elevationUnit": "METERS",
-            "longitude": -93.3
-        },
-        {
-            "elevation": 43,
-            "mindate": "1940-04-01",
-            "maxdate": "1966-01-01",
-            "latitude": 33.51667,
-            "name": "DERMOTT, AR US",
-            "datacoverage": 0.9805,
-            "id": "COOP:031960",
-            "elevationUnit": "METERS",
-            "longitude": -91.43333
-        },
-        {
             "elevation": 44.2,
             "mindate": "1963-08-01",
             "maxdate": "2015-11-01",
@@ -1269,17 +941,6 @@
             "id": "COOP:031980",
             "elevationUnit": "METERS",
             "longitude": -94.2516
-        },
-        {
-            "elevation": 716.9,
-            "mindate": "1937-07-01",
-            "maxdate": "1969-06-01",
-            "latitude": 35.71667,
-            "name": "DEVILS KNOB, AR US",
-            "datacoverage": 0.9818,
-            "id": "COOP:031982",
-            "elevationUnit": "METERS",
-            "longitude": -93.4
         },
         {
             "elevation": 143.3,
@@ -1326,50 +987,6 @@
             "longitude": -91.53161
         },
         {
-            "elevation": 52.1,
-            "mindate": "1948-05-03",
-            "maxdate": "1961-01-26",
-            "latitude": 33.88333,
-            "name": "DUMAS, AR US",
-            "datacoverage": 0.7846,
-            "id": "COOP:032150",
-            "elevationUnit": "METERS",
-            "longitude": -91.5
-        },
-        {
-            "elevation": 378,
-            "mindate": "1940-07-01",
-            "maxdate": "1956-09-01",
-            "latitude": 35.95,
-            "name": "DURHAM, AR US",
-            "datacoverage": 0.8274,
-            "id": "COOP:032176",
-            "elevationUnit": "METERS",
-            "longitude": -93.98333
-        },
-        {
-            "elevation": 484.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1937-06-01",
-            "latitude": 35.8,
-            "name": "DUTTON, AR US",
-            "datacoverage": 0.8979,
-            "id": "COOP:032188",
-            "elevationUnit": "METERS",
-            "longitude": -93.7
-        },
-        {
-            "elevation": 351.1,
-            "mindate": "1940-06-01",
-            "maxdate": "1956-02-01",
-            "latitude": 34.71667,
-            "name": "EAGLE GAP, AR US",
-            "datacoverage": 0.9525,
-            "id": "COOP:032204",
-            "elevationUnit": "METERS",
-            "longitude": -94.31667
-        },
-        {
             "elevation": 76.8,
             "mindate": "1931-01-01",
             "maxdate": "2015-11-01",
@@ -1379,28 +996,6 @@
             "id": "COOP:032300",
             "elevationUnit": "METERS",
             "longitude": -92.8141
-        },
-        {
-            "elevation": 152.4,
-            "mindate": "1939-07-01",
-            "maxdate": "1948-02-01",
-            "latitude": 36.35,
-            "name": "ELEVENPOINT, AR US",
-            "datacoverage": 0.8845,
-            "id": "COOP:032308",
-            "elevationUnit": "METERS",
-            "longitude": -91.1
-        },
-        {
-            "elevation": 70.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1945-04-01",
-            "latitude": 34.53333,
-            "name": "ENGLAND, AR US",
-            "datacoverage": 0.9653,
-            "id": "COOP:032336",
-            "elevationUnit": "METERS",
-            "longitude": -91.96667
         },
         {
             "elevation": 41.1,
@@ -1458,17 +1053,6 @@
             "longitude": -94.1694
         },
         {
-            "elevation": 417.9,
-            "mindate": "1937-12-01",
-            "maxdate": "1960-12-01",
-            "latitude": 36.08333,
-            "name": "FAYETTEVILLE, AR US",
-            "datacoverage": 0.9782,
-            "id": "COOP:032442",
-            "elevationUnit": "METERS",
-            "longitude": -94.16667
-        },
-        {
             "elevation": 381.3,
             "mindate": "1949-08-01",
             "maxdate": "1982-01-01",
@@ -1513,17 +1097,6 @@
             "longitude": -92.4553
         },
         {
-            "elevation": 219.2,
-            "mindate": "1951-07-01",
-            "maxdate": "1961-08-01",
-            "latitude": 36.29083,
-            "name": "FLIPPIN MARION CO REGIONAL AIRPORT, AR US",
-            "datacoverage": 0.9996,
-            "id": "COOP:032528",
-            "elevationUnit": "METERS",
-            "longitude": -92.59
-        },
-        {
             "elevation": 70.1,
             "mindate": "1936-11-01",
             "maxdate": "2015-11-01",
@@ -1544,17 +1117,6 @@
             "id": "COOP:032544",
             "elevationUnit": "METERS",
             "longitude": -94.3975
-        },
-        {
-            "elevation": 200.9,
-            "mindate": "1941-01-01",
-            "maxdate": "1956-03-01",
-            "latitude": 34.78333,
-            "name": "FORESTER, AR US",
-            "datacoverage": 0.9182,
-            "id": "COOP:032556",
-            "elevationUnit": "METERS",
-            "longitude": -93.88333
         },
         {
             "elevation": 75.9,
@@ -1590,28 +1152,6 @@
             "longitude": -94.1541
         },
         {
-            "elevation": 54.9,
-            "mindate": "1947-09-01",
-            "maxdate": "1956-03-01",
-            "latitude": 33.35,
-            "name": "FOUNTAIN HILL, AR US",
-            "datacoverage": 0.7476,
-            "id": "COOP:032598",
-            "elevationUnit": "METERS",
-            "longitude": -91.83333
-        },
-        {
-            "elevation": 139.9,
-            "mindate": "1967-02-01",
-            "maxdate": "1967-03-01",
-            "latitude": 34.95,
-            "name": "FOURCHE JUNCTION, AR US",
-            "datacoverage": 1,
-            "id": "COOP:032609",
-            "elevationUnit": "METERS",
-            "longitude": -93.15
-        },
-        {
             "elevation": 79.2,
             "mindate": "1931-01-01",
             "maxdate": "2004-05-01",
@@ -1632,17 +1172,6 @@
             "id": "COOP:032700",
             "elevationUnit": "METERS",
             "longitude": -92.2441
-        },
-        {
-            "elevation": 70.1,
-            "mindate": "1944-03-01",
-            "maxdate": "1950-10-01",
-            "latitude": 33.35,
-            "name": "GARLAND, AR US",
-            "datacoverage": 0.7497,
-            "id": "COOP:032710",
-            "elevationUnit": "METERS",
-            "longitude": -93.7
         },
         {
             "elevation": 121.9,
@@ -1700,17 +1229,6 @@
             "longitude": -93.51097
         },
         {
-            "elevation": 281,
-            "mindate": "1931-01-01",
-            "maxdate": "1957-04-01",
-            "latitude": 34.25,
-            "name": "GRANNIS, AR US",
-            "datacoverage": 0.9685,
-            "id": "COOP:032908",
-            "elevationUnit": "METERS",
-            "longitude": -94.33333
-        },
-        {
             "elevation": 143,
             "mindate": "1940-05-01",
             "maxdate": "2015-11-01",
@@ -1753,17 +1271,6 @@
             "id": "COOP:032946",
             "elevationUnit": "METERS",
             "longitude": -93.42778
-        },
-        {
-            "elevation": 335.9,
-            "mindate": "1937-07-01",
-            "maxdate": "1956-02-01",
-            "latitude": 36.03333,
-            "name": "GREEN MOUNTAIN, AR US",
-            "datacoverage": 0.9107,
-            "id": "COOP:032952",
-            "elevationUnit": "METERS",
-            "longitude": -92.2
         },
         {
             "elevation": 103,
@@ -1843,17 +1350,6 @@
             "longitude": -91.79389
         },
         {
-            "elevation": 61,
-            "mindate": "1947-04-01",
-            "maxdate": "1958-12-01",
-            "latitude": 33.53333,
-            "name": "HAMPTON, AR US",
-            "datacoverage": 0.6948,
-            "id": "COOP:033098",
-            "elevationUnit": "METERS",
-            "longitude": -92.46667
-        },
-        {
             "elevation": 39.6,
             "mindate": "2010-12-01",
             "maxdate": "2012-12-01",
@@ -1887,17 +1383,6 @@
             "longitude": -91.5056
         },
         {
-            "elevation": 85,
-            "mindate": "1940-03-01",
-            "maxdate": "1950-05-01",
-            "latitude": 35.56667,
-            "name": "HARRISBURG, AR US",
-            "datacoverage": 0.9006,
-            "id": "COOP:033160",
-            "elevationUnit": "METERS",
-            "longitude": -90.73333
-        },
-        {
             "elevation": 345,
             "mindate": "1931-01-01",
             "maxdate": "2015-11-01",
@@ -1920,17 +1405,6 @@
             "longitude": -93.1566
         },
         {
-            "elevation": 418.8,
-            "mindate": "1948-07-01",
-            "maxdate": "1950-09-26",
-            "latitude": 36.2668,
-            "name": "HARRISON BOONE CO AIRPORT, AR US",
-            "datacoverage": 0.9217,
-            "id": "COOP:033166",
-            "elevationUnit": "METERS",
-            "longitude": -93.1566
-        },
-        {
             "elevation": 103.6,
             "mindate": "1995-07-01",
             "maxdate": "2015-11-01",
@@ -1942,17 +1416,6 @@
             "longitude": -92.84907
         },
         {
-            "elevation": 160.6,
-            "mindate": "1935-12-01",
-            "maxdate": "1960-09-01",
-            "latitude": 35.5206,
-            "name": "GREERS FERRY DAM, AR US",
-            "datacoverage": 0.557,
-            "id": "COOP:033228",
-            "elevationUnit": "METERS",
-            "longitude": -91.9997
-        },
-        {
             "elevation": 94.5,
             "mindate": "2014-01-01",
             "maxdate": "2015-11-01",
@@ -1962,17 +1425,6 @@
             "id": "COOP:033229",
             "elevationUnit": "METERS",
             "longitude": -91.9955
-        },
-        {
-            "elevation": 267.9,
-            "mindate": "1948-05-01",
-            "maxdate": "1965-03-01",
-            "latitude": 35.46667,
-            "name": "HEBER SPRINGS 3 SSW, AR US",
-            "datacoverage": 0.7503,
-            "id": "COOP:033230",
-            "elevationUnit": "METERS",
-            "longitude": -92.05
         },
         {
             "elevation": 166.4,
@@ -1995,50 +1447,6 @@
             "id": "COOP:033242",
             "elevationUnit": "METERS",
             "longitude": -90.5899
-        },
-        {
-            "elevation": 177.1,
-            "mindate": "1941-10-01",
-            "maxdate": "1960-07-01",
-            "latitude": 36.36667,
-            "name": "HENDERSON 2 W, AR US",
-            "datacoverage": 0.9469,
-            "id": "COOP:033258",
-            "elevationUnit": "METERS",
-            "longitude": -92.26667
-        },
-        {
-            "elevation": 136.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1941-07-01",
-            "latitude": 35.56667,
-            "name": "HIGDEN, AR US",
-            "datacoverage": 1,
-            "id": "COOP:033326",
-            "elevationUnit": "METERS",
-            "longitude": -92.2
-        },
-        {
-            "elevation": 182.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1944-02-01",
-            "latitude": 34.03333,
-            "name": "HIGHLAND, AR US",
-            "datacoverage": 0.9876,
-            "id": "COOP:033340",
-            "elevationUnit": "METERS",
-            "longitude": -93.76667
-        },
-        {
-            "elevation": 70.1,
-            "mindate": "1947-01-01",
-            "maxdate": "1947-10-01",
-            "latitude": 35.13333,
-            "name": "HILLEMAN, AR US",
-            "datacoverage": 0.801,
-            "id": "COOP:033354",
-            "elevationUnit": "METERS",
-            "longitude": -91.08333
         },
         {
             "elevation": 456.3,
@@ -2118,15 +1526,6 @@
             "longitude": -93.06
         },
         {
-            "mindate": "1947-08-01",
-            "maxdate": "1948-05-01",
-            "latitude": 35,
-            "name": "HOUSTON, AR US",
-            "datacoverage": 0.998,
-            "id": "COOP:033472",
-            "longitude": -92.73333
-        },
-        {
             "elevation": 442,
             "mindate": "1940-01-01",
             "maxdate": "1984-03-01",
@@ -2150,36 +1549,14 @@
         },
         {
             "elevation": 18,
-            "mindate": "1941-01-01",
+            "mindate": "1948-05-03",
             "maxdate": "1977-06-01",
             "latitude": 33.03333,
             "name": "HUTTIG LOCK AND DAM, AR US",
-            "datacoverage": 0.951,
+            "datacoverage": 0.0484,
             "id": "COOP:033556",
             "elevationUnit": "METERS",
             "longitude": -92.08333
-        },
-        {
-            "elevation": 415.1,
-            "mindate": "1947-09-01",
-            "maxdate": "1949-11-01",
-            "latitude": 35.86667,
-            "name": "ICELEDO, AR US",
-            "datacoverage": 0.4814,
-            "id": "COOP:033570",
-            "elevationUnit": "METERS",
-            "longitude": -92.98333
-        },
-        {
-            "elevation": 92,
-            "mindate": "1931-01-01",
-            "maxdate": "1968-10-01",
-            "latitude": 33.58333,
-            "name": "INDEX, AR US",
-            "datacoverage": 0.9713,
-            "id": "COOP:033584",
-            "elevationUnit": "METERS",
-            "longitude": -94.05
         },
         {
             "elevation": 269.7,
@@ -2275,7 +1652,7 @@
             "maxdate": "1973-10-01",
             "latitude": 33.83333,
             "name": "KINGSLAND 3 SSE, AR US",
-            "datacoverage": 0.7334,
+            "datacoverage": 0.0455,
             "id": "COOP:033904",
             "elevationUnit": "METERS",
             "longitude": -92.26667
@@ -2325,17 +1702,6 @@
             "longitude": -90.45
         },
         {
-            "elevation": 335.9,
-            "mindate": "1948-05-01",
-            "maxdate": "1949-08-01",
-            "latitude": 36.45,
-            "name": "LAKE LEATHERWOOD, AR US",
-            "datacoverage": 0.0027,
-            "id": "COOP:034006",
-            "elevationUnit": "METERS",
-            "longitude": -93.76667
-        },
-        {
             "elevation": 93,
             "mindate": "1957-01-01",
             "maxdate": "2015-11-01",
@@ -2358,17 +1724,6 @@
             "longitude": -90.79861
         },
         {
-            "elevation": 167.9,
-            "mindate": "1953-11-01",
-            "maxdate": "1961-11-22",
-            "latitude": 35.43333,
-            "name": "LAMAR, AR US",
-            "datacoverage": 0.0491,
-            "id": "COOP:034019",
-            "elevationUnit": "METERS",
-            "longitude": -93.41667
-        },
-        {
             "elevation": 235,
             "mindate": "1947-09-01",
             "maxdate": "2015-11-01",
@@ -2389,17 +1744,6 @@
             "id": "COOP:034106",
             "elevationUnit": "METERS",
             "longitude": -92.9158
-        },
-        {
-            "elevation": 305.1,
-            "mindate": "1946-08-01",
-            "maxdate": "1962-12-01",
-            "latitude": 35.7,
-            "name": "LEE CREEK GUARD STATION, AR US",
-            "datacoverage": 0.9034,
-            "id": "COOP:034116",
-            "elevationUnit": "METERS",
-            "longitude": -94.31667
         },
         {
             "elevation": 77.7,
@@ -2446,17 +1790,6 @@
             "longitude": -92.31667
         },
         {
-            "elevation": 113.1,
-            "mindate": "1945-09-01",
-            "maxdate": "1951-07-01",
-            "latitude": 35.85,
-            "name": "LOCK AND DAM 3, AR US",
-            "datacoverage": 0.9159,
-            "id": "COOP:034256",
-            "elevationUnit": "METERS",
-            "longitude": -91.85
-        },
-        {
             "elevation": 174,
             "mindate": "1995-04-01",
             "maxdate": "2015-11-01",
@@ -2468,28 +1801,6 @@
             "longitude": -93.19722
         },
         {
-            "elevation": 473,
-            "mindate": "1945-02-01",
-            "maxdate": "1956-12-01",
-            "latitude": 35.56667,
-            "name": "LOST CORNER, AR US",
-            "datacoverage": 0.7763,
-            "id": "COOP:034324",
-            "elevationUnit": "METERS",
-            "longitude": -92.83333
-        },
-        {
-            "elevation": 39.9,
-            "mindate": "1944-04-01",
-            "maxdate": "1958-05-01",
-            "latitude": 33.36667,
-            "name": "LOUANN, AR US",
-            "datacoverage": 0.7765,
-            "id": "COOP:034332",
-            "elevationUnit": "METERS",
-            "longitude": -92.76667
-        },
-        {
             "elevation": 609.9,
             "mindate": "1931-01-01",
             "maxdate": "1974-10-01",
@@ -2499,17 +1810,6 @@
             "id": "COOP:034386",
             "elevationUnit": "METERS",
             "longitude": -93.06667
-        },
-        {
-            "elevation": 238,
-            "mindate": "1931-01-01",
-            "maxdate": "1952-12-01",
-            "latitude": 35.48333,
-            "name": "LUTHERVILLE, AR US",
-            "datacoverage": 0.9583,
-            "id": "COOP:034390",
-            "elevationUnit": "METERS",
-            "longitude": -93.25
         },
         {
             "elevation": 91.4,
@@ -2535,11 +1835,11 @@
         },
         {
             "elevation": 88.1,
-            "mindate": "1951-01-01",
+            "mindate": "1951-02-01",
             "maxdate": "1984-02-01",
             "latitude": 33.26667,
             "name": "MAGNOLIA 2, AR US",
-            "datacoverage": 0.7515,
+            "datacoverage": 0.0316,
             "id": "COOP:034550",
             "elevationUnit": "METERS",
             "longitude": -93.23333
@@ -2611,23 +1911,12 @@
             "longitude": -92.6564
         },
         {
-            "elevation": 61,
-            "mindate": "1940-03-01",
-            "maxdate": "1959-12-01",
-            "latitude": 34.55,
-            "name": "MARVELL, AR US",
-            "datacoverage": 0.8528,
-            "id": "COOP:034678",
-            "elevationUnit": "METERS",
-            "longitude": -90.91667
-        },
-        {
             "elevation": 243.5,
             "mindate": "1948-05-01",
             "maxdate": "1987-02-01",
             "latitude": 36.05,
             "name": "MAUMEE, AR US",
-            "datacoverage": 0.9488,
+            "datacoverage": 0.0454,
             "id": "COOP:034696",
             "elevationUnit": "METERS",
             "longitude": -92.65
@@ -2726,7 +2015,7 @@
             "maxdate": "1971-02-01",
             "latitude": 33.31667,
             "name": "MONTROSE, AR US",
-            "datacoverage": 0.517,
+            "datacoverage": 0.0396,
             "id": "COOP:034906",
             "elevationUnit": "METERS",
             "longitude": -91.48333
@@ -2798,17 +2087,6 @@
             "longitude": -93.6256
         },
         {
-            "elevation": 200.9,
-            "mindate": "1948-06-01",
-            "maxdate": "1951-04-01",
-            "latitude": 34.55,
-            "name": "MOUNT IDA 2, AR US",
-            "datacoverage": 0.491,
-            "id": "COOP:034990",
-            "elevationUnit": "METERS",
-            "longitude": -93.63333
-        },
-        {
             "elevation": 214,
             "mindate": "2009-11-01",
             "maxdate": "2015-11-01",
@@ -2818,17 +2096,6 @@
             "id": "COOP:034991",
             "elevationUnit": "METERS",
             "longitude": -93.578
-        },
-        {
-            "elevation": 854,
-            "mindate": "1948-09-01",
-            "maxdate": "1966-11-01",
-            "latitude": 35.16667,
-            "name": "MOUNT MAGAZINE, AR US",
-            "datacoverage": 0.886,
-            "id": "COOP:035010",
-            "elevationUnit": "METERS",
-            "longitude": -93.68333
         },
         {
             "elevation": 241.7,
@@ -2875,17 +2142,6 @@
             "longitude": -92.0979
         },
         {
-            "elevation": 223.1,
-            "mindate": "1937-11-01",
-            "maxdate": "1954-09-01",
-            "latitude": 35.6,
-            "name": "MOUNTAINBURG, AR US",
-            "datacoverage": 0.9706,
-            "id": "COOP:035056",
-            "elevationUnit": "METERS",
-            "longitude": -94.2
-        },
-        {
             "elevation": 152.4,
             "mindate": "1939-10-01",
             "maxdate": "1984-03-01",
@@ -2895,17 +2151,6 @@
             "id": "COOP:035072",
             "elevationUnit": "METERS",
             "longitude": -94.01667
-        },
-        {
-            "elevation": 140.2,
-            "mindate": "1948-05-01",
-            "maxdate": "1950-08-01",
-            "latitude": 34.0784,
-            "name": "MURFREESBORO 1 W, AR US",
-            "datacoverage": 1,
-            "id": "COOP:035078",
-            "elevationUnit": "METERS",
-            "longitude": -93.702
         },
         {
             "elevation": 140.2,
@@ -2939,17 +2184,6 @@
             "id": "COOP:035112",
             "elevationUnit": "METERS",
             "longitude": -93.8583
-        },
-        {
-            "elevation": 113.1,
-            "mindate": "1948-05-03",
-            "maxdate": "1966-02-28",
-            "latitude": 33.95,
-            "name": "NASHVILLE, AR US",
-            "datacoverage": 0.3827,
-            "id": "COOP:035114",
-            "elevationUnit": "METERS",
-            "longitude": -93.86667
         },
         {
             "elevation": 164.9,
@@ -3019,25 +2253,14 @@
         },
         {
             "elevation": 129.5,
-            "mindate": "1947-03-01",
+            "mindate": "1948-05-02",
             "maxdate": "2014-01-01",
             "latitude": 36.2494,
             "name": "NORFORK DAM, AR US",
-            "datacoverage": 0.9846,
+            "datacoverage": 0.0336,
             "id": "COOP:035228",
             "elevationUnit": "METERS",
             "longitude": -92.2383
-        },
-        {
-            "elevation": 228.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1939-04-01",
-            "latitude": 34.45,
-            "name": "NORMAN, AR US",
-            "datacoverage": 0.9906,
-            "id": "COOP:035236",
-            "elevationUnit": "METERS",
-            "longitude": -93.68333
         },
         {
             "elevation": 171.6,
@@ -3194,17 +2417,6 @@
             "longitude": -93.8
         },
         {
-            "elevation": 67.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1964-01-01",
-            "latitude": 35.26667,
-            "name": "PARKIN, AR US",
-            "datacoverage": 0.9647,
-            "id": "COOP:035586",
-            "elevationUnit": "METERS",
-            "longitude": -90.58333
-        },
-        {
             "elevation": 271.3,
             "mindate": "1956-04-01",
             "maxdate": "2015-11-01",
@@ -3221,32 +2433,10 @@
             "maxdate": "2014-01-01",
             "latitude": 35.9547,
             "name": "PARTHENON, AR US",
-            "datacoverage": 0.9244,
+            "datacoverage": 0.0413,
             "id": "COOP:035602",
             "elevationUnit": "METERS",
             "longitude": -93.2405
-        },
-        {
-            "elevation": 61,
-            "mindate": "1931-01-01",
-            "maxdate": "1952-12-01",
-            "latitude": 35.25,
-            "name": "PATTERSON, AR US",
-            "datacoverage": 0.3939,
-            "id": "COOP:035618",
-            "elevationUnit": "METERS",
-            "longitude": -91.23333
-        },
-        {
-            "elevation": 609.9,
-            "mindate": "1963-02-01",
-            "maxdate": "1963-04-01",
-            "latitude": 35.71667,
-            "name": "PELSOR, AR US",
-            "datacoverage": 1,
-            "id": "COOP:035664",
-            "elevationUnit": "METERS",
-            "longitude": -93.1
         },
         {
             "elevation": 91.4,
@@ -3256,17 +2446,6 @@
             "name": "PERRY, AR US",
             "datacoverage": 0.9952,
             "id": "COOP:035691",
-            "elevationUnit": "METERS",
-            "longitude": -92.7955
-        },
-        {
-            "elevation": 91.4,
-            "mindate": "1931-01-01",
-            "maxdate": "1964-08-01",
-            "latitude": 35.0441,
-            "name": "PERRY, AR US",
-            "datacoverage": 0.9777,
-            "id": "COOP:035694",
             "elevationUnit": "METERS",
             "longitude": -92.7955
         },
@@ -3282,17 +2461,6 @@
             "longitude": -93.55111
         },
         {
-            "elevation": 95.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1935-12-01",
-            "latitude": 36.38333,
-            "name": "PIGGOTT, AR US",
-            "datacoverage": 1,
-            "id": "COOP:035719",
-            "elevationUnit": "METERS",
-            "longitude": -90.18333
-        },
-        {
             "elevation": 70.1,
             "mindate": "1931-01-01",
             "maxdate": "2015-11-01",
@@ -3305,7 +2473,7 @@
         },
         {
             "elevation": 63.1,
-            "mindate": "1948-05-03",
+            "mindate": "1948-10-01",
             "maxdate": "1974-02-01",
             "latitude": 34.17981,
             "name": "PINE BLUFF GRIDER FIELD, AR US",
@@ -3370,17 +2538,6 @@
             "longitude": -93.4196
         },
         {
-            "elevation": 82.9,
-            "mindate": "1947-09-01",
-            "maxdate": "1948-05-01",
-            "latitude": 35.11417,
-            "name": "PONTOON, AR US",
-            "datacoverage": 0.3333,
-            "id": "COOP:035846",
-            "elevationUnit": "METERS",
-            "longitude": -93.01028
-        },
-        {
             "elevation": 39,
             "mindate": "1931-01-01",
             "maxdate": "2015-11-01",
@@ -3419,18 +2576,18 @@
             "maxdate": "1982-07-31",
             "latitude": 33.8,
             "name": "PRESCOTT SOIL CONSERVATION SERVICE, AR US",
-            "datacoverage": 0.8975,
+            "datacoverage": 0.0498,
             "id": "COOP:035910",
             "elevationUnit": "METERS",
             "longitude": -93.38333
         },
         {
             "elevation": 244.1,
-            "mindate": "1948-01-01",
+            "mindate": "1948-05-02",
             "maxdate": "1970-03-01",
             "latitude": 36.25,
             "name": "PYATT, AR US",
-            "datacoverage": 1,
+            "datacoverage": 0.0462,
             "id": "COOP:035970",
             "elevationUnit": "METERS",
             "longitude": -92.85
@@ -3480,30 +2637,8 @@
             "longitude": -93.8766
         },
         {
-            "elevation": 75.9,
-            "mindate": "1948-05-03",
-            "maxdate": "1970-04-01",
-            "latitude": 33.06667,
-            "name": "RAVANA, AR US",
-            "datacoverage": 0.7693,
-            "id": "COOP:036016",
-            "elevationUnit": "METERS",
-            "longitude": -94.03333
-        },
-        {
-            "elevation": 785.8,
-            "mindate": "1943-11-01",
-            "maxdate": "1948-07-01",
-            "latitude": 35.86667,
-            "name": "BUFFALO TOWER, AR US",
-            "datacoverage": 0.8596,
-            "id": "COOP:036078",
-            "elevationUnit": "METERS",
-            "longitude": -93.5
-        },
-        {
             "elevation": 98.1,
-            "mindate": "1948-05-03",
+            "mindate": "1948-06-01",
             "maxdate": "1975-11-01",
             "latitude": 34.43333,
             "name": "REMMEL DAM, AR US",
@@ -3522,17 +2657,6 @@
             "id": "COOP:036174",
             "elevationUnit": "METERS",
             "longitude": -92.2019
-        },
-        {
-            "elevation": 369.1,
-            "mindate": "1947-09-01",
-            "maxdate": "1951-09-01",
-            "latitude": 36.28333,
-            "name": "ROCKHOUSE, AR US",
-            "datacoverage": 0.6941,
-            "id": "COOP:036214",
-            "elevationUnit": "METERS",
-            "longitude": -93.66667
         },
         {
             "elevation": 415.1,
@@ -3555,17 +2679,6 @@
             "id": "COOP:036253",
             "elevationUnit": "METERS",
             "longitude": -91.2777
-        },
-        {
-            "elevation": 121.9,
-            "mindate": "1934-09-01",
-            "maxdate": "1951-11-01",
-            "latitude": 35.33333,
-            "name": "ROSEBUD, AR US",
-            "datacoverage": 0.7778,
-            "id": "COOP:036278",
-            "elevationUnit": "METERS",
-            "longitude": -92.06667
         },
         {
             "elevation": 121.9,
@@ -3610,15 +2723,6 @@
             "id": "COOP:036380",
             "elevationUnit": "METERS",
             "longitude": -90.1459
-        },
-        {
-            "mindate": "1947-08-01",
-            "maxdate": "1948-05-01",
-            "latitude": 35.583333,
-            "name": "SAINT FRANCIS LOCK, AR US",
-            "datacoverage": 0.998,
-            "id": "COOP:036382",
-            "longitude": -90.433333
         },
         {
             "elevation": 423.7,
@@ -3709,17 +2813,6 @@
             "longitude": -94.53333
         },
         {
-            "elevation": 136.9,
-            "mindate": "1948-05-01",
-            "maxdate": "1957-04-01",
-            "latitude": 36.08333,
-            "name": "SMITHVILLE, AR US",
-            "datacoverage": 0.9244,
-            "id": "COOP:036698",
-            "elevationUnit": "METERS",
-            "longitude": -91.3
-        },
-        {
             "elevation": 51.8,
             "mindate": "1940-04-01",
             "maxdate": "2015-11-01",
@@ -3729,17 +2822,6 @@
             "id": "COOP:036768",
             "elevationUnit": "METERS",
             "longitude": -92.8267
-        },
-        {
-            "elevation": 73.2,
-            "mindate": "1931-01-01",
-            "maxdate": "1944-02-01",
-            "latitude": 33.08333,
-            "name": "SPRING BANK, AR US",
-            "datacoverage": 0.8926,
-            "id": "COOP:036781",
-            "elevationUnit": "METERS",
-            "longitude": -93.86667
         },
         {
             "elevation": 82.3,
@@ -3753,17 +2835,6 @@
             "longitude": -93.48333
         },
         {
-            "elevation": 118.9,
-            "mindate": "1948-03-01",
-            "maxdate": "1964-03-01",
-            "latitude": 33.9,
-            "name": "STAR CITY 2 S, AR US",
-            "datacoverage": 0.7616,
-            "id": "COOP:036820",
-            "elevationUnit": "METERS",
-            "longitude": -91.85
-        },
-        {
             "elevation": 76.2,
             "mindate": "1964-07-01",
             "maxdate": "1990-01-01",
@@ -3773,17 +2844,6 @@
             "id": "COOP:036823",
             "elevationUnit": "METERS",
             "longitude": -91.83333
-        },
-        {
-            "elevation": 207,
-            "mindate": "1943-10-01",
-            "maxdate": "1959-12-01",
-            "latitude": 34.88333,
-            "name": "STEVE, AR US",
-            "datacoverage": 0.9384,
-            "id": "COOP:036856",
-            "elevationUnit": "METERS",
-            "longitude": -93.31667
         },
         {
             "elevation": 198.1,
@@ -3830,28 +2890,6 @@
             "longitude": -93.6369
         },
         {
-            "elevation": 153,
-            "mindate": "1941-08-01",
-            "maxdate": "1956-08-01",
-            "latitude": 35.06667,
-            "name": "SUGAR GROVE, AR US",
-            "datacoverage": 0.9612,
-            "id": "COOP:036940",
-            "elevationUnit": "METERS",
-            "longitude": -93.8
-        },
-        {
-            "elevation": 92,
-            "mindate": "1945-08-01",
-            "maxdate": "1953-12-01",
-            "latitude": 35.48333,
-            "name": "SUGAR LOAF MOUNTAIN, AR US",
-            "datacoverage": 0.9205,
-            "id": "COOP:036944",
-            "elevationUnit": "METERS",
-            "longitude": -91.96667
-        },
-        {
             "elevation": 76.2,
             "mindate": "1943-11-01",
             "maxdate": "2001-05-01",
@@ -3872,28 +2910,6 @@
             "id": "COOP:037048",
             "elevationUnit": "METERS",
             "longitude": -93.98776
-        },
-        {
-            "elevation": 52.1,
-            "mindate": "1947-09-01",
-            "maxdate": "1948-01-01",
-            "latitude": 33.63333,
-            "name": "TINSMAN, AR US",
-            "datacoverage": 0.9947,
-            "id": "COOP:037118",
-            "elevationUnit": "METERS",
-            "longitude": -92.35
-        },
-        {
-            "elevation": 637,
-            "mindate": "1937-08-01",
-            "maxdate": "1960-06-01",
-            "latitude": 35.66667,
-            "name": "TURNPIKE, AR US",
-            "datacoverage": 0.96,
-            "id": "COOP:037262",
-            "elevationUnit": "METERS",
-            "longitude": -93.08333
         },
         {
             "elevation": 70.1,
@@ -3918,17 +2934,6 @@
             "longitude": -91.8047
         },
         {
-            "elevation": 113.4,
-            "mindate": "1947-08-01",
-            "maxdate": "1948-05-01",
-            "latitude": 35.4313,
-            "name": "VAN BUREN, AR US",
-            "datacoverage": 0.998,
-            "id": "COOP:037370",
-            "elevationUnit": "METERS",
-            "longitude": -94.3561
-        },
-        {
             "elevation": 344.1,
             "mindate": "1999-12-01",
             "maxdate": "2015-11-01",
@@ -3938,17 +2943,6 @@
             "id": "COOP:037383",
             "elevationUnit": "METERS",
             "longitude": -94.3608
-        },
-        {
-            "elevation": 210,
-            "mindate": "1941-10-01",
-            "maxdate": "1955-01-01",
-            "latitude": 36.4,
-            "name": "VIOLA, AR US",
-            "datacoverage": 0.9436,
-            "id": "COOP:037450",
-            "elevationUnit": "METERS",
-            "longitude": -91.98333
         },
         {
             "elevation": 57.9,
@@ -3971,28 +2965,6 @@
             "id": "COOP:037488",
             "elevationUnit": "METERS",
             "longitude": -94.0944
-        },
-        {
-            "elevation": 75.9,
-            "mindate": "1941-11-01",
-            "maxdate": "1961-10-01",
-            "latitude": 35.85,
-            "name": "WALNUT GROVE, AR US",
-            "datacoverage": 0.9417,
-            "id": "COOP:037524",
-            "elevationUnit": "METERS",
-            "longitude": -91.35
-        },
-        {
-            "elevation": 83.2,
-            "mindate": "1949-04-01",
-            "maxdate": "1969-06-01",
-            "latitude": 36.12528,
-            "name": "WALNUT RIDGE MUNICIPAL AIRPORT, AR US",
-            "datacoverage": 1,
-            "id": "COOP:037530",
-            "elevationUnit": "METERS",
-            "longitude": -90.92444
         },
         {
             "elevation": 64,
@@ -4028,17 +3000,6 @@
             "longitude": -91.26667
         },
         {
-            "elevation": 351.1,
-            "mindate": "1948-01-01",
-            "maxdate": "1952-01-01",
-            "latitude": 36.1,
-            "name": "WEDINGTON LAKE, AR US",
-            "datacoverage": 0.8638,
-            "id": "COOP:037638",
-            "elevationUnit": "METERS",
-            "longitude": -94.38333
-        },
-        {
             "elevation": 446.5,
             "mindate": "2006-05-01",
             "maxdate": "2013-12-01",
@@ -4048,17 +3009,6 @@
             "id": "COOP:037653",
             "elevationUnit": "METERS",
             "longitude": -93.9136
-        },
-        {
-            "elevation": 409,
-            "mindate": "1940-07-01",
-            "maxdate": "1966-05-01",
-            "latitude": 35.91667,
-            "name": "WEST FORK, AR US",
-            "datacoverage": 0.8619,
-            "id": "COOP:037694",
-            "elevationUnit": "METERS",
-            "longitude": -94.18333
         },
         {
             "elevation": 65.5,
@@ -4077,62 +3027,18 @@
             "maxdate": "1987-07-01",
             "latitude": 36.31667,
             "name": "WHEELING 3 W, AR US",
-            "datacoverage": 0.7949,
+            "datacoverage": 0.0433,
             "id": "COOP:037744",
             "elevationUnit": "METERS",
             "longitude": -91.9
         },
         {
-            "elevation": 698,
-            "mindate": "1937-08-01",
-            "maxdate": "1969-12-01",
-            "latitude": 35.68333,
-            "name": "WHITE ROCK, AR US",
-            "datacoverage": 0.9691,
-            "id": "COOP:037772",
-            "elevationUnit": "METERS",
-            "longitude": -93.95
-        },
-        {
-            "elevation": 88.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1961-04-01",
-            "latitude": 33.8,
-            "name": "WHITE CLIFFS, AR US",
-            "datacoverage": 0.9452,
-            "id": "COOP:037812",
-            "elevationUnit": "METERS",
-            "longitude": -94.06667
-        },
-        {
-            "elevation": 73.2,
-            "mindate": "1931-01-01",
-            "maxdate": "1959-04-01",
-            "latitude": 35.56667,
-            "name": "WILSON, AR US",
-            "datacoverage": 0.8266,
-            "id": "COOP:037912",
-            "elevationUnit": "METERS",
-            "longitude": -90.03333
-        },
-        {
-            "elevation": 351.1,
-            "mindate": "1940-01-01",
-            "maxdate": "1956-09-01",
-            "latitude": 35.73333,
-            "name": "WINFREY, AR US",
-            "datacoverage": 0.7333,
-            "id": "COOP:037936",
-            "elevationUnit": "METERS",
-            "longitude": -94.1
-        },
-        {
             "elevation": 107,
-            "mindate": "1948-01-01",
+            "mindate": "1948-05-03",
             "maxdate": "1985-10-28",
             "latitude": 34.95,
             "name": "WING, AR US",
-            "datacoverage": 0.8893,
+            "datacoverage": 0.0501,
             "id": "COOP:037950",
             "elevationUnit": "METERS",
             "longitude": -93.46667
@@ -4180,17 +3086,6 @@
             "id": "COOP:038052",
             "elevationUnit": "METERS",
             "longitude": -90.7965
-        },
-        {
-            "elevation": 52.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1938-04-01",
-            "latitude": 33.95,
-            "name": "YANCOPIN, AR US",
-            "datacoverage": 1,
-            "id": "COOP:038064",
-            "elevationUnit": "METERS",
-            "longitude": -91.21667
         },
         {
             "elevation": 364.2,
@@ -9671,17 +8566,6 @@
             "longitude": -91.055
         },
         {
-            "elevation": 121.9,
-            "mindate": "1944-04-01",
-            "maxdate": "1949-12-31",
-            "latitude": 34.23333,
-            "name": "ALPINE, AR US",
-            "datacoverage": 0.8113,
-            "id": "GHCND:USC00030118",
-            "elevationUnit": "METERS",
-            "longitude": -93.28333
-        },
-        {
             "elevation": 212.8,
             "mindate": "1937-01-01",
             "maxdate": "2020-05-15",
@@ -9735,17 +8619,6 @@
             "id": "GHCND:USC00030188",
             "elevationUnit": "METERS",
             "longitude": -93
-        },
-        {
-            "elevation": 159.1,
-            "mindate": "1948-06-01",
-            "maxdate": "1966-07-31",
-            "latitude": 35.41667,
-            "name": "APPLETON, AR US",
-            "datacoverage": 0.3119,
-            "id": "GHCND:USC00030196",
-            "elevationUnit": "METERS",
-            "longitude": -92.88333
         },
         {
             "elevation": 59.7,
@@ -9803,17 +8676,6 @@
             "longitude": -93.98111
         },
         {
-            "elevation": 100.9,
-            "mindate": "1948-07-01",
-            "maxdate": "1950-08-14",
-            "latitude": 33.11667,
-            "name": "ATLANTA, AR US",
-            "datacoverage": 0.9223,
-            "id": "GHCND:USC00030310",
-            "elevationUnit": "METERS",
-            "longitude": -93.03333
-        },
-        {
             "elevation": 59.4,
             "mindate": "1943-12-01",
             "maxdate": "2020-05-17",
@@ -9825,17 +8687,6 @@
             "longitude": -91.3533
         },
         {
-            "elevation": 70.1,
-            "mindate": "1920-05-01",
-            "maxdate": "1967-03-31",
-            "latitude": 35.3,
-            "name": "BALD KNOB, AR US",
-            "datacoverage": 0.8744,
-            "id": "GHCND:USC00030350",
-            "elevationUnit": "METERS",
-            "longitude": -91.56667
-        },
-        {
             "elevation": 177.1,
             "mindate": "1967-04-01",
             "maxdate": "1975-03-31",
@@ -9845,17 +8696,6 @@
             "id": "GHCND:USC00030355",
             "elevationUnit": "METERS",
             "longitude": -91.56667
-        },
-        {
-            "elevation": 110,
-            "mindate": "1948-01-01",
-            "maxdate": "1951-01-31",
-            "latitude": 35.76667,
-            "name": "BATESVILLE AIRWAY, AR US",
-            "datacoverage": 0.9993,
-            "id": "GHCND:USC00030456",
-            "elevationUnit": "METERS",
-            "longitude": -91.65
         },
         {
             "elevation": 174,
@@ -9878,72 +8718,6 @@
             "id": "GHCND:USC00030460",
             "elevationUnit": "METERS",
             "longitude": -91.6384
-        },
-        {
-            "elevation": 67.1,
-            "mindate": "1948-06-01",
-            "maxdate": "1951-07-15",
-            "latitude": 34.71667,
-            "name": "BEAR CREEK LAKE, AR US",
-            "datacoverage": 0.6056,
-            "id": "GHCND:USC00030496",
-            "elevationUnit": "METERS",
-            "longitude": -90.7
-        },
-        {
-            "elevation": 121.9,
-            "mindate": "1941-11-01",
-            "maxdate": "1960-07-31",
-            "latitude": 35.08333,
-            "name": "BEATY LAKE, AR US",
-            "datacoverage": 0.9912,
-            "id": "GHCND:USC00030512",
-            "elevationUnit": "METERS",
-            "longitude": -90.71667
-        },
-        {
-            "elevation": 284.1,
-            "mindate": "1945-08-01",
-            "maxdate": "1959-06-14",
-            "latitude": 36.46667,
-            "name": "BEAVER 1 SE, AR US",
-            "datacoverage": 0.9942,
-            "id": "GHCND:USC00030518",
-            "elevationUnit": "METERS",
-            "longitude": -93.76667
-        },
-        {
-            "elevation": 348.1,
-            "mindate": "1961-06-01",
-            "maxdate": "1965-10-31",
-            "latitude": 36.41667,
-            "name": "BEAVER DAM, AR US",
-            "datacoverage": 0.9618,
-            "id": "GHCND:USC00030524",
-            "elevationUnit": "METERS",
-            "longitude": -93.83333
-        },
-        {
-            "elevation": 198.1,
-            "mindate": "1892-08-01",
-            "maxdate": "1952-08-31",
-            "latitude": 35.45,
-            "name": "BEE BRANCH, AR US",
-            "datacoverage": 0.982,
-            "id": "GHCND:USC00030528",
-            "elevationUnit": "METERS",
-            "longitude": -92.4
-        },
-        {
-            "elevation": 76.2,
-            "mindate": "1948-11-01",
-            "maxdate": "1951-06-17",
-            "latitude": 35.0644,
-            "name": "BEEBE, AR US",
-            "datacoverage": 0.6889,
-            "id": "GHCND:USC00030530",
-            "elevationUnit": "METERS",
-            "longitude": -91.8961
         },
         {
             "elevation": 92,
@@ -10012,28 +8786,6 @@
             "longitude": -93.5513
         },
         {
-            "elevation": 153,
-            "mindate": "1940-01-01",
-            "maxdate": "1949-07-01",
-            "latitude": 35.81667,
-            "name": "BETHESDA, AR US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00030644",
-            "elevationUnit": "METERS",
-            "longitude": -91.78333
-        },
-        {
-            "elevation": 381,
-            "mindate": "1944-12-01",
-            "maxdate": "1951-10-31",
-            "latitude": 36,
-            "name": "BIG FLAT, AR US",
-            "datacoverage": 0.9158,
-            "id": "GHCND:USC00030662",
-            "elevationUnit": "METERS",
-            "longitude": -92.4
-        },
-        {
             "elevation": 365.8,
             "mindate": "1944-01-01",
             "maxdate": "2020-05-17",
@@ -10043,17 +8795,6 @@
             "id": "GHCND:USC00030664",
             "elevationUnit": "METERS",
             "longitude": -93.9983
-        },
-        {
-            "elevation": 70.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1960-07-31",
-            "latitude": 35.85,
-            "name": "BIG LAKE OUTLET, AR US",
-            "datacoverage": 0.9944,
-            "id": "GHCND:USC00030676",
-            "elevationUnit": "METERS",
-            "longitude": -90.13333
         },
         {
             "elevation": 152.4,
@@ -10144,17 +8885,6 @@
             "longitude": -93.2823
         },
         {
-            "elevation": 139.9,
-            "mindate": "1915-04-01",
-            "maxdate": "1949-04-29",
-            "latitude": 35.15,
-            "name": "BOONEVILLE 3 W, AR US",
-            "datacoverage": 0.9584,
-            "id": "GHCND:USC00030828",
-            "elevationUnit": "METERS",
-            "longitude": -93.96667
-        },
-        {
             "elevation": 182.9,
             "mindate": "1948-01-01",
             "maxdate": "1977-03-31",
@@ -10199,17 +8929,6 @@
             "longitude": -93.33333
         },
         {
-            "elevation": 73.2,
-            "mindate": "1945-03-01",
-            "maxdate": "1960-07-31",
-            "latitude": 35.41667,
-            "name": "BRADFORD, AR US",
-            "datacoverage": 0.9998,
-            "id": "GHCND:USC00030872",
-            "elevationUnit": "METERS",
-            "longitude": -91.46667
-        },
-        {
             "elevation": 56.4,
             "mindate": "1883-04-01",
             "maxdate": "2017-08-31",
@@ -10230,17 +8949,6 @@
             "id": "GHCND:USC00031010",
             "elevationUnit": "METERS",
             "longitude": -93.5
-        },
-        {
-            "elevation": 146.3,
-            "mindate": "1948-06-01",
-            "maxdate": "1951-09-30",
-            "latitude": 36.3647,
-            "name": "BULL SHOALS DAM, AR US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00031020",
-            "elevationUnit": "METERS",
-            "longitude": -92.5781
         },
         {
             "elevation": 224,
@@ -10320,39 +9028,6 @@
             "longitude": -92.8236
         },
         {
-            "elevation": 49.1,
-            "mindate": "1948-06-01",
-            "maxdate": "1951-09-30",
-            "latitude": 33.58333,
-            "name": "CAMDEN 2, AR US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00031154",
-            "elevationUnit": "METERS",
-            "longitude": -92.85
-        },
-        {
-            "elevation": 128,
-            "mindate": "1941-11-01",
-            "maxdate": "1959-03-31",
-            "latitude": 35.3,
-            "name": "CAMP CHAFFEE, AR US",
-            "datacoverage": 0.9328,
-            "id": "GHCND:USC00031172",
-            "elevationUnit": "METERS",
-            "longitude": -94.3
-        },
-        {
-            "elevation": 244.1,
-            "mindate": "1948-06-01",
-            "maxdate": "1951-09-30",
-            "latitude": 35.86667,
-            "name": "CANAAN 2 W, AR US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00031188",
-            "elevationUnit": "METERS",
-            "longitude": -92.73333
-        },
-        {
             "elevation": 79.2,
             "mindate": "1998-01-01",
             "maxdate": "2020-05-17",
@@ -10395,17 +9070,6 @@
             "id": "GHCND:USC00031260",
             "elevationUnit": "METERS",
             "longitude": -94.1777
-        },
-        {
-            "elevation": 195.1,
-            "mindate": "1950-01-01",
-            "maxdate": "1950-12-31",
-            "latitude": 35.36667,
-            "name": "CENTER RIDGE, AR US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00031308",
-            "elevationUnit": "METERS",
-            "longitude": -92.56667
         },
         {
             "elevation": 203.9,
@@ -10463,17 +9127,6 @@
             "longitude": -93.45
         },
         {
-            "elevation": 167.9,
-            "mindate": "1948-06-01",
-            "maxdate": "1951-09-30",
-            "latitude": 35.43333,
-            "name": "LAMAR, AR US",
-            "datacoverage": 0.9254,
-            "id": "GHCND:USC00031456",
-            "elevationUnit": "METERS",
-            "longitude": -93.41667
-        },
-        {
             "elevation": 259.1,
             "mindate": "1986-01-01",
             "maxdate": "2020-05-17",
@@ -10518,28 +9171,6 @@
             "longitude": -93.6716
         },
         {
-            "elevation": 381,
-            "mindate": "1927-01-01",
-            "maxdate": "1958-03-31",
-            "latitude": 34.96667,
-            "name": "COLD SPRINGS GUARD STATION, AR US",
-            "datacoverage": 0.5707,
-            "id": "GHCND:USC00031520",
-            "elevationUnit": "METERS",
-            "longitude": -93.9
-        },
-        {
-            "elevation": 426.7,
-            "mindate": "1948-06-01",
-            "maxdate": "1951-09-30",
-            "latitude": 35.8,
-            "name": "COMBS, AR US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00031574",
-            "elevationUnit": "METERS",
-            "longitude": -93.8
-        },
-        {
             "elevation": 648.9,
             "mindate": "1939-01-01",
             "maxdate": "2020-05-17",
@@ -10573,28 +9204,6 @@
             "longitude": -90.5858
         },
         {
-            "elevation": 85.3,
-            "mindate": "1916-05-01",
-            "maxdate": "1947-10-31",
-            "latitude": 36.4,
-            "name": "CORNING 2 E, AR US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00031634",
-            "elevationUnit": "METERS",
-            "longitude": -90.53333
-        },
-        {
-            "elevation": 134.1,
-            "mindate": "1927-10-01",
-            "maxdate": "1956-06-30",
-            "latitude": 36.28333,
-            "name": "COTTER, AR US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00031640",
-            "elevationUnit": "METERS",
-            "longitude": -92.51667
-        },
-        {
             "elevation": 323.1,
             "mindate": "1946-03-01",
             "maxdate": "2020-05-16",
@@ -10626,28 +9235,6 @@
             "id": "GHCND:USC00031750",
             "elevationUnit": "METERS",
             "longitude": -92.45
-        },
-        {
-            "elevation": 228.9,
-            "mindate": "1948-01-01",
-            "maxdate": "1948-06-18",
-            "latitude": 35.5,
-            "name": "CULPEPPER, AR US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00031756",
-            "elevationUnit": "METERS",
-            "longitude": -92.55
-        },
-        {
-            "elevation": 54.9,
-            "mindate": "1944-06-01",
-            "maxdate": "1965-04-30",
-            "latitude": 34.06667,
-            "name": "CUMMINS FARM, AR US",
-            "datacoverage": 0.9921,
-            "id": "GHCND:USC00031768",
-            "elevationUnit": "METERS",
-            "longitude": -91.58333
         },
         {
             "elevation": 213.7,
@@ -10760,28 +9347,6 @@
             "longitude": -94.3724
         },
         {
-            "elevation": 313.9,
-            "mindate": "1948-06-01",
-            "maxdate": "1951-09-30",
-            "latitude": 36.38333,
-            "name": "DENVER, AR US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00031956",
-            "elevationUnit": "METERS",
-            "longitude": -93.3
-        },
-        {
-            "elevation": 43,
-            "mindate": "1940-03-01",
-            "maxdate": "1966-01-31",
-            "latitude": 33.51667,
-            "name": "DERMOTT, AR US",
-            "datacoverage": 0.9805,
-            "id": "GHCND:USC00031960",
-            "elevationUnit": "METERS",
-            "longitude": -91.43333
-        },
-        {
             "elevation": 44.2,
             "mindate": "1963-01-01",
             "maxdate": "2020-02-28",
@@ -10813,17 +9378,6 @@
             "id": "GHCND:USC00031980",
             "elevationUnit": "METERS",
             "longitude": -94.2516
-        },
-        {
-            "elevation": 716.9,
-            "mindate": "1937-08-01",
-            "maxdate": "1969-05-31",
-            "latitude": 35.71667,
-            "name": "DEVILS KNOB, AR US",
-            "datacoverage": 0.9843,
-            "id": "GHCND:USC00031982",
-            "elevationUnit": "METERS",
-            "longitude": -93.4
         },
         {
             "elevation": 143.3,
@@ -10870,59 +9424,6 @@
             "longitude": -91.53161
         },
         {
-            "elevation": 52.1,
-            "mindate": "1948-06-01",
-            "maxdate": "1951-07-02",
-            "latitude": 33.88333,
-            "name": "DUMAS, AR US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00032150",
-            "elevationUnit": "METERS",
-            "longitude": -91.5
-        },
-        {
-            "elevation": 378,
-            "mindate": "1948-06-01",
-            "maxdate": "1951-09-30",
-            "latitude": 35.95,
-            "name": "DURHAM, AR US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00032176",
-            "elevationUnit": "METERS",
-            "longitude": -93.98333
-        },
-        {
-            "elevation": 351.1,
-            "mindate": "1927-01-01",
-            "maxdate": "1956-02-29",
-            "latitude": 34.71667,
-            "name": "EAGLE GAP, AR US",
-            "datacoverage": 0.6663,
-            "id": "GHCND:USC00032204",
-            "elevationUnit": "METERS",
-            "longitude": -94.31667
-        },
-        {
-            "elevation": 152.4,
-            "mindate": "1939-01-01",
-            "maxdate": "1947-04-25",
-            "latitude": 36.35,
-            "name": "ELEVENPOINT, AR US",
-            "datacoverage": 0.9686,
-            "id": "GHCND:USC00032308",
-            "elevationUnit": "METERS",
-            "longitude": -91.1
-        },
-        {
-            "mindate": "1948-01-01",
-            "maxdate": "1948-11-30",
-            "latitude": 36,
-            "name": "ELKINS, AR US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00032315",
-            "longitude": -94
-        },
-        {
             "elevation": 41.1,
             "mindate": "1962-03-01",
             "maxdate": "2020-05-14",
@@ -10967,17 +9468,6 @@
             "longitude": -93.4602
         },
         {
-            "elevation": 417.9,
-            "mindate": "1892-01-01",
-            "maxdate": "1960-12-31",
-            "latitude": 36.08333,
-            "name": "FAYETTEVILLE, AR US",
-            "datacoverage": 0.8333,
-            "id": "GHCND:USC00032442",
-            "elevationUnit": "METERS",
-            "longitude": -94.16667
-        },
-        {
             "elevation": 387.1,
             "mindate": "1890-05-01",
             "maxdate": "2020-05-13",
@@ -10998,6 +9488,1524 @@
             "id": "GHCND:USC00032475",
             "elevationUnit": "METERS",
             "longitude": -92.1236
+        },
+        {
+            "elevation": 70.1,
+            "mindate": "1911-04-01",
+            "maxdate": "2020-05-17",
+            "latitude": 33.82278,
+            "name": "FORDYCE, AR US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00032540",
+            "elevationUnit": "METERS",
+            "longitude": -92.39889
+        },
+        {
+            "elevation": 128.9,
+            "mindate": "1917-01-01",
+            "maxdate": "2020-05-11",
+            "latitude": 33.7222,
+            "name": "FOREMAN, AR US",
+            "datacoverage": 0.3742,
+            "id": "GHCND:USC00032544",
+            "elevationUnit": "METERS",
+            "longitude": -94.3975
+        },
+        {
+            "elevation": 75.9,
+            "mindate": "1892-01-01",
+            "maxdate": "1979-05-31",
+            "latitude": 35.03333,
+            "name": "FORREST CITY, AR US",
+            "datacoverage": 0.3737,
+            "id": "GHCND:USC00032564",
+            "elevationUnit": "METERS",
+            "longitude": -90.8
+        },
+        {
+            "elevation": 241.7,
+            "mindate": "1938-01-01",
+            "maxdate": "1985-08-31",
+            "latitude": 35.6494,
+            "name": "MOUNTAINBURG 2 NE, AR US",
+            "datacoverage": 0.9964,
+            "id": "GHCND:USC00032578",
+            "elevationUnit": "METERS",
+            "longitude": -94.1541
+        },
+        {
+            "elevation": 79.2,
+            "mindate": "1892-01-01",
+            "maxdate": "2010-12-31",
+            "latitude": 33.6128,
+            "name": "FULTON, AR US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00032670",
+            "elevationUnit": "METERS",
+            "longitude": -93.8136
+        },
+        {
+            "elevation": 196.6,
+            "mindate": "2003-02-01",
+            "maxdate": "2019-06-07",
+            "latitude": 36.4812,
+            "name": "GAMALIEL 2 NW, AR US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00032700",
+            "elevationUnit": "METERS",
+            "longitude": -92.2441
+        },
+        {
+            "elevation": 121.9,
+            "mindate": "1999-11-01",
+            "maxdate": "2002-04-30",
+            "latitude": 33.37361,
+            "name": "GENOA, AR US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00032746",
+            "elevationUnit": "METERS",
+            "longitude": -93.90694
+        },
+        {
+            "elevation": 61,
+            "mindate": "1912-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 35.126,
+            "name": "GEORGETOWN, AR US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00032760",
+            "elevationUnit": "METERS",
+            "longitude": -91.4534
+        },
+        {
+            "elevation": 184.7,
+            "mindate": "1924-07-01",
+            "maxdate": "2020-05-17",
+            "latitude": 35.9885,
+            "name": "GILBERT, AR US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00032794",
+            "elevationUnit": "METERS",
+            "longitude": -92.7161
+        },
+        {
+            "elevation": 158.5,
+            "mindate": "1994-10-01",
+            "maxdate": "2016-03-01",
+            "latitude": 34.20556,
+            "name": "GILLHAM DAM, AR US",
+            "datacoverage": 0.8256,
+            "id": "GHCND:USC00032810",
+            "elevationUnit": "METERS",
+            "longitude": -94.24639
+        },
+        {
+            "elevation": 179.8,
+            "mindate": "1935-11-01",
+            "maxdate": "2018-10-31",
+            "latitude": 34.38563,
+            "name": "GLENWOOD 4 NNE, AR US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00032842",
+            "elevationUnit": "METERS",
+            "longitude": -93.51097
+        },
+        {
+            "elevation": 143,
+            "mindate": "1940-05-01",
+            "maxdate": "2020-05-12",
+            "latitude": 34.8869,
+            "name": "GRAVELLY, AR US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00032922",
+            "elevationUnit": "METERS",
+            "longitude": -93.6847
+        },
+        {
+            "elevation": 384,
+            "mindate": "1898-04-01",
+            "maxdate": "2020-03-31",
+            "latitude": 36.4261,
+            "name": "GRAVETTE, AR US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00032930",
+            "elevationUnit": "METERS",
+            "longitude": -94.448
+        },
+        {
+            "elevation": 414.5,
+            "mindate": "1940-03-01",
+            "maxdate": "2010-12-31",
+            "latitude": 36.33917,
+            "name": "GREEN FOREST, AR US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00032946",
+            "elevationUnit": "METERS",
+            "longitude": -93.42778
+        },
+        {
+            "elevation": 103,
+            "mindate": "1940-07-01",
+            "maxdate": "2020-01-26",
+            "latitude": 35.24139,
+            "name": "GREENBRIER, AR US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00032962",
+            "elevationUnit": "METERS",
+            "longitude": -92.36361
+        },
+        {
+            "elevation": 157.9,
+            "mindate": "1939-06-01",
+            "maxdate": "2012-08-18",
+            "latitude": 35.2169,
+            "name": "GREENWOOD, AR US",
+            "datacoverage": 0.9965,
+            "id": "GHCND:USC00032976",
+            "elevationUnit": "METERS",
+            "longitude": -94.2597
+        },
+        {
+            "elevation": 160.6,
+            "mindate": "1960-10-01",
+            "maxdate": "2020-05-17",
+            "latitude": 35.5206,
+            "name": "GREERS FERRY DAM, AR US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00032978",
+            "elevationUnit": "METERS",
+            "longitude": -91.9997
+        },
+        {
+            "elevation": 73.2,
+            "mindate": "1998-03-01",
+            "maxdate": "2018-11-30",
+            "latitude": 35.7379,
+            "name": "GRUBBS 9 NW, AR US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00033019",
+            "elevationUnit": "METERS",
+            "longitude": -91.20073
+        },
+        {
+            "elevation": 67.1,
+            "mindate": "1948-01-01",
+            "maxdate": "1986-07-31",
+            "latitude": 33.91667,
+            "name": "GURDON, AR US",
+            "datacoverage": 0.9738,
+            "id": "GHCND:USC00033074",
+            "elevationUnit": "METERS",
+            "longitude": -93.13333
+        },
+        {
+            "elevation": 43.3,
+            "mindate": "1985-05-01",
+            "maxdate": "1986-09-30",
+            "latitude": 33.5,
+            "name": "HALLEY, AR US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00033085",
+            "elevationUnit": "METERS",
+            "longitude": -91.28333
+        },
+        {
+            "elevation": 54.9,
+            "mindate": "1893-04-01",
+            "maxdate": "2004-01-31",
+            "latitude": 33.22778,
+            "name": "HAMBURG, AR US",
+            "datacoverage": 0.4113,
+            "id": "GHCND:USC00033088",
+            "elevationUnit": "METERS",
+            "longitude": -91.79389
+        },
+        {
+            "elevation": 39.6,
+            "mindate": "2011-01-01",
+            "maxdate": "2012-12-08",
+            "latitude": 33.4975,
+            "name": "HAMPTON 8 WSW, AR US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00033099",
+            "elevationUnit": "METERS",
+            "longitude": -92.60361
+        },
+        {
+            "elevation": 61,
+            "mindate": "1998-01-01",
+            "maxdate": "2014-09-30",
+            "latitude": 33.51167,
+            "name": "HAMPTON, AR US",
+            "datacoverage": 0.7267,
+            "id": "GHCND:USC00033101",
+            "elevationUnit": "METERS",
+            "longitude": -92.43722
+        },
+        {
+            "elevation": 121.9,
+            "mindate": "1897-08-01",
+            "maxdate": "2020-05-16",
+            "latitude": 36.2747,
+            "name": "HARDY, AR US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00033132",
+            "elevationUnit": "METERS",
+            "longitude": -91.5056
+        },
+        {
+            "elevation": 345,
+            "mindate": "1891-11-01",
+            "maxdate": "2020-03-31",
+            "latitude": 36.1955,
+            "name": "HARRISON, AR US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00033164",
+            "elevationUnit": "METERS",
+            "longitude": -93.1061
+        },
+        {
+            "elevation": 103.6,
+            "mindate": "1995-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 35.33846,
+            "name": "HATTIEVILLE 5 NW, AR US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00033200",
+            "elevationUnit": "METERS",
+            "longitude": -92.84907
+        },
+        {
+            "elevation": 94.5,
+            "mindate": "2014-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 35.5128,
+            "name": "HEBER SPRINGS 2 NE, AR US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00033229",
+            "elevationUnit": "METERS",
+            "longitude": -91.9955
+        },
+        {
+            "elevation": 166.4,
+            "mindate": "1948-01-01",
+            "maxdate": "2019-11-07",
+            "latitude": 35.44194,
+            "name": "HECTOR 4 SE, AR US",
+            "datacoverage": 0.9316,
+            "id": "GHCND:USC00033235",
+            "elevationUnit": "METERS",
+            "longitude": -92.90083
+        },
+        {
+            "elevation": 59.4,
+            "mindate": "1892-10-01",
+            "maxdate": "2020-03-31",
+            "latitude": 34.5211,
+            "name": "HELENA, AR US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00033242",
+            "elevationUnit": "METERS",
+            "longitude": -90.5899
+        },
+        {
+            "elevation": 456.3,
+            "mindate": "2006-05-01",
+            "maxdate": "2008-12-31",
+            "latitude": 36.18528,
+            "name": "HINDSVILLE 10 E, AR US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00033360",
+            "elevationUnit": "METERS",
+            "longitude": -93.68667
+        },
+        {
+            "elevation": 435.9,
+            "mindate": "2006-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 36.2769,
+            "name": "HINDSVILLE 10 NNE, AR US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00033361",
+            "elevationUnit": "METERS",
+            "longitude": -93.8213
+        },
+        {
+            "elevation": 114.3,
+            "mindate": "1892-03-01",
+            "maxdate": "2020-05-14",
+            "latitude": 33.7092,
+            "name": "HOPE 3 NE, AR US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00033428",
+            "elevationUnit": "METERS",
+            "longitude": -93.5563
+        },
+        {
+            "elevation": 219.5,
+            "mindate": "1948-01-01",
+            "maxdate": "2020-01-31",
+            "latitude": 34.3608,
+            "name": "HOPPER, AR US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00033438",
+            "elevationUnit": "METERS",
+            "longitude": -93.6816
+        },
+        {
+            "elevation": 102.7,
+            "mindate": "1946-03-01",
+            "maxdate": "2013-10-31",
+            "latitude": 33.9354,
+            "name": "HORATIO, AR US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00033442",
+            "elevationUnit": "METERS",
+            "longitude": -94.3598
+        },
+        {
+            "elevation": 190.8,
+            "mindate": "1875-08-01",
+            "maxdate": "2020-04-09",
+            "latitude": 34.5129,
+            "name": "HOT SPRINGS 1 NNE, AR US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00033466",
+            "elevationUnit": "METERS",
+            "longitude": -93.0487
+        },
+        {
+            "elevation": 442,
+            "mindate": "1894-07-01",
+            "maxdate": "1982-09-30",
+            "latitude": 36.08333,
+            "name": "HUNTSVILLE, AR US",
+            "datacoverage": 0.4183,
+            "id": "GHCND:USC00033540",
+            "elevationUnit": "METERS",
+            "longitude": -93.73333
+        },
+        {
+            "elevation": 543.5,
+            "mindate": "1983-01-01",
+            "maxdate": "2012-09-24",
+            "latitude": 36.07,
+            "name": "HUNTSVILLE 1 SSW, AR US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00033544",
+            "elevationUnit": "METERS",
+            "longitude": -93.7522
+        },
+        {
+            "elevation": 18,
+            "mindate": "1940-01-01",
+            "maxdate": "1976-10-30",
+            "latitude": 33.03333,
+            "name": "HUTTIG LOCK AND DAM, AR US",
+            "datacoverage": 0.7692,
+            "id": "GHCND:USC00033556",
+            "elevationUnit": "METERS",
+            "longitude": -92.08333
+        },
+        {
+            "elevation": 269.7,
+            "mindate": "1948-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 36.00559,
+            "name": "JASPER, AR US",
+            "datacoverage": 0.9951,
+            "id": "GHCND:USC00033600",
+            "elevationUnit": "METERS",
+            "longitude": -93.18775
+        },
+        {
+            "elevation": 246,
+            "mindate": "1927-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 34.672,
+            "name": "JESSIEVILLE, AR US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00033704",
+            "elevationUnit": "METERS",
+            "longitude": -93.0748
+        },
+        {
+            "elevation": 94.5,
+            "mindate": "1890-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 35.849,
+            "name": "JONESBORO 2 NE, AR US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00033734",
+            "elevationUnit": "METERS",
+            "longitude": -90.6589
+        },
+        {
+            "elevation": 165.2,
+            "mindate": "2014-01-01",
+            "maxdate": "2020-05-13",
+            "latitude": 36.2705,
+            "name": "JORDAN 3 NNW, AR US",
+            "datacoverage": 0.9996,
+            "id": "GHCND:USC00033740",
+            "elevationUnit": "METERS",
+            "longitude": -92.1921
+        },
+        {
+            "elevation": 65.5,
+            "mindate": "1973-01-01",
+            "maxdate": "1985-04-30",
+            "latitude": 35.6,
+            "name": "JUDD HILL, AR US",
+            "datacoverage": 0.8574,
+            "id": "GHCND:USC00033761",
+            "elevationUnit": "METERS",
+            "longitude": -90.51667
+        },
+        {
+            "elevation": 70.7,
+            "mindate": "1959-01-01",
+            "maxdate": "2020-03-31",
+            "latitude": 35.6871,
+            "name": "KEISER, AR US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00033821",
+            "elevationUnit": "METERS",
+            "longitude": -90.0963
+        },
+        {
+            "elevation": 44.2,
+            "mindate": "1985-05-01",
+            "maxdate": "2020-05-17",
+            "latitude": 33.7702,
+            "name": "KELSO, AR US",
+            "datacoverage": 0.973,
+            "id": "GHCND:USC00033831",
+            "elevationUnit": "METERS",
+            "longitude": -91.273
+        },
+        {
+            "elevation": 70.4,
+            "mindate": "1948-01-01",
+            "maxdate": "2020-05-16",
+            "latitude": 34.6033,
+            "name": "KEO, AR US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00033862",
+            "elevationUnit": "METERS",
+            "longitude": -91.9927
+        },
+        {
+            "elevation": 653.8,
+            "mindate": "2006-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 36.0086,
+            "name": "KINGSTON 2 S, AR US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00033909",
+            "elevationUnit": "METERS",
+            "longitude": -93.5205
+        },
+        {
+            "elevation": 408.4,
+            "mindate": "2006-04-01",
+            "maxdate": "2020-03-31",
+            "latitude": 36.1197,
+            "name": "KINGSTON 5 NW, AR US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00033910",
+            "elevationUnit": "METERS",
+            "longitude": -93.5772
+        },
+        {
+            "elevation": 86.9,
+            "mindate": "2007-02-01",
+            "maxdate": "2008-02-29",
+            "latitude": 36.3425,
+            "name": "KNOBEL 5 NE, AR US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00033930",
+            "elevationUnit": "METERS",
+            "longitude": -90.51861
+        },
+        {
+            "elevation": 70.1,
+            "mindate": "1948-01-01",
+            "maxdate": "1997-02-28",
+            "latitude": 35.8,
+            "name": "LAKE CITY, AR US",
+            "datacoverage": 0.9068,
+            "id": "GHCND:USC00033998",
+            "elevationUnit": "METERS",
+            "longitude": -90.45
+        },
+        {
+            "elevation": 93,
+            "mindate": "1957-01-01",
+            "maxdate": "2020-05-13",
+            "latitude": 34.8511,
+            "name": "LAKE MAUMELLE, AR US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00034010",
+            "elevationUnit": "METERS",
+            "longitude": -92.4889
+        },
+        {
+            "elevation": 51.8,
+            "mindate": "2001-11-01",
+            "maxdate": "2005-02-28",
+            "latitude": 34.41639,
+            "name": "LAKE VIEW, AR US",
+            "datacoverage": 0.9512,
+            "id": "GHCND:USC00034015",
+            "elevationUnit": "METERS",
+            "longitude": -90.79861
+        },
+        {
+            "elevation": 235,
+            "mindate": "1948-01-01",
+            "maxdate": "2020-05-16",
+            "latitude": 34.31187,
+            "name": "LANGLEY, AR US",
+            "datacoverage": 0.9158,
+            "id": "GHCND:USC00034060",
+            "elevationUnit": "METERS",
+            "longitude": -93.84397
+        },
+        {
+            "elevation": 253,
+            "mindate": "1927-12-01",
+            "maxdate": "2020-05-17",
+            "latitude": 36.4194,
+            "name": "LEAD HILL, AR US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00034106",
+            "elevationUnit": "METERS",
+            "longitude": -92.9158
+        },
+        {
+            "elevation": 77.7,
+            "mindate": "1943-09-01",
+            "maxdate": "2015-01-01",
+            "latitude": 34.1743,
+            "name": "LEOLA, AR US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00034134",
+            "elevationUnit": "METERS",
+            "longitude": -92.5946
+        },
+        {
+            "elevation": 103.6,
+            "mindate": "1991-01-01",
+            "maxdate": "2020-05-15",
+            "latitude": 33.3613,
+            "name": "LEWISVILLE, AR US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00034185",
+            "elevationUnit": "METERS",
+            "longitude": -93.5674
+        },
+        {
+            "elevation": 156.1,
+            "mindate": "1948-03-01",
+            "maxdate": "1975-03-31",
+            "latitude": 34.76667,
+            "name": "LITTLE ROCK FILTRATION PLANT, AR US",
+            "datacoverage": 0.9569,
+            "id": "GHCND:USC00034250",
+            "elevationUnit": "METERS",
+            "longitude": -92.31667
+        },
+        {
+            "elevation": 128,
+            "mindate": "2011-01-01",
+            "maxdate": "2015-01-17",
+            "latitude": 33.9591,
+            "name": "LOCKESBURG 4 E, AR US",
+            "datacoverage": 0.9996,
+            "id": "GHCND:USC00034265",
+            "elevationUnit": "METERS",
+            "longitude": -94.1069
+        },
+        {
+            "elevation": 174,
+            "mindate": "1968-01-01",
+            "maxdate": "2020-05-15",
+            "latitude": 35.51944,
+            "name": "LONG POOL, AR US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00034290",
+            "elevationUnit": "METERS",
+            "longitude": -93.19722
+        },
+        {
+            "elevation": 609.9,
+            "mindate": "1948-01-01",
+            "maxdate": "1974-08-31",
+            "latitude": 35.8,
+            "name": "LURTON, AR US",
+            "datacoverage": 0.9938,
+            "id": "GHCND:USC00034386",
+            "elevationUnit": "METERS",
+            "longitude": -93.06667
+        },
+        {
+            "elevation": 91.4,
+            "mindate": "1948-01-01",
+            "maxdate": "2016-01-31",
+            "latitude": 35.0265,
+            "name": "MADISON 1 NW, AR US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00034528",
+            "elevationUnit": "METERS",
+            "longitude": -90.7347
+        },
+        {
+            "elevation": 113.4,
+            "mindate": "1948-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 33.25859,
+            "name": "MAGNOLIA, AR US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00034548",
+            "elevationUnit": "METERS",
+            "longitude": -93.18224
+        },
+        {
+            "elevation": 91.4,
+            "mindate": "1883-04-01",
+            "maxdate": "2020-05-16",
+            "latitude": 34.3947,
+            "name": "MALVERN, AR US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00034562",
+            "elevationUnit": "METERS",
+            "longitude": -92.8363
+        },
+        {
+            "elevation": 153,
+            "mindate": "1904-04-01",
+            "maxdate": "2020-05-17",
+            "latitude": 36.4947,
+            "name": "MAMMOTH SPRING, AR US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00034572",
+            "elevationUnit": "METERS",
+            "longitude": -91.535
+        },
+        {
+            "elevation": 82.9,
+            "mindate": "2015-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 34.8808,
+            "name": "MARCHE, AR US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00034625",
+            "elevationUnit": "METERS",
+            "longitude": -92.3486
+        },
+        {
+            "elevation": 71.3,
+            "mindate": "1899-01-01",
+            "maxdate": "2020-05-16",
+            "latitude": 34.7391,
+            "name": "MARIANNA 2 S, AR US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00034638",
+            "elevationUnit": "METERS",
+            "longitude": -90.7663
+        },
+        {
+            "elevation": 70.1,
+            "mindate": "1930-01-01",
+            "maxdate": "1973-08-31",
+            "latitude": 35.53333,
+            "name": "MARKED TREE, AR US",
+            "datacoverage": 0.9618,
+            "id": "GHCND:USC00034654",
+            "elevationUnit": "METERS",
+            "longitude": -90.41667
+        },
+        {
+            "elevation": 289.9,
+            "mindate": "1892-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 35.9118,
+            "name": "MARSHALL, AR US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00034666",
+            "elevationUnit": "METERS",
+            "longitude": -92.6564
+        },
+        {
+            "elevation": 42.7,
+            "mindate": "1985-01-01",
+            "maxdate": "2020-03-31",
+            "latitude": 33.63381,
+            "name": "MCGEHEE 1 NE, AR US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00034708",
+            "elevationUnit": "METERS",
+            "longitude": -91.3883
+        },
+        {
+            "elevation": 59.7,
+            "mindate": "2000-01-01",
+            "maxdate": "2016-07-05",
+            "latitude": 35.25389,
+            "name": "MCCRORY, AR US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00034711",
+            "elevationUnit": "METERS",
+            "longitude": -91.18917
+        },
+        {
+            "elevation": 63.1,
+            "mindate": "2005-01-01",
+            "maxdate": "2007-03-31",
+            "latitude": 35.25,
+            "name": "MCCRORY 6 E, AR US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00034712",
+            "elevationUnit": "METERS",
+            "longitude": -91.09889
+        },
+        {
+            "elevation": 152.4,
+            "mindate": "1948-01-01",
+            "maxdate": "2020-03-31",
+            "latitude": 36.0823,
+            "name": "MELBOURNE 5 W, AR US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00034746",
+            "elevationUnit": "METERS",
+            "longitude": -91.9823
+        },
+        {
+            "elevation": 351.1,
+            "mindate": "1890-12-01",
+            "maxdate": "2020-05-17",
+            "latitude": 34.5979,
+            "name": "MENA, AR US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00034756",
+            "elevationUnit": "METERS",
+            "longitude": -94.29
+        },
+        {
+            "elevation": 164.6,
+            "mindate": "2003-10-01",
+            "maxdate": "2011-04-27",
+            "latitude": 35.0958,
+            "name": "MIDLAND, AR US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00034777",
+            "elevationUnit": "METERS",
+            "longitude": -94.3547
+        },
+        {
+            "elevation": 96.3,
+            "mindate": "1995-02-01",
+            "maxdate": "2020-05-15",
+            "latitude": 33.6772,
+            "name": "MILLWOOD DAM, AR US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00034839",
+            "elevationUnit": "METERS",
+            "longitude": -93.9902
+        },
+        {
+            "elevation": 67.7,
+            "mindate": "2011-01-01",
+            "maxdate": "2014-03-31",
+            "latitude": 33.7044,
+            "name": "MONTICELLO 6 NNE, AR US",
+            "datacoverage": 0.9991,
+            "id": "GHCND:USC00034907",
+            "elevationUnit": "METERS",
+            "longitude": -91.721
+        },
+        {
+            "elevation": 23.5,
+            "mindate": "1940-12-01",
+            "maxdate": "1985-08-31",
+            "latitude": 33.3063,
+            "name": "CALION LOCK AND DAM, AR US",
+            "datacoverage": 0.9905,
+            "id": "GHCND:USC00034934",
+            "elevationUnit": "METERS",
+            "longitude": -92.4832
+        },
+        {
+            "elevation": 27.4,
+            "mindate": "2000-07-01",
+            "maxdate": "2020-05-17",
+            "latitude": 33.3014,
+            "name": "MORO BAY STATE PARK, AR US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00034936",
+            "elevationUnit": "METERS",
+            "longitude": -92.3658
+        },
+        {
+            "elevation": 103.6,
+            "mindate": "1919-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 35.158,
+            "name": "MORRILTON, AR US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00034938",
+            "elevationUnit": "METERS",
+            "longitude": -92.7672
+        },
+        {
+            "elevation": 212.4,
+            "mindate": "1872-02-01",
+            "maxdate": "2010-12-31",
+            "latitude": 34.5408,
+            "name": "MOUNT IDA, AR US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00034988",
+            "elevationUnit": "METERS",
+            "longitude": -93.5878
+        },
+        {
+            "elevation": 269.1,
+            "mindate": "2011-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 34.5062,
+            "name": "MOUNT IDA 4 S, AR US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00034989",
+            "elevationUnit": "METERS",
+            "longitude": -93.6256
+        },
+        {
+            "elevation": 241.7,
+            "mindate": "1985-01-01",
+            "maxdate": "2020-05-15",
+            "latitude": 35.6494,
+            "name": "MOUNTAINBURG 2 NE, AR US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00035018",
+            "elevationUnit": "METERS",
+            "longitude": -94.1541
+        },
+        {
+            "elevation": 243.8,
+            "mindate": "1902-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 36.3458,
+            "name": "MOUNTAIN HOME 1 NNW, AR US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00035036",
+            "elevationUnit": "METERS",
+            "longitude": -92.3939
+        },
+        {
+            "elevation": 243.8,
+            "mindate": "1953-01-01",
+            "maxdate": "1987-02-28",
+            "latitude": 36.33333,
+            "name": "MOUNTAIN HOME C OF E, AR US",
+            "datacoverage": 0.9929,
+            "id": "GHCND:USC00035038",
+            "elevationUnit": "METERS",
+            "longitude": -92.38333
+        },
+        {
+            "elevation": 218.2,
+            "mindate": "1924-06-01",
+            "maxdate": "2020-05-17",
+            "latitude": 35.8445,
+            "name": "MOUNTAIN VIEW, AR US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00035046",
+            "elevationUnit": "METERS",
+            "longitude": -92.0979
+        },
+        {
+            "elevation": 152.4,
+            "mindate": "1939-01-01",
+            "maxdate": "1984-03-31",
+            "latitude": 35.56667,
+            "name": "MULBERRY, AR US",
+            "datacoverage": 0.9981,
+            "id": "GHCND:USC00035072",
+            "elevationUnit": "METERS",
+            "longitude": -94.01667
+        },
+        {
+            "elevation": 140.2,
+            "mindate": "1970-08-01",
+            "maxdate": "2020-05-17",
+            "latitude": 34.0784,
+            "name": "MURFREESBORO 1 W, AR US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00035079",
+            "elevationUnit": "METERS",
+            "longitude": -93.702
+        },
+        {
+            "elevation": 132.6,
+            "mindate": "1950-05-01",
+            "maxdate": "2019-04-08",
+            "latitude": 34.1452,
+            "name": "NARROWS DAM, AR US",
+            "datacoverage": 0.8494,
+            "id": "GHCND:USC00035110",
+            "elevationUnit": "METERS",
+            "longitude": -93.7138
+        },
+        {
+            "elevation": 121.9,
+            "mindate": "1899-06-01",
+            "maxdate": "2020-05-17",
+            "latitude": 33.9294,
+            "name": "NASHVILLE, AR US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00035112",
+            "elevationUnit": "METERS",
+            "longitude": -93.8583
+        },
+        {
+            "elevation": 164.9,
+            "mindate": "1948-01-01",
+            "maxdate": "1985-03-31",
+            "latitude": 34.11667,
+            "name": "NATHAN 4 WNW, AR US",
+            "datacoverage": 0.9955,
+            "id": "GHCND:USC00035158",
+            "elevationUnit": "METERS",
+            "longitude": -93.86667
+        },
+        {
+            "elevation": 228.6,
+            "mindate": "1963-01-01",
+            "maxdate": "2015-02-28",
+            "latitude": 35.5755,
+            "name": "NATURAL DAM, AR US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00035160",
+            "elevationUnit": "METERS",
+            "longitude": -94.3811
+        },
+        {
+            "elevation": 259.1,
+            "mindate": "1940-03-01",
+            "maxdate": "1983-11-30",
+            "latitude": 34.23333,
+            "name": "NEWHOPE 3 E, AR US",
+            "datacoverage": 0.9238,
+            "id": "GHCND:USC00035174",
+            "elevationUnit": "METERS",
+            "longitude": -93.83333
+        },
+        {
+            "elevation": 192,
+            "mindate": "1985-01-01",
+            "maxdate": "2017-07-31",
+            "latitude": 34.1469,
+            "name": "NEWHOPE 6 S, AR US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00035177",
+            "elevationUnit": "METERS",
+            "longitude": -93.8936
+        },
+        {
+            "elevation": 69.5,
+            "mindate": "1884-04-01",
+            "maxdate": "2020-05-17",
+            "latitude": 35.6042,
+            "name": "NEWPORT, AR US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00035186",
+            "elevationUnit": "METERS",
+            "longitude": -91.2744
+        },
+        {
+            "elevation": 146.3,
+            "mindate": "1939-10-01",
+            "maxdate": "2020-05-15",
+            "latitude": 34.9553,
+            "name": "NIMROD DAM, AR US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00035200",
+            "elevationUnit": "METERS",
+            "longitude": -93.1594
+        },
+        {
+            "elevation": 129.5,
+            "mindate": "1947-07-01",
+            "maxdate": "2020-05-15",
+            "latitude": 36.2494,
+            "name": "NORFORK DAM, AR US",
+            "datacoverage": 0.2545,
+            "id": "GHCND:USC00035228",
+            "elevationUnit": "METERS",
+            "longitude": -92.2383
+        },
+        {
+            "elevation": 457.2,
+            "mindate": "1939-06-01",
+            "maxdate": "2014-09-30",
+            "latitude": 35.7802,
+            "name": "ODELL, AR US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00035354",
+            "elevationUnit": "METERS",
+            "longitude": -94.4161
+        },
+        {
+            "elevation": 243.8,
+            "mindate": "1927-01-01",
+            "maxdate": "2020-03-31",
+            "latitude": 34.6008,
+            "name": "ODEN, AR US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00035358",
+            "elevationUnit": "METERS",
+            "longitude": -93.7667
+        },
+        {
+            "elevation": 91.4,
+            "mindate": "1915-05-01",
+            "maxdate": "2010-12-31",
+            "latitude": 33.76667,
+            "name": "OKAY, AR US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00035376",
+            "elevationUnit": "METERS",
+            "longitude": -93.91667
+        },
+        {
+            "elevation": 420.3,
+            "mindate": "1956-12-01",
+            "maxdate": "2020-05-17",
+            "latitude": 36.4311,
+            "name": "OMAHA 4 NE, AR US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00035428",
+            "elevationUnit": "METERS",
+            "longitude": -93.2044
+        },
+        {
+            "elevation": 75.9,
+            "mindate": "1892-01-01",
+            "maxdate": "1975-04-30",
+            "latitude": 35.71667,
+            "name": "OSCEOLA, AR US",
+            "datacoverage": 0.7821,
+            "id": "GHCND:USC00035480",
+            "elevationUnit": "METERS",
+            "longitude": -89.98333
+        },
+        {
+            "elevation": 176.8,
+            "mindate": "1944-04-01",
+            "maxdate": "2010-12-31",
+            "latitude": 34.6133,
+            "name": "OWENSVILLE 3 E, AR US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00035498",
+            "elevationUnit": "METERS",
+            "longitude": -92.7742
+        },
+        {
+            "elevation": 118.9,
+            "mindate": "1892-01-01",
+            "maxdate": "2010-12-31",
+            "latitude": 35.48333,
+            "name": "OZARK, AR US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00035508",
+            "elevationUnit": "METERS",
+            "longitude": -93.81667
+        },
+        {
+            "elevation": 253,
+            "mindate": "1994-03-01",
+            "maxdate": "2020-05-15",
+            "latitude": 35.5125,
+            "name": "OZARK 2, AR US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00035512",
+            "elevationUnit": "METERS",
+            "longitude": -93.8683
+        },
+        {
+            "elevation": 587.7,
+            "mindate": "1890-08-01",
+            "maxdate": "2020-05-17",
+            "latitude": 35.6464,
+            "name": "OZONE, AR US",
+            "datacoverage": 0.5996,
+            "id": "GHCND:USC00035514",
+            "elevationUnit": "METERS",
+            "longitude": -93.4347
+        },
+        {
+            "elevation": 79.2,
+            "mindate": "1892-01-01",
+            "maxdate": "1979-06-30",
+            "latitude": 36.0327,
+            "name": "PARAGOULD, AR US",
+            "datacoverage": 0.5924,
+            "id": "GHCND:USC00035562",
+            "elevationUnit": "METERS",
+            "longitude": -90.4913
+        },
+        {
+            "elevation": 82.3,
+            "mindate": "1979-07-01",
+            "maxdate": "2020-05-17",
+            "latitude": 36.0336,
+            "name": "PARAGOULD 1 S, AR US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00035563",
+            "elevationUnit": "METERS",
+            "longitude": -90.4978
+        },
+        {
+            "elevation": 125,
+            "mindate": "1949-01-01",
+            "maxdate": "1972-07-31",
+            "latitude": 35.3,
+            "name": "PARIS, AR US",
+            "datacoverage": 0.9746,
+            "id": "GHCND:USC00035576",
+            "elevationUnit": "METERS",
+            "longitude": -93.71667
+        },
+        {
+            "elevation": 271.3,
+            "mindate": "1956-04-01",
+            "maxdate": "2020-05-17",
+            "latitude": 34.84417,
+            "name": "PARKS 6 ENE, AR US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00035591",
+            "elevationUnit": "METERS",
+            "longitude": -93.86528
+        },
+        {
+            "elevation": 91.4,
+            "mindate": "1964-10-01",
+            "maxdate": "2020-05-17",
+            "latitude": 35.0441,
+            "name": "PERRY, AR US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00035691",
+            "elevationUnit": "METERS",
+            "longitude": -92.7955
+        },
+        {
+            "elevation": 667.5,
+            "mindate": "2006-01-01",
+            "maxdate": "2009-09-30",
+            "latitude": 35.88139,
+            "name": "PETTIGREW 6 NE, AR US",
+            "datacoverage": 0.9993,
+            "id": "GHCND:USC00035707",
+            "elevationUnit": "METERS",
+            "longitude": -93.55111
+        },
+        {
+            "elevation": 70.1,
+            "mindate": "1884-05-01",
+            "maxdate": "2020-05-17",
+            "latitude": 34.2255,
+            "name": "PINE BLUFF, AR US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00035754",
+            "elevationUnit": "METERS",
+            "longitude": -92.0185
+        },
+        {
+            "elevation": 256,
+            "mindate": "1925-02-01",
+            "maxdate": "2020-05-17",
+            "latitude": 34.5833,
+            "name": "PINE RIDGE, AR US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00035760",
+            "elevationUnit": "METERS",
+            "longitude": -93.9011
+        },
+        {
+            "elevation": 115.8,
+            "mindate": "1966-02-01",
+            "maxdate": "2002-12-31",
+            "latitude": 34.17278,
+            "name": "PINEY GROVE, AR US",
+            "datacoverage": 0.9865,
+            "id": "GHCND:USC00035770",
+            "elevationUnit": "METERS",
+            "longitude": -93.205
+        },
+        {
+            "elevation": 96,
+            "mindate": "1871-07-01",
+            "maxdate": "2020-05-17",
+            "latitude": 36.2641,
+            "name": "POCAHONTAS 1, AR US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00035820",
+            "elevationUnit": "METERS",
+            "longitude": -90.9682
+        },
+        {
+            "elevation": 105.2,
+            "mindate": "2000-05-01",
+            "maxdate": "2020-04-08",
+            "latitude": 35.5325,
+            "name": "POINSETT STATE PARK, AR US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00035831",
+            "elevationUnit": "METERS",
+            "longitude": -90.6872
+        },
+        {
+            "elevation": 441.7,
+            "mindate": "2014-11-01",
+            "maxdate": "2020-02-29",
+            "latitude": 35.9665,
+            "name": "PONCA 5 SW, AR US",
+            "datacoverage": 0.8768,
+            "id": "GHCND:USC00035840",
+            "elevationUnit": "METERS",
+            "longitude": -93.4196
+        },
+        {
+            "elevation": 39,
+            "mindate": "1909-01-01",
+            "maxdate": "2020-05-15",
+            "latitude": 33.2511,
+            "name": "PORTLAND, AR US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00035866",
+            "elevationUnit": "METERS",
+            "longitude": -91.5058
+        },
+        {
+            "elevation": 399.3,
+            "mindate": "2003-10-01",
+            "maxdate": "2012-12-31",
+            "latitude": 35.9827,
+            "name": "PRAIRIE GROVE, AR US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00035900",
+            "elevationUnit": "METERS",
+            "longitude": -94.3061
+        },
+        {
+            "elevation": 93.9,
+            "mindate": "1890-05-01",
+            "maxdate": "2020-05-03",
+            "latitude": 33.8204,
+            "name": "PRESCOTT 2 NNW, AR US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00035908",
+            "elevationUnit": "METERS",
+            "longitude": -93.3879
+        },
+        {
+            "elevation": 141.1,
+            "mindate": "1944-12-01",
+            "maxdate": "2020-05-17",
+            "latitude": 35.3051,
+            "name": "RATCLIFF, AR US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00036008",
+            "elevationUnit": "METERS",
+            "longitude": -93.8766
+        },
+        {
+            "elevation": 106.7,
+            "mindate": "2019-02-27",
+            "maxdate": "2020-03-31",
+            "latitude": 36.23405,
+            "name": "RAVENDEN, AR US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00036017",
+            "elevationUnit": "METERS",
+            "longitude": -91.25953
+        },
+        {
+            "elevation": 98.1,
+            "mindate": "1948-06-01",
+            "maxdate": "1975-11-30",
+            "latitude": 34.43333,
+            "name": "REMMEL DAM, AR US",
+            "datacoverage": 0.4576,
+            "id": "GHCND:USC00036102",
+            "elevationUnit": "METERS",
+            "longitude": -92.9
+        },
+        {
+            "elevation": 85.3,
+            "mindate": "1893-05-01",
+            "maxdate": "2020-02-29",
+            "latitude": 33.9539,
+            "name": "RISON, AR US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00036174",
+            "elevationUnit": "METERS",
+            "longitude": -92.2019
+        },
+        {
+            "elevation": 415.1,
+            "mindate": "1892-01-01",
+            "maxdate": "1975-02-28",
+            "latitude": 36.36667,
+            "name": "ROGERS, AR US",
+            "datacoverage": 0.9871,
+            "id": "GHCND:USC00036248",
+            "elevationUnit": "METERS",
+            "longitude": -94.1
+        },
+        {
+            "elevation": 45.7,
+            "mindate": "1959-12-01",
+            "maxdate": "2020-05-17",
+            "latitude": 33.8102,
+            "name": "ROHWER 2 NNE, AR US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00036253",
+            "elevationUnit": "METERS",
+            "longitude": -91.2777
+        },
+        {
+            "elevation": 121.9,
+            "mindate": "1892-04-01",
+            "maxdate": "1979-11-30",
+            "latitude": 35.28333,
+            "name": "RUSSELLVILLE, AR US",
+            "datacoverage": 0.6759,
+            "id": "GHCND:USC00036352",
+            "elevationUnit": "METERS",
+            "longitude": -93.1
+        },
+        {
+            "elevation": 132.3,
+            "mindate": "2010-01-01",
+            "maxdate": "2016-04-30",
+            "latitude": 35.41556,
+            "name": "STEPROCK, AR US",
+            "datacoverage": 0.9992,
+            "id": "GHCND:USC00036353",
+            "elevationUnit": "METERS",
+            "longitude": -91.64694
+        },
+        {
+            "elevation": 61,
+            "mindate": "1930-02-01",
+            "maxdate": "2020-05-12",
+            "latitude": 34.3702,
+            "name": "SAINT CHARLES, AR US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00036376",
+            "elevationUnit": "METERS",
+            "longitude": -91.1241
+        },
+        {
+            "elevation": 91.4,
+            "mindate": "1927-04-01",
+            "maxdate": "2020-05-17",
+            "latitude": 36.4546,
+            "name": "SAINT FRANCIS, AR US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00036380",
+            "elevationUnit": "METERS",
+            "longitude": -90.1459
+        },
+        {
+            "elevation": 423.7,
+            "mindate": "1988-03-01",
+            "maxdate": "2020-05-17",
+            "latitude": 35.8236,
+            "name": "ST. PAUL 1 E, AR US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00036393",
+            "elevationUnit": "METERS",
+            "longitude": -93.7672
+        },
+        {
+            "elevation": 207.3,
+            "mindate": "1955-04-01",
+            "maxdate": "2020-05-17",
+            "latitude": 36.3561,
+            "name": "SALEM, AR US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00036403",
+            "elevationUnit": "METERS",
+            "longitude": -91.8036
+        },
+        {
+            "elevation": 70.1,
+            "mindate": "1892-09-01",
+            "maxdate": "2020-05-17",
+            "latitude": 35.2679,
+            "name": "SEARCY, AR US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00036506",
+            "elevationUnit": "METERS",
+            "longitude": -91.7168
+        },
+        {
+            "elevation": 76.2,
+            "mindate": "1977-01-01",
+            "maxdate": "2020-05-16",
+            "latitude": 34.3019,
+            "name": "SHERIDAN, AR US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00036562",
+            "elevationUnit": "METERS",
+            "longitude": -92.3914
+        },
+        {
+            "elevation": 88.1,
+            "mindate": "1941-09-01",
+            "maxdate": "1977-02-28",
+            "latitude": 34.45,
+            "name": "SHERIDAN TOWER, AR US",
+            "datacoverage": 0.9907,
+            "id": "GHCND:USC00036566",
+            "elevationUnit": "METERS",
+            "longitude": -92.35
+        },
+        {
+            "elevation": 170.7,
+            "mindate": "1939-06-01",
+            "maxdate": "1988-04-30",
+            "latitude": 35.65,
+            "name": "SHIRLEY, AR US",
+            "datacoverage": 0.9438,
+            "id": "GHCND:USC00036586",
+            "elevationUnit": "METERS",
+            "longitude": -92.31667
+        },
+        {
+            "elevation": 347.5,
+            "mindate": "1942-02-01",
+            "maxdate": "1987-12-30",
+            "latitude": 36.16667,
+            "name": "SILOAM SPRINGS, AR US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00036624",
+            "elevationUnit": "METERS",
+            "longitude": -94.53333
+        },
+        {
+            "elevation": 51.8,
+            "mindate": "1940-03-01",
+            "maxdate": "2020-05-12",
+            "latitude": 33.9153,
+            "name": "SPARKMAN, AR US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00036768",
+            "elevationUnit": "METERS",
+            "longitude": -92.8267
         }
     ]
 }

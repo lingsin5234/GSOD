@@ -2,22 +2,11 @@
     "metadata": {
         "resultset": {
             "offset": 1,
-            "count": 1832,
+            "count": 1525,
             "limit": 1000
         }
     },
     "results": [
-        {
-            "elevation": 194.5,
-            "mindate": "1931-01-01",
-            "maxdate": "1939-12-01",
-            "latitude": 42.95,
-            "name": "ADA, MI US",
-            "datacoverage": 1,
-            "id": "COOP:200016",
-            "elevationUnit": "METERS",
-            "longitude": -85.5
-        },
         {
             "elevation": 231.6,
             "mindate": "1931-01-01",
@@ -72,17 +61,6 @@
             "id": "COOP:200094",
             "elevationUnit": "METERS",
             "longitude": -84.7732
-        },
-        {
-            "elevation": 222.5,
-            "mindate": "1931-01-01",
-            "maxdate": "1938-12-01",
-            "latitude": 44.56667,
-            "name": "ALCONA DAM, MI US",
-            "datacoverage": 1,
-            "id": "COOP:200096",
-            "elevationUnit": "METERS",
-            "longitude": -83.8
         },
         {
             "elevation": 176.8,
@@ -350,11 +328,11 @@
         },
         {
             "elevation": 244.1,
-            "mindate": "1948-06-01",
+            "mindate": "1948-07-01",
             "maxdate": "1987-07-01",
             "latitude": 46.78333,
             "name": "BARAGA 1 N, MI US",
-            "datacoverage": 0.8754,
+            "datacoverage": 0.0456,
             "id": "COOP:200489",
             "elevationUnit": "METERS",
             "longitude": -88.48333
@@ -409,7 +387,7 @@
             "maxdate": "1975-08-01",
             "latitude": 43.88333,
             "name": "BEAVERTON, MI US",
-            "datacoverage": 0.8952,
+            "datacoverage": 0.0573,
             "id": "COOP:200631",
             "elevationUnit": "METERS",
             "longitude": -84.48333
@@ -442,7 +420,7 @@
             "maxdate": "2014-01-01",
             "latitude": 44.9758,
             "name": "BELLAIRE, MI US",
-            "datacoverage": 1,
+            "datacoverage": 0.0405,
             "id": "COOP:200662",
             "elevationUnit": "METERS",
             "longitude": -85.198
@@ -497,21 +475,10 @@
             "maxdate": "1997-09-01",
             "latitude": 41.96472,
             "name": "BERRIEN SPRINGS 5 W, MI US",
-            "datacoverage": 0.8206,
+            "datacoverage": 0.0548,
             "id": "COOP:200735",
             "elevationUnit": "METERS",
             "longitude": -86.43694
-        },
-        {
-            "elevation": 436.8,
-            "mindate": "1931-01-01",
-            "maxdate": "1938-10-01",
-            "latitude": 46.48333,
-            "name": "BESSEMER, MI US",
-            "datacoverage": 0.9788,
-            "id": "COOP:200747",
-            "elevationUnit": "METERS",
-            "longitude": -90.01667
         },
         {
             "elevation": 235.6,
@@ -534,17 +501,6 @@
             "id": "COOP:200766",
             "elevationUnit": "METERS",
             "longitude": -87.8639
-        },
-        {
-            "elevation": 198.1,
-            "mindate": "1960-10-01",
-            "maxdate": "1961-05-01",
-            "latitude": 46.83333,
-            "name": "BIG BAY 6 WNW, MI US",
-            "datacoverage": 0.0136,
-            "id": "COOP:200768",
-            "elevationUnit": "METERS",
-            "longitude": -87.85
         },
         {
             "elevation": 233.2,
@@ -602,17 +558,6 @@
             "longitude": -85.9626
         },
         {
-            "elevation": 253,
-            "mindate": "1949-07-01",
-            "maxdate": "1961-05-01",
-            "latitude": 45.21667,
-            "name": "BOYNE FALLS ST NURSY, MI US",
-            "datacoverage": 0.9999,
-            "id": "COOP:200924",
-            "elevationUnit": "METERS",
-            "longitude": -84.8
-        },
-        {
             "elevation": 221.9,
             "mindate": "1961-05-01",
             "maxdate": "2015-11-01",
@@ -622,17 +567,6 @@
             "id": "COOP:200925",
             "elevationUnit": "METERS",
             "longitude": -84.9138
-        },
-        {
-            "elevation": 214,
-            "mindate": "1953-09-01",
-            "maxdate": "1968-10-01",
-            "latitude": 46.06667,
-            "name": "BREVORT 6 NW, MI US",
-            "datacoverage": 0.9889,
-            "id": "COOP:200972",
-            "elevationUnit": "METERS",
-            "longitude": -85.16667
         },
         {
             "elevation": 304.8,
@@ -706,7 +640,7 @@
             "maxdate": "1971-03-01",
             "latitude": 43.2,
             "name": "BURNSIDE 1 E, MI US",
-            "datacoverage": 0.7436,
+            "datacoverage": 0.0576,
             "id": "COOP:201133",
             "elevationUnit": "METERS",
             "longitude": -83.05
@@ -756,28 +690,6 @@
             "longitude": -85.40865
         },
         {
-            "elevation": 333.8,
-            "mindate": "1947-11-01",
-            "maxdate": "1952-10-01",
-            "latitude": 47.16861,
-            "name": "HANCOCK HOUGHTON CO AIRPORT, MI US",
-            "datacoverage": 0.807,
-            "id": "COOP:201213",
-            "elevationUnit": "METERS",
-            "longitude": -88.48889
-        },
-        {
-            "elevation": 378,
-            "mindate": "1931-01-01",
-            "maxdate": "1952-12-01",
-            "latitude": 47.25,
-            "name": "CALUMET, MI US",
-            "datacoverage": 0.9999,
-            "id": "COOP:201216",
-            "elevationUnit": "METERS",
-            "longitude": -88.48333
-        },
-        {
             "elevation": 205.4,
             "mindate": "2004-08-01",
             "maxdate": "2008-04-01",
@@ -822,17 +734,6 @@
             "longitude": -83.3919
         },
         {
-            "elevation": 214,
-            "mindate": "1950-05-01",
-            "maxdate": "1952-09-01",
-            "latitude": 43.5,
-            "name": "CARO SOIL CONSERVATION SERVICE, MI US",
-            "datacoverage": 0.9402,
-            "id": "COOP:201301",
-            "elevationUnit": "METERS",
-            "longitude": -83.4
-        },
-        {
             "elevation": 181.4,
             "mindate": "2003-12-01",
             "maxdate": "2012-12-01",
@@ -849,7 +750,7 @@
             "maxdate": "1986-03-01",
             "latitude": 43.25,
             "name": "CASNOVIA 2 NW, MI US",
-            "datacoverage": 0.6223,
+            "datacoverage": 0.0405,
             "id": "COOP:201352",
             "elevationUnit": "METERS",
             "longitude": -85.81667
@@ -864,28 +765,6 @@
             "id": "COOP:201361",
             "elevationUnit": "METERS",
             "longitude": -83.1805
-        },
-        {
-            "elevation": 274.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1938-11-01",
-            "latitude": 41.9,
-            "name": "CASSOPOLIS, MI US",
-            "datacoverage": 0.9476,
-            "id": "COOP:201364",
-            "elevationUnit": "METERS",
-            "longitude": -86.01667
-        },
-        {
-            "elevation": 271,
-            "mindate": "1931-01-01",
-            "maxdate": "1938-09-01",
-            "latitude": 42.25,
-            "name": "CERESCO, MI US",
-            "datacoverage": 1,
-            "id": "COOP:201425",
-            "elevationUnit": "METERS",
-            "longitude": -85.03333
         },
         {
             "elevation": 473.7,
@@ -908,17 +787,6 @@
             "id": "COOP:201439",
             "elevationUnit": "METERS",
             "longitude": -87.9859
-        },
-        {
-            "elevation": 422.1,
-            "mindate": "1938-12-01",
-            "maxdate": "1952-08-01",
-            "latitude": 46.13333,
-            "name": "CHANNING, MI US",
-            "datacoverage": 0.9211,
-            "id": "COOP:201446",
-            "elevationUnit": "METERS",
-            "longitude": -88.08333
         },
         {
             "elevation": 180.7,
@@ -981,7 +849,7 @@
             "maxdate": "1976-10-01",
             "latitude": 45.63333,
             "name": "CHEBOYGAN POWER PLAN, MI US",
-            "datacoverage": 0.7372,
+            "datacoverage": 0.067,
             "id": "COOP:201497",
             "elevationUnit": "METERS",
             "longitude": -84.48333
@@ -1036,18 +904,18 @@
             "maxdate": "2014-01-01",
             "latitude": 41.9397,
             "name": "COLDWATER WASTEWATER PLANT, MI US",
-            "datacoverage": 0.8206,
+            "datacoverage": 0.0305,
             "id": "COOP:201680",
             "elevationUnit": "METERS",
             "longitude": -85.0183
         },
         {
             "elevation": 213.4,
-            "mindate": "1931-01-01",
+            "mindate": "1948-07-01",
             "maxdate": "1999-10-01",
             "latitude": 42.23333,
             "name": "COLOMA 3 NNW, MI US",
-            "datacoverage": 0.6515,
+            "datacoverage": 0.0393,
             "id": "COOP:201704",
             "elevationUnit": "METERS",
             "longitude": -86.31667
@@ -1062,17 +930,6 @@
             "id": "COOP:201721",
             "elevationUnit": "METERS",
             "longitude": -83.33583
-        },
-        {
-            "elevation": 207,
-            "mindate": "1931-01-01",
-            "maxdate": "1935-12-01",
-            "latitude": 44.45,
-            "name": "COOKE SITE, MI US",
-            "datacoverage": 1,
-            "id": "COOP:201765",
-            "elevationUnit": "METERS",
-            "longitude": -83.46667
         },
         {
             "elevation": 225.6,
@@ -1152,15 +1009,6 @@
             "longitude": -84.0744
         },
         {
-            "mindate": "1948-07-01",
-            "maxdate": "1948-11-29",
-            "latitude": 46.58333,
-            "name": "COVINGTON 3 NW, MI US",
-            "datacoverage": 0.9925,
-            "id": "COOP:201848",
-            "longitude": -88.56667
-        },
-        {
             "elevation": 219.8,
             "mindate": "1953-09-01",
             "maxdate": "2015-11-01",
@@ -1172,17 +1020,6 @@
             "longitude": -85.0141
         },
         {
-            "elevation": 223.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1939-07-01",
-            "latitude": 43.26667,
-            "name": "CROSSWELL, MI US",
-            "datacoverage": 0.9421,
-            "id": "COOP:201900",
-            "elevationUnit": "METERS",
-            "longitude": -82.6
-        },
-        {
             "elevation": 414.5,
             "mindate": "1948-07-01",
             "maxdate": "1990-08-01",
@@ -1192,17 +1029,6 @@
             "id": "COOP:201922",
             "elevationUnit": "METERS",
             "longitude": -88.23333
-        },
-        {
-            "elevation": 274.9,
-            "mindate": "1939-09-01",
-            "maxdate": "1947-10-01",
-            "latitude": 44.73333,
-            "name": "CURRAN NEAR, MI US",
-            "datacoverage": 0.9591,
-            "id": "COOP:201934",
-            "elevationUnit": "METERS",
-            "longitude": -83.78333
         },
         {
             "elevation": 234.7,
@@ -1260,28 +1086,6 @@
             "longitude": -83.29361
         },
         {
-            "elevation": 203.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1954-04-01",
-            "latitude": 46.61667,
-            "name": "DEER PARK STATE FORE, MI US",
-            "datacoverage": 0.9752,
-            "id": "COOP:202028",
-            "elevationUnit": "METERS",
-            "longitude": -85.61667
-        },
-        {
-            "elevation": 180.1,
-            "mindate": "1948-07-01",
-            "maxdate": "1952-09-01",
-            "latitude": 45.98333,
-            "name": "DE TOUR, MI US",
-            "datacoverage": 0.8296,
-            "id": "COOP:202089",
-            "elevationUnit": "METERS",
-            "longitude": -83.91667
-        },
-        {
             "elevation": 181.4,
             "mindate": "1938-12-01",
             "maxdate": "2015-11-01",
@@ -1315,17 +1119,6 @@
             "longitude": -83.3308
         },
         {
-            "elevation": 236.8,
-            "mindate": "1950-03-01",
-            "maxdate": "1968-12-01",
-            "latitude": 42.23333,
-            "name": "DETROIT WILLOW RUN AIRPORT, MI US",
-            "datacoverage": 0.9864,
-            "id": "COOP:202104",
-            "elevationUnit": "METERS",
-            "longitude": -83.53333
-        },
-        {
             "elevation": 266.7,
             "mindate": "1978-05-01",
             "maxdate": "2004-07-01",
@@ -1335,26 +1128,6 @@
             "id": "COOP:202140",
             "elevationUnit": "METERS",
             "longitude": -84.6503
-        },
-        {
-            "mindate": "1950-07-01",
-            "maxdate": "1951-10-01",
-            "latitude": 46.93333,
-            "name": "DONKEN, MI US",
-            "datacoverage": 0.5613,
-            "id": "COOP:202197",
-            "longitude": -88.78333
-        },
-        {
-            "elevation": 231.6,
-            "mindate": "1939-06-01",
-            "maxdate": "1953-06-01",
-            "latitude": 41.98333,
-            "name": "DOWAGIAC 2 E, MI US",
-            "datacoverage": 0.9053,
-            "id": "COOP:202248",
-            "elevationUnit": "METERS",
-            "longitude": -86.08333
         },
         {
             "elevation": 225.6,
@@ -1388,17 +1161,6 @@
             "id": "COOP:202270",
             "elevationUnit": "METERS",
             "longitude": -83.22167
-        },
-        {
-            "elevation": 335.9,
-            "mindate": "1926-07-01",
-            "maxdate": "1942-10-01",
-            "latitude": 46.33333,
-            "name": "DUKES, MI US",
-            "datacoverage": 0.9743,
-            "id": "COOP:202295",
-            "elevationUnit": "METERS",
-            "longitude": -87.16667
         },
         {
             "elevation": 182.9,
@@ -1445,17 +1207,6 @@
             "longitude": -84.7125
         },
         {
-            "elevation": 185.9,
-            "mindate": "1947-06-01",
-            "maxdate": "1972-06-01",
-            "latitude": 47.46667,
-            "name": "EAGLE HARBOR COAST GUARD, MI US",
-            "datacoverage": 0.9235,
-            "id": "COOP:202332",
-            "elevationUnit": "METERS",
-            "longitude": -88.16667
-        },
-        {
             "elevation": 227.4,
             "mindate": "2015-01-01",
             "maxdate": "2015-11-01",
@@ -1498,28 +1249,6 @@
             "id": "COOP:202382",
             "elevationUnit": "METERS",
             "longitude": -85.1477
-        },
-        {
-            "elevation": 271,
-            "mindate": "1949-01-01",
-            "maxdate": "1960-12-01",
-            "latitude": 42.7,
-            "name": "EAST LANSING EXPERIM, MI US",
-            "datacoverage": 0.9722,
-            "id": "COOP:202393",
-            "elevationUnit": "METERS",
-            "longitude": -84.46667
-        },
-        {
-            "elevation": 264.9,
-            "mindate": "1948-01-01",
-            "maxdate": "1959-04-30",
-            "latitude": 42.73333,
-            "name": "EAST LANSING, MI US",
-            "datacoverage": 0.4487,
-            "id": "COOP:202394",
-            "elevationUnit": "METERS",
-            "longitude": -84.48333
         },
         {
             "elevation": 268.2,
@@ -1577,26 +1306,6 @@
             "longitude": -86.243
         },
         {
-            "elevation": 207,
-            "mindate": "1931-01-01",
-            "maxdate": "1938-12-01",
-            "latitude": 43.8,
-            "name": "EDENVILLE, MI US",
-            "datacoverage": 1,
-            "id": "COOP:202472",
-            "elevationUnit": "METERS",
-            "longitude": -84.38333
-        },
-        {
-            "mindate": "1953-05-01",
-            "maxdate": "1961-12-01",
-            "latitude": 43.4,
-            "name": "EDMORE, MI US",
-            "datacoverage": 0.9899,
-            "id": "COOP:202487",
-            "longitude": -85.03333
-        },
-        {
             "elevation": 296,
             "mindate": "1977-04-01",
             "maxdate": "1977-05-01",
@@ -1615,17 +1324,6 @@
             "datacoverage": 0.643,
             "id": "COOP:202490",
             "longitude": -85.06667
-        },
-        {
-            "elevation": 289,
-            "mindate": "1953-08-01",
-            "maxdate": "1964-05-01",
-            "latitude": 44.64822,
-            "name": "FRANKFORT 2 NE, MI US",
-            "datacoverage": 0.9615,
-            "id": "COOP:202497",
-            "elevationUnit": "METERS",
-            "longitude": -86.20986
         },
         {
             "elevation": 214,
@@ -1699,7 +1397,7 @@
             "maxdate": "1978-05-01",
             "latitude": 46.5345,
             "name": "BRUCE CROSSING, MI US",
-            "datacoverage": 0.7949,
+            "datacoverage": 0.071,
             "id": "COOP:202674",
             "elevationUnit": "METERS",
             "longitude": -89.1839
@@ -1736,15 +1434,6 @@
             "id": "COOP:202751",
             "elevationUnit": "METERS",
             "longitude": -86.1558
-        },
-        {
-            "mindate": "1948-07-01",
-            "maxdate": "1950-07-24",
-            "latitude": 42.75,
-            "name": "FENTON 5 SW, MI US",
-            "datacoverage": 0.6379,
-            "id": "COOP:202753",
-            "longitude": -83.76667
         },
         {
             "elevation": 302.1,
@@ -1857,15 +1546,6 @@
             "longitude": -86.20986
         },
         {
-            "mindate": "1948-07-01",
-            "maxdate": "1957-06-01",
-            "latitude": 44.06667,
-            "name": "FREESOIL 4 SW, MI US",
-            "datacoverage": 0.6411,
-            "id": "COOP:203013",
-            "longitude": -86.28333
-        },
-        {
             "elevation": 243.8,
             "mindate": "2007-11-01",
             "maxdate": "2015-11-01",
@@ -1888,17 +1568,6 @@
             "longitude": -85.3837
         },
         {
-            "elevation": 200.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1939-05-01",
-            "latitude": 42.58333,
-            "name": "GANGES, MI US",
-            "datacoverage": 1,
-            "id": "COOP:203066",
-            "elevationUnit": "METERS",
-            "longitude": -86.2
-        },
-        {
             "elevation": 178.9,
             "mindate": "2008-11-01",
             "maxdate": "2015-11-01",
@@ -1908,17 +1577,6 @@
             "id": "COOP:203078",
             "elevationUnit": "METERS",
             "longitude": -86.5485
-        },
-        {
-            "elevation": 310.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1952-08-01",
-            "latitude": 46.16667,
-            "name": "GARNET, MI US",
-            "datacoverage": 0.9154,
-            "id": "COOP:203081",
-            "elevationUnit": "METERS",
-            "longitude": -85.3
         },
         {
             "elevation": 401.7,
@@ -1943,17 +1601,6 @@
             "longitude": -84.71891
         },
         {
-            "elevation": 216.4,
-            "mindate": "1939-03-01",
-            "maxdate": "1961-06-01",
-            "latitude": 46.28333,
-            "name": "SENEY WILDLIFE REF, MI US",
-            "datacoverage": 0.9701,
-            "id": "COOP:203123",
-            "elevationUnit": "METERS",
-            "longitude": -85.95
-        },
-        {
             "elevation": 236.2,
             "mindate": "1931-01-01",
             "maxdate": "2015-11-01",
@@ -1963,28 +1610,6 @@
             "id": "COOP:203170",
             "elevationUnit": "METERS",
             "longitude": -84.4908
-        },
-        {
-            "elevation": 192,
-            "mindate": "1954-09-01",
-            "maxdate": "1958-12-01",
-            "latitude": 44.93333,
-            "name": "GLEN ARBOR 4 NE, MI US",
-            "datacoverage": 0.9998,
-            "id": "COOP:203176",
-            "elevationUnit": "METERS",
-            "longitude": -85.91667
-        },
-        {
-            "elevation": 184.7,
-            "mindate": "1947-03-01",
-            "maxdate": "1954-08-01",
-            "latitude": 44.91667,
-            "name": "GLEN ARBOR LEELANAU SCHOOL, MI US",
-            "datacoverage": 0.8883,
-            "id": "COOP:203178",
-            "elevationUnit": "METERS",
-            "longitude": -85.96667
         },
         {
             "elevation": 272.5,
@@ -2014,7 +1639,7 @@
             "maxdate": "2004-08-01",
             "latitude": 44.56167,
             "name": "GLENNIE ALCONA DAM, MI US",
-            "datacoverage": 0.684,
+            "datacoverage": 0.0372,
             "id": "COOP:203199",
             "elevationUnit": "METERS",
             "longitude": -83.80306
@@ -2097,17 +1722,6 @@
             "longitude": -85.95
         },
         {
-            "elevation": 213.1,
-            "mindate": "1948-04-01",
-            "maxdate": "1963-12-01",
-            "latitude": 42.9,
-            "name": "GRAND RAPIDS, MI US",
-            "datacoverage": 0.9469,
-            "id": "COOP:203332",
-            "elevationUnit": "METERS",
-            "longitude": -85.66667
-        },
-        {
             "elevation": 244.8,
             "mindate": "1963-11-01",
             "maxdate": "2015-11-01",
@@ -2117,17 +1731,6 @@
             "id": "COOP:203333",
             "elevationUnit": "METERS",
             "longitude": -85.52389
-        },
-        {
-            "elevation": 194.5,
-            "mindate": "1948-05-01",
-            "maxdate": "1963-12-15",
-            "latitude": 42.96667,
-            "name": "GRAND RAPIDS, MI US",
-            "datacoverage": 0.8598,
-            "id": "COOP:203337",
-            "elevationUnit": "METERS",
-            "longitude": -85.66667
         },
         {
             "elevation": 346.6,
@@ -2185,17 +1788,6 @@
             "longitude": -85.2422
         },
         {
-            "elevation": 264.9,
-            "mindate": "1949-08-01",
-            "maxdate": "1956-07-01",
-            "latitude": 43.21667,
-            "name": "GREENVILLE 2 N, MI US",
-            "datacoverage": 0.8811,
-            "id": "COOP:203434",
-            "elevationUnit": "METERS",
-            "longitude": -85.25
-        },
-        {
             "elevation": 186.8,
             "mindate": "1951-01-01",
             "maxdate": "2015-11-01",
@@ -2205,17 +1797,6 @@
             "id": "COOP:203477",
             "elevationUnit": "METERS",
             "longitude": -82.8891
-        },
-        {
-            "elevation": 177.1,
-            "mindate": "1946-10-01",
-            "maxdate": "1950-12-01",
-            "latitude": 42.43333,
-            "name": "GROSSE POINT SHORES, MI US",
-            "datacoverage": 0.686,
-            "id": "COOP:203481",
-            "elevationUnit": "METERS",
-            "longitude": -82.88333
         },
         {
             "elevation": 281.9,
@@ -2234,7 +1815,7 @@
             "maxdate": "2014-01-01",
             "latitude": 46.2863,
             "name": "GWINN 1 W, MI US",
-            "datacoverage": 0.7776,
+            "datacoverage": 0.0507,
             "id": "COOP:203516",
             "elevationUnit": "METERS",
             "longitude": -87.4511
@@ -2311,7 +1892,7 @@
             "maxdate": "2001-04-30",
             "latitude": 43.83222,
             "name": "HARBOR BEACH, MI US",
-            "datacoverage": 0.8975,
+            "datacoverage": 0.0481,
             "id": "COOP:203580",
             "elevationUnit": "METERS",
             "longitude": -82.64278
@@ -2337,17 +1918,6 @@
             "id": "COOP:203616",
             "elevationUnit": "METERS",
             "longitude": -84.8
-        },
-        {
-            "elevation": 198.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1965-04-01",
-            "latitude": 44.65,
-            "name": "HARRISVILLE, MI US",
-            "datacoverage": 0.9588,
-            "id": "COOP:203624",
-            "elevationUnit": "METERS",
-            "longitude": -83.3
         },
         {
             "elevation": 198.1,
@@ -2438,17 +2008,6 @@
             "longitude": -88.3772
         },
         {
-            "elevation": 262.1,
-            "mindate": "1938-12-01",
-            "maxdate": "1953-07-01",
-            "latitude": 45.71667,
-            "name": "HERMANSVILLE, MI US",
-            "datacoverage": 0.8523,
-            "id": "COOP:203749",
-            "elevationUnit": "METERS",
-            "longitude": -87.58333
-        },
-        {
             "elevation": 237.7,
             "mindate": "1938-12-01",
             "maxdate": "2013-12-01",
@@ -2515,15 +2074,6 @@
             "longitude": -84.3702
         },
         {
-            "mindate": "1931-01-01",
-            "maxdate": "1950-06-30",
-            "latitude": 47.11667,
-            "name": "HOUGHTON MICH TECH, MI US",
-            "datacoverage": 0.8976,
-            "id": "COOP:203914",
-            "longitude": -88.56667
-        },
-        {
             "elevation": 259.1,
             "mindate": "1993-11-01",
             "maxdate": "2003-08-01",
@@ -2533,17 +2083,6 @@
             "id": "COOP:203917",
             "elevationUnit": "METERS",
             "longitude": -88.55
-        },
-        {
-            "elevation": 189,
-            "mindate": "1952-09-01",
-            "maxdate": "1967-09-01",
-            "latitude": 47.23333,
-            "name": "HANCOCK MCLAIN ST PK, MI US",
-            "datacoverage": 0.0672,
-            "id": "COOP:203922",
-            "elevationUnit": "METERS",
-            "longitude": -88.61667
         },
         {
             "elevation": 214.9,
@@ -2601,28 +2140,6 @@
             "longitude": -83.93251
         },
         {
-            "elevation": 281,
-            "mindate": "1950-01-01",
-            "maxdate": "1961-05-01",
-            "latitude": 42.7,
-            "name": "HOWELL 7 NE, MI US",
-            "datacoverage": 0.9064,
-            "id": "COOP:203949",
-            "elevationUnit": "METERS",
-            "longitude": -83.88333
-        },
-        {
-            "elevation": 225.9,
-            "mindate": "1945-07-01",
-            "maxdate": "1965-12-01",
-            "latitude": 44.85,
-            "name": "HUBBARD LAKE DAM, MI US",
-            "datacoverage": 0.9429,
-            "id": "COOP:203962",
-            "elevationUnit": "METERS",
-            "longitude": -83.6
-        },
-        {
             "elevation": 266.7,
             "mindate": "1978-05-01",
             "maxdate": "2012-12-01",
@@ -2632,37 +2149,6 @@
             "id": "COOP:203969",
             "elevationUnit": "METERS",
             "longitude": -84.2938
-        },
-        {
-            "elevation": 262.1,
-            "mindate": "1938-12-01",
-            "maxdate": "1954-08-01",
-            "latitude": 46.33333,
-            "name": "HULBERT 2 S, MI US",
-            "datacoverage": 0.947,
-            "id": "COOP:203982",
-            "elevationUnit": "METERS",
-            "longitude": -85.15
-        },
-        {
-            "elevation": 189,
-            "mindate": "1949-09-01",
-            "maxdate": "1960-10-01",
-            "latitude": 46.88333,
-            "name": "HURON MOUNTAIN, MI US",
-            "datacoverage": 0.992,
-            "id": "COOP:204006",
-            "elevationUnit": "METERS",
-            "longitude": -87.86667
-        },
-        {
-            "mindate": "1948-07-01",
-            "maxdate": "1958-05-01",
-            "latitude": 44.63333,
-            "name": "INTERLOCHEN STATE PA, MI US",
-            "datacoverage": 0.8975,
-            "id": "COOP:204065",
-            "longitude": -85.76667
         },
         {
             "elevation": 245.4,
@@ -2747,7 +2233,7 @@
             "maxdate": "2014-01-01",
             "latitude": 42.2884,
             "name": "JACKSON 3 N, MI US",
-            "datacoverage": 0.718,
+            "datacoverage": 0.0336,
             "id": "COOP:204155",
             "elevationUnit": "METERS",
             "longitude": -84.4236
@@ -2769,7 +2255,7 @@
             "maxdate": "1992-09-01",
             "latitude": 42.3,
             "name": "KALAMAZOO, MI US",
-            "datacoverage": 0.7693,
+            "datacoverage": 0.0505,
             "id": "COOP:204239",
             "elevationUnit": "METERS",
             "longitude": -85.61667
@@ -2874,17 +2360,6 @@
             "longitude": -85.5722
         },
         {
-            "elevation": 262.1,
-            "mindate": "1953-09-01",
-            "maxdate": "1959-12-01",
-            "latitude": 46.25,
-            "name": "KINCHELOE AFB, MI US",
-            "datacoverage": 1,
-            "id": "COOP:204406",
-            "elevationUnit": "METERS",
-            "longitude": -84.46667
-        },
-        {
             "elevation": 215.8,
             "mindate": "2002-06-01",
             "maxdate": "2005-06-01",
@@ -2918,17 +2393,6 @@
             "longitude": -85.205
         },
         {
-            "elevation": 235,
-            "mindate": "1938-12-01",
-            "maxdate": "1967-02-01",
-            "latitude": 46.73333,
-            "name": "L ANSE 2 S, MI US",
-            "datacoverage": 0.9412,
-            "id": "COOP:204623",
-            "elevationUnit": "METERS",
-            "longitude": -88.45
-        },
-        {
             "elevation": 261.8,
             "mindate": "1948-01-01",
             "maxdate": "2015-11-01",
@@ -2941,7 +2405,7 @@
         },
         {
             "elevation": 249.9,
-            "mindate": "1948-07-01",
+            "mindate": "1948-08-01",
             "maxdate": "2015-11-01",
             "latitude": 43.0608,
             "name": "LAPEER WWTP, MI US",
@@ -2960,17 +2424,6 @@
             "id": "COOP:204659",
             "elevationUnit": "METERS",
             "longitude": -83.3605
-        },
-        {
-            "elevation": 253,
-            "mindate": "1931-01-01",
-            "maxdate": "1949-11-01",
-            "latitude": 43.03333,
-            "name": "LAPEER 2 SE, MI US",
-            "datacoverage": 0.9119,
-            "id": "COOP:204660",
-            "elevationUnit": "METERS",
-            "longitude": -83.28333
         },
         {
             "elevation": 271.3,
@@ -3028,17 +2481,6 @@
             "longitude": -82.5327
         },
         {
-            "elevation": 225.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1935-12-01",
-            "latitude": 44.48333,
-            "name": "LOUD DAM, MI US",
-            "datacoverage": 1,
-            "id": "COOP:204933",
-            "elevationUnit": "METERS",
-            "longitude": -83.8
-        },
-        {
             "elevation": 231.6,
             "mindate": "1978-05-01",
             "maxdate": "2009-06-01",
@@ -3077,21 +2519,10 @@
             "maxdate": "2011-04-01",
             "latitude": 43.96361,
             "name": "LUDINGTON AIRPORT, MI US",
-            "datacoverage": 0.7949,
+            "datacoverage": 0.0364,
             "id": "COOP:204959",
             "elevationUnit": "METERS",
             "longitude": -86.41639
-        },
-        {
-            "elevation": 278,
-            "mindate": "1951-05-01",
-            "maxdate": "1969-09-27",
-            "latitude": 44.38333,
-            "name": "LUPTON 4 S, MI US",
-            "datacoverage": 0.998,
-            "id": "COOP:204966",
-            "elevationUnit": "METERS",
-            "longitude": -84.05
         },
         {
             "elevation": 276.8,
@@ -3105,28 +2536,6 @@
             "longitude": -84.0232
         },
         {
-            "elevation": 313.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1953-08-01",
-            "latitude": 44.03333,
-            "name": "LUTHER, MI US",
-            "datacoverage": 0.3934,
-            "id": "COOP:204969",
-            "elevationUnit": "METERS",
-            "longitude": -85.68333
-        },
-        {
-            "elevation": 253,
-            "mindate": "1931-01-01",
-            "maxdate": "1938-11-01",
-            "latitude": 45.85,
-            "name": "MACKINAC ISLAND, MI US",
-            "datacoverage": 0.8317,
-            "id": "COOP:204997",
-            "elevationUnit": "METERS",
-            "longitude": -84.61667
-        },
-        {
             "elevation": 180.1,
             "mindate": "1931-01-01",
             "maxdate": "1972-12-01",
@@ -3136,17 +2545,6 @@
             "id": "COOP:205000",
             "elevationUnit": "METERS",
             "longitude": -84.73333
-        },
-        {
-            "elevation": 338.9,
-            "mindate": "1938-12-01",
-            "maxdate": "1953-09-01",
-            "latitude": 44.9,
-            "name": "MANCELONA, MI US",
-            "datacoverage": 0.9213,
-            "id": "COOP:205043",
-            "elevationUnit": "METERS",
-            "longitude": -85.08333
         },
         {
             "elevation": 294.1,
@@ -3248,26 +2646,6 @@
             "longitude": -84.9667
         },
         {
-            "elevation": 323.1,
-            "mindate": "1941-06-01",
-            "maxdate": "1953-12-01",
-            "latitude": 46.76667,
-            "name": "MASS, MI US",
-            "datacoverage": 0.7681,
-            "id": "COOP:205216",
-            "elevationUnit": "METERS",
-            "longitude": -89.08333
-        },
-        {
-            "mindate": "1938-12-01",
-            "maxdate": "1967-12-01",
-            "latitude": 43.35,
-            "name": "MC BRIDES, MI US",
-            "datacoverage": 0.5673,
-            "id": "COOP:205254",
-            "longitude": -85.05
-        },
-        {
             "elevation": 276.5,
             "mindate": "2006-11-01",
             "maxdate": "2010-06-01",
@@ -3310,17 +2688,6 @@
             "id": "COOP:205390",
             "elevationUnit": "METERS",
             "longitude": -83.2894
-        },
-        {
-            "elevation": 479.1,
-            "mindate": "1938-12-01",
-            "maxdate": "1949-10-01",
-            "latitude": 46.53333,
-            "name": "MICHIGAMME, MI US",
-            "datacoverage": 0.8701,
-            "id": "COOP:205403",
-            "elevationUnit": "METERS",
-            "longitude": -88.11667
         },
         {
             "elevation": 521.2,
@@ -3460,7 +2827,7 @@
             "maxdate": "1978-06-26",
             "latitude": 43.45,
             "name": "MONTAGUE 2 N, MI US",
-            "datacoverage": 0.6923,
+            "datacoverage": 0.0601,
             "id": "COOP:205569",
             "elevationUnit": "METERS",
             "longitude": -86.35
@@ -3486,17 +2853,6 @@
             "id": "COOP:205603",
             "elevationUnit": "METERS",
             "longitude": -84.2147
-        },
-        {
-            "elevation": 246.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1940-08-01",
-            "latitude": 41.71667,
-            "name": "MORENCI, MI US",
-            "datacoverage": 0.9999,
-            "id": "COOP:205604",
-            "elevationUnit": "METERS",
-            "longitude": -84.21667
         },
         {
             "elevation": 176.8,
@@ -3631,17 +2987,6 @@
             "longitude": -85.5089
         },
         {
-            "elevation": 244.1,
-            "mindate": "1948-05-01",
-            "maxdate": "1953-04-01",
-            "latitude": 46.35,
-            "name": "NEWBERRY CONS DEPART, MI US",
-            "datacoverage": 0.4334,
-            "id": "COOP:205811",
-            "elevationUnit": "METERS",
-            "longitude": -85.51667
-        },
-        {
             "elevation": 270.1,
             "mindate": "1931-01-01",
             "maxdate": "2015-11-01",
@@ -3653,17 +2998,6 @@
             "longitude": -85.5033
         },
         {
-            "elevation": 180.1,
-            "mindate": "1939-03-01",
-            "maxdate": "1947-09-01",
-            "latitude": 41.78333,
-            "name": "NEW BUFFALO, MI US",
-            "datacoverage": 0.9318,
-            "id": "COOP:205821",
-            "elevationUnit": "METERS",
-            "longitude": -86.75
-        },
-        {
             "elevation": 176.2,
             "mindate": "2004-09-01",
             "maxdate": "2015-11-01",
@@ -3673,15 +3007,6 @@
             "id": "COOP:205822",
             "elevationUnit": "METERS",
             "longitude": -83.28
-        },
-        {
-            "mindate": "1948-07-01",
-            "maxdate": "1955-09-01",
-            "latitude": 41.88333,
-            "name": "NEW TROY HIGH SCHOOL, MI US",
-            "datacoverage": 0.8718,
-            "id": "COOP:205874",
-            "longitude": -86.55
         },
         {
             "elevation": 198.1,
@@ -3704,17 +3029,6 @@
             "id": "COOP:205981",
             "elevationUnit": "METERS",
             "longitude": -84.76083
-        },
-        {
-            "elevation": 180.1,
-            "mindate": "1954-11-01",
-            "maxdate": "1965-07-01",
-            "latitude": 45.11667,
-            "name": "NORTH MANITOU ISLAND 2, MI US",
-            "datacoverage": 0.9846,
-            "id": "COOP:205991",
-            "elevationUnit": "METERS",
-            "longitude": -85.98333
         },
         {
             "elevation": 221,
@@ -3827,17 +3141,6 @@
             "longitude": -84.2233
         },
         {
-            "elevation": 271,
-            "mindate": "1931-01-01",
-            "maxdate": "1955-06-01",
-            "latitude": 45.18333,
-            "name": "ONAWAY 12 S, MI US",
-            "datacoverage": 0.9594,
-            "id": "COOP:206189",
-            "elevationUnit": "METERS",
-            "longitude": -84.2
-        },
-        {
             "elevation": 310.9,
             "mindate": "2010-08-01",
             "maxdate": "2012-12-01",
@@ -3865,7 +3168,7 @@
             "maxdate": "2014-01-01",
             "latitude": 46.8559,
             "name": "ONTONAGON, MI US",
-            "datacoverage": 0.8117,
+            "datacoverage": 0.0402,
             "id": "COOP:206215",
             "elevationUnit": "METERS",
             "longitude": -89.3124
@@ -3891,17 +3194,6 @@
             "id": "COOP:206228",
             "elevationUnit": "METERS",
             "longitude": -89.4833
-        },
-        {
-            "elevation": 192,
-            "mindate": "1931-01-01",
-            "maxdate": "1938-12-01",
-            "latitude": 44.43333,
-            "name": "OSCODA NEAR, MI US",
-            "datacoverage": 0.9896,
-            "id": "COOP:206255",
-            "elevationUnit": "METERS",
-            "longitude": -83.45
         },
         {
             "elevation": 259.1,
@@ -3948,17 +3240,6 @@
             "longitude": -83.2569
         },
         {
-            "elevation": 371.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1952-06-01",
-            "latitude": 47.03333,
-            "name": "PAINESDALE, MI US",
-            "datacoverage": 0.8257,
-            "id": "COOP:206327",
-            "elevationUnit": "METERS",
-            "longitude": -88.66667
-        },
-        {
             "elevation": 416.7,
             "mindate": "2013-01-01",
             "maxdate": "2015-11-01",
@@ -3968,17 +3249,6 @@
             "id": "COOP:206398",
             "elevationUnit": "METERS",
             "longitude": -89.1794
-        },
-        {
-            "elevation": 214.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1965-07-01",
-            "latitude": 42.21667,
-            "name": "PAW PAW, MI US",
-            "datacoverage": 0.9639,
-            "id": "COOP:206404",
-            "elevationUnit": "METERS",
-            "longitude": -85.9
         },
         {
             "elevation": 214.9,
@@ -4069,28 +3339,6 @@
             "longitude": -85.6106
         },
         {
-            "elevation": 435.9,
-            "mindate": "1951-08-01",
-            "maxdate": "1953-07-01",
-            "latitude": 44.46667,
-            "name": "PIONEER, MI US",
-            "datacoverage": 0.9993,
-            "id": "COOP:206590",
-            "elevationUnit": "METERS",
-            "longitude": -85.13333
-        },
-        {
-            "elevation": 220.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1938-12-01",
-            "latitude": 42.43333,
-            "name": "PLAINWELL DAM, MI US",
-            "datacoverage": 1,
-            "id": "COOP:206608",
-            "elevationUnit": "METERS",
-            "longitude": -85.63333
-        },
-        {
             "elevation": 271.3,
             "mindate": "1931-01-01",
             "maxdate": "2015-11-01",
@@ -4157,17 +3405,6 @@
             "longitude": -84.2922
         },
         {
-            "elevation": 337.1,
-            "mindate": "1948-07-01",
-            "maxdate": "1949-06-30",
-            "latitude": 46.2863,
-            "name": "GWINN 1 W, MI US",
-            "datacoverage": 0.7078,
-            "id": "COOP:206744",
-            "elevationUnit": "METERS",
-            "longitude": -87.4511
-        },
-        {
             "elevation": 349,
             "mindate": "2015-08-01",
             "maxdate": "2015-11-01",
@@ -4177,17 +3414,6 @@
             "id": "COOP:206780",
             "elevationUnit": "METERS",
             "longitude": -88.5795
-        },
-        {
-            "elevation": 214,
-            "mindate": "1948-05-01",
-            "maxdate": "1953-04-01",
-            "latitude": 46.38333,
-            "name": "RACO US FOREST, MI US",
-            "datacoverage": 0.4834,
-            "id": "COOP:206800",
-            "elevationUnit": "METERS",
-            "longitude": -84.75
         },
         {
             "elevation": 182.3,
@@ -4210,17 +3436,6 @@
             "id": "COOP:206884",
             "elevationUnit": "METERS",
             "longitude": -85.4968
-        },
-        {
-            "elevation": 264.9,
-            "mindate": "1952-09-01",
-            "maxdate": "1957-08-01",
-            "latitude": 46.16667,
-            "name": "REXTON, MI US",
-            "datacoverage": 1,
-            "id": "COOP:206968",
-            "elevationUnit": "METERS",
-            "longitude": -85.25
         },
         {
             "elevation": 233.2,
@@ -4265,17 +3480,6 @@
             "id": "COOP:207089",
             "elevationUnit": "METERS",
             "longitude": -83.83333
-        },
-        {
-            "elevation": 309.4,
-            "mindate": "1950-09-01",
-            "maxdate": "1953-01-01",
-            "latitude": 45.4,
-            "name": "ROGERS CITY 5 W, MI US",
-            "datacoverage": 0.8952,
-            "id": "COOP:207091",
-            "elevationUnit": "METERS",
-            "longitude": -83.91667
         },
         {
             "elevation": 187.5,
@@ -4334,25 +3538,14 @@
         },
         {
             "elevation": 345,
-            "mindate": "1931-04-01",
+            "mindate": "1948-07-01",
             "maxdate": "1989-04-01",
             "latitude": 44.5,
             "name": "ROSCOMMON, MI US",
-            "datacoverage": 0.8427,
+            "datacoverage": 0.0503,
             "id": "COOP:207122",
             "elevationUnit": "METERS",
             "longitude": -84.6
-        },
-        {
-            "elevation": 305.1,
-            "mindate": "1951-05-01",
-            "maxdate": "1969-09-27",
-            "latitude": 44.43333,
-            "name": "ROSE CITY, MI US",
-            "datacoverage": 0.9947,
-            "id": "COOP:207134",
-            "elevationUnit": "METERS",
-            "longitude": -84.11667
         },
         {
             "elevation": 213.7,
@@ -4364,17 +3557,6 @@
             "id": "COOP:207180",
             "elevationUnit": "METERS",
             "longitude": -82.608
-        },
-        {
-            "elevation": 189,
-            "mindate": "1938-12-01",
-            "maxdate": "1953-08-01",
-            "latitude": 46.23333,
-            "name": "RUDYARD, MI US",
-            "datacoverage": 0.8756,
-            "id": "COOP:207187",
-            "elevationUnit": "METERS",
-            "longitude": -84.6
         },
         {
             "elevation": 203.3,
@@ -4476,17 +3658,6 @@
             "longitude": -84.17417
         },
         {
-            "elevation": 202.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1946-12-01",
-            "latitude": 45.88333,
-            "name": "ST IGNACE, MI US",
-            "datacoverage": 1,
-            "id": "COOP:207271",
-            "elevationUnit": "METERS",
-            "longitude": -84.73333
-        },
-        {
             "elevation": 181.4,
             "mindate": "1973-12-01",
             "maxdate": "2009-09-01",
@@ -4586,17 +3757,6 @@
             "longitude": -82.8191
         },
         {
-            "elevation": 195.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1939-06-01",
-            "latitude": 42.9,
-            "name": "SARANAC, MI US",
-            "datacoverage": 1,
-            "id": "COOP:207360",
-            "elevationUnit": "METERS",
-            "longitude": -85.2
-        },
-        {
             "elevation": 192,
             "mindate": "1998-05-01",
             "maxdate": "2015-11-01",
@@ -4641,17 +3801,6 @@
             "longitude": -86.2453
         },
         {
-            "elevation": 312.4,
-            "mindate": "1948-06-01",
-            "maxdate": "1951-09-01",
-            "latitude": 43.88333,
-            "name": "SEARS 2 S, MI US",
-            "datacoverage": 0.7253,
-            "id": "COOP:207413",
-            "elevationUnit": "METERS",
-            "longitude": -85.18333
-        },
-        {
             "elevation": 178,
             "mindate": "1941-02-01",
             "maxdate": "2012-12-01",
@@ -4661,28 +3810,6 @@
             "id": "COOP:207419",
             "elevationUnit": "METERS",
             "longitude": -83.45917
-        },
-        {
-            "elevation": 185.9,
-            "mindate": "1948-07-01",
-            "maxdate": "1964-11-28",
-            "latitude": 43.71667,
-            "name": "SEBEWAING, MI US",
-            "datacoverage": 0.6154,
-            "id": "COOP:207424",
-            "elevationUnit": "METERS",
-            "longitude": -83.45
-        },
-        {
-            "elevation": 228.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1938-12-01",
-            "latitude": 44.03333,
-            "name": "SECORD DAM, MI US",
-            "datacoverage": 1,
-            "id": "COOP:207427",
-            "elevationUnit": "METERS",
-            "longitude": -84.36667
         },
         {
             "elevation": 216.4,
@@ -4705,17 +3832,6 @@
             "id": "COOP:207521",
             "elevationUnit": "METERS",
             "longitude": -83.0808
-        },
-        {
-            "elevation": 420.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1940-10-01",
-            "latitude": 46.48333,
-            "name": "SIDNAW, MI US",
-            "datacoverage": 0.9914,
-            "id": "COOP:207559",
-            "elevationUnit": "METERS",
-            "longitude": -88.71667
         },
         {
             "elevation": 262.1,
@@ -4806,17 +3922,6 @@
             "longitude": -85.0922
         },
         {
-            "elevation": 253,
-            "mindate": "1931-01-01",
-            "maxdate": "1938-09-01",
-            "latitude": 43.63333,
-            "name": "STANWOOD, MI US",
-            "datacoverage": 1,
-            "id": "COOP:207834",
-            "elevationUnit": "METERS",
-            "longitude": -85.5
-        },
-        {
             "elevation": 210.3,
             "mindate": "1938-12-01",
             "maxdate": "2008-10-01",
@@ -4848,17 +3953,6 @@
             "id": "COOP:207891",
             "elevationUnit": "METERS",
             "longitude": -86.5222
-        },
-        {
-            "elevation": 262.1,
-            "mindate": "1938-12-01",
-            "maxdate": "1968-10-01",
-            "latitude": 45.01667,
-            "name": "SUTTONS BAY 4 NW, MI US",
-            "datacoverage": 0.9804,
-            "id": "COOP:208032",
-            "elevationUnit": "METERS",
-            "longitude": -85.7
         },
         {
             "elevation": 182,
@@ -4982,17 +4076,6 @@
             "longitude": -85.0311
         },
         {
-            "elevation": 214,
-            "mindate": "1931-01-01",
-            "maxdate": "1935-12-01",
-            "latitude": 42.53333,
-            "name": "TROWBRIDGE DAM, MI US",
-            "datacoverage": 1,
-            "id": "COOP:208296",
-            "elevationUnit": "METERS",
-            "longitude": -85.86667
-        },
-        {
             "elevation": 367.6,
             "mindate": "2008-08-01",
             "maxdate": "2012-12-01",
@@ -5013,15 +4096,6 @@
             "id": "COOP:208367",
             "elevationUnit": "METERS",
             "longitude": -83.475
-        },
-        {
-            "mindate": "1945-07-01",
-            "maxdate": "1952-08-01",
-            "latitude": 45.01667,
-            "name": "UPPER SOUTH DAM, MI US",
-            "datacoverage": 0.8135,
-            "id": "COOP:208391",
-            "longitude": -83.81667
         },
         {
             "elevation": 275.8,
@@ -5084,7 +4158,7 @@
             "maxdate": "2008-04-01",
             "latitude": 46.47917,
             "name": "WAKEFIELD, MI US",
-            "datacoverage": 0.4616,
+            "datacoverage": 0.0389,
             "id": "COOP:208559",
             "elevationUnit": "METERS",
             "longitude": -89.93222
@@ -5134,15 +4208,6 @@
             "longitude": -89.4085
         },
         {
-            "mindate": "1948-12-01",
-            "maxdate": "1950-07-01",
-            "latitude": 46.53333,
-            "name": "WATTON 1 E, MI US",
-            "datacoverage": 0.4005,
-            "id": "COOP:208703",
-            "longitude": -88.58333
-        },
-        {
             "elevation": 424.9,
             "mindate": "2005-07-01",
             "maxdate": "2015-11-01",
@@ -5152,28 +4217,6 @@
             "id": "COOP:208706",
             "elevationUnit": "METERS",
             "longitude": -88.64243
-        },
-        {
-            "elevation": 192,
-            "mindate": "1931-01-01",
-            "maxdate": "1956-06-01",
-            "latitude": 42.26667,
-            "name": "WAYNE, MI US",
-            "datacoverage": 0.9674,
-            "id": "COOP:208725",
-            "elevationUnit": "METERS",
-            "longitude": -83.35
-        },
-        {
-            "elevation": 200.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1939-06-01",
-            "latitude": 42.95,
-            "name": "WEBBER DAM, MI US",
-            "datacoverage": 1,
-            "id": "COOP:208748",
-            "elevationUnit": "METERS",
-            "longitude": -84.95
         },
         {
             "elevation": 198.1,
@@ -5275,17 +4318,6 @@
             "longitude": -85.65
         },
         {
-            "elevation": 271,
-            "mindate": "1946-12-01",
-            "maxdate": "1953-08-01",
-            "latitude": 46.75,
-            "name": "WHITE PINE MINE, MI US",
-            "datacoverage": 0.7653,
-            "id": "COOP:208955",
-            "elevationUnit": "METERS",
-            "longitude": -89.56667
-        },
-        {
             "elevation": 276.1,
             "mindate": "2007-09-01",
             "maxdate": "2015-11-01",
@@ -5317,26 +4349,6 @@
             "id": "COOP:209014",
             "elevationUnit": "METERS",
             "longitude": -83.58333
-        },
-        {
-            "mindate": "1949-10-01",
-            "maxdate": "1950-05-01",
-            "latitude": 46.88333,
-            "name": "WINONA 3 NE, MI US",
-            "datacoverage": 0.8768,
-            "id": "COOP:209065",
-            "longitude": -88.85
-        },
-        {
-            "elevation": 235,
-            "mindate": "1931-01-01",
-            "maxdate": "1949-06-01",
-            "latitude": 45.28333,
-            "name": "WOLVERINE STATE FORE, MI US",
-            "datacoverage": 0.9687,
-            "id": "COOP:209105",
-            "elevationUnit": "METERS",
-            "longitude": -84.61667
         },
         {
             "elevation": 176.8,
@@ -5381,28 +4393,6 @@
             "id": "COOP:471139",
             "elevationUnit": "METERS",
             "longitude": -88.21667
-        },
-        {
-            "elevation": 522.1,
-            "mindate": "1941-12-01",
-            "maxdate": "1954-09-01",
-            "latitude": 46.16667,
-            "name": "LAND O LAKES, MI US",
-            "datacoverage": 0.6819,
-            "id": "COOP:474555",
-            "elevationUnit": "METERS",
-            "longitude": -89.21667
-        },
-        {
-            "elevation": 193,
-            "mindate": "1889-03-01",
-            "maxdate": "1933-12-31",
-            "latitude": 46.5,
-            "name": "SAULT STE M FORESTRY, MI US",
-            "datacoverage": 0.4256,
-            "id": "GHCND:CA006057595",
-            "elevationUnit": "METERS",
-            "longitude": -84.3667
         },
         {
             "elevation": 201.8,
@@ -10980,6 +9970,1040 @@
             "id": "GHCND:US1MIOW0043",
             "elevationUnit": "METERS",
             "longitude": -86.213164
+        },
+        {
+            "elevation": 189.6,
+            "mindate": "2016-03-01",
+            "maxdate": "2020-05-15",
+            "latitude": 42.7706909179688,
+            "name": "HOLLAND 3.0 W, MI US",
+            "datacoverage": 1,
+            "id": "GHCND:US1MIOW0044",
+            "elevationUnit": "METERS",
+            "longitude": -86.1620559692383
+        },
+        {
+            "elevation": 184.1,
+            "mindate": "2017-05-02",
+            "maxdate": "2019-10-04",
+            "latitude": 43.0454978942871,
+            "name": "GRAND HAVEN 1.4 ESE, MI US",
+            "datacoverage": 0.1208,
+            "id": "GHCND:US1MIOW0045",
+            "elevationUnit": "METERS",
+            "longitude": -86.1992797851563
+        },
+        {
+            "elevation": 189.6,
+            "mindate": "2015-11-14",
+            "maxdate": "2020-05-17",
+            "latitude": 42.8217,
+            "name": "HOLLAND 4.2 NW, MI US",
+            "datacoverage": 0.9512,
+            "id": "GHCND:US1MIOW0049",
+            "elevationUnit": "METERS",
+            "longitude": -86.14896
+        },
+        {
+            "elevation": 200.9,
+            "mindate": "2018-11-11",
+            "maxdate": "2020-05-17",
+            "latitude": 42.971005,
+            "name": "ALLENDALE 1.7 SE, MI US",
+            "datacoverage": 0.8718,
+            "id": "GHCND:US1MIOW0051",
+            "elevationUnit": "METERS",
+            "longitude": -85.9254
+        },
+        {
+            "elevation": 183.5,
+            "mindate": "2014-05-01",
+            "maxdate": "2020-05-17",
+            "latitude": 45.4174,
+            "name": "ROGERS CITY 0.2 WSW, MI US",
+            "datacoverage": 1,
+            "id": "GHCND:US1MIPI0001",
+            "elevationUnit": "METERS",
+            "longitude": -83.8106
+        },
+        {
+            "elevation": 346.3,
+            "mindate": "2008-11-01",
+            "maxdate": "2019-09-03",
+            "latitude": 44.354296,
+            "name": "HOUGHTON LAKE 4.9 NE, MI US",
+            "datacoverage": 1,
+            "id": "GHCND:US1MIRS0001",
+            "elevationUnit": "METERS",
+            "longitude": -84.683218
+        },
+        {
+            "elevation": 364.8,
+            "mindate": "2008-08-01",
+            "maxdate": "2010-08-28",
+            "latitude": 44.348913,
+            "name": "ST. HELEN 1.0 SSW, MI US",
+            "datacoverage": 0.6799,
+            "id": "GHCND:US1MIRS0002",
+            "elevationUnit": "METERS",
+            "longitude": -84.423916
+        },
+        {
+            "elevation": 367.6,
+            "mindate": "2009-03-01",
+            "maxdate": "2020-05-17",
+            "latitude": 44.30331,
+            "name": "HOUGHTON LAKE 0.7 SSE, MI US",
+            "datacoverage": 0.541,
+            "id": "GHCND:US1MIRS0003",
+            "elevationUnit": "METERS",
+            "longitude": -84.7597
+        },
+        {
+            "elevation": 361.8,
+            "mindate": "2009-06-01",
+            "maxdate": "2014-10-30",
+            "latitude": 44.4515762,
+            "name": "ROSCOMMON 4.7 SW, MI US",
+            "datacoverage": 0.9973,
+            "id": "GHCND:US1MIRS0004",
+            "elevationUnit": "METERS",
+            "longitude": -84.6672015
+        },
+        {
+            "elevation": 353.6,
+            "mindate": "2009-05-01",
+            "maxdate": "2011-09-30",
+            "latitude": 44.4644,
+            "name": "ROSCOMMON 4.6 WSW, MI US",
+            "datacoverage": 0.6894,
+            "id": "GHCND:US1MIRS0005",
+            "elevationUnit": "METERS",
+            "longitude": -84.6736
+        },
+        {
+            "elevation": 192.9,
+            "mindate": "2008-08-01",
+            "maxdate": "2011-11-30",
+            "latitude": 42.8365,
+            "name": "ST. CLAIR 4.8 W, MI US",
+            "datacoverage": 1,
+            "id": "GHCND:US1MISC0001",
+            "elevationUnit": "METERS",
+            "longitude": -82.5873
+        },
+        {
+            "elevation": 186.2,
+            "mindate": "2009-12-01",
+            "maxdate": "2020-05-16",
+            "latitude": 42.996173,
+            "name": "PORT HURON 1.6 W, MI US",
+            "datacoverage": 1,
+            "id": "GHCND:US1MISC0003",
+            "elevationUnit": "METERS",
+            "longitude": -82.464307
+        },
+        {
+            "elevation": 186.8,
+            "mindate": "2012-03-01",
+            "maxdate": "2013-01-27",
+            "latitude": 43.0037216842175,
+            "name": "PORT HURON 1.2 NW, MI US",
+            "datacoverage": 0.998,
+            "id": "GHCND:US1MISC0005",
+            "elevationUnit": "METERS",
+            "longitude": -82.4523101001978
+        },
+        {
+            "elevation": 184.1,
+            "mindate": "2012-08-01",
+            "maxdate": "2015-12-10",
+            "latitude": 42.966773,
+            "name": "PORT HURON 2.0 SSW, MI US",
+            "datacoverage": 0.9268,
+            "id": "GHCND:US1MISC0007",
+            "elevationUnit": "METERS",
+            "longitude": -82.450284
+        },
+        {
+            "elevation": 177.1,
+            "mindate": "2013-06-01",
+            "maxdate": "2017-03-03",
+            "latitude": 42.618391,
+            "name": "ALGONAC 0.4 SW, MI US",
+            "datacoverage": 0.9117,
+            "id": "GHCND:US1MISC0008",
+            "elevationUnit": "METERS",
+            "longitude": -82.5401129
+        },
+        {
+            "elevation": 185.3,
+            "mindate": "2015-05-13",
+            "maxdate": "2019-10-03",
+            "latitude": 42.9623747617006,
+            "name": "PORT HURON 2.2 S, MI US",
+            "datacoverage": 0.1688,
+            "id": "GHCND:US1MISC0011",
+            "elevationUnit": "METERS",
+            "longitude": -82.4291894584894
+        },
+        {
+            "elevation": 189.9,
+            "mindate": "2018-12-21",
+            "maxdate": "2020-05-16",
+            "latitude": 42.981609,
+            "name": "PORT HURON 2.8 WSW, MI US",
+            "datacoverage": 0.3899,
+            "id": "GHCND:US1MISC0014",
+            "elevationUnit": "METERS",
+            "longitude": -82.485512
+        },
+        {
+            "elevation": 200.6,
+            "mindate": "1998-06-01",
+            "maxdate": "2014-01-06",
+            "latitude": 43.2291,
+            "name": "BIRCH RUN 2.6 ESE, MI US",
+            "datacoverage": 0.998,
+            "id": "GHCND:US1MISG0004",
+            "elevationUnit": "METERS",
+            "longitude": -83.74696
+        },
+        {
+            "elevation": 198.1,
+            "mindate": "2008-08-01",
+            "maxdate": "2011-07-18",
+            "latitude": 43.524732,
+            "name": "FREELAND 0.7 ENE, MI US",
+            "datacoverage": 0.8339,
+            "id": "GHCND:US1MISG0005",
+            "elevationUnit": "METERS",
+            "longitude": -84.104243
+        },
+        {
+            "elevation": 180.1,
+            "mindate": "2009-07-01",
+            "maxdate": "2014-07-30",
+            "latitude": 43.378889,
+            "name": "SAGINAW 2.8 S, MI US",
+            "datacoverage": 0.5737,
+            "id": "GHCND:US1MISG0010",
+            "elevationUnit": "METERS",
+            "longitude": -83.940278
+        },
+        {
+            "elevation": 185.6,
+            "mindate": "1998-06-17",
+            "maxdate": "2019-11-07",
+            "latitude": 43.45566,
+            "name": "SAGINAW 3.0 NW, MI US",
+            "datacoverage": 0.9998,
+            "id": "GHCND:US1MISG0011",
+            "elevationUnit": "METERS",
+            "longitude": -83.98455
+        },
+        {
+            "elevation": 185,
+            "mindate": "2012-03-01",
+            "maxdate": "2019-06-10",
+            "latitude": 43.4461250305176,
+            "name": "SAGINAW 2.4 NW, MI US",
+            "datacoverage": 0.9956,
+            "id": "GHCND:US1MISG0013",
+            "elevationUnit": "METERS",
+            "longitude": -83.9798355102539
+        },
+        {
+            "elevation": 186.2,
+            "mindate": "2017-04-25",
+            "maxdate": "2018-11-08",
+            "latitude": 43.262294,
+            "name": "BRANT 0.2 N, MI US",
+            "datacoverage": 0.5737,
+            "id": "GHCND:US1MISG0015",
+            "elevationUnit": "METERS",
+            "longitude": -84.228856
+        },
+        {
+            "elevation": 186.8,
+            "mindate": "2018-05-18",
+            "maxdate": "2020-05-17",
+            "latitude": 43.422715,
+            "name": "SAGINAW 6.4 W, MI US",
+            "datacoverage": 0.8454,
+            "id": "GHCND:US1MISG0017",
+            "elevationUnit": "METERS",
+            "longitude": -84.077575
+        },
+        {
+            "elevation": 248.4,
+            "mindate": "2010-11-01",
+            "maxdate": "2012-07-03",
+            "latitude": 41.7778,
+            "name": "WHITE PIGEON 3.4 ESE, MI US",
+            "datacoverage": 1,
+            "id": "GHCND:US1MISJ0002",
+            "elevationUnit": "METERS",
+            "longitude": -85.5833
+        },
+        {
+            "elevation": 265.8,
+            "mindate": "2011-12-01",
+            "maxdate": "2013-10-23",
+            "latitude": 41.780734,
+            "name": "STURGIS 4.5 WSW, MI US",
+            "datacoverage": 0.7816,
+            "id": "GHCND:US1MISJ0003",
+            "elevationUnit": "METERS",
+            "longitude": -85.504405
+        },
+        {
+            "elevation": 245.7,
+            "mindate": "2012-07-01",
+            "maxdate": "2020-05-16",
+            "latitude": 41.839744,
+            "name": "CONSTANTINE 1.9 E, MI US",
+            "datacoverage": 1,
+            "id": "GHCND:US1MISJ0004",
+            "elevationUnit": "METERS",
+            "longitude": -85.627908
+        },
+        {
+            "elevation": 245.1,
+            "mindate": "2008-08-01",
+            "maxdate": "2015-10-13",
+            "latitude": 43.206959,
+            "name": "BROWN CITY 0.7 ESE, MI US",
+            "datacoverage": 0.6207,
+            "id": "GHCND:US1MISN0001",
+            "elevationUnit": "METERS",
+            "longitude": -82.976599
+        },
+        {
+            "elevation": 204.8,
+            "mindate": "2012-12-01",
+            "maxdate": "2014-11-13",
+            "latitude": 43.2102288,
+            "name": "LEXINGTON 4.1 S, MI US",
+            "datacoverage": 1,
+            "id": "GHCND:US1MISN0003",
+            "elevationUnit": "METERS",
+            "longitude": -82.54696
+        },
+        {
+            "elevation": 239.9,
+            "mindate": "2008-07-01",
+            "maxdate": "2013-03-15",
+            "latitude": 42.956041,
+            "name": "OWOSSO 4.6 SW, MI US",
+            "datacoverage": 0.6842,
+            "id": "GHCND:US1MISW0001",
+            "elevationUnit": "METERS",
+            "longitude": -84.248723
+        },
+        {
+            "elevation": 259.1,
+            "mindate": "2008-07-01",
+            "maxdate": "2009-06-01",
+            "latitude": 42.833579,
+            "name": "LAINGSBURG 3.9 S, MI US",
+            "datacoverage": 0.9994,
+            "id": "GHCND:US1MISW0002",
+            "elevationUnit": "METERS",
+            "longitude": -84.354208
+        },
+        {
+            "elevation": 249.9,
+            "mindate": "2009-11-01",
+            "maxdate": "2020-05-16",
+            "latitude": 42.9299547,
+            "name": "DURAND 6.2 WNW, MI US",
+            "datacoverage": 1,
+            "id": "GHCND:US1MISW0005",
+            "elevationUnit": "METERS",
+            "longitude": -84.1046428
+        },
+        {
+            "elevation": 184.1,
+            "mindate": "2014-05-01",
+            "maxdate": "2018-05-06",
+            "latitude": 43.55711,
+            "name": "FAIRGROVE 3.1 NW, MI US",
+            "datacoverage": 0.5876,
+            "id": "GHCND:US1MITS0005",
+            "elevationUnit": "METERS",
+            "longitude": -83.58228
+        },
+        {
+            "elevation": 202.7,
+            "mindate": "2009-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 42.40925586,
+            "name": "GRAND JUNCTION 1.3 ENE, MI US",
+            "datacoverage": 0.9774,
+            "id": "GHCND:US1MIVB0002",
+            "elevationUnit": "METERS",
+            "longitude": -86.04813018
+        },
+        {
+            "elevation": 216.1,
+            "mindate": "2010-03-01",
+            "maxdate": "2020-05-17",
+            "latitude": 42.265824,
+            "name": "PAW PAW 3.6 NNE, MI US",
+            "datacoverage": 0.9995,
+            "id": "GHCND:US1MIVB0004",
+            "elevationUnit": "METERS",
+            "longitude": -85.861936
+        },
+        {
+            "elevation": 210,
+            "mindate": "2010-04-01",
+            "maxdate": "2011-09-21",
+            "latitude": 42.375558,
+            "name": "GRAND JUNCTION 2.9 SSW, MI US",
+            "datacoverage": 0.6665,
+            "id": "GHCND:US1MIVB0005",
+            "elevationUnit": "METERS",
+            "longitude": -86.091491
+        },
+        {
+            "elevation": 203,
+            "mindate": "2014-05-27",
+            "maxdate": "2020-05-17",
+            "latitude": 42.424964,
+            "name": "GRAND JUNCTION 1.4 NW, MI US",
+            "datacoverage": 0.4481,
+            "id": "GHCND:US1MIVB0006",
+            "elevationUnit": "METERS",
+            "longitude": -86.079324
+        },
+        {
+            "elevation": 274,
+            "mindate": "2016-07-07",
+            "maxdate": "2018-11-08",
+            "latitude": 42.1437301635742,
+            "name": "LAWTON 1.6 S, MI US",
+            "datacoverage": 0.4035,
+            "id": "GHCND:US1MIVB0007",
+            "elevationUnit": "METERS",
+            "longitude": -85.8522567749023
+        },
+        {
+            "elevation": 240.2,
+            "mindate": "2013-12-07",
+            "maxdate": "2020-05-17",
+            "latitude": 42.131799,
+            "name": "DECATUR 7.0 WNW, MI US",
+            "datacoverage": 0.6187,
+            "id": "GHCND:US1MIVB0008",
+            "elevationUnit": "METERS",
+            "longitude": -86.107326
+        },
+        {
+            "elevation": 225.6,
+            "mindate": "2017-04-01",
+            "maxdate": "2017-10-30",
+            "latitude": 42.24852,
+            "name": "PAW PAW 2.6 NE, MI US",
+            "datacoverage": 1,
+            "id": "GHCND:US1MIVB0009",
+            "elevationUnit": "METERS",
+            "longitude": -85.86056
+        },
+        {
+            "elevation": 197.2,
+            "mindate": "2017-04-03",
+            "maxdate": "2020-05-16",
+            "latitude": 42.365131,
+            "name": "SOUTH HAVEN 2.5 SSE, MI US",
+            "datacoverage": 0.998,
+            "id": "GHCND:US1MIVB0010",
+            "elevationUnit": "METERS",
+            "longitude": -86.262667
+        },
+        {
+            "elevation": 227.7,
+            "mindate": "2018-03-25",
+            "maxdate": "2020-05-16",
+            "latitude": 42.215832,
+            "name": "PAW PAW 0.7 ESE, MI US",
+            "datacoverage": 0.8916,
+            "id": "GHCND:US1MIVB0012",
+            "elevationUnit": "METERS",
+            "longitude": -85.877419
+        },
+        {
+            "elevation": 231.6,
+            "mindate": "2018-03-27",
+            "maxdate": "2020-05-17",
+            "latitude": 42.23743,
+            "name": "PAW PAW 2.0 NE, MI US",
+            "datacoverage": 0.9617,
+            "id": "GHCND:US1MIVB0013",
+            "elevationUnit": "METERS",
+            "longitude": -85.861711
+        },
+        {
+            "elevation": 240.8,
+            "mindate": "2008-06-01",
+            "maxdate": "2012-03-25",
+            "latitude": 42.156817,
+            "name": "MILAN 5.1 N, MI US",
+            "datacoverage": 0.9947,
+            "id": "GHCND:US1MIWS0001",
+            "elevationUnit": "METERS",
+            "longitude": -83.670058
+        },
+        {
+            "elevation": 266.4,
+            "mindate": "2008-07-01",
+            "maxdate": "2020-05-16",
+            "latitude": 42.382785,
+            "name": "PLYMOUTH 5.4 W, MI US",
+            "datacoverage": 0.9999,
+            "id": "GHCND:US1MIWS0003",
+            "elevationUnit": "METERS",
+            "longitude": -83.571244
+        },
+        {
+            "elevation": 249.9,
+            "mindate": "2008-08-01",
+            "maxdate": "2020-05-16",
+            "latitude": 42.2436,
+            "name": "ANN ARBOR 3.0 SE, MI US",
+            "datacoverage": 0.8805,
+            "id": "GHCND:US1MIWS0005",
+            "elevationUnit": "METERS",
+            "longitude": -83.692
+        },
+        {
+            "elevation": 298.1,
+            "mindate": "2008-09-01",
+            "maxdate": "2012-07-09",
+            "latitude": 42.293461,
+            "name": "ANN ARBOR 2.4 WNW, MI US",
+            "datacoverage": 1,
+            "id": "GHCND:US1MIWS0006",
+            "elevationUnit": "METERS",
+            "longitude": -83.769877
+        },
+        {
+            "elevation": 251.5,
+            "mindate": "2008-08-01",
+            "maxdate": "2020-05-17",
+            "latitude": 42.239144,
+            "name": "ANN ARBOR 3.1 SE, MI US",
+            "datacoverage": 1,
+            "id": "GHCND:US1MIWS0007",
+            "elevationUnit": "METERS",
+            "longitude": -83.69582
+        },
+        {
+            "elevation": 255.4,
+            "mindate": "2008-09-01",
+            "maxdate": "2010-03-27",
+            "latitude": 42.203803,
+            "name": "ANN ARBOR 5.1 SSW, MI US",
+            "datacoverage": 1,
+            "id": "GHCND:US1MIWS0010",
+            "elevationUnit": "METERS",
+            "longitude": -83.754922
+        },
+        {
+            "elevation": 275.5,
+            "mindate": "2008-08-01",
+            "maxdate": "2020-05-17",
+            "latitude": 42.283233,
+            "name": "ANN ARBOR 2.1 WNW, MI US",
+            "datacoverage": 1,
+            "id": "GHCND:US1MIWS0011",
+            "elevationUnit": "METERS",
+            "longitude": -83.771503
+        },
+        {
+            "elevation": 252.1,
+            "mindate": "2008-09-01",
+            "maxdate": "2010-12-01",
+            "latitude": 42.231639,
+            "name": "YPSILANTI 2.5 WSW, MI US",
+            "datacoverage": 0.7502,
+            "id": "GHCND:US1MIWS0014",
+            "elevationUnit": "METERS",
+            "longitude": -83.666552
+        },
+        {
+            "elevation": 274,
+            "mindate": "2008-09-01",
+            "maxdate": "2010-08-22",
+            "latitude": 42.286541,
+            "name": "ANN ARBOR 2.1 WNW, MI US",
+            "datacoverage": 1,
+            "id": "GHCND:US1MIWS0015",
+            "elevationUnit": "METERS",
+            "longitude": -83.769909
+        },
+        {
+            "elevation": 245.1,
+            "mindate": "2008-09-01",
+            "maxdate": "2012-02-07",
+            "latitude": 42.297286,
+            "name": "ANN ARBOR 1.5 N, MI US",
+            "datacoverage": 0.8819,
+            "id": "GHCND:US1MIWS0016",
+            "elevationUnit": "METERS",
+            "longitude": -83.731525
+        },
+        {
+            "elevation": 233.2,
+            "mindate": "2010-06-01",
+            "maxdate": "2018-09-04",
+            "latitude": 42.252142,
+            "name": "YPSILANTI 1.1 ENE, MI US",
+            "datacoverage": 1,
+            "id": "GHCND:US1MIWS0018",
+            "elevationUnit": "METERS",
+            "longitude": -83.602779
+        },
+        {
+            "elevation": 257.3,
+            "mindate": "2012-10-01",
+            "maxdate": "2015-03-03",
+            "latitude": 42.29982,
+            "name": "ANN ARBOR 1.7 NNW, MI US",
+            "datacoverage": 1,
+            "id": "GHCND:US1MIWS0020",
+            "elevationUnit": "METERS",
+            "longitude": -83.739201
+        },
+        {
+            "elevation": 236.2,
+            "mindate": "2010-06-01",
+            "maxdate": "2011-09-27",
+            "latitude": 42.1617,
+            "name": "SALINE 1.2 SE, MI US",
+            "datacoverage": 1,
+            "id": "GHCND:US1MIWS0021",
+            "elevationUnit": "METERS",
+            "longitude": -83.7669
+        },
+        {
+            "elevation": 292.6,
+            "mindate": "2012-01-01",
+            "maxdate": "2012-05-01",
+            "latitude": 42.335026,
+            "name": "ANN ARBOR 4.1 N, MI US",
+            "datacoverage": 1,
+            "id": "GHCND:US1MIWS0023",
+            "elevationUnit": "METERS",
+            "longitude": -83.725735
+        },
+        {
+            "elevation": 277.4,
+            "mindate": "2012-05-01",
+            "maxdate": "2020-04-08",
+            "latitude": 42.31025,
+            "name": "ANN ARBOR 2.6 NNE, MI US",
+            "datacoverage": 0.8508,
+            "id": "GHCND:US1MIWS0024",
+            "elevationUnit": "METERS",
+            "longitude": -83.713693
+        },
+        {
+            "elevation": 249.9,
+            "mindate": "2009-11-01",
+            "maxdate": "2020-05-16",
+            "latitude": 42.12618,
+            "name": "SALINE 3.8 SSW, MI US",
+            "datacoverage": 0.8854,
+            "id": "GHCND:US1MIWS0025",
+            "elevationUnit": "METERS",
+            "longitude": -83.81094
+        },
+        {
+            "elevation": 256.6,
+            "mindate": "2012-06-01",
+            "maxdate": "2017-11-09",
+            "latitude": 42.3142,
+            "name": "ANN ARBOR 3.5 NW, MI US",
+            "datacoverage": 0.9989,
+            "id": "GHCND:US1MIWS0027",
+            "elevationUnit": "METERS",
+            "longitude": -83.7752
+        },
+        {
+            "elevation": 274,
+            "mindate": "2012-08-01",
+            "maxdate": "2020-05-17",
+            "latitude": 42.333667755127,
+            "name": "DEXTER 0.3 ENE, MI US",
+            "datacoverage": 1,
+            "id": "GHCND:US1MIWS0028",
+            "elevationUnit": "METERS",
+            "longitude": -83.875129699707
+        },
+        {
+            "elevation": 285.6,
+            "mindate": "2013-04-01",
+            "maxdate": "2020-05-17",
+            "latitude": 42.304488,
+            "name": "DEXTER 2.2 SE, MI US",
+            "datacoverage": 0.9998,
+            "id": "GHCND:US1MIWS0031",
+            "elevationUnit": "METERS",
+            "longitude": -83.855344
+        },
+        {
+            "elevation": 254.2,
+            "mindate": "2013-06-01",
+            "maxdate": "2013-11-25",
+            "latitude": 42.325602,
+            "name": "ANN ARBOR 6.5 ENE, MI US",
+            "datacoverage": 0.998,
+            "id": "GHCND:US1MIWS0032",
+            "elevationUnit": "METERS",
+            "longitude": -83.622179
+        },
+        {
+            "elevation": 216.1,
+            "mindate": "2014-11-01",
+            "maxdate": "2016-06-22",
+            "latitude": 42.179573,
+            "name": "YPSILANTI 4.5 S, MI US",
+            "datacoverage": 1,
+            "id": "GHCND:US1MIWS0036",
+            "elevationUnit": "METERS",
+            "longitude": -83.610512
+        },
+        {
+            "elevation": 276.8,
+            "mindate": "2015-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 42.382058,
+            "name": "PLYMOUTH 6.3 W, MI US",
+            "datacoverage": 1,
+            "id": "GHCND:US1MIWS0037",
+            "elevationUnit": "METERS",
+            "longitude": -83.589714
+        },
+        {
+            "elevation": 297.8,
+            "mindate": "2015-07-01",
+            "maxdate": "2017-06-15",
+            "latitude": 42.333363,
+            "name": "CHELSEA 2.4 WNW, MI US",
+            "datacoverage": 0.998,
+            "id": "GHCND:US1MIWS0038",
+            "elevationUnit": "METERS",
+            "longitude": -84.061825
+        },
+        {
+            "elevation": 261.8,
+            "mindate": "2015-11-29",
+            "maxdate": "2020-05-14",
+            "latitude": 42.3404,
+            "name": "DEXTER 0.9 NW, MI US",
+            "datacoverage": 0.8453,
+            "id": "GHCND:US1MIWS0039",
+            "elevationUnit": "METERS",
+            "longitude": -83.8916
+        },
+        {
+            "elevation": 273.7,
+            "mindate": "2016-05-13",
+            "maxdate": "2020-05-17",
+            "latitude": 42.2639,
+            "name": "ANN ARBOR 7.1 W, MI US",
+            "datacoverage": 0.8854,
+            "id": "GHCND:US1MIWS0041",
+            "elevationUnit": "METERS",
+            "longitude": -83.8694
+        },
+        {
+            "elevation": 278.6,
+            "mindate": "2016-06-16",
+            "maxdate": "2020-05-16",
+            "latitude": 42.27814,
+            "name": "ANN ARBOR 4.5 W, MI US",
+            "datacoverage": 1,
+            "id": "GHCND:US1MIWS0042",
+            "elevationUnit": "METERS",
+            "longitude": -83.818844
+        },
+        {
+            "elevation": 238.4,
+            "mindate": "2016-11-20",
+            "maxdate": "2020-05-15",
+            "latitude": 42.15951,
+            "name": "SALINE 1.3 SSE, MI US",
+            "datacoverage": 0.1807,
+            "id": "GHCND:US1MIWS0044",
+            "elevationUnit": "METERS",
+            "longitude": -83.7657
+        },
+        {
+            "elevation": 298.7,
+            "mindate": "2018-04-24",
+            "maxdate": "2020-05-17",
+            "latitude": 42.2808479,
+            "name": "CHELSEA 2.4 S, MI US",
+            "datacoverage": 0.4997,
+            "id": "GHCND:US1MIWS0049",
+            "elevationUnit": "METERS",
+            "longitude": -84.03025
+        },
+        {
+            "elevation": 225.9,
+            "mindate": "2018-06-08",
+            "maxdate": "2020-05-16",
+            "latitude": 42.241871,
+            "name": "YPSILANTI 2.3 E, MI US",
+            "datacoverage": 0.666,
+            "id": "GHCND:US1MIWS0050",
+            "elevationUnit": "METERS",
+            "longitude": -83.576647
+        },
+        {
+            "elevation": 243.2,
+            "mindate": "2018-07-01",
+            "maxdate": "2020-05-17",
+            "latitude": 42.1389363,
+            "name": "SALINE 2.7 SSW, MI US",
+            "datacoverage": 0.7216,
+            "id": "GHCND:US1MIWS0051",
+            "elevationUnit": "METERS",
+            "longitude": -83.7970346
+        },
+        {
+            "elevation": 389.5,
+            "mindate": "2008-07-01",
+            "maxdate": "2013-04-24",
+            "latitude": 44.2861,
+            "name": "CADILLAC 4.0 NE, MI US",
+            "datacoverage": 0.5174,
+            "id": "GHCND:US1MIWX0001",
+            "elevationUnit": "METERS",
+            "longitude": -85.3557
+        },
+        {
+            "elevation": 207.3,
+            "mindate": "2008-07-01",
+            "maxdate": "2013-08-13",
+            "latitude": 42.330457,
+            "name": "CANTON 1.7 NNE, MI US",
+            "datacoverage": 0.9819,
+            "id": "GHCND:US1MIWY0005",
+            "elevationUnit": "METERS",
+            "longitude": -83.467843
+        },
+        {
+            "elevation": 183.2,
+            "mindate": "2008-07-01",
+            "maxdate": "2011-08-16",
+            "latitude": 42.314,
+            "name": "DEARBORN 1.6 W, MI US",
+            "datacoverage": 1,
+            "id": "GHCND:US1MIWY0006",
+            "elevationUnit": "METERS",
+            "longitude": -83.245
+        },
+        {
+            "elevation": 181.1,
+            "mindate": "1998-06-17",
+            "maxdate": "2020-05-15",
+            "latitude": 42.136495,
+            "name": "WOODHAVEN 0.9 WNW, MI US",
+            "datacoverage": 0.573,
+            "id": "GHCND:US1MIWY0011",
+            "elevationUnit": "METERS",
+            "longitude": -83.252854
+        },
+        {
+            "elevation": 199.6,
+            "mindate": "2008-08-01",
+            "maxdate": "2013-05-21",
+            "latitude": 42.17811,
+            "name": "BELLEVILLE 3.0 SE, MI US",
+            "datacoverage": 1,
+            "id": "GHCND:US1MIWY0013",
+            "elevationUnit": "METERS",
+            "longitude": -83.43507
+        },
+        {
+            "elevation": 199.9,
+            "mindate": "2008-08-01",
+            "maxdate": "2017-04-26",
+            "latitude": 42.383515,
+            "name": "LIVONIA 1.1 SSW, MI US",
+            "datacoverage": 0.8479,
+            "id": "GHCND:US1MIWY0014",
+            "elevationUnit": "METERS",
+            "longitude": -83.377868
+        },
+        {
+            "elevation": 193.9,
+            "mindate": "2008-09-01",
+            "maxdate": "2017-12-14",
+            "latitude": 42.36002,
+            "name": "LIVONIA 2.8 SSE, MI US",
+            "datacoverage": 0.8893,
+            "id": "GHCND:US1MIWY0016",
+            "elevationUnit": "METERS",
+            "longitude": -83.353324
+        },
+        {
+            "elevation": 208.2,
+            "mindate": "2009-02-01",
+            "maxdate": "2020-05-02",
+            "latitude": 42.406371,
+            "name": "LIVONIA 2.2 WNW, MI US",
+            "datacoverage": 0.8261,
+            "id": "GHCND:US1MIWY0020",
+            "elevationUnit": "METERS",
+            "longitude": -83.413232
+        },
+        {
+            "elevation": 268.5,
+            "mindate": "2009-05-01",
+            "maxdate": "2010-07-18",
+            "latitude": 42.423934,
+            "name": "NORTHVILLE 2.0 ESE, MI US",
+            "datacoverage": 0.8658,
+            "id": "GHCND:US1MIWY0021",
+            "elevationUnit": "METERS",
+            "longitude": -83.452873
+        },
+        {
+            "elevation": 190.2,
+            "mindate": "2009-08-01",
+            "maxdate": "2017-08-29",
+            "latitude": 42.1950019,
+            "name": "TAYLOR 2.8 SW, MI US",
+            "datacoverage": 0.7992,
+            "id": "GHCND:US1MIWY0022",
+            "elevationUnit": "METERS",
+            "longitude": -83.3035003
+        },
+        {
+            "elevation": 210.6,
+            "mindate": "2010-04-01",
+            "maxdate": "2017-12-08",
+            "latitude": 42.3155,
+            "name": "CANTON 0.7 NW, MI US",
+            "datacoverage": 0.7498,
+            "id": "GHCND:US1MIWY0031",
+            "elevationUnit": "METERS",
+            "longitude": -83.4925
+        },
+        {
+            "elevation": 207.9,
+            "mindate": "2010-08-01",
+            "maxdate": "2014-08-20",
+            "latitude": 42.235438,
+            "name": "BELLEVILLE 2.3 NNE, MI US",
+            "datacoverage": 0.8476,
+            "id": "GHCND:US1MIWY0032",
+            "elevationUnit": "METERS",
+            "longitude": -83.472417
+        },
+        {
+            "elevation": 210.9,
+            "mindate": "2010-04-01",
+            "maxdate": "2020-05-17",
+            "latitude": 42.431002,
+            "name": "LIVONIA 2.3 NNW, MI US",
+            "datacoverage": 0.9998,
+            "id": "GHCND:US1MIWY0033",
+            "elevationUnit": "METERS",
+            "longitude": -83.381911
+        },
+        {
+            "elevation": 194.8,
+            "mindate": "2011-01-01",
+            "maxdate": "2012-04-23",
+            "latitude": 42.332596,
+            "name": "GARDEN CITY 0.8 NW, MI US",
+            "datacoverage": 1,
+            "id": "GHCND:US1MIWY0037",
+            "elevationUnit": "METERS",
+            "longitude": -83.353615
+        },
+        {
+            "elevation": 180.1,
+            "mindate": "1998-06-01",
+            "maxdate": "2020-05-15",
+            "latitude": 42.319995,
+            "name": "DETROIT 4.4 S, MI US",
+            "datacoverage": 0.3679,
+            "id": "GHCND:US1MIWY0038",
+            "elevationUnit": "METERS",
+            "longitude": -83.09005
+        },
+        {
+            "elevation": 267,
+            "mindate": "2011-08-01",
+            "maxdate": "2013-07-24",
+            "latitude": 42.423192,
+            "name": "NORTHVILLE 1.5 SW, MI US",
+            "datacoverage": 0.9993,
+            "id": "GHCND:US1MIWY0039",
+            "elevationUnit": "METERS",
+            "longitude": -83.511038
+        },
+        {
+            "elevation": 185.6,
+            "mindate": "2012-08-01",
+            "maxdate": "2020-05-17",
+            "latitude": 42.3419570922852,
+            "name": "DEARBORN HEIGHTS 1.8 NW, MI US",
+            "datacoverage": 1,
+            "id": "GHCND:US1MIWY0043",
+            "elevationUnit": "METERS",
+            "longitude": -83.3020706176758
+        },
+        {
+            "elevation": 201.5,
+            "mindate": "2013-05-01",
+            "maxdate": "2020-05-17",
+            "latitude": 42.182333,
+            "name": "BELLEVILLE 2.8 ESE, MI US",
+            "datacoverage": 0.9994,
+            "id": "GHCND:US1MIWY0047",
+            "elevationUnit": "METERS",
+            "longitude": -83.436367
+        },
+        {
+            "elevation": 195.7,
+            "mindate": "2014-04-01",
+            "maxdate": "2020-05-17",
+            "latitude": 42.417046,
+            "name": "LIVONIA 2.0 NE, MI US",
+            "datacoverage": 0.9993,
+            "id": "GHCND:US1MIWY0052",
+            "elevationUnit": "METERS",
+            "longitude": -83.343613
+        },
+        {
+            "elevation": 232.9,
+            "mindate": "2014-08-01",
+            "maxdate": "2015-01-04",
+            "latitude": 42.38031,
+            "name": "PLYMOUTH 0.7 NNW, MI US",
+            "datacoverage": 0.998,
+            "id": "GHCND:US1MIWY0062",
+            "elevationUnit": "METERS",
+            "longitude": -83.474189
+        },
+        {
+            "elevation": 185.3,
+            "mindate": "2015-02-01",
+            "maxdate": "2015-06-09",
+            "latitude": 42.298546,
+            "name": "DEARBORN 1.7 WSW, MI US",
+            "datacoverage": 1,
+            "id": "GHCND:US1MIWY0064",
+            "elevationUnit": "METERS",
+            "longitude": -83.242499
         }
     ]
 }

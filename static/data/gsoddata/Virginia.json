@@ -2,18 +2,18 @@
     "metadata": {
         "resultset": {
             "offset": 1,
-            "count": 1462,
+            "count": 1162,
             "limit": 1000
         }
     },
     "results": [
         {
             "elevation": 609.9,
-            "mindate": "1948-01-01",
+            "mindate": "1950-10-01",
             "maxdate": "1981-03-01",
             "latitude": 36.66667,
             "name": "ABINGDON 7 WSW, VA US",
-            "datacoverage": 0.9534,
+            "datacoverage": 0.0738,
             "id": "COOP:440013",
             "elevationUnit": "METERS",
             "longitude": -82.1
@@ -28,17 +28,6 @@
             "id": "COOP:440021",
             "elevationUnit": "METERS",
             "longitude": -81.9646
-        },
-        {
-            "elevation": 381,
-            "mindate": "1940-10-01",
-            "maxdate": "1957-09-01",
-            "latitude": 38.03333,
-            "name": "AFTON BOXWOOD GARDENS, VA US",
-            "datacoverage": 0.8432,
-            "id": "COOP:440055",
-            "elevationUnit": "METERS",
-            "longitude": -78.83333
         },
         {
             "elevation": 114.6,
@@ -61,17 +50,6 @@
             "id": "COOP:440090",
             "elevationUnit": "METERS",
             "longitude": -77.08333
-        },
-        {
-            "elevation": 6.1,
-            "mindate": "1893-04-01",
-            "maxdate": "1962-10-01",
-            "latitude": 38.81667,
-            "name": "ALEXANDRIA POTOMAC Y, VA US",
-            "datacoverage": 0.3617,
-            "id": "COOP:440097",
-            "elevationUnit": "METERS",
-            "longitude": -77.05
         },
         {
             "elevation": 554.7,
@@ -129,17 +107,6 @@
             "longitude": -78.01667
         },
         {
-            "elevation": 95.1,
-            "mindate": "1947-01-01",
-            "maxdate": "1952-03-01",
-            "latitude": 38.81667,
-            "name": "ANNANDALE, VA US",
-            "datacoverage": 0.8891,
-            "id": "COOP:440216",
-            "elevationUnit": "METERS",
-            "longitude": -77.2
-        },
-        {
             "elevation": 259.1,
             "mindate": "1937-11-01",
             "maxdate": "2015-11-01",
@@ -162,28 +129,6 @@
             "longitude": -77.4833
         },
         {
-            "elevation": 519.1,
-            "mindate": "1939-12-01",
-            "maxdate": "1963-03-01",
-            "latitude": 38.11667,
-            "name": "AUGUSTA SPRINGS 1 NE, VA US",
-            "datacoverage": 0.6858,
-            "id": "COOP:440356",
-            "elevationUnit": "METERS",
-            "longitude": -79.3
-        },
-        {
-            "elevation": 473,
-            "mindate": "1950-08-01",
-            "maxdate": "1951-07-01",
-            "latitude": 38.08333,
-            "name": "AUGUSTA SPRINGS 2 SW, VA US",
-            "datacoverage": 1,
-            "id": "COOP:440357",
-            "elevationUnit": "METERS",
-            "longitude": -79.35
-        },
-        {
             "elevation": 3,
             "mindate": "1953-12-01",
             "maxdate": "2007-05-01",
@@ -193,50 +138,6 @@
             "id": "COOP:440385",
             "elevationUnit": "METERS",
             "longitude": -75.9115
-        },
-        {
-            "elevation": 116.1,
-            "mindate": "1948-01-01",
-            "maxdate": "1949-04-01",
-            "latitude": 38.86667,
-            "name": "BACON NR FAIRFAX, VA US",
-            "datacoverage": 0.7878,
-            "id": "COOP:440390",
-            "elevationUnit": "METERS",
-            "longitude": -77.35
-        },
-        {
-            "elevation": 78.9,
-            "mindate": "1950-09-01",
-            "maxdate": "1951-12-01",
-            "latitude": 38.85,
-            "name": "BAILEYS CROSSROADS, VA US",
-            "datacoverage": 1,
-            "id": "COOP:440403",
-            "elevationUnit": "METERS",
-            "longitude": -77.13333
-        },
-        {
-            "elevation": 223.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1967-10-01",
-            "latitude": 37.61667,
-            "name": "BALCONY FALLS, VA US",
-            "datacoverage": 0.9774,
-            "id": "COOP:440411",
-            "elevationUnit": "METERS",
-            "longitude": -79.45
-        },
-        {
-            "elevation": 57.9,
-            "mindate": "1946-01-01",
-            "maxdate": "1950-08-01",
-            "latitude": 38.86667,
-            "name": "BARCROFT, VA US",
-            "datacoverage": 0.643,
-            "id": "COOP:440449",
-            "elevationUnit": "METERS",
-            "longitude": -77.1
         },
         {
             "elevation": 272.5,
@@ -272,17 +173,6 @@
             "longitude": -77.98333
         },
         {
-            "elevation": 961,
-            "mindate": "1948-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 36.66667,
-            "name": "BIG KNOB, VA US",
-            "datacoverage": 0.9826,
-            "id": "COOP:440712",
-            "elevationUnit": "METERS",
-            "longitude": -82.5
-        },
-        {
             "elevation": 1079,
             "mindate": "1935-03-01",
             "maxdate": "2011-12-01",
@@ -294,28 +184,6 @@
             "longitude": -78.4355
         },
         {
-            "elevation": 1007.1,
-            "mindate": "1948-01-01",
-            "maxdate": "1949-10-31",
-            "latitude": 38.5,
-            "name": "BIG MEADOWS 2, VA US",
-            "datacoverage": 0.7723,
-            "id": "COOP:440725",
-            "elevationUnit": "METERS",
-            "longitude": -78.41667
-        },
-        {
-            "elevation": 454.2,
-            "mindate": "1956-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 36.86667,
-            "name": "BIG STONE GAP, VA US",
-            "datacoverage": 0.9737,
-            "id": "COOP:440733",
-            "elevationUnit": "METERS",
-            "longitude": -82.76667
-        },
-        {
             "elevation": 446.8,
             "mindate": "1990-01-01",
             "maxdate": "2015-11-01",
@@ -325,17 +193,6 @@
             "id": "COOP:440735",
             "elevationUnit": "METERS",
             "longitude": -82.7998
-        },
-        {
-            "elevation": 662,
-            "mindate": "1931-01-01",
-            "maxdate": "1951-12-01",
-            "latitude": 37.25,
-            "name": "BLACKSBURG, VA US",
-            "datacoverage": 0.9762,
-            "id": "COOP:440765",
-            "elevationUnit": "METERS",
-            "longitude": -80.41667
         },
         {
             "elevation": 641,
@@ -393,17 +250,6 @@
             "longitude": -78.0981
         },
         {
-            "elevation": 70.1,
-            "mindate": "1950-04-01",
-            "maxdate": "1959-01-01",
-            "latitude": 38.05,
-            "name": "BOWLING GREEN, VA US",
-            "datacoverage": 0.9618,
-            "id": "COOP:440937",
-            "elevationUnit": "METERS",
-            "longitude": -77.35
-        },
-        {
             "elevation": 11.9,
             "mindate": "1954-03-01",
             "maxdate": "1978-12-01",
@@ -446,28 +292,6 @@
             "id": "COOP:440993",
             "elevationUnit": "METERS",
             "longitude": -78.2885
-        },
-        {
-            "elevation": 609.9,
-            "mindate": "1947-12-01",
-            "maxdate": "1969-06-01",
-            "latitude": 36.6,
-            "name": "BRISTOL, VA US",
-            "datacoverage": 0.8417,
-            "id": "COOP:441037",
-            "elevationUnit": "METERS",
-            "longitude": -82.16667
-        },
-        {
-            "elevation": 586.1,
-            "mindate": "1949-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 36.61667,
-            "name": "BRISTOL TVA, VA US",
-            "datacoverage": 0.9814,
-            "id": "COOP:441047",
-            "elevationUnit": "METERS",
-            "longitude": -82.16667
         },
         {
             "elevation": 124.4,
@@ -525,17 +349,6 @@
             "longitude": -79.3629
         },
         {
-            "elevation": 76.2,
-            "mindate": "1948-03-01",
-            "maxdate": "1951-11-25",
-            "latitude": 36.6002,
-            "name": "JOHN H KERR DAM, VA US",
-            "datacoverage": 0.852,
-            "id": "COOP:441180",
-            "elevationUnit": "METERS",
-            "longitude": -78.3011
-        },
-        {
             "elevation": 31.1,
             "mindate": "1971-01-01",
             "maxdate": "1971-12-01",
@@ -558,17 +371,6 @@
             "longitude": -81.33639
         },
         {
-            "elevation": 634,
-            "mindate": "1943-05-01",
-            "maxdate": "1967-07-01",
-            "latitude": 36.8,
-            "name": "BYLLESBY, VA US",
-            "datacoverage": 0.9209,
-            "id": "COOP:441255",
-            "elevationUnit": "METERS",
-            "longitude": -80.91667
-        },
-        {
             "elevation": 797.1,
             "mindate": "1967-05-01",
             "maxdate": "2005-08-01",
@@ -580,17 +382,6 @@
             "longitude": -80.93861
         },
         {
-            "elevation": 18,
-            "mindate": "1946-01-01",
-            "maxdate": "1950-03-01",
-            "latitude": 37.23333,
-            "name": "FORT LEE, VA US",
-            "datacoverage": 0.9027,
-            "id": "COOP:441316",
-            "elevationUnit": "METERS",
-            "longitude": -77.33333
-        },
-        {
             "elevation": 100.6,
             "mindate": "1972-12-01",
             "maxdate": "2015-11-01",
@@ -600,39 +391,6 @@
             "id": "COOP:441322",
             "elevationUnit": "METERS",
             "longitude": -77.9462
-        },
-        {
-            "elevation": 4.9,
-            "mindate": "1948-01-01",
-            "maxdate": "1970-08-01",
-            "latitude": 36.9257,
-            "name": "CAPE HENRY, VA US",
-            "datacoverage": 0.9485,
-            "id": "COOP:441362",
-            "elevationUnit": "METERS",
-            "longitude": -76.00803
-        },
-        {
-            "elevation": 14.9,
-            "mindate": "1939-07-01",
-            "maxdate": "1954-02-01",
-            "latitude": 36.73333,
-            "name": "CAPRON, VA US",
-            "datacoverage": 0.8125,
-            "id": "COOP:441375",
-            "elevationUnit": "METERS",
-            "longitude": -77.25
-        },
-        {
-            "elevation": 3,
-            "mindate": "1948-01-01",
-            "maxdate": "1950-03-01",
-            "latitude": 37.41667,
-            "name": "CARDINAL, VA US",
-            "datacoverage": 0.8156,
-            "id": "COOP:441383",
-            "elevationUnit": "METERS",
-            "longitude": -76.36667
         },
         {
             "elevation": 164.9,
@@ -655,17 +413,6 @@
             "id": "COOP:441471",
             "elevationUnit": "METERS",
             "longitude": -80.08333
-        },
-        {
-            "elevation": 98.1,
-            "mindate": "1948-01-01",
-            "maxdate": "1954-09-01",
-            "latitude": 38.88333,
-            "name": "CHANTILLY, VA US",
-            "datacoverage": 0.9369,
-            "id": "COOP:441570",
-            "elevationUnit": "METERS",
-            "longitude": -77.43333
         },
         {
             "elevation": 173.4,
@@ -723,17 +470,6 @@
             "longitude": -79.4102
         },
         {
-            "elevation": 259.1,
-            "mindate": "1948-01-01",
-            "maxdate": "1961-02-01",
-            "latitude": 36.85,
-            "name": "CHATHAM 2 N, VA US",
-            "datacoverage": 0.956,
-            "id": "COOP:441619",
-            "elevationUnit": "METERS",
-            "longitude": -79.4
-        },
-        {
             "elevation": 3,
             "mindate": "1936-10-01",
             "maxdate": "1976-11-01",
@@ -756,17 +492,6 @@
             "longitude": -81.68333
         },
         {
-            "elevation": 11.9,
-            "mindate": "1948-05-01",
-            "maxdate": "1959-03-01",
-            "latitude": 37.93333,
-            "name": "CHINCOTEAGUE NAS, VA US",
-            "datacoverage": 0.7065,
-            "id": "COOP:441683",
-            "elevationUnit": "METERS",
-            "longitude": -75.46667
-        },
-        {
             "elevation": 640.1,
             "mindate": "1995-08-01",
             "maxdate": "2015-11-01",
@@ -779,25 +504,14 @@
         },
         {
             "elevation": 451.1,
-            "mindate": "1948-02-01",
+            "mindate": "1948-05-07",
             "maxdate": "1973-01-01",
             "latitude": 38.23333,
             "name": "CHURCHVILLE, VA US",
-            "datacoverage": 0.9327,
+            "datacoverage": 0.0621,
             "id": "COOP:441708",
             "elevationUnit": "METERS",
             "longitude": -79.16667
-        },
-        {
-            "elevation": 67.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1962-12-01",
-            "latitude": 38.9,
-            "name": "CLARENDON LYON PARK, VA US",
-            "datacoverage": 0.9479,
-            "id": "COOP:441729",
-            "elevationUnit": "METERS",
-            "longitude": -77.08333
         },
         {
             "elevation": 100.6,
@@ -809,17 +523,6 @@
             "id": "COOP:441746",
             "elevationUnit": "METERS",
             "longitude": -78.5506
-        },
-        {
-            "elevation": 470,
-            "mindate": "1948-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 36.95,
-            "name": "CLEVELAND, VA US",
-            "datacoverage": 0.9475,
-            "id": "COOP:441776",
-            "elevationUnit": "METERS",
-            "longitude": -82.15
         },
         {
             "elevation": 426.7,
@@ -842,17 +545,6 @@
             "id": "COOP:441808",
             "elevationUnit": "METERS",
             "longitude": -82.31667
-        },
-        {
-            "elevation": 384,
-            "mindate": "1948-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 36.66667,
-            "name": "CLINCHPORT, VA US",
-            "datacoverage": 0.9534,
-            "id": "COOP:441816",
-            "elevationUnit": "METERS",
-            "longitude": -82.75
         },
         {
             "elevation": 477.3,
@@ -965,17 +657,6 @@
             "longitude": -79.3858
         },
         {
-            "elevation": 214,
-            "mindate": "1941-06-01",
-            "maxdate": "1961-01-01",
-            "latitude": 38.08333,
-            "name": "CROZET 2 N, VA US",
-            "datacoverage": 0.9616,
-            "id": "COOP:442138",
-            "elevationUnit": "METERS",
-            "longitude": -78.7
-        },
-        {
             "elevation": 106.7,
             "mindate": "1976-06-01",
             "maxdate": "2015-11-01",
@@ -1020,17 +701,6 @@
             "longitude": -78.25
         },
         {
-            "elevation": 6.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1961-05-01",
-            "latitude": 38.33333,
-            "name": "DAHLGREN WEAPONS LAB, VA US",
-            "datacoverage": 0.9672,
-            "id": "COOP:442195",
-            "elevationUnit": "METERS",
-            "longitude": -77.03333
-        },
-        {
             "elevation": 413.9,
             "mindate": "1931-01-01",
             "maxdate": "2015-11-01",
@@ -1051,17 +721,6 @@
             "id": "COOP:442216",
             "elevationUnit": "METERS",
             "longitude": -81.8
-        },
-        {
-            "elevation": 561.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1958-12-01",
-            "latitude": 36.98333,
-            "name": "DANTE, VA US",
-            "datacoverage": 0.9524,
-            "id": "COOP:442237",
-            "elevationUnit": "METERS",
-            "longitude": -82.28333
         },
         {
             "elevation": 119.5,
@@ -1086,23 +745,12 @@
             "longitude": -79.3351
         },
         {
-            "elevation": 458.1,
-            "mindate": "1949-10-01",
-            "maxdate": "1957-06-01",
-            "latitude": 37.08333,
-            "name": "DARWIN, VA US",
-            "datacoverage": 0.9357,
-            "id": "COOP:442264",
-            "elevationUnit": "METERS",
-            "longitude": -82.5
-        },
-        {
             "elevation": 488,
-            "mindate": "1941-01-01",
+            "mindate": "1957-08-01",
             "maxdate": "1986-07-01",
             "latitude": 37.11667,
             "name": "DAVENPORT 2 NE, VA US",
-            "datacoverage": 0.874,
+            "datacoverage": 0.0699,
             "id": "COOP:442269",
             "elevationUnit": "METERS",
             "longitude": -82.1
@@ -1120,25 +768,14 @@
         },
         {
             "elevation": 159.1,
-            "mindate": "1948-01-01",
+            "mindate": "1948-05-03",
             "maxdate": "1970-02-01",
             "latitude": 38.93333,
             "name": "DELAPLANE 1 NW, VA US",
-            "datacoverage": 0.7337,
+            "datacoverage": 0.0584,
             "id": "COOP:442326",
             "elevationUnit": "METERS",
             "longitude": -77.93333
-        },
-        {
-            "elevation": 18,
-            "mindate": "1959-03-01",
-            "maxdate": "1959-08-01",
-            "latitude": 37.03333,
-            "name": "DENDRON 1 SW, VA US",
-            "datacoverage": 0.8271,
-            "id": "COOP:442346",
-            "elevationUnit": "METERS",
-            "longitude": -76.95
         },
         {
             "elevation": 9.1,
@@ -1163,28 +800,6 @@
             "longitude": -77.2017
         },
         {
-            "elevation": 3,
-            "mindate": "1952-09-01",
-            "maxdate": "1953-12-01",
-            "latitude": 37.73333,
-            "name": "DITCHLEY 1 S, VA US",
-            "datacoverage": 1,
-            "id": "COOP:442410",
-            "elevationUnit": "METERS",
-            "longitude": -76.33333
-        },
-        {
-            "elevation": 116.1,
-            "mindate": "1954-01-01",
-            "maxdate": "1955-12-01",
-            "latitude": 38.98333,
-            "name": "DRANESVILLE, VA US",
-            "datacoverage": 0.7505,
-            "id": "COOP:442491",
-            "elevationUnit": "METERS",
-            "longitude": -77.35
-        },
-        {
             "elevation": 6.1,
             "mindate": "1941-06-01",
             "maxdate": "1986-09-01",
@@ -1194,28 +809,6 @@
             "id": "COOP:442504",
             "elevationUnit": "METERS",
             "longitude": -76.48333
-        },
-        {
-            "elevation": 595,
-            "mindate": "1948-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 36.96667,
-            "name": "DUNBAR, VA US",
-            "datacoverage": 0.9183,
-            "id": "COOP:442538",
-            "elevationUnit": "METERS",
-            "longitude": -82.75
-        },
-        {
-            "elevation": 762.9,
-            "mindate": "1948-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 36.83333,
-            "name": "DUNGANNON, VA US",
-            "datacoverage": 0.9475,
-            "id": "COOP:442548",
-            "elevationUnit": "METERS",
-            "longitude": -82.43333
         },
         {
             "elevation": 283.5,
@@ -1273,17 +866,6 @@
             "longitude": -77.76667
         },
         {
-            "elevation": 655.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1951-11-01",
-            "latitude": 36.76667,
-            "name": "EMORY, VA US",
-            "datacoverage": 0.9324,
-            "id": "COOP:442782",
-            "elevationUnit": "METERS",
-            "longitude": -81.83333
-        },
-        {
             "elevation": 30.5,
             "mindate": "1931-01-01",
             "maxdate": "2015-11-01",
@@ -1293,28 +875,6 @@
             "id": "COOP:442790",
             "elevationUnit": "METERS",
             "longitude": -77.5597
-        },
-        {
-            "elevation": 75.9,
-            "mindate": "1945-11-01",
-            "maxdate": "1957-05-01",
-            "latitude": 38.81667,
-            "name": "EPISCOPAL HIGH SCHOOL, VA US",
-            "datacoverage": 0.9282,
-            "id": "COOP:442809",
-            "elevationUnit": "METERS",
-            "longitude": -77.1
-        },
-        {
-            "elevation": 136.9,
-            "mindate": "1946-02-01",
-            "maxdate": "1963-12-01",
-            "latitude": 38.83333,
-            "name": "FAIRFAX, VA US",
-            "datacoverage": 0.9071,
-            "id": "COOP:442890",
-            "elevationUnit": "METERS",
-            "longitude": -77.31667
         },
         {
             "elevation": 98.1,
@@ -1339,17 +899,6 @@
             "longitude": -78.3864
         },
         {
-            "elevation": 232,
-            "mindate": "1948-01-01",
-            "maxdate": "1957-10-01",
-            "latitude": 36.71667,
-            "name": "FIELDALE, VA US",
-            "datacoverage": 0.667,
-            "id": "COOP:442983",
-            "elevationUnit": "METERS",
-            "longitude": -79.93333
-        },
-        {
             "elevation": 397.8,
             "mindate": "2003-12-01",
             "maxdate": "2007-08-01",
@@ -1372,28 +921,6 @@
             "longitude": -80.29083
         },
         {
-            "elevation": 793.1,
-            "mindate": "1949-11-01",
-            "maxdate": "1960-03-01",
-            "latitude": 36.91667,
-            "name": "FLOYD 2, VA US",
-            "datacoverage": 0.9042,
-            "id": "COOP:443072",
-            "elevationUnit": "METERS",
-            "longitude": -80.3
-        },
-        {
-            "elevation": 458.1,
-            "mindate": "1940-04-01",
-            "maxdate": "1949-09-01",
-            "latitude": 37.08333,
-            "name": "DARWIN, VA US",
-            "datacoverage": 0.7982,
-            "id": "COOP:443082",
-            "elevationUnit": "METERS",
-            "longitude": -82.5
-        },
-        {
             "elevation": 18,
             "mindate": "1950-04-01",
             "maxdate": "1970-12-01",
@@ -1414,17 +941,6 @@
             "id": "COOP:443192",
             "elevationUnit": "METERS",
             "longitude": -77.45
-        },
-        {
-            "elevation": 6.1,
-            "mindate": "1944-12-01",
-            "maxdate": "1969-09-01",
-            "latitude": 38.3,
-            "name": "FREDERICKSBURG EMBRY, VA US",
-            "datacoverage": 0.8967,
-            "id": "COOP:443197",
-            "elevationUnit": "METERS",
-            "longitude": -77.46667
         },
         {
             "elevation": 36.6,
@@ -1471,17 +987,6 @@
             "longitude": -78.1821
         },
         {
-            "elevation": 207.9,
-            "mindate": "1945-11-01",
-            "maxdate": "1956-06-01",
-            "latitude": 39,
-            "name": "FRONT ROYAL, VA US",
-            "datacoverage": 0.9612,
-            "id": "COOP:443231",
-            "elevationUnit": "METERS",
-            "longitude": -78.23333
-        },
-        {
             "elevation": 726.9,
             "mindate": "1940-04-01",
             "maxdate": "2015-11-01",
@@ -1491,17 +996,6 @@
             "id": "COOP:443267",
             "elevationUnit": "METERS",
             "longitude": -80.9139
-        },
-        {
-            "elevation": 769,
-            "mindate": "1951-07-01",
-            "maxdate": "1954-06-01",
-            "latitude": 36.63333,
-            "name": "GALAX 3 S, VA US",
-            "datacoverage": 0.9165,
-            "id": "COOP:443268",
-            "elevationUnit": "METERS",
-            "longitude": -80.93333
         },
         {
             "elevation": 713.5,
@@ -1548,28 +1042,6 @@
             "longitude": -80.8597
         },
         {
-            "elevation": 34.1,
-            "mindate": "1951-06-01",
-            "maxdate": "1952-12-01",
-            "latitude": 37.55,
-            "name": "GLENNS 1 S, VA US",
-            "datacoverage": 0.9971,
-            "id": "COOP:443407",
-            "elevationUnit": "METERS",
-            "longitude": -76.61667
-        },
-        {
-            "elevation": 135,
-            "mindate": "1938-03-01",
-            "maxdate": "1961-04-01",
-            "latitude": 38.06667,
-            "name": "GORDONSVILLE, VA US",
-            "datacoverage": 0.9711,
-            "id": "COOP:443462",
-            "elevationUnit": "METERS",
-            "longitude": -78.15
-        },
-        {
             "elevation": 140.2,
             "mindate": "1961-07-01",
             "maxdate": "2003-04-01",
@@ -1614,23 +1086,12 @@
             "longitude": -78.2786
         },
         {
-            "elevation": 98.1,
-            "mindate": "1945-08-01",
-            "maxdate": "1949-11-01",
-            "latitude": 38.85,
-            "name": "FALLS CHURCH 2 SW, VA US",
-            "datacoverage": 0.8652,
-            "id": "COOP:443583",
-            "elevationUnit": "METERS",
-            "longitude": -77.2
-        },
-        {
             "elevation": 777.8,
-            "mindate": "1948-01-01",
+            "mindate": "1949-01-01",
             "maxdate": "1981-03-01",
             "latitude": 36.86667,
             "name": "GROSECLOSE, VA US",
-            "datacoverage": 0.9066,
+            "datacoverage": 0.0678,
             "id": "COOP:443623",
             "elevationUnit": "METERS",
             "longitude": -81.35
@@ -1658,17 +1119,6 @@
             "longitude": -82.08849
         },
         {
-            "elevation": 110,
-            "mindate": "1931-01-01",
-            "maxdate": "1966-07-01",
-            "latitude": 36.78333,
-            "name": "HALIFAX 1 N, VA US",
-            "datacoverage": 0.9813,
-            "id": "COOP:443690",
-            "elevationUnit": "METERS",
-            "longitude": -78.91667
-        },
-        {
             "elevation": 153,
             "mindate": "1955-08-01",
             "maxdate": "1977-06-01",
@@ -1691,48 +1141,15 @@
             "longitude": -76.3366
         },
         {
-            "elevation": 458.1,
-            "mindate": "1940-04-01",
-            "maxdate": "1950-12-01",
-            "latitude": 37.21667,
-            "name": "HAYSI, VA US",
-            "datacoverage": 0.9456,
-            "id": "COOP:443862",
-            "elevationUnit": "METERS",
-            "longitude": -82.3
-        },
-        {
             "elevation": 420.9,
-            "mindate": "1951-01-01",
+            "mindate": "1957-07-01",
             "maxdate": "1971-08-31",
             "latitude": 37.2,
             "name": "HAYSI, VA US",
-            "datacoverage": 0.9106,
+            "datacoverage": 0.0648,
             "id": "COOP:443863",
             "elevationUnit": "METERS",
             "longitude": -82.28333
-        },
-        {
-            "elevation": 113.1,
-            "mindate": "1956-01-01",
-            "maxdate": "1959-09-01",
-            "latitude": 38.96667,
-            "name": "HERNDON, VA US",
-            "datacoverage": 0.7782,
-            "id": "COOP:443929",
-            "elevationUnit": "METERS",
-            "longitude": -77.38333
-        },
-        {
-            "elevation": 1266.1,
-            "mindate": "1948-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 36.9,
-            "name": "HIGH KNOB, VA US",
-            "datacoverage": 0.8481,
-            "id": "COOP:443959",
-            "elevationUnit": "METERS",
-            "longitude": -82.63333
         },
         {
             "elevation": 787.9,
@@ -1779,37 +1196,15 @@
             "longitude": -78.6406
         },
         {
-            "elevation": 777.8,
-            "mindate": "1948-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 36.81667,
-            "name": "HOLSTON, VA US",
-            "datacoverage": 0.9475,
-            "id": "COOP:444068",
-            "elevationUnit": "METERS",
-            "longitude": -82.1
-        },
-        {
             "elevation": 598,
-            "mindate": "1948-01-01",
+            "mindate": "1948-11-19",
             "maxdate": "1981-03-01",
             "latitude": 37.01667,
             "name": "HONAKER, VA US",
-            "datacoverage": 0.9534,
+            "datacoverage": 0.0679,
             "id": "COOP:444078",
             "elevationUnit": "METERS",
             "longitude": -82
-        },
-        {
-            "elevation": 670.9,
-            "mindate": "1948-03-01",
-            "maxdate": "1962-03-01",
-            "latitude": 37.05,
-            "name": "HONAKER 4 NW, VA US",
-            "datacoverage": 0.9467,
-            "id": "COOP:444083",
-            "elevationUnit": "METERS",
-            "longitude": -82.03333
         },
         {
             "elevation": 12.2,
@@ -1856,28 +1251,6 @@
             "longitude": -82.0561
         },
         {
-            "elevation": 302.1,
-            "mindate": "1948-01-01",
-            "maxdate": "1967-03-28",
-            "latitude": 37.41667,
-            "name": "HURLEY 1 SE, VA US",
-            "datacoverage": 0.956,
-            "id": "COOP:444185",
-            "elevationUnit": "METERS",
-            "longitude": -82.01667
-        },
-        {
-            "elevation": 772.1,
-            "mindate": "1948-01-01",
-            "maxdate": "1957-09-01",
-            "latitude": 36.6,
-            "name": "INDEPENDENCE, VA US",
-            "datacoverage": 0.8975,
-            "id": "COOP:444229",
-            "elevationUnit": "METERS",
-            "longitude": -81.11667
-        },
-        {
             "elevation": 796.1,
             "mindate": "1953-01-01",
             "maxdate": "1989-06-01",
@@ -1890,25 +1263,14 @@
         },
         {
             "elevation": 823,
-            "mindate": "1948-01-01",
+            "mindate": "1948-08-01",
             "maxdate": "1993-11-01",
             "latitude": 36.9,
             "name": "INDIAN VALLEY, VA US",
-            "datacoverage": 0.8497,
+            "datacoverage": 0.0517,
             "id": "COOP:444246",
             "elevationUnit": "METERS",
             "longitude": -80.56667
-        },
-        {
-            "elevation": 839.1,
-            "mindate": "1948-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 37.18333,
-            "name": "JEWELL RIDGE, VA US",
-            "datacoverage": 0.9475,
-            "id": "COOP:444404",
-            "elevationUnit": "METERS",
-            "longitude": -81.78333
         },
         {
             "elevation": 453.5,
@@ -1934,47 +1296,14 @@
         },
         {
             "elevation": 427,
-            "mindate": "1948-01-01",
-            "maxdate": "1950-07-31",
-            "latitude": 36.68333,
-            "name": "JONESVILLE, VA US",
-            "datacoverage": 0.6007,
-            "id": "COOP:444446",
-            "elevationUnit": "METERS",
-            "longitude": -83.1
-        },
-        {
-            "elevation": 420.9,
-            "mindate": "1948-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 36.66667,
-            "name": "JONESVILLE 2 SSE, VA US",
-            "datacoverage": 0.9475,
-            "id": "COOP:444448",
-            "elevationUnit": "METERS",
-            "longitude": -83.1
-        },
-        {
-            "elevation": 427,
-            "mindate": "1948-02-01",
+            "mindate": "1948-08-03",
             "maxdate": "1972-12-26",
             "latitude": 37.68333,
             "name": "JORDAN MINES 1 NE, VA US",
-            "datacoverage": 1,
+            "datacoverage": 0.0667,
             "id": "COOP:444452",
             "elevationUnit": "METERS",
             "longitude": -80.1
-        },
-        {
-            "elevation": 152.4,
-            "mindate": "1931-08-01",
-            "maxdate": "1944-12-01",
-            "latitude": 36.966667,
-            "name": "KENBRIDGE, VA US",
-            "datacoverage": 0.9376,
-            "id": "COOP:444531",
-            "elevationUnit": "METERS",
-            "longitude": -78.116667
         },
         {
             "elevation": 457.2,
@@ -2065,28 +1394,6 @@
             "longitude": -82.0384
         },
         {
-            "elevation": 153,
-            "mindate": "1941-01-01",
-            "maxdate": "1954-12-01",
-            "latitude": 37.53333,
-            "name": "LEE EXPERIMENTAL FOREST, VA US",
-            "datacoverage": 0.5536,
-            "id": "COOP:444802",
-            "elevationUnit": "METERS",
-            "longitude": -78.55
-        },
-        {
-            "elevation": 98.1,
-            "mindate": "1944-11-01",
-            "maxdate": "1950-05-01",
-            "latitude": 39.11667,
-            "name": "LEESBURG, VA US",
-            "datacoverage": 0.8364,
-            "id": "COOP:444817",
-            "elevationUnit": "METERS",
-            "longitude": -77.56667
-        },
-        {
             "elevation": 334.4,
             "mindate": "1931-01-01",
             "maxdate": "2015-11-01",
@@ -2120,17 +1427,6 @@
             "longitude": -78.0061
         },
         {
-            "elevation": 627.9,
-            "mindate": "1948-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 36.75,
-            "name": "LOVES MILL, VA US",
-            "datacoverage": 0.93,
-            "id": "COOP:445057",
-            "elevationUnit": "METERS",
-            "longitude": -81.68333
-        },
-        {
             "elevation": 426.7,
             "mindate": "1941-03-01",
             "maxdate": "2015-11-01",
@@ -2140,17 +1436,6 @@
             "id": "COOP:445096",
             "elevationUnit": "METERS",
             "longitude": -78.3727
-        },
-        {
-            "elevation": 170.7,
-            "mindate": "1948-08-01",
-            "maxdate": "1960-11-01",
-            "latitude": 37.42444,
-            "name": "LYNCHBURG 7 ST BRIDGE, VA US",
-            "datacoverage": 0.9324,
-            "id": "COOP:445115",
-            "elevationUnit": "METERS",
-            "longitude": -79.15889
         },
         {
             "elevation": 224.3,
@@ -2208,17 +1493,6 @@
             "longitude": -77.49263
         },
         {
-            "elevation": 52.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1950-03-01",
-            "latitude": 38.7,
-            "name": "MANASSAS 4 S, VA US",
-            "datacoverage": 0.9525,
-            "id": "COOP:445208",
-            "elevationUnit": "METERS",
-            "longitude": -77.43333
-        },
-        {
             "elevation": 100.9,
             "mindate": "1948-03-01",
             "maxdate": "1985-07-01",
@@ -2230,28 +1504,6 @@
             "longitude": -77.5
         },
         {
-            "elevation": 136.9,
-            "mindate": "1948-01-01",
-            "maxdate": "1949-04-01",
-            "latitude": 38.85,
-            "name": "MANION NR FAIRFAX, VA US",
-            "datacoverage": 0.7878,
-            "id": "COOP:445218",
-            "elevationUnit": "METERS",
-            "longitude": -77.35
-        },
-        {
-            "elevation": 670.9,
-            "mindate": "1948-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 36.85,
-            "name": "MARION, VA US",
-            "datacoverage": 0.9417,
-            "id": "COOP:445266",
-            "elevationUnit": "METERS",
-            "longitude": -81.51667
-        },
-        {
             "elevation": 640.1,
             "mindate": "1960-10-01",
             "maxdate": "1989-05-01",
@@ -2261,17 +1513,6 @@
             "id": "COOP:445271",
             "elevationUnit": "METERS",
             "longitude": -81.51667
-        },
-        {
-            "elevation": 177.1,
-            "mindate": "1944-11-01",
-            "maxdate": "1953-12-01",
-            "latitude": 38.86667,
-            "name": "MARSHALL, VA US",
-            "datacoverage": 0.9455,
-            "id": "COOP:445289",
-            "elevationUnit": "METERS",
-            "longitude": -77.88333
         },
         {
             "elevation": 231.6,
@@ -2319,11 +1560,11 @@
         },
         {
             "elevation": 331.9,
-            "mindate": "1940-01-01",
+            "mindate": "1948-05-02",
             "maxdate": "1984-01-01",
             "latitude": 38.35,
             "name": "MC GAHEYSVILLE 2 S, VA US",
-            "datacoverage": 0.9229,
+            "datacoverage": 0.0464,
             "id": "COOP:445423",
             "elevationUnit": "METERS",
             "longitude": -78.73333
@@ -2382,17 +1623,6 @@
             "id": "COOP:445646",
             "elevationUnit": "METERS",
             "longitude": -76.55
-        },
-        {
-            "elevation": 796.1,
-            "mindate": "1948-01-01",
-            "maxdate": "1957-12-01",
-            "latitude": 37.46667,
-            "name": "PEAKS OF OTTER, VA US",
-            "datacoverage": 0.9415,
-            "id": "COOP:445677",
-            "elevationUnit": "METERS",
-            "longitude": -79.6
         },
         {
             "elevation": 816.9,
@@ -2461,28 +1691,6 @@
             "longitude": -79.8871
         },
         {
-            "elevation": 1196,
-            "mindate": "1935-01-01",
-            "maxdate": "1948-05-01",
-            "latitude": 37.355403,
-            "name": "MOUNTAIN LAKE, VA US",
-            "datacoverage": 0.938,
-            "id": "COOP:445784",
-            "elevationUnit": "METERS",
-            "longitude": -80.537838
-        },
-        {
-            "elevation": 320,
-            "mindate": "1937-01-01",
-            "maxdate": "1951-09-01",
-            "latitude": 38.83333,
-            "name": "MOUNT JACKSON, VA US",
-            "datacoverage": 0.9325,
-            "id": "COOP:445822",
-            "elevationUnit": "METERS",
-            "longitude": -78.65
-        },
-        {
             "elevation": 1179.6,
             "mindate": "1972-01-01",
             "maxdate": "1998-01-01",
@@ -2547,17 +1755,6 @@
             "id": "COOP:445931",
             "elevationUnit": "METERS",
             "longitude": -75.86667
-        },
-        {
-            "elevation": 253,
-            "mindate": "1946-01-01",
-            "maxdate": "1962-06-01",
-            "latitude": 37.58333,
-            "name": "NATURAL BRIDGE STATION, VA US",
-            "datacoverage": 0.9548,
-            "id": "COOP:445941",
-            "elevationUnit": "METERS",
-            "longitude": -79.5
         },
         {
             "elevation": 14.9,
@@ -2637,17 +1834,6 @@
             "longitude": -76.1922
         },
         {
-            "elevation": 20.1,
-            "mindate": "1948-01-01",
-            "maxdate": "1965-09-01",
-            "latitude": 36.85,
-            "name": "NORFOLK WEATHER BUREAU CITY, VA US",
-            "datacoverage": 1,
-            "id": "COOP:446144",
-            "elevationUnit": "METERS",
-            "longitude": -76.28333
-        },
-        {
             "elevation": 3,
             "mindate": "2003-04-01",
             "maxdate": "2015-11-01",
@@ -2670,17 +1856,6 @@
             "longitude": -76.4414
         },
         {
-            "elevation": 531,
-            "mindate": "1949-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 36.61667,
-            "name": "NORTH BRISTOL SUB ST, VA US",
-            "datacoverage": 0.9311,
-            "id": "COOP:446169",
-            "elevationUnit": "METERS",
-            "longitude": -82.18333
-        },
-        {
             "elevation": 510.5,
             "mindate": "1970-01-01",
             "maxdate": "2015-11-01",
@@ -2693,11 +1868,11 @@
         },
         {
             "elevation": 209.1,
-            "mindate": "1937-11-01",
+            "mindate": "1971-06-01",
             "maxdate": "1992-04-01",
             "latitude": 37.95,
             "name": "NORTH GARDEN, VA US",
-            "datacoverage": 0.9069,
+            "datacoverage": 0.0336,
             "id": "COOP:446178",
             "elevationUnit": "METERS",
             "longitude": -78.63333
@@ -2712,39 +1887,6 @@
             "id": "COOP:446199",
             "elevationUnit": "METERS",
             "longitude": -79.26667
-        },
-        {
-            "elevation": 445,
-            "mindate": "1948-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 36.81667,
-            "name": "OLINGER, VA US",
-            "datacoverage": 0.93,
-            "id": "COOP:446345",
-            "elevationUnit": "METERS",
-            "longitude": -82.86667
-        },
-        {
-            "elevation": 11.9,
-            "mindate": "1931-01-01",
-            "maxdate": "1955-12-01",
-            "latitude": 37.68333,
-            "name": "ONLEY 1 S, VA US",
-            "datacoverage": 0.9801,
-            "id": "COOP:446362",
-            "elevationUnit": "METERS",
-            "longitude": -75.71667
-        },
-        {
-            "elevation": 156.1,
-            "mindate": "1931-05-01",
-            "maxdate": "1951-08-01",
-            "latitude": 38.28333,
-            "name": "ORANGE 3 N, VA US",
-            "datacoverage": 0.9752,
-            "id": "COOP:446383",
-            "elevationUnit": "METERS",
-            "longitude": -78.08333
         },
         {
             "elevation": 8.2,
@@ -2846,17 +1988,6 @@
             "longitude": -77.3925
         },
         {
-            "elevation": 253,
-            "mindate": "1948-04-01",
-            "maxdate": "1953-10-01",
-            "latitude": 36.78333,
-            "name": "PHILPOTT DAM, VA US",
-            "datacoverage": 0.8181,
-            "id": "COOP:446691",
-            "elevationUnit": "METERS",
-            "longitude": -80.03333
-        },
-        {
             "elevation": 342.3,
             "mindate": "1953-09-01",
             "maxdate": "2009-07-01",
@@ -2901,28 +2032,6 @@
             "longitude": -79
         },
         {
-            "elevation": 860.1,
-            "mindate": "1934-04-01",
-            "maxdate": "1949-06-01",
-            "latitude": 36.68333,
-            "name": "PINNACLES MEADOWS OF, VA US",
-            "datacoverage": 0.9727,
-            "id": "COOP:446750",
-            "elevationUnit": "METERS",
-            "longitude": -80.41667
-        },
-        {
-            "elevation": 1207.9,
-            "mindate": "1949-06-01",
-            "maxdate": "1950-12-01",
-            "latitude": 37.2,
-            "name": "POOR MOUNTAIN, VA US",
-            "datacoverage": 0.9463,
-            "id": "COOP:446838",
-            "elevationUnit": "METERS",
-            "longitude": -80.15
-        },
-        {
             "elevation": 121.9,
             "mindate": "1931-01-01",
             "maxdate": "2011-12-01",
@@ -2943,17 +2052,6 @@
             "id": "COOP:446955",
             "elevationUnit": "METERS",
             "longitude": -80.7842
-        },
-        {
-            "elevation": 668.1,
-            "mindate": "1946-01-01",
-            "maxdate": "1959-08-01",
-            "latitude": 37.08333,
-            "name": "PULASKI FAA AIRPORT, VA US",
-            "datacoverage": 0.9575,
-            "id": "COOP:446960",
-            "elevationUnit": "METERS",
-            "longitude": -80.78333
         },
         {
             "elevation": 3,
@@ -2978,17 +2076,6 @@
             "longitude": -80.5864
         },
         {
-            "elevation": 604.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1968-04-01",
-            "latitude": 37.1,
-            "name": "RADFORD 5 SW, VA US",
-            "datacoverage": 0.9644,
-            "id": "COOP:447004",
-            "elevationUnit": "METERS",
-            "longitude": -80.6
-        },
-        {
             "elevation": 107,
             "mindate": "1931-01-01",
             "maxdate": "1984-03-01",
@@ -3009,17 +2096,6 @@
             "id": "COOP:447033",
             "elevationUnit": "METERS",
             "longitude": -78.06667
-        },
-        {
-            "elevation": 85,
-            "mindate": "1948-12-01",
-            "maxdate": "1948-12-01",
-            "latitude": 38.53333,
-            "name": "REMINGTON, VA US",
-            "datacoverage": 0.9819,
-            "id": "COOP:447129",
-            "elevationUnit": "METERS",
-            "longitude": -77.81667
         },
         {
             "elevation": 85.3,
@@ -3055,17 +2131,6 @@
             "longitude": -81.7935
         },
         {
-            "elevation": 0,
-            "mindate": "1948-09-01",
-            "maxdate": "1948-09-01",
-            "latitude": 37.5333,
-            "name": "RICHMOND CITY LOCKS, VA US",
-            "datacoverage": 1,
-            "id": "COOP:447196",
-            "elevationUnit": "METERS",
-            "longitude": -77.4167
-        },
-        {
             "elevation": 50,
             "mindate": "1948-01-01",
             "maxdate": "2015-11-01",
@@ -3077,17 +2142,6 @@
             "longitude": -77.32344
         },
         {
-            "elevation": 49.4,
-            "mindate": "1948-01-01",
-            "maxdate": "1954-04-01",
-            "latitude": 37.53333,
-            "name": "RICHMOND CHIMBORAZO PARK, VA US",
-            "datacoverage": 1,
-            "id": "COOP:447206",
-            "elevationUnit": "METERS",
-            "longitude": -77.41667
-        },
-        {
             "elevation": 171,
             "mindate": "1931-01-01",
             "maxdate": "1978-08-01",
@@ -3097,17 +2151,6 @@
             "id": "COOP:447254",
             "elevationUnit": "METERS",
             "longitude": -78.2
-        },
-        {
-            "elevation": 278,
-            "mindate": "1931-01-01",
-            "maxdate": "1965-12-01",
-            "latitude": 37.26667,
-            "name": "ROANOKE, VA US",
-            "datacoverage": 0.9524,
-            "id": "COOP:447275",
-            "elevationUnit": "METERS",
-            "longitude": -79.93333
         },
         {
             "elevation": 352.7,
@@ -3165,17 +2208,6 @@
             "longitude": -79.8961
         },
         {
-            "elevation": 435.9,
-            "mindate": "1948-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 36.66667,
-            "name": "ROSE HILL, VA US",
-            "datacoverage": 0.9417,
-            "id": "COOP:447372",
-            "elevationUnit": "METERS",
-            "longitude": -83.36667
-        },
-        {
             "elevation": 268.2,
             "mindate": "1986-05-01",
             "maxdate": "1991-02-01",
@@ -3198,17 +2230,6 @@
             "longitude": -82.31667
         },
         {
-            "elevation": 524.9,
-            "mindate": "1949-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 36.88333,
-            "name": "SALTVILLE, VA US",
-            "datacoverage": 0.9374,
-            "id": "COOP:447501",
-            "elevationUnit": "METERS",
-            "longitude": -81.76667
-        },
-        {
             "elevation": 528.2,
             "mindate": "1931-01-01",
             "maxdate": "2015-11-01",
@@ -3220,17 +2241,6 @@
             "longitude": -81.7711
         },
         {
-            "elevation": 34.1,
-            "mindate": "1941-08-01",
-            "maxdate": "1950-12-01",
-            "latitude": 37.6,
-            "name": "SALUDA, VA US",
-            "datacoverage": 0.876,
-            "id": "COOP:447514",
-            "elevationUnit": "METERS",
-            "longitude": -76.6
-        },
-        {
             "elevation": 50.3,
             "mindate": "2002-01-01",
             "maxdate": "2015-11-01",
@@ -3240,28 +2250,6 @@
             "id": "COOP:447541",
             "elevationUnit": "METERS",
             "longitude": -77.27583
-        },
-        {
-            "elevation": 99.1,
-            "mindate": "1935-03-01",
-            "maxdate": "1959-05-01",
-            "latitude": 38.616667,
-            "name": "SEXTON SHELTER, VA US",
-            "datacoverage": 0.3083,
-            "id": "COOP:447666",
-            "elevationUnit": "METERS",
-            "longitude": -78.35
-        },
-        {
-            "elevation": 473,
-            "mindate": "1940-04-01",
-            "maxdate": "1955-09-01",
-            "latitude": 37.26667,
-            "name": "SLATE, VA US",
-            "datacoverage": 0.7796,
-            "id": "COOP:447843",
-            "elevationUnit": "METERS",
-            "longitude": -81.93333
         },
         {
             "elevation": 11.9,
@@ -3319,37 +2307,15 @@
             "longitude": -78.2272
         },
         {
-            "elevation": 961,
-            "mindate": "1948-01-01",
-            "maxdate": "1950-10-23",
-            "latitude": 37,
-            "name": "SPRING CREEK, VA US",
-            "datacoverage": 0.9701,
-            "id": "COOP:447996",
-            "elevationUnit": "METERS",
-            "longitude": -81.65
-        },
-        {
             "elevation": 722.4,
-            "mindate": "1950-11-01",
+            "mindate": "1950-11-09",
             "maxdate": "1981-03-01",
             "latitude": 37.01667,
             "name": "SPRING CREEK 2, VA US",
-            "datacoverage": 0.9126,
+            "datacoverage": 0.0717,
             "id": "COOP:447997",
             "elevationUnit": "METERS",
             "longitude": -81.65
-        },
-        {
-            "elevation": 433.1,
-            "mindate": "1955-10-01",
-            "maxdate": "1958-06-01",
-            "latitude": 37.31667,
-            "name": "STACY, VA US",
-            "datacoverage": 0.7579,
-            "id": "COOP:448014",
-            "elevationUnit": "METERS",
-            "longitude": -81.98333
         },
         {
             "elevation": 511.5,
@@ -3430,17 +2396,6 @@
         },
         {
             "elevation": 419.1,
-            "mindate": "1937-05-01",
-            "maxdate": "1960-02-01",
-            "latitude": 36.6365,
-            "name": "STUART, VA US",
-            "datacoverage": 0.8795,
-            "id": "COOP:448169",
-            "elevationUnit": "METERS",
-            "longitude": -80.2545
-        },
-        {
-            "elevation": 419.1,
             "mindate": "1960-02-01",
             "maxdate": "2015-11-01",
             "latitude": 36.6365,
@@ -3473,17 +2428,6 @@
             "longitude": -76.6015
         },
         {
-            "elevation": 823.9,
-            "mindate": "1948-01-01",
-            "maxdate": "1951-08-01",
-            "latitude": 36.76667,
-            "name": "SUGAR GROVE, VA US",
-            "datacoverage": 0.8638,
-            "id": "COOP:448200",
-            "elevationUnit": "METERS",
-            "longitude": -81.4
-        },
-        {
             "elevation": 6.1,
             "mindate": "1954-01-01",
             "maxdate": "1970-05-01",
@@ -3495,39 +2439,6 @@
             "longitude": -76.26667
         },
         {
-            "elevation": 36.9,
-            "mindate": "1941-06-01",
-            "maxdate": "1955-02-01",
-            "latitude": 37.08333,
-            "name": "SURRY 4 SW, VA US",
-            "datacoverage": 0.7881,
-            "id": "COOP:448241",
-            "elevationUnit": "METERS",
-            "longitude": -76.86667
-        },
-        {
-            "elevation": 31.1,
-            "mindate": "1952-03-01",
-            "maxdate": "1959-12-28",
-            "latitude": 36.91667,
-            "name": "SUSSEX, VA US",
-            "datacoverage": 0.9465,
-            "id": "COOP:448249",
-            "elevationUnit": "METERS",
-            "longitude": -77.28333
-        },
-        {
-            "elevation": 576.1,
-            "mindate": "1948-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 37.03333,
-            "name": "SWORDS CREEK, VA US",
-            "datacoverage": 0.9592,
-            "id": "COOP:448282",
-            "elevationUnit": "METERS",
-            "longitude": -81.91667
-        },
-        {
             "elevation": 1.5,
             "mindate": "1952-10-01",
             "maxdate": "2001-04-01",
@@ -3537,28 +2448,6 @@
             "id": "COOP:448323",
             "elevationUnit": "METERS",
             "longitude": -75.99333
-        },
-        {
-            "elevation": 7.6,
-            "mindate": "1931-01-01",
-            "maxdate": "1940-08-01",
-            "latitude": 37.916667,
-            "name": "TAPPAHANNOCK, VA US",
-            "datacoverage": 0.9913,
-            "id": "COOP:448331",
-            "elevationUnit": "METERS",
-            "longitude": -76.866667
-        },
-        {
-            "elevation": 747.1,
-            "mindate": "1948-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 37.11667,
-            "name": "TAZEWELL, VA US",
-            "datacoverage": 0.9007,
-            "id": "COOP:448354",
-            "elevationUnit": "METERS",
-            "longitude": -81.51667
         },
         {
             "elevation": 161.5,
@@ -3649,17 +2538,6 @@
             "longitude": -77
         },
         {
-            "elevation": 73.2,
-            "mindate": "1945-08-01",
-            "maxdate": "1951-05-01",
-            "latitude": 38.91667,
-            "name": "WALKERS CHAPEL, VA US",
-            "datacoverage": 0.9003,
-            "id": "COOP:448821",
-            "elevationUnit": "METERS",
-            "longitude": -77.13333
-        },
-        {
             "elevation": 15.2,
             "mindate": "1932-07-01",
             "maxdate": "2015-11-01",
@@ -3669,17 +2547,6 @@
             "id": "COOP:448829",
             "elevationUnit": "METERS",
             "longitude": -77.04
-        },
-        {
-            "elevation": 573,
-            "mindate": "1948-01-01",
-            "maxdate": "1962-03-01",
-            "latitude": 36.65,
-            "name": "WALLACE, VA US",
-            "datacoverage": 0.9066,
-            "id": "COOP:448833",
-            "elevationUnit": "METERS",
-            "longitude": -82.13333
         },
         {
             "elevation": 6.1,
@@ -3748,17 +2615,6 @@
             "longitude": -77.4473
         },
         {
-            "elevation": 85,
-            "mindate": "1962-07-01",
-            "maxdate": "1965-10-01",
-            "latitude": 38.98333,
-            "name": "STERLING, VA US",
-            "datacoverage": 0.9988,
-            "id": "COOP:448905",
-            "elevationUnit": "METERS",
-            "longitude": -77.46667
-        },
-        {
             "elevation": 3,
             "mindate": "1948-01-01",
             "maxdate": "2015-11-01",
@@ -3768,17 +2624,6 @@
             "id": "COOP:448906",
             "elevationUnit": "METERS",
             "longitude": -77.03454
-        },
-        {
-            "elevation": 161.8,
-            "mindate": "1944-11-01",
-            "maxdate": "1962-06-01",
-            "latitude": 39.18333,
-            "name": "WATERFORD, VA US",
-            "datacoverage": 0.887,
-            "id": "COOP:448915",
-            "elevationUnit": "METERS",
-            "longitude": -77.6
         },
         {
             "elevation": 34.1,
@@ -3825,17 +2670,6 @@
             "longitude": -79.31667
         },
         {
-            "elevation": 61,
-            "mindate": "1948-01-01",
-            "maxdate": "1948-12-01",
-            "latitude": 37.6,
-            "name": "WESTBROOK SANATORIUM, VA US",
-            "datacoverage": 0.582,
-            "id": "COOP:448984",
-            "elevationUnit": "METERS",
-            "longitude": -77.4
-        },
-        {
             "elevation": 6.1,
             "mindate": "1954-03-01",
             "maxdate": "2015-11-01",
@@ -3848,36 +2682,14 @@
         },
         {
             "elevation": 563.9,
-            "mindate": "1948-01-01",
+            "mindate": "1948-08-01",
             "maxdate": "1993-11-01",
             "latitude": 37.18333,
             "name": "WHITE GATE, VA US",
-            "datacoverage": 1,
+            "datacoverage": 0.0629,
             "id": "COOP:449060",
             "elevationUnit": "METERS",
             "longitude": -80.81667
-        },
-        {
-            "elevation": 1667.9,
-            "mindate": "1948-02-01",
-            "maxdate": "1951-04-01",
-            "latitude": 36.63333,
-            "name": "WHITETOP MOUNTAIN, VA US",
-            "datacoverage": 0.8476,
-            "id": "COOP:449094",
-            "elevationUnit": "METERS",
-            "longitude": -81.6
-        },
-        {
-            "elevation": 31.1,
-            "mindate": "1931-01-01",
-            "maxdate": "1950-11-01",
-            "latitude": 37.28333,
-            "name": "WILLIAMSBURG 2 NW, VA US",
-            "datacoverage": 0.9792,
-            "id": "COOP:449146",
-            "elevationUnit": "METERS",
-            "longitude": -76.75
         },
         {
             "elevation": 21.3,
@@ -3892,25 +2704,14 @@
         },
         {
             "elevation": 499.9,
-            "mindate": "1939-12-01",
+            "mindate": "1978-07-01",
             "maxdate": "2011-08-31",
             "latitude": 38.17934,
             "name": "WILLIAMSVILLE 2 S, VA US",
-            "datacoverage": 0.865,
+            "datacoverage": 0.0203,
             "id": "COOP:449159",
             "elevationUnit": "METERS",
             "longitude": -79.58163
-        },
-        {
-            "elevation": 595,
-            "mindate": "1962-01-01",
-            "maxdate": "1963-12-01",
-            "latitude": 38.26667,
-            "name": "WILLIAMSVILLE 5 N, VA US",
-            "datacoverage": 1,
-            "id": "COOP:449160",
-            "elevationUnit": "METERS",
-            "longitude": -79.55
         },
         {
             "elevation": 856.5,
@@ -3977,17 +2778,6 @@
             "id": "COOP:449263",
             "elevationUnit": "METERS",
             "longitude": -78.4679
-        },
-        {
-            "elevation": 396.8,
-            "mindate": "1950-09-01",
-            "maxdate": "1951-06-01",
-            "latitude": 36.78333,
-            "name": "WOOLWINE, VA US",
-            "datacoverage": 0.669,
-            "id": "COOP:449271",
-            "elevationUnit": "METERS",
-            "longitude": -80.28333
         },
         {
             "elevation": 385,
@@ -10381,17 +9171,6 @@
             "longitude": -76.457851
         },
         {
-            "elevation": 609.9,
-            "mindate": "1887-08-01",
-            "maxdate": "1962-03-31",
-            "latitude": 36.66667,
-            "name": "ABINGDON 7 WSW, VA US",
-            "datacoverage": 0.2891,
-            "id": "GHCND:USC00440013",
-            "elevationUnit": "METERS",
-            "longitude": -82.1
-        },
-        {
             "elevation": 586.7,
             "mindate": "1969-12-01",
             "maxdate": "2020-05-17",
@@ -10401,17 +9180,6 @@
             "id": "GHCND:USC00440021",
             "elevationUnit": "METERS",
             "longitude": -81.9646
-        },
-        {
-            "elevation": 381,
-            "mindate": "1931-01-01",
-            "maxdate": "1957-09-30",
-            "latitude": 38.03333,
-            "name": "AFTON BOXWOOD GARDENS, VA US",
-            "datacoverage": 0.9689,
-            "id": "GHCND:USC00440055",
-            "elevationUnit": "METERS",
-            "longitude": -78.83333
         },
         {
             "elevation": 114.6,
@@ -10434,17 +9202,6 @@
             "id": "GHCND:USC00440090",
             "elevationUnit": "METERS",
             "longitude": -77.08333
-        },
-        {
-            "elevation": 6.1,
-            "mindate": "1893-04-01",
-            "maxdate": "1962-10-31",
-            "latitude": 38.81667,
-            "name": "ALEXANDRIA POTOMAC Y, VA US",
-            "datacoverage": 0.3689,
-            "id": "GHCND:USC00440097",
-            "elevationUnit": "METERS",
-            "longitude": -77.05
         },
         {
             "elevation": 554.7,
@@ -10502,17 +9259,6 @@
             "longitude": -78.01667
         },
         {
-            "elevation": 95.1,
-            "mindate": "1947-01-01",
-            "maxdate": "1952-03-31",
-            "latitude": 38.81667,
-            "name": "ANNANDALE, VA US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00440216",
-            "elevationUnit": "METERS",
-            "longitude": -77.2
-        },
-        {
             "elevation": 259.1,
             "mindate": "1937-11-01",
             "maxdate": "2020-05-17",
@@ -10522,17 +9268,6 @@
             "id": "GHCND:USC00440243",
             "elevationUnit": "METERS",
             "longitude": -78.8274
-        },
-        {
-            "elevation": 83.8,
-            "mindate": "1916-10-01",
-            "maxdate": "1923-12-31",
-            "latitude": 38.583333,
-            "name": "ARCOLA, VA US",
-            "datacoverage": 0.9426,
-            "id": "GHCND:USC00440280",
-            "elevationUnit": "METERS",
-            "longitude": -77.583333
         },
         {
             "elevation": 67.1,
@@ -10546,39 +9281,6 @@
             "longitude": -77.4833
         },
         {
-            "elevation": 519.1,
-            "mindate": "1939-11-01",
-            "maxdate": "1963-03-31",
-            "latitude": 38.11667,
-            "name": "AUGUSTA SPRINGS 1 NE, VA US",
-            "datacoverage": 0.6584,
-            "id": "GHCND:USC00440356",
-            "elevationUnit": "METERS",
-            "longitude": -79.3
-        },
-        {
-            "elevation": 473,
-            "mindate": "1950-01-01",
-            "maxdate": "1951-07-31",
-            "latitude": 38.08333,
-            "name": "AUGUSTA SPRINGS 2 SW, VA US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00440357",
-            "elevationUnit": "METERS",
-            "longitude": -79.35
-        },
-        {
-            "elevation": 244.1,
-            "mindate": "1893-01-01",
-            "maxdate": "1896-04-30",
-            "latitude": 37.999861,
-            "name": "AVON, VA US",
-            "datacoverage": 0.9261,
-            "id": "GHCND:USC00440370",
-            "elevationUnit": "METERS",
-            "longitude": -78.826411
-        },
-        {
             "elevation": 3,
             "mindate": "1953-01-01",
             "maxdate": "2016-03-01",
@@ -10588,72 +9290,6 @@
             "id": "GHCND:USC00440385",
             "elevationUnit": "METERS",
             "longitude": -75.9115
-        },
-        {
-            "elevation": 116.1,
-            "mindate": "1948-08-01",
-            "maxdate": "1949-03-13",
-            "latitude": 38.86667,
-            "name": "BACON NR FAIRFAX, VA US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00440390",
-            "elevationUnit": "METERS",
-            "longitude": -77.35
-        },
-        {
-            "elevation": 78.9,
-            "mindate": "1950-01-01",
-            "maxdate": "1951-12-31",
-            "latitude": 38.85,
-            "name": "BAILEYS CROSSROADS, VA US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00440403",
-            "elevationUnit": "METERS",
-            "longitude": -77.13333
-        },
-        {
-            "elevation": 223.1,
-            "mindate": "1930-12-01",
-            "maxdate": "1967-10-31",
-            "latitude": 37.61667,
-            "name": "BALCONY FALLS, VA US",
-            "datacoverage": 0.9887,
-            "id": "GHCND:USC00440411",
-            "elevationUnit": "METERS",
-            "longitude": -79.45
-        },
-        {
-            "elevation": 167.6,
-            "mindate": "1896-09-01",
-            "maxdate": "1907-03-31",
-            "latitude": 38.15,
-            "name": "BARBOURSVILLE, VA US",
-            "datacoverage": 0.9298,
-            "id": "GHCND:USC00440440",
-            "elevationUnit": "METERS",
-            "longitude": -77.266667
-        },
-        {
-            "elevation": 57.9,
-            "mindate": "1945-08-01",
-            "maxdate": "1950-08-31",
-            "latitude": 38.86667,
-            "name": "BARCROFT, VA US",
-            "datacoverage": 0.7703,
-            "id": "GHCND:USC00440449",
-            "elevationUnit": "METERS",
-            "longitude": -77.1
-        },
-        {
-            "elevation": 678.2,
-            "mindate": "1940-04-01",
-            "maxdate": "1943-12-31",
-            "latitude": 37.15,
-            "name": "BASTIAN, VA US",
-            "datacoverage": 0.5999,
-            "id": "GHCND:USC00440495",
-            "elevationUnit": "METERS",
-            "longitude": -81.166667
         },
         {
             "elevation": 272.5,
@@ -10689,17 +9325,6 @@
             "longitude": -77.98333
         },
         {
-            "elevation": 961,
-            "mindate": "1948-08-01",
-            "maxdate": "1962-03-31",
-            "latitude": 36.66667,
-            "name": "BIG KNOB, VA US",
-            "datacoverage": 0.988,
-            "id": "GHCND:USC00440712",
-            "elevationUnit": "METERS",
-            "longitude": -82.5
-        },
-        {
             "elevation": 1079,
             "mindate": "1935-01-01",
             "maxdate": "2012-07-30",
@@ -10711,28 +9336,6 @@
             "longitude": -78.4355
         },
         {
-            "elevation": 1007.1,
-            "mindate": "1943-04-01",
-            "maxdate": "1949-10-31",
-            "latitude": 38.5,
-            "name": "BIG MEADOWS 2, VA US",
-            "datacoverage": 0.9741,
-            "id": "GHCND:USC00440725",
-            "elevationUnit": "METERS",
-            "longitude": -78.41667
-        },
-        {
-            "elevation": 454.2,
-            "mindate": "1956-01-01",
-            "maxdate": "1962-03-31",
-            "latitude": 36.86667,
-            "name": "BIG STONE GAP, VA US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00440733",
-            "elevationUnit": "METERS",
-            "longitude": -82.76667
-        },
-        {
             "elevation": 446.8,
             "mindate": "1990-01-01",
             "maxdate": "2020-03-31",
@@ -10742,39 +9345,6 @@
             "id": "GHCND:USC00440735",
             "elevationUnit": "METERS",
             "longitude": -82.7998
-        },
-        {
-            "elevation": 472.4,
-            "mindate": "1893-01-01",
-            "maxdate": "1912-04-30",
-            "latitude": 36.883333,
-            "name": "BIG STONE GAP TVA 499, VA US",
-            "datacoverage": 0.996,
-            "id": "GHCND:USC00440737",
-            "elevationUnit": "METERS",
-            "longitude": -82.733333
-        },
-        {
-            "elevation": 12.2,
-            "mindate": "1869-01-01",
-            "maxdate": "1902-09-26",
-            "latitude": 37.416667,
-            "name": "BIRDSNEST, VA US",
-            "datacoverage": 0.9804,
-            "id": "GHCND:USC00440755",
-            "elevationUnit": "METERS",
-            "longitude": -75.866667
-        },
-        {
-            "elevation": 662,
-            "mindate": "1893-01-01",
-            "maxdate": "1952-10-31",
-            "latitude": 37.25,
-            "name": "BLACKSBURG, VA US",
-            "datacoverage": 0.9945,
-            "id": "GHCND:USC00440765",
-            "elevationUnit": "METERS",
-            "longitude": -80.41667
         },
         {
             "elevation": 641,
@@ -10799,17 +9369,6 @@
             "longitude": -81.1161
         },
         {
-            "elevation": 3,
-            "mindate": "1962-01-01",
-            "maxdate": "1979-03-31",
-            "latitude": 37.4,
-            "name": "BOHANNON 1 NE, VA US",
-            "datacoverage": 0.9994,
-            "id": "GHCND:USC00440835",
-            "elevationUnit": "METERS",
-            "longitude": -76.35
-        },
-        {
             "elevation": 179.8,
             "mindate": "1998-01-01",
             "maxdate": "2015-08-06",
@@ -10821,28 +9380,6 @@
             "longitude": -78.0981
         },
         {
-            "elevation": 63.1,
-            "mindate": "1893-01-01",
-            "maxdate": "1903-08-31",
-            "latitude": 37.533333,
-            "name": "BON AIR, VA US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00440880",
-            "elevationUnit": "METERS",
-            "longitude": -77.683333
-        },
-        {
-            "elevation": 70.1,
-            "mindate": "1950-01-01",
-            "maxdate": "1959-01-31",
-            "latitude": 38.05,
-            "name": "BOWLING GREEN, VA US",
-            "datacoverage": 0.9995,
-            "id": "GHCND:USC00440937",
-            "elevationUnit": "METERS",
-            "longitude": -77.35
-        },
-        {
             "elevation": 11.9,
             "mindate": "1954-01-01",
             "maxdate": "1978-12-31",
@@ -10852,17 +9389,6 @@
             "id": "GHCND:USC00440956",
             "elevationUnit": "METERS",
             "longitude": -77.2
-        },
-        {
-            "elevation": 12.2,
-            "mindate": "1902-01-01",
-            "maxdate": "1904-02-29",
-            "latitude": 36.583207,
-            "name": "BOYKINS 1, VA US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00440958",
-            "elevationUnit": "METERS",
-            "longitude": -77.199968
         },
         {
             "elevation": 12.2,
@@ -10896,28 +9422,6 @@
             "id": "GHCND:USC00440993",
             "elevationUnit": "METERS",
             "longitude": -78.2885
-        },
-        {
-            "elevation": 609.9,
-            "mindate": "1948-08-01",
-            "maxdate": "1969-06-30",
-            "latitude": 36.6,
-            "name": "BRISTOL, VA US",
-            "datacoverage": 0.8606,
-            "id": "GHCND:USC00441037",
-            "elevationUnit": "METERS",
-            "longitude": -82.16667
-        },
-        {
-            "elevation": 586.1,
-            "mindate": "1949-01-01",
-            "maxdate": "1962-03-31",
-            "latitude": 36.61667,
-            "name": "BRISTOL TVA, VA US",
-            "datacoverage": 0.9752,
-            "id": "GHCND:USC00441047",
-            "elevationUnit": "METERS",
-            "longitude": -82.16667
         },
         {
             "elevation": 124.4,
@@ -10975,28 +9479,6 @@
             "longitude": -79.3629
         },
         {
-            "elevation": 76.2,
-            "mindate": "1948-08-01",
-            "maxdate": "1951-10-31",
-            "latitude": 36.6002,
-            "name": "JOHN H KERR DAM, VA US",
-            "datacoverage": 1,
-            "id": "GHCND:USC00441180",
-            "elevationUnit": "METERS",
-            "longitude": -78.3011
-        },
-        {
-            "elevation": 79.2,
-            "mindate": "1894-10-01",
-            "maxdate": "1945-03-31",
-            "latitude": 36.833333,
-            "name": "CALLAVILLE, VA US",
-            "datacoverage": 0.9803,
-            "id": "GHCND:USC00441200",
-            "elevationUnit": "METERS",
-            "longitude": -77.683333
-        },
-        {
             "elevation": 31.1,
             "mindate": "1970-01-01",
             "maxdate": "1971-10-31",
@@ -11006,6 +9488,1524 @@
             "id": "GHCND:USC00441202",
             "elevationUnit": "METERS",
             "longitude": -76.33333
+        },
+        {
+            "elevation": 935.1,
+            "mindate": "1896-03-01",
+            "maxdate": "2020-05-17",
+            "latitude": 37.0908,
+            "name": "BURKES GARDEN, VA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00441209",
+            "elevationUnit": "METERS",
+            "longitude": -81.33639
+        },
+        {
+            "elevation": 797.1,
+            "mindate": "1967-05-01",
+            "maxdate": "2010-12-31",
+            "latitude": 36.77194,
+            "name": "BYLLESBY 1 S, VA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00441259",
+            "elevationUnit": "METERS",
+            "longitude": -80.93861
+        },
+        {
+            "elevation": 100.6,
+            "mindate": "1972-12-01",
+            "maxdate": "2020-04-01",
+            "latitude": 37.0375,
+            "name": "FORT PICKETT, VA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00441322",
+            "elevationUnit": "METERS",
+            "longitude": -77.9462
+        },
+        {
+            "elevation": 164.9,
+            "mindate": "2010-03-01",
+            "maxdate": "2012-01-01",
+            "latitude": 38.6047,
+            "name": "CASTLETON, VA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00441434",
+            "elevationUnit": "METERS",
+            "longitude": -78.11
+        },
+        {
+            "elevation": 573,
+            "mindate": "1910-01-01",
+            "maxdate": "1977-12-31",
+            "latitude": 37.38333,
+            "name": "CATAWBA HOSPITAL, VA US",
+            "datacoverage": 0.9387,
+            "id": "GHCND:USC00441471",
+            "elevationUnit": "METERS",
+            "longitude": -80.08333
+        },
+        {
+            "elevation": 173.4,
+            "mindate": "1946-06-01",
+            "maxdate": "2015-09-17",
+            "latitude": 37.0521,
+            "name": "CHARLOTTE COURT HOUSE, VA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00441585",
+            "elevationUnit": "METERS",
+            "longitude": -78.6496
+        },
+        {
+            "elevation": 264,
+            "mindate": "1893-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 38.0329,
+            "name": "CHARLOTTESVILLE 2 W, VA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00441593",
+            "elevationUnit": "METERS",
+            "longitude": -78.5226
+        },
+        {
+            "elevation": 164.9,
+            "mindate": "1930-01-01",
+            "maxdate": "1971-04-30",
+            "latitude": 38.03333,
+            "name": "CHARLOTTESVILLE 1 W, VA US",
+            "datacoverage": 0.9618,
+            "id": "GHCND:USC00441598",
+            "elevationUnit": "METERS",
+            "longitude": -78.51667
+        },
+        {
+            "elevation": 155.4,
+            "mindate": "1947-04-01",
+            "maxdate": "2020-04-01",
+            "latitude": 36.7775,
+            "name": "CHASE CITY, VA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00441606",
+            "elevationUnit": "METERS",
+            "longitude": -78.4756
+        },
+        {
+            "elevation": 197.2,
+            "mindate": "1922-07-01",
+            "maxdate": "2020-05-17",
+            "latitude": 36.82204,
+            "name": "CHATHAM, VA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00441614",
+            "elevationUnit": "METERS",
+            "longitude": -79.4102
+        },
+        {
+            "elevation": 3,
+            "mindate": "1948-08-01",
+            "maxdate": "1976-10-31",
+            "latitude": 37.28333,
+            "name": "CHERITON, VA US",
+            "datacoverage": 0.9439,
+            "id": "GHCND:USC00441636",
+            "elevationUnit": "METERS",
+            "longitude": -75.96667
+        },
+        {
+            "elevation": 609.9,
+            "mindate": "1952-01-01",
+            "maxdate": "1976-09-30",
+            "latitude": 36.78333,
+            "name": "CHILHOWIE 1 S, VA US",
+            "datacoverage": 0.9966,
+            "id": "GHCND:USC00441675",
+            "elevationUnit": "METERS",
+            "longitude": -81.68333
+        },
+        {
+            "elevation": 640.1,
+            "mindate": "1995-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 37.1278,
+            "name": "CHRISTIANSBURG, VA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00441692",
+            "elevationUnit": "METERS",
+            "longitude": -80.4033
+        },
+        {
+            "elevation": 100.6,
+            "mindate": "1891-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 36.6213,
+            "name": "CLARKSVILLE, VA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00441746",
+            "elevationUnit": "METERS",
+            "longitude": -78.5506
+        },
+        {
+            "elevation": 426.7,
+            "mindate": "1896-08-01",
+            "maxdate": "1983-10-31",
+            "latitude": 37.85,
+            "name": "CLIFTON FORGE 2 NW, VA US",
+            "datacoverage": 0.6084,
+            "id": "GHCND:USC00441801",
+            "elevationUnit": "METERS",
+            "longitude": -79.83333
+        },
+        {
+            "elevation": 467,
+            "mindate": "1951-09-01",
+            "maxdate": "1974-06-30",
+            "latitude": 37.16667,
+            "name": "CLINCHCO, VA US",
+            "datacoverage": 0.9782,
+            "id": "GHCND:USC00441808",
+            "elevationUnit": "METERS",
+            "longitude": -82.31667
+        },
+        {
+            "elevation": 477.3,
+            "mindate": "1993-01-01",
+            "maxdate": "2020-05-11",
+            "latitude": 37.14556,
+            "name": "CLINTWOOD 1 W, VA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00441825",
+            "elevationUnit": "METERS",
+            "longitude": -82.49078
+        },
+        {
+            "elevation": 3,
+            "mindate": "1963-12-01",
+            "maxdate": "2010-12-31",
+            "latitude": 38.25056,
+            "name": "COLONIAL BEACH, VA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00441913",
+            "elevationUnit": "METERS",
+            "longitude": -76.96278
+        },
+        {
+            "elevation": 88.4,
+            "mindate": "1893-03-04",
+            "maxdate": "1986-02-28",
+            "latitude": 37.73333,
+            "name": "COLUMBIA 2 SSE, VA US",
+            "datacoverage": 0.9157,
+            "id": "GHCND:USC00441929",
+            "elevationUnit": "METERS",
+            "longitude": -78.15
+        },
+        {
+            "elevation": 248.4,
+            "mindate": "1950-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 37.2819,
+            "name": "CONCORD 4 SSW, VA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00441955",
+            "elevationUnit": "METERS",
+            "longitude": -78.9591
+        },
+        {
+            "elevation": 326.1,
+            "mindate": "1940-10-01",
+            "maxdate": "2014-03-01",
+            "latitude": 38.63694,
+            "name": "COOTES STORE, VA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00441986",
+            "elevationUnit": "METERS",
+            "longitude": -78.85306
+        },
+        {
+            "elevation": 870.8,
+            "mindate": "1940-04-01",
+            "maxdate": "2020-05-17",
+            "latitude": 37.08169,
+            "name": "COPPER HILL, VA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00441999",
+            "elevationUnit": "METERS",
+            "longitude": -80.13486
+        },
+        {
+            "elevation": 67.1,
+            "mindate": "1959-01-01",
+            "maxdate": "2020-04-29",
+            "latitude": 38.2022,
+            "name": "CORBIN, VA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00442009",
+            "elevationUnit": "METERS",
+            "longitude": -77.3747
+        },
+        {
+            "elevation": 367.9,
+            "mindate": "1937-05-01",
+            "maxdate": "2010-12-31",
+            "latitude": 37.78861,
+            "name": "COVINGTON, VA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00442041",
+            "elevationUnit": "METERS",
+            "longitude": -80.00528
+        },
+        {
+            "elevation": 379.2,
+            "mindate": "1960-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 37.81112,
+            "name": "COVINGTON FILTER PLANT, VA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00442044",
+            "elevationUnit": "METERS",
+            "longitude": -79.98822
+        },
+        {
+            "elevation": 535.8,
+            "mindate": "1963-09-01",
+            "maxdate": "2013-07-25",
+            "latitude": 38.0517,
+            "name": "CRAIGSVILLE 2 S, VA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00442064",
+            "elevationUnit": "METERS",
+            "longitude": -79.3858
+        },
+        {
+            "elevation": 106.7,
+            "mindate": "1976-06-01",
+            "maxdate": "2020-05-17",
+            "latitude": 37.6664,
+            "name": "CROZIER, VA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00442142",
+            "elevationUnit": "METERS",
+            "longitude": -77.8769
+        },
+        {
+            "elevation": 144.8,
+            "mindate": "1907-07-01",
+            "maxdate": "1990-06-30",
+            "latitude": 38.48333,
+            "name": "CULPEPER, VA US",
+            "datacoverage": 0.9217,
+            "id": "GHCND:USC00442155",
+            "elevationUnit": "METERS",
+            "longitude": -77.98333
+        },
+        {
+            "elevation": 140.2,
+            "mindate": "1979-08-01",
+            "maxdate": "1994-12-31",
+            "latitude": 37.5,
+            "name": "CUMBERLAND, VA US",
+            "datacoverage": 0.9782,
+            "id": "GHCND:USC00442160",
+            "elevationUnit": "METERS",
+            "longitude": -78.25
+        },
+        {
+            "elevation": 413.9,
+            "mindate": "1893-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 38.4547,
+            "name": "DALE ENTERPRISE, VA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00442208",
+            "elevationUnit": "METERS",
+            "longitude": -78.9352
+        },
+        {
+            "elevation": 595,
+            "mindate": "1927-01-01",
+            "maxdate": "1974-07-31",
+            "latitude": 36.63333,
+            "name": "DAMASCUS, VA US",
+            "datacoverage": 0.958,
+            "id": "GHCND:USC00442216",
+            "elevationUnit": "METERS",
+            "longitude": -81.8
+        },
+        {
+            "elevation": 119.5,
+            "mindate": "1891-01-01",
+            "maxdate": "2020-05-15",
+            "latitude": 36.56269,
+            "name": "DANVILLE 2 SE, VA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00442245",
+            "elevationUnit": "METERS",
+            "longitude": -79.36331
+        },
+        {
+            "elevation": 524.9,
+            "mindate": "1926-12-01",
+            "maxdate": "1980-12-31",
+            "latitude": 38.16667,
+            "name": "DEERFIELD 1 S, VA US",
+            "datacoverage": 0.8936,
+            "id": "GHCND:USC00442315",
+            "elevationUnit": "METERS",
+            "longitude": -79.36667
+        },
+        {
+            "elevation": 9.1,
+            "mindate": "1909-02-01",
+            "maxdate": "1980-12-31",
+            "latitude": 36.9,
+            "name": "DIAMOND SPRINGS, VA US",
+            "datacoverage": 0.9989,
+            "id": "GHCND:USC00442368",
+            "elevationUnit": "METERS",
+            "longitude": -76.2
+        },
+        {
+            "elevation": 39.6,
+            "mindate": "2006-08-01",
+            "maxdate": "2020-05-15",
+            "latitude": 37.1122,
+            "name": "DISPUTANTA, VA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00442400",
+            "elevationUnit": "METERS",
+            "longitude": -77.2017
+        },
+        {
+            "elevation": 6.1,
+            "mindate": "1941-01-01",
+            "maxdate": "1986-09-30",
+            "latitude": 36.88333,
+            "name": "DRIVE 4 NE, VA US",
+            "datacoverage": 0.9782,
+            "id": "GHCND:USC00442504",
+            "elevationUnit": "METERS",
+            "longitude": -76.48333
+        },
+        {
+            "elevation": 283.5,
+            "mindate": "2005-03-01",
+            "maxdate": "2005-09-30",
+            "latitude": 37.6414,
+            "name": "EAGLE ROCK, VA US",
+            "datacoverage": 0.9956,
+            "id": "GHCND:USC00442581",
+            "elevationUnit": "METERS",
+            "longitude": -79.7992
+        },
+        {
+            "elevation": 620.9,
+            "mindate": "1976-09-01",
+            "maxdate": "2011-10-31",
+            "latitude": 37.6658,
+            "name": "EARLEHURST, VA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00442600",
+            "elevationUnit": "METERS",
+            "longitude": -80.2441
+        },
+        {
+            "elevation": 3,
+            "mindate": "1909-11-01",
+            "maxdate": "2015-10-01",
+            "latitude": 37.3876,
+            "name": "EASTVILLE, VA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00442635",
+            "elevationUnit": "METERS",
+            "longitude": -75.9744
+        },
+        {
+            "elevation": 282.9,
+            "mindate": "1996-01-01",
+            "maxdate": "2015-06-30",
+            "latitude": 38.8025,
+            "name": "EDINBURG, VA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00442663",
+            "elevationUnit": "METERS",
+            "longitude": -78.5853
+        },
+        {
+            "elevation": 100,
+            "mindate": "1940-04-08",
+            "maxdate": "1983-11-30",
+            "latitude": 38.45,
+            "name": "ELKWOOD 6 SE, VA US",
+            "datacoverage": 0.9713,
+            "id": "GHCND:USC00442729",
+            "elevationUnit": "METERS",
+            "longitude": -77.76667
+        },
+        {
+            "elevation": 1048.2,
+            "mindate": "2017-01-01",
+            "maxdate": "2020-05-08",
+            "latitude": 36.67212,
+            "name": "ELK CREEK 4 SSW, VA US",
+            "datacoverage": 0.9998,
+            "id": "GHCND:USC00442730",
+            "elevationUnit": "METERS",
+            "longitude": -81.19455
+        },
+        {
+            "elevation": 30.5,
+            "mindate": "1893-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 36.6983,
+            "name": "EMPORIA 1 WNW, VA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00442790",
+            "elevationUnit": "METERS",
+            "longitude": -77.5597
+        },
+        {
+            "elevation": 98.1,
+            "mindate": "1949-01-01",
+            "maxdate": "1970-10-31",
+            "latitude": 38.85,
+            "name": "FALLS CHURCH 2 SW, VA US",
+            "datacoverage": 0.988,
+            "id": "GHCND:USC00442922",
+            "elevationUnit": "METERS",
+            "longitude": -77.2
+        },
+        {
+            "elevation": 137.2,
+            "mindate": "1897-02-01",
+            "maxdate": "2020-04-30",
+            "latitude": 37.3263,
+            "name": "FARMVILLE 2 N, VA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00442941",
+            "elevationUnit": "METERS",
+            "longitude": -78.3864
+        },
+        {
+            "elevation": 397.8,
+            "mindate": "2003-01-01",
+            "maxdate": "2007-09-01",
+            "latitude": 37.5431,
+            "name": "FINCASTLE 7 NE, VA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00443006",
+            "elevationUnit": "METERS",
+            "longitude": -79.8039
+        },
+        {
+            "elevation": 800.1,
+            "mindate": "1933-01-01",
+            "maxdate": "2010-12-31",
+            "latitude": 36.92778,
+            "name": "FLOYD 2 NE, VA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00443071",
+            "elevationUnit": "METERS",
+            "longitude": -80.29083
+        },
+        {
+            "elevation": 18,
+            "mindate": "1950-01-01",
+            "maxdate": "1970-08-31",
+            "latitude": 37.23333,
+            "name": "FORT LEE, VA US",
+            "datacoverage": 0.9993,
+            "id": "GHCND:USC00443127",
+            "elevationUnit": "METERS",
+            "longitude": -77.33333
+        },
+        {
+            "elevation": 27.4,
+            "mindate": "1893-04-01",
+            "maxdate": "2010-12-31",
+            "latitude": 38.31667,
+            "name": "FREDERICKSBURG NATIONAL PARK, VA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00443192",
+            "elevationUnit": "METERS",
+            "longitude": -77.45
+        },
+        {
+            "elevation": 18.3,
+            "mindate": "1995-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 38.2875,
+            "name": "FREDERICKSBURG SEWAGE, VA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00443204",
+            "elevationUnit": "METERS",
+            "longitude": -77.4507
+        },
+        {
+            "elevation": 179.8,
+            "mindate": "1955-07-01",
+            "maxdate": "2020-03-31",
+            "latitude": 38.09079,
+            "name": "FREE UNION, VA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00443213",
+            "elevationUnit": "METERS",
+            "longitude": -78.58937
+        },
+        {
+            "elevation": 283.5,
+            "mindate": "1995-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 38.9038,
+            "name": "FRONT ROYAL, VA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00443229",
+            "elevationUnit": "METERS",
+            "longitude": -78.1821
+        },
+        {
+            "elevation": 726.9,
+            "mindate": "1948-08-01",
+            "maxdate": "2016-06-30",
+            "latitude": 36.6633,
+            "name": "GALAX RADIO WBRF, VA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00443267",
+            "elevationUnit": "METERS",
+            "longitude": -80.9139
+        },
+        {
+            "elevation": 713.5,
+            "mindate": "1907-05-01",
+            "maxdate": "2020-05-17",
+            "latitude": 36.65452,
+            "name": "GALAX WATER PLANT, VA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00443272",
+            "elevationUnit": "METERS",
+            "longitude": -80.91732
+        },
+        {
+            "elevation": 539.5,
+            "mindate": "1980-06-01",
+            "maxdate": "2020-05-17",
+            "latitude": 37.9458,
+            "name": "GATHRIGHT DAM, VA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00443310",
+            "elevationUnit": "METERS",
+            "longitude": -79.9542
+        },
+        {
+            "elevation": 224.6,
+            "mindate": "1967-11-01",
+            "maxdate": "2020-05-17",
+            "latitude": 37.61838,
+            "name": "GLASGOW 1 SE, VA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00443375",
+            "elevationUnit": "METERS",
+            "longitude": -79.43575
+        },
+        {
+            "elevation": 463.3,
+            "mindate": "1914-03-01",
+            "maxdate": "2010-12-31",
+            "latitude": 37.3733,
+            "name": "GLEN LYN, VA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00443397",
+            "elevationUnit": "METERS",
+            "longitude": -80.8597
+        },
+        {
+            "elevation": 140.2,
+            "mindate": "1961-07-01",
+            "maxdate": "2010-12-31",
+            "latitude": 38.08611,
+            "name": "GORDONSVILLE 3 S, VA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00443466",
+            "elevationUnit": "METERS",
+            "longitude": -78.1825
+        },
+        {
+            "elevation": 347.5,
+            "mindate": "1997-01-01",
+            "maxdate": "2001-07-31",
+            "latitude": 39.2875,
+            "name": "GORE 3 E, VA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00443468",
+            "elevationUnit": "METERS",
+            "longitude": -78.3625
+        },
+        {
+            "elevation": 411.5,
+            "mindate": "1896-02-01",
+            "maxdate": "2010-12-31",
+            "latitude": 37.9839,
+            "name": "GOSHEN, VA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00443470",
+            "elevationUnit": "METERS",
+            "longitude": -79.5008
+        },
+        {
+            "elevation": 152.4,
+            "mindate": "2004-01-01",
+            "maxdate": "2014-12-01",
+            "latitude": 37.1756,
+            "name": "GREENBAY 3 NE, VA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00443565",
+            "elevationUnit": "METERS",
+            "longitude": -78.2786
+        },
+        {
+            "elevation": 75.9,
+            "mindate": "1951-11-01",
+            "maxdate": "1970-09-30",
+            "latitude": 38.76667,
+            "name": "GROVETON, VA US",
+            "datacoverage": 0.9993,
+            "id": "GHCND:USC00443635",
+            "elevationUnit": "METERS",
+            "longitude": -77.1
+        },
+        {
+            "elevation": 352.7,
+            "mindate": "1942-05-01",
+            "maxdate": "2020-05-17",
+            "latitude": 37.28217,
+            "name": "GRUNDY, VA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00443640",
+            "elevationUnit": "METERS",
+            "longitude": -82.08849
+        },
+        {
+            "elevation": 153,
+            "mindate": "1955-01-01",
+            "maxdate": "1977-04-30",
+            "latitude": 36.73333,
+            "name": "HALIFAX 2 SSE, VA US",
+            "datacoverage": 0.9924,
+            "id": "GHCND:USC00443695",
+            "elevationUnit": "METERS",
+            "longitude": -78.91667
+        },
+        {
+            "elevation": 3,
+            "mindate": "1893-03-03",
+            "maxdate": "2013-01-09",
+            "latitude": 37.0225,
+            "name": "HAMPTON UNIVERSITY, VA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00443713",
+            "elevationUnit": "METERS",
+            "longitude": -76.3366
+        },
+        {
+            "elevation": 787.9,
+            "mindate": "1940-03-01",
+            "maxdate": "2010-12-31",
+            "latitude": 36.80167,
+            "name": "HILLSVILLE, VA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00443991",
+            "elevationUnit": "METERS",
+            "longitude": -80.77528
+        },
+        {
+            "elevation": 274.3,
+            "mindate": "1960-05-01",
+            "maxdate": "2020-05-17",
+            "latitude": 37.5443,
+            "name": "BIG ISLAND, VA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00444039",
+            "elevationUnit": "METERS",
+            "longitude": -79.403
+        },
+        {
+            "elevation": 24.4,
+            "mindate": "1933-03-01",
+            "maxdate": "2018-10-31",
+            "latitude": 36.683,
+            "name": "HOLLAND 1 E, VA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00444044",
+            "elevationUnit": "METERS",
+            "longitude": -76.7684
+        },
+        {
+            "elevation": 146.3,
+            "mindate": "2003-12-01",
+            "maxdate": "2006-11-30",
+            "latitude": 37.3956,
+            "name": "HOLLIDAY LAKE, VA US",
+            "datacoverage": 0.9998,
+            "id": "GHCND:USC00444046",
+            "elevationUnit": "METERS",
+            "longitude": -78.6406
+        },
+        {
+            "elevation": 12.2,
+            "mindate": "1916-01-01",
+            "maxdate": "2020-05-16",
+            "latitude": 37.2992,
+            "name": "HOPEWELL, VA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00444101",
+            "elevationUnit": "METERS",
+            "longitude": -77.2775
+        },
+        {
+            "elevation": 684,
+            "mindate": "1893-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 37.99951,
+            "name": "HOT SPRINGS, VA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00444128",
+            "elevationUnit": "METERS",
+            "longitude": -79.83227
+        },
+        {
+            "elevation": 273.4,
+            "mindate": "1950-01-01",
+            "maxdate": "2020-05-16",
+            "latitude": 37.12587,
+            "name": "HUDDLESTON 4 SW, VA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00444148",
+            "elevationUnit": "METERS",
+            "longitude": -79.5251
+        },
+        {
+            "elevation": 331.6,
+            "mindate": "1999-01-01",
+            "maxdate": "2009-12-01",
+            "latitude": 37.3652,
+            "name": "HURLEY 4 S, VA US",
+            "datacoverage": 0.9996,
+            "id": "GHCND:USC00444180",
+            "elevationUnit": "METERS",
+            "longitude": -82.0561
+        },
+        {
+            "elevation": 796.1,
+            "mindate": "1953-01-01",
+            "maxdate": "1989-06-30",
+            "latitude": 36.65,
+            "name": "INDEPENDENCE 2, VA US",
+            "datacoverage": 0.9887,
+            "id": "GHCND:USC00444234",
+            "elevationUnit": "METERS",
+            "longitude": -81.16667
+        },
+        {
+            "elevation": 453.5,
+            "mindate": "1969-11-01",
+            "maxdate": "2020-05-15",
+            "latitude": 37.23235,
+            "name": "JOHN FLANNAGAN LAKE, VA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00444410",
+            "elevationUnit": "METERS",
+            "longitude": -82.34642
+        },
+        {
+            "elevation": 76.2,
+            "mindate": "1948-03-01",
+            "maxdate": "2020-05-17",
+            "latitude": 36.6002,
+            "name": "JOHN H KERR DAM, VA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00444414",
+            "elevationUnit": "METERS",
+            "longitude": -78.3011
+        },
+        {
+            "elevation": 457.2,
+            "mindate": "1948-08-01",
+            "maxdate": "2012-03-01",
+            "latitude": 37.8706,
+            "name": "KERRS CREEK 6 WNW, VA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00444565",
+            "elevationUnit": "METERS",
+            "longitude": -79.5689
+        },
+        {
+            "elevation": 190.5,
+            "mindate": "1979-09-01",
+            "maxdate": "2020-05-17",
+            "latitude": 37.0179,
+            "name": "KEYSVILLE 2 S, VA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00444568",
+            "elevationUnit": "METERS",
+            "longitude": -78.48
+        },
+        {
+            "elevation": 18.3,
+            "mindate": "1979-01-01",
+            "maxdate": "2010-12-31",
+            "latitude": 37.72333,
+            "name": "KILMARNOCK 1 N, VA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00444600",
+            "elevationUnit": "METERS",
+            "longitude": -76.39
+        },
+        {
+            "elevation": 402.3,
+            "mindate": "1951-01-01",
+            "maxdate": "2016-12-22",
+            "latitude": 37.2392,
+            "name": "LAFAYETTE 1 NE, VA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00444676",
+            "elevationUnit": "METERS",
+            "longitude": -80.1994
+        },
+        {
+            "elevation": 109.7,
+            "mindate": "1999-01-01",
+            "maxdate": "2001-10-31",
+            "latitude": 38.35056,
+            "name": "LAKE OF THE WOODS, VA US",
+            "datacoverage": 0.9991,
+            "id": "GHCND:USC00444692",
+            "elevationUnit": "METERS",
+            "longitude": -77.75306
+        },
+        {
+            "elevation": 99.1,
+            "mindate": "1919-10-01",
+            "maxdate": "2010-12-31",
+            "latitude": 36.7711,
+            "name": "LAWRENCEVILLE 3 E, VA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00444768",
+            "elevationUnit": "METERS",
+            "longitude": -77.7928
+        },
+        {
+            "elevation": 582.8,
+            "mindate": "1989-01-01",
+            "maxdate": "2020-05-14",
+            "latitude": 36.9028,
+            "name": "LEBANON, VA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00444777",
+            "elevationUnit": "METERS",
+            "longitude": -82.0384
+        },
+        {
+            "elevation": 334.4,
+            "mindate": "1889-06-01",
+            "maxdate": "2020-05-17",
+            "latitude": 37.7767,
+            "name": "LEXINGTON, VA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00444876",
+            "elevationUnit": "METERS",
+            "longitude": -79.4385
+        },
+        {
+            "elevation": 155.4,
+            "mindate": "1900-09-01",
+            "maxdate": "2020-05-17",
+            "latitude": 39.14216,
+            "name": "PURCELLVILLE, VA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00444909",
+            "elevationUnit": "METERS",
+            "longitude": -77.70939
+        },
+        {
+            "elevation": 128,
+            "mindate": "1916-05-01",
+            "maxdate": "2020-05-16",
+            "latitude": 38.0421,
+            "name": "LOUISA, VA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00445050",
+            "elevationUnit": "METERS",
+            "longitude": -78.0061
+        },
+        {
+            "elevation": 426.7,
+            "mindate": "1941-03-01",
+            "maxdate": "2020-05-17",
+            "latitude": 38.6661,
+            "name": "LURAY 5 E, VA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00445096",
+            "elevationUnit": "METERS",
+            "longitude": -78.3727
+        },
+        {
+            "elevation": 224.3,
+            "mindate": "1998-04-01",
+            "maxdate": "2013-01-11",
+            "latitude": 37.3818,
+            "name": "LYNCHBURG NUMBER 2, VA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00445117",
+            "elevationUnit": "METERS",
+            "longitude": -79.233
+        },
+        {
+            "elevation": 175.9,
+            "mindate": "1996-01-01",
+            "maxdate": "2016-08-31",
+            "latitude": 38.3683,
+            "name": "MADISON, VA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00445150",
+            "elevationUnit": "METERS",
+            "longitude": -78.2503
+        },
+        {
+            "elevation": 74.7,
+            "mindate": "2004-01-01",
+            "maxdate": "2020-05-14",
+            "latitude": 38.73332,
+            "name": "MANASSAS, VA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00445204",
+            "elevationUnit": "METERS",
+            "longitude": -77.49263
+        },
+        {
+            "elevation": 100.9,
+            "mindate": "1895-06-01",
+            "maxdate": "1985-07-31",
+            "latitude": 38.78333,
+            "name": "MANASSAS, VA US",
+            "datacoverage": 0.4908,
+            "id": "GHCND:USC00445213",
+            "elevationUnit": "METERS",
+            "longitude": -77.5
+        },
+        {
+            "elevation": 640.1,
+            "mindate": "1960-10-01",
+            "maxdate": "1989-05-31",
+            "latitude": 36.81667,
+            "name": "MARION, VA US",
+            "datacoverage": 0.939,
+            "id": "GHCND:USC00445271",
+            "elevationUnit": "METERS",
+            "longitude": -81.51667
+        },
+        {
+            "elevation": 231.6,
+            "mindate": "1930-09-01",
+            "maxdate": "2020-05-17",
+            "latitude": 36.7056,
+            "name": "MARTINSVILLE FILTER PLANT, VA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00445300",
+            "elevationUnit": "METERS",
+            "longitude": -79.865
+        },
+        {
+            "elevation": 1.5,
+            "mindate": "1950-01-01",
+            "maxdate": "2010-12-31",
+            "latitude": 37.40306,
+            "name": "MATHEWS 4 SE, VA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00445338",
+            "elevationUnit": "METERS",
+            "longitude": -76.26889
+        },
+        {
+            "elevation": 609.9,
+            "mindate": "1903-01-01",
+            "maxdate": "1980-12-22",
+            "latitude": 38.33333,
+            "name": "MC DOWELL, VA US",
+            "datacoverage": 0.2645,
+            "id": "GHCND:USC00445414",
+            "elevationUnit": "METERS",
+            "longitude": -79.5
+        },
+        {
+            "elevation": 731.2,
+            "mindate": "1981-01-01",
+            "maxdate": "2010-12-31",
+            "latitude": 38.35,
+            "name": "MCDOWELL 3 W, VA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00445416",
+            "elevationUnit": "METERS",
+            "longitude": -79.53333
+        },
+        {
+            "elevation": 678.2,
+            "mindate": "1950-12-01",
+            "maxdate": "2020-05-17",
+            "latitude": 36.6667,
+            "name": "MEADOWS OF DAN 5 SW, VA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00445453",
+            "elevationUnit": "METERS",
+            "longitude": -80.4481
+        },
+        {
+            "elevation": 412.1,
+            "mindate": "1902-01-01",
+            "maxdate": "1976-09-30",
+            "latitude": 36.7,
+            "name": "MENDOTA, VA US",
+            "datacoverage": 0.9921,
+            "id": "GHCND:USC00445501",
+            "elevationUnit": "METERS",
+            "longitude": -82.31667
+        },
+        {
+            "elevation": 737.9,
+            "mindate": "1976-10-01",
+            "maxdate": "2020-05-17",
+            "latitude": 38.3064,
+            "name": "MILL GAP, VA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00445595",
+            "elevationUnit": "METERS",
+            "longitude": -79.7197
+        },
+        {
+            "elevation": 634,
+            "mindate": "1977-07-01",
+            "maxdate": "1979-09-30",
+            "latitude": 38.21667,
+            "name": "MILL RUN FARM, VA US",
+            "datacoverage": 0.5584,
+            "id": "GHCND:USC00445599",
+            "elevationUnit": "METERS",
+            "longitude": -79.73333
+        },
+        {
+            "elevation": 6.1,
+            "mindate": "1974-01-01",
+            "maxdate": "1979-02-09",
+            "latitude": 37.71667,
+            "name": "MOLLUSK 1 SW, VA US",
+            "datacoverage": 0.9995,
+            "id": "GHCND:USC00445646",
+            "elevationUnit": "METERS",
+            "longitude": -76.55
+        },
+        {
+            "elevation": 816.9,
+            "mindate": "1937-01-01",
+            "maxdate": "2010-12-31",
+            "latitude": 37.88139,
+            "name": "MONTEBELLO 3 NE, VA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00445685",
+            "elevationUnit": "METERS",
+            "longitude": -79.13167
+        },
+        {
+            "elevation": 812.9,
+            "mindate": "1948-09-01",
+            "maxdate": "2020-05-15",
+            "latitude": 37.8444,
+            "name": "MONTEBELLO FISH CULTURAL STATION, VA US",
+            "datacoverage": 0.1714,
+            "id": "GHCND:USC00445690",
+            "elevationUnit": "METERS",
+            "longitude": -79.1303
+        },
+        {
+            "elevation": 890.9,
+            "mindate": "1894-12-01",
+            "maxdate": "1990-05-31",
+            "latitude": 38.41667,
+            "name": "MONTEREY, VA US",
+            "datacoverage": 0.6362,
+            "id": "GHCND:USC00445698",
+            "elevationUnit": "METERS",
+            "longitude": -79.58333
+        },
+        {
+            "elevation": 231,
+            "mindate": "1982-01-01",
+            "maxdate": "2016-11-30",
+            "latitude": 38.0111,
+            "name": "MONTICELLO, VA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00445700",
+            "elevationUnit": "METERS",
+            "longitude": -78.4494
+        },
+        {
+            "elevation": 541,
+            "mindate": "1976-01-01",
+            "maxdate": "2018-09-30",
+            "latitude": 38.1025,
+            "name": "MOUNTAIN GROVE, VA US",
+            "datacoverage": 0.8134,
+            "id": "GHCND:USC00445756",
+            "elevationUnit": "METERS",
+            "longitude": -79.8871
+        },
+        {
+            "elevation": 1179.6,
+            "mindate": "1971-11-01",
+            "maxdate": "2010-12-31",
+            "latitude": 37.38333,
+            "name": "MOUNT LAKE BIOL STATION, VA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00445828",
+            "elevationUnit": "METERS",
+            "longitude": -80.53333
+        },
+        {
+            "elevation": 76.2,
+            "mindate": "2004-01-01",
+            "maxdate": "2009-09-30",
+            "latitude": 37.8644,
+            "name": "MONTPELIER, VA US",
+            "datacoverage": 0.606,
+            "id": "GHCND:USC00445833",
+            "elevationUnit": "METERS",
+            "longitude": -77.6383
+        },
+        {
+            "elevation": 475.5,
+            "mindate": "1980-01-01",
+            "maxdate": "1982-01-31",
+            "latitude": 38.35,
+            "name": "MOUNT SOLON, VA US",
+            "datacoverage": 0.9986,
+            "id": "GHCND:USC00445838",
+            "elevationUnit": "METERS",
+            "longitude": -79.08333
+        },
+        {
+            "elevation": 505.7,
+            "mindate": "1915-01-01",
+            "maxdate": "2017-10-31",
+            "latitude": 39.0643,
+            "name": "MOUNT WEATHER, VA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00445851",
+            "elevationUnit": "METERS",
+            "longitude": -77.8883
+        },
+        {
+            "elevation": 472.4,
+            "mindate": "2017-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 39.06551,
+            "name": "MOUNT WEATHER 3, VA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00445853",
+            "elevationUnit": "METERS",
+            "longitude": -77.89504
+        },
+        {
+            "elevation": 721.5,
+            "mindate": "1994-01-01",
+            "maxdate": "2020-03-31",
+            "latitude": 38.31437,
+            "name": "MUSTOE 1 SW, VA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00445880",
+            "elevationUnit": "METERS",
+            "longitude": -79.65893
+        },
+        {
+            "elevation": 11.9,
+            "mindate": "1956-01-01",
+            "maxdate": "1976-12-31",
+            "latitude": 37.46667,
+            "name": "NASSAWADOX, VA US",
+            "datacoverage": 0.9999,
+            "id": "GHCND:USC00445931",
+            "elevationUnit": "METERS",
+            "longitude": -75.86667
+        },
+        {
+            "elevation": 14.9,
+            "mindate": "1959-01-01",
+            "maxdate": "1976-11-30",
+            "latitude": 37.81667,
+            "name": "NELSONIA, VA US",
+            "datacoverage": 0.7046,
+            "id": "GHCND:USC00445983",
+            "elevationUnit": "METERS",
+            "longitude": -75.58333
+        },
+        {
+            "elevation": 92,
+            "mindate": "1905-03-01",
+            "maxdate": "1976-10-31",
+            "latitude": 37.7,
+            "name": "NEW CANTON, VA US",
+            "datacoverage": 0.9941,
+            "id": "GHCND:USC00446004",
+            "elevationUnit": "METERS",
+            "longitude": -78.3
+        },
+        {
+            "elevation": 383.4,
+            "mindate": "1907-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 37.5092,
+            "name": "NEW CASTLE, VA US",
+            "datacoverage": 0.5217,
+            "id": "GHCND:USC00446012",
+            "elevationUnit": "METERS",
+            "longitude": -80.098
+        },
+        {
+            "elevation": 627.9,
+            "mindate": "1945-01-01",
+            "maxdate": "2005-02-28",
+            "latitude": 37.29694,
+            "name": "NEWPORT 2 NNW, VA US",
+            "datacoverage": 0.961,
+            "id": "GHCND:USC00446046",
+            "elevationUnit": "METERS",
+            "longitude": -80.49389
+        },
+        {
+            "elevation": 14.9,
+            "mindate": "1898-11-01",
+            "maxdate": "1980-12-31",
+            "latitude": 37.01667,
+            "name": "NEWPORT NEWS PRESS B, VA US",
+            "datacoverage": 0.7059,
+            "id": "GHCND:USC00446054",
+            "elevationUnit": "METERS",
+            "longitude": -76.45
+        },
+        {
+            "elevation": 810.2,
+            "mindate": "2006-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 37.01529,
+            "name": "NORA 4 SSE, VA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00446125",
+            "elevationUnit": "METERS",
+            "longitude": -82.31981
+        },
+        {
+            "elevation": 3,
+            "mindate": "2003-01-01",
+            "maxdate": "2020-05-16",
+            "latitude": 36.8707,
+            "name": "NORFOLK SOUTH, VA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00446147",
+            "elevationUnit": "METERS",
+            "longitude": -76.2289
+        },
+        {
+            "elevation": 1.2,
+            "mindate": "2002-01-01",
+            "maxdate": "2019-08-31",
+            "latitude": 37.4339,
+            "name": "NORTH, VA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00446161",
+            "elevationUnit": "METERS",
+            "longitude": -76.4414
+        },
+        {
+            "elevation": 510.5,
+            "mindate": "1969-11-01",
+            "maxdate": "2020-05-15",
+            "latitude": 37.1244,
+            "name": "NORTH FORK LAKE, VA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00446173",
+            "elevationUnit": "METERS",
+            "longitude": -82.6339
+        },
+        {
+            "elevation": 732.1,
+            "mindate": "1930-08-01",
+            "maxdate": "1979-11-30",
+            "latitude": 38.36667,
+            "name": "NORTH RIVER DAM, VA US",
+            "datacoverage": 0.9797,
+            "id": "GHCND:USC00446199",
+            "elevationUnit": "METERS",
+            "longitude": -79.26667
+        },
+        {
+            "elevation": 8.2,
+            "mindate": "1977-05-01",
+            "maxdate": "1985-11-13",
+            "latitude": 37.28333,
+            "name": "OYSTER 1 W, VA US",
+            "datacoverage": 0.7182,
+            "id": "GHCND:USC00446456",
+            "elevationUnit": "METERS",
+            "longitude": -75.93333
+        },
+        {
+            "elevation": 766.6,
+            "mindate": "1993-01-01",
+            "maxdate": "1996-11-30",
+            "latitude": 37.55,
+            "name": "PAINT BANK 1 W, VA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00446470",
+            "elevationUnit": "METERS",
+            "longitude": -80.28333
+        },
+        {
+            "elevation": 9.1,
+            "mindate": "1955-12-01",
+            "maxdate": "2020-05-15",
+            "latitude": 37.5844,
+            "name": "PAINTER 2 W, VA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00446475",
+            "elevationUnit": "METERS",
+            "longitude": -75.8217
+        },
+        {
+            "elevation": 125,
+            "mindate": "1957-04-01",
+            "maxdate": "2020-04-01",
+            "latitude": 37.8141,
+            "name": "PALMYRA 3 S, VA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00446491",
+            "elevationUnit": "METERS",
+            "longitude": -78.2645
+        },
+        {
+            "elevation": 75.9,
+            "mindate": "1952-01-01",
+            "maxdate": "1976-12-31",
+            "latitude": 38.05,
+            "name": "PARTLOW 3 WNW, VA US",
+            "datacoverage": 0.9829,
+            "id": "GHCND:USC00446533",
+            "elevationUnit": "METERS",
+            "longitude": -77.7
+        },
+        {
+            "elevation": 796.1,
+            "mindate": "1958-01-01",
+            "maxdate": "1976-11-30",
+            "latitude": 37.46667,
+            "name": "PEAKS OF OTTER, VA US",
+            "datacoverage": 0.9585,
+            "id": "GHCND:USC00446573",
+            "elevationUnit": "METERS",
+            "longitude": -79.6
+        },
+        {
+            "elevation": 312.1,
+            "mindate": "1926-11-01",
+            "maxdate": "2020-05-17",
+            "latitude": 37.6694,
+            "name": "PEDLAR DAM, VA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00446593",
+            "elevationUnit": "METERS",
+            "longitude": -79.2774
+        },
+        {
+            "elevation": 414.5,
+            "mindate": "1931-01-01",
+            "maxdate": "2010-12-31",
+            "latitude": 36.7586,
+            "name": "PENNINGTON GAP, VA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00446626",
+            "elevationUnit": "METERS",
+            "longitude": -83.0105
+        },
+        {
+            "elevation": 5.8,
+            "mindate": "1979-08-01",
+            "maxdate": "2020-05-14",
+            "latitude": 37.2388,
+            "name": "PETERSBURG, VA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00446656",
+            "elevationUnit": "METERS",
+            "longitude": -77.3925
+        },
+        {
+            "elevation": 342.3,
+            "mindate": "1953-09-01",
+            "maxdate": "2016-03-01",
+            "latitude": 36.7764,
+            "name": "PHILPOTT DAM 2, VA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00446692",
+            "elevationUnit": "METERS",
+            "longitude": -80.0272
+        },
+        {
+            "elevation": 158.5,
+            "mindate": "1946-11-01",
+            "maxdate": "2020-05-15",
+            "latitude": 38.2323,
+            "name": "PIEDMONT RESEARCH STATION, VA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00446712",
+            "elevationUnit": "METERS",
+            "longitude": -78.1202
+        },
+        {
+            "elevation": 665.1,
+            "mindate": "1940-04-01",
+            "maxdate": "1985-12-31",
+            "latitude": 37.06667,
+            "name": "PILOT 1 ENE, VA US",
+            "datacoverage": 0.989,
+            "id": "GHCND:USC00446723",
+            "elevationUnit": "METERS",
+            "longitude": -80.35
+        },
+        {
+            "elevation": 228.9,
+            "mindate": "1977-01-01",
+            "maxdate": "1985-08-31",
+            "latitude": 37.7,
+            "name": "PINEY RIVER 2 SE, VA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00446747",
+            "elevationUnit": "METERS",
+            "longitude": -79
+        },
+        {
+            "elevation": 121.9,
+            "mindate": "1923-01-01",
+            "maxdate": "2012-04-30",
+            "latitude": 37.5145,
+            "name": "POWHATAN, VA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00446906",
+            "elevationUnit": "METERS",
+            "longitude": -77.8859
+        },
+        {
+            "elevation": 563.9,
+            "mindate": "1920-05-01",
+            "maxdate": "2020-05-17",
+            "latitude": 37.0556,
+            "name": "PULASKI 2 E, VA US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00446955",
+            "elevationUnit": "METERS",
+            "longitude": -80.7842
         }
     ]
 }
