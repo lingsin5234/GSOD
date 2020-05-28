@@ -1,0 +1,317 @@
+{
+    "metadata": {
+        "resultset": {
+            "offset": 1,
+            "count": 28,
+            "limit": 1000
+        }
+    },
+    "results": [
+        {
+            "elevation": 78.9,
+            "mindate": "1948-08-01",
+            "maxdate": "1958-03-01",
+            "latitude": 38.95,
+            "name": "BRIGHTWOOD DC, DC US",
+            "datacoverage": 0.9399,
+            "id": "COOP:181135",
+            "elevationUnit": "METERS",
+            "longitude": -77.01667
+        },
+        {
+            "elevation": 45.7,
+            "mindate": "1946-01-01",
+            "maxdate": "2015-11-01",
+            "latitude": 38.9385,
+            "name": "DALECARLIA RESERVOIR, DC US",
+            "datacoverage": 0.9547,
+            "id": "COOP:182325",
+            "elevationUnit": "METERS",
+            "longitude": -77.1134
+        },
+        {
+            "elevation": 15.2,
+            "mindate": "1946-01-01",
+            "maxdate": "2015-11-01",
+            "latitude": 38.9133,
+            "name": "NATIONAL ARBORETUM DC, DC US",
+            "datacoverage": 0.9404,
+            "id": "COOP:186350",
+            "elevationUnit": "METERS",
+            "longitude": -76.97
+        },
+        {
+            "elevation": 70.1,
+            "mindate": "1944-07-01",
+            "maxdate": "1978-06-01",
+            "latitude": 38.93333,
+            "name": "U S SOLDIERS HOME DC, DC US",
+            "datacoverage": 0.9045,
+            "id": "COOP:189035",
+            "elevationUnit": "METERS",
+            "longitude": -77.01667
+        },
+        {
+            "elevation": 21.9,
+            "mindate": "1948-05-01",
+            "maxdate": "1965-12-25",
+            "latitude": 38.901111,
+            "name": "WASHINGTON DC WEATHER BUREAU CITY, DC US",
+            "datacoverage": 1,
+            "id": "COOP:189290",
+            "elevationUnit": "METERS",
+            "longitude": -77.050278
+        },
+        {
+            "elevation": 17.1,
+            "mindate": "2006-05-01",
+            "maxdate": "2006-08-31",
+            "latitude": 38.917137,
+            "name": "WASHINGTON 3.0 ENE, DC US",
+            "datacoverage": 0.9919,
+            "id": "GHCND:US1DCDC0001",
+            "elevationUnit": "METERS",
+            "longitude": -76.962607
+        },
+        {
+            "elevation": 85,
+            "mindate": "2006-05-01",
+            "maxdate": "2007-03-17",
+            "latitude": 38.957388,
+            "name": "WASHINGTON 3.7 NNW, DC US",
+            "datacoverage": 0.9925,
+            "id": "GHCND:US1DCDC0002",
+            "elevationUnit": "METERS",
+            "longitude": -77.033727
+        },
+        {
+            "elevation": 91.1,
+            "mindate": "2006-05-01",
+            "maxdate": "2006-08-31",
+            "latitude": 38.937668,
+            "name": "WASHINGTON 5.0 WNW, DC US",
+            "datacoverage": 0.9898,
+            "id": "GHCND:US1DCDC0003",
+            "elevationUnit": "METERS",
+            "longitude": -77.099101
+        },
+        {
+            "elevation": 21.9,
+            "mindate": "2007-03-01",
+            "maxdate": "2007-12-31",
+            "latitude": 38.892782,
+            "name": "WASHINGTON 2.0 ESE, DC US",
+            "datacoverage": 0.9947,
+            "id": "GHCND:US1DCDC0006",
+            "elevationUnit": "METERS",
+            "longitude": -76.983381
+        },
+        {
+            "elevation": 25,
+            "mindate": "2007-03-01",
+            "maxdate": "2007-09-17",
+            "latitude": 38.8943,
+            "name": "WASHINGTON 1.2 SE, DC US",
+            "datacoverage": 0.998,
+            "id": "GHCND:US1DCDC0007",
+            "elevationUnit": "METERS",
+            "longitude": -76.9982
+        },
+        {
+            "elevation": 27.1,
+            "mindate": "2007-08-01",
+            "maxdate": "2008-10-01",
+            "latitude": 38.890101,
+            "name": "WASHINGTON 2.0 ESE, DC US",
+            "datacoverage": 0.998,
+            "id": "GHCND:US1DCDC0008",
+            "elevationUnit": "METERS",
+            "longitude": -76.985364
+        },
+        {
+            "elevation": 3,
+            "mindate": "2008-01-01",
+            "maxdate": "2020-05-17",
+            "latitude": 38.876594,
+            "name": "WASHINGTON 2.0 SSW, DC US",
+            "datacoverage": 0.4948,
+            "id": "GHCND:US1DCDC0009",
+            "elevationUnit": "METERS",
+            "longitude": -77.022402
+        },
+        {
+            "elevation": 88.1,
+            "mindate": "2008-07-01",
+            "maxdate": "2018-08-02",
+            "latitude": 38.97729754,
+            "name": "WASHINGTON 5.0 N, DC US",
+            "datacoverage": 1,
+            "id": "GHCND:US1DCDC0010",
+            "elevationUnit": "METERS",
+            "longitude": -77.02445991
+        },
+        {
+            "elevation": 81.4,
+            "mindate": "2008-10-01",
+            "maxdate": "2010-10-22",
+            "latitude": 38.930277,
+            "name": "WASHINGTON 4.0 WNW, DC US",
+            "datacoverage": 1,
+            "id": "GHCND:US1DCDC0011",
+            "elevationUnit": "METERS",
+            "longitude": -77.083075
+        },
+        {
+            "elevation": 106.4,
+            "mindate": "2011-06-01",
+            "maxdate": "2020-05-11",
+            "latitude": 38.958091,
+            "name": "WASHINGTON 5.1 NW, DC US",
+            "datacoverage": 1,
+            "id": "GHCND:US1DCDC0014",
+            "elevationUnit": "METERS",
+            "longitude": -77.08173
+        },
+        {
+            "elevation": 50.6,
+            "mindate": "2011-09-01",
+            "maxdate": "2018-09-04",
+            "latitude": 38.920341,
+            "name": "WASHINGTON 1.9 WNW, DC US",
+            "datacoverage": 0.7999,
+            "id": "GHCND:US1DCDC0015",
+            "elevationUnit": "METERS",
+            "longitude": -77.045627
+        },
+        {
+            "elevation": 9.1,
+            "mindate": "2015-03-01",
+            "maxdate": "2018-11-25",
+            "latitude": 38.895768,
+            "name": "THE WHITE HOUSE, DC US",
+            "datacoverage": 0.9973,
+            "id": "GHCND:US1DCDC0019",
+            "elevationUnit": "METERS",
+            "longitude": -77.036975
+        },
+        {
+            "elevation": 78.9,
+            "mindate": "1944-11-01",
+            "maxdate": "1959-07-31",
+            "latitude": 38.95,
+            "name": "BRIGHTWOOD DC, DC US",
+            "datacoverage": 0.7138,
+            "id": "GHCND:USC00181135",
+            "elevationUnit": "METERS",
+            "longitude": -77.01667
+        },
+        {
+            "elevation": 45.7,
+            "mindate": "1948-08-01",
+            "maxdate": "2020-02-29",
+            "latitude": 38.9385,
+            "name": "DALECARLIA RESERVOIR, DC US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00182325",
+            "elevationUnit": "METERS",
+            "longitude": -77.1134
+        },
+        {
+            "elevation": 15.2,
+            "mindate": "1948-08-01",
+            "maxdate": "2020-03-31",
+            "latitude": 38.9133,
+            "name": "NATIONAL ARBORETUM DC, DC US",
+            "datacoverage": 1,
+            "id": "GHCND:USC00186350",
+            "elevationUnit": "METERS",
+            "longitude": -76.97
+        },
+        {
+            "elevation": 70.1,
+            "mindate": "1948-08-01",
+            "maxdate": "1977-12-31",
+            "latitude": 38.93333,
+            "name": "U S SOLDIERS HOME DC, DC US",
+            "datacoverage": 0.9999,
+            "id": "GHCND:USC00189035",
+            "elevationUnit": "METERS",
+            "longitude": -77.01667
+        },
+        {
+            "elevation": 18,
+            "mindate": "1947-08-01",
+            "maxdate": "1969-09-04",
+            "latitude": 38.83333,
+            "name": "WASHINGTON DC BOLLING FIELD AFB, DC US",
+            "datacoverage": 0.5552,
+            "id": "GHCND:USW00013710",
+            "elevationUnit": "METERS",
+            "longitude": -77.01667
+        },
+        {
+            "elevation": 15.8,
+            "mindate": "1945-01-01",
+            "maxdate": "1956-12-05",
+            "latitude": 38.85,
+            "name": "ANACOSTIA NAS, VA US",
+            "datacoverage": 0.8328,
+            "id": "GHCND:USW00013751",
+            "elevationUnit": "METERS",
+            "longitude": -77.03333
+        },
+        {
+            "elevation": 21.9,
+            "mindate": "1851-03-01",
+            "maxdate": "1965-12-31",
+            "latitude": 38.901111,
+            "name": "WASHINGTON DC WEATHER BUREAU CITY, DC US",
+            "datacoverage": 0.3468,
+            "id": "GHCND:USW00093725",
+            "elevationUnit": "METERS",
+            "longitude": -77.050278
+        },
+        {
+            "elevation": 34.1,
+            "mindate": "1995-01-01",
+            "maxdate": "2020-05-26",
+            "latitude": 36.98389,
+            "name": "NORFOLK RICH, VA US",
+            "datacoverage": 0.95,
+            "id": "NEXRAD:KAKQ",
+            "elevationUnit": "METERS",
+            "longitude": -77.0075
+        },
+        {
+            "elevation": 733,
+            "mindate": "1995-05-09",
+            "maxdate": "2020-05-26",
+            "latitude": 40.92306,
+            "name": "STATE COLLEGE, PA US",
+            "datacoverage": 0.95,
+            "id": "NEXRAD:KCCX",
+            "elevationUnit": "METERS",
+            "longitude": -78.00389
+        },
+        {
+            "elevation": 15.2,
+            "mindate": "1995-08-15",
+            "maxdate": "2020-05-26",
+            "latitude": 38.82556,
+            "name": "DOVER AFB, DE US",
+            "datacoverage": 0.95,
+            "id": "NEXRAD:KDOX",
+            "elevationUnit": "METERS",
+            "longitude": -75.44
+        },
+        {
+            "mindate": "1991-11-12",
+            "maxdate": "2020-05-26",
+            "latitude": 38.97628,
+            "name": "STERLING, VA US",
+            "datacoverage": 0.95,
+            "id": "NEXRAD:KLWX",
+            "longitude": -77.48751
+        }
+    ]
+}
