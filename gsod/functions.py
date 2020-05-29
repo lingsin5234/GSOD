@@ -85,8 +85,13 @@ def add_station(station_details):
 def run_add_stations():
 
     lst = aws.retrieve_airport_and_weather_stations('GHCND')
-    add_airports(lst['us_states'], lst['airport_lst'])
-    add_weather_stations(lst['us_states'], lst['weather_lst'])
+    usr_input = input('run airports? (Y/N)')
+    if usr_input == 'Y':
+        add_airports(lst['us_states'], lst['airport_lst'])
+    usr_input = input('run weather stations? (Y/N)')
+    if usr_input == 'Y':
+        add_weather_stations(lst['us_states'], lst['weather_lst'])
+    print("Completed run_add_stations function call.")
 
     return True
 
@@ -111,6 +116,8 @@ def add_airports(states, airport_lst):
             lst_count += 1
 
         usr_input = input("Type number(s) to write to model, separate by space for more than one.\n")
+        if usr_input == 'exit':
+            return False
         selected = [int(n)-1 for n in usr_input.split(' ') if n != '']
         if len(selected) > 0:
             print("SELECTED: ", selected, ig(*selected)(lst_this_state))
@@ -160,6 +167,8 @@ def add_weather_stations(states, weather_lst):
                 print((str(lst_count) + '.'), a['name'])
                 lst_count += 1
         usr_input = input("Type number(s) to write to model, separate by space for more than one.\n")
+        if usr_input == 'exit':
+            return False
         selected = [int(n)-1 for n in usr_input.split(' ') if n != '']
         if len(selected) > 0:
             print("SELECTED: ", ig(*selected)(lst_this_state))
