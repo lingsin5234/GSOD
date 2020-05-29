@@ -99,32 +99,41 @@ def add_airports(states, airport_lst):
     for s in states:
 
         # list the airports for US state, then user inputs which ones to add to Models
-        lst_count = 1
+        lst_this_state = []
         for a in airport_lst:
             if a['us_state'] == s:
-                print((str(lst_count) + '.'), a['name'])
-                lst_count += 1
+                lst_this_state.append(a)
+
+        # run thru the list and ask for user input
+        lst_count = 1
+        for a in lst_this_state:
+            print((str(lst_count) + '.'), a['name'])
+            lst_count += 1
+
         usr_input = input("Type number(s) to write to model, separate by space for more than one.\n")
         selected = [int(n)-1 for n in usr_input.split(' ') if n != '']
-        print("SELECTED: ", selected, ig(*selected)(airport_lst))
-        input("Hit Enter to add.")
+        if len(selected) > 0:
+            print("SELECTED: ", selected, ig(*selected)(lst_this_state))
+            input("Hit Enter to add.")
 
-        # adding the specified airport to Models
-        for l in selected:
-            apt_details = airport_lst[l]
-            new_dict = {
-                'id': apt_details['id'],
-                'name': apt_details['name'],
-                'latitude': apt_details['latitude'],
-                'longitude': apt_details['longitude'],
-                'elevation': apt_details['elevation'],
-                'elevation_unit': apt_details['elevation_unit'],
-                'us_state': apt_details['us_state']
-            }
-            add_station(new_dict)
+            # adding the specified airport to Models
+            for l in selected:
+                apt_details = lst_this_state[l]
+                new_dict = {
+                    'id': apt_details['id'],
+                    'name': apt_details['name'],
+                    'latitude': apt_details['latitude'],
+                    'longitude': apt_details['longitude'],
+                    'elevation': apt_details['elevation'],
+                    'elevation_unit': apt_details['elevation_unit'],
+                    'us_state': apt_details['us_state']
+                }
+                add_station(new_dict)
 
-        total += len(selected)
-        print(len(selected), "airports added for", s)
+            total += len(selected)
+            print(len(selected), "airports added for", s)
+        else:
+            print("No airports added for", s)
         input("Enter to continue.")
 
     print(total, "airports have been added.")
@@ -139,32 +148,41 @@ def add_weather_stations(states, weather_lst):
     for s in states:
 
         # list the weather stations for US state, then user inputs which ones to add to Models
-        lst_count = 1
+        lst_this_state = []
         for a in weather_lst:
+            if a['us_state'] == s:
+                lst_this_state.append(a)
+
+        # run thru the list and ask for user input
+        lst_count = 1
+        for a in lst_this_state:
             if a['us_state'] == s:
                 print((str(lst_count) + '.'), a['name'])
                 lst_count += 1
         usr_input = input("Type number(s) to write to model, separate by space for more than one.\n")
         selected = [int(n)-1 for n in usr_input.split(' ') if n != '']
-        print("SELECTED: ", ig(*selected)(weather_lst))
-        input("Hit Enter to add.")
+        if len(selected) > 0:
+            print("SELECTED: ", ig(*selected)(lst_this_state))
+            input("Hit Enter to add.")
 
-        # adding the specified weather to Models
-        for l in selected:
-            wst_details = weather_lst[l]
-            new_dict = {
-                'id': wst_details['id'],
-                'name': wst_details['name'],
-                'latitude': wst_details['latitude'],
-                'longitude': wst_details['longitude'],
-                'elevation': wst_details['elevation'],
-                'elevation_unit': wst_details['elevation_unit'],
-                'us_state': wst_details['us_state']
-            }
-            add_station(new_dict)
+            # adding the specified weather to Models
+            for l in selected:
+                wst_details = lst_this_state[l]
+                new_dict = {
+                    'id': wst_details['id'],
+                    'name': wst_details['name'],
+                    'latitude': wst_details['latitude'],
+                    'longitude': wst_details['longitude'],
+                    'elevation': wst_details['elevation'],
+                    'elevation_unit': wst_details['elevation_unit'],
+                    'us_state': wst_details['us_state']
+                }
+                add_station(new_dict)
 
-        total += len(selected)
-        print(len(selected), "weather stations added for", s)
+            total += len(selected)
+            print(len(selected), "weather stations added for", s)
+        else:
+            print("No airports added for", s)
         input("Enter to continue.")
 
     print(total, "weather stations have been added.")
