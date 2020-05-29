@@ -2,256 +2,424 @@
     {
         "name": "BELLEMONT WEATHER FORECAST OFFICE, AZ US",
         "id": "GHCND:USC00020678",
-        "state": "Arizona"
+        "latitude": 35.2302,
+        "longitude": -111.8221,
+        "elevation": 2179.9,
+        "elevation_unit": "METERS",
+        "us_state": "Arizona"
     },
     {
         "name": "OXNARD WEATHER FORECAST OFFICE, CA US",
         "id": "GHCND:USC00046572",
-        "state": "California"
+        "latitude": 34.2066,
+        "longitude": -119.1375,
+        "elevation": 15.8,
+        "elevation_unit": "METERS",
+        "us_state": "California"
     },
     {
         "name": "EUREKA WEATHER FORECAST OFFICE WOODLEY ISLAND, CA US",
         "id": "GHCND:USW00024213",
-        "state": "California"
-    },
-    {
-        "name": "EUREKA WEATHER FORECAST OFFICE WOODLEY ISLAND, CA US",
-        "id": "WBAN:24213",
-        "state": "California"
+        "latitude": 40.8097,
+        "longitude": -124.1602,
+        "elevation": 6.1,
+        "elevation_unit": "METERS",
+        "us_state": "California"
     },
     {
         "name": "GRAND JUNCTION WEATHER FORECAST OFFICE, CO US",
         "id": "GHCND:USC00053486",
-        "state": "Colorado"
+        "latitude": 39.1198,
+        "longitude": -108.5247,
+        "elevation": 1471,
+        "elevation_unit": "METERS",
+        "us_state": "Colorado"
     },
     {
         "name": "WEATHER FORECAST OFFICE PUEBLO, CO US",
         "id": "GHCND:USC00058992",
-        "state": "Colorado"
+        "latitude": 38.2798,
+        "longitude": -104.5215,
+        "elevation": 1418.2,
+        "elevation_unit": "METERS",
+        "us_state": "Colorado"
     },
     {
         "name": "OCALA WEATHER SERVICE, FL US",
         "id": "GHCND:US1FLMR0012",
-        "state": "Florida"
+        "latitude": 29.08046,
+        "longitude": -82.173797,
+        "elevation": 28,
+        "elevation_unit": "METERS",
+        "us_state": "Florida"
     },
     {
         "name": "KEY WEST WEATHER FORECAST OFFICE, FL US",
         "id": "GHCND:USC00084571",
-        "state": "Florida"
+        "latitude": 24.55338,
+        "longitude": -81.78807,
+        "elevation": 1.2,
+        "elevation_unit": "METERS",
+        "us_state": "Florida"
     },
     {
         "name": "MELBOURNE WEATHER FORECAST OFFICE, FL US",
         "id": "GHCND:USC00085612",
-        "state": "Florida"
+        "latitude": 28.1136,
+        "longitude": -80.654,
+        "elevation": 10.7,
+        "elevation_unit": "METERS",
+        "us_state": "Florida"
     },
     {
         "name": "BOISE NWS WEATHER FORECAST OFFICE, ID US",
         "id": "GHCND:USC00101024",
-        "state": "Idaho"
+        "latitude": 43.5685,
+        "longitude": -116.2101,
+        "elevation": 870.5,
+        "elevation_unit": "METERS",
+        "us_state": "Idaho"
     },
     {
         "name": "ROMEOVILLE WEATHER FORECAST OFFICE, IL US",
         "id": "GHCND:USC00117457",
-        "state": "Illinois"
-    },
-    {
-        "name": "ROMEOVILLE WEATHER FORECAST OFFICE, IL US",
-        "id": "WBAN:04831",
-        "state": "Illinois"
+        "latitude": 41.60413,
+        "longitude": -88.08497,
+        "elevation": 201.2,
+        "elevation_unit": "METERS",
+        "us_state": "Illinois"
     },
     {
         "name": "NORTHERN INDIANA WEATHER FORECAST OFFICE, IN US",
         "id": "GHCND:USC00126400",
-        "state": "Indiana"
+        "latitude": 41.3588,
+        "longitude": -85.6997,
+        "elevation": 289.9,
+        "elevation_unit": "METERS",
+        "us_state": "Indiana"
     },
     {
         "name": "DAVENPORT WEATHER FORECAST OFFICE, IA US",
         "id": "GHCND:USC00132070",
-        "state": "Iowa"
+        "latitude": 41.61191,
+        "longitude": -90.58025,
+        "elevation": 228.6,
+        "elevation_unit": "METERS",
+        "us_state": "Iowa"
     },
     {
         "name": "LOUISVILLE WEATHER FORECAST OFFICE, KY US",
         "id": "GHCND:USC00154958",
-        "state": "Kentucky"
+        "latitude": 38.1151,
+        "longitude": -85.6445,
+        "elevation": 192.6,
+        "elevation_unit": "METERS",
+        "us_state": "Kentucky"
     },
     {
         "name": "SHREVEPORT WEATHER FORECAST OFFICE, LA US",
         "id": "GHCND:USC00168448",
-        "state": "Louisiana"
+        "latitude": 32.4513,
+        "longitude": -93.8416,
+        "elevation": 83.5,
+        "elevation_unit": "METERS",
+        "us_state": "Louisiana"
     },
     {
         "name": "CARIBOU WEATHER FORECAST OFFICE, ME US",
         "id": "GHCND:USW00014607",
-        "state": "Maine"
-    },
-    {
-        "name": "CARIBOU WEATHER FORECAST OFFICE, ME US",
-        "id": "WBAN:14607",
-        "state": "Maine"
+        "latitude": 46.8705,
+        "longitude": -68.0173,
+        "elevation": 190.2,
+        "elevation_unit": "METERS",
+        "us_state": "Maine"
     },
     {
         "name": "PLEASANT HILL WEATHER FORECAST OFFICE, MO US",
         "id": "GHCND:USC00236745",
-        "state": "Missouri"
+        "latitude": 38.8099,
+        "longitude": -94.2647,
+        "elevation": 304.8,
+        "elevation_unit": "METERS",
+        "us_state": "Missouri"
     },
     {
         "name": "SPRINGFIELD WEATHER FORECAST OFFICE, MO US",
         "id": "GHCND:USW00093981",
-        "state": "Missouri"
+        "latitude": 37.23545,
+        "longitude": -93.40121,
+        "elevation": 389.5,
+        "elevation_unit": "METERS",
+        "us_state": "Missouri"
     },
     {
         "name": "BILLINGS WEATHER FORECAST OFFICE, MT US",
         "id": "GHCND:USC00240801",
-        "state": "Montana"
+        "latitude": 45.7502,
+        "longitude": -108.5696,
+        "elevation": 970.8,
+        "elevation_unit": "METERS",
+        "us_state": "Montana"
     },
     {
         "name": "GLASGOW WEATHER FORECAST OFFICE, MT US",
         "id": "GHCND:USC00243555",
-        "state": "Montana"
+        "latitude": 48.2063,
+        "longitude": -106.6255,
+        "elevation": 692.2,
+        "elevation_unit": "METERS",
+        "us_state": "Montana"
     },
     {
         "name": "GREAT FALLS WEATHER FORECAST OFFICE, MT US",
         "id": "GHCND:USC00243753",
-        "state": "Montana"
+        "latitude": 47.4615,
+        "longitude": -111.385,
+        "elevation": 1129.3,
+        "elevation_unit": "METERS",
+        "us_state": "Montana"
     },
     {
         "name": "MISSOULA 6 NW WEATHER FORECAST OFFICE, MT US",
         "id": "GHCND:USC00245740",
-        "state": "Montana"
+        "latitude": 46.9244,
+        "longitude": -114.0911,
+        "elevation": 974.4,
+        "elevation_unit": "METERS",
+        "us_state": "Montana"
     },
     {
         "name": "PHILADELPHIA MT. HOLLY WEATHER FORECAST OFFICE, NJ US",
         "id": "GHCND:USC00286964",
-        "state": "New Jersey"
+        "latitude": 40.01369,
+        "longitude": -74.81753,
+        "elevation": 19.2,
+        "elevation_unit": "METERS",
+        "us_state": "New Jersey"
     },
     {
         "name": "NEWPORT MOREHEAD CITY WEATHER FORECAST OFFICE, NC US",
         "id": "GHCND:USC00316096",
-        "state": "North Carolina"
+        "latitude": 34.7763,
+        "longitude": -76.877,
+        "elevation": 9.1,
+        "elevation_unit": "METERS",
+        "us_state": "North Carolina"
     },
     {
         "name": "BISMARCK WEATHER FORECAST OFFICE, ND US",
         "id": "GHCND:USC00320818",
-        "state": "North Dakota"
+        "latitude": 46.7716,
+        "longitude": -100.7591,
+        "elevation": 503.2,
+        "elevation_unit": "METERS",
+        "us_state": "North Dakota"
     },
     {
         "name": "WEATHERFORD 5.7 N, OK US",
         "id": "GHCND:US1OKCS0003",
-        "state": "Oklahoma"
+        "latitude": 35.6198202073574,
+        "longitude": -98.6855144798756,
+        "elevation": 494.7,
+        "elevation_unit": "METERS",
+        "us_state": "Oklahoma"
     },
     {
         "name": "WEATHERFORD, OK US",
         "id": "GHCND:USC00349422",
-        "state": "Oklahoma"
+        "latitude": 35.5199,
+        "longitude": -98.6986,
+        "elevation": 493.2,
+        "elevation_unit": "METERS",
+        "us_state": "Oklahoma"
     },
     {
         "name": "PENDLETON WEATHER FORECAST OFFICE, OR US",
         "id": "GHCND:USC00356550",
-        "state": "Oregon"
+        "latitude": 45.691,
+        "longitude": -118.8523,
+        "elevation": 460.2,
+        "elevation_unit": "METERS",
+        "us_state": "Oregon"
     },
     {
         "name": "PORTLAND WEATHER FORECAST OFFICE, OR US",
         "id": "GHCND:USC00356750",
-        "state": "Oregon"
+        "latitude": 45.5605,
+        "longitude": -122.5383,
+        "elevation": 6.4,
+        "elevation_unit": "METERS",
+        "us_state": "Oregon"
     },
     {
         "name": "RAPID CITY WEATHER FORECAST OFFICE, SD US",
         "id": "GHCND:USC00396948",
-        "state": "South Dakota"
+        "latitude": 44.0727,
+        "longitude": -103.2108,
+        "elevation": 1029.9,
+        "elevation_unit": "METERS",
+        "us_state": "South Dakota"
     },
     {
         "name": "MEMPHIS WEATHER FORECAST OFFICE, TN US",
         "id": "GHCND:USC00405956",
-        "state": "Tennessee"
+        "latitude": 35.1298,
+        "longitude": -89.8037,
+        "elevation": 94.5,
+        "elevation_unit": "METERS",
+        "us_state": "Tennessee"
     },
     {
         "name": "MORRISTOWN WEATHER FORECAST OFFICE, TN US",
         "id": "GHCND:USC00406272",
-        "state": "Tennessee"
+        "latitude": 36.1682,
+        "longitude": -83.4027,
+        "elevation": 402.3,
+        "elevation_unit": "METERS",
+        "us_state": "Tennessee"
     },
     {
         "name": "OLD HICKORY WEATHER FORECAST OFFICE, TN US",
         "id": "GHCND:USC00406806",
-        "state": "Tennessee"
+        "latitude": 36.247,
+        "longitude": -86.5631,
+        "elevation": 179.8,
+        "elevation_unit": "METERS",
+        "us_state": "Tennessee"
     },
     {
         "name": "WEATHERFORD 4.2 SW, TX US",
         "id": "GHCND:US1TXPR0021",
-        "state": "Texas"
+        "latitude": 32.71971,
+        "longitude": -97.82852,
+        "elevation": 313.9,
+        "elevation_unit": "METERS",
+        "us_state": "Texas"
     },
     {
         "name": "HOUSTON NATIONAL WEATHER SERVICE OFFICE, TX US",
         "id": "GHCND:USC00414333",
-        "state": "Texas"
+        "latitude": 29.4718,
+        "longitude": -95.0832,
+        "elevation": 5.8,
+        "elevation_unit": "METERS",
+        "us_state": "Texas"
     },
     {
         "name": "LUBBOCK WEATHER FORECAST OFFICE, TX US",
         "id": "GHCND:USC00415409",
-        "state": "Texas"
+        "latitude": 33.52806,
+        "longitude": -101.87611,
+        "elevation": 986,
+        "elevation_unit": "METERS",
+        "us_state": "Texas"
     },
     {
         "name": "NEW BRAUNFELS WEATHER FORECAST OFFICE, TX US",
         "id": "GHCND:USC00416273",
-        "state": "Texas"
+        "latitude": 29.7047,
+        "longitude": -98.0288,
+        "elevation": 191.4,
+        "elevation_unit": "METERS",
+        "us_state": "Texas"
     },
     {
         "name": "SAN ANGELO WEATHER FORECAST OFFICE, TX US",
         "id": "GHCND:USC00417944",
-        "state": "Texas"
+        "latitude": 31.37083,
+        "longitude": -100.49432,
+        "elevation": 576.1,
+        "elevation_unit": "METERS",
+        "us_state": "Texas"
     },
     {
         "name": "WEATHERFORD, TX US",
         "id": "GHCND:USC00419532",
-        "state": "Texas"
+        "latitude": 32.7483,
+        "longitude": -97.77,
+        "elevation": 291.1,
+        "elevation_unit": "METERS",
+        "us_state": "Texas"
     },
     {
         "name": "WEATHER FORECAST OFFICE BROWNSVILLE, TX US",
         "id": "GHCND:USC00419649",
-        "state": "Texas"
-    },
-    {
-        "name": "EAGLE RANGE WEATHER SERVICE OFFICE, UT US",
-        "id": "WBAN:00480",
-        "state": "Utah"
+        "latitude": 25.9162,
+        "longitude": -97.4195,
+        "elevation": 4.6,
+        "elevation_unit": "METERS",
+        "us_state": "Texas"
     },
     {
         "name": "BLACKSBURG NATIONAL WEATHER SERVICE OFFICE, VA US",
         "id": "GHCND:USC00440766",
-        "state": "Virginia"
+        "latitude": 37.2039,
+        "longitude": -80.4144,
+        "elevation": 641,
+        "elevation_unit": "METERS",
+        "us_state": "Virginia"
     },
     {
         "name": "MOUNT WEATHER 3, VA US",
         "id": "GHCND:USC00445853",
-        "state": "Virginia"
+        "latitude": 39.06551,
+        "longitude": -77.89504,
+        "elevation": 472.4,
+        "elevation_unit": "METERS",
+        "us_state": "Virginia"
     },
     {
         "name": "WEATHER FORECAST OFFICE STERLING, VA US",
         "id": "GHCND:USC00448084",
-        "state": "Virginia"
+        "latitude": 38.9764,
+        "longitude": -77.4869,
+        "elevation": 87.8,
+        "elevation_unit": "METERS",
+        "us_state": "Virginia"
     },
     {
         "name": "SPOKANE WEATHER FORECAST OFFICE, WA US",
         "id": "GHCND:USC00457941",
-        "state": "Washington"
+        "latitude": 47.6812,
+        "longitude": -117.6267,
+        "elevation": 729.1,
+        "elevation_unit": "METERS",
+        "us_state": "Washington"
     },
     {
         "name": "SEATTLE SAND POINT WEATHER FORECAST OFFICE, WA US",
         "id": "GHCND:USW00094290",
-        "state": "Washington"
+        "latitude": 47.6872,
+        "longitude": -122.2553,
+        "elevation": 18.3,
+        "elevation_unit": "METERS",
+        "us_state": "Washington"
     },
     {
         "name": "GREEN BAY WEATHER FORECAST OFFICE, WI US",
         "id": "GHCND:USC00473268",
-        "state": "Wisconsin"
+        "latitude": 44.49824,
+        "longitude": -88.11205,
+        "elevation": 207.9,
+        "elevation_unit": "METERS",
+        "us_state": "Wisconsin"
     },
     {
         "name": "LA CROSSE WEATHER FORECAST OFFICE, WI US",
         "id": "GHCND:USC00474373",
-        "state": "Wisconsin"
+        "latitude": 43.8225,
+        "longitude": -91.1915,
+        "elevation": 398.4,
+        "elevation_unit": "METERS",
+        "us_state": "Wisconsin"
     },
     {
         "name": "CHEYENNE WEATHER FORECAST OFFICE, WY US",
         "id": "GHCND:USC00481676",
-        "state": "Wyoming"
+        "latitude": 41.15166,
+        "longitude": -104.80622,
+        "elevation": 1865.1,
+        "elevation_unit": "METERS",
+        "us_state": "Wyoming"
     }
 ]

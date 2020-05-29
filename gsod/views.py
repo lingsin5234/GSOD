@@ -2,7 +2,7 @@ from django.shortcuts import render
 from djangoapps.utils import get_this_template
 import os
 from .models import Station, GHCND
-from .functions import test_run, test_yeg
+from .functions import test_run, test_yeg, run_add_stations
 from .mapping import basic_map, basic_data_map
 # from .forms import StationDatesForm -- defunct
 # from django.db.models import Max, Min
@@ -38,10 +38,10 @@ def project_markdown(request):
 # stations list
 def list_stations(request):
 
-    x = test_run()
+    # x = test_run()
+    run_add_stations()
 
     stations = Station.objects.all()
-    print(x)
 
     context = {
         'stations': stations
