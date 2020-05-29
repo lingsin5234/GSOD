@@ -4,7 +4,7 @@ import os
 from .models import Station, GHCND
 from .functions import test_run, test_yeg
 from .mapping import basic_map, basic_data_map
-from .forms import StationDatesForm
+# from .forms import StationDatesForm -- defunct
 # from django.db.models import Max, Min
 from django.http import HttpResponse
 from matplotlib.backends.backend_agg import FigureCanvasAgg as FigureCanvas

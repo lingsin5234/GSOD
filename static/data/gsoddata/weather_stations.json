@@ -1,0 +1,257 @@
+[
+    {
+        "name": "BELLEMONT WEATHER FORECAST OFFICE, AZ US",
+        "id": "GHCND:USC00020678",
+        "state": "Arizona"
+    },
+    {
+        "name": "OXNARD WEATHER FORECAST OFFICE, CA US",
+        "id": "GHCND:USC00046572",
+        "state": "California"
+    },
+    {
+        "name": "EUREKA WEATHER FORECAST OFFICE WOODLEY ISLAND, CA US",
+        "id": "GHCND:USW00024213",
+        "state": "California"
+    },
+    {
+        "name": "EUREKA WEATHER FORECAST OFFICE WOODLEY ISLAND, CA US",
+        "id": "WBAN:24213",
+        "state": "California"
+    },
+    {
+        "name": "GRAND JUNCTION WEATHER FORECAST OFFICE, CO US",
+        "id": "GHCND:USC00053486",
+        "state": "Colorado"
+    },
+    {
+        "name": "WEATHER FORECAST OFFICE PUEBLO, CO US",
+        "id": "GHCND:USC00058992",
+        "state": "Colorado"
+    },
+    {
+        "name": "OCALA WEATHER SERVICE, FL US",
+        "id": "GHCND:US1FLMR0012",
+        "state": "Florida"
+    },
+    {
+        "name": "KEY WEST WEATHER FORECAST OFFICE, FL US",
+        "id": "GHCND:USC00084571",
+        "state": "Florida"
+    },
+    {
+        "name": "MELBOURNE WEATHER FORECAST OFFICE, FL US",
+        "id": "GHCND:USC00085612",
+        "state": "Florida"
+    },
+    {
+        "name": "BOISE NWS WEATHER FORECAST OFFICE, ID US",
+        "id": "GHCND:USC00101024",
+        "state": "Idaho"
+    },
+    {
+        "name": "ROMEOVILLE WEATHER FORECAST OFFICE, IL US",
+        "id": "GHCND:USC00117457",
+        "state": "Illinois"
+    },
+    {
+        "name": "ROMEOVILLE WEATHER FORECAST OFFICE, IL US",
+        "id": "WBAN:04831",
+        "state": "Illinois"
+    },
+    {
+        "name": "NORTHERN INDIANA WEATHER FORECAST OFFICE, IN US",
+        "id": "GHCND:USC00126400",
+        "state": "Indiana"
+    },
+    {
+        "name": "DAVENPORT WEATHER FORECAST OFFICE, IA US",
+        "id": "GHCND:USC00132070",
+        "state": "Iowa"
+    },
+    {
+        "name": "LOUISVILLE WEATHER FORECAST OFFICE, KY US",
+        "id": "GHCND:USC00154958",
+        "state": "Kentucky"
+    },
+    {
+        "name": "SHREVEPORT WEATHER FORECAST OFFICE, LA US",
+        "id": "GHCND:USC00168448",
+        "state": "Louisiana"
+    },
+    {
+        "name": "CARIBOU WEATHER FORECAST OFFICE, ME US",
+        "id": "GHCND:USW00014607",
+        "state": "Maine"
+    },
+    {
+        "name": "CARIBOU WEATHER FORECAST OFFICE, ME US",
+        "id": "WBAN:14607",
+        "state": "Maine"
+    },
+    {
+        "name": "PLEASANT HILL WEATHER FORECAST OFFICE, MO US",
+        "id": "GHCND:USC00236745",
+        "state": "Missouri"
+    },
+    {
+        "name": "SPRINGFIELD WEATHER FORECAST OFFICE, MO US",
+        "id": "GHCND:USW00093981",
+        "state": "Missouri"
+    },
+    {
+        "name": "BILLINGS WEATHER FORECAST OFFICE, MT US",
+        "id": "GHCND:USC00240801",
+        "state": "Montana"
+    },
+    {
+        "name": "GLASGOW WEATHER FORECAST OFFICE, MT US",
+        "id": "GHCND:USC00243555",
+        "state": "Montana"
+    },
+    {
+        "name": "GREAT FALLS WEATHER FORECAST OFFICE, MT US",
+        "id": "GHCND:USC00243753",
+        "state": "Montana"
+    },
+    {
+        "name": "MISSOULA 6 NW WEATHER FORECAST OFFICE, MT US",
+        "id": "GHCND:USC00245740",
+        "state": "Montana"
+    },
+    {
+        "name": "PHILADELPHIA MT. HOLLY WEATHER FORECAST OFFICE, NJ US",
+        "id": "GHCND:USC00286964",
+        "state": "New Jersey"
+    },
+    {
+        "name": "NEWPORT MOREHEAD CITY WEATHER FORECAST OFFICE, NC US",
+        "id": "GHCND:USC00316096",
+        "state": "North Carolina"
+    },
+    {
+        "name": "BISMARCK WEATHER FORECAST OFFICE, ND US",
+        "id": "GHCND:USC00320818",
+        "state": "North Dakota"
+    },
+    {
+        "name": "WEATHERFORD 5.7 N, OK US",
+        "id": "GHCND:US1OKCS0003",
+        "state": "Oklahoma"
+    },
+    {
+        "name": "WEATHERFORD, OK US",
+        "id": "GHCND:USC00349422",
+        "state": "Oklahoma"
+    },
+    {
+        "name": "PENDLETON WEATHER FORECAST OFFICE, OR US",
+        "id": "GHCND:USC00356550",
+        "state": "Oregon"
+    },
+    {
+        "name": "PORTLAND WEATHER FORECAST OFFICE, OR US",
+        "id": "GHCND:USC00356750",
+        "state": "Oregon"
+    },
+    {
+        "name": "RAPID CITY WEATHER FORECAST OFFICE, SD US",
+        "id": "GHCND:USC00396948",
+        "state": "South Dakota"
+    },
+    {
+        "name": "MEMPHIS WEATHER FORECAST OFFICE, TN US",
+        "id": "GHCND:USC00405956",
+        "state": "Tennessee"
+    },
+    {
+        "name": "MORRISTOWN WEATHER FORECAST OFFICE, TN US",
+        "id": "GHCND:USC00406272",
+        "state": "Tennessee"
+    },
+    {
+        "name": "OLD HICKORY WEATHER FORECAST OFFICE, TN US",
+        "id": "GHCND:USC00406806",
+        "state": "Tennessee"
+    },
+    {
+        "name": "WEATHERFORD 4.2 SW, TX US",
+        "id": "GHCND:US1TXPR0021",
+        "state": "Texas"
+    },
+    {
+        "name": "HOUSTON NATIONAL WEATHER SERVICE OFFICE, TX US",
+        "id": "GHCND:USC00414333",
+        "state": "Texas"
+    },
+    {
+        "name": "LUBBOCK WEATHER FORECAST OFFICE, TX US",
+        "id": "GHCND:USC00415409",
+        "state": "Texas"
+    },
+    {
+        "name": "NEW BRAUNFELS WEATHER FORECAST OFFICE, TX US",
+        "id": "GHCND:USC00416273",
+        "state": "Texas"
+    },
+    {
+        "name": "SAN ANGELO WEATHER FORECAST OFFICE, TX US",
+        "id": "GHCND:USC00417944",
+        "state": "Texas"
+    },
+    {
+        "name": "WEATHERFORD, TX US",
+        "id": "GHCND:USC00419532",
+        "state": "Texas"
+    },
+    {
+        "name": "WEATHER FORECAST OFFICE BROWNSVILLE, TX US",
+        "id": "GHCND:USC00419649",
+        "state": "Texas"
+    },
+    {
+        "name": "EAGLE RANGE WEATHER SERVICE OFFICE, UT US",
+        "id": "WBAN:00480",
+        "state": "Utah"
+    },
+    {
+        "name": "BLACKSBURG NATIONAL WEATHER SERVICE OFFICE, VA US",
+        "id": "GHCND:USC00440766",
+        "state": "Virginia"
+    },
+    {
+        "name": "MOUNT WEATHER 3, VA US",
+        "id": "GHCND:USC00445853",
+        "state": "Virginia"
+    },
+    {
+        "name": "WEATHER FORECAST OFFICE STERLING, VA US",
+        "id": "GHCND:USC00448084",
+        "state": "Virginia"
+    },
+    {
+        "name": "SPOKANE WEATHER FORECAST OFFICE, WA US",
+        "id": "GHCND:USC00457941",
+        "state": "Washington"
+    },
+    {
+        "name": "SEATTLE SAND POINT WEATHER FORECAST OFFICE, WA US",
+        "id": "GHCND:USW00094290",
+        "state": "Washington"
+    },
+    {
+        "name": "GREEN BAY WEATHER FORECAST OFFICE, WI US",
+        "id": "GHCND:USC00473268",
+        "state": "Wisconsin"
+    },
+    {
+        "name": "LA CROSSE WEATHER FORECAST OFFICE, WI US",
+        "id": "GHCND:USC00474373",
+        "state": "Wisconsin"
+    },
+    {
+        "name": "CHEYENNE WEATHER FORECAST OFFICE, WY US",
+        "id": "GHCND:USC00481676",
+        "state": "Wyoming"
+    }
+]
