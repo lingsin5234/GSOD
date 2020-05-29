@@ -32,7 +32,7 @@ stations_dim = Table('stations_dim', metadata,
 # location value table
 locations = Table('locations', metadata,
                   Column('Id', Integer, primary_key=True),
-                  Column('location_id', ForeignKey('locations_dim.Id')),
+                  Column('location_id', ForeignKey('locations_dim.Id'), unique=True),
                   Column('min_date', Date),
                   Column('max_date', Date),
                   Column('data_coverage', Float))
@@ -40,7 +40,7 @@ locations = Table('locations', metadata,
 # station dim table
 stations = Table('stations', metadata,
                  Column('Id', Integer, primary_key=True),
-                 Column('station_id', ForeignKey('stations_dim.Id')),
+                 Column('station_id', ForeignKey('stations_dim.Id'), unique=True),
                  Column('min_date', Date),
                  Column('max_date', Date),
                  Column('data_coverage', Float))
