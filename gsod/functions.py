@@ -75,8 +75,12 @@ def test_yeg(station_objs, start_date, end_date):
 # this function adds a Station Model to database
 def add_station(station_details):
 
-    s = Station(**station_details)
-    s.save()
+    try:
+        s = Station(**station_details)
+    except Exception as e:
+        print("FAILED TO ADD:", station_details['name'], "\n", e)
+    else:
+        s.save()
 
     return True
 
