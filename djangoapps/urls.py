@@ -23,7 +23,7 @@ urlpatterns = [
     re_path(r'^$', gsod_vw.homepage),
     re_path(r'^project/', gsod_vw.project_markdown),
     re_path(r'^stations/', gsod_vw.list_stations),
-    re_path(r'^edmonton-map/', gsod_vw.map_test),
+    re_path(r'^usa-map/', gsod_vw.map_test),
     re_path(r'^mapbox', gsod_vw.map_box_test, name='mapbox'),
     re_path(r'^table_view/station/(?P<station_id>[:A-Z0-9]+)/$', gsod_vw.station_data_table)
 ]

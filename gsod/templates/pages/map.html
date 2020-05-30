@@ -1,11 +1,75 @@
 {% include 'partials/header_noaa.html' %}
     <div id="my_title" class="d-flex justify-content-center">
-        <h1>MAP - EDMONTON</h1>
+        <h1>MAP - USA</h1>
     </div>
 
     <div class="d-flex justify-content-center">
-        <div>
-            <img src="data:image/png;base64, {{map}}" alt="" height="800" width="1000">
-        </div>
+        <div id="map" style="width: 800px; height: 600px;"></div>
     </div>
+
+    <script>
+        mapboxgl.accessToken = '{{ mapbox_access_token }}';
+        var map = new mapboxgl.Map({
+            container: 'map',
+            //style: 'mapbox://styles/mapbox/satellite-streets-v11',
+            //style: 'mapbox://styles/mapbox/streets-v11',
+            //style: 'mapbox://styles/mapbox/dark-v10',
+            //style: 'mapbox://styles/lingsin5234/ckattfmaf09bn1io5puf30hxs',
+            style: 'mapbox://styles/mapbox/light-v10',
+            center: [-96, 37.8],
+            zoom: 3
+        });
+        map.on('load', function() {
+            map.addSource('points', {
+                'type': 'geojson',
+                'data': {
+                    'type': 'FeatureCollection',
+                    'features': [
+                        {
+                            // feature for Mapbox DC
+                            'type': 'Feature',
+                            'geometry': {
+                                'type': 'Point',
+                                'coordinates': [
+                                    -77.03238901390978,
+                                    38.913188059745586
+                                ]
+                            },
+                            'properties': {
+                                'title': 'Mapbox DC',
+                                'icon': 'communications-tower'
+                            }
+                        },
+                        {
+                            // feature for Mapbox SF
+                            'type': 'Feature',
+                            'geometry': {
+                                'type': 'Point',
+                                'coordinates': [-122.414, 37.776]
+                            },
+                            'properties': {
+                                'title': 'Mapbox SF',
+                                'icon': 'monument'
+                            }
+                        }
+                    ]
+                }
+            });
+            map.addLayer({
+                'id': 'points',
+                'type': 'symbol',
+                'source': 'points',
+                'layout': {
+                    // get the icon name from the source's "icon" property
+                    // concatenate the name to get an icon from the style's sprite sheet
+                    'icon-image': ['concat', ['get', 'icon'], '-15'],
+                    // get the title name from the source's "title" property
+                    'text-field': ['get', 'title'],
+                    'text-font': ['Open Sans Semibold', 'Arial Unicode MS Bold'],
+                    'text-offset': [0, 0.6],
+                    'text-anchor': 'top'
+                }
+            });
+        });
+    </script>
 {% include 'partials/footer_noaa.html' %}

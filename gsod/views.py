@@ -50,24 +50,15 @@ def list_stations(request):
     return render(request, 'pages/stations.html', context)
 
 
-# this is test map using Edmonton
+# this is test map using USA
 def map_test(request):
 
-    # get stations from Edmonton
-    station_objs = Station.objects.filter(name__contains='Edmonton')
-    station_objs = station_objs.exclude(name__contains='Stony Plain')
-    x = test_yeg(station_objs, '2020-03-31', '2020-04-05')
-    # the_map = basic_map(stations)
-
-    # now get station data that was just saved
-    # stacking filters filter(A,B) == A && B; filter(A).filter(B) == A || B
-    # note that when referencing the foreign key model -- IT MUST BE lowercase!
-    station_data = GHCND.objects.filter(date__gte='2020-03-31', date__lte='2020-04-05')\
-        .values('station__longitude', 'station__latitude', 'date', 'datatype', 'attributes', 'value')
-    the_map = basic_data_map(station_data)
+    # get all stations
+    stations = Station.objects.all()
 
     context = {
-        'map': the_map
+        'mapbox_access_token': os.environ.get('mapbox_access_token'),
+        'stations': stations
     }
 
     return render(request, 'pages/map.html', context)
