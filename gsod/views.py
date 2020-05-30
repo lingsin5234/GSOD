@@ -10,6 +10,7 @@ from .mapping import basic_map, basic_data_map
 # from django.db.models import Max, Min
 from django.http import HttpResponse
 from matplotlib.backends.backend_agg import FigureCanvasAgg as FigureCanvas
+import datetime as dte
 
 
 # homepage
@@ -55,28 +56,38 @@ def list_stations(request):
 # this is test map using USA
 def map_test(request):
 
-    # get all stations
+    # get all stations and ghcnds
     stations = Station.objects.all()
+    # ghcnds = GHCND.objects.all()
 
     # stations json
     st_json = []
     for s in stations:
-        new_dict = {
-            'type': 'Feature',
-            'geometry': {
-                'type': 'Point',
-                'coordinates': [
-                    s.longitude,
-                    s.latitude
-                ]
-            },
-            'properties': {
-                'title': '',  # s.name
-                # 'icon': 'communications-tower'
-                'icon': 'airport'
+        # get ghcnd info for specific day: 2020-05-16 and datatype=TMAX
+        get_date = dte.datetime.strptime('2020-05-16', '%Y-%m-%d').date()
+
+        try:
+            ghcnd = GHCND.objects.get(station__id=s.id, date=get_date, datatype='TMAX')
+        except Exception as e:
+            print(s.id, 'no data found.')
+        else:
+            # create dictionary to load info to template view
+            new_dict = {
+                'type': 'Feature',
+                'geometry': {
+                    'type': 'Point',
+                    'coordinates': [
+                        s.longitude,
+                        s.latitude
+                    ]
+                },
+                'properties': {
+                    'title': ghcnd.value / 10,  # temperature in C but is 0.1 of value
+                    # 'icon': 'communications-tower'
+                    # 'icon': 'airport'
+                }
             }
-        }
-        st_json.append(new_dict)
+            st_json.append(new_dict)
     # print(st_json)
 
     context = {
