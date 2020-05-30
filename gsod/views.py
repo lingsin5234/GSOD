@@ -1,7 +1,9 @@
 from django.shortcuts import render
 from djangoapps.utils import get_this_template
 import os
+import json
 from .models import Station, GHCND
+from django.core.serializers.json import DjangoJSONEncoder
 from .functions import test_run, test_yeg, run_add_stations
 from .mapping import basic_map, basic_data_map
 # from .forms import StationDatesForm -- defunct
@@ -56,9 +58,29 @@ def map_test(request):
     # get all stations
     stations = Station.objects.all()
 
+    # stations json
+    st_json = []
+    for s in stations:
+        new_dict = {
+            'type': 'Feature',
+            'geometry': {
+                'type': 'Point',
+                'coordinates': [
+                    s.longitude,
+                    s.latitude
+                ]
+            },
+            'properties': {
+                'title': '',  # s.name
+                'icon': 'communications-tower'
+            }
+        }
+        st_json.append(new_dict)
+    # print(st_json)
+
     context = {
         'mapbox_access_token': os.environ.get('mapbox_access_token'),
-        'stations': stations
+        'stations': json.dumps(st_json, cls=DjangoJSONEncoder)
     }
 
     return render(request, 'pages/map.html', context)
