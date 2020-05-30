@@ -72,7 +72,8 @@ def map_test(request):
             },
             'properties': {
                 'title': '',  # s.name
-                'icon': 'communications-tower'
+                # 'icon': 'communications-tower'
+                'icon': 'airport'
             }
         }
         st_json.append(new_dict)
