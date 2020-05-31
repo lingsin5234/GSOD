@@ -58,7 +58,7 @@ def map_test(request):
 
     # get all stations and ghcnds
     stations = Station.objects.all()
-    # ghcnds = GHCND.objects.all()
+    data_types = ['PRCP', 'SNOW', 'SNWD', 'TMAX', 'TMIN']
 
     # stations json
     st_json = []
@@ -66,28 +66,31 @@ def map_test(request):
         # get ghcnd info for specific day: 2020-05-16 and datatype=TMAX
         get_date = dte.datetime.strptime('2020-05-16', '%Y-%m-%d').date()
 
-        try:
-            ghcnd = GHCND.objects.get(station__id=s.id, date=get_date, datatype='TMAX')
-        except Exception as e:
-            print(s.id, 'no data found.')
-        else:
-            # create dictionary to load info to template view
-            new_dict = {
-                'type': 'Feature',
-                'geometry': {
-                    'type': 'Point',
-                    'coordinates': [
-                        s.longitude,
-                        s.latitude
-                    ]
-                },
-                'properties': {
-                    'title': ghcnd.value / 10,  # temperature in C but is 0.1 of value
-                    # 'icon': 'communications-tower'
-                    # 'icon': 'airport'
-                }
-            }
-            st_json.append(new_dict)
+        # create dictionary to load info to template view
+        new_dict = {
+            'type': 'Feature',
+            'geometry': {
+                'type': 'Point',
+                'coordinates': [
+                    s.longitude,
+                    s.latitude
+                ]
+            },
+            'properties': {}
+        }
+
+        # generate dict based on all listed data types
+        for d in data_types:
+            try:
+                ghcnd = GHCND.objects.get(station__id=s.id, date=get_date, datatype=d)
+            except Exception as e:
+                # print(s.id, 'no data found for', d)
+                new_dict['properties'][d] = None
+            else:
+                new_dict['properties'][d] = ghcnd.value / 10
+
+        # add dict to list
+        st_json.append(new_dict)
     # print(st_json)
 
     context = {
