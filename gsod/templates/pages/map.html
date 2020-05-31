@@ -26,7 +26,7 @@
         var stations = {{ stations|safe }};
 
         // re-organize data into mapbox structure
-        var newData = stations.map(function (x) {
+        var structData = stations.map(function (x) {
             //console.log(x)
             return {
                 type: 'Feature',
@@ -98,22 +98,19 @@
         MapUSA.prototype.updateVis = function () {
             var vis = this;
 
-            // remove current markers
-            vis.map.remove();
-
             vis.map.on('load', function() {
                 vis.map.addSource('points', {
-                    'type': 'geojson',
-                    'data': {
-                        'type': 'FeatureCollection',
-                        'features': vis.newData
+                    type: 'geojson',
+                    data: {
+                        type: 'FeatureCollection',
+                        features: vis.newData
                     }
                 });
                 vis.map.addLayer({
-                    'id': 'points',
-                    'type': 'symbol',
-                    'source': 'points',
-                    'layout': {
+                    id: 'points',
+                    type: 'symbol',
+                    source: 'points',
+                    layout: {
                         // get the icon name from the source's "icon" property
                         // concatenate the name to get an icon from the style's sprite sheet
                         'icon-image': ['concat', ['get', 'icon'], '-15'],
@@ -123,12 +120,25 @@
                         'text-offset': [0, 0],
                         'text-anchor': 'top'
                     },
-                    'paint': {
+                    paint: {
                         'text-color': 'red'
                     }
                 });
-            });
+                //console.log(vis.map.getSource('points'));
 
+                document.getElementById('data-type-select')
+                    .addEventListener('change', function() {
+                        vis.map.getSource('points').setData(updateData(vis.newData));
+                    })
+            });
+        }
+
+        // updateData
+        function updateData(theNewData) {
+            return {
+                type: 'FeatureCollection',
+                features: theNewData
+            };
         }
 
         // declare and call new MapUSA
