@@ -4,6 +4,20 @@
     </div>
 
     <div class="d-flex justify-content-center">
+        <div class="col-md-3"></div>
+        <div class="col-md-3">
+            <select id="data-type-select" class="form-control">
+                <option selected value="TMAX">Maximum Temperature °C (mm)</option>
+                <option value="TMIN">Minimum Temperature °C (mm)</option>
+                <option value="PRCP">Rain Precipitation (mm)</option>
+                <option value="SNOW">Snowfall (mm)</option>
+                <option value="SNWD">Snow Depth (mm)</option>
+            </select>
+        </div>
+        <div class="col-md-6"></div>
+    </div>
+
+    <div class="d-flex justify-content-center">
         <div id="map" style="width: 1000px; height: 600px;"></div>
     </div>
 
@@ -21,13 +35,12 @@
                     coordinates: x.geometry.coordinates
                 },
                 properties: {
-                    title: x.properties['PRCP']
+                    title: x.properties['TMAX']
                 }
             }
         });
         //console.log(newData);
 
-        // prototype attempt!
         // constructor function
         MapUSA = function(_parentElement, _svgHeight, _svgWidth, _yVariable) {
             this.parentElement = _parentElement;
@@ -60,7 +73,9 @@
         // wrangleData
         MapUSA.prototype.wrangleData = function () {
             var vis = this;
-            //vis.yVariable = 'TMAX';
+
+            // get new yVariable
+            vis.yVariable = $('#data-type-select').val();
 
             vis.newData = stations.map(function (x) {
                 //console.log(x)
@@ -82,6 +97,9 @@
         // updateVis
         MapUSA.prototype.updateVis = function () {
             var vis = this;
+
+            // remove current markers
+            vis.map.remove();
 
             vis.map.on('load', function() {
                 vis.map.addSource('points', {
@@ -117,47 +135,9 @@
         var newMap;
         newMap = new MapUSA('#map', 600, 1000, 'TMAX');
 
-
-        /*mapboxgl.accessToken = '{{ mapbox_access_token }}';
-        var map = new mapboxgl.Map({
-            container: 'map',
-            //style: 'mapbox://styles/mapbox/satellite-streets-v11',
-            //style: 'mapbox://styles/mapbox/streets-v11',
-            style: 'mapbox://styles/mapbox/dark-v10',
-            //style: 'mapbox://styles/lingsin5234/ckattfmaf09bn1io5puf30hxs',  // Albers USA -- used for elections
-            // style: 'mapbox://styles/mapbox/light-v10',
-            center: [-96, 37.8],
-            zoom: 3.5
-        });*/
-
-        /*
-        map.on('load', function() {
-            map.addSource('points', {
-                'type': 'geojson',
-                'data': {
-                    'type': 'FeatureCollection',
-                    'features': newData
-                }
-            });
-            map.addLayer({
-                'id': 'points',
-                'type': 'symbol',
-                'source': 'points',
-                'layout': {
-                    // get the icon name from the source's "icon" property
-                    // concatenate the name to get an icon from the style's sprite sheet
-                    'icon-image': ['concat', ['get', 'icon'], '-15'],
-                    // get the title name from the source's "title" property
-                    'text-field': ['get', 'title'],
-                    'text-font': ['Open Sans Semibold', 'Arial Unicode MS Bold'],
-                    'text-offset': [0, 0],
-                    'text-anchor': 'top'
-                },
-                'paint': {
-                    'text-color': 'red'
-                }
-            });
+        // update the map based on new variable
+        $("#data-type-select").on("change", function() {
+            newMap.wrangleData();
         });
-        */
     </script>
 {% include 'partials/footer_noaa.html' %}
