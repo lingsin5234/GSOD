@@ -14,10 +14,8 @@ class Station(models.Model):
     latitude = models.FloatField()
     longitude = models.FloatField()
     elevation = models.FloatField()
-    elevationUnit = models.CharField(max_length=15)
-    datacoverage = models.FloatField()
-    mindate = models.DateField()
-    maxdate = models.DateField()
+    elevation_unit = models.CharField(max_length=15)
+    us_state = models.CharField(max_length=30)
 
     class Meta:
         app_label = 'gsod'

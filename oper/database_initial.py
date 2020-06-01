@@ -39,6 +39,7 @@ except Exception as e:
 # query = 'SELECT * FROM locations_dim'
 # results = dbt.gsod_db_reader(query)
 # print(results)
+c.close()
 # '''
 
 # '''
@@ -57,27 +58,43 @@ for s in jl['results']:
     }
     FIPS.append(new_dict)
 # print(FIPS)
-FIPS = [{'state': 'Wyoming', 'fips': 'FIPS:56'}]
+
 # loop thru each state to grab first 1000 stations, then store in dim tables
-url = 'https://www.ncdc.noaa.gov/cdo-web/api/v2/stations?limit=1000&startdate=1970-01-01&locationid='
+url = 'https://www.ncdc.noaa.gov/cdo-web/api/v2/stations?limit=1000&startdate=1970-01-01&enddate=2020-05-01&locationid='
 header = 'KbJOBjuzWvVPHMCwEoGxOCQJOCMTjHAb'
 
 for f in FIPS:
     get_url = url + f['fips']
     filename = 'static/data/gsoddata/' + f['state'] + '.json'
     x = requests.get(get_url, headers={'token': header})
+    results = [json.loads(x.text)]
+
+    # check if over 1000 results, then get again
+    count = json.loads(x.text)['metadata']['resultset']['count']
+    if count > 1000:
+        repeats = count // 1000
+        for i in range(0, repeats):
+            offset = str((i + 1) * 1000 + 1)
+            get_url = url + f['fips'] + '&offset=' + offset
+            x = requests.get(get_url, headers={'token': header})
+            results[0]['results'].extend(json.loads(x.text)['results'])
+            # print(len(results), len(results[0]), len(results[0]['results']), results[0]['metadata'])
+            t.sleep(2)  # wait 2 seconds to not time out from NOAA server
+
+    else:
+        results.extend(json.loads(x.text))
+
+    # write to file
+    with open(filename, 'w') as outfile:
+        json.dump(results, outfile, indent=4)
 
     # get location primary key for current FIPS
     query = "SELECT Id FROM locations_dim WHERE location_id='" + f['fips'] + "'"
     result = dbt.gsod_db_reader(query)
     loc_id, = result[0]  # unpack a tuple, but no second value, so just put a comma
 
-    # write to file
-    with open(filename, 'w') as outfile:
-        json.dump(json.loads(x.text), outfile, indent=4)
-
     # reshape stations for loading to database
-    results = json.loads(x.text)['results']
+    results = results[0]['results']
     stations = []
     list_ids = []
     for s in results:
@@ -92,7 +109,7 @@ for f in FIPS:
                 'elevation_unit': s['elevationUnit'],
                 'latitude': s['latitude'],
                 'longitude': s['longitude'],
-                'location': loc_id
+                'location_id': loc_id
             }
             list_ids.append(s['id'])
             stations.append(new_dict)
@@ -101,6 +118,7 @@ for f in FIPS:
             print(s['maxdate'])
 
     # write to database
+    c = dsh.engine.connect()
     try:
         c.execute(dsh.stations_dim.insert(), stations)
     except Exception as e:
@@ -125,14 +143,89 @@ for f in FIPS:
             print(f['state'], 'processing:', e2)
 
     # check that its written
-    query = 'SELECT * FROM stations_dim WHERE location=' + str(loc_id)
+    query = 'SELECT * FROM stations_dim WHERE location_id=' + str(loc_id)
     results = dbt.gsod_db_reader(query)
     # print(results)
     if len(results) > 0:
-        print(f['state'], 'completed -', len(stations), ' stations added.')
+        print(f['state'], 'completed -', len(stations), 'stations added out of', count)
     else:
         exit()
-    t.sleep(10)
+    t.sleep(10)  # slow down the frequency API requests
+c.close()
+# '''
+
+# '''
+#  ----------  add all location values  ----------  #
+# call each of the json files and fill the value tables
+# first get all the FIPS from database
+query = 'SELECT Id, location_id FROM locations_dim'
+results = dbt.gsod_db_reader(query)
+location_ids = [{'Id': n, 'loc_id': m} for (n, m) in results]
+# print(location_ids)
+
+# start with us_stations
+with open('static/data/gsoddata/us_stations.json', 'r') as readfile:
+    jl = json.load(readfile)
+states = []
+state_data = []
+for s in jl['results']:
+    states.append(s['name'])
+
+    # get database Id
+    db_id = [i for i in location_ids if i['loc_id'] == s['id']][0]['Id']
+
+    # add to dict for pre-db load
+    new_dict = {
+        'location_id': db_id,
+        'min_date': dte.datetime.strptime(s['mindate'], '%Y-%m-%d').date(),
+        'max_date': dte.datetime.strptime(s['maxdate'], '%Y-%m-%d').date(),
+        'data_coverage': s['datacoverage']
+    }
+    state_data.append(new_dict)
+
+# store into database
+c = dsh.engine.connect()
+try:
+    c.execute(dsh.locations.insert(), state_data)
+except Exception as e:
+    print('ERROR adding state data', e)
+
+
+#  ----------  add all station values   ----------  #
+# first get Ids and station_ids
+query = 'SELECT Id, station_id FROM stations_dim'
+results = dbt.gsod_db_reader(query)
+station_ids = [{'Id': n, 'st_id': m} for (n, m) in results]
+
+# now loop thru all the states' json data
+station_data = []
+for s in states:
+    filename = 'static/data/gsoddata/' + s + '.json'
+    with open(filename, 'r') as readfile:
+        jl = json.load(readfile)
+
+    # loop thru results and store
+    for r in jl[0]['results']:
+
+        # get database id
+        db_id = [i for i in station_ids if i['st_id'] == r['id']][0]['Id']
+
+        # dict for pre-db load
+        new_dict = {
+            'location_id': db_id,
+            'min_date': dte.datetime.strptime(r['mindate'], '%Y-%m-%d').date(),
+            'max_date': dte.datetime.strptime(r['maxdate'], '%Y-%m-%d').date(),
+            'data_coverage': r['datacoverage']
+        }
+        station_data.append(new_dict)
+
+# store into database
+c = dsh.engine.connect()
+try:
+    c.execute(dsh.stations.insert(), station_data)
+except Exception as e:
+    print('Failed to store all station data to db:', e)
 
 c.close()
+print('COMPLETED INITIAL DB SETUP')
 # '''
