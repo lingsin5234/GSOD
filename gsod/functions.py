@@ -5,6 +5,7 @@ import json
 from itertools import islice
 from .models import Station, GHCND
 import time as t
+from datetime import timedelta
 from operator import itemgetter as ig
 
 
@@ -200,3 +201,9 @@ def add_weather_stations(states, weather_lst):
 
     print(total, "weather stations have been added.")
     return True
+
+
+# date range loop function
+def date_range(start_date, end_date):
+    for n in range(int((end_date - start_date).days)):
+        yield start_date + timedelta(n)

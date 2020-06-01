@@ -1,32 +1,68 @@
 {% include 'partials/header_noaa.html' %}
     <div id="my_title" class="d-flex justify-content-center">
         <h1>MAP - USA</h1>
-    </div>
+    </div><br>
 
     <div class="d-flex justify-content-center">
-        <div class="col-md-3"></div>
+        <div class="col-md-2"></div>
         <div class="col-md-3">
             <select id="data-type-select" class="form-control">
-                <option selected value="TMAX">Maximum Temperature °C (mm)</option>
-                <option value="TMIN">Minimum Temperature °C (mm)</option>
+                <option selected value="TMAX">Maximum Temperature °C</option>
+                <option value="TMIN">Minimum Temperature °C</option>
                 <option value="PRCP">Rain Precipitation (mm)</option>
                 <option value="SNOW">Snowfall (mm)</option>
                 <option value="SNWD">Snow Depth (mm)</option>
             </select>
         </div>
-        <div class="col-md-6"></div>
-    </div>
+        <div class="col-md-1"></div>
+        <div class="col-md-3">
+            <div id="slider-div">
+                <label>Date: <span id="dateLabel">{{ start_date }}</span></label>
+                <div id="date-slider" class="ui-slider"></div>
+            </div>
+        </div>
+        <div class="col-md-3"></div>
+    </div><br>
 
     <div class="d-flex justify-content-center">
         <div id="map" style="width: 1000px; height: 600px;"></div>
-    </div>
+    </div><br>
 
+    {% load static %}
+    <script src="{% static 'scripts/gsod_scripts/mapbox_constructor.js' %}"></script>
     <script>
-        // get stations weather data
+        // variables and function declarations
         var stations = {{ stations|safe }};
+        var mapbox_token = '{{ mapbox_access_token }}';
+        var parseTime = d3.timeParse("%Y-%m-%d");
+        var formatTime = d3.timeFormat("%Y-%m-%d");
+        var default_datatype = 'TMAX';
+        var startDate = '{{ start_date }}';
+        var endDate = '{{ end_date }}';
+        console.log(startDate, endDate);
+        //console.log(stations);
+        // update the map based on new variable
+        $("#data-type-select").on("change", function() {
+            newMap.wrangleData();
+        });
+
+        // slider
+        $("#date-slider").slider({
+            max: parseTime(endDate).getTime(),
+            min: parseTime(startDate).getTime(),
+            value: parseTime(startDate).getTime(),
+            step: (24 * 60 * 60 * 1000),  // milliseconds in a day
+            slide: function(event, ui){
+                $("#dateLabel").text(formatTime(new Date(ui.value)));
+                newMap.wrangleData();
+            }
+        });
 
         // re-organize data into mapbox structure
-        var structData = stations.map(function (x) {
+        var structData = stations.filter(function(d) {
+            //console.log(date_selected, d.key, typeof(d.key), typeof(date_selected));
+            return d.key == startDate;
+        })[0]['data'].map(function (x) {
             //console.log(x)
             return {
                 type: 'Feature',
@@ -35,103 +71,11 @@
                     coordinates: x.geometry.coordinates
                 },
                 properties: {
-                    title: x.properties['TMAX']
+                    title: x.properties[default_datatype]
                 }
             }
         });
-        //console.log(newData);
-
-        // constructor function
-        MapUSA = function(_parentElement, _svgHeight, _svgWidth, _yVariable) {
-            this.parentElement = _parentElement;
-            this.svgHeight = _svgHeight;
-            this.svgWidth = _svgWidth;
-            this.yVariable = _yVariable;
-
-            this.initVis();
-        }
-
-        // initVis!
-        MapUSA.prototype.initVis = function() {
-            var vis = this;
-
-            mapboxgl.accessToken = '{{ mapbox_access_token }}';
-            vis.map = new mapboxgl.Map({
-                container: 'map',
-                //style: 'mapbox://styles/mapbox/satellite-streets-v11',
-                //style: 'mapbox://styles/mapbox/streets-v11',
-                style: 'mapbox://styles/mapbox/dark-v10',
-                //style: 'mapbox://styles/lingsin5234/ckattfmaf09bn1io5puf30hxs',  // Albers USA -- used for elections
-                // style: 'mapbox://styles/mapbox/light-v10',
-                center: [-96, 37.8],
-                zoom: 3.5
-            });
-
-            vis.wrangleData();
-        }
-
-        // wrangleData
-        MapUSA.prototype.wrangleData = function () {
-            var vis = this;
-
-            // get new yVariable
-            vis.yVariable = $('#data-type-select').val();
-
-            vis.newData = stations.map(function (x) {
-                //console.log(x)
-                return {
-                    type: 'Feature',
-                    geometry: {
-                        type: 'Point',
-                        coordinates: x.geometry.coordinates
-                    },
-                    properties: {
-                        title: x.properties[vis.yVariable]
-                    }
-                }
-            });
-
-            vis.updateVis();
-        }
-
-        // updateVis
-        MapUSA.prototype.updateVis = function () {
-            var vis = this;
-
-            vis.map.on('load', function() {
-                vis.map.addSource('points', {
-                    type: 'geojson',
-                    data: {
-                        type: 'FeatureCollection',
-                        features: vis.newData
-                    }
-                });
-                vis.map.addLayer({
-                    id: 'points',
-                    type: 'symbol',
-                    source: 'points',
-                    layout: {
-                        // get the icon name from the source's "icon" property
-                        // concatenate the name to get an icon from the style's sprite sheet
-                        'icon-image': ['concat', ['get', 'icon'], '-15'],
-                        // get the title name from the source's "title" property
-                        'text-field': ['get', 'title'],
-                        'text-font': ['Open Sans Semibold', 'Arial Unicode MS Bold'],
-                        'text-offset': [0, 0],
-                        'text-anchor': 'top'
-                    },
-                    paint: {
-                        'text-color': 'red'
-                    }
-                });
-                //console.log(vis.map.getSource('points'));
-
-                document.getElementById('data-type-select')
-                    .addEventListener('change', function() {
-                        vis.map.getSource('points').setData(updateData(vis.newData));
-                    })
-            });
-        }
+        //console.log(structData);
 
         // updateData
         function updateData(theNewData) {
@@ -143,11 +87,7 @@
 
         // declare and call new MapUSA
         var newMap;
-        newMap = new MapUSA('#map', 600, 1000, 'TMAX');
-
-        // update the map based on new variable
-        $("#data-type-select").on("change", function() {
-            newMap.wrangleData();
-        });
+        newMap = new MapUSA('#map', 600, 1000, default_datatype, startDate);
     </script>
+
 {% include 'partials/footer_noaa.html' %}
