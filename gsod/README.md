@@ -8,7 +8,7 @@ The purpose of this project is to run a daily ETL of the GSOD data, polish its d
 build prediction models and design data visualizations with the data and models.
 
 ## USA Historic Weather Data
-Currently, a small data set is used to visualize US historic weather data for the following parameters:
+Currently, a small data set is used to visualize US historic weather data for the following parameters:  
 *  Maximum Temperature °C
 *  Minimum Temperature °C
 *  Rainfall (mm)
