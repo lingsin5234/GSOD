@@ -1,0 +1,21 @@
+{% include 'partials/header_noaa.html' %}
+    <div id="my_title" class="d-flex justify-content-center">
+        <h1>Gradient Test</h1>
+    </div><br>
+
+    <div id="gradientContainer" style="position: relative"></div>
+
+    {% load static %}
+    <script type="text/javascript" src="{% static 'scripts/gsod_scripts/gradientEdit.js' %}"></script>
+    <script src="{% static 'scripts/gsod_scripts/bi.js' %}"></script>
+
+    <script>
+        jQuery(document).ready(function() {
+
+            var editor=gradientEditor(1000,600,document.getElementById("gradientContainer"));
+
+        });
+
+    </script>
+
+{% include 'partials/footer_noaa.html' %}
