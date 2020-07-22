@@ -151,5 +151,5 @@ var bi=function(resX,resY,container) {
         addPoint.apply(this, POI[pt]);
     }
 
-    drawGradient();
+    //drawGradient();
 };

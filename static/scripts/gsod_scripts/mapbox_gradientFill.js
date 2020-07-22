@@ -23,7 +23,8 @@ MapUSA.prototype.initVis = function() {
         //center: [-96, 37.8],
         center: [95.899147, 18.088694],
         zoom: 5,
-        minZoom: 4
+        minZoom: 4,
+        maxZoom: 12,
     });
 
     vis.wrangleData();
@@ -68,10 +69,14 @@ MapUSA.prototype.updateVis = function () {
             type: 'canvas',
             canvas: 'canvasMap',
             coordinates: [
-                [91.4461, 21.5006],
-                [100.3541, 21.5006],
-                [100.3541, 13.9706],
-                [91.4461, 13.9706]
+                [180, 89.99],
+                [-179.99, 89.99],
+                [-179.99, -89.99],
+                [180, -89.99]
+                /*[177.4461, 81.5006],
+                [-177.3541, 81.5006],
+                [-177.3541, -81.5006],
+                [177.4461, -81.5006]*/
             ],
 
             // The canvas is static, animate should be set to false to improve performance.
@@ -88,10 +93,10 @@ MapUSA.prototype.updateVis = function () {
             type: 'canvas',
             canvas: 'canvasID',
             coordinates: [
-                [91.4461, 21.5006],
-                [100.3541, 21.5006],
-                [100.3541, 13.9706],
-                [91.4461, 13.9706]
+                [177.4461, 81.5006],
+                [-177.3541, 81.5006],
+                [-177.3541, -81.5006],
+                [177.4461, -81.5006]
             ],
 
             // The canvas is static, animate should be set to false to improve performance.
