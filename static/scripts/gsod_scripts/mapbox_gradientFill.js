@@ -90,7 +90,7 @@ MapUSA.prototype.updateVis = function () {
         // attempt to add weather gradient fill
 
         // try fill
-        vis.map.addLayer({
+        /*vis.map.addLayer({
             'id': 'weather-fill',
             'type': 'fill',
             'source': 'points',
@@ -111,7 +111,32 @@ MapUSA.prototype.updateVis = function () {
                 },
                 'fill-opacity': 0.8
             }
-        }, 'waterway-label');
+        }, 'waterway-label');*/
+
+
+        // using gradient fill from github
+
+        vis.map.on('load', function() {
+            vis.map.addSource('canvas-source', {
+                type: 'canvas',
+                canvas: 'bilinearGradient',
+                coordinates: [
+                    [91.4461, 21.5006],
+                    [100.3541, 21.5006],
+                    [100.3541, 13.9706],
+                    [91.4461, 13.9706]
+                ],
+                // The canvas is static, animate should be set to false to improve performance.
+                animate: false
+            });
+
+            vis.map.addLayer({
+                id: 'canvas-layer',
+                type: 'raster',
+                source: 'canvas-source'
+            });
+        });
+
 
         document.getElementById('data-type-select')
             .addEventListener('change', function() {

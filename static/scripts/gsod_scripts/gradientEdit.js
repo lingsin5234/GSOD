@@ -20,7 +20,7 @@ var gradientEditor=function(resX,resY,container){
     }
 
 
-    var init=function(){
+    /*var init=function(){
 
         // Color created when clicking a spot on the gradient
         setCurrentColor(255,255,0);
@@ -37,7 +37,7 @@ var gradientEditor=function(resX,resY,container){
 
         });
 
-    }
+    }*/
 
     var createEditPoint=function(x,y,r,g,b){
 
@@ -73,7 +73,7 @@ var gradientEditor=function(resX,resY,container){
 
     }
 
-    init();
+    //init();
 
 
     // declaring the points and its colors here.
@@ -102,6 +102,4 @@ var gradientEditor=function(resX,resY,container){
     return {
         setCurrentColor:setCurrentColor
     }
-
-
 }

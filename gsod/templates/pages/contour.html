@@ -30,6 +30,8 @@
 
     {% load static %}
     <script src="{% static 'scripts/gsod_scripts/mapbox_gradientFill.js' %}"></script>
+    <script src="{% static 'scripts/gsod_scripts/gradientEdit.js' %}"></script>
+    <script src="{% static 'scripts/gsod_scripts/bi.js' %}"></script>
     <script>
         // variables and function declarations
         var stations = {{ stations|safe }};
@@ -84,6 +86,9 @@
                 features: theNewData
             };
         }
+
+        // gradient layer
+        gradientEditor(1000,600,document.getElementById("map"));
 
         // declare and call new MapUSA
         var newMap;

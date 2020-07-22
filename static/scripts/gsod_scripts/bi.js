@@ -15,6 +15,7 @@ var bi=function(resX,resY,container) {
     var ctx=cnv.getContext("2d");
     ctx.fillStyle="#FF00FF";
     ctx.fillRect(0,0,resX,resY);
+    ctx.globalAlpha=0.2;  // opacity
 
     var imageData = ctx.getImageData(0,0,resX,resY);
     var rawData = imageData.data;
