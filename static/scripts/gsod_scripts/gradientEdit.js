@@ -46,8 +46,8 @@ var gradientEditor=function(resX,resY,container){
         var indicator=jQuery('<div class="colorIndiactor" style="position:absolute;"></div>');
 
         //debugger;
-
-        var jIndicator= jQuery(indicator);
+        // don't need the individual point rects
+        /*var jIndicator= jQuery(indicator);
 
         jIndicator.css("position","absolute");
         jIndicator.css("top",y*resY-5);
@@ -68,7 +68,7 @@ var gradientEditor=function(resX,resY,container){
             jIndicator.remove();
 
            delete  jIndicator;
-        });
+        });*/
 
 
     }
@@ -83,21 +83,7 @@ var gradientEditor=function(resX,resY,container){
     *   and loop thru the list to createEditPoint
     */
 
-    POI = [
-        [0.3,0.2, 0,0,255],
-        [0.3,0.8, 255,69,0],
-        [0.5,0.9, 0,0,255],
-        [0.5,0.5, 255,255,0],
-        [0.5,0.1, 255,69,0],
-        [0.8,0.1, 255,255,0],
-        [0.8,0.5, 0,0,255],
-        [0.9,0.9, 255,69,0],
-    ]
 
-    for (var pt in POI) {
-        console.log(POI[pt]);
-        createEditPoint.apply(this, POI[pt]);
-    }
 
     return {
         setCurrentColor:setCurrentColor

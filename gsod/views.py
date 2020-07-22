@@ -205,4 +205,8 @@ def station_data_table(request, station_id):
 # 2D Gradient test -- forked from GitHub: dismedia/gradient2d
 def test_2dGradient(request):
 
-    return render(request, 'pages/test.html')
+    context = {
+        'mapbox_access_token': os.environ.get('mapbox_access_token')
+    }
+
+    return render(request, 'pages/test.html', context)

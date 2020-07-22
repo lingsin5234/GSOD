@@ -17,11 +17,13 @@ MapUSA.prototype.initVis = function() {
     vis.map = new mapboxgl.Map({
         container: 'map',
         //style: 'mapbox://styles/mapbox/satellite-streets-v11',
-        //style: 'mapbox://styles/mapbox/streets-v11',
-        style: 'mapbox://styles/mapbox/dark-v10',
+        style: 'mapbox://styles/mapbox/streets-v11',
+        //style: 'mapbox://styles/mapbox/dark-v10',
         //style: 'mapbox://styles/mapbox/light-v10',
-        center: [-96, 37.8],
-        zoom: 3.5
+        //center: [-96, 37.8],
+        center: [95.899147, 18.088694],
+        zoom: 5,
+        minZoom: 4
     });
 
     vis.wrangleData();
@@ -32,10 +34,10 @@ MapUSA.prototype.wrangleData = function () {
     var vis = this;
 
     // get updated variables
-    vis.yVariable = $('#data-type-select').val();
-    vis.selDate = $("#dateLabel").text();
+    //vis.yVariable = $('#data-type-select').val();
+    //vis.selDate = $("#dateLabel").text();
 
-    vis.newData = stations.filter(function(d) {
+    /*vis.newData = stations.filter(function(d) {
         //console.log(vis.selDate, typeof(vis.selDate));
         return d.key == vis.selDate;
     })[0]['data'].map(function (x) {
@@ -50,8 +52,8 @@ MapUSA.prototype.wrangleData = function () {
                 title: x.properties[vis.yVariable]
             }
         }
-    });
-    console.log(vis.newData);
+    });*/
+    //console.log(vis.newData);
     vis.updateVis();
 }
 
@@ -60,6 +62,50 @@ MapUSA.prototype.updateVis = function () {
     var vis = this;
 
     vis.map.on('load', function() {
+
+        // using gradient fill from github
+        vis.map.addSource('canvas-source', {
+            type: 'canvas',
+            canvas: 'canvasMap',
+            coordinates: [
+                [91.4461, 21.5006],
+                [100.3541, 21.5006],
+                [100.3541, 13.9706],
+                [91.4461, 13.9706]
+            ],
+
+            // The canvas is static, animate should be set to false to improve performance.
+            animate: false
+        });
+
+        vis.map.addLayer({
+            id: 'canvas-layer',
+            type: 'raster',
+            source: 'canvas-source'
+        });
+
+        vis.map.addSource('canvas-test', {
+            type: 'canvas',
+            canvas: 'canvasID',
+            coordinates: [
+                [91.4461, 21.5006],
+                [100.3541, 21.5006],
+                [100.3541, 13.9706],
+                [91.4461, 13.9706]
+            ],
+
+            // The canvas is static, animate should be set to false to improve performance.
+            animate: true
+        });
+
+        vis.map.addLayer({
+            id: 'canvas-testLayer',
+            type: 'raster',
+            source: 'canvas-test'
+        });
+
+
+        /*
         vis.map.addSource('points', {
             type: 'geojson',
             data: {
@@ -114,30 +160,8 @@ MapUSA.prototype.updateVis = function () {
         }, 'waterway-label');*/
 
 
-        // using gradient fill from github
 
-        vis.map.on('load', function() {
-            vis.map.addSource('canvas-source', {
-                type: 'canvas',
-                canvas: 'bilinearGradient',
-                coordinates: [
-                    [91.4461, 21.5006],
-                    [100.3541, 21.5006],
-                    [100.3541, 13.9706],
-                    [91.4461, 13.9706]
-                ],
-                // The canvas is static, animate should be set to false to improve performance.
-                animate: false
-            });
-
-            vis.map.addLayer({
-                id: 'canvas-layer',
-                type: 'raster',
-                source: 'canvas-source'
-            });
-        });
-
-
+        /*
         document.getElementById('data-type-select')
             .addEventListener('change', function() {
                 vis.map.getSource('points').setData(updateData(vis.newData));
@@ -146,6 +170,6 @@ MapUSA.prototype.updateVis = function () {
             .addEventListener('mouseup', function() {
                 //console.log('call change from date slider.');
                 vis.map.getSource('points').setData(updateData(vis.newData));
-            })
+            })*/
     });
 }

@@ -6,16 +6,18 @@ var bi=function(resX,resY,container) {
         return {x:x,y:y,v:v,dist:0,weight:0}
     }
 
-    var cnv = document.createElement('canvas');
+    /*var cnv = document.createElement('canvas');
     cnv.width=resX;
     cnv.height=resY;
-    cnv.id="bilinearGradient";
+    cnv.id="bilinearGradient";*/
 
-    container.appendChild(cnv);
+    cnv = container;
+    //container.appendChild(cnv);
     var ctx=cnv.getContext("2d");
-    ctx.fillStyle="#FF00FF";
-    ctx.fillRect(0,0,resX,resY);
-    ctx.globalAlpha=0.2;  // opacity
+    //ctx.fillStyle="#FF00FF";
+    //ctx.fillRect(0,0,resX,resY);
+    //ctx.globalCompositeOperation = "lighter";
+    //ctx.globalAlpha=0.2;  // opacity
 
     var imageData = ctx.getImageData(0,0,resX,resY);
     var rawData = imageData.data;
@@ -38,12 +40,9 @@ var bi=function(resX,resY,container) {
 
     function drawGradient(){
 
-
         var p={x:0,y:0};
 
         function sortBy(a,b){
-
-
             return a.dist>b.dist;
         }
 
@@ -103,8 +102,13 @@ var bi=function(resX,resY,container) {
             }
         }
 
+        // add transparency (r, g, b, alpha)
+        console.log("imageData.length", rawData.length)
+        for (var i=3; i < rawData.length; i+=4) {
+            rawData[i] = 100;
+        }
 
-    ctx.putImageData(imageData,0,0);
+        ctx.putImageData(imageData,0,0);
 
     }
 
@@ -131,22 +135,21 @@ var bi=function(resX,resY,container) {
         drawGradient();
     }
 
+    POI = [
+        [0.3,0.2, 0,0,255],
+        [0.3,0.8, 255,69,0],
+        [0.5,0.9, 0,0,255],
+        [0.5,0.5, 255,255,0],
+        [0.5,0.1, 255,69,0],
+        [0.8,0.1, 255,255,0],
+        [0.8,0.5, 0,0,255],
+        [0.9,0.9, 255,69,0],
+    ]
+
+    for (var pt in POI) {
+        console.log(POI[pt]);
+        addPoint.apply(this, POI[pt]);
+    }
+
     drawGradient();
-    return {
-
-        addPoint:addPoint,
-        removePoint:removePoint,
-        getCanvas:getCanvas
-    };
-
 };
-
-
-
-
-
-
-
-
-
-
