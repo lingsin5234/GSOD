@@ -23,7 +23,7 @@ var gradientEditor=function(resX,resY,container){
     var init=function(){
 
         // Color created when clicking a spot on the gradient
-        setCurrentColor(0,255,0);
+        setCurrentColor(255,255,0);
 
         jQuery(canvas).click(function(e){
 
@@ -76,11 +76,28 @@ var gradientEditor=function(resX,resY,container){
     init();
 
 
-    //createEditPoint(0.0,0.0,0,0,0)
-    //createEditPoint(1,1,255,255,255);
-    createEditPoint(0.0,0.0,0,0,255)
-    createEditPoint(1,1,255,0,0);
+    // declaring the points and its colors here.
+    /*
+    *   let's say we had 8 points of interest
+    *   provide the x,y and the rgb for each in a list
+    *   and loop thru the list to createEditPoint
+    */
 
+    POI = [
+        [0.3,0.2, 0,0,255],
+        [0.3,0.8, 255,69,0],
+        [0.5,0.9, 0,0,255],
+        [0.5,0.5, 255,255,0],
+        [0.5,0.1, 255,69,0],
+        [0.8,0.1, 255,255,0],
+        [0.8,0.5, 0,0,255],
+        [0.9,0.9, 255,69,0],
+    ]
+
+    for (var pt in POI) {
+        console.log(POI[pt]);
+        createEditPoint.apply(this, POI[pt]);
+    }
 
     return {
         setCurrentColor:setCurrentColor
