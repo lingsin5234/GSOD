@@ -73,11 +73,9 @@ var bi=function(resX,resY,data,container) {
                 var b=0;
 
                 for(var i=0;i<arr.length;i++){
-
                     r+=arr[i].v[0]*arr[i].weight;
                     g+=arr[i].v[1]*arr[i].weight;
                     b+=arr[i].v[2]*arr[i].weight;
-
                 }
 
                 r=Math.floor(Math.min(255,r));
@@ -88,8 +86,6 @@ var bi=function(resX,resY,data,container) {
                 rawData[index]=r;
                 rawData[index+1]=g;
                 rawData[index+2]=b;
-
-
             }
         }
 
@@ -100,7 +96,6 @@ var bi=function(resX,resY,data,container) {
         }
 
         ctx.putImageData(imageData,0,0);
-
     }
 
 
@@ -113,17 +108,9 @@ var bi=function(resX,resY,data,container) {
 
         var point=make(x,y,[r,g,b]);
         arr.push(point);
-        drawGradient();
 
         return point;
 
-    }
-
-    function removePoint(point){
-        var index=arr.indexOf(point)
-        arr.splice(index, 1);
-
-        drawGradient();
     }
 
     /*
@@ -141,4 +128,7 @@ var bi=function(resX,resY,data,container) {
         //console.log(POI[pt]);
         addPoint.apply(this, POI[pt]);
     }
+
+    // only draw once
+    drawGradient();
 };
