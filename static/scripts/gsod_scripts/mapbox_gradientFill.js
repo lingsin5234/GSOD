@@ -20,10 +20,9 @@ MapUSA.prototype.initVis = function() {
         style: 'mapbox://styles/mapbox/streets-v11',
         //style: 'mapbox://styles/mapbox/dark-v10',
         //style: 'mapbox://styles/mapbox/light-v10',
-        //center: [-96, 37.8],
-        center: [95.899147, 18.088694],
+        center: [-96, 37.8],
         zoom: 5,
-        minZoom: 4,
+        minZoom: 3.5,
         maxZoom: 12,
     });
 
@@ -35,10 +34,10 @@ MapUSA.prototype.wrangleData = function () {
     var vis = this;
 
     // get updated variables
-    //vis.yVariable = $('#data-type-select').val();
-    //vis.selDate = $("#dateLabel").text();
+    vis.yVariable = $('#data-type-select').val();
+    vis.selDate = $("#dateLabel").text();
 
-    /*vis.newData = stations.filter(function(d) {
+    vis.newData = stations.filter(function(d) {
         //console.log(vis.selDate, typeof(vis.selDate));
         return d.key == vis.selDate;
     })[0]['data'].map(function (x) {
@@ -53,7 +52,7 @@ MapUSA.prototype.wrangleData = function () {
                 title: x.properties[vis.yVariable]
             }
         }
-    });*/
+    });
     //console.log(vis.newData);
     vis.updateVis();
 }
@@ -89,28 +88,6 @@ MapUSA.prototype.updateVis = function () {
             source: 'canvas-source'
         });
 
-        vis.map.addSource('canvas-test', {
-            type: 'canvas',
-            canvas: 'canvasID',
-            coordinates: [
-                [177.4461, 81.5006],
-                [-177.3541, 81.5006],
-                [-177.3541, -81.5006],
-                [177.4461, -81.5006]
-            ],
-
-            // The canvas is static, animate should be set to false to improve performance.
-            animate: true
-        });
-
-        vis.map.addLayer({
-            id: 'canvas-testLayer',
-            type: 'raster',
-            source: 'canvas-test'
-        });
-
-
-        /*
         vis.map.addSource('points', {
             type: 'geojson',
             data: {
@@ -138,35 +115,6 @@ MapUSA.prototype.updateVis = function () {
         });
         //console.log(vis.map.getSource('points'));
 
-        // attempt to add weather gradient fill
-
-        // try fill
-        /*vis.map.addLayer({
-            'id': 'weather-fill',
-            'type': 'fill',
-            'source': 'points',
-            'minzoom': 3,
-            'maxzoom': 10,
-            'paint': {
-                'fill-color': {
-                property: 'title',
-                type: 'interval', // cannot use interpolate for fill-color
-                stops: [
-                    [-60, 'rgba(69,117,180,0.5)'],
-                    [-20, 'rgb(145,191,219)'],
-                    //[0.4, 'rgb(224,243,248)'],
-                    //[0.6, 'rgb(254,224,144)'],
-                    [20, 'rgb(253,141,89)'],
-                    [60, 'rgb(215,48,39)']
-                ]
-                },
-                'fill-opacity': 0.8
-            }
-        }, 'waterway-label');*/
-
-
-
-        /*
         document.getElementById('data-type-select')
             .addEventListener('change', function() {
                 vis.map.getSource('points').setData(updateData(vis.newData));
@@ -175,6 +123,6 @@ MapUSA.prototype.updateVis = function () {
             .addEventListener('mouseup', function() {
                 //console.log('call change from date slider.');
                 vis.map.getSource('points').setData(updateData(vis.newData));
-            })*/
+            })
     });
 }

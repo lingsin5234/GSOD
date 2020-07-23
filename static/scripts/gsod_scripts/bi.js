@@ -1,23 +1,14 @@
-var bi=function(resX,resY,container) {
+var bi=function(resX,resY,data,container) {
 
     var arr=[];
+    var map_size = [-89.99, 89.99, -179.99, 180]
 
     function make(x,y,v){
         return {x:x,y:y,v:v,dist:0,weight:0}
     }
 
-    /*var cnv = document.createElement('canvas');
-    cnv.width=resX;
-    cnv.height=resY;
-    cnv.id="bilinearGradient";*/
-
-    cnv = container;
-    //container.appendChild(cnv);
+    var cnv = container;
     var ctx=cnv.getContext("2d");
-    //ctx.fillStyle="#FF00FF";
-    //ctx.fillRect(0,0,resX,resY);
-    //ctx.globalCompositeOperation = "lighter";
-    //ctx.globalAlpha=0.2;  // opacity
 
     var imageData = ctx.getImageData(0,0,resX,resY);
     var rawData = imageData.data;
@@ -103,7 +94,7 @@ var bi=function(resX,resY,container) {
         }
 
         // add transparency (r, g, b, alpha)
-        console.log("imageData.length", rawData.length)
+        //console.log("imageData.length", rawData.length)
         for (var i=3; i < rawData.length; i+=4) {
             rawData[i] = 100;
         }
@@ -135,21 +126,19 @@ var bi=function(resX,resY,container) {
         drawGradient();
     }
 
-    POI = [
-        [0.3,0.2, 0,0,255],
-        [0.3,0.8, 255,69,0],
-        [0.5,0.9, 0,0,255],
-        [0.5,0.5, 255,255,0],
-        [0.5,0.1, 255,69,0],
-        [0.8,0.1, 255,255,0],
-        [0.8,0.5, 0,0,255],
-        [0.9,0.9, 255,69,0],
-    ]
-
-    for (var pt in POI) {
-        console.log(POI[pt]);
-        addPoint.apply(this, POI[pt]);
+    /*
+    *   Loop thru the points
+    *   Calculate normalized coordinates
+    *   Assign the RGB based on the value
+    */
+    POI = [];
+    for (var dat in data) {
+        add_pt = normalize_coord.apply(this, map_size.concat(data[dat]['geometry']['coordinates']))
+        POI.push(add_pt.concat(temp2rgb(data[dat].properties.title)));
     }
 
-    //drawGradient();
+    for (var pt in POI) {
+        //console.log(POI[pt]);
+        addPoint.apply(this, POI[pt]);
+    }
 };
