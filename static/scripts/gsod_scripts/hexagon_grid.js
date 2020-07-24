@@ -47,3 +47,29 @@ function draw_hexagon(container, left, right, top_left, top_right, bot_left, bot
     return true;
 }
 
+
+// generate start points based on the radius
+function create_start_points(radius, rows, columns, left_offset, top_offset) {
+
+    points = []
+    // start with rows
+    for (var r=0; r < rows; r++) {
+
+        // then columns
+        for (var c=0; c < columns / 2; c++) {
+
+            // even rows
+            if (r % 2 == 0) {
+                x = 3 * c * radius + left_offset;
+            }
+            // odd rows
+            else {
+                x = 3 * c * radius + 1.5 * radius + left_offset;
+            }
+            y = Math.sqrt(3) * r * radius / 2 + top_offset;
+            points.push([radius, x, y]);
+        }
+    }
+
+    return points
+}

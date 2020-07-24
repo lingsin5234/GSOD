@@ -30,12 +30,14 @@
         });
 
         // values are pixels
-        var coordinates = ["hexagon"].concat(single_hexagon(50, 100, 100));
-        draw_hexagon.apply(this, coordinates);
-        var coordinates = ["hexagon"].concat(single_hexagon(50, 250, 100));
-        draw_hexagon.apply(this, coordinates);
-        var coordinates = ["hexagon"].concat(single_hexagon(50, 175, 143.3));
-        draw_hexagon.apply(this, coordinates);
+        var startPoints = create_start_points(50, 6, 6, 50, 50);
+        console.log(startPoints);
+        for (var sp in startPoints) {
+            //console.log(startPoints[sp]);
+            coordinates = ["hexagon"].concat(single_hexagon.apply(this, startPoints[sp]));
+            console.log(coordinates);
+            draw_hexagon.apply(this, coordinates);
+        }
 
     </script>
 
