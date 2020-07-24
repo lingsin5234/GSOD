@@ -29,7 +29,7 @@ var bi=function(resX,resY,data,container) {
     }
 
 
-    function drawGradient(){
+    function drawGradient(ready_state){
 
         var p={x:0,y:0};
 
@@ -60,13 +60,16 @@ var bi=function(resX,resY,data,container) {
 
         }
 
+        dt1 = Date.now();
         for (y = 0; y < resY; y++) {
             for (x = 0; x < resX; x++) {
 
                 p.x=x/resX;
                 p.y=y/resY;
 
+                //dt1 = Date.now();
                 calculateDist(p);
+                //dt2 = Date.now();
 
                 var r=0;
                 var g=0;
@@ -77,6 +80,7 @@ var bi=function(resX,resY,data,container) {
                     g+=arr[i].v[1]*arr[i].weight;
                     b+=arr[i].v[2]*arr[i].weight;
                 }
+                //dt3 = Date.now();
 
                 r=Math.floor(Math.min(255,r));
                 g=Math.floor(Math.min(255,g));
@@ -86,13 +90,19 @@ var bi=function(resX,resY,data,container) {
                 rawData[index]=r;
                 rawData[index+1]=g;
                 rawData[index+2]=b;
+
+                /*console.log("Coord processing: calculateDist(): ", dt2-dt1, "ms, arr loop: ", dt3-dt2, "ms, rest: ",
+                Date.now()-dt3);*/
             }
         }
+        console.log("Full process:", Date.now() - dt1);
 
-        // add transparency (r, g, b, alpha)
-        //console.log("imageData.length", rawData.length)
-        for (var i=3; i < rawData.length; i+=4) {
-            rawData[i] = 100;
+        if (ready_state) {
+            // add transparency (r, g, b, alpha)
+            //console.log("imageData.length", rawData.length)
+            for (var i=3; i < rawData.length; i+=4) {
+                rawData[i] = 200;
+            }
         }
 
         ctx.putImageData(imageData,0,0);
@@ -108,7 +118,7 @@ var bi=function(resX,resY,data,container) {
 
         var point=make(x,y,[r,g,b]);
         arr.push(point);
-
+        //drawGradient(false);
         return point;
 
     }
@@ -129,6 +139,6 @@ var bi=function(resX,resY,data,container) {
         addPoint.apply(this, POI[pt]);
     }
 
-    // only draw once
-    drawGradient();
+    // perform the transparency just once
+    drawGradient(true);
 };

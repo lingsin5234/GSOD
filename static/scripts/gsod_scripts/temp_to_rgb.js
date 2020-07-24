@@ -1,9 +1,83 @@
 /*
 *   This file converts temperature into rgb based on which interval it lands in
+*   defunct method is good for a TRUE gradient
+*   it is more aesthetically pleasing to use a TIERED gradient
 */
 
 // t for temperate
 function temp2rgb(t) {
+
+    // if statements in order
+    // <= -40 = rgb(0,0,80)
+    if (t <= -40) {
+        rgb = [0,0,80];
+    }
+    // -30 - -39 = rgb(0,0,119)
+    else if (t <= -30) {
+        rgb = [0,0,119];
+    }
+    // -20 - -29 = rgb(0,0,159)
+    else if (t <= -20) {
+        rgb = [0,0,159];
+    }
+    // -15 - -19 = rgb(2,2,255)
+    else if (t <= -15) {
+        rgb = [2,2,255];
+    }
+    // -10 - -14 = rgb(41,41,255)
+    else if (t <= -10) {
+        rgb = [41,41,255];
+    }
+    // -5 - -9 = rgb(100,100,255)
+    else if (t <= -5) {
+        rgb = [100,100,255];
+    }
+    // 0 - -4 = rgb(159,159,255)
+    else if (t <= 0) {
+        rgb = [159,159,255];
+    }
+    // 5 - 1 = rgb(255,227,177)
+    else if (t <= 5) {
+        rgb = [255,227,117];
+    }
+    // 10 - 6 = rgb(255,213,137)
+    else if (t <= 10) {
+        rgb = [255,213,137];
+    }
+    // 15 - 11 = rgb(255,200,98)
+    else if (t <= 15) {
+        rgb = [255,200,98];
+    }
+    // 20 - 16 = rgb(255,186,59)
+    else if (t <= 20) {
+        rgb = [255,186,59];
+    }
+    // 25 - 21 = rgb(255,172,20)
+    else if (t <= 25) {
+        rgb = [255,172,20];
+    }
+    // 30 - 26 = rgb(255,165,0)
+    else if (t <= 30) {
+        rgb = [255,165,0];
+    }
+    // 35 - 31 = rgb(255,69,0)
+    else if (t <= 35) {
+        rgb = [255,69,0];
+    }
+    // 40 - 35 = rgb(204,55,0)
+    else if (t <= 40) {
+        rgb = [204,55,0];
+    }
+    // 40+ = rgb(153,0,0)
+    else {
+        rgb = [153,0,0];
+    }
+
+    return rgb;
+}
+
+// previous version; this gradient is too "smooth"; showing temperature is better with tiered above
+function temp2rgb_defunct(t) {
 
     /*
     *   0 and below, fade from white-ish colour to dark blue
@@ -51,3 +125,5 @@ function temp2rgb(t) {
 
     return [r, g, b];
 }
+
+

@@ -1,4 +1,4 @@
-
+<!--TESTING THE GRADIENT ON TOP OF MAP>
 <!DOCTYPE html>
 <html>
 <head>
@@ -130,27 +130,34 @@
 
 </body>
 </html>
-
-<!--asdfasdf>
- include 'partials/header_noaa.html' %}
+<TESTING THE GRADIENT ON TOP OF MAP-->
+{% include 'partials/header_noaa.html' %}
     <div id="my_title" class="d-flex justify-content-center">
         <h1>Gradient Test</h1>
     </div><br>
 
-    <div id="gradientContainer" style="position: relative"></div>
+    <canvas id="gradientContainer" width="1000" height="600"></canvas>
 
     {% load static %}
-    <script type="text/javascript" src="{% static 'scripts/gsod_scripts/gradientEdit.js' %}"></script>
+    <script src="{% static 'scripts/gsod_scripts/normalize_coordinates.js' %}"></script>
+    <script src="{% static 'scripts/gsod_scripts/temp_to_rgb.js' %}"></script>
     <script src="{% static 'scripts/gsod_scripts/bi.js' %}"></script>
 
     <script>
+        data = [
+            {"geometry": {"coordinates":[77,-10]}, "properties": {"title": 22}},
+            {"geometry": {"coordinates":[175,30]}, "properties": {"title": -40}},
+            {"geometry": {"coordinates":[-20,-20]}, "properties": {"title": 35}},
+            {"geometry": {"coordinates":[-150,80]}, "properties": {"title": 2}},
+            {"geometry": {"coordinates":[7,-77]}, "properties": {"title": -12}},
+            {"geometry": {"coordinates":[22,50]}, "properties": {"title": 28}}
+        ]
         jQuery(document).ready(function() {
 
-            var editor=gradientEditor(1000,600,document.getElementById("gradientContainer"));
+            var editor=bi(1000,600,data,document.getElementById("gradientContainer"));
 
         });
 
     </script>
 
- include 'partials/footer_noaa.html' %}
-<asdfasdf-->
+{% include 'partials/footer_noaa.html' %}
