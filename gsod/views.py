@@ -210,3 +210,12 @@ def test_2dGradient(request):
     }
 
     return render(request, 'pages/test.html', context)
+
+
+def hexagon_test(request):
+
+    context = {
+        'mapbox_access_token': os.environ.get('mapbox_access_token')
+    }
+
+    return render(request, 'pages/hexagon.html', context)
