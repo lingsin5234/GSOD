@@ -3,8 +3,9 @@
         <h1>Hexagon Test</h1>
     </div><br>
 
+    <canvas id="canvasMap" width="1200" height="800px" style="display: none"></canvas>
     <div class="d-flex justify-content-center">
-        <canvas id="hexagon" width="1000" height="600"></canvas>
+        <div id="map" style="width: 1200px; height: 800px;"></div>
     </div>
     <!--canvas id="gradientContainer" width="1000" height="600"></canvas-->
 
@@ -15,6 +16,7 @@
     <script src="{% static 'scripts/gsod_scripts/hexagon_grid.js' %}"></script>
 
     <script>
+        //var mapbox_token = '{{ mapbox_access_token }}';
         data = [
             {"geometry": {"coordinates":[77,-10]}, "properties": {"title": 22}},
             {"geometry": {"coordinates":[175,30]}, "properties": {"title": -40}},
@@ -30,15 +32,60 @@
         });
 
         // values are pixels
-        var startPoints = create_start_points(50, 6, 6, 50, 50);
+        var pixel_radius = calculate_radius(20); // 50 km at latitude 40
+
+        // greatest distance (E-W) for the contiguous 48 US states: 4,669 km [wiki]
+        // 50 km is at latitude 40; 1 degree longitude at lat 40 = 84.9898 km
+        // the ratio was 50 / 84.9898 degrees
+        // (NS) radius of earth is 39940.653 / (2pi)
+        /*
+        *   at latitude 50:
+        *   the latitude circle radius = 6356.7524 * cos 50 = 4086.0417 km
+        *   circle 2piR = 4086.0417 * 2 * pi = 25673.3569
+        *   1 degree longitude at latitude 50 = 25673.3569 / 360 = 71.3149 km
+        *   calculate lat 50 radius using the 50 km reference for lat 40: 50 / 84.9898 * 71.3149 = 41.9550 km
+        */
+        // this means the grid at the top is 41.9550, so  4669 km / 41.9550 km = 112 rounded up
+        // lat 40 radius of 20 km means grid is 278 -- round up to 280
+        var startPoints = create_start_points(pixel_radius, 280, 280, 50, 50);
         console.log(startPoints);
         for (var sp in startPoints) {
             //console.log(startPoints[sp]);
-            coordinates = ["hexagon"].concat(single_hexagon.apply(this, startPoints[sp]));
+            coordinates = ["canvasMap"].concat(single_hexagon.apply(this, startPoints[sp]));
             coordinates = coordinates.concat("rgba(255,0,0,0.5)");
             //console.log(coordinates);
             draw_hexagon.apply(this, coordinates);
         }
+
+        mapboxgl.accessToken = '{{ mapbox_access_token }}';
+        var map = new mapboxgl.Map({
+            container: 'map',
+            zoom: 5,
+            minZoom: 4,
+            center: [-100, 36],
+            style: 'mapbox://styles/mapbox/streets-v11'
+        });
+
+        map.on('load', function() {
+            map.addSource('canvas-source', {
+                type: 'canvas',
+                canvas: 'canvasMap',
+                coordinates: [
+                [-130.335167, 50.608013],
+                [-67.002495, 50.608013],
+                [-67.002495, 22.761681],
+                [-130.335167, 22.761681]
+                ],
+                // Set to true if the canvas source is animated. If the canvas is static, animate should be set to false to improve performance.
+                animate: false
+            });
+
+            map.addLayer({
+                id: 'canvas-layer',
+                type: 'raster',
+                source: 'canvas-source'
+            });
+        });
 
     </script>
 

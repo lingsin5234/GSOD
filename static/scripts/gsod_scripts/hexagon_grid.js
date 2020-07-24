@@ -78,10 +78,21 @@ function create_start_points(radius, rows, columns, left_offset, top_offset) {
 }
 
 
-// calculate the desired radius based on the top-left-most [long, lat] coordinates and desired measured radius (in km)
-function calculate_radius(long, lat, measured_radius) {
+// the MEASURED radius is the hexagon in NORTH SOUTH direction, NOT the true radius of hexagon.
+// ASSUME latitude 40
+function calculate_radius(measured_radius) {
 
-    // using the longitude, calculate the measured radius in EAST-WEST direction
+    // use the latitude to calculate radius -- as this WILL remain a constant with respect to the measured (N-W) radius
+    const ns_2piR = 39940.653 // in km, circumference of earth around the poles
+    radius_meters = measured_radius * 2 / Math.sqrt(3) * 1000;
+
+    // now check with MapBox scaling
+    // Equator, 0: 9783.936 meters/pixel
+    // +/-20 latitude: 9193.892 meters/pixel
+    // +/-40 latitude: 7494.929 meters/pixel
+    // +/-60 latitude: 4891.968 meters/pixel
+    // +/-80 latitude: 1698.963 meters/pixel
+    radius = radius_meters / 7494.929;
 
     return radius;
 }
