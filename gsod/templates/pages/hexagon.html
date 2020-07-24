@@ -35,7 +35,8 @@
         for (var sp in startPoints) {
             //console.log(startPoints[sp]);
             coordinates = ["hexagon"].concat(single_hexagon.apply(this, startPoints[sp]));
-            console.log(coordinates);
+            coordinates = coordinates.concat("rgba(255,0,0,0.5)");
+            //console.log(coordinates);
             draw_hexagon.apply(this, coordinates);
         }
 
