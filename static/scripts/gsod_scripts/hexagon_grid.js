@@ -79,8 +79,8 @@ function create_start_points(radius, rows, columns, left_offset, top_offset) {
 
 
 // the MEASURED radius is the hexagon in NORTH SOUTH direction, NOT the true radius of hexagon.
-// ASSUME latitude 40
-function calculate_radius(measured_radius) {
+// ASSUME lat 40
+function calculate_radius(measured_radius, lat) {
 
     // use the latitude to calculate radius -- as this WILL remain a constant with respect to the measured (N-W) radius
     const ns_2piR = 39940.653 // in km, circumference of earth around the poles
@@ -92,7 +92,51 @@ function calculate_radius(measured_radius) {
     // +/-40 latitude: 7494.929 meters/pixel
     // +/-60 latitude: 4891.968 meters/pixel
     // +/-80 latitude: 1698.963 meters/pixel
-    radius = radius_meters / 7494.929;
+    radius = radius_meters / 5000; // lat 52
+
+    return radius;
+}
+
+
+// function that determines which latitude hexagon rows the coordinates are between
+function find_hexagon_rows(radius, lat, bot_left_long, bot_left_lat, pixel_radius, rows, columns) {
+
+    // [-170.335167, 72]
+    // canvas is mirrored? why is first row starting in second column on map but not in canvas?
+
+    // north south radius (for rows) has not changed - pixel_radius
+    prev_lat = bot_left_lat;
+    for (var r=0; r < rows; r++) {
+        row_lat = bot_left_lat + r * calculate_ew_radius(radius, prev_lat);
+        if (lat > row_lat) {
+            prev_lat = row_lat;
+        } else {
+            console.log(r, lat, prev_lat, row_lat, radius, pixel_radius);
+            break;
+        }
+    }
+
+    return true;
+}
+
+
+// calculate the EAST-WEST radius
+function calculate_ew_radius(measured_radius, lat) {
+    /*
+    *   at latitude 50:
+    *   the latitude circle radius = 6356.7524 * cos 50 = 4086.0417 km
+    *   circle 2piR = 4086.0417 * 2 * pi = 25673.3569
+    *   1 degree longitude at latitude 50 = 25673.3569 / 360 = 71.3149 km
+    *   calculate lat 50 radius using the 50 km reference for lat 40: 50 / 84.9898 * 71.3149 = 41.9550 km
+    *   account for the meters/pixel as well; lat 40 is 7494.929 meters/pixel
+    *   m/p = one_deg_longitude / 84.9898 (KM) * 7494.929 (METERS)
+    */
+    // rad = degree * Math.PI / 180
+    lat_circle_radius = 6356.7524 * Math.cos(lat * Math.PI / 180); // in km
+    one_deg_longitude = lat_circle_radius * 2 * Math.PI / 360;  // in km
+    km_per_pixel = one_deg_longitude / 84.9898 * 7.494929
+    radius = measured_radius / km_per_pixel;
+    console.log(measured_radius, ": ", lat, radius);
 
     return radius;
 }
