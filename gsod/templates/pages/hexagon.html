@@ -55,7 +55,7 @@
 
         // values are pixels
         var perceived_radius = 20;
-        var pixel_radius = calculate_ew_radius(perceived_radius, 52);
+        var pixel_radius = calculate_ew_radius(perceived_radius, 52)[0];
         console.log('Pixel Radius', pixel_radius);
 
         // greatest distance (E-W) for the contiguous 48 US states: 4,669 km [wiki]
@@ -84,8 +84,8 @@
         // find the hexagon for the weather stations
         for (var dat in data) {
             lat = data[dat].geometry.coordinates[1];
-            //long_radius = calculate_ew_radius(radius, lat);
-            find_hexagon_rows(radius, lat, -170.335167, 52, pixel_radius, 275, 225);
+            console.log("data loop", perceived_radius);
+            find_hexagon_rows(perceived_radius, lat, -170.335167, 52, pixel_radius, 275, 225);
         }
 
         for (var sp in startPoints) {

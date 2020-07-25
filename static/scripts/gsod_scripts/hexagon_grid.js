@@ -107,9 +107,13 @@ function find_hexagon_rows(radius, lat, bot_left_long, bot_left_lat, pixel_radiu
     // north south radius (for rows) has not changed - pixel_radius
     prev_lat = bot_left_lat;
     for (var r=0; r < rows; r++) {
-        row_lat = bot_left_lat + r * calculate_ew_radius(radius, prev_lat);
+        // find the ratio of the original pixel_radius with the new pixel_radius
+        // this * 20 is the new "hexagon" radius, and can be used to determine the new latitude
+        new_radius = pixel_radius / calculate_ew_radius(radius, prev_lat)[0] * 20;
+        row_lat = prev_lat + // need to reverse function to obtain the latitude
         if (lat > row_lat) {
             prev_lat = row_lat;
+            console.log("data-looping", r);
         } else {
             console.log(r, lat, prev_lat, row_lat, radius, pixel_radius);
             break;
@@ -135,8 +139,8 @@ function calculate_ew_radius(measured_radius, lat) {
     lat_circle_radius = 6356.7524 * Math.cos(lat * Math.PI / 180); // in km
     one_deg_longitude = lat_circle_radius * 2 * Math.PI / 360;  // in km
     km_per_pixel = one_deg_longitude / 84.9898 * 7.494929
-    radius = measured_radius / km_per_pixel;
-    console.log(measured_radius, ": ", lat, radius);
+    ew_radius = measured_radius / km_per_pixel;
+    //console.log(measured_radius, ": ", lat, ew_radius);
 
-    return radius;
+    return [ew_radius, km_per_pixel];
 }
