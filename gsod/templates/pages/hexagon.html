@@ -3,7 +3,7 @@
         <h1>Hexagon Test</h1>
     </div><br>
 
-    <canvas id="canvasMap" width="1200" height="800px"></canvas>
+    <canvas id="canvasMap" width="1200px" height="800px"></canvas>
     <div class="d-flex justify-content-center">
         <div id="map" style="width: 1200px; height: 800px;"></div>
     </div>
@@ -44,7 +44,8 @@
 
         data = [
             {"geometry": {"coordinates":[-149.905,61.17472]}, "properties": {"title": 22}},
-            {"geometry": {"coordinates":[-156.611,71.3213]}, "properties": {"title": -40}}
+            {"geometry": {"coordinates":[-156.611,71.3213]}, "properties": {"title": -40}},
+            {"geometry": {"coordinates":[-130.611,72.0000]}, "properties": {"title": -40}}
         ]
         console.log(data);
         jQuery(document).ready(function() {
@@ -55,7 +56,7 @@
 
         // values are pixels
         var perceived_radius = 20;
-        var pixel_radius = calculate_ew_radius(perceived_radius, 52)[0];
+        var pixel_radius = calculate_radius(perceived_radius, 52)[0];
         console.log('Pixel Radius', pixel_radius);
 
         // greatest distance (E-W) for the contiguous 48 US states: 4,669 km [wiki]
@@ -73,13 +74,16 @@
         // lat 40 radius of 20 km means grid is 278 -- round up to 280
 
         // alaska calculation; from 52 lat, to 72 lat, roughly 2200 km
-        var pixel_radius_min = calculate_ew_radius(perceived_radius, 52);
-        var pixel_radius_max = calculate_ew_radius(perceived_radius, 72);
+        var pixel_radius_min = calculate_radius(perceived_radius, 52);
+        var pixel_radius_max = calculate_radius(perceived_radius, 72);
         console.log("Pixel Radii:", pixel_radius_min, pixel_radius_max);
         // 2200 / (Math.sqrt(3) * 20) * 4 ~= 254, but needed 275??
 
         var startPoints = create_start_points(pixel_radius, 275, 225, 5, 5);
         //console.log(startPoints);
+
+        // TESTING calculator
+        console.log('CALCULATIONS:', calculate_latitude(111/6, 52, 6));
 
         // find the hexagon for the weather stations
         for (var dat in data) {

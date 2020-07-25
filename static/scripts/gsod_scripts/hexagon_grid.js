@@ -80,6 +80,7 @@ function create_start_points(radius, rows, columns, left_offset, top_offset) {
 
 // the MEASURED radius is the hexagon in NORTH SOUTH direction, NOT the true radius of hexagon.
 // ASSUME lat 40
+/*
 function calculate_radius(measured_radius, lat) {
 
     // use the latitude to calculate radius -- as this WILL remain a constant with respect to the measured (N-W) radius
@@ -96,7 +97,7 @@ function calculate_radius(measured_radius, lat) {
 
     return radius;
 }
-
+*/
 
 // function that determines which latitude hexagon rows the coordinates are between
 function find_hexagon_rows(radius, lat, bot_left_long, bot_left_lat, pixel_radius, rows, columns) {
@@ -107,13 +108,18 @@ function find_hexagon_rows(radius, lat, bot_left_long, bot_left_lat, pixel_radiu
     // north south radius (for rows) has not changed - pixel_radius
     prev_lat = bot_left_lat;
     for (var r=0; r < rows; r++) {
-        // find the ratio of the original pixel_radius with the new pixel_radius
-        // this * 20 is the new "hexagon" radius, and can be used to determine the new latitude
-        new_radius = pixel_radius / calculate_ew_radius(radius, prev_lat)[0] * 20;
-        row_lat = prev_lat + // need to reverse function to obtain the latitude
+
+        // get the new radius that can be determined with the ratio of pixel radius with new pixel radius
+        [new_radius, km_per_pixel] = calculate_radius(radius, prev_lat);
+
+        // each row is only Math.sqrt(3)/2 of the pixel radius.
+        lat_change = calculate_latitude(new_radius * Math.sqrt(3) / 2, prev_lat, km_per_pixel);
+        row_lat = prev_lat + lat_change;
+
+        // loop thru to find the two rows that the coordinate is in between
         if (lat > row_lat) {
+            console.log("data-looping", r, prev_lat, new_radius * Math.sqrt(3) / 2, lat_change);
             prev_lat = row_lat;
-            console.log("data-looping", r);
         } else {
             console.log(r, lat, prev_lat, row_lat, radius, pixel_radius);
             break;
@@ -124,8 +130,8 @@ function find_hexagon_rows(radius, lat, bot_left_long, bot_left_lat, pixel_radiu
 }
 
 
-// calculate the EAST-WEST radius
-function calculate_ew_radius(measured_radius, lat) {
+// calculate the EAST-WEST radius -- this appears to be applied to the map projection as well
+function calculate_radius(measured_radius, lat) {
     /*
     *   at latitude 50:
     *   the latitude circle radius = 6356.7524 * cos 50 = 4086.0417 km
@@ -142,5 +148,24 @@ function calculate_ew_radius(measured_radius, lat) {
     ew_radius = measured_radius / km_per_pixel;
     //console.log(measured_radius, ": ", lat, ew_radius);
 
-    return [ew_radius, km_per_pixel];
+
+    km_per_pixel = 40075 * Math.cos(lat * Math.PI / 180) / Math.pow(2, 12);
+    calc_radius = measured_radius / km_per_pixel;
+    //console.log('calc_radius, km/pixel', calc_radius, km_per_pixel);
+
+    return [calc_radius, km_per_pixel];
 }
+
+
+// calculate latitude change
+function calculate_latitude(distance, prev_lat, km_per_pixel) {
+
+    // arc length = degrees / 360 * (2 * Math.PI * 6356.7524)
+    degrees = 180 * distance * km_per_pixel / (Math.PI * 6356.7524)
+
+    //console.log('degrees, distance', degrees, distance);
+    return degrees;
+}
+
+/*(C ∙ cos(latitude) / 2^(zoomlevel + 8)
+cos(latitude) = 2^(zoomlevel + 8) / C*/
