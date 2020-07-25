@@ -109,16 +109,18 @@ function find_hexagon_rows(radius, lat, bot_left_long, bot_left_lat, pixel_radiu
     prev_lat = bot_left_lat;
     for (var r=0; r < rows; r++) {
 
-        // get the new radius that can be determined with the ratio of pixel radius with new pixel radius
-        [new_radius, km_per_pixel] = calculate_radius(radius, prev_lat);
+        // get the new km_per_pixel value; the pixel value didn't change for the hexes.
+        km_per_pixel = calculate_radius(radius, prev_lat)[1];
+        new_radius = pixel_radius * km_per_pixel
+        //console.log("New Radius", new_radius);
 
-        // each row is only Math.sqrt(3)/2 of the pixel radius.
-        lat_change = calculate_latitude(new_radius * Math.sqrt(3) / 2, prev_lat, km_per_pixel);
+        // each row is only Math.sqrt(3)/2 of the actual radius in km.
+        lat_change = calculate_latitude(new_radius * Math.sqrt(3) / 2, km_per_pixel);
         row_lat = prev_lat + lat_change;
 
         // loop thru to find the two rows that the coordinate is in between
         if (lat > row_lat) {
-            console.log("data-looping", r, prev_lat, new_radius * Math.sqrt(3) / 2, lat_change);
+            console.log("data-looping", r, prev_lat, new_radius * Math.sqrt(3) / 2, lat_change, km_per_pixel);
             prev_lat = row_lat;
         } else {
             console.log(r, lat, prev_lat, row_lat, radius, pixel_radius);
@@ -158,10 +160,11 @@ function calculate_radius(measured_radius, lat) {
 
 
 // calculate latitude change
-function calculate_latitude(distance, prev_lat, km_per_pixel) {
+function calculate_latitude(distance, km_per_pixel) {
 
     // arc length = degrees / 360 * (2 * Math.PI * 6356.7524)
-    degrees = 180 * distance * km_per_pixel / (Math.PI * 6356.7524)
+    //degrees = 180 * distance * km_per_pixel / (Math.PI * 6356.7524)
+    degrees = 180 * distance / (Math.PI * 6356.7524)
 
     //console.log('degrees, distance', degrees, distance);
     return degrees;
