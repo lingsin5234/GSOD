@@ -3,7 +3,7 @@
         <h1>Hexagon Test</h1>
     </div><br>
 
-    <canvas id="canvasMap" width="512" height="512" style="width: 512px; height: 512px;"></canvas>
+    <canvas id="canvasMap" width="800" height="512" style="width: 800px; height: 512px;"></canvas>
     <div class="d-flex justify-content-center">
         <div id="map" style="width: 1200px; height: 800px;"></div>
     </div>
@@ -79,7 +79,7 @@
         //console.log("Pixel Radii:", pixel_radius_min, pixel_radius_max);
         // 2200 / (Math.sqrt(3) * 20) * 4 ~= 254, but needed 275??
 
-        var startPoints = create_start_points(pixel_radius, 275, 225, 5, 5);
+        var startPoints = create_start_points(pixel_radius, 176, 125, 5, 5);
         //console.log(startPoints);
 
         // TESTING calculator
@@ -89,7 +89,7 @@
         for (var dat in data) {
             lat = data[dat].geometry.coordinates[1];
             console.log("data loop", perceived_radius);
-            find_hexagon_rows(perceived_radius, lat, -170.335167, 52, pixel_radius, 275, 225);
+            find_hexagon_rows(perceived_radius, lat, -170.335167, 52, pixel_radius, 176, 125);
         }
 
         for (var sp in startPoints) {
