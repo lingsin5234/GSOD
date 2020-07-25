@@ -34,6 +34,15 @@ function draw_hexagon(container, left, right, top_left, top_right, bot_left, bot
 
         var ctx = canvas.getContext("2d");
 
+        /*var size = 512;
+        canvas.style.width = size + "px";
+        canvas.style.height = size + "px";
+        var scale = window.devicePixelRatio; // Change to 1 on retina screens to see blurry canvas.
+        canvas.width = Math.floor(size * scale);
+        canvas.height = Math.floor(size * scale);
+        // Normalize coordinate system to use css pixels.
+        ctx.scale(scale, scale);*/
+
         ctx.beginPath();
         ctx.moveTo(left[0], left[1]);
         ctx.lineTo(top_left[0], top_left[1]);
@@ -114,7 +123,7 @@ function find_hexagon_rows(radius, lat, bot_left_long, bot_left_lat, pixel_radiu
         new_radius = pixel_radius * km_per_pixel
         //console.log("New Radius", new_radius);
 
-        // each row is only Math.sqrt(3)/2 of the actual radius in km.
+        // each row is only Math.sqrt(3)/2 of the actual radius in km; sizing is off, divide by 2 again?
         lat_change = calculate_latitude(new_radius * Math.sqrt(3) / 2, km_per_pixel);
         row_lat = prev_lat + lat_change;
 
@@ -144,10 +153,10 @@ function calculate_radius(measured_radius, lat) {
     *   m/p = one_deg_longitude / 84.9898 (KM) * 7494.929 (METERS)
     */
     // rad = degree * Math.PI / 180
-    lat_circle_radius = 6356.7524 * Math.cos(lat * Math.PI / 180); // in km
+    /*lat_circle_radius = 6356.7524 * Math.cos(lat * Math.PI / 180); // in km
     one_deg_longitude = lat_circle_radius * 2 * Math.PI / 360;  // in km
     km_per_pixel = one_deg_longitude / 84.9898 * 7.494929
-    ew_radius = measured_radius / km_per_pixel;
+    ew_radius = measured_radius / km_per_pixel;*/
     //console.log(measured_radius, ": ", lat, ew_radius);
 
 

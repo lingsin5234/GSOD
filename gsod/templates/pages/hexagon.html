@@ -3,7 +3,7 @@
         <h1>Hexagon Test</h1>
     </div><br>
 
-    <canvas id="canvasMap" width="1200px" height="800px"></canvas>
+    <canvas id="canvasMap" width="512" height="512" style="width: 512px; height: 512px;"></canvas>
     <div class="d-flex justify-content-center">
         <div id="map" style="width: 1200px; height: 800px;"></div>
     </div>
@@ -74,9 +74,9 @@
         // lat 40 radius of 20 km means grid is 278 -- round up to 280
 
         // alaska calculation; from 52 lat, to 72 lat, roughly 2200 km
-        var pixel_radius_min = calculate_radius(perceived_radius, 52);
-        var pixel_radius_max = calculate_radius(perceived_radius, 72);
-        console.log("Pixel Radii:", pixel_radius_min, pixel_radius_max);
+        //var pixel_radius_min = calculate_radius(perceived_radius, 52);
+        //var pixel_radius_max = calculate_radius(perceived_radius, 72);
+        //console.log("Pixel Radii:", pixel_radius_min, pixel_radius_max);
         // 2200 / (Math.sqrt(3) * 20) * 4 ~= 254, but needed 275??
 
         var startPoints = create_start_points(pixel_radius, 275, 225, 5, 5);
