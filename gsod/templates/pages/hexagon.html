@@ -46,8 +46,7 @@
 
         data = [
             {"geometry": {"coordinates":[-149.905,61.17472]}, "properties": {"title": 22}},
-            {"geometry": {"coordinates":[-156.611,71.3213]}, "properties": {"title": -40}},
-            {"geometry": {"coordinates":[-130.611,72.0000]}, "properties": {"title": -40}}
+            {"geometry": {"coordinates":[-156.611,71.3213]}, "properties": {"title": -40}}
         ]
         console.log(data);
         jQuery(document).ready(function() {
@@ -102,10 +101,13 @@
                 // find intersection polygon
                 poly2 = turf.polygon([hexagons[i]]);
                 poly = turf.intersect(poly1, poly2);
-                console.log(hex, i, poly);
+                console.log("intersect?", hex, i, poly);
 
                 // if poly not null, loop thru poly2 lines to see which points falls on a polygon line
                 //turf.booleanPointInPolygon(pt, poly);
+                find_intersect_points(poly.geometry.coordinates[0],
+                                    poly1.geometry.coordinates[0],
+                                    poly2.geometry.coordinates[0]);
             }
         }
 

@@ -215,6 +215,51 @@ function hexagon_lat_long(radius, long, lat) {
 }
 
 
-// calculate overlap for the hexagons
+// find overlap for the hexagons
+function find_intersect_points(intersect, poly1) {
 
+    // create all the lines that border the polygon
+    lines = [];
+    for (var p=0; p < poly1.length-1; p++) {
+
+        // keep only 5 decimals -- this makes the intersect matching easier.
+        pt1 = [poly1[p][0].toFixed(5), poly1[p][1].toFixed(5)]
+        pt2 = [poly1[p+1][0].toFixed(5), poly1[p+1][1].toFixed(5)]
+
+        line = turf.lineString([pt1, pt2]);
+        //console.log("Line", line);
+        lines.push(line);
+    }
+
+    // for each intersect point, run it thru each line forming the poly1
+    pts = [];
+    for (var pt in intersect) {
+
+        // keep 5 decimals
+        ipt = [intersect[pt][0].toFixed(5), intersect[pt][1].toFixed(5)]
+        this_point = turf.point(intersect[pt]);
+        //this_point5 = turf.point(ipt);
+        for (var line in lines) {
+
+            //console.log("Point", this_point, lines[line])
+            //console.log(turf.booleanPointOnLine(this_point, lines[line]))
+            /*if (turf.booleanPointOnLine(this_point5, lines[line])) {
+                pts.push(this_point5);
+                break;
+            } else*/
+            if (turf.booleanPointOnLine(this_point, lines[line])) {
+                pts.push(this_point);
+                break;
+            }
+        }
+    }
+    console.log(pts);
+
+    /* THIS TEST WORKS!
+    var pt = turf.point([0, 0]);
+    var line = turf.lineString([[-1, -1],[1, 1],[1.5, 2.2]]);
+    var isPointOnLine = turf.booleanPointOnLine(pt, line);
+    console.log("TEST:", pt, line, isPointOnLine)*/
+    return pts;
+}
 
