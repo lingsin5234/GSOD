@@ -46,7 +46,8 @@
 
         data = [
             {"geometry": {"coordinates":[-149.905,61.17472]}, "properties": {"title": 22}},
-            {"geometry": {"coordinates":[-156.611,71.3213]}, "properties": {"title": -40}}
+            {"geometry": {"coordinates":[-156.611,71.3213]}, "properties": {"title": -40}},
+            {"geometry": {"coordinates":[-152.624,68.3561]}, "properties": {"title": -10}}
         ]
         console.log(data);
         jQuery(document).ready(function() {
@@ -56,46 +57,25 @@
         });
 
         // perceived radius in km
-        var perceived_radius = 1000;
+        var perceived_radius = 800;
         //var pixel_radius = calculate_radius(perceived_radius, 52)[0];
         //console.log('Pixel Radius', pixel_radius);
 
         // draw hexagons around the 3 points
         hexagons = []
-        hexagonGEO = []
         for (var dat in data) {
             //console.log(data[dat].geometry.coordinates);
-
             hexagon_coord = hexagon_lat_long.apply(this, [perceived_radius].concat(data[dat].geometry.coordinates));
             //console.log("Hexagon Coordinates:", hexagon_coord);
-
-            // format into geojson format
-            geo_format = {
-                'type': 'Feature',
-                'geometry': {
-                    'type': 'Polygon',
-                    'coordinates': [
-                        hexagon_coord
-                    ]
-                }
-            };
-            //console.log("geoJSON", geo_format);
             hexagons.push(hexagon_coord);
-            hexagonGEO.push(geo_format);
         }
-
-        hexagonGEO = {
-            'type': 'FeatureCollection',
-            'features': hexagonGEO
-        }
-        console.log(hexagonGEO);
 
         // find intersections of hexagons
         for (var hex in hexagons) {
 
             poly1 = turf.polygon([hexagons[hex]]);
 
-            hl = hexagons.length - 1
+            hl = hexagons.length - 1;
             for (var i=hl; i > hex; i--) {
 
                 // find intersection polygon
@@ -104,13 +84,39 @@
                 console.log("intersect?", hex, i, poly);
 
                 // if poly not null, loop thru poly2 lines to see which points falls on a polygon line
-                //turf.booleanPointInPolygon(pt, poly);
-                [pts, remove_pts] = find_intersect_points(poly.geometry.coordinates[0],
-                                    poly1.geometry.coordinates[0], poly2.geometry.coordinates[0]);
-                redraw_hexagon(pts, remove_pts, poly1.geometry.coordinates[0]);
-                redraw_hexagon(pts, remove_pts, poly2.geometry.coordinates[0]);
+                if (poly != null) {
+                    [pts, remove_pts] = find_intersect_points(poly.geometry.coordinates[0],
+                                        poly1.geometry.coordinates[0], poly2.geometry.coordinates[0]);
+                    console.log('BEFORE', poly1.geometry.coordinates[0]);
+                    hexagons[hex] = redraw_hexagon(pts, remove_pts, poly1.geometry.coordinates[0]);
+                    console.log('BEFORE', poly2.geometry.coordinates[0]);
+                    hexagons[i] = redraw_hexagon([pts[1], pts[0]], remove_pts, poly2.geometry.coordinates[0]);
+                }
             }
         }
+
+        // add hexagons to GeoJSON format
+        hexagonGEO = []
+        for (var hex in hexagons) {
+            // format into geojson format
+            geo_format = {
+                'type': 'Feature',
+                'geometry': {
+                    'type': 'Polygon',
+                    'coordinates': [
+                        hexagons[hex]
+                    ]
+                }
+            };
+            //console.log("geoJSON", geo_format);
+            hexagonGEO.push(geo_format);
+        }
+
+        hexagonGEO = {
+            'type': 'FeatureCollection',
+            'features': hexagonGEO
+        }
+        console.log(hexagonGEO);
 
 
         mapboxgl.accessToken = '{{ mapbox_access_token }}';

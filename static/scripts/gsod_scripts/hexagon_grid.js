@@ -266,19 +266,26 @@ function find_intersect_points(intersect, poly1, poly2) {
 
 
 // function that re_draws the hexagon based on intersection points
-function redraw_hexagon(pts, remove_pts, poly) {
+function redraw_hexagon(pts, remove_pts, poly1) {
 
     // find remove_pts (should only be 1 match)
-    for (var p in poly) {
-        poly_pt = [poly[p][0].toFixed(5), poly[p][1].toFixed(5)]
-        for (var pt in remove_pts) {
-            rpt = [remove_pts[pt][0].toFixed(5), remove_pts[pt][1].toFixed(5)]
+    poly = poly1
+    for (var pt in remove_pts) {
+        rpt = [remove_pts[pt][0].toFixed(5), remove_pts[pt][1].toFixed(5)]
+        for (var p in poly) {
+            poly_pt = [poly[p][0].toFixed(5), poly[p][1].toFixed(5)]
             if (poly_pt[0] == rpt[0]) {
                 if (poly_pt[1] == rpt[1]) {
 
                     // put splice here
-                    poly.splice.apply([p, 1].concat(pts));
-                    //console.log('AFTER', poly);
+                    //console.log([parseInt(p), 1].concat(pts), poly[p])
+                    poly.splice.apply(poly, [parseInt(p), 1].concat(pts));
+
+                    // if splice index is 0, need to adjust the last pt to equal first pt
+                    if (parseInt(p) == 0) {
+                        poly.splice.apply(poly, [poly.length-1, 1].concat(pts[0]));
+                    }
+                    console.log('AFTER', poly, remove_pts, pts);
                     return poly;
                 }
             }
