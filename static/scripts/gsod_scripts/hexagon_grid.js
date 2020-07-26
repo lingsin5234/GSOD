@@ -181,3 +181,35 @@ function calculate_latitude(distance, km_per_pixel) {
 
 /*(C ∙ cos(latitude) / 2^(zoomlevel + 8)
 cos(latitude) = 2^(zoomlevel + 8) / C*/
+
+
+// normalize coordinates based on the grid
+function normalize_coordinates(long, lat, top_left_long, top_left_lat, bot_right_long, bot_right_lat) {
+
+    // normalize
+    n_long = long / (bot_right_long - top_left_long);
+    n_lat = lat / (top_left_lat - bot_right_lat);
+
+    return [Math.abs(n_long), Math.abs(n_lat)];
+}
+
+
+// hexagon lat-long
+function hexagon_lat_long(radius, long, lat) {
+
+    km_per_pixel = calculate_radius(radius, lat)[1];
+    width_factor = 1/2 * radius;
+    height_factor = Math.sqrt(3) / 2 * radius;
+    degrees = calculate_latitude(radius, km_per_pixel);
+    width_deg = calculate_latitude(width_factor, km_per_pixel);
+    height_deg = calculate_latitude(height_factor, km_per_pixel);
+
+    left = [long - degrees, lat];
+    right = [long + degrees, lat];
+    top_left = [long - width_deg, lat + height_deg];
+    top_right = [long + width_deg, lat + height_deg];
+    bot_left = [long - width_deg, lat - height_deg];
+    bot_right = [long + width_deg, lat - height_deg];
+
+    return [left, top_left, top_right, right, bot_right, bot_left];
+}

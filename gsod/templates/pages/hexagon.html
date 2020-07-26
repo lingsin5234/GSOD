@@ -3,7 +3,7 @@
         <h1>Hexagon Test</h1>
     </div><br>
 
-    <canvas id="canvasMap" width="800" height="512" style="width: 800px; height: 512px;"></canvas>
+    <!--canvas id="canvasMap" width="800" height="512" style="width: 800px; height: 512px;"></canvas-->
     <div class="d-flex justify-content-center">
         <div id="map" style="width: 1200px; height: 800px;"></div>
     </div>
@@ -59,6 +59,44 @@
         var pixel_radius = calculate_radius(perceived_radius, 52)[0];
         console.log('Pixel Radius', pixel_radius);
 
+        // draw hexagons around the 3 points
+        hexagons = []
+        for (var dat in data) {
+            console.log(data[dat].geometry.coordinates);
+
+            /*args = data[dat].geometry.coordinates
+            args = args.concat([-170.335167, 72, -129.002495, 52]);
+            coordinates = normalize_coordinates.apply(this, args);
+            console.log('Coordinates normalized:', coordinates);*/
+
+            hexagon_coord = hexagon_lat_long.apply(this, [pixel_radius].concat(data[dat].geometry.coordinates));
+            //console.log("Hexagon Coordinates:", hexagon_coord);
+
+            /*hexagon_coord = single_hexagon.apply(this, [pixel_radius].concat(coordinates));
+            hexagon_coord = ["canvasMap"].concat(hexagon_coord);
+            hexagon_coord = hexagon_coord.concat("rgba(255,0,0,0.5)");
+            draw_hexagon.apply(this, hexagon_coord);*/
+
+            // format into geojson format
+            geo_format = {
+                'type': 'Feature',
+                'geometry': {
+                    'type': 'Polygon',
+                    'coordinates': [
+                        hexagon_coord
+                    ]
+                }
+            };
+            //console.log("geoJSON", geo_format);
+            hexagons.push(geo_format);
+        }
+
+        hexagons = {
+            'type': 'FeatureCollection',
+            'features': hexagons
+        }
+        console.log(hexagons);
+
         // greatest distance (E-W) for the contiguous 48 US states: 4,669 km [wiki]
         // 50 km is at latitude 40; 1 degree longitude at lat 40 = 84.9898 km
         // the ratio was 50 / 84.9898 degrees
@@ -79,11 +117,11 @@
         //console.log("Pixel Radii:", pixel_radius_min, pixel_radius_max);
         // 2200 / (Math.sqrt(3) * 20) * 4 ~= 254, but needed 275??
 
-        var startPoints = create_start_points(pixel_radius, 176, 125, 5, 5);
+        //var startPoints = create_start_points(pixel_radius, 176, 125, 5, 5);
         //console.log(startPoints);
 
         // TESTING calculator
-        console.log('CALCULATIONS:', calculate_latitude(111/6, 52, 6));
+        /*console.log('CALCULATIONS:', calculate_latitude(111/6, 52, 6));
 
         // find the hexagon for the weather stations
         for (var dat in data) {
@@ -98,7 +136,7 @@
             coordinates = coordinates.concat("rgba(255,0,0,0.5)");
             //console.log(coordinates);
             draw_hexagon.apply(this, coordinates);
-        }
+        }*/
 
         mapboxgl.accessToken = '{{ mapbox_access_token }}';
         var map = new mapboxgl.Map({
@@ -111,14 +149,14 @@
         });
 
         map.on('load', function() {
-            map.addSource('canvas-source', {
+            /*map.addSource('canvas-source', {
                 type: 'canvas',
                 canvas: 'canvasMap',
                 coordinates: [
-                [-170.335167, 52], // this is bottom left corner
-                [-129.002495, 52],
-                [-129.002495, 72],
-                [-170.335167, 72]  // this is the top left corner
+                    [-170.335167, 52], // this is bottom left corner
+                    [-129.002495, 52],
+                    [-129.002495, 72],
+                    [-170.335167, 72]  // this is the top left corner
                 ],
                 // Set to true if the canvas source is animated. If the canvas is static, animate should be set to false to improve performance.
                 animate: false
@@ -128,6 +166,20 @@
                 id: 'canvas-layer',
                 type: 'raster',
                 source: 'canvas-source'
+            });*/
+
+            map.addSource('hexagons-draw', {
+                type: 'geojson',
+                data: hexagons
+            });
+            map.addLayer({
+                id: 'hexagons-draw',
+                type: 'fill',
+                source: 'hexagons-draw',
+                paint: {
+                    'fill-color': '#000',
+                    'fill-opacity': 0.8
+                }
             });
         });
 
