@@ -93,36 +93,18 @@
 
         // find intersections of hexagons
         for (var hex in hexagons) {
-            /*console.log("This works... wow", [[
-                [-157.7108098641629, 61.17472],
-                [-154.4116864263175, 68.98052986416292],
-                [-145.39831357368251, 68.98052986416292],
-                [-142.0991901358371, 61.17472],
-                [-145.39831357368251, 53.36891013583708],
-                [-154.4116864263175, 53.36891013583708],
-                [-157.7108098641629, 61.17472]
-            ]], typeof([[
-                [-157.7108098641629, 61.17472],
-                [-154.4116864263175, 68.98052986416292],
-                [-145.39831357368251, 68.98052986416292],
-                [-142.0991901358371, 61.17472],
-                [-145.39831357368251, 53.36891013583708],
-                [-154.4116864263175, 53.36891013583708],
-                [-157.7108098641629, 61.17472]
-            ]]));*/
-            test_hex = [
-                hexagons[hex]
-            ];
-            console.log(test_hex);
-            poly1 = turf.polygon(test_hex);
+
+            poly1 = turf.polygon([hexagons[hex]]);
 
             hl = hexagons.length - 1
             for (var i=hl; i > hex; i--) {
-                console.log(hex, i, hexagons[i]);
+
+                // find intersection polygon
                 poly2 = turf.polygon([hexagons[i]]);
-                //console.log(poly1, poly2);
                 poly = turf.intersect(poly1, poly2);
-                //console.log(hex, poly);
+                console.log(hex, i, poly);
+
+                // if poly not null, loop thru poly2 lines to see which points falls on a polygon line
                 //turf.booleanPointInPolygon(pt, poly);
             }
         }
