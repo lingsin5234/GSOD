@@ -105,9 +105,9 @@
 
                 // if poly not null, loop thru poly2 lines to see which points falls on a polygon line
                 //turf.booleanPointInPolygon(pt, poly);
-                find_intersect_points(poly.geometry.coordinates[0],
-                                    poly1.geometry.coordinates[0],
-                                    poly2.geometry.coordinates[0]);
+                [pts, remove_pts] = find_intersect_points(poly.geometry.coordinates[0],
+                                    poly1.geometry.coordinates[0], poly2.geometry.coordinates[0]);
+                redraw_hexagon(pts, remove_pts, poly1);
             }
         }
 

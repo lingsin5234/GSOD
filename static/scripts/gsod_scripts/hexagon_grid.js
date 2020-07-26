@@ -250,13 +250,27 @@ function find_intersect_points(intersect, poly1, poly2) {
 
     // indices of pts that are corners of polygon
     other_pts = [];
+    remove_pts = [];
     for (var ins in intersect) {
         if (!pts.includes(ins) && ins != intersect.length-1) {
             other_pts.push(intersect[ins]);
         }
+        else if (pts.includes(ins)) {
+            remove_pts.push(intersect[ins]);
+        }
     }
-    console.log(other_pts);
+    //console.log(other_pts);
 
-    return other_pts;
+    return [other_pts, remove_pts];
 }
 
+
+// function that re_draws the hexagon based on intersection points
+function redraw_hexagon(pts, remove_pts, poly) {
+
+    // testing splice
+    arr = [0, 1, 2, 3, 4, 5, 6, 7, 8];
+    arr.splice(2, 1, 10, 11);
+    console.log(arr);
+
+}
