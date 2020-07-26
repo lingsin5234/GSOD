@@ -216,50 +216,47 @@ function hexagon_lat_long(radius, long, lat) {
 
 
 // find overlap for the hexagons
-function find_intersect_points(intersect, poly1) {
+function find_intersect_points(intersect, poly1, poly2) {
 
-    // create all the lines that border the polygon
-    lines = [];
-    for (var p=0; p < poly1.length-1; p++) {
-
-        // keep only 5 decimals -- this makes the intersect matching easier.
-        pt1 = [poly1[p][0].toFixed(5), poly1[p][1].toFixed(5)]
-        pt2 = [poly1[p+1][0].toFixed(5), poly1[p+1][1].toFixed(5)]
-
-        line = turf.lineString([pt1, pt2]);
-        //console.log("Line", line);
-        lines.push(line);
-    }
-
-    // for each intersect point, run it thru each line forming the poly1
+    // find the points that are the same as the corners of the polygons
     pts = [];
     for (var pt in intersect) {
-
         // keep 5 decimals
         ipt = [intersect[pt][0].toFixed(5), intersect[pt][1].toFixed(5)]
-        this_point = turf.point(intersect[pt]);
-        //this_point5 = turf.point(ipt);
-        for (var line in lines) {
-
-            //console.log("Point", this_point, lines[line])
-            //console.log(turf.booleanPointOnLine(this_point, lines[line]))
-            /*if (turf.booleanPointOnLine(this_point5, lines[line])) {
-                pts.push(this_point5);
-                break;
-            } else*/
-            if (turf.booleanPointOnLine(this_point, lines[line])) {
-                pts.push(this_point);
-                break;
+        poly_match = false;
+        //ipt = intersect[pt];
+        for (var poly in poly1) {
+            poly_pt = [poly1[poly][0].toFixed(5), poly1[poly][1].toFixed(5)]
+            if (poly_pt[0] == ipt[0]) {
+                if (poly_pt[1] == ipt[1]) {
+                    pts.push(pt);
+                    poly_match = true;
+                    break;
+                }
+            }
+        }
+        if (!poly_match) {
+            for (var poly in poly2) {
+                poly_pt = [poly2[poly][0].toFixed(5), poly2[poly][1].toFixed(5)]
+                if (poly_pt[0] == ipt[0]) {
+                    if (poly_pt[1] == ipt[1]) {
+                        pts.push(pt);
+                        break;
+                    }
+                }
             }
         }
     }
-    console.log(pts);
 
-    /* THIS TEST WORKS!
-    var pt = turf.point([0, 0]);
-    var line = turf.lineString([[-1, -1],[1, 1],[1.5, 2.2]]);
-    var isPointOnLine = turf.booleanPointOnLine(pt, line);
-    console.log("TEST:", pt, line, isPointOnLine)*/
-    return pts;
+    // indices of pts that are corners of polygon
+    other_pts = [];
+    for (var ins in intersect) {
+        if (!pts.includes(ins) && ins != intersect.length-1) {
+            other_pts.push(intersect[ins]);
+        }
+    }
+    console.log(other_pts);
+
+    return other_pts;
 }
 
