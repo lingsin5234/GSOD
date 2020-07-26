@@ -211,5 +211,10 @@ function hexagon_lat_long(radius, long, lat) {
     bot_left = [long - width_deg, lat - height_deg];
     bot_right = [long + width_deg, lat - height_deg];
 
-    return [left, top_left, top_right, right, bot_right, bot_left];
+    return [left, top_left, top_right, right, bot_right, bot_left, left];
 }
+
+
+// calculate overlap for the hexagons
+
+
