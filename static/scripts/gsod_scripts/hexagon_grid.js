@@ -370,3 +370,13 @@ function get_second_pt(pt, intersect) {
 
     return [pt, intersect[max_index]]
 }
+
+
+// this function looks for "ring" around weather station based on distance and level.
+function station_rings(distance, level, station, coord) {
+
+    dist = turf.distance(station, coord);
+    // return true if within 20-25% -- too account for the north
+    return ( (dist <= distance * (level + 0.2) && dist >= distance * (level - 0.25)) ? [true, dist]: [false, dist] );
+    //return ( (dist <= distance * (level + 0.2)) ? [true, dist]: [false, dist] );
+}

@@ -45,10 +45,10 @@
         */
 
         data = [
+            {"geometry": {"coordinates":[-156.611,71.3213]}, "properties": {"temperature": -20}},
             {"geometry": {"coordinates":[-149.905,61.17472]}, "properties": {"temperature": 22}},
             {"geometry": {"coordinates":[-152.624,65.3561]}, "properties": {"temperature": -10}},
             {"geometry": {"coordinates":[-158.884,68.2635]}, "properties": {"temperature": 0}},
-            {"geometry": {"coordinates":[-156.611,71.3213]}, "properties": {"temperature": -20}},
             {"geometry": {"coordinates":[-155.264,62.7897]}, "properties": {"temperature": 30}},
         ]
         console.log(data);
@@ -59,21 +59,83 @@
         options = {};
 
         var hexGrid = turf.hexGrid(bbox, cellSide, options);
+        var tempChange = 0;
+        var polygons_set = [];
+        var centroid_set = [];
         hexGrid.features.forEach(f => {
 
-            f.properties = { temperature: 0 };
+            polygon = turf.polygon([f.geometry.coordinates[0]]);
+            polygons_set.push(polygon);
+            centroid = turf.centroid(polygon);
+            centroid_set.push(centroid);
+
+            // find the centroid that houses the weather station
+            data.forEach((d, i) => {
+                station = d.geometry.coordinates;
+                if (turf.booleanPointInPolygon(station, polygon)) {
+                    d.properties.centroid = centroid;
+                }
+            });
+
+            f.properties = {
+                temperature: tempChange,
+                centroid: centroid
+            };
+            tempChange += 0.001;
+        });
+
+        // loop thru the polygons again to get the "ring" around it
+        ring_1 = [];
+        data.forEach((d, i) => {
+            station = d.properties.centroid;
+            for (var cent in centroid_set) {
+                coord = centroid_set[cent];
+                if (station_rings(cellSide * Math.sqrt(3), 1, station, coord)[0]) {
+                    //console.log("Ring", station, coord);
+                    ring = {"geometry": {"coordinates": coord.geometry.coordinates}, "properties": {"temperature": 40}},
+                    ring_1.push(ring);
+                }
+                /*if (i == 0) {
+                    [check, dist] = station_rings(cellSide * Math.sqrt(3), 1, station, coord);
+                    if (dist < 150) {
+                        console.log("First Station\n", station, coord.geometry.coordinates, "\n", dist, check);
+                    }
+                }*/
+            }
+        });
+
+        hexGrid.features.forEach(f => {
+
+            polygon = turf.polygon([f.geometry.coordinates[0]]);
+            centroid = turf.centroid(polygon);
 
             // insert the colours from the weather stations
-            polygon = turf.polygon([f.geometry.coordinates[0]]);
             data.forEach(d => {
                 coord = d.geometry.coordinates
                 if (turf.booleanPointInPolygon(coord, polygon)) {
                     //console.log(coord);
-                    f.properties = { temperature: (d.properties.temperature + 40)/80 };
+                    f.properties = {
+                        temperature: (d.properties.temperature + 40)/80,
+                        centroid: centroid
+                    };
                 }
             });
+
+            // insert colours from the first ring
+            ring_1.forEach(r => {
+                coord = r.geometry.coordinates
+                if (turf.booleanPointInPolygon(coord, polygon)) {
+                    console.log(coord, f);
+                    f.properties = {
+                        temperature: (r.properties.temperature + 40)/80,
+                        centroid: centroid
+                    };
+                }
+            });
+
         });
         console.log('HEXGRID', hexGrid);
+        console.log('RING', ring_1);
 
         mapboxgl.accessToken = '{{ mapbox_access_token }}';
         var map = new mapboxgl.Map({
