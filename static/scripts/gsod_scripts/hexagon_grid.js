@@ -259,7 +259,8 @@ function find_intersect_points(intersect, poly1, poly2) {
             remove_pts.push(intersect[ins]);
         }
     }
-    //console.log(other_pts);
+    console.log('Intersect Points:', other_pts);
+    console.log('Remove Points:', remove_pts);
 
     return [other_pts, remove_pts];
 }
@@ -270,6 +271,7 @@ function redraw_hexagon(pts, remove_pts, poly1) {
 
     // find remove_pts (should only be 1 match)
     poly = poly1
+    spliced = false;
     for (var pt in remove_pts) {
         rpt = [remove_pts[pt][0].toFixed(5), remove_pts[pt][1].toFixed(5)];
 
@@ -282,63 +284,84 @@ function redraw_hexagon(pts, remove_pts, poly1) {
             if (poly_pt[0] == rpt[0]) {
                 if (poly_pt[1] == rpt[1]) {
 
-                    // found match, now order the points to be added
-                    add_pts = order_points.apply(this, [prev_pt, poly_pt].concat(pts))
+                    if (!spliced) {
+                        // found match, now order the points to be added
+                        add_pts = order_points.apply(this, [prev_pt, poly_pt].concat(pts))
 
-                    // put splice here
-                    //console.log([parseInt(p), 1].concat(pts), poly[p])
-                    poly.splice.apply(poly, [parseInt(p), 1].concat(add_pts));
+                        // put splice here
+                        //console.log([parseInt(p), 1].concat(pts), poly[p])
+                        poly.splice.apply(poly, [parseInt(p), 1].concat(add_pts));
 
-                    // if splice index is 0, need to adjust the last pt to equal first pt
-                    if (parseInt(p) == 0) {
-                        poly.splice.apply(poly, [poly.length-1, 1].concat([add_pts[0]]));
+                        // if splice index is 0, need to adjust the last pt to equal first pt
+                        if (parseInt(p) == 0) {
+                            poly.splice.apply(poly, [poly.length-1, 1].concat([add_pts[0]]));
+                        }
+                        spliced = true;
                     }
-                    console.log('AFTER', poly, remove_pts, add_pts);
-                    return poly;
+                    else {
+                        // if already spliced, just remove points that need to be removed
+                        poly.splice(parseInt(p), 1);
+                    }
                 }
             }
             prev_pt = poly_pt;  // for reference to order the added pts
         }
     }
+    return poly;
 }
 
 
 // determine how to order the points based on prev and current point (that you are replacing)
+// base it on distance, since the closer point should be the replacement... find exceptions later
 function order_points(prev_pt, remove_pt, new_pt1, new_pt2) {
 
-    // downward
-    if (prev_pt[1] > remove_pt[1]) {
-        if (new_pt1[1] > new_pt2[1]) {
-            pts = [new_pt1, new_pt2];
-        } else {
-            pts = [new_pt2, new_pt1];
+    pts = [new_pt1, new_pt2]
+    // find pt with furthest distance
+    min_dist = 1000000;
+    min_index = 1;
+    for (var ins in pts) {
+        dist = turf.distance(prev_pt, pts[ins])
+        if (dist < min_dist) {
+            min_dist = dist;
+            min_index = ins;
+            console.log(min_dist, min_index);
         }
     }
-    // upward
-    else if (prev_pt[1] < remove_pt[1]) {
-        if (new_pt1[1] < new_pt2[1]) {
-            pts = [new_pt1, new_pt2];
-        } else {
-            pts = [new_pt2, new_pt1];
-        }
-    }
-    // leftward
-    else if (prev_pt[0] > remove_pt[0]) {
-            if (new_pt1[0] > new_pt2[0]) {
-                pts = [new_pt2, new_pt1];
-            } else {
-                pts = [new_pt1, new_pt2];
-            }
-    }
-    // rightward
-    else if (prev_pt[0] < remove_pt[0]) {
-        if (new_pt1[0] < new_pt2[0]) {
-            pts = [new_pt2, new_pt1];
-        } else {
-            pts = [new_pt1, new_pt2];
-        }
+
+    if (min_index == 1) {
+        pts = [new_pt2, new_pt1]
     }
 
     return pts;
 }
 
+
+// get the second point if only 1 point found on intersect
+// this is likely due to multi-polygon overlap
+function get_second_pt(pt, intersect) {
+
+    // get the pt that did match
+    console.log("All Intersects", intersect);
+    for (var ins in intersect) {
+        ipt = [intersect[ins][0].toFixed(5), intersect[ins][1].toFixed(5)];
+        if (ipt[0] == pt[0].toFixed(5) && ipt[1] == pt[1].toFixed(5)) {
+            index = ins;
+            break;
+        }
+    }
+
+    // find pt with furthest distance
+    max_dist = 0;
+    max_index = index;
+    for (var ins in intersect) {
+        dist = turf.distance(intersect[index], intersect[ins])
+        if (dist > max_dist) {
+            max_dist = dist;
+            max_index = ins;
+            //console.log(max_dist, max_index);
+        }
+    }
+    //console.log("Get Second Pt", pt, intersect[max_index]);
+
+    return [pt, intersect[max_index]]
+}

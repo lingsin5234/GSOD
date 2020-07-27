@@ -47,7 +47,9 @@
         data = [
             {"geometry": {"coordinates":[-149.905,61.17472]}, "properties": {"title": 22}},
             {"geometry": {"coordinates":[-156.611,71.3213]}, "properties": {"title": -40}},
-            //{"geometry": {"coordinates":[-152.624,65.3561]}, "properties": {"title": -10}}
+            {"geometry": {"coordinates":[-152.624,65.3561]}, "properties": {"title": -10}},
+            {"geometry": {"coordinates":[-155.264,62.7897]}, "properties": {"title": -10}},
+            //{"geometry": {"coordinates":[-158.884,68.2635]}, "properties": {"title": -10}}
         ]
         console.log(data);
         jQuery(document).ready(function() {
@@ -57,7 +59,7 @@
         });
 
         // perceived radius in km
-        var perceived_radius = 800;
+        var perceived_radius = 600;
         //var pixel_radius = calculate_radius(perceived_radius, 52)[0];
         //console.log('Pixel Radius', pixel_radius);
 
@@ -82,12 +84,16 @@
                 // find intersection polygon
                 poly2 = turf.polygon([hexagons[i]]);
                 poly = turf.intersect(poly1, poly2);
-                console.log("intersect?", hex, i, poly);
+                console.log("intersect?", hex, i, poly, poly1, poly2);
 
                 // if poly not null, loop thru poly2 lines to see which points falls on a polygon line
                 if (poly != null) {
                     [pts, remove_pts] = find_intersect_points(poly.geometry.coordinates[0],
                                         poly1.geometry.coordinates[0], poly2.geometry.coordinates[0]);
+                    // for multi-polygon overlap, prob only have 1 match
+                    if (pts.length == 1) {
+                        pts = get_second_pt(pts[0], poly.geometry.coordinates[0]);
+                    }
                     hexagons[hex] = redraw_hexagon(pts, remove_pts, poly1.geometry.coordinates[0]);
                     hexagons[i] = redraw_hexagon(pts, remove_pts, poly2.geometry.coordinates[0]);
                 }
