@@ -47,77 +47,11 @@
         data = [
             {"geometry": {"coordinates":[-149.905,61.17472]}, "properties": {"temperature": 22}},
             {"geometry": {"coordinates":[-152.624,65.3561]}, "properties": {"temperature": -10}},
-            {"geometry": {"coordinates":[-158.884,68.2635]}, "properties": {"temperature": -10}},
-            {"geometry": {"coordinates":[-156.611,71.3213]}, "properties": {"temperature": -40}},
-            {"geometry": {"coordinates":[-155.264,62.7897]}, "properties": {"temperature": -10}},
+            {"geometry": {"coordinates":[-158.884,68.2635]}, "properties": {"temperature": 0}},
+            {"geometry": {"coordinates":[-156.611,71.3213]}, "properties": {"temperature": -20}},
+            {"geometry": {"coordinates":[-155.264,62.7897]}, "properties": {"temperature": 30}},
         ]
         console.log(data);
-
-        // perceived radius in km
-        var perceived_radius = 300;
-
-        // draw hexagons around the 3 points
-        hexagons = []
-        for (var dat in data) {
-            //console.log(data[dat].geometry.coordinates);
-            hexagon_coord = hexagon_lat_long.apply(this, [perceived_radius].concat(data[dat].geometry.coordinates));
-            //console.log("Hexagon Coordinates:", hexagon_coord);
-            hexagons.push(hexagon_coord);
-        }
-        console.log(JSON.parse(JSON.stringify(hexagons)));
-
-        // find intersections of hexagons
-        for (var hex in hexagons) {
-
-            console.log(hex, hexagons[hex]);
-            poly1 = turf.polygon([hexagons[hex]]);
-
-            hl = parseInt(hex) + 1;
-            for (var i=hl; i < hexagons.length; i++) {
-
-                // find intersection polygon
-                poly2 = turf.polygon([hexagons[i]]);
-                poly = turf.intersect(poly1, poly2);
-                console.log("intersect?", hex, i, poly, poly1, poly2);
-
-                // if poly not null, loop thru poly2 lines to see which points falls on a polygon line
-                if (poly != null) {
-                    [pts, remove_pts] = find_intersect_points(poly.geometry.coordinates[0],
-                                        poly1.geometry.coordinates[0], poly2.geometry.coordinates[0]);
-                    // for multi-polygon overlap, prob only have 1 match
-                    if (pts.length == 1) {
-                        pts = get_second_pt(pts[0], poly.geometry.coordinates[0]);
-                    }
-                    if (pts.length > 0) {
-                        hexagons[hex] = redraw_hexagon(pts, remove_pts, poly1.geometry.coordinates[0]);
-                        hexagons[i] = redraw_hexagon(pts, remove_pts, poly2.geometry.coordinates[0]);
-                    }
-                }
-            }
-        }
-
-        // add hexagons to GeoJSON format
-        hexagonGEO = []
-        for (var hex in hexagons) {
-            // format into geojson format
-            geo_format = {
-                'type': 'Feature',
-                'geometry': {
-                    'type': 'Polygon',
-                    'coordinates': [
-                        hexagons[hex]
-                    ]
-                }
-            };
-            //console.log("geoJSON", geo_format);
-            hexagonGEO.push(geo_format);
-        }
-
-        hexagonGEO = {
-            'type': 'FeatureCollection',
-            'features': hexagonGEO
-        }
-        console.log('hexagonGEO', hexagonGEO);
 
         // hexGrid
         var bbox = [-172,52,-128,72];
@@ -126,7 +60,18 @@
 
         var hexGrid = turf.hexGrid(bbox, cellSide, options);
         hexGrid.features.forEach(f => {
-            f.properties = { temperature: Math.random() };
+
+            f.properties = { temperature: 0 };
+
+            // insert the colours from the weather stations
+            polygon = turf.polygon([f.geometry.coordinates[0]]);
+            data.forEach(d => {
+                coord = d.geometry.coordinates
+                if (turf.booleanPointInPolygon(coord, polygon)) {
+                    //console.log(coord);
+                    f.properties = { temperature: (d.properties.temperature + 40)/80 };
+                }
+            });
         });
         console.log('HEXGRID', hexGrid);
 
