@@ -222,11 +222,11 @@ function find_intersect_points(intersect, poly1, poly2) {
     pts = [];
     for (var pt in intersect) {
         // keep 5 decimals
-        ipt = [intersect[pt][0].toFixed(5), intersect[pt][1].toFixed(5)]
+        ipt = [intersect[pt][0].toFixed(6), intersect[pt][1].toFixed(6)]
         poly_match = false;
         //ipt = intersect[pt];
         for (var poly in poly1) {
-            poly_pt = [poly1[poly][0].toFixed(5), poly1[poly][1].toFixed(5)]
+            poly_pt = [poly1[poly][0].toFixed(6), poly1[poly][1].toFixed(6)]
             if (poly_pt[0] == ipt[0]) {
                 if (poly_pt[1] == ipt[1]) {
                     pts.push(pt);
@@ -237,7 +237,7 @@ function find_intersect_points(intersect, poly1, poly2) {
         }
         if (!poly_match) {
             for (var poly in poly2) {
-                poly_pt = [poly2[poly][0].toFixed(5), poly2[poly][1].toFixed(5)]
+                poly_pt = [poly2[poly][0].toFixed(6), poly2[poly][1].toFixed(6)]
                 if (poly_pt[0] == ipt[0]) {
                     if (poly_pt[1] == ipt[1]) {
                         pts.push(pt);
@@ -273,14 +273,14 @@ function redraw_hexagon(pts, remove_pts, poly1) {
     poly = poly1
     spliced = false;
     for (var pt in remove_pts) {
-        rpt = [remove_pts[pt][0].toFixed(5), remove_pts[pt][1].toFixed(5)];
+        rpt = [remove_pts[pt][0].toFixed(6), remove_pts[pt][1].toFixed(6)];
 
         // in case first value needs to be replaced, set prev_pt to the second last value
         poly2ndlast = poly.length - 2
-        prev_pt = [poly[poly2ndlast][0].toFixed(5), poly[poly2ndlast][1].toFixed(5)]
+        prev_pt = [poly[poly2ndlast][0].toFixed(6), poly[poly2ndlast][1].toFixed(6)]
         //console.log("PREV", prev_pt);
         for (var p in poly) {
-            poly_pt = [poly[p][0].toFixed(5), poly[p][1].toFixed(5)];
+            poly_pt = [poly[p][0].toFixed(6), poly[p][1].toFixed(6)];
             if (poly_pt[0] == rpt[0]) {
                 if (poly_pt[1] == rpt[1]) {
 
@@ -297,10 +297,15 @@ function redraw_hexagon(pts, remove_pts, poly1) {
                             poly.splice.apply(poly, [poly.length-1, 1].concat([add_pts[0]]));
                         }
                         spliced = true;
+                        break;
                     }
                     else {
                         // if already spliced, just remove points that need to be removed
                         poly.splice(parseInt(p), 1);
+                        if (parseInt(p) == 0) {
+                            poly.splice.apply(poly, [poly.length-1, 1].concat([poly[0]]))
+                            break;
+                        }
                     }
                 }
             }
@@ -343,8 +348,8 @@ function get_second_pt(pt, intersect) {
     // get the pt that did match
     console.log("All Intersects", intersect);
     for (var ins in intersect) {
-        ipt = [intersect[ins][0].toFixed(5), intersect[ins][1].toFixed(5)];
-        if (ipt[0] == pt[0].toFixed(5) && ipt[1] == pt[1].toFixed(5)) {
+        ipt = [intersect[ins][0].toFixed(6), intersect[ins][1].toFixed(6)];
+        if (ipt[0] == pt[0].toFixed(6) && ipt[1] == pt[1].toFixed(6)) {
             index = ins;
             break;
         }

@@ -46,10 +46,10 @@
 
         data = [
             {"geometry": {"coordinates":[-149.905,61.17472]}, "properties": {"title": 22}},
-            {"geometry": {"coordinates":[-156.611,71.3213]}, "properties": {"title": -40}},
             {"geometry": {"coordinates":[-152.624,65.3561]}, "properties": {"title": -10}},
+            {"geometry": {"coordinates":[-158.884,68.2635]}, "properties": {"title": -10}},
+            {"geometry": {"coordinates":[-156.611,71.3213]}, "properties": {"title": -40}},
             {"geometry": {"coordinates":[-155.264,62.7897]}, "properties": {"title": -10}},
-            //{"geometry": {"coordinates":[-158.884,68.2635]}, "properties": {"title": -10}}
         ]
         console.log(data);
         jQuery(document).ready(function() {
@@ -59,7 +59,7 @@
         });
 
         // perceived radius in km
-        var perceived_radius = 600;
+        var perceived_radius = 500;
         //var pixel_radius = calculate_radius(perceived_radius, 52)[0];
         //console.log('Pixel Radius', pixel_radius);
 
@@ -76,10 +76,11 @@
         // find intersections of hexagons
         for (var hex in hexagons) {
 
+            console.log(hex, hexagons[hex]);
             poly1 = turf.polygon([hexagons[hex]]);
 
-            hl = hexagons.length - 1;
-            for (var i=hl; i > hex; i--) {
+            hl = parseInt(hex) + 1;
+            for (var i=hl; i < hexagons.length; i++) {
 
                 // find intersection polygon
                 poly2 = turf.polygon([hexagons[i]]);
@@ -94,8 +95,10 @@
                     if (pts.length == 1) {
                         pts = get_second_pt(pts[0], poly.geometry.coordinates[0]);
                     }
-                    hexagons[hex] = redraw_hexagon(pts, remove_pts, poly1.geometry.coordinates[0]);
-                    hexagons[i] = redraw_hexagon(pts, remove_pts, poly2.geometry.coordinates[0]);
+                    if (pts.length > 0) {
+                        hexagons[hex] = redraw_hexagon(pts, remove_pts, poly1.geometry.coordinates[0]);
+                        hexagons[i] = redraw_hexagon(pts, remove_pts, poly2.geometry.coordinates[0]);
+                    }
                 }
             }
         }
