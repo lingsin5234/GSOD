@@ -373,10 +373,32 @@ function get_second_pt(pt, intersect) {
 
 
 // this function looks for "ring" around weather station based on distance and level.
-function station_rings(distance, level, station, coord) {
+// the bounding box matters, because the center lat, is used as the reference for the most equilateral hexagon.
+function station_rings(distance, level, station, coord, bot_lat, top_lat) {
 
     dist = turf.distance(station, coord);
-    // return true if within 20-25% -- too account for the north
-    return ( (dist <= distance * (level + 0.2) && dist >= distance * (level - 0.25)) ? [true, dist]: [false, dist] );
-    //return ( (dist <= distance * (level + 0.2)) ? [true, dist]: [false, dist] );
+
+    // factor in the latitude of the station [long, lat]
+    lat = station.geometry.coordinates[1];
+    converted_distance = convert_distance(distance * level, lat, bot_lat, top_lat);
+
+    // return true if within 10% -- to account for the north
+    smaller_than = Math.max(distance * level, converted_distance)
+    bigger_than = Math.min(distance * level, converted_distance)
+    // 3% margin of error
+    return ( (dist <= smaller_than * (1 + 0.03) && dist >= bigger_than * (1 - 0.03)) ? [true, dist]: [false, dist] );
+}
+
+
+// convert the distance based on the latitude and reference latitude
+function convert_distance(distance, lat, bot_lat, top_lat) {
+
+    // find pixel distance of the distance at the middle latitude
+    middle_lat = top_lat - bot_lat;
+    km_per_pixel = 40075 * Math.cos(middle_lat * Math.PI / 180) / Math.pow(2, 12);
+    pixel_distance = distance / km_per_pixel;
+
+    // now use pixel distance to convert it to the distance at the needed latitude
+    km_per_pixel = 40075 * Math.cos(lat * Math.PI / 180) / Math.pow(2, 12);
+    return pixel_distance * km_per_pixel;
 }
