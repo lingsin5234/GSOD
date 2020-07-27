@@ -380,13 +380,32 @@ function station_rings(distance, level, station, coord, bot_lat, top_lat) {
 
     // factor in the latitude of the station [long, lat]
     lat = station.geometry.coordinates[1];
-    converted_distance = convert_distance(distance * level, lat, bot_lat, top_lat);
+    longest_distance = distance * level * Math.sqrt(3);
 
-    // return true if within 10% -- to account for the north
-    smaller_than = Math.max(distance * level, converted_distance)
-    bigger_than = Math.min(distance * level, converted_distance)
-    // 3% margin of error
-    return ( (dist <= smaller_than * (1 + 0.03) && dist >= bigger_than * (1 - 0.03)) ? [true, dist]: [false, dist] );
+    // the other measurement to take into account is the shortest distance in that level
+    // for EVEN levels, it's exactly (level + 1) * r
+    if (level == 1) {
+        shortest_dist = convert_distance(distance * level * Math.sqrt(3), lat, bot_lat, top_lat);
+        /*if (station.geometry.coordinates[0] == -150 && station.geometry.coordinates[1] == 61.22116571887389) {
+            result = (dist <= converted_distance * (1 + 0.05) && dist >= shortest_dist * (1 - 0.05));
+            if (!result) { console.log(result, level, shortest_dist, dist, converted_distance) }
+        }*/
+    } else {
+        shortest_dist = distance * level * 1.5;
+        shortest_dist = convert_distance(shortest_dist, lat, bot_lat, top_lat);
+    }
+
+    // [-150, 61.22116571887389] [-152.9299247223268, 65.11533712450444
+    if (station.geometry.coordinates[0] == -152.9299247223268 && station.geometry.coordinates[1] == 65.11533712450444) {
+        result = (dist <= longest_distance * (1 + 0.05) && dist >= shortest_dist * (1 - 0.05));
+        if (result) { console.log(result, level, shortest_dist, dist, longest_distance) }
+    }
+    if (dist == 0) {
+        console.log("Station", station);
+    }
+
+    // 5% margin of error for below 68th latitude
+    return ((dist <= longest_distance * (1 + 0.05) && dist >= shortest_dist * (1 - 0.05)) ? [true, dist]: [false, dist]);
 }
 
 
@@ -394,7 +413,7 @@ function station_rings(distance, level, station, coord, bot_lat, top_lat) {
 function convert_distance(distance, lat, bot_lat, top_lat) {
 
     // find pixel distance of the distance at the middle latitude
-    middle_lat = top_lat - bot_lat;
+    middle_lat = (top_lat + bot_lat) / 2;
     km_per_pixel = 40075 * Math.cos(middle_lat * Math.PI / 180) / Math.pow(2, 12);
     pixel_distance = distance / km_per_pixel;
 
