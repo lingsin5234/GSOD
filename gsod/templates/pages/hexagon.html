@@ -45,23 +45,16 @@
         */
 
         data = [
-            {"geometry": {"coordinates":[-149.905,61.17472]}, "properties": {"title": 22}},
-            {"geometry": {"coordinates":[-152.624,65.3561]}, "properties": {"title": -10}},
-            {"geometry": {"coordinates":[-158.884,68.2635]}, "properties": {"title": -10}},
-            {"geometry": {"coordinates":[-156.611,71.3213]}, "properties": {"title": -40}},
-            {"geometry": {"coordinates":[-155.264,62.7897]}, "properties": {"title": -10}},
+            {"geometry": {"coordinates":[-149.905,61.17472]}, "properties": {"temperature": 22}},
+            {"geometry": {"coordinates":[-152.624,65.3561]}, "properties": {"temperature": -10}},
+            {"geometry": {"coordinates":[-158.884,68.2635]}, "properties": {"temperature": -10}},
+            {"geometry": {"coordinates":[-156.611,71.3213]}, "properties": {"temperature": -40}},
+            {"geometry": {"coordinates":[-155.264,62.7897]}, "properties": {"temperature": -10}},
         ]
         console.log(data);
-        jQuery(document).ready(function() {
-
-            //var editor=bi(1000,600,data,document.getElementById("gradientContainer"));
-
-        });
 
         // perceived radius in km
-        var perceived_radius = 500;
-        //var pixel_radius = calculate_radius(perceived_radius, 52)[0];
-        //console.log('Pixel Radius', pixel_radius);
+        var perceived_radius = 300;
 
         // draw hexagons around the 3 points
         hexagons = []
@@ -124,8 +117,18 @@
             'type': 'FeatureCollection',
             'features': hexagonGEO
         }
-        console.log(hexagonGEO);
+        console.log('hexagonGEO', hexagonGEO);
 
+        // hexGrid
+        var bbox = [-172,52,-128,72];
+        var cellSide = 50;
+        options = {};
+
+        var hexGrid = turf.hexGrid(bbox, cellSide, options);
+        hexGrid.features.forEach(f => {
+            f.properties = { temperature: Math.random() };
+        });
+        console.log('HEXGRID', hexGrid);
 
         mapboxgl.accessToken = '{{ mapbox_access_token }}';
         var map = new mapboxgl.Map({
@@ -140,7 +143,7 @@
         map.on('load', function() {
             map.addSource('hexagons-draw', {
                 type: 'geojson',
-                data: hexagonGEO
+                data: hexGrid //hexagonGEO
             });
             map.addLayer({
                 id: 'hexagons-draw',
@@ -148,7 +151,10 @@
                 source: 'hexagons-draw',
                 paint: {
                     'fill-color': 'rgb(255, 69, 0)',
-                    'fill-opacity': 0.8
+                    //'fill-opacity': 0.8
+                    'fill-opacity': ["interpolate", ["linear"], ["get", "temperature"],
+                                    0, 0.2,
+                                    1, 0.9]
                 }
             });
         });
