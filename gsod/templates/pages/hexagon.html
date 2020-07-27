@@ -47,7 +47,7 @@
         data = [
             {"geometry": {"coordinates":[-149.905,61.17472]}, "properties": {"title": 22}},
             {"geometry": {"coordinates":[-156.611,71.3213]}, "properties": {"title": -40}},
-            {"geometry": {"coordinates":[-152.624,68.3561]}, "properties": {"title": -10}}
+            //{"geometry": {"coordinates":[-152.624,68.3561]}, "properties": {"title": -10}}
         ]
         console.log(data);
         jQuery(document).ready(function() {
@@ -87,10 +87,10 @@
                 if (poly != null) {
                     [pts, remove_pts] = find_intersect_points(poly.geometry.coordinates[0],
                                         poly1.geometry.coordinates[0], poly2.geometry.coordinates[0]);
-                    console.log('BEFORE', poly1.geometry.coordinates[0]);
+                    console.log('BEFORE', hexagons[hex]);
                     hexagons[hex] = redraw_hexagon(pts, remove_pts, poly1.geometry.coordinates[0]);
                     console.log('BEFORE', poly2.geometry.coordinates[0]);
-                    hexagons[i] = redraw_hexagon([pts[1], pts[0]], remove_pts, poly2.geometry.coordinates[0]);
+                    hexagons[i] = redraw_hexagon(pts, remove_pts, poly2.geometry.coordinates[0]);
                 }
             }
         }

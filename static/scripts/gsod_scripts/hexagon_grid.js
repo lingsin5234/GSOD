@@ -271,24 +271,69 @@ function redraw_hexagon(pts, remove_pts, poly1) {
     // find remove_pts (should only be 1 match)
     poly = poly1
     for (var pt in remove_pts) {
-        rpt = [remove_pts[pt][0].toFixed(5), remove_pts[pt][1].toFixed(5)]
+        rpt = [remove_pts[pt][0].toFixed(5), remove_pts[pt][1].toFixed(5)];
         for (var p in poly) {
-            poly_pt = [poly[p][0].toFixed(5), poly[p][1].toFixed(5)]
+            poly_pt = [poly[p][0].toFixed(5), poly[p][1].toFixed(5)];
             if (poly_pt[0] == rpt[0]) {
                 if (poly_pt[1] == rpt[1]) {
 
+                    // found match, now order the points to be added
+                    add_pts = order_points.apply(this, [prev_pt, poly_pt].concat(pts))
+
                     // put splice here
                     //console.log([parseInt(p), 1].concat(pts), poly[p])
-                    poly.splice.apply(poly, [parseInt(p), 1].concat(pts));
+                    poly.splice.apply(poly, [parseInt(p), 1].concat(add_pts));
 
                     // if splice index is 0, need to adjust the last pt to equal first pt
                     if (parseInt(p) == 0) {
-                        poly.splice.apply(poly, [poly.length-1, 1].concat(pts[0]));
+                        poly.splice.apply(poly, [poly.length-1, 1].concat(add_pts[0]));
                     }
-                    console.log('AFTER', poly, remove_pts, pts);
+                    console.log('AFTER', poly, remove_pts, add_pts);
                     return poly;
                 }
             }
+            prev_pt = poly_pt;  // for reference to order the added pts
         }
     }
 }
+
+
+// determine how to order the points based on prev and current point (that you are replacing)
+function order_points(prev_pt, remove_pt, new_pt1, new_pt2) {
+
+    // leftward
+    if (prev_pt[0] > remove_pt[0]) {
+            if (new_pt1[0] > new_pt2[0]) {
+                pts = [new_pt2, new_pt1];
+            } else {
+                pts = [new_pt1, new_pt2];
+            }
+    }
+    // rightward
+    else if (prev_pt[0] < remove_pt[0]) {
+        if (new_pt1[0] < new_pt2[0]) {
+            pts = [new_pt2, new_pt1];
+        } else {
+            pts = [new_pt1, new_pt2];
+        }
+    }
+    // downward
+    else if (prev_pt[1] > remove_pt[1]) {
+        if (new_pt1[1] > new_pt2[1]) {
+            pts = [new_pt2, new_pt1];
+        } else {
+            pts = [new_pt1, new_pt2];
+        }
+    }
+    // upward
+    else {
+        if (new_pt1[1] < new_pt2[1]) {
+            pts = [new_pt2, new_pt1];
+        } else {
+            pts = [new_pt1, new_pt2];
+        }
+    }
+
+    return pts;
+}
+
