@@ -44,13 +44,15 @@
             },
         */
 
-        data = [
+        /*data = [
             {"geometry": {"coordinates":[-156.611,71.3213]}, "properties": {"temperature": -20}},
             {"geometry": {"coordinates":[-149.905,61.17472]}, "properties": {"temperature": 22}},
             {"geometry": {"coordinates":[-152.624,65.3561]}, "properties": {"temperature": -10}},
             {"geometry": {"coordinates":[-158.884,68.2635]}, "properties": {"temperature": 0}},
             {"geometry": {"coordinates":[-155.264,62.7897]}, "properties": {"temperature": 30}},
-        ]
+        ]*/
+        var data = {{ stations | safe }};
+        data = data[0].data;
         console.log(data);
 
         // hexGrid
@@ -80,11 +82,12 @@
             });
 
             f.properties = {
-                temperature: tempChange,
+                temperature: -1,
                 centroid: centroid
             };
-            tempChange += 0.000001;
+            //tempChange += 0.000001;
         });
+        console.log(data);
 
         // loop thru the polygons again to get the "ring" around it
         rings = [];
@@ -94,7 +97,7 @@
         }
         data.forEach((d, i) => {
             station = d.properties.centroid;
-            station_temp = d.properties.temperature;
+            station_temp = d.properties['TMAX'];
 
             for (var cent in centroid_set) {
                 coord = centroid_set[cent];
@@ -156,15 +159,15 @@
                 if (turf.booleanPointInPolygon(coord, polygon)) {
                     //console.log(coord);
                     f.properties = {
-                        temperature: (d.properties.temperature + 40)/80,
+                        temperature: (d.properties['TMAX'] + 40)/80,
                         centroid: centroid
                     };
                 }
             });
         });
 
-        console.log('HEXGRID', hexGrid);
-        console.log('RINGS', rings);
+        //console.log('HEXGRID', hexGrid);
+        //console.log('RINGS', rings);
 
         mapboxgl.accessToken = '{{ mapbox_access_token }}';
         var map = new mapboxgl.Map({

@@ -381,39 +381,50 @@ function station_rings(distance, level, station, coord, bot_lat, top_lat) {
     // factor in the latitude of the station [long, lat]
     lat = station.geometry.coordinates[1];
     longest_distance = distance * level * Math.sqrt(3);
+    middle_lat = (top_lat + bot_lat) / 2;
 
     // the other measurement to take into account is the shortest distance in that level
     // for EVEN levels, it's exactly (level + 1) * r
     if (level == 1) {
-        shortest_dist = convert_distance(distance * level * Math.sqrt(3), lat, bot_lat, top_lat);
+        shortest_dist = convert_distance(distance * level * Math.sqrt(3), lat, middle_lat);
         /*if (station.geometry.coordinates[0] == -150 && station.geometry.coordinates[1] == 61.22116571887389) {
             result = (dist <= converted_distance * (1 + 0.05) && dist >= shortest_dist * (1 - 0.05));
             if (!result) { console.log(result, level, shortest_dist, dist, converted_distance) }
         }*/
     } else {
+        // distances are longer for lower latitudes, so adjust with longest distance
         shortest_dist = distance * level * 1.5;
-        shortest_dist = convert_distance(shortest_dist, lat, bot_lat, top_lat);
+        if (lat >= middle_lat) {
+            shortest_dist = convert_distance(shortest_dist, lat, middle_lat);
+        } else {
+            longest_distance = convert_distance(longest_distance, lat, middle_lat);
+        }
     }
 
-    // [-150, 61.22116571887389] [-152.9299247223268, 65.11533712450444
-    if (station.geometry.coordinates[0] == -152.9299247223268 && station.geometry.coordinates[1] == 65.11533712450444) {
-        result = (dist <= longest_distance * (1 + 0.05) && dist >= shortest_dist * (1 - 0.05));
-        if (result) { console.log(result, level, shortest_dist, dist, longest_distance) }
+    longest_dist = Math.max(longest_distance, shortest_dist)
+    shortest_dist = Math.min(longest_distance, shortest_dist)
+
+    // [-150, 61.22116571887389] [-152.9299247223268, 65.11533712450444; [-162.30568383377246, 55.22414175420283]
+    if (station.geometry.coordinates[0] == -162.30568383377246 && station.geometry.coordinates[1] == 55.22414175420283
+    && level == 2 && dist <= 120) {
+        result = (dist <= longest_dist * (1 + 0.05) && dist >= shortest_dist * (1 - 0.05));
+        //if (!result) { console.log(result, level, shortest_dist, dist, longest_dist) }
+        //console.log(result, level, shortest_dist, dist, longest_dist);
     }
     if (dist == 0) {
         //console.log("Station", station);
     }
 
     // 5% margin of error for below 68th latitude
-    return ((dist <= longest_distance * (1 + 0.05) && dist >= shortest_dist * (1 - 0.05)) ? [true, dist]: [false, dist]);
+    return ((dist <= longest_dist * (1 + 0.05) && dist >= shortest_dist * (1 - 0.05)) ? [true, dist]: [false, dist]);
 }
 
 
 // convert the distance based on the latitude and reference latitude
-function convert_distance(distance, lat, bot_lat, top_lat) {
+function convert_distance(distance, lat, middle_lat) {
 
     // find pixel distance of the distance at the middle latitude
-    middle_lat = (top_lat + bot_lat) / 2;
+
     km_per_pixel = 40075 * Math.cos(middle_lat * Math.PI / 180) / Math.pow(2, 12);
     pixel_distance = distance / km_per_pixel;
 
@@ -442,7 +453,7 @@ function ring_overlap(ring) {
             collector.push(coord);
         }
     }
-    console.log(collector);
+    //console.log(collector);
 
     // if the sizes don't match, that means there's overlaps
     if (collector.length == ring.length) {
@@ -490,7 +501,7 @@ function ring_overlap_below(ring1, ring2, weights) {
             collector1.push(coord);
         }
     }
-    console.log(collector1);
+    //console.log(collector1);
 
     collector2 = [];  // collects all unique coordinates (centroids)
     for (var r in ring2) {
@@ -506,7 +517,7 @@ function ring_overlap_below(ring1, ring2, weights) {
             collector2.push(coord);
         }
     }
-    console.log(collector2);
+    //console.log(collector2);
 
     // go thru collector1 to find overlaps in collector2
     overlap = [];  // collects only the overlapping coordinates
