@@ -1,0 +1,220 @@
+{% include 'partials/header_noaa.html' %}
+    <div id="my_title" class="d-flex justify-content-center">
+        <h1>Hexagon Test</h1>
+    </div><br>
+
+    <!--canvas id="canvasMap" width="800" height="512" style="width: 800px; height: 512px;"></canvas-->
+    <div class="d-flex justify-content-center">
+        <div id="map" style="width: 1200px; height: 800px;"></div>
+    </div>
+    <!--canvas id="gradientContainer" width="1000" height="600"></canvas-->
+
+    <!-- node.js library: turf.js -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Turf.js/5.1.6/turf.min.js"></script>
+    {% load static %}
+    <!--script src="{% static 'scripts/gsod_scripts/normalize_coordinates.js' %}"></script>
+    <script src="{% static 'scripts/gsod_scripts/temp_to_rgb.js' %}"></script>
+    <script src="{% static 'scripts/gsod_scripts/bi.js' %}"></script-->
+    <script src="{% static 'scripts/gsod_scripts/hexagon_grid.js' %}"></script>
+
+    <script>
+        //var mapbox_token = '{{ mapbox_access_token }}';
+        /*
+            {
+                "elevation": 35.7,
+                "mindate": "2005-08-01",
+                "maxdate": "2009-10-01",
+                "latitude": 61.17472,
+                "name": "ANCHORAGE ARCTIC AND INTERNATIONAL, AK US",
+                "datacoverage": 0.8624,
+                "id": "COOP:500272",
+                "elevationUnit": "METERS",
+                "longitude": -149.905
+            },
+            {
+                "elevation": 4.6,
+                "mindate": "2002-08-08",
+                "maxdate": "2020-05-28",
+                "latitude": 71.3213,
+                "name": "UTQIA VIK FORMERLY BARROW 4 ENE, AK US",
+                "datacoverage": 1,
+                "id": "WBAN:27516",
+                "elevationUnit": "METERS",
+                "longitude": -156.611
+            },
+        */
+
+        /*data = [
+            {"geometry": {"coordinates":[-156.611,71.3213]}, "properties": {"temperature": -20}},
+            {"geometry": {"coordinates":[-149.905,61.17472]}, "properties": {"temperature": 22}},
+            {"geometry": {"coordinates":[-152.624,65.3561]}, "properties": {"temperature": -10}},
+            {"geometry": {"coordinates":[-158.884,68.2635]}, "properties": {"temperature": 0}},
+            {"geometry": {"coordinates":[-155.264,62.7897]}, "properties": {"temperature": 30}},
+        ]*/
+        var data = {{ stations | safe }};
+        data = data[0].data;
+        //console.log(data);
+
+        // hexGrid
+        var bot_lat = 21;
+        var top_lat = 50;
+        //var bbox = [-176, 52, -128, 72]; // alaska
+        var bbox = [-126, bot_lat, -68, top_lat];
+        var cellSide = 30;
+        options = {};
+
+        var hexGrid = turf.hexGrid(bbox, cellSide, options);
+        var tempChange = 0;
+        var polygons_set = [];
+        var centroid_set = [];
+        hexGrid.features.forEach(f => {
+
+            polygon = turf.polygon([f.geometry.coordinates[0]]);
+            polygons_set.push(polygon);
+            centroid = turf.centroid(polygon);
+            centroid_set.push(centroid);
+
+            // find the centroid that houses the weather station
+            data.forEach((d, i) => {
+                station = d.geometry.coordinates;
+                if (turf.booleanPointInPolygon(station, polygon)) {
+                    d.properties.centroid = centroid;
+                }
+            });
+
+            f.properties = {
+                temperature: -1,
+                centroid: centroid
+            };
+            //tempChange += 0.000001;
+        });
+
+        // loop thru the polygons again to get the "ring" around it
+        rings = [];
+        levels = 4;
+        for (var x=0; x < levels; x++) {
+            rings[x] = [];
+        }
+        data.forEach((d, i) => {
+            station = d.properties.centroid;
+            station_temp = d.properties['TMAX'];
+
+            for (var cent in centroid_set) {
+                coord = centroid_set[cent];
+
+                // run the station_rings "level" # of times
+                for (var x=0; x < levels; x++) {
+
+                    if (station_rings(cellSide, x+1, station, coord, bot_lat, top_lat)[0]) {
+                        ring = {"geometry": {"coordinates": coord.geometry.coordinates},
+                                "properties": {"temperature": station_temp - (x * 1)}}
+                        rings[x].push(ring);
+                    }
+                }
+            }
+        });
+
+        // loop thru rings to check overlap along same ring
+        rings.forEach(r => {
+            ring_bool = ring_overlap(r);
+            if (ring_bool) {
+                r = ring_bool;
+            }
+        });
+
+        // loop thru rings to work on below 1 overlap
+        weights = [0.7];
+        for (var r=0; r < rings.length - 1; r++) {
+            [ring_bool1, ring_bool2] = ring_overlap_below(rings[r], ring[r+1], weights)
+            if (ring_bool1) {
+                rings[r] = ring_bool1;
+            }
+            if (ring_bool2) {
+                rings[r+1] = ring_bool2;
+            }
+        }
+
+        hexGrid.features.forEach(f => {
+
+            polygon = turf.polygon([f.geometry.coordinates[0]]);
+            centroid = turf.centroid(polygon);
+
+            // insert colours from each ring, starting with outermost first
+            for (var ring=levels-1; ring >= 0; ring--) {
+                rings[ring].forEach(r => {
+                    coord = r.geometry.coordinates
+                    if (turf.booleanPointInPolygon(coord, polygon)) {
+                        //console.log(coord, f);
+                        f.properties = {
+                            temperature: (r.properties.temperature + 40)/80,
+                            centroid: centroid
+                        };
+                    }
+                });
+            }
+
+            // insert the colours from the weather stations
+            data.forEach(d => {
+                coord = d.geometry.coordinates
+                if (turf.booleanPointInPolygon(coord, polygon)) {
+                    //console.log(coord);
+                    f.properties = {
+                        temperature: (d.properties['TMAX'] + 40)/80,
+                        centroid: centroid
+                    };
+                }
+            });
+        });
+
+        //console.log('HEXGRID', hexGrid);
+        //console.log('RINGS', rings);
+
+        mapboxgl.accessToken = '{{ mapbox_access_token }}';
+        var map = new mapboxgl.Map({
+            container: 'map',
+            zoom: 3,
+            minZoom: 3,
+            center: [-100, 36],     // US center -- roughly
+            //center: [-149, 63],   // for alaska
+            style: 'mapbox://styles/mapbox/streets-v11'
+        });
+
+        map.on('load', function() {
+            map.addSource('hexagons-draw', {
+                type: 'geojson',
+                data: hexGrid //hexagonGEO
+            });
+            map.addLayer({
+                id: 'hexagons-draw',
+                type: 'fill',
+                source: 'hexagons-draw',
+                paint: {
+                    'fill-color':
+                        [
+                            'case',
+                            [">", ["get", "temperature"], 0],
+                            [
+                                "interpolate", ["linear"], ["get", "temperature"],
+                                    0, 'rgb(148,0,211)',
+                                    0.45, 'rgb(114,212,188)',
+                                    0.55, 'rgb(100, 255, 50)',
+                                    0.7, 'rgb(255, 255, 0)',
+                                    0.9, 'rgb(255, 0, 0)',
+                                    1, 'rgb(153, 0, 0)'
+                            ],
+                            'rgb(0, 0, 0)'
+                        ],
+                    //'fill-opacity': 0.8
+                    'fill-opacity':
+                        [
+                            'case',
+                            [">", ["get", "temperature"], 0], 0.3,
+                            0,
+                        ]
+                }
+            });
+        });
+
+    </script>
+
+{% include 'partials/footer_noaa.html' %}
