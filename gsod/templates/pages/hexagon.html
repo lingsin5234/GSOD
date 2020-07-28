@@ -57,7 +57,7 @@
         var bot_lat = 52;
         var top_lat = 72;
         var bbox = [-172, bot_lat, -128, top_lat];
-        var cellSide = 50;
+        var cellSide = 25;
         options = {};
 
         var hexGrid = turf.hexGrid(bbox, cellSide, options);
@@ -83,7 +83,7 @@
                 temperature: tempChange,
                 centroid: centroid
             };
-            tempChange += 0.001;
+            tempChange += 0.000001;
         });
 
         // loop thru the polygons again to get the "ring" around it
@@ -138,18 +138,6 @@
             polygon = turf.polygon([f.geometry.coordinates[0]]);
             centroid = turf.centroid(polygon);
 
-            // insert the colours from the weather stations
-            data.forEach(d => {
-                coord = d.geometry.coordinates
-                if (turf.booleanPointInPolygon(coord, polygon)) {
-                    //console.log(coord);
-                    f.properties = {
-                        temperature: (d.properties.temperature + 40)/80,
-                        centroid: centroid
-                    };
-                }
-            });
-
             // insert colours from each ring, starting with outermost first
             for (var ring=levels-1; ring >= 0; ring--) {
                 rings[ring].forEach(r => {
@@ -163,34 +151,22 @@
                     }
                 });
             }
-            /*ring_1.forEach(r => {
-                coord = r.geometry.coordinates
+
+            // insert the colours from the weather stations
+            data.forEach(d => {
+                coord = d.geometry.coordinates
                 if (turf.booleanPointInPolygon(coord, polygon)) {
-                    //console.log(coord, f);
+                    //console.log(coord);
                     f.properties = {
-                        temperature: (r.properties.temperature + 40)/80,
+                        temperature: (d.properties.temperature + 40)/80,
                         centroid: centroid
                     };
                 }
             });
-
-            // insert colours from the second ring
-            ring_2.forEach(r => {
-                coord = r.geometry.coordinates
-                if (turf.booleanPointInPolygon(coord, polygon)) {
-                    //console.log(coord, f);
-                    f.properties = {
-                        temperature: (r.properties.temperature + 40)/80,
-                        centroid: centroid
-                    };
-                }
-            });*/
-
         });
+
         console.log('HEXGRID', hexGrid);
         console.log('RINGS', rings);
-        //console.log('RING1', ring_1);
-        //console.log('RING2', ring_2);
 
         mapboxgl.accessToken = '{{ mapbox_access_token }}';
         var map = new mapboxgl.Map({
