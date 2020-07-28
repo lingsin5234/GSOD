@@ -107,7 +107,7 @@
 
                     if (station_rings(cellSide, x+1, station, coord, bot_lat, top_lat)[0]) {
                         ring = {"geometry": {"coordinates": coord.geometry.coordinates},
-                                "properties": {"temperature": station_temp - (x * 5)}}
+                                "properties": {"temperature": station_temp - (x * 2)}}
                         rings[x].push(ring);
                     }
                 }
@@ -189,13 +189,33 @@
                 type: 'fill',
                 source: 'hexagons-draw',
                 paint: {
-                    'fill-color': ["interpolate", ["linear"], ["get", "temperature"],
-                                    0, 'rgb(255, 255, 0)',
-                                    1, 'rgb(255, 0, 0)'],
+                    'fill-color':
+                        [
+                            'case',
+                            [">", ["get", "temperature"], 0],
+                            [
+                                "interpolate", ["linear"], ["get", "temperature"],
+                                    0, 'rgb(148,0,211)',
+                                    0.45, 'rgb(114,212,188)',
+                                    0.55, 'rgb(100, 255, 50)',
+                                    0.7, 'rgb(255, 255, 0)',
+                                    0.9, 'rgb(255, 0, 0)',
+                                    1, 'rgb(153, 0, 0)'
+                            ],
+                            'rgb(0, 0, 0)'
+                        ],
                     //'fill-opacity': 0.8
-                    'fill-opacity': ["interpolate", ["linear"], ["get", "temperature"],
+                    'fill-opacity':
+                        [
+                            'case',
+                            [">", ["get", "temperature"], 0],
+                            [
+                                "interpolate", ["linear"], ["get", "temperature"],
                                     0, 0.2,
-                                    1, 0.9]
+                                    1, 0.9
+                            ],
+                            0,
+                        ]
                 }
             });
         });
