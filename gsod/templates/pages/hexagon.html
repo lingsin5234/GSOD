@@ -57,7 +57,7 @@
         var bot_lat = 52;
         var top_lat = 72;
         var bbox = [-172, bot_lat, -128, top_lat];
-        var cellSide = 40;
+        var cellSide = 30;
         options = {};
 
         var hexGrid = turf.hexGrid(bbox, cellSide, options);
@@ -88,7 +88,7 @@
 
         // loop thru the polygons again to get the "ring" around it
         rings = [];
-        levels = 4;
+        levels = 6;
         for (var x=0; x < levels; x++) {
             rings[x] = [];
         }
@@ -112,10 +112,24 @@
         });
 
         // loop thru rings to check overlap along same ring
-        console.log("ring 1", ring_overlap(rings[0]));
-        console.log("ring 2", ring_overlap(rings[1]));
-        console.log("ring 3", ring_overlap(rings[2]));
-        console.log("ring 4", ring_overlap(rings[3]));
+        rings.forEach(r => {
+            ring_bool = ring_overlap(r);
+            if (ring_bool) {
+                r = ring_bool;
+            }
+        });
+
+        // loop thru rings to work on below 1 overlap
+        weights = [0.7];
+        for (var r=0; r < rings.length - 1; r++) {
+            [ring_bool1, ring_bool2] = ring_overlap_below(rings[r], ring[r+1], weights)
+            if (ring_bool1) {
+                rings[r] = ring_bool1;
+            }
+            if (ring_bool2) {
+                rings[r+1] = ring_bool2;
+            }
+        }
 
         hexGrid.features.forEach(f => {
 
