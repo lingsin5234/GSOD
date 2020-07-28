@@ -427,11 +427,13 @@ function convert_distance(distance, lat, bot_lat, top_lat) {
 function ring_overlap(ring) {
 
     collector = [];  // collects all unique coordinates (centroids)
+    overlap = [];  // collects only the overlapping coordinates
     for (var r in ring) {
         coord = ring[r].geometry.coordinates
         check = false
         for (var c in collector) {
             if (collector[c][0] == coord[0] && collector[c][1] == coord[1]) {
+                overlap.push(coord);
                 check = true;
                 break;
             }
@@ -442,10 +444,30 @@ function ring_overlap(ring) {
     }
     console.log(collector);
 
+    // if the sizes don't match, that means there's overlaps
     if (collector.length == ring.length) {
         return false;
     }
     else {
-        return true;
+        for (var o in overlap) {
+            temp = [];  // temperatures to take the mean of
+            indices = [];  // save the indices for easier reference
+            for (var r in ring) {
+                coord = ring[r].geometry.coordinates
+                if (overlap[o][0] == coord[0] && overlap[o][1] == coord[1]) {
+                    // add temperature and index
+                    temp.push(ring[r].properties.temperature);
+                    indices.push(r);
+                }
+            }
+
+            // take the mean of temperatures and add it back into each indexed ring coordinate
+            //console.log(temp.reduce((a,b) => a + b, 0) / temp.length);
+            for (var i in indices) {
+                index = indices[i];
+                ring[index].properties.temperature = temp.reduce((a,b) => a + b, 0) / temp.length;
+            }
+        }
+        return ring;
     }
 }

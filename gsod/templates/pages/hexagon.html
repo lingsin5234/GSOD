@@ -57,7 +57,7 @@
         var bot_lat = 52;
         var top_lat = 72;
         var bbox = [-172, bot_lat, -128, top_lat];
-        var cellSide = 25;
+        var cellSide = 40;
         options = {};
 
         var hexGrid = turf.hexGrid(bbox, cellSide, options);
@@ -94,6 +94,8 @@
         }
         data.forEach((d, i) => {
             station = d.properties.centroid;
+            station_temp = d.properties.temperature;
+
             for (var cent in centroid_set) {
                 coord = centroid_set[cent];
 
@@ -102,7 +104,7 @@
 
                     if (station_rings(cellSide, x+1, station, coord, bot_lat, top_lat)[0]) {
                         ring = {"geometry": {"coordinates": coord.geometry.coordinates},
-                                "properties": {"temperature": 40 - (x * 10)}}
+                                "properties": {"temperature": station_temp - (x * 5)}}
                         rings[x].push(ring);
                     }
                 }
