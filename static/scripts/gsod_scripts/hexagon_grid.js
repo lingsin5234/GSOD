@@ -401,7 +401,7 @@ function station_rings(distance, level, station, coord, bot_lat, top_lat) {
         if (result) { console.log(result, level, shortest_dist, dist, longest_distance) }
     }
     if (dist == 0) {
-        console.log("Station", station);
+        //console.log("Station", station);
     }
 
     // 5% margin of error for below 68th latitude
@@ -420,4 +420,32 @@ function convert_distance(distance, lat, bot_lat, top_lat) {
     // now use pixel distance to convert it to the distance at the needed latitude
     km_per_pixel = 40075 * Math.cos(lat * Math.PI / 180) / Math.pow(2, 12);
     return pixel_distance * km_per_pixel;
+}
+
+
+// check rings on the same level that overlap
+function ring_overlap(ring) {
+
+    collector = [];  // collects all unique coordinates (centroids)
+    for (var r in ring) {
+        coord = ring[r].geometry.coordinates
+        check = false
+        for (var c in collector) {
+            if (collector[c][0] == coord[0] && collector[c][1] == coord[1]) {
+                check = true;
+                break;
+            }
+        }
+        if (!check) {
+            collector.push(coord);
+        }
+    }
+    console.log(collector);
+
+    if (collector.length == ring.length) {
+        return false;
+    }
+    else {
+        return true;
+    }
 }

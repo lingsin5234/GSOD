@@ -88,8 +88,6 @@
 
         // loop thru the polygons again to get the "ring" around it
         rings = [];
-        ring_1 = [];
-        ring_2 = [];
         levels = 4;
         for (var x=0; x < levels; x++) {
             rings[x] = [];
@@ -108,30 +106,14 @@
                         rings[x].push(ring);
                     }
                 }
-
-                /*if (station_rings(cellSide * Math.sqrt(3), 1, station, coord, bot_lat, top_lat)[0]) {
-                    //console.log("Ring", station, coord);
-                    ring = {"geometry": {"coordinates": coord.geometry.coordinates}, "properties": {"temperature": 40}}
-                    ring_1.push(ring);
-                } else if (station_rings(cellSide * Math.sqrt(3), 2, station, coord, bot_lat, top_lat)[0]) {
-                    //console.log("Ring", station, coord);
-                    ring = {"geometry": {"coordinates": coord.geometry.coordinates}, "properties": {"temperature": 0}},
-                    ring_2.push(ring);
-                }
-                if (i == 0) {
-                    [check, dist] = station_rings(cellSide * Math.sqrt(3), 1, station, coord, bot_lat, top_lat);
-                    if (dist < 150) {
-                        console.log("First Station\n", station, coord.geometry.coordinates, "\n", dist, check);
-                    }
-                }
-                if (i == 1) {
-                    [check, dist] = station_rings(cellSide * Math.sqrt(3), 1, station, coord, bot_lat, top_lat);
-                    if (dist < 150) {
-                        console.log("SECOND Station\n", station, coord.geometry.coordinates, "\n", dist, check);
-                    }
-                }*/
             }
         });
+
+        // loop thru rings to check overlap along same ring
+        console.log("ring 1", ring_overlap(rings[0]));
+        console.log("ring 2", ring_overlap(rings[1]));
+        console.log("ring 3", ring_overlap(rings[2]));
+        console.log("ring 4", ring_overlap(rings[3]));
 
         hexGrid.features.forEach(f => {
 
