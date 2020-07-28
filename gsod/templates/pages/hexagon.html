@@ -53,12 +53,13 @@
         ]*/
         var data = {{ stations | safe }};
         data = data[0].data;
-        console.log(data);
+        //console.log(data);
 
         // hexGrid
-        var bot_lat = 52;
-        var top_lat = 72;
-        var bbox = [-172, bot_lat, -128, top_lat];
+        var bot_lat = 21;
+        var top_lat = 50;
+        //var bbox = [-176, 52, -128, 72]; // alaska
+        var bbox = [-126, bot_lat, -68, top_lat];
         var cellSide = 30;
         options = {};
 
@@ -87,11 +88,10 @@
             };
             //tempChange += 0.000001;
         });
-        console.log(data);
 
         // loop thru the polygons again to get the "ring" around it
         rings = [];
-        levels = 6;
+        levels = 4;
         for (var x=0; x < levels; x++) {
             rings[x] = [];
         }
@@ -107,7 +107,7 @@
 
                     if (station_rings(cellSide, x+1, station, coord, bot_lat, top_lat)[0]) {
                         ring = {"geometry": {"coordinates": coord.geometry.coordinates},
-                                "properties": {"temperature": station_temp - (x * 2)}}
+                                "properties": {"temperature": station_temp - (x * 1)}}
                         rings[x].push(ring);
                     }
                 }
@@ -174,8 +174,8 @@
             container: 'map',
             zoom: 3,
             minZoom: 3,
-            // center: [-100, 36], US center -- roughly
-            center: [-149, 63],
+            center: [-100, 36],     // US center -- roughly
+            //center: [-149, 63],   // for alaska
             style: 'mapbox://styles/mapbox/streets-v11'
         });
 
@@ -208,12 +208,7 @@
                     'fill-opacity':
                         [
                             'case',
-                            [">", ["get", "temperature"], 0],
-                            [
-                                "interpolate", ["linear"], ["get", "temperature"],
-                                    0, 0.2,
-                                    1, 0.9
-                            ],
+                            [">", ["get", "temperature"], 0], 0.3,
                             0,
                         ]
                 }

@@ -231,7 +231,7 @@ def hexagon_test(request):
 
         st_json = []
         for s in stations:
-            if s.us_state != 'Alaska':
+            if s.us_state == 'Alaska' or s.us_state == 'Hawaii':
                 continue
 
             # create dictionary to load info to template view
