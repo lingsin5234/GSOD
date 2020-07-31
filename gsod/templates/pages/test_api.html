@@ -20,7 +20,6 @@
 
     <script>
         // variable declarations
-        var data = {{ stations | safe }};
         var hexGrid;
         var bot_lat = 21;
         var top_lat = 50;
@@ -29,10 +28,6 @@
         var cellSide = 30;
         var options = {};
         var levels = 4;
-
-        // run the hexGrid constructor to obtain the data
-        hexGrid = HexGridConstructor(bbox, cellSide, options, data[0].data, levels);
-
 
         // when document is ready, make API request
         //$(#get_api).on("click", function () {

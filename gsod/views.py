@@ -80,8 +80,6 @@ class WeatherStationsAPI(views.APIView):
                 'data': st_json
             })
 
-        data_output = WeatherStations(stations, many=True).data
-
         return Response(dates_json)
 
 
@@ -371,63 +369,13 @@ def hexagon_test(request):
 
 
 def test_api(request):
-    # get all stations and ghcnds
-    stations = Station.objects.all()
-    data_types = ['PRCP', 'SNOW', 'SNWD', 'TMAX', 'TMIN']
-
-    # json lists
-    dates_json = []
 
     # go thru dates and populate the json structure
     start_date = dte.date(2020, 5, 9)
     end_date = dte.date(2020, 5, 9)  # date + 1 to end on 16th
 
-    for this_date in date_range(start_date, (end_date + dte.timedelta(1))):
-        # get ghcnd info for specific day: 2020-05-16 and datatype=TMAX
-        get_date = this_date
-
-        st_json = []
-        for s in stations:
-            # if s.us_state == 'Alaska' or s.us_state == 'Hawaii':
-            #    continue
-            if s.us_state != 'Alaska':  # only get alaska
-                continue
-
-            # create dictionary to load info to template view
-            new_dict = {
-                'type': 'Feature',
-                'geometry': {
-                    'type': 'Point',
-                    'coordinates': [
-                        s.longitude,
-                        s.latitude
-                    ]
-                },
-                'properties': {}
-            }
-
-            # generate dict based on all listed data types
-            for d in data_types:
-                try:
-                    ghcnd = GHCND.objects.get(station__id=s.id, date=get_date, datatype=d)
-                except Exception as e:
-                    # print(s.id, 'no data found for', d)
-                    new_dict['properties'][d] = None
-                else:
-                    new_dict['properties'][d] = ghcnd.value / 10
-
-            # add dict to list
-            st_json.append(new_dict)
-            # print(st_json)
-
-        dates_json.append({
-            'key': get_date,
-            'data': st_json
-        })
-
     context = {
         'mapbox_access_token': os.environ.get('mapbox_access_token'),
-        'stations': json.dumps(dates_json, cls=DjangoJSONEncoder),
         'start_date': dte.date.strftime(start_date, '%Y-%m-%d'),
         'end_date': dte.date.strftime(end_date, '%Y-%m-%d')
     }
