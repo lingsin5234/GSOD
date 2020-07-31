@@ -10,3 +10,4 @@
 **/static/admin/*
 *.sqlite3
 *.db
+**/posts/*
