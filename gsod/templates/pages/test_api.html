@@ -49,7 +49,7 @@
                 startTime = new Date();
 
                 // run it through the HexGridConstructor
-                //hexGrid = HexGridConstructor(bbox, cellSide, options, data[0].data, levels);
+                hexGrid = HexGridConstructor(bbox, cellSide, options, data[0].data, levels);
 
                 endTime = new Date();
 
@@ -60,8 +60,7 @@
                 sourceRefresh();*/
 
                 // send this as POST request to save in backend
-                //post_data(hexGrid);
-                post_data({'test_data': 'testing, testing'});
+                post_data(hexGrid);
 
                 seconds = (endTime.getTime() - startTime.getTime()) / 1000;
                 console.log("All Completed.\nHexGridConstructor Time Elapsed:", seconds);
@@ -91,7 +90,7 @@
                 type: "POST",
                 url: postURL,
                 data: {
-                    'data': data,
+                    'data': JSON.stringify(data),
                     'csrfmiddlewaretoken': '{{ csrf_token }}'
                     },
                 success: function(status) {
