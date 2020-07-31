@@ -3,7 +3,11 @@
         <h1>Hexagon Test with API</h1>
     </div><br>
 
-    <!--canvas id="canvasMap" width="800" height="512" style="width: 800px; height: 512px;"></canvas-->
+    <div class="d-flex justify-content-center">
+        <!-- button to run API request -->
+        <button onclick="api_request()">Click</button>
+    </div>
+
     <div class="d-flex justify-content-center">
         <div id="map" style="width: 1200px; height: 800px;"></div>
     </div>
@@ -15,21 +19,44 @@
     <script src="{% static 'scripts/gsod_scripts/hexgrid_constructor.js' %}"></script>
 
     <script>
+        // variable declarations
         var data = {{ stations | safe }};
-        data = data[0].data;
-        //console.log(data);
+        var hexGrid;
+        var bot_lat = 21;
+        var top_lat = 50;
+        var bbox = [-176, 52, -128, 72];                // alaska
+        // var bbox = [-126, bot_lat, -68, top_lat];    // USA
+        var cellSide = 30;
+        var options = {};
+        var levels = 4;
 
+        // run the hexGrid constructor to obtain the data
+        hexGrid = HexGridConstructor(bbox, cellSide, options, data[0].data, levels);
 
 
         // when document is ready, make API request
-        $(document).ready(function () {
+        //$(#get_api).on("click", function () {
+        function api_request() {
 
             // make the get request
+            //console.log('GET REQUEST:', bbox, cellSide, options, levels);
             get_stations("str1", function(data) {
-                // console.log("API OUTPUT:\n", data);
+                console.log("API OUTPUT:\n", data[0].data);
+
+                bbox = [-126, bot_lat, -68, top_lat];    // USA
+
+                // run it through the HexGridConstructor
+                hexGrid = HexGridConstructor(bbox, cellSide, options, data[0].data, levels);
+
+                // refresh the source data
+                function sourceRefresh(e) {
+                    map.getSource("hexagons-draw").setData(hexGrid);
+                };
+                sourceRefresh();
+
             });
 
-        });
+        }
 
         // make GET request to retrieve all stations
         function get_stations(var1, callback) {
@@ -40,28 +67,11 @@
                 url: getURL,
                 //data: {},
                 success: function(data) {
-                    //console.log("API CALL:\n", data);
-                    // $("#results").html(data);  // replace with the values retrieved
+                    // run callback to return this data
                     callback(data);
                 }
             });
         }
-
-
-        // hexGrid
-        var bot_lat = 21;
-        var top_lat = 50;
-        var bbox = [-176, 52, -128, 72];                // alaska
-        // var bbox = [-126, bot_lat, -68, top_lat];    // USA
-        var cellSide = 30;
-        var options = {};
-        var levels = 4;
-
-        // run the hexGrid constructor to obtain the data
-        hexGrid = HexGridConstructor(bbox, cellSide, options, data, levels);
-
-        //console.log('HEXGRID', hexGrid);
-        //console.log('RINGS', rings);
 
         mapboxgl.accessToken = '{{ mapbox_access_token }}';
         var map = new mapboxgl.Map({
@@ -78,6 +88,7 @@
                 type: 'geojson',
                 data: hexGrid //hexagonGEO
             });
+
             map.addLayer({
                 id: 'hexagons-draw',
                 type: 'fill',
