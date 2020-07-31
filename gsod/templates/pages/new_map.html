@@ -4,6 +4,27 @@
     </div><br>
 
     <div class="d-flex justify-content-center">
+        <div class="col-md-2"></div>
+        <div class="col-md-3">
+            <select id="data-type-select" class="form-control">
+                <option selected value="TMAX">Maximum Temperature °C</option>
+                <option value="TMIN">Minimum Temperature °C</option>
+                <option value="PRCP">Rainfall (mm)</option>
+                <option value="SNOW">Snowfall (mm)</option>
+                <option value="SNWD">Snow Depth (mm)</option>
+            </select>
+        </div>
+        <div class="col-md-1"></div>
+        <div class="col-md-3">
+            <div id="slider-div">
+                <label>Date: <span id="dateLabel">{{ start_date }}</span></label>
+                <div id="date-slider" class="ui-slider"></div>
+            </div>
+        </div>
+        <div class="col-md-3"></div>
+    </div><br>
+
+    <div class="d-flex justify-content-center">
         <div id="map" style="width: 1200px; height: 800px;"></div>
     </div>
 
@@ -16,17 +37,30 @@
 
     <script>
         // variable declarations
+
+        // mapbox
         var mapbox_token = '{{ mapbox_access_token }}';
         var hexGrid;
-        var dataDate = '{{ start_date }}';
-        var bot_lat = 21;
-        var top_lat = 50;
-        var bbox = [-176, 52, -128, 72];                // alaska
-        // var bbox = [-126, bot_lat, -68, top_lat];    // USA
-        var cellSide = 30;
-        var options = {};
-        var levels = 4;
         var mapUSA;
+
+        // selectors
+        var dataDate = '{{ start_date }}';
+        var endDate = '{{ end_date }}';
+        var parseTime = d3.timeParse("%Y-%m-%d");
+        var formatTime = d3.timeFormat("%Y-%m-%d");
+        var default_datatype = 'TMAX';
+
+        // slider
+        $("#date-slider").slider({
+            max: parseTime(endDate).getTime(),
+            min: parseTime(dataDate).getTime(),
+            value: parseTime(dataDate).getTime(),
+            step: (24 * 60 * 60 * 1000),  // milliseconds in a day
+            slide: function(event, ui){
+                $("#dateLabel").text(formatTime(new Date(ui.value)));
+                //newMap.wrangleData();
+            }
+        });
 
         // when document is ready, make API request
         $(document).ready(function() {

@@ -408,9 +408,9 @@ def new_map(request):
 
     # go thru dates and populate the json structure
     start_date = dte.date(2020, 5, 9)
-    end_date = dte.date(2020, 5, 9)  # date + 1 to end on 16th
+    end_date = dte.date(2020, 5, 16)  # date + 1 to end on 16th
 
-    print(dte.date.strftime(start_date, '%Y-%m-%d'))
+    # print(dte.date.strftime(start_date, '%Y-%m-%d'))
 
     context = {
         'mapbox_access_token': os.environ.get('mapbox_access_token'),
