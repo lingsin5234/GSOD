@@ -84,7 +84,27 @@ class WeatherStationsAPI(views.APIView):
 
 
 # API View for ALL Weather Stations
-class PostHexGridAPI(views.APIView):
+class HexGridAPI(views.APIView):
+
+    # get request
+    def get(self, request):
+
+        # print(request.GET)
+
+        # get the JSON file
+        data = []
+        filename = 'hexGrid_' + request.GET['dataDate'] + '.json'
+        # print(filename)
+        try:
+            with open('gsod/posts/' + filename) as file:
+                data = json.load(file)
+                # print(data)
+        except Exception as e:
+            print('GET json file: Failed', e)
+        else:
+            print('GET json file: Success!')
+
+        return Response(data)
 
     # post request
     def post(self, request):
@@ -93,7 +113,7 @@ class PostHexGridAPI(views.APIView):
         filename = 'hexGrid_' + request.POST['dataDate'] + '.json'
         try:
             with open('gsod/posts/' + filename, 'w') as outfile:
-                json.dump(request.POST['data'], outfile, indent=4)
+                json.dump(json.loads(request.POST['data']), outfile, indent=4)
         except Exception as e:
             print('POST write to file: Failed', e)
             status = False
@@ -382,4 +402,21 @@ def test_api(request):
     }
 
     return render(request, 'pages/test_api.html', context)
+
+
+def new_map(request):
+
+    # go thru dates and populate the json structure
+    start_date = dte.date(2020, 5, 9)
+    end_date = dte.date(2020, 5, 9)  # date + 1 to end on 16th
+
+    print(dte.date.strftime(start_date, '%Y-%m-%d'))
+
+    context = {
+        'mapbox_access_token': os.environ.get('mapbox_access_token'),
+        'start_date': dte.date.strftime(start_date, '%Y-%m-%d'),
+        'end_date': dte.date.strftime(end_date, '%Y-%m-%d')
+    }
+
+    return render(request, 'pages/new_map.html', context)
 

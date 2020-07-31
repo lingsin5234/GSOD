@@ -1,0 +1,60 @@
+{% include 'partials/header_noaa.html' %}
+    <div id="my_title" class="d-flex justify-content-center">
+        <h1>Hexagon Map with API</h1>
+    </div><br>
+
+    <div class="d-flex justify-content-center">
+        <div id="map" style="width: 1200px; height: 800px;"></div>
+    </div>
+
+    <!-- node.js library: turf.js -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Turf.js/5.1.6/turf.min.js"></script>
+    {% load static %}
+    <script src="{% static 'scripts/gsod_scripts/mapbox_constructor2.js' %}"></script>
+    <script src="{% static 'scripts/gsod_scripts/hexagon_grid.js' %}"></script>
+    <script src="{% static 'scripts/gsod_scripts/hexgrid_constructor.js' %}"></script>
+
+    <script>
+        // variable declarations
+        var mapbox_token = '{{ mapbox_access_token }}';
+        var hexGrid;
+        var dataDate = '{{ start_date }}';
+        var bot_lat = 21;
+        var top_lat = 50;
+        var bbox = [-176, 52, -128, 72];                // alaska
+        // var bbox = [-126, bot_lat, -68, top_lat];    // USA
+        var cellSide = 30;
+        var options = {};
+        var levels = 4;
+        var mapUSA;
+
+        // when document is ready, make API request
+        $(document).ready(function() {
+
+            // make the get request for the JSON file
+            get_json_data("str1", function(data) {
+                hexGrid = data;
+
+                // instantiate MapUSA
+                mapUSA = new MapUSA('map', 1200, 800, '_yVariable', '_selDate');
+            });
+        });
+
+        // make GET request to retrieve all stations
+        function get_json_data(var1, callback) {
+
+            getURL = "/api/get_hexgrid";
+
+            $.ajax({
+                url: getURL,
+                data: {'dataDate': dataDate},
+                success: function(data) {
+                    // run callback to return this data
+                    callback(data);
+                }
+            });
+        }
+
+    </script>
+
+{% include 'partials/footer_noaa.html' %}

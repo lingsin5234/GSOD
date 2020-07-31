@@ -31,5 +31,7 @@ urlpatterns = [
     re_path(r'^hexagon/', gsod_vw.hexagon_test),
     re_path(r'^test-api/', gsod_vw.test_api, name='test-api'),
     re_path(r'api/get_all_stations', gsod_vw.WeatherStationsAPI.as_view(), name='api-get-all-stations'),
-    re_path(r'api/post_hexgrid', gsod_vw.PostHexGridAPI.as_view(), name='api-post-hexgrid'),
+    re_path(r'api/post_hexgrid', gsod_vw.HexGridAPI.as_view(), name='api-post-hexgrid'),
+    re_path(r'api/get_hexgrid', gsod_vw.HexGridAPI.as_view(), name='api-get-hexgrid'),
+    re_path(r'^new-map/', gsod_vw.new_map),
 ]
