@@ -20,21 +20,32 @@
         //console.log(data);
 
 
-        // make GET request to retrieve all stations
+
+        // when document is ready, make API request
         $(document).ready(function () {
+
+            // make the get request
+            get_stations("str1", function(data) {
+                // console.log("API OUTPUT:\n", data);
+            });
+
+        });
+
+        // make GET request to retrieve all stations
+        function get_stations(var1, callback) {
+
             getURL = "/api/get_all_stations";
 
             $.ajax({
                 url: getURL,
                 //data: {},
                 success: function(data) {
-                    console.log("API CALL:\n", data);
+                    //console.log("API CALL:\n", data);
                     // $("#results").html(data);  // replace with the values retrieved
+                    callback(data);
                 }
             });
-
-        });
-
+        }
 
 
         // hexGrid
