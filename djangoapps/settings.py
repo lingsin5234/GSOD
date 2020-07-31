@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     # libraries
     'menu',
     'django_extensions',
+    'rest_framework',
 
     # app
     'gsod'
@@ -142,3 +143,15 @@ STATIC_URL = '/static/'
 # accessing static in PRODUCTION
 # STATIC_ROOT = 'static'
 
+# REST FRAMEWORK
+REST_FRAMEWORK = {
+    # Use Django's standard `django.contrib.auth` permissions,
+    # or allow read-only access for unauthenticated users.
+    # 'rest_framework.permissions.DjangoModelPermissionsOrAnonReadOnly'
+    'DEFAULT_PERMISSION_CLASSES': [
+        'rest_framework.permissions.AllowAny'
+    ],
+    'DEFAULT_PAGINATION_CLASS': 'rest_framework.pagination.PageNumberPagination',
+    'PAGE_SIZE': 10
+}
+DATA_UPLOAD_MAX_NUMBER_FIELDS = 10000000

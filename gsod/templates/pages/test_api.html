@@ -37,6 +37,7 @@
         // when document is ready, make API request
         //$(#get_api).on("click", function () {
         function api_request() {
+            console.log("Clicked!");
 
             // make the get request
             //console.log('GET REQUEST:', bbox, cellSide, options, levels);
@@ -45,17 +46,26 @@
 
                 bbox = [-126, bot_lat, -68, top_lat];    // USA
 
+                startTime = new Date();
+
                 // run it through the HexGridConstructor
-                hexGrid = HexGridConstructor(bbox, cellSide, options, data[0].data, levels);
+                //hexGrid = HexGridConstructor(bbox, cellSide, options, data[0].data, levels);
+
+                endTime = new Date();
 
                 // refresh the source data
-                function sourceRefresh(e) {
+                /*function sourceRefresh(e) {
                     map.getSource("hexagons-draw").setData(hexGrid);
                 };
-                sourceRefresh();
+                sourceRefresh();*/
 
+                // send this as POST request to save in backend
+                //post_data(hexGrid);
+                post_data({'test_data': 'testing, testing'});
+
+                seconds = (endTime.getTime() - startTime.getTime()) / 1000;
+                console.log("All Completed.\nHexGridConstructor Time Elapsed:", seconds);
             });
-
         }
 
         // make GET request to retrieve all stations
@@ -73,13 +83,35 @@
             });
         }
 
-        mapboxgl.accessToken = '{{ mapbox_access_token }}';
+        // POST request to push the hexGrid to backend
+        function post_data(data) {
+            postURL = "/api/post_hexgrid";
+
+            $.ajax({
+                type: "POST",
+                url: postURL,
+                data: {
+                    'data': data,
+                    'csrfmiddlewaretoken': '{{ csrf_token }}'
+                    },
+                success: function(status) {
+                    if (status) {
+                        console.log("POST REQUEST COMPLETED!");
+                    }
+                    else {
+                        console.log("POST FAILED!");
+                    }
+                }
+            });
+        }
+
+        /*mapboxgl.accessToken = '{{ mapbox_access_token }}';
         var map = new mapboxgl.Map({
             container: 'map',
             zoom: 3,
             minZoom: 3,
-            //center: [-100, 36],     // US center -- roughly
-            center: [-149, 63],   // for alaska
+            center: [-100, 36],     // US center -- roughly
+            //center: [-149, 63],   // for alaska
             style: 'mapbox://styles/mapbox/streets-v11'
         });
 
@@ -118,7 +150,7 @@
                         ]
                 }
             });
-        });
+        });*/
 
     </script>
 

@@ -15,7 +15,7 @@ import datetime as dte
 '''
 API Section
 '''
-from rest_framework import views
+from rest_framework import views, permissions
 from rest_framework.response import Response
 from .serializers import WeatherStations
 
@@ -83,6 +83,28 @@ class WeatherStationsAPI(views.APIView):
         data_output = WeatherStations(stations, many=True).data
 
         return Response(dates_json)
+
+
+# API View for ALL Weather Stations
+class PostHexGridAPI(views.APIView):
+
+    # post request
+    def post(self, request):
+
+        print(request.POST);
+
+        try:
+            f = open('gsod/posts/hexgrid.json', 'w')
+            f.write(request.POST['data'])
+            f.close()
+        except Exception as e:
+            print('POST write to file: Failed', e)
+            status = False
+        else:
+            print('POST write to file: Success!')
+            status = True
+
+        return Response(status)
 
 
 # homepage
