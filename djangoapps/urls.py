@@ -29,4 +29,6 @@ urlpatterns = [
     re_path(r'^contour/', gsod_vw.contour_test),
     re_path(r'^2d-test/', gsod_vw.test_2dGradient),
     re_path(r'^hexagon/', gsod_vw.hexagon_test),
+    re_path(r'^test-api/', gsod_vw.test_api, name='test-api'),
+    re_path(r'api/get_all_stations', gsod_vw.WeatherStationsAPI.as_view(), name='api-get-all-stations'),
 ]
