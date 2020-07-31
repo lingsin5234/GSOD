@@ -89,10 +89,10 @@ class PostHexGridAPI(views.APIView):
     # post request
     def post(self, request):
 
-        print(request.POST);
-
+        # write the JSON to file:
+        filename = 'hexGrid_' + request.POST['dataDate'] + '.json'
         try:
-            f = open('gsod/posts/hexgrid.json', 'w')
+            f = open('gsod/posts/' + filename, 'w')
             f.write(request.POST['data'])
             f.close()
         except Exception as e:
@@ -373,6 +373,8 @@ def test_api(request):
     # go thru dates and populate the json structure
     start_date = dte.date(2020, 5, 9)
     end_date = dte.date(2020, 5, 9)  # date + 1 to end on 16th
+
+    print(dte.date.strftime(start_date, '%Y-%m-%d'))
 
     context = {
         'mapbox_access_token': os.environ.get('mapbox_access_token'),

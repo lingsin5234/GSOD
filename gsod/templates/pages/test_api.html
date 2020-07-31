@@ -21,6 +21,7 @@
     <script>
         // variable declarations
         var hexGrid;
+        var dataDate = '{{ start_date }}';
         var bot_lat = 21;
         var top_lat = 50;
         var bbox = [-176, 52, -128, 72];                // alaska
@@ -30,7 +31,6 @@
         var levels = 4;
 
         // when document is ready, make API request
-        //$(#get_api).on("click", function () {
         function api_request() {
             console.log("Clicked!");
 
@@ -86,6 +86,7 @@
                 url: postURL,
                 data: {
                     'data': JSON.stringify(data),
+                    'dataDate': dataDate,
                     'csrfmiddlewaretoken': '{{ csrf_token }}'
                     },
                 success: function(status) {
