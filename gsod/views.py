@@ -1,5 +1,5 @@
 from django.shortcuts import render
-from djangoapps.utils import get_this_template
+# from djangoapps.utils import get_this_template
 import os
 import json
 from .models import Station, GHCND
@@ -125,6 +125,7 @@ def homepage(request):
     return render(request, 'pages/gsod_home.html')
 
 
+'''
 # project page
 def project_markdown(request):
 
@@ -142,6 +143,7 @@ def project_markdown(request):
     template_page = get_this_template('gsod', 'project.html')
 
     return render(request, template_page, content)
+'''
 
 
 # stations list
