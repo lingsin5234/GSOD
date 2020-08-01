@@ -1,0 +1,15 @@
+[INFO  - 2020-08-01T13:54:43.427Z] GhostDriver - Main - running on port 52217
+[INFO  - 2020-08-01T13:54:45.532Z] Session [8e8f95b0-d3fe-11ea-bfc4-e5516e22ea6b] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2020-08-01T13:54:45.532Z] Session [8e8f95b0-d3fe-11ea-bfc4-e5516e22ea6b] - page.customHeaders:  - {}
+[INFO  - 2020-08-01T13:54:45.533Z] Session [8e8f95b0-d3fe-11ea-bfc4-e5516e22ea6b] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2020-08-01T13:54:45.533Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 8e8f95b0-d3fe-11ea-bfc4-e5516e22ea6b
+[ERROR - 2020-08-01T13:54:46.476Z] Session [8e8f95b0-d3fe-11ea-bfc4-e5516e22ea6b] - page.onError - msg: TypeError: Attempting to configurable attribute of unconfigurable property.
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-01T13:54:46.477Z] Session [8e8f95b0-d3fe-11ea-bfc4-e5516e22ea6b] - page.onError - stack:
+  defineProperties (https://cdnjs.cloudflare.com/ajax/libs/Turf.js/5.1.6/turf.min.js:1)
+  (anonymous function) (https://cdnjs.cloudflare.com/ajax/libs/Turf.js/5.1.6/turf.min.js:1)
+  (anonymous function) (https://cdnjs.cloudflare.com/ajax/libs/Turf.js/5.1.6/turf.min.js:1)
+  (anonymous function) (https://cdnjs.cloudflare.com/ajax/libs/Turf.js/5.1.6/turf.min.js:1)
+
+  phantomjs://platform/console++.js:263 in error

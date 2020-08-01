@@ -3,6 +3,8 @@
         <h1>Calculate HexGrid with API</h1>
     </div><br>
 
+    <div id="calculate"></div>
+
     <!-- node.js library: turf.js -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/Turf.js/5.1.6/turf.min.js"></script>
     {% load static %}
@@ -22,12 +24,13 @@
         var levels = 4;
 
         // when document is ready, make API request
-        $(document).ready(function() {
+        //$(document).ready(function() {
+        function api_request() {
             console.log(dataDate);
 
             // make the get request
             get_stations("str1", function(data) {
-                console.log("API OUTPUT:\n", data[0].data);
+                // console.log("API OUTPUT:\n", data[0].data);
 
                 bbox = [-126, bot_lat, -68, top_lat];    // USA
 
@@ -43,8 +46,12 @@
 
                 seconds = (endTime.getTime() - startTime.getTime()) / 1000;
                 console.log("All Completed.\nHexGridConstructor Time Elapsed:", seconds);
+
+                text = document.createElement("p");
+                text.setAttribute("id", "done");
+                document.getElementById("calculate").appendChild(text);
             });
-        });
+        }
 
         // make GET request to retrieve all stations
         function get_stations(var1, callback) {
@@ -84,6 +91,7 @@
             });
         }
 
+        api_request();
     </script>
 
 {% include 'partials/footer_noaa.html' %}
