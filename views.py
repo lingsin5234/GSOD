@@ -12,6 +12,112 @@ from django.http import HttpResponse
 from matplotlib.backends.backend_agg import FigureCanvasAgg as FigureCanvas
 import datetime as dte
 
+'''
+API Section
+'''
+from rest_framework import views, permissions
+from rest_framework.response import Response
+from .serializers import WeatherStations
+
+
+# API View for ALL Weather Stations
+class WeatherStationsAPI(views.APIView):
+
+    # get request
+    def get(self, request):
+
+        # get ALL Weather Stations
+        stations = Station.objects.all()
+        data_types = ['PRCP', 'SNOW', 'SNWD', 'TMAX', 'TMIN']
+
+        # json lists
+        data_json = []
+
+        # get ghcnd info for specific day: 2020-05-16 and datatype=TMAX
+        get_date = request.GET['dataDate']
+
+        st_json = []
+        for s in stations:
+            if s.us_state == 'Alaska' or s.us_state == 'Hawaii':
+                continue
+            # if s.us_state != 'Alaska':  # only get alaska
+            #     continue
+
+            # create dictionary to load info to template view
+            new_dict = {
+                'type': 'Feature',
+                'geometry': {
+                    'type': 'Point',
+                    'coordinates': [
+                        s.longitude,
+                        s.latitude
+                    ]
+                },
+                'properties': {}
+            }
+
+            # generate dict based on all listed data types
+            for d in data_types:
+                try:
+                    ghcnd = GHCND.objects.get(station__id=s.id, date=get_date, datatype=d)
+                except Exception as e:
+                    # print(s.id, 'no data found for', d)
+                    new_dict['properties'][d] = None
+                else:
+                    new_dict['properties'][d] = ghcnd.value / 10
+
+            # add dict to list
+            st_json.append(new_dict)
+            # print(st_json)
+
+            data_json.append({
+                'key': get_date,
+                'data': st_json
+            })
+
+        return Response(data_json)
+
+
+# API View for ALL Weather Stations
+class HexGridAPI(views.APIView):
+
+    # get request
+    def get(self, request):
+
+        # print(request.GET)
+
+        # get the JSON file
+        data = []
+        filename = 'hexGrid_' + request.GET['dataDate'] + '.json'
+        # print(filename)
+        try:
+            with open('gsod/posts/' + filename) as file:
+                data = json.load(file)
+                # print(data)
+        except Exception as e:
+            print('GET json file: Failed', e)
+        else:
+            print('GET json file: Success!')
+
+        return Response(data)
+
+    # post request
+    def post(self, request):
+
+        # write the JSON to file:
+        filename = 'hexGrid_' + request.POST['dataDate'] + '.json'
+        try:
+            with open('gsod/posts/' + filename, 'w') as outfile:
+                json.dump(json.loads(request.POST['data']), outfile, indent=4)
+        except Exception as e:
+            print('POST write to file: Failed', e)
+            status = False
+        else:
+            print('POST write to file: Success!')
+            status = True
+
+        return Response(status)
+
 
 # homepage
 def homepage(request):
@@ -274,3 +380,47 @@ def hexagon_test(request):
     }
 
     return render(request, 'pages/hexagon.html', context)
+
+
+def test_api(request):
+
+    # go thru dates and populate the json structure
+    start_date = dte.date(2020, 5, 9)
+    end_date = dte.date(2020, 5, 9)  # date + 1 to end on 16th
+
+    print(dte.date.strftime(start_date, '%Y-%m-%d'))
+
+    context = {
+        'mapbox_access_token': os.environ.get('mapbox_access_token'),
+        'start_date': dte.date.strftime(start_date, '%Y-%m-%d'),
+        'end_date': dte.date.strftime(end_date, '%Y-%m-%d')
+    }
+
+    return render(request, 'pages/test_api.html', context)
+
+
+def new_map(request):
+
+    # go thru dates and populate the json structure
+    start_date = dte.date(2020, 5, 9)
+    end_date = dte.date(2020, 5, 16)  # date + 1 to end on 16th
+
+    # print(dte.date.strftime(start_date, '%Y-%m-%d'))
+
+    context = {
+        'mapbox_access_token': os.environ.get('mapbox_access_token'),
+        'start_date': dte.date.strftime(start_date, '%Y-%m-%d'),
+        'end_date': dte.date.strftime(end_date, '%Y-%m-%d')
+    }
+
+    return render(request, 'pages/new_map.html', context)
+
+
+# this view is for performing the GET, calculate and POST for the HexGrid data, based on the date passed
+def calculate_hexGrid(request, date_of_data):
+
+    context = {
+        'date_of_data': date_of_data
+    }
+
+    return render(request, 'pages/calculate_hexGrid.html', context)

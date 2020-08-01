@@ -1,0 +1,89 @@
+{% include 'partials/header_noaa.html' %}
+    <div id="my_title" class="d-flex justify-content-center">
+        <h1>Calculate HexGrid with API</h1>
+    </div><br>
+
+    <!-- node.js library: turf.js -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Turf.js/5.1.6/turf.min.js"></script>
+    {% load static %}
+    <script src="{% static 'scripts/gsod_scripts/hexagon_grid.js' %}"></script>
+    <script src="{% static 'scripts/gsod_scripts/hexgrid_constructor.js' %}"></script>
+
+    <script>
+        // variable declarations
+        var hexGrid;
+        var dataDate = '{{ date_of_data }}';
+        var bot_lat = 21;
+        var top_lat = 50;
+        var bbox = [-176, 52, -128, 72];                // alaska
+        // var bbox = [-126, bot_lat, -68, top_lat];    // USA
+        var cellSide = 30;
+        var options = {};
+        var levels = 4;
+
+        // when document is ready, make API request
+        $(document).ready(function() {
+            console.log(dataDate);
+
+            // make the get request
+            get_stations("str1", function(data) {
+                console.log("API OUTPUT:\n", data[0].data);
+
+                bbox = [-126, bot_lat, -68, top_lat];    // USA
+
+                startTime = new Date();
+
+                // run it through the HexGridConstructor
+                hexGrid = HexGridConstructor(bbox, cellSide, options, data[0].data, levels);
+
+                endTime = new Date();
+
+                // send this as POST request to save in backend
+                post_data(hexGrid);
+
+                seconds = (endTime.getTime() - startTime.getTime()) / 1000;
+                console.log("All Completed.\nHexGridConstructor Time Elapsed:", seconds);
+            });
+        });
+
+        // make GET request to retrieve all stations
+        function get_stations(var1, callback) {
+
+            getURL = "/api/get_all_stations";
+
+            $.ajax({
+                url: getURL,
+                data: {'dataDate': dataDate},
+                success: function(data) {
+                    // run callback to return this data
+                    callback(data);
+                }
+            });
+        }
+
+        // POST request to push the hexGrid to backend
+        function post_data(data) {
+            postURL = "/api/post_hexgrid";
+
+            $.ajax({
+                type: "POST",
+                url: postURL,
+                data: {
+                    'data': JSON.stringify(data),
+                    'dataDate': dataDate,
+                    'csrfmiddlewaretoken': '{{ csrf_token }}'
+                    },
+                success: function(status) {
+                    if (status) {
+                        console.log("POST REQUEST COMPLETED!");
+                    }
+                    else {
+                        console.log("POST FAILED!");
+                    }
+                }
+            });
+        }
+
+    </script>
+
+{% include 'partials/footer_noaa.html' %}
