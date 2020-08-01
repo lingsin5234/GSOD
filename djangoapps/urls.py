@@ -34,4 +34,5 @@ urlpatterns = [
     re_path(r'api/post_hexgrid', gsod_vw.HexGridAPI.as_view(), name='api-post-hexgrid'),
     re_path(r'api/get_hexgrid', gsod_vw.HexGridAPI.as_view(), name='api-get-hexgrid'),
     re_path(r'^new-map/', gsod_vw.new_map),
+    re_path(r'^calculate-hexGrid/(?P<date_of_data>[\w-]+)/$', gsod_vw.calculate_hexGrid),
 ]

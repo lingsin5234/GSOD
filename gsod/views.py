@@ -31,56 +31,51 @@ class WeatherStationsAPI(views.APIView):
         data_types = ['PRCP', 'SNOW', 'SNWD', 'TMAX', 'TMIN']
 
         # json lists
-        dates_json = []
+        data_json = []
 
-        # go thru dates and populate the json structure
-        start_date = dte.date(2020, 5, 9)
-        end_date = dte.date(2020, 5, 9)  # date + 1 to end on 16th
+        # get ghcnd info for specific day: 2020-05-16 and datatype=TMAX
+        get_date = request.GET['dataDate']
 
-        for this_date in date_range(start_date, (end_date + dte.timedelta(1))):
-            # get ghcnd info for specific day: 2020-05-16 and datatype=TMAX
-            get_date = this_date
+        st_json = []
+        for s in stations:
+            if s.us_state == 'Alaska' or s.us_state == 'Hawaii':
+                continue
+            # if s.us_state != 'Alaska':  # only get alaska
+            #     continue
 
-            st_json = []
-            for s in stations:
-                if s.us_state == 'Alaska' or s.us_state == 'Hawaii':
-                    continue
-                # if s.us_state != 'Alaska':  # only get alaska
-                #     continue
+            # create dictionary to load info to template view
+            new_dict = {
+                'type': 'Feature',
+                'geometry': {
+                    'type': 'Point',
+                    'coordinates': [
+                        s.longitude,
+                        s.latitude
+                    ]
+                },
+                'properties': {}
+            }
 
-                # create dictionary to load info to template view
-                new_dict = {
-                    'type': 'Feature',
-                    'geometry': {
-                        'type': 'Point',
-                        'coordinates': [
-                            s.longitude,
-                            s.latitude
-                        ]
-                    },
-                    'properties': {}
-                }
+            # generate dict based on all listed data types
+            for d in data_types:
+                try:
+                    ghcnd = GHCND.objects.get(station__id=s.id, date=get_date, datatype=d)
+                except Exception as e:
+                    # print(s.id, 'no data found for', d)
+                    new_dict['properties'][d] = None
+                else:
+                    new_dict['properties'][d] = ghcnd.value / 10
 
-                # generate dict based on all listed data types
-                for d in data_types:
-                    try:
-                        ghcnd = GHCND.objects.get(station__id=s.id, date=get_date, datatype=d)
-                    except Exception as e:
-                        # print(s.id, 'no data found for', d)
-                        new_dict['properties'][d] = None
-                    else:
-                        new_dict['properties'][d] = ghcnd.value / 10
+            # add dict to list
+            st_json.append(new_dict)
+            # print(st_json)
 
-                # add dict to list
-                st_json.append(new_dict)
-                # print(st_json)
-
-            dates_json.append({
+            data_json.append({
                 'key': get_date,
                 'data': st_json
             })
 
-        return Response(dates_json)
+        return Response(data_json)
 
 
 # API View for ALL Weather Stations
@@ -420,3 +415,12 @@ def new_map(request):
 
     return render(request, 'pages/new_map.html', context)
 
+
+# this view is for performing the GET, calculate and POST for the HexGrid data, based on the date passed
+def calculate_hexGrid(request, date_of_data):
+
+    context = {
+        'date_of_data': date_of_data
+    }
+
+    return render(request, 'pages/calculate_hexGrid.html', context)
