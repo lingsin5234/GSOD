@@ -28,7 +28,7 @@ class Job(DailyJob):
         # print(element.get_attribute('outerHTML'))
 
         # wait for the "done" id to be generated
-        delay = 200  # seconds
+        delay = 500  # seconds
         try:
             myElem = WebDriverWait(browser, delay).until(EC.presence_of_element_located((By.ID, 'done')))
             print("Calculations and API requests completed!")
