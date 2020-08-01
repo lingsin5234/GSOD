@@ -1,3 +1,4 @@
+appdirs==1.4.4
 asgiref==3.2.7
 azure-core==1.5.0
 azure-storage-blob==12.3.1
@@ -9,6 +10,7 @@ cffi==1.14.0
 chardet==3.0.4
 click==7.1.1
 cryptography==2.9.2
+cssselect==1.1.0
 cycler==0.10.0
 dash==1.10.0
 dash-core-components==1.9.0
@@ -31,6 +33,7 @@ django-simple-menu==1.2.1
 djangorestframework==3.11.0
 djangorestframework-datatables==0.5.2
 dpd-components==0.1.0
+fake-useragent==0.1.11
 Flask==1.1.2
 Flask-Compress==1.5.0
 future==0.18.2
@@ -41,6 +44,7 @@ itsdangerous==1.1.0
 Jinja2==2.11.2
 joblib==0.15.1
 kiwisolver==1.2.0
+lxml==4.5.2
 Markdown==3.2.1
 MarkupSafe==1.1.1
 matplotlib==3.2.1
@@ -49,17 +53,22 @@ msrest==0.6.14
 numpy==1.18.3
 oauthlib==3.1.0
 pandas==1.0.3
+parse==1.16.0
 Pillow==7.1.1
 pip-tools==5.0.0
 plotly==4.6.0
 psycopg2-binary==2.8.5
 pycparser==2.20
+pyee==7.0.2
 pyparsing==2.4.7
+pyppeteer==0.2.2
+pyquery==1.4.1
 python-dateutil==2.8.1
 python-http-client==3.2.7
 pytz==2019.3
 redis==3.5.3
 requests==2.23.0
+requests-html==0.10.0
 requests-oauthlib==1.3.0
 retrying==1.3.3
 rq==1.4.2
@@ -72,5 +81,8 @@ soupsieve==2.0
 SQLAlchemy==1.3.16
 sqlparse==0.3.1
 threadpoolctl==2.1.0
+tqdm==4.48.0
 urllib3==1.25.9
+w3lib==1.22.0
+websockets==8.1
 Werkzeug==1.0.1
