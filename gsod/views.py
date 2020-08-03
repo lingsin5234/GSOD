@@ -78,7 +78,7 @@ class WeatherStationsAPI(views.APIView):
                     'data': st_json
                 })
             idx += 1
-            if idx > 700:
+            if idx > 300:
                 break
         print(request.GET['dataDate'], len(data_json))
 

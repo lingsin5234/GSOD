@@ -15,6 +15,7 @@ function HexGridConstructor(bbox, cellSide, options, data, levels) {
     var centroid_set = [];
 
     // loop through hexGrid to obtain polygons and centroids
+    startTime = new Date();
     hexGrid.features.forEach(f => {
 
         polygon = turf.polygon([f.geometry.coordinates[0]]);
@@ -40,7 +41,12 @@ function HexGridConstructor(bbox, cellSide, options, data, levels) {
         //tempChange += 0.000001;
     });
 
+    endTime = new Date();
+    seconds = (endTime.getTime() - startTime.getTime()) / 1000;
+    console.log("Set Hexagon Tiles:", seconds, "seconds");
+
     // loop thru the polygons again to get the "ring" around it, for the amount of specified levels
+    startTime = new Date();
     rings = [];
     for (var x=0; x < levels; x++) {
         rings[x] = [];
@@ -62,17 +68,29 @@ function HexGridConstructor(bbox, cellSide, options, data, levels) {
                 }
             }
         }
+        console.log("GHCND Index #", i, "completed.")
     });
 
+    endTime = new Date();
+    seconds = (endTime.getTime() - startTime.getTime()) / 1000;
+    console.log("Adding Rings:", seconds, "seconds");
+
     // loop thru rings to check overlap along same ring
-    rings.forEach(r => {
+    startTime = new Date();
+    rings.forEach((r, i) => {
         ring_bool = ring_overlap(r);
         if (ring_bool) {
             r = ring_bool;
         }
+        console.log("Same Level Ring", i, "checked")
     });
 
+    endTime = new Date();
+    seconds = (endTime.getTime() - startTime.getTime()) / 1000;
+    console.log("Check Same Level Overlap:", seconds, "seconds");
+
     // loop thru rings to work on below 1 overlap
+    startTime = new Date();
     weights = [0.7];
     for (var r=0; r < rings.length - 1; r++) {
         [ring_bool1, ring_bool2] = ring_overlap_below(rings[r], ring[r+1], weights)
@@ -82,8 +100,15 @@ function HexGridConstructor(bbox, cellSide, options, data, levels) {
         if (ring_bool2) {
             rings[r+1] = ring_bool2;
         }
+        console.log("ONE Level Ring", r, "checked")
     }
 
+    endTime = new Date();
+    seconds = (endTime.getTime() - startTime.getTime()) / 1000;
+    console.log("Check 1 Level Overlap:", seconds, "seconds");
+
+    // re-calculate the temperatures based on ring; overwrite any ring-hexes that are stations
+    startTime = new Date();
     hexGrid.features.forEach(f => {
 
         polygon = turf.polygon([f.geometry.coordinates[0]]);
@@ -115,6 +140,10 @@ function HexGridConstructor(bbox, cellSide, options, data, levels) {
             }
         });
     });
+
+    endTime = new Date();
+    seconds = (endTime.getTime() - startTime.getTime()) / 1000;
+    console.log("Re-calculating the temperatures:", seconds, "seconds");
 
     return hexGrid;
 }
