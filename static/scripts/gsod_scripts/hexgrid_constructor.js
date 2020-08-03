@@ -3,9 +3,12 @@
 *   HexGrid Constructor
 *   This constructor script calculates and generates the hexgrid
 *   temperature layer on top of the map.
+*   Due to performance and function duration, the original function
+*   is divided into smaller parts. Easier to monitor and add logs.
 *
 */
 
+// create the HexGrid, compute the polygons and centroids
 function HexGridConstructor(bbox, cellSide, options, data, levels) {
 
     // set variables, declare hexGrid
@@ -13,6 +16,7 @@ function HexGridConstructor(bbox, cellSide, options, data, levels) {
     var tempChange = 0;
     var polygons_set = [];
     var centroid_set = [];
+    var dataSet = data;
 
     // loop through hexGrid to obtain polygons and centroids
     startTime = new Date();
@@ -24,10 +28,10 @@ function HexGridConstructor(bbox, cellSide, options, data, levels) {
         centroid_set.push(centroid);
 
         // filter data first; TMAX, TMIN and Coordinates must exist!
-        data = data.filter(d => (d.properties.TMAX && d.properties.TMIN && d.geometry.coordinates[0]));
+        dataSet = dataSet.filter(d => (d.properties.TMAX && d.properties.TMIN && d.geometry.coordinates[0]));
 
         // find the centroid that houses the weather station
-        data.forEach((d, i) => {
+        dataSet.forEach((d, i) => {
             station = d.geometry.coordinates;
             if (turf.booleanPointInPolygon(station, polygon)) {
                 d.properties.centroid = centroid;
@@ -42,12 +46,28 @@ function HexGridConstructor(bbox, cellSide, options, data, levels) {
     });
 
     // filter out those without a centroid
-    data = data.filter(d => (d.properties.TMAX && d.properties.centroid));
+    dataSet = dataSet.filter(d => (d.properties.TMAX && d.properties.centroid));
 
     endTime = new Date();
     seconds = (endTime.getTime() - startTime.getTime()) / 1000;
     console.log("Set Hexagon Tiles:", seconds, "seconds");
-    console.log("Updated Data Length:", data.length);
+    console.log("Updated Data Length:", dataSet.length);
+
+    // add rings
+    rings = HexGridAddRings(hexGrid, polygon_set, centroid_set, cellSide, levels, dataSet);
+
+    // find overlaps
+    rings = HexGridOverlaps(rings);
+
+    // re-calculate temps; deploy rings then stations
+    hexGrid = HexGridDeploy(hexGrid, rings, dataSet);
+
+    return hexGrid;
+}
+
+
+// this function adds rings around each weather station
+function HexGridAddRings(hexGrid, polygon_set, centroid_set, cellSide, levels, dataSet) {
 
     // loop thru the polygons again to get the "ring" around it, for the amount of specified levels
     startTime = new Date();
@@ -55,7 +75,7 @@ function HexGridConstructor(bbox, cellSide, options, data, levels) {
     for (var x=0; x < levels; x++) {
         rings[x] = [];
     }
-    data.forEach((d, i) => {
+    dataSet.forEach((d, i) => {
         station = d.properties.centroid;
         station_temp = d.properties['TMAX'];
 
@@ -78,6 +98,13 @@ function HexGridConstructor(bbox, cellSide, options, data, levels) {
     endTime = new Date();
     seconds = (endTime.getTime() - startTime.getTime()) / 1000;
     console.log("Adding Rings:", seconds, "seconds");
+
+    return rings;
+}
+
+
+// find overlaps on same ring level and one below
+function HexGridOverlaps(rings) {
 
     // loop thru rings to check overlap along same ring
     startTime = new Date();
@@ -111,6 +138,13 @@ function HexGridConstructor(bbox, cellSide, options, data, levels) {
     seconds = (endTime.getTime() - startTime.getTime()) / 1000;
     console.log("Check 1 Level Overlap:", seconds, "seconds");
 
+    return rings;
+}
+
+
+// re-calculate temps for each ring, and ovewrite with stations at the end
+function HexGridDeploy(hexGrid, rings, dataSet) {
+
     // re-calculate the temperatures based on ring; overwrite any ring-hexes that are stations
     startTime = new Date();
     hexGrid.features.forEach(f => {
@@ -137,7 +171,7 @@ function HexGridConstructor(bbox, cellSide, options, data, levels) {
         }
 
         // insert the colours from the weather stations
-        data.forEach(d => {
+        dataSet.forEach(d => {
             coord = d.geometry.coordinates
             if (turf.booleanPointInPolygon(coord, polygon)) {
                 //console.log(coord);

@@ -77,9 +77,9 @@ class WeatherStationsAPI(views.APIView):
                     'key': get_date,
                     'data': st_json
                 })
-            idx += 1
-            if idx > 300:
-                break
+            # idx += 1
+            # if idx > 300:
+            #     break
         print(request.GET['dataDate'], len(data_json))
 
         return Response(data_json)
@@ -409,8 +409,8 @@ def test_api(request):
 def new_map(request):
 
     # go thru dates and populate the json structure
-    start_date = dte.date(2020, 5, 9)
-    end_date = dte.date(2020, 5, 16)  # date + 1 to end on 16th
+    start_date = dte.date(2020, 7, 18)
+    end_date = dte.date(2020, 7, 18)  # date + 1 to end on 16th
 
     # print(dte.date.strftime(start_date, '%Y-%m-%d'))
 
