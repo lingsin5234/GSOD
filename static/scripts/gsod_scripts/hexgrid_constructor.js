@@ -23,8 +23,8 @@ function HexGridConstructor(bbox, cellSide, options, data, levels) {
         centroid = turf.centroid(polygon);
         centroid_set.push(centroid);
 
-        // filter data first
-        data = data.filter(d => (d.properties.TMAX && d.properties.TMIN));
+        // filter data first; TMAX, TMIN and Coordinates must exist!
+        data = data.filter(d => (d.properties.TMAX && d.properties.TMIN && d.geometry.coordinates[0]));
 
         // find the centroid that houses the weather station
         data.forEach((d, i) => {
@@ -41,9 +41,13 @@ function HexGridConstructor(bbox, cellSide, options, data, levels) {
         //tempChange += 0.000001;
     });
 
+    // filter out those without a centroid
+    data = data.filter(d => (d.properties.TMAX && d.properties.centroid));
+
     endTime = new Date();
     seconds = (endTime.getTime() - startTime.getTime()) / 1000;
     console.log("Set Hexagon Tiles:", seconds, "seconds");
+    console.log("Updated Data Length:", data.length);
 
     // loop thru the polygons again to get the "ring" around it, for the amount of specified levels
     startTime = new Date();
@@ -116,6 +120,7 @@ function HexGridConstructor(bbox, cellSide, options, data, levels) {
 
         // insert colours from each ring, starting with outermost first
         for (var ring=levels-1; ring >= 0; ring--) {
+            time1 = new Date();
             rings[ring].forEach(r => {
                 coord = r.geometry.coordinates
                 if (turf.booleanPointInPolygon(coord, polygon)) {
@@ -126,6 +131,9 @@ function HexGridConstructor(bbox, cellSide, options, data, levels) {
                     };
                 }
             });
+            time2 = new Date();
+            seconds = (time1.getTime() - time2.getTime()) / 1000;
+            console.log("Ring", ring, "complete:", seconds, "seconds")
         }
 
         // insert the colours from the weather stations

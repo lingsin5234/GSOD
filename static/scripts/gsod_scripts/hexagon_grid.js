@@ -376,7 +376,12 @@ function get_second_pt(pt, intersect) {
 // the bounding box matters, because the center lat, is used as the reference for the most equilateral hexagon.
 function station_rings(distance, level, station, coord, bot_lat, top_lat) {
 
-    dist = turf.distance(station, coord);
+    try {
+        dist = turf.distance(station, coord);
+    }
+    catch(err) {
+        console.log(station, coord, level, "\nerror:", err);
+    }
 
     // factor in the latitude of the station [long, lat]
     lat = station.geometry.coordinates[1];
