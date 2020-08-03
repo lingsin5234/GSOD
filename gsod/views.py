@@ -37,6 +37,7 @@ class WeatherStationsAPI(views.APIView):
         get_date = request.GET['dataDate']
 
         st_json = []
+        idx = 0
         for s in stations:
             if s.us_state == 'Alaska' or s.us_state == 'Hawaii':
                 continue
@@ -62,18 +63,24 @@ class WeatherStationsAPI(views.APIView):
                     ghcnd = GHCND.objects.get(station__id=s.id, date=get_date, datatype=d)
                 except Exception as e:
                     # print(s.id, 'no data found for', d)
-                    new_dict['properties'][d] = None
+                    continue
+                    # new_dict['properties'][d] = None
                 else:
                     new_dict['properties'][d] = ghcnd.value / 10
 
-            # add dict to list
-            st_json.append(new_dict)
-            # print(st_json)
+                    # add dict to list
+                    st_json.append(new_dict)
+                    # print(st_json)
 
-            data_json.append({
-                'key': get_date,
-                'data': st_json
-            })
+            if len(st_json) > 0:
+                data_json.append({
+                    'key': get_date,
+                    'data': st_json
+                })
+            idx += 1
+            if idx > 1500:
+                break
+        print(request.GET['dataDate'], len(data_json))
 
         return Response(data_json)
 

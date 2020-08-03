@@ -30,7 +30,8 @@
 
             // make the get request
             get_stations("str1", function(data) {
-                // console.log("API OUTPUT:\n", data[0].data);
+                console.log("API OUTPUT:\n", data[0].data);
+                console.log("DATA LENGTH:\n", data[0].data.length);
 
                 bbox = [-126, bot_lat, -68, top_lat];    // USA
 
@@ -63,7 +64,11 @@
                 data: {'dataDate': dataDate},
                 success: function(data) {
                     // run callback to return this data
+                    console.log("GET OUTPUT:\n", data[0].data);
                     callback(data);
+                },
+                error: function(XMLHttpRequest, textStatus, errorThrown) {
+                    alert("Status: " + textStatus); alert("Error: " + errorThrown);
                 }
             });
         }
@@ -87,6 +92,9 @@
                     else {
                         console.log("POST FAILED!");
                     }
+                },
+                error: function(XMLHttpRequest, textStatus, errorThrown) {
+                    alert("Status: " + textStatus); alert("Error: " + errorThrown);
                 }
             });
         }

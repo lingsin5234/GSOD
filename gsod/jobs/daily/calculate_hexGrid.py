@@ -21,14 +21,14 @@ class Job(DailyJob):
 
         # start chrome browser
         browser = webdriver.Chrome(chrome_options=options)
-        browser.get('http://127.0.0.1:8000/calculate-hexGrid/2020-05-11/')
+        browser.get('http://127.0.0.1:8000/calculate-hexGrid/2020-07-18/')
 
         # check what HTML there is
         # element = browser.find_element_by_css_selector('#my_title')
         # print(element.get_attribute('outerHTML'))
 
         # wait for the "done" id to be generated
-        delay = 500  # seconds
+        delay = 1200  # seconds
         try:
             myElem = WebDriverWait(browser, delay).until(EC.presence_of_element_located((By.ID, 'done')))
             print("Calculations and API requests completed!")
