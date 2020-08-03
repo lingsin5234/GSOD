@@ -54,7 +54,7 @@ function HexGridConstructor(bbox, cellSide, options, data, levels) {
     console.log("Updated Data Length:", dataSet.length);
 
     // add rings
-    rings = HexGridAddRings(hexGrid, polygon_set, centroid_set, cellSide, levels, dataSet);
+    rings = HexGridAddRings(hexGrid, polygons_set, centroid_set, cellSide, levels, dataSet);
 
     // find overlaps
     rings = HexGridOverlaps(rings);
