@@ -22,6 +22,9 @@ function HexGridConstructor(bbox, cellSide, options, data, levels) {
         centroid = turf.centroid(polygon);
         centroid_set.push(centroid);
 
+        // filter data first
+        data = data.filter(d => (d.properties.TMAX && d.properties.TMIN));
+
         // find the centroid that houses the weather station
         data.forEach((d, i) => {
             station = d.geometry.coordinates;
