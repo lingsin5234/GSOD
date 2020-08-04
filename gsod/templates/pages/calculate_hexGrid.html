@@ -15,7 +15,7 @@
         // variable declarations
         var hexGrid;
         var dataDate = '{{ date_of_data }}';
-        var bot_lat = 21;
+        var bot_lat = 24;
         var top_lat = 50;
         // var bbox = [-176, 52, -128, 72];                // alaska
         var bbox = [-126, bot_lat, -66.5, top_lat];    // USA
@@ -36,7 +36,7 @@
                 firstStartTime = new Date();
 
                 // run it through the HexGridConstructor
-                hexGrid = HexGridConstructor(bbox, cellSide, options, data[0].data, levels);
+                hexGrid = HexGridConstructor(bbox, cellSide, options, data[0].data, levels, bot_lat, top_lat);
 
                 endTime = new Date();
 

@@ -440,9 +440,9 @@ function convert_distance(distance, lat, middle_lat) {
 
 
 // check rings on the same level that overlap
-function ring_overlap(dataSet, level) {
+function ring_overlap(hexGridDataSet, level) {
 
-    dataSet.forEach(d => {
+    hexGridDataSet.forEach(d => {
 
         // for each hex, find how many same ring level entries
         same_rings = [];
@@ -465,15 +465,15 @@ function ring_overlap(dataSet, level) {
         }
     });
 
-    return dataSet;
+    return hexGridDataSet;
 }
 
 
 // check rings one level below for overlap
-function ring_overlap_below(dataSet, top_level, weights) {
+function ring_overlap_below(hexGridDataSet, top_level, weights) {
 
     // for each hex, check for ring1, then ring2
-    dataSet.forEach(d => {
+    hexGridDataSet.forEach(d => {
 
         // for each hex, find top_level and 1 level below
         top_rings = [];
@@ -503,95 +503,6 @@ function ring_overlap_below(dataSet, top_level, weights) {
         // "neither" case, will be skipped.
     });
 
-    return dataSet;
-
-    /*
-    collector1 = [];  // collects all unique coordinates (centroids)
-    for (var r in ring1) {
-        coord = ring1[r].geometry.coordinates;
-        check = false;
-        for (var c in collector1) {
-            if (collector1[c][0] == coord[0] && collector1[c][1] == coord[1]) {
-                check = true;
-                break;
-            }
-        }
-        if (!check) {
-            collector1.push(coord);
-        }
-    }
-    //console.log(collector1);
-
-    collector2 = [];  // collects all unique coordinates (centroids)
-    for (var r in ring2) {
-        coord = ring2[r].geometry.coordinates
-        check = false
-        for (var c in collector2) {
-            if (collector2[c][0] == coord[0] && collector2[c][1] == coord[1]) {
-                check = true;
-                break;
-            }
-        }
-        if (!check) {
-            collector2.push(coord);
-        }
-    }
-    //console.log(collector2);
-
-    // go thru collector1 to find overlaps in collector2
-    overlap = [];  // collects only the overlapping coordinates
-    for (var col in collector1) {
-        coord = collector1[col];
-        for (var c in collector2) {
-            if (collector2[c][0] == coord[0] && collector2[c][1] == coord[1]) {
-                overlap.push(coord);
-                break;
-            }
-        }
-    }
-
-    if (overlap.length == 0) {
-        return [false, false];
-    }
-
-    // if the sizes don't match, that means there's overlaps
-    for (var o in overlap) {
-
-        // ring 1
-        temp1 = [];  // temperatures to take the mean of
-        indices1 = [];  // save the indices for easier reference
-        for (var r in ring1) {
-            coord = ring1[r].geometry.coordinates
-            if (overlap[o][0] == coord[0] && overlap[o][1] == coord[1]) {
-                // add temperature and index
-                temp1.push(ring1[r].properties.temperature);
-                indices1.push(r);
-            }
-        }
-
-        // ring 2
-        temp2 = [];  // temperatures to take the mean of
-        //indices2 = [];  // save the indices for easier reference
-        for (var r in ring2) {
-            coord = ring2[r].geometry.coordinates
-            if (overlap[o][0] == coord[0] && overlap[o][1] == coord[1]) {
-                // add temperature and index
-                temp2.push(ring2[r].properties.temperature);
-                //indices2.push(r);
-            }
-        }
-
-        // weighted averages (example ring1 to ring2, 60/40: weights[0] = 0.6; ring2 to ring1, 50/50: weight[1] = 0.5)
-        ring1_temp = temp1.reduce((a,b) => a + b, 0) * weights[0] + temp2.reduce((a,b) => a + b, 0) * (1 - weights[0])
-
-        // take the mean of temperatures and add it back into each indexed ring coordinate
-        for (var i in indices1) {
-            index = indices1[i];
-            ring1[index].properties.temperature = ring1_temp;
-        }
-        // second one gets overwritten on the map anyway
-    }
-    return [ring1, ring2];
-    */
+    return hexGridDataSet;
 }
 
