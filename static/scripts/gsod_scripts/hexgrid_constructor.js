@@ -53,30 +53,29 @@ function HexGridConstructor(bbox, cellSide, options, data, levels) {
     console.log("Set Hexagon Tiles:", seconds, "seconds");
     console.log("Updated Data Length:", dataSet.length);
 
+    // copy over hexGridDataSet for variable use
+    hexGridDataSet = hexGrid.features;
+
     // add rings
-    rings = HexGridAddRings(hexGrid, polygons_set, centroid_set, cellSide, levels, dataSet);
+    hexGridDataSet = HexGridAddRings(centroid_set, cellSide, levels, hexGridDataSet);
 
     // find overlaps
     //rings = HexGridOverlaps(rings);
     dataSet = HexGridOverlaps(dataSet, levels);
 
     // re-calculate temps; deploy rings then stations
-    hexGrid = HexGridDeploy(hexGrid, rings, dataSet);
+    hexGrid = HexGridDeploy(hexGrid, levels, dataSet);
 
     return hexGrid;
 }
 
 
 // this function adds rings around each weather station
-function HexGridAddRings(hexGrid, polygon_set, centroid_set, cellSide, levels, dataSet) {
+function HexGridAddRings(centroid_set, cellSide, levels, hexGridDataSet) {
 
     // loop thru the polygons again to get the "ring" around it, for the amount of specified levels
     startTime = new Date();
-    rings = [];
-    for (var x=0; x < levels; x++) {
-        rings[x] = [];
-    }
-    dataSet.forEach((d, i) => {
+    hexGridDataSet.forEach((d, i) => {
         station = d.properties.centroid;
         station_temp = d.properties['TMAX'];
         d.properties.rings = [];
@@ -88,28 +87,29 @@ function HexGridAddRings(hexGrid, polygon_set, centroid_set, cellSide, levels, d
             for (var x=0; x < levels; x++) {
 
                 if (station_rings(cellSide, x+1, station, coord, bot_lat, top_lat)[0]) {
-                    ring = {"geometry": {"coordinates": coord.geometry.coordinates},
+                    /*ring = {"geometry": {"coordinates": coord.geometry.coordinates},
                             "properties": {"temperature": station_temp - (x * 1)}}
-                    rings[x].push(ring);
+                    rings[x].push(ring);*/
 
                     // add ring properties to the station (dataSet) information
                     ring_prop = {
                         "ring_level": x+1,
                         "station": station,
+                        "coordinates": coord.geometry.coordinates,
                         "temperature": station_temp - (x * 1)
                     }
                     d.properties.rings.push(ring_prop);
                 }
             }
         }
-        console.log("GHCND Index #", i, "completed.")
+        //console.log("GHCND Index #", i, "completed.")
     });
 
     endTime = new Date();
     seconds = (endTime.getTime() - startTime.getTime()) / 1000;
     console.log("Adding Rings:", seconds, "seconds");
 
-    return rings;
+    return dataSet;
 }
 
 
@@ -122,7 +122,7 @@ function HexGridOverlaps(dataSet, levels) { // rings) {
 
     startTime = new Date();
     levelsArray.forEach(l => {
-        hexGrid = ring_overlap(dataSet, l+1);
+        dataSet = ring_overlap(dataSet, l+1);
         console.log("Same Level Ring", l+1, "checked");
     });
 
@@ -135,13 +135,15 @@ function HexGridOverlaps(dataSet, levels) { // rings) {
     weights = [0.7];
 
     levelsArray.forEach(l => {
-       hexGrid = ring_overlap_below(dataSet, l+1, weights)
+       dataSet = ring_overlap_below(dataSet, l+1, weights)
        console.log("One Level Below Ring", l+1, "checked");
     });
 
     endTime = new Date();
     seconds = (endTime.getTime() - startTime.getTime()) / 1000;
     console.log("Check 1 Level Overlap:", seconds, "seconds");
+
+    console.log("dataSet", dataSet);
 
     return dataSet;
 
@@ -167,7 +169,7 @@ function HexGridOverlaps(dataSet, levels) { // rings) {
 
 
 // re-calculate temps for each ring, and ovewrite with stations at the end
-function HexGridDeploy(hexGrid, rings, dataSet) {
+function HexGridDeploy(hexGrid, levels, dataSet) {
 
     // re-calculate the temperatures based on ring; overwrite any ring-hexes that are stations
     startTime = new Date();
@@ -177,21 +179,38 @@ function HexGridDeploy(hexGrid, rings, dataSet) {
         centroid = turf.centroid(polygon);
 
         // copy all the rings in
-        time1 = new Date();
         dataSet.forEach(d => {
             coord = d.geometry.coordinates
             if (turf.booleanPointInPolygon(coord, polygon)) {
-                //console.log(coord);
-                f.properties = {
-                    temperature: (d.properties.temperature + 40)/80,
-                    centroid: centroid
-                };
+
+                // find the highest level ring
+                if ("rings" in d.properties) {
+                    found = false
+                    l = levels
+                    while (!found) {
+                        d.properties.rings.forEach(r => {
+                            if (r.ring_level == l+1) {
+                                get_temp = r.temperature;
+                                found = true
+                            }
+                        });
+                        l--;
+                    }
+
+                    f.properties = {
+                        temperature: (get_temp + 40)/80,
+                        centroid: centroid
+                    };
+                    console.log(get_temp);
+
+                } else {
+                    f.properties = {
+                        temperature: (d.properties.temperature + 40)/80,
+                        centroid: centroid
+                    };
+                }
             }
         })
-
-        time2 = new Date();
-        seconds = (time1.getTime() - time2.getTime()) / 1000;
-        console.log("All non-Station Hexes Complete:", seconds, "seconds")
 
         // insert the temperatures from the weather stations (overwriting some of previous)
         dataSet.forEach(d => {
@@ -209,6 +228,8 @@ function HexGridDeploy(hexGrid, rings, dataSet) {
     endTime = new Date();
     seconds = (endTime.getTime() - startTime.getTime()) / 1000;
     console.log("Re-calculating the temperatures:", seconds, "seconds");
+
+    console.log("HexGrid", hexGrid);
 
     return hexGrid;
 }

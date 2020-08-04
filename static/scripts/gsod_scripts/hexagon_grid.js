@@ -455,8 +455,13 @@ function ring_overlap(dataSet, level) {
         });
 
         // use mean temperature for all same rings (1 will just be same number for mean)
+        //console.log(temps.reduce((a,b) => a + b, 0) / temps.length);
         if (same_rings.length > 0) {
-            d.properties.temperature = temps.reduce((a,b) => a + b, 0) / temps.length;
+            d.properties.rings.forEach(r => {
+                if (r.ring_level == level) {
+                    r.temperature = temps.reduce((a,b) => a + b, 0) / temps.length;
+                }
+            });
         }
     });
 
@@ -488,7 +493,11 @@ function ring_overlap_below(dataSet, top_level, weights) {
         // weighted averages (example ring1 to ring2, 60/40: weights[0] = 0.6; ring2 to ring1, 50/50: weight[1] = 0.5)
         if (top_rings.length > 0 && next_rings.length > 0) {
             temp = temps1.reduce((a,b) => a + b, 0) * weights[0] + temps2.reduce((a,b) => a + b, 0) * (1 - weights[0]);
-            d.properties.temperature = temp;
+            d.properties.rings.forEach(r => {
+                if (r.ring_level == top_level) {
+                    r.temperature = temp;
+                }
+            });
         }
         // top_rings only or next_rings only, then same_ring overlap will take care of it.
         // "neither" case, will be skipped.
