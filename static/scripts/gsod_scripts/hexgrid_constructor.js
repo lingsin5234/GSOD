@@ -57,7 +57,8 @@ function HexGridConstructor(bbox, cellSide, options, data, levels) {
     rings = HexGridAddRings(hexGrid, polygons_set, centroid_set, cellSide, levels, dataSet);
 
     // find overlaps
-    rings = HexGridOverlaps(rings);
+    //rings = HexGridOverlaps(rings);
+    hexGrid = HexGridOverlaps(hexGrid, levels);
 
     // re-calculate temps; deploy rings then stations
     hexGrid = HexGridDeploy(hexGrid, rings, dataSet);
@@ -124,16 +125,6 @@ function HexGridOverlaps(hexGrid, levels) { // rings) {
         console.log("Same Level Ring", l, "checked");
     });
 
-    /*
-    // loop thru rings to check overlap along same ring
-    rings.forEach((r, i) => {
-        ring_bool = ring_overlap(r);
-        if (ring_bool) {
-            r = ring_bool;
-        }
-        console.log("Same Level Ring", i, "checked")
-    });*/
-
     endTime = new Date();
     seconds = (endTime.getTime() - startTime.getTime()) / 1000;
     console.log("Check Same Level Overlap:", seconds, "seconds");
@@ -141,6 +132,19 @@ function HexGridOverlaps(hexGrid, levels) { // rings) {
     // loop thru rings to work on below 1 overlap
     startTime = new Date();
     weights = [0.7];
+
+    levelsArray.forEach(l => {
+       hexGrid = ring_overlap_below(hexGrid, l, weights)
+       console.log("One Level Below Ring", l, "checked");
+    });
+
+    endTime = new Date();
+    seconds = (endTime.getTime() - startTime.getTime()) / 1000;
+    console.log("Check 1 Level Overlap:", seconds, "seconds");
+
+    return hexGrid;
+
+    /*
     for (var r=0; r < rings.length - 1; r++) {
         [ring_bool1, ring_bool2] = ring_overlap_below(rings[r], ring[r+1], weights)
         if (ring_bool1) {
@@ -157,6 +161,7 @@ function HexGridOverlaps(hexGrid, levels) { // rings) {
     console.log("Check 1 Level Overlap:", seconds, "seconds");
 
     return rings;
+    */
 }
 
 
@@ -169,25 +174,6 @@ function HexGridDeploy(hexGrid, rings, dataSet) {
 
         polygon = turf.polygon([f.geometry.coordinates[0]]);
         centroid = turf.centroid(polygon);
-
-        /*
-        // insert colours from each ring, starting with outermost first
-        for (var ring=levels-1; ring >= 0; ring--) {
-            time1 = new Date();
-            rings[ring].forEach(r => {
-                coord = r.geometry.coordinates
-                if (turf.booleanPointInPolygon(coord, polygon)) {
-                    //console.log(coord, f);
-                    f.properties = {
-                        temperature: (r.properties.temperature + 40)/80,
-                        centroid: centroid
-                    };
-                }
-            });
-            time2 = new Date();
-            seconds = (time1.getTime() - time2.getTime()) / 1000;
-            console.log("Ring", ring, "complete:", seconds, "seconds")
-        }*/
 
         // insert the colours from the weather stations
         dataSet.forEach(d => {

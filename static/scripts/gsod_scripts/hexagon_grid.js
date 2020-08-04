@@ -461,58 +461,42 @@ function ring_overlap(hexGrid, level) {
     });
 
     return hexGrid;
-
-    /*
-    collector = [];  // collects all unique coordinates (centroids)
-    overlap = [];  // collects only the overlapping coordinates
-    for (var r in ring) {
-        coord = ring[r].geometry.coordinates
-        check = false
-        for (var c in collector) {
-            if (collector[c][0] == coord[0] && collector[c][1] == coord[1]) {
-                overlap.push(coord);
-                check = true;
-                break;
-            }
-        }
-        if (!check) {
-            collector.push(coord);
-        }
-    }
-    //console.log(collector);
-
-    // if the sizes don't match, that means there's overlaps
-    if (collector.length == ring.length) {
-        return false;
-    }
-    else {
-        for (var o in overlap) {
-            temp = [];  // temperatures to take the mean of
-            indices = [];  // save the indices for easier reference
-            for (var r in ring) {
-                coord = ring[r].geometry.coordinates
-                if (overlap[o][0] == coord[0] && overlap[o][1] == coord[1]) {
-                    // add temperature and index
-                    temp.push(ring[r].properties.temperature);
-                    indices.push(r);
-                }
-            }
-
-            // take the mean of temperatures and add it back into each indexed ring coordinate
-            //console.log(temp.reduce((a,b) => a + b, 0) / temp.length);
-            for (var i in indices) {
-                index = indices[i];
-                ring[index].properties.temperature = temp.reduce((a,b) => a + b, 0) / temp.length;
-            }
-        }
-        return ring;
-    }*/
 }
 
 
 // check rings one level below for overlap
-function ring_overlap_below(ring1, ring2, weights) {
+function ring_overlap_below(hexGrid, top_level, weights) {
 
+    // for each hex, check for ring1, then ring2
+    hexGrid.forEach(d => {
+
+        // for each hex, find top_level and 1 level below
+        top_rings = [];
+        next_rings = [];
+        temps1 = [];
+        temps2 = [];
+        d.properties.rings.forEach(r => {
+            if (r.ring_level == top_level) {
+                top_rings.push(r);
+                temps1.append(r.temperature);
+            } else if (r.ring_level == (top_level - 1)) {
+                next_rings.push(r);
+                temps2.append(r.temperature);
+            }
+        });
+
+        // weighted averages (example ring1 to ring2, 60/40: weights[0] = 0.6; ring2 to ring1, 50/50: weight[1] = 0.5)
+        if (top_rings.length > 0 && next_rings.length > 0) {
+            temp = temps1.reduce((a,b) => a + b, 0) * weights[0] + temps2.reduce((a,b) => a + b, 0) * (1 - weights[0]);
+            d.properties.temperature = temp;
+        }
+        // top_rings only or next_rings only, then same_ring overlap will take care of it.
+        // "neither" case, will be skipped.
+    });
+
+    return hexGrid;
+
+    /*
     collector1 = [];  // collects all unique coordinates (centroids)
     for (var r in ring1) {
         coord = ring1[r].geometry.coordinates;
@@ -590,20 +574,15 @@ function ring_overlap_below(ring1, ring2, weights) {
 
         // weighted averages (example ring1 to ring2, 60/40: weights[0] = 0.6; ring2 to ring1, 50/50: weight[1] = 0.5)
         ring1_temp = temp1.reduce((a,b) => a + b, 0) * weights[0] + temp2.reduce((a,b) => a + b, 0) * (1 - weights[0])
-        //ring2_temp = temp1.reduce((a,b) => a + b, 0) * weights[1] + temp2.reduce((a,b) => a + b, 0) * (1 - weights[1])
 
         // take the mean of temperatures and add it back into each indexed ring coordinate
-        //console.log(temp.reduce((a,b) => a + b, 0) / temp.length);
         for (var i in indices1) {
             index = indices1[i];
             ring1[index].properties.temperature = ring1_temp;
         }
         // second one gets overwritten on the map anyway
-        /*(for (var i in indices2) {
-            index = indices2[i];
-            ring2[index].properties.temperature = ring2_temp;
-        }*/
     }
     return [ring1, ring2];
+    */
 }
 
