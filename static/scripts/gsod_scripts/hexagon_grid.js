@@ -440,8 +440,29 @@ function convert_distance(distance, lat, middle_lat) {
 
 
 // check rings on the same level that overlap
-function ring_overlap(ring) {
+function ring_overlap(hexGrid, level) {
 
+    hexGrid.forEach(d => {
+
+        // for each hex, find how many same ring level entries
+        same_rings = [];
+        temps = [];
+        d.properties.rings.forEach(r => {
+            if (r.ring_level == level) {
+                same_rings.push(r);
+                temps.append(r.temperature);
+            }
+        });
+
+        // use mean temperature for all same rings (1 will just be same number for mean)
+        if (same_rings.length > 0) {
+            d.properties.temperature = temps.reduce((a,b) => a + b, 0) / temps.length;
+        }
+    });
+
+    return hexGrid;
+
+    /*
     collector = [];  // collects all unique coordinates (centroids)
     overlap = [];  // collects only the overlapping coordinates
     for (var r in ring) {
@@ -485,7 +506,7 @@ function ring_overlap(ring) {
             }
         }
         return ring;
-    }
+    }*/
 }
 
 
