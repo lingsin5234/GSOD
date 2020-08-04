@@ -96,7 +96,7 @@ function HexGridAddRings(centroid_set, cellSide, levels, hexGridDataSet, dataSet
                         "temperature": station_temp - (x * 1)
                     }
                     hexGridDataSet[cent].properties.rings.push(ring_prop);
-                    console.log(cent);
+                    //console.log(cent);
                 }
             }
         });
@@ -157,7 +157,7 @@ function HexGridDeploy(hexGrid, levels, hexGridDataSet, dataSet) {
     startTime = new Date();
     hexGrid.features.forEach((f, i) => {
 
-        //polygon = turf.polygon([f.geometry.coordinates[0]]);
+        polygon = turf.polygon([f.geometry.coordinates[0]]);
         //centroid = turf.centroid(polygon);
 
         // copy all the rings in
@@ -182,14 +182,16 @@ function HexGridDeploy(hexGrid, levels, hexGridDataSet, dataSet) {
                     console.log(i, l, levels, get_temp);
                 }
                 l++;
-                if (l >= levels) {
+                if (l > levels) {
                     found = true
                     get_temp = -120  // to get -1 for temperature
                 }
             }
 
-            f.properties.temperature = (get_temp + 40)/80;
-            console.log(f.properties.temperature);
+            f.properties = {
+                temperature: (get_temp + 40)/80
+            }
+            //console.log(f.properties.temperature);
 
         } /*else {
             //don't change the temperature
@@ -206,7 +208,10 @@ function HexGridDeploy(hexGrid, levels, hexGridDataSet, dataSet) {
             coord = d.geometry.coordinates
             if (turf.booleanPointInPolygon(coord, polygon)) {
                 //console.log(coord);
-                f.properties.temperature = (d.properties['TMAX'] + 40)/80;
+                // overwrite the properties to only include temperature
+                f.properties = {
+                    temperature: (d.properties['TMAX'] + 40)/80
+                }
             }
         });
     });

@@ -21,7 +21,7 @@
         var bbox = [-126, bot_lat, -66.5, top_lat];    // USA
         var cellSide = 15;
         var options = {};
-        var levels = 2;
+        var levels = 8;
 
         // when document is ready, make API request
         //$(document).ready(function() {
@@ -40,11 +40,11 @@
 
                 endTime = new Date();
 
-                // send this as POST request to save in backend
-                post_data(hexGrid);
-
                 seconds = (endTime.getTime() - firstStartTime.getTime()) / 1000;
                 console.log("All Completed.\nHexGridConstructor Time Elapsed:", seconds);
+
+                // send this as POST request to save in backend
+                post_data(hexGrid);
 
                 text = document.createElement("p");
                 text.setAttribute("id", "done");
@@ -74,7 +74,7 @@
         // POST request to push the hexGrid to backend
         function post_data(data) {
             postURL = "/api/post_hexgrid";
-
+            console.log(data.features.length);
             $.ajax({
                 type: "POST",
                 url: postURL,
