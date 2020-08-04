@@ -118,7 +118,8 @@ function HexGridOverlaps(dataSet, levels) { // rings) {
 
     // loop thru each level and run it thru the ring overlap
     levelsArray = [...Array(levels).keys()];
-    console.log(levelsArray);
+    //console.log(levelsArray);
+
     startTime = new Date();
     levelsArray.forEach(l => {
         hexGrid = ring_overlap(dataSet, l+1);
@@ -175,7 +176,24 @@ function HexGridDeploy(hexGrid, rings, dataSet) {
         polygon = turf.polygon([f.geometry.coordinates[0]]);
         centroid = turf.centroid(polygon);
 
-        // insert the colours from the weather stations
+        // copy all the rings in
+        time1 = new Date();
+        dataSet.forEach(d => {
+            coord = d.geometry.coordinates
+            if (turf.booleanPointInPolygon(coord, polygon)) {
+                //console.log(coord);
+                f.properties = {
+                    temperature: (d.properties.temperature + 40)/80,
+                    centroid: centroid
+                };
+            }
+        })
+
+        time2 = new Date();
+        seconds = (time1.getTime() - time2.getTime()) / 1000;
+        console.log("All non-Station Hexes Complete:", seconds, "seconds")
+
+        // insert the temperatures from the weather stations (overwriting some of previous)
         dataSet.forEach(d => {
             coord = d.geometry.coordinates
             if (turf.booleanPointInPolygon(coord, polygon)) {

@@ -450,7 +450,7 @@ function ring_overlap(dataSet, level) {
         d.properties.rings.forEach(r => {
             if (r.ring_level == level) {
                 same_rings.push(r);
-                temps.append(r.temperature);
+                temps.push(r.temperature);
             }
         });
 
@@ -478,10 +478,10 @@ function ring_overlap_below(dataSet, top_level, weights) {
         d.properties.rings.forEach(r => {
             if (r.ring_level == top_level) {
                 top_rings.push(r);
-                temps1.append(r.temperature);
+                temps1.push(r.temperature);
             } else if (r.ring_level == (top_level - 1)) {
                 next_rings.push(r);
-                temps2.append(r.temperature);
+                temps2.push(r.temperature);
             }
         });
 
