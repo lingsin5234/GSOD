@@ -6,6 +6,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
 from selenium.common.exceptions import TimeoutException
+import time
 
 
 # this is a weekly job that loads GHCND data for all station
@@ -28,7 +29,8 @@ class Job(DailyJob):
         # print(element.get_attribute('outerHTML'))
 
         # wait for the "done" id to be generated
-        delay = 1200  # seconds
+        time.sleep(500)
+        delay = 500
         try:
             myElem = WebDriverWait(browser, delay).until(EC.presence_of_element_located((By.ID, 'done')))
             print("Calculations and API requests completed!")
