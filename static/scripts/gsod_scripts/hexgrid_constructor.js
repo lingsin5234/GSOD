@@ -54,18 +54,18 @@ function HexGridConstructor(bbox, cellSide, options, data, levels, bot_lat, top_
     console.log("Updated Data Length:", dataSet.length);
 
     // copy over hexGridDataSet for variable use
-    hexGridDataSet = hexGrid.features;
+    hexGridDataSet = hexGrid.features; // hexGrid still changes with it!!!!!
     //console.log(hexGridDataSet.length, centroid_set.length); // SAME LENGTH
 
     // add rings
     hexGridDataSet = HexGridAddRings(centroid_set, cellSide, levels, hexGridDataSet, dataSet, bot_lat, top_lat);
 
     // find overlaps
-    //rings = HexGridOverlaps(rings);
-    //hexGridDataSet = HexGridOverlaps(hexGridDataSet, levels);
+    hexGridDataSet = HexGridOverlaps(hexGridDataSet, levels);
+    console.log("hexGrid contains...?", hexGrid);
 
     // re-calculate temps; deploy rings then stations
-    //hexGrid = HexGridDeploy(hexGrid, levels, hexGridDataSet, dataSet);
+    hexGrid = HexGridDeploy(hexGrid, levels, hexGridDataSet, dataSet);
 
     return hexGrid;
 }
@@ -76,13 +76,13 @@ function HexGridAddRings(centroid_set, cellSide, levels, hexGridDataSet, dataSet
 
     // loop thru the each station again to create the "ring" around it, for the amount of specified levels
     startTime = new Date();
-    dataSet.forEach((d, i) => {
-        station = d.properties.centroid;
-        station_temp = d.properties['TMAX'];
+    for (var cent in centroid_set) {
+        coord = centroid_set[cent];
+        hexGridDataSet[cent].properties.rings = [];
 
-        for (var cent in centroid_set) {
-            coord = centroid_set[cent];
-            hexGridDataSet[cent].properties.rings = [];
+        dataSet.forEach((d, i) => {
+            station = d.properties.centroid;
+            station_temp = d.properties['TMAX'];
 
             // run the station_rings "level" # of times
             for (var x=0; x < levels; x++) {
@@ -96,12 +96,13 @@ function HexGridAddRings(centroid_set, cellSide, levels, hexGridDataSet, dataSet
                         "temperature": station_temp - (x * 1)
                     }
                     hexGridDataSet[cent].properties.rings.push(ring_prop);
+                    console.log(cent);
                 }
             }
-            //console.log(hexGridDataSet[cent]);
-        }
+        });
+        //console.log(cent, hexGridDataSet[cent]);
         //console.log("GHCND Index #", i, "completed.")
-    });
+    }
 
     endTime = new Date();
     seconds = (endTime.getTime() - startTime.getTime()) / 1000;
@@ -131,7 +132,7 @@ function HexGridOverlaps(hexGridDataSet, levels) { // rings) {
     console.log("Check Same Level Overlap:", seconds, "seconds");
 
     // loop thru rings to work on below 1 overlap
-    startTime = new Date();
+    /*startTime = new Date();
     weights = [0.7];
 
     levelsArray.forEach(l => {
@@ -141,7 +142,7 @@ function HexGridOverlaps(hexGridDataSet, levels) { // rings) {
 
     endTime = new Date();
     seconds = (endTime.getTime() - startTime.getTime()) / 1000;
-    console.log("Check 1 Level Overlap:", seconds, "seconds");
+    console.log("Check 1 Level Overlap:", seconds, "seconds");*/
 
     console.log("hexGridDataSet", hexGridDataSet);
 
@@ -156,59 +157,56 @@ function HexGridDeploy(hexGrid, levels, hexGridDataSet, dataSet) {
     startTime = new Date();
     hexGrid.features.forEach((f, i) => {
 
-        polygon = turf.polygon([f.geometry.coordinates[0]]);
-        centroid = turf.centroid(polygon);
+        //polygon = turf.polygon([f.geometry.coordinates[0]]);
+        //centroid = turf.centroid(polygon);
 
         // copy all the rings in
-        coord = hexGridDataSet[i].properties.centroid.geometry.coordinates
-        if (turf.booleanPointInPolygon(coord, polygon)) {
+        //coord = f.properties.centroid.geometry.coordinates
+        //if (turf.booleanPointInPolygon(coord, polygon)) {
 
             // find the highest level ring
             //console.log(("rings" in hexGridDataSet[i].properties));
-            if ("rings" in hexGridDataSet[i].properties) {
-                found = false
-                l = levels
-                while (!found) {
-                    hexGridDataSet[i].properties.rings.forEach(r => {
-                        if (r.ring_level == l+1) {
-                            get_temp = r.temperature;
-                            found = true
-                            //console.log(get_temp, l+1);
-                        }
-                    });
-                    l--;
-                    if (l <= 0) {
+        //console.log(f.properties.rings.length > 0);
+        if (f.properties.rings.length > 0) {
+            found = false
+            l = 0
+            while (!found) {
+                f.properties.rings.forEach(r => {
+                    if (r.ring_level == l+1) {
+                        get_temp = r.temperature;
                         found = true
-                        get_temp = -120  // to get -1 for temperature
+                        //console.log(get_temp, l+1);
                     }
+                });
+                if (i == 25179) {
+                    console.log(i, l, levels, get_temp);
                 }
-
-                f.properties = {
-                    temperature: (get_temp + 40)/80,
-                    centroid: centroid
-                };
-                //console.log(get_temp);
-
-            } else {
-                /*
-                //don't change the temperature
-                f.properties = {
-                    temperature: (hexGridDataSet[i].properties.temperature + 40)/80,
-                    centroid: centroid
-                };
-                */
+                l++;
+                if (l >= levels) {
+                    found = true
+                    get_temp = -120  // to get -1 for temperature
+                }
             }
-        }
+
+            f.properties.temperature = (get_temp + 40)/80;
+            console.log(f.properties.temperature);
+
+        } /*else {
+            //don't change the temperature
+            f.properties = {
+                temperature: (hexGridDataSet[i].properties.temperature + 40)/80,
+                centroid: centroid
+            };
+
+        }*/
+        //}
 
         // insert the temperatures from the weather stations (overwriting some of previous)
         dataSet.forEach(d => {
             coord = d.geometry.coordinates
             if (turf.booleanPointInPolygon(coord, polygon)) {
                 //console.log(coord);
-                f.properties = {
-                    temperature: (d.properties['TMAX'] + 40)/80,
-                    centroid: centroid
-                };
+                f.properties.temperature = (d.properties['TMAX'] + 40)/80;
             }
         });
     });
