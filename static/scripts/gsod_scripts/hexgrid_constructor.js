@@ -58,7 +58,7 @@ function HexGridConstructor(bbox, cellSide, options, data, levels) {
 
     // find overlaps
     //rings = HexGridOverlaps(rings);
-    hexGrid = HexGridOverlaps(hexGrid, levels);
+    dataSet = HexGridOverlaps(dataSet, levels);
 
     // re-calculate temps; deploy rings then stations
     hexGrid = HexGridDeploy(hexGrid, rings, dataSet);
@@ -114,15 +114,15 @@ function HexGridAddRings(hexGrid, polygon_set, centroid_set, cellSide, levels, d
 
 
 // find overlaps on same ring level and one below
-function HexGridOverlaps(hexGrid, levels) { // rings) {
+function HexGridOverlaps(dataSet, levels) { // rings) {
 
     // loop thru each level and run it thru the ring overlap
     levelsArray = [...Array(levels).keys()];
     console.log(levelsArray);
     startTime = new Date();
     levelsArray.forEach(l => {
-        hexGrid = ring_overlap(hexGrid, l+1);
-        console.log("Same Level Ring", l, "checked");
+        hexGrid = ring_overlap(dataSet, l+1);
+        console.log("Same Level Ring", l+1, "checked");
     });
 
     endTime = new Date();
@@ -134,15 +134,15 @@ function HexGridOverlaps(hexGrid, levels) { // rings) {
     weights = [0.7];
 
     levelsArray.forEach(l => {
-       hexGrid = ring_overlap_below(hexGrid, l, weights)
-       console.log("One Level Below Ring", l, "checked");
+       hexGrid = ring_overlap_below(dataSet, l+1, weights)
+       console.log("One Level Below Ring", l+1, "checked");
     });
 
     endTime = new Date();
     seconds = (endTime.getTime() - startTime.getTime()) / 1000;
     console.log("Check 1 Level Overlap:", seconds, "seconds");
 
-    return hexGrid;
+    return dataSet;
 
     /*
     for (var r=0; r < rings.length - 1; r++) {

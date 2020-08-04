@@ -440,9 +440,9 @@ function convert_distance(distance, lat, middle_lat) {
 
 
 // check rings on the same level that overlap
-function ring_overlap(hexGrid, level) {
+function ring_overlap(dataSet, level) {
 
-    hexGrid.forEach(d => {
+    dataSet.forEach(d => {
 
         // for each hex, find how many same ring level entries
         same_rings = [];
@@ -460,15 +460,15 @@ function ring_overlap(hexGrid, level) {
         }
     });
 
-    return hexGrid;
+    return dataSet;
 }
 
 
 // check rings one level below for overlap
-function ring_overlap_below(hexGrid, top_level, weights) {
+function ring_overlap_below(dataSet, top_level, weights) {
 
     // for each hex, check for ring1, then ring2
-    hexGrid.forEach(d => {
+    dataSet.forEach(d => {
 
         // for each hex, find top_level and 1 level below
         top_rings = [];
@@ -494,7 +494,7 @@ function ring_overlap_below(hexGrid, top_level, weights) {
         // "neither" case, will be skipped.
     });
 
-    return hexGrid;
+    return dataSet;
 
     /*
     collector1 = [];  // collects all unique coordinates (centroids)
