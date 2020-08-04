@@ -35,10 +35,11 @@ MapUSA.prototype.wrangleData = function () {
 
     // get updated variables
     //vis.yVariable = $('#data-type-select').val();
-    //vis.selDate = $("#dateLabel").text();
+    vis.newDate = $("#dateLabel").text();
 
     if (hexGrid != null) {
         console.log(hexGrid);
+
         vis.hexGrid = hexGrid;
         vis.updateVis();
     }
@@ -110,6 +111,13 @@ MapUSA.prototype.updateVis = function () {
                     ]
             }
         });
+
+        document.getElementById('dateLabel')
+            .addEventListener('change', function() {
+                vis.hexGrid = data;
+                vis.map.getSource('hexagon-draw').setData(vis.hexGrid);
+                console.log("This Happened")
+            })
 
         /*document.getElementById('data-type-select')
             .addEventListener('change', function() {

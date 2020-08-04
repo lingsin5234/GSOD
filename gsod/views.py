@@ -409,7 +409,7 @@ def test_api(request):
 def new_map(request):
 
     # go thru dates and populate the json structure
-    start_date = dte.date(2020, 7, 17)
+    start_date = dte.date(2020, 7, 16)
     end_date = dte.date(2020, 7, 18)  # date + 1 to end on 16th
 
     # print(dte.date.strftime(start_date, '%Y-%m-%d'))

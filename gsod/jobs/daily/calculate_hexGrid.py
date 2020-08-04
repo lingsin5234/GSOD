@@ -22,7 +22,7 @@ class Job(DailyJob):
 
         # start chrome browser
         browser = webdriver.Chrome(chrome_options=options)
-        browser.get('http://127.0.0.1:8000/calculate-hexGrid/2020-07-17/')
+        browser.get('http://127.0.0.1:8000/calculate-hexGrid/2020-07-16/')
 
         # check what HTML there is
         # element = browser.find_element_by_css_selector('#my_title')

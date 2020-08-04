@@ -58,7 +58,11 @@
             step: (24 * 60 * 60 * 1000),  // milliseconds in a day
             slide: function(event, ui){
                 $("#dateLabel").text(formatTime(new Date(ui.value)));
-                //newMap.wrangleData();
+                get_json_data("str1", function(data) {
+                    hexGrid = data;
+                    mapUSA.wrangleData();
+                });
+
             }
         });
 
