@@ -1,10 +1,26 @@
 # data warehouse database schema set up is done here
 # setting up the sqlite database using sqlalchemy
 import sqlalchemy as sa
-from sqlalchemy import Table, Column, Integer, String, Float, Date, MetaData, ForeignKey, UniqueConstraint
+from sqlalchemy import Table, Column, Integer, String, Boolean, Date, MetaData, ForeignKey, UniqueConstraint
 
 metadata = MetaData()
 
+# jobs
+jobs_dim = Table('jobs_dim', metadata,
+                 Column('Id', Integer, primary_key=True),
+                 Column('job_name', String),
+                 UniqueConstraint('job_name', name='jobs_u'))
+
+# job runs
+job_runs = Table('job_runs', metadata,
+                 Column('Id', Integer, primary_key=True),
+                 Column('job_id', ForeignKey('jobs_dim.Id')),
+                 Column('job_variable', String),
+                 Column('run_date', Date),
+                 Column('status', Boolean))
+
+# -- below may be obsolete -- #
+'''
 # location dim table
 locations_dim = Table('locations_dim', metadata,
                       Column('Id', Integer, primary_key=True),
@@ -44,6 +60,8 @@ stations = Table('stations', metadata,
                  Column('min_date', Date),
                  Column('max_date', Date),
                  Column('data_coverage', Float))
+
+'''
 
 # setup engine and database
 engine = sa.create_engine('sqlite:///gsod_dw.db', echo=True)
