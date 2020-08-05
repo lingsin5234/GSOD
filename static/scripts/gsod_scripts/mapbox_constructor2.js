@@ -39,7 +39,6 @@ MapUSA.prototype.wrangleData = function () {
 
     if (hexGrid != null) {
         console.log(hexGrid);
-
         vis.hexGrid = hexGrid;
         vis.updateVis();
     }
@@ -83,7 +82,7 @@ MapUSA.prototype.updateVis = function () {
         });
 
         vis.map.addLayer({
-            id: 'hexagons-draw',
+            id: 'hexagons-layer',
             type: 'fill',
             source: 'hexagons-draw',
             paint: {
@@ -112,21 +111,20 @@ MapUSA.prototype.updateVis = function () {
             }
         });
 
-        document.getElementById('dateLabel')
-            .addEventListener('change', function() {
-                vis.hexGrid = data;
-                vis.map.getSource('hexagon-draw').setData(vis.hexGrid);
-                console.log("This Happened")
-            })
-
         /*document.getElementById('data-type-select')
             .addEventListener('change', function() {
                 vis.map.getSource('points').setData(updateData(vis.newData));
-            })
+            })*/
         document.getElementById('date-slider')
             .addEventListener('mouseup', function() {
                 //console.log('call change from date slider.');
-                vis.map.getSource('points').setData(updateData(vis.newData));
-            })*/
+                vis.newDate = $("#dateLabel").text();
+                console.log("This Happened", vis.newDate);
+
+                get_json_data(vis.newDate, function(data) {
+                    console.log("Inside...", data);
+                    vis.map.getSource('hexagons-draw').setData(data);
+                });
+            })
     });
 }
