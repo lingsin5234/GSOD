@@ -65,6 +65,8 @@ class Job(WeeklyJob):
         # once all complete, write to job_run
         if failed == 0:
             dbt.log_gsod_job_run(job_id, job_var, start_time, 'COMPLETED')
+        elif failed <= 100:
+            dbt.log_gsod_job_run(job_id, job_var, start_time, 'SOME FAILURES - CHECK LOGS')
         else:
             dbt.log_gsod_job_run(job_id, job_var, start_time, 'FAILED')
 
