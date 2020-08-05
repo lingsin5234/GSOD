@@ -2,6 +2,7 @@ from django.shortcuts import render
 from djangoapps.utils import get_this_template
 import os
 import json
+import re
 from .models import Station, GHCND
 from django.core.serializers.json import DjangoJSONEncoder
 from .functions import test_run, test_yeg, run_add_stations, date_range
@@ -37,6 +38,7 @@ class WeatherStationsAPI(views.APIView):
         get_date = request.GET['dataDate']
 
         st_json = []
+        idx = 0
         for s in stations:
             if s.us_state == 'Alaska' or s.us_state == 'Hawaii':
                 continue
@@ -62,18 +64,24 @@ class WeatherStationsAPI(views.APIView):
                     ghcnd = GHCND.objects.get(station__id=s.id, date=get_date, datatype=d)
                 except Exception as e:
                     # print(s.id, 'no data found for', d)
-                    new_dict['properties'][d] = None
+                    continue
+                    # new_dict['properties'][d] = None
                 else:
                     new_dict['properties'][d] = ghcnd.value / 10
 
-            # add dict to list
-            st_json.append(new_dict)
-            # print(st_json)
+                    # add dict to list
+                    st_json.append(new_dict)
+                    # print(st_json)
 
-            data_json.append({
-                'key': get_date,
-                'data': st_json
-            })
+            if len(st_json) > 0:
+                data_json.append({
+                    'key': get_date,
+                    'data': st_json
+                })
+            # idx += 1
+            # if idx > 300:
+            #     break
+        print(request.GET['dataDate'], len(data_json))
 
         return Response(data_json)
 
@@ -401,16 +409,16 @@ def test_api(request):
 
 def new_map(request):
 
-    # go thru dates and populate the json structure
-    start_date = dte.date(2020, 5, 9)
-    end_date = dte.date(2020, 5, 16)  # date + 1 to end on 16th
-
-    # print(dte.date.strftime(start_date, '%Y-%m-%d'))
+    # grab start and end date based on the gsod/posts folder
+    files = [f for f in os.listdir('gsod/posts') if bool(re.search('json', f))]
+    start_date = files[0].replace('hexGrid_', '').replace('.json', '')
+    end_date = files[len(files)-1].replace('hexGrid_', '').replace('.json', '')
+    # print(start_date, end_date)
 
     context = {
         'mapbox_access_token': os.environ.get('mapbox_access_token'),
-        'start_date': dte.date.strftime(start_date, '%Y-%m-%d'),
-        'end_date': dte.date.strftime(end_date, '%Y-%m-%d')
+        'start_date': start_date,
+        'end_date': end_date
     }
 
     return render(request, 'pages/new_map.html', context)

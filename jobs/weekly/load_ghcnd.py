@@ -9,7 +9,7 @@ import time as t
 
 # this is a weekly job that loads GHCND data for all station
 class Job(WeeklyJob):
-    help = "Extract GHCND data for particular station"
+    help = "Extract GHCND data for every station"
 
     def execute(self):
 
@@ -21,7 +21,8 @@ class Job(WeeklyJob):
             station_id = str(station.id)
 
             # run a get for the 7 days of two weeks (just in case it has not be updated)
-            start_date = (dt.datetime.now() - dt.timedelta(days=21)).date()
+            # start_date = (dt.datetime.now() - dt.timedelta(days=21)).date()
+            start_date = (dt.date(2020, 1, 1))
             end_date = (dt.datetime.now() - dt.timedelta(days=14)).date()
 
             try:

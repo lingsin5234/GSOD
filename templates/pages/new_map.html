@@ -58,7 +58,10 @@
             step: (24 * 60 * 60 * 1000),  // milliseconds in a day
             slide: function(event, ui){
                 $("#dateLabel").text(formatTime(new Date(ui.value)));
-                //newMap.wrangleData();
+                /*get_json_data("str1", function(data) {
+                    hexGrid = data;
+                    //mapUSA.wrangleData();
+                });*/
             }
         });
 
@@ -66,7 +69,7 @@
         $(document).ready(function() {
 
             // make the get request for the JSON file
-            get_json_data("str1", function(data) {
+            get_json_data(dataDate, function(data) {
                 hexGrid = data;
 
                 // instantiate MapUSA
@@ -75,7 +78,7 @@
         });
 
         // make GET request to retrieve all stations
-        function get_json_data(var1, callback) {
+        function get_json_data(dataDate, callback) {
 
             getURL = "/api/get_hexgrid";
 

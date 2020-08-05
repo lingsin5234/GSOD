@@ -3,6 +3,8 @@
         <h1>Calculate HexGrid with API</h1>
     </div><br>
 
+    <div id="calculate"></div>
+
     <!-- node.js library: turf.js -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/Turf.js/5.1.6/turf.min.js"></script>
     {% load static %}
@@ -13,38 +15,42 @@
         // variable declarations
         var hexGrid;
         var dataDate = '{{ date_of_data }}';
-        var bot_lat = 21;
+        var bot_lat = 24;
         var top_lat = 50;
-        var bbox = [-176, 52, -128, 72];                // alaska
-        // var bbox = [-126, bot_lat, -68, top_lat];    // USA
-        var cellSide = 30;
+        // var bbox = [-176, 52, -128, 72];                // alaska
+        var bbox = [-126, bot_lat, -66.5, top_lat];    // USA
+        var cellSide = 15;
         var options = {};
-        var levels = 4;
+        var levels = 8;
 
         // when document is ready, make API request
-        $(document).ready(function() {
+        //$(document).ready(function() {
+        function api_request() {
             console.log(dataDate);
 
             // make the get request
             get_stations("str1", function(data) {
                 console.log("API OUTPUT:\n", data[0].data);
+                console.log("DATA LENGTH:\n", data[0].data.length);
 
-                bbox = [-126, bot_lat, -68, top_lat];    // USA
-
-                startTime = new Date();
+                firstStartTime = new Date();
 
                 // run it through the HexGridConstructor
-                hexGrid = HexGridConstructor(bbox, cellSide, options, data[0].data, levels);
+                hexGrid = HexGridConstructor(bbox, cellSide, options, data[0].data, levels, bot_lat, top_lat);
 
                 endTime = new Date();
+
+                seconds = (endTime.getTime() - firstStartTime.getTime()) / 1000;
+                console.log("All Completed.\nHexGridConstructor Time Elapsed:", seconds);
 
                 // send this as POST request to save in backend
                 post_data(hexGrid);
 
-                seconds = (endTime.getTime() - startTime.getTime()) / 1000;
-                console.log("All Completed.\nHexGridConstructor Time Elapsed:", seconds);
+                text = document.createElement("p");
+                text.setAttribute("id", "done");
+                document.getElementById("calculate").appendChild(text);
             });
-        });
+        }
 
         // make GET request to retrieve all stations
         function get_stations(var1, callback) {
@@ -56,7 +62,11 @@
                 data: {'dataDate': dataDate},
                 success: function(data) {
                     // run callback to return this data
+                    console.log("GET OUTPUT:\n", data[0].data);
                     callback(data);
+                },
+                error: function(XMLHttpRequest, textStatus, errorThrown) {
+                    alert("Status: " + textStatus); alert("Error: " + errorThrown);
                 }
             });
         }
@@ -64,7 +74,7 @@
         // POST request to push the hexGrid to backend
         function post_data(data) {
             postURL = "/api/post_hexgrid";
-
+            console.log(data.features.length);
             $.ajax({
                 type: "POST",
                 url: postURL,
@@ -80,10 +90,14 @@
                     else {
                         console.log("POST FAILED!");
                     }
+                },
+                error: function(XMLHttpRequest, textStatus, errorThrown) {
+                    alert("Status: " + textStatus); alert("Error: " + errorThrown);
                 }
             });
         }
 
+        api_request();
     </script>
 
 {% include 'partials/footer_noaa.html' %}

@@ -123,7 +123,10 @@ def add_airports(states, airport_lst):
         usr_input = input("Type number(s) to write to model, separate by space for more than one.\n")
         if usr_input == 'exit':
             return False
-        selected = [int(n)-1 for n in usr_input.split(' ') if n != '']
+        if usr_input == 'all':
+            selected = list(range(0, len(lst_this_state)))
+        else:
+            selected = [int(n)-1 for n in usr_input.split(' ') if n != '']
         if len(selected) > 0:
             print("SELECTED: ", selected, ig(*selected)(lst_this_state))
             input("Hit Enter to add.")
@@ -174,7 +177,10 @@ def add_weather_stations(states, weather_lst):
         usr_input = input("Type number(s) to write to model, separate by space for more than one.\n")
         if usr_input == 'exit':
             return False
-        selected = [int(n)-1 for n in usr_input.split(' ') if n != '']
+        if usr_input == 'all':
+            selected = list(range(0, len(lst_this_state)))
+        else:
+            selected = [int(n)-1 for n in usr_input.split(' ') if n != '']
         if len(selected) > 0:
             print("SELECTED: ", ig(*selected)(lst_this_state))
             input("Hit Enter to add.")
