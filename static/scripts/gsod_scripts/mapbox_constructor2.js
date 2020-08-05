@@ -49,32 +49,6 @@ MapUSA.prototype.updateVis = function () {
     var vis = this;
 
     vis.map.on('load', function() {
-        /*vis.map.addSource('points', {
-            type: 'geojson',
-            data: {
-                type: 'FeatureCollection',
-                features: vis.newData
-            }
-        });
-        vis.map.addLayer({
-            id: 'points',
-            type: 'symbol',
-            source: 'points',
-            layout: {
-                // get the icon name from the source's "icon" property
-                // concatenate the name to get an icon from the style's sprite sheet
-                'icon-image': ['concat', ['get', 'icon'], '-15'],
-                // get the title name from the source's "title" property
-                'text-field': ['get', 'title'],
-                'text-font': ['Open Sans Semibold', 'Arial Unicode MS Bold'],
-                'text-offset': [0, 0],
-                'text-anchor': 'top'
-            },
-            paint: {
-                'text-color': 'blue'
-            }
-        });*/
-        //console.log(vis.map.getSource('points'));
 
         vis.map.addSource('hexagons-draw', {
             type: 'geojson',
@@ -119,10 +93,11 @@ MapUSA.prototype.updateVis = function () {
             .addEventListener('mouseup', function() {
                 //console.log('call change from date slider.');
                 vis.newDate = $("#dateLabel").text();
-                console.log("This Happened", vis.newDate);
+                //console.log("This Happened", vis.newDate);
 
+                // GET REQUEST for the new date; then update the map layer
                 get_json_data(vis.newDate, function(data) {
-                    console.log("Inside...", data);
+                    //console.log("Inside...", data);
                     vis.map.getSource('hexagons-draw').setData(data);
                 });
             })

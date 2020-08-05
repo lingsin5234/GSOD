@@ -2,6 +2,7 @@ from django.shortcuts import render
 from djangoapps.utils import get_this_template
 import os
 import json
+import re
 from .models import Station, GHCND
 from django.core.serializers.json import DjangoJSONEncoder
 from .functions import test_run, test_yeg, run_add_stations, date_range
@@ -408,16 +409,16 @@ def test_api(request):
 
 def new_map(request):
 
-    # go thru dates and populate the json structure
-    start_date = dte.date(2020, 7, 16)
-    end_date = dte.date(2020, 7, 18)  # date + 1 to end on 16th
-
-    # print(dte.date.strftime(start_date, '%Y-%m-%d'))
+    # grab start and end date based on the gsod/posts folder
+    files = [f for f in os.listdir('gsod/posts') if bool(re.search('json', f))]
+    start_date = files[0].replace('hexGrid_', '').replace('.json', '')
+    end_date = files[len(files)-1].replace('hexGrid_', '').replace('.json', '')
+    # print(start_date, end_date)
 
     context = {
         'mapbox_access_token': os.environ.get('mapbox_access_token'),
-        'start_date': dte.date.strftime(start_date, '%Y-%m-%d'),
-        'end_date': dte.date.strftime(end_date, '%Y-%m-%d')
+        'start_date': start_date,
+        'end_date': end_date
     }
 
     return render(request, 'pages/new_map.html', context)
