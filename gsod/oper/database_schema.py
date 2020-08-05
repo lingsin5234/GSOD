@@ -1,7 +1,7 @@
 # data warehouse database schema set up is done here
 # setting up the sqlite database using sqlalchemy
 import sqlalchemy as sa
-from sqlalchemy import Table, Column, Integer, String, Boolean, Date, MetaData, ForeignKey, UniqueConstraint
+from sqlalchemy import Table, Column, Integer, String, TIMESTAMP, MetaData, ForeignKey, UniqueConstraint
 
 metadata = MetaData()
 
@@ -16,8 +16,9 @@ job_runs = Table('job_runs', metadata,
                  Column('Id', Integer, primary_key=True),
                  Column('job_id', ForeignKey('jobs_dim.Id')),
                  Column('job_variable', String),
-                 Column('run_date', Date),
-                 Column('status', Boolean))
+                 Column('run_time', TIMESTAMP),
+                 Column('end_time', TIMESTAMP),
+                 Column('status', String))
 
 # -- below may be obsolete -- #
 '''

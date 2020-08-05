@@ -1,5 +1,6 @@
 from django_extensions.management.jobs import WeeklyJob
 from gsod.oper.ghcnd_extract import get_request
+from gsod.oper import database_transactions as dbt
 from gsod.models import Station, GHCND
 import datetime as dt
 import json
@@ -13,6 +14,7 @@ class Job(WeeklyJob):
 
     def execute(self):
 
+        start_time = dt.datetime.now()
         stations = Station.objects.all()
 
         for station in stations:
@@ -25,11 +27,17 @@ class Job(WeeklyJob):
             start_date = (dt.date(2020, 7, 20))  # 7-19 last run date
             end_date = (dt.datetime.now() - dt.timedelta(days=14)).date()
 
+            # for the job_runs database
+            query = "SELECT Id FROM jobs_dim WHERE job_name='load_ghcnd_migrate'"
+            job_id = [n for (n,) in dbt.gsod_db_reader(query)][0]
+            job_var = str(start_date) + ' - ' + str(end_date)
+
             try:
                 response = json.loads(get_request('GHCND', 'station', [station_id],
                                                   None, None, str(start_date), str(end_date), 0))
             except Exception as e:
                 print('Error Response:', station_id, e)
+                dbt.log_gsod_job_run(job_id, job_var, start_time, 'FAILED')
             else:
                 num_results = response['metadata']['resultset']['count']
                 results = response['results']
@@ -49,6 +57,9 @@ class Job(WeeklyJob):
 
                         # write to database
                         write_to_db(results, station)
+
+                # once all complete, write to job_run
+                dbt.log_gsod_job_run(job_id, job_var, start_time, 'COMPLETED')
 
         return True
 

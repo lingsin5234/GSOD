@@ -1,13 +1,13 @@
 # read and write to gsod_dw database
 import sqlalchemy as sa
 import datetime as dte
+from gsod.oper import database_schema as dbs
 
 
 # read from database
 def gsod_db_reader(query):
 
-    engine = sa.create_engine('sqlite:///gsod_dw.db', echo=True)
-    c = engine.connect()
+    c = dbs.engine.connect()
     try:
         results = c.execute(query).fetchall()
     except Exception as e:
@@ -21,8 +21,7 @@ def gsod_db_reader(query):
 # write to database
 def gsod_db_writer(query):
 
-    engine = sa.create_engine('sqlite:///gsod_dw.db', echo=True)
-    c = engine.connect()
+    c = dbs.engine.connect()
     try:
         results = c.execute(query)
     except Exception as e:
@@ -36,9 +35,7 @@ def gsod_db_writer(query):
 # add job
 def add_gsod_job(job_name):
 
-    engine = sa.create_engine('sqlite:///gsod_dw.db', echo=True)
-    c = engine.connect()
-
+    c = dbs.engine.connect()
     query = 'INSERT INTO jobs_dim (job_name) VALUES(?);'
 
     try:
@@ -52,16 +49,14 @@ def add_gsod_job(job_name):
 
 
 # log a job run
-def log_gsod_job_run(job_id, job_var, status):
+def log_gsod_job_run(job_id, job_var, start_time, status):
 
-    engine = sa.create_engine('sqlite:///gsod_dw.db', echo=True)
-    c = engine.connect()
-
-    run_date = dte.datetime.now()
-    query = 'INSERT INTO job_runs (job_id, job_variable, run_date, status) VALUES(?,?,?,?);'
+    c = dbs.engine.connect()
+    curr_time = dte.datetime.now()
+    query = 'INSERT INTO job_runs (job_id, job_variable, run_time, end_time, status) VALUES(?,?,?,?,?);'
 
     try:
-        c.execute(query, job_id, job_var, run_date, status)
+        c.execute(query, job_id, job_var, start_time, curr_time, status)
     except Exception as e:
         print("Something went wrong with inserting job run", e)
         c.close()

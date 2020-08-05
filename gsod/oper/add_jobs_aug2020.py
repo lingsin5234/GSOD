@@ -18,3 +18,8 @@ print('Add calculate_hexGrid:', result)
 query = 'SELECT * FROM jobs_dim'
 result = dbt.gsod_db_reader(query)
 print(result)
+
+# second check
+query = "SELECT Id FROM jobs_dim WHERE job_name='load_ghcnd_migrate'"
+job_id = [n for (n, ) in dbt.gsod_db_reader(query)][0]
+print(job_id)
