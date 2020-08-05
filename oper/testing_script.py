@@ -86,11 +86,20 @@ query = "SELECT * FROM stations_dim WHERE station_id='COOP:071200'"
 results = dbt.gsod_db_reader(query)
 print(results)
 '''
-# '''
+'''
 # run a request for a particular station
 param = 'datasetid=GHCND&stationid=GHCND:USW00024089&startdate=2020-05-09&enddate=2020-05-16&limit=200'
 get_url = 'https://www.ncdc.noaa.gov/cdo-web/api/v2/data?' + param
 header = 'KbJOBjuzWvVPHMCwEoGxOCQJOCMTjHAb'
 x = requests.get(get_url, headers={'token': header})
 print(x.text)
+'''
+
+# '''
+# testing add job
+result = dbt.add_gsod_job('load_ghcnd')
+print(result)
+query = 'SELECT * FROM jobs_dim'
+results = dbt.gsod_db_reader(query)
+print(results)
 # '''

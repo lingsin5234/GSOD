@@ -18,11 +18,12 @@ class Job(WeeklyJob):
         stations = Station.objects.all()
 
         # run a get for the 7 days of two weeks (just in case it has not be updated)
-        start_date = (dt.datetime.now() - dt.timedelta(days=21)).date()
+        # start_date = (dt.datetime.now() - dt.timedelta(days=21)).date()
+        start_date = (dt.date(2020, 7, 20))  # 7-19 last run date
         end_date = (dt.datetime.now() - dt.timedelta(days=14)).date()
 
         # for the job_runs database
-        query = "SELECT Id FROM jobs_dim WHERE job_name='load_ghcnd'"
+        query = "SELECT Id FROM jobs_dim WHERE job_name='load_ghcnd_migrate'"
         job_id = [n for (n,) in dbt.gsod_db_reader(query)][0]
         job_var = str(start_date) + ' - ' + str(end_date)
 
