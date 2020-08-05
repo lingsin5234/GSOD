@@ -1,11 +1,11 @@
 # CALCULATE THE HEX GRID
 from django_extensions.management.jobs import DailyJob
-# from requests_html import HTMLSession
 from selenium import webdriver
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
 from selenium.common.exceptions import TimeoutException
+from gsod.oper import database_transactions as dbt
 import time
 import datetime as dt
 import djangoapps.settings as st
@@ -17,7 +17,11 @@ class Job(DailyJob):
 
     def execute(self):
 
-        # request
+        # for the job_runs database
+        start_time = dt.datetime.now()
+        query = "SELECT Id FROM jobs_dim WHERE job_name='calculate_hexGrid_migrate'"
+        job_id = [n for (n,) in dbt.gsod_db_reader(query)][0]
+
         # prepare the option for the chrome driver
         options = webdriver.ChromeOptions()
         options.add_argument('headless')
@@ -31,10 +35,12 @@ class Job(DailyJob):
         for this_date in daterange(start_date, end_date):
 
             if st.DEBUG:
-                URL = 'http://127.0.0.1:8000/calculate-hexGrid/' + this_date + '/'
+                URL = 'http://127.0.0.1:8000/calculate-hexGrid/' + str(this_date) + '/'
+                if this_date == '2020-01-05':
+                    break
             else:
                 # PRODUCTION
-                URL = 'https://portfolio.sinto-ling.ca/gsod/calculate-hexGrid/' + this_date + '/'
+                URL = 'https://portfolio.sinto-ling.ca/gsod/calculate-hexGrid/' + str(this_date) + '/'
 
             browser.get(URL)
 
@@ -47,9 +53,11 @@ class Job(DailyJob):
                 print(myElem.get_attribute('outerHTML'))
             except TimeoutException:
                 print("Loading took too much time!", this_date)
-
-            # after each completion, take a 10 minute break
-            time.sleep(36000)
+                dbt.log_gsod_job_run(job_id, str(this_date), start_time, 'FAILED')
+            else:
+                # after each completion, take a 10 minute break
+                dbt.log_gsod_job_run(job_id, str(this_date), start_time, 'COMPLETED')
+                time.sleep(36000)
 
         return True
 
