@@ -13,7 +13,7 @@ import djangoapps.settings as st
 
 # this is a weekly job that loads GHCND data for all station
 class Job(DailyJob):
-    help = "Calculate the Hex Grid based on the data for particular day"
+    help = "Calculate the Hex Grid based on the data for particular day -- migration mode"
 
     def execute(self):
 
@@ -36,7 +36,7 @@ class Job(DailyJob):
 
             if st.DEBUG:
                 URL = 'http://127.0.0.1:8000/calculate-hexGrid/' + str(this_date) + '/'
-                if this_date == '2020-01-05':
+                if str(this_date) == '2020-01-10':
                     break
             else:
                 # PRODUCTION
@@ -57,7 +57,7 @@ class Job(DailyJob):
             else:
                 # after each completion, take a 10 minute break
                 dbt.log_gsod_job_run(job_id, str(this_date), start_time, 'COMPLETED')
-                time.sleep(36000)
+                time.sleep(600)
 
         return True
 

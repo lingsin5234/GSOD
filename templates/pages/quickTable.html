@@ -3,26 +3,28 @@
         <h1>QUICK TABLE VIEW</h1>
     </div><br>
 
+    <!-- Data Tables -->
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/dt/dt-1.10.21/datatables.min.css"/>
+    <script type="text/javascript" src="https://cdn.datatables.net/v/dt/dt-1.10.21/datatables.min.js"></script>
+
     <div class="d-flex justify-content-center">
-        <table class="table">
-            <thead>
-                <tr>
-                    {% for h in header %}
-                    <th>{{ h }}</th>
-                    {% endfor %}
-                </tr>
-            </thead>
-            <tbody>
-                {% for r in rows %}
-                <tr>
-                    <td>{{ r.station }}</td>
-                    <td>{{ r.date }}</td>
-                    <td>{{ r.datatype }}</td>
-                    <td>{{ r.attributes }}</td>
-                    <td>{{ r.value }}</td>
-                </tr>
+        <table id="table_output" class="display" width="100%">
+            <thead><tr>
+                {% for head in header %}
+                    <th>{{ head }}</th>
                 {% endfor %}
-            </tbody>
+            </tr></thead>
         </table>
     </div>
+
+    <script>
+        data = {{ body | safe }};
+        header = {{ header | safe }};
+        $(document).ready(function() {
+            $('#table_output').DataTable({
+                data: data,
+                "paging": false
+            });
+        });
+    </script>
 {% include 'partials/footer_noaa.html' %}
