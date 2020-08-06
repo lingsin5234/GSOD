@@ -15,7 +15,7 @@ class Job(DailyJob):
     def execute(self):
 
         start_time = dt.datetime.now()
-        station_id = 'GHCND:USW00024057'
+        station_id = 'GHCND:USW00094054'
         station = Station.objects.get(id=station_id)
 
         # run a get for the 7 days of two weeks (just in case it has not be updated)
