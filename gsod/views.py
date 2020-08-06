@@ -4,13 +4,14 @@ import os
 import json
 import re
 from .models import Station, GHCND
-from django.core.serializers.json import DjangoJSONEncoder
-from .functions import test_run, test_yeg, run_add_stations, date_range
-from .mapping import basic_map, basic_data_map
+# from django.core.serializers.json import DjangoJSONEncoder
+# from .functions import test_run, test_yeg, run_add_stations, date_range
+# from .mapping import basic_map, basic_data_map
 # from .forms import StationDatesForm -- defunct
 # from django.db.models import Max, Min
-from django.http import HttpResponse
-from matplotlib.backends.backend_agg import FigureCanvasAgg as FigureCanvas
+# from django.http import HttpResponse
+# from matplotlib.backends.backend_agg import FigureCanvasAgg as FigureCanvas
+from gsod.serializers import GHCND_Serializer
 import datetime as dte
 
 '''
@@ -156,7 +157,7 @@ def project_markdown(request):
 def list_stations(request):
 
     # x = test_run()
-    run_add_stations()
+    # run_add_stations()
 
     stations = Station.objects.all()
 
@@ -171,12 +172,16 @@ def list_stations(request):
 def station_data_table(request, station_id):
 
     data = GHCND.objects.filter(station=station_id).values()
-    header = ['station', 'date', 'datatype', 'attribute', 'value']
-    print(data)
+    header = ['station_id', 'date', 'datatype', 'attribute', 'value']
+    data_list = GHCND_Serializer(data, many=True).data
+    json_list = json.loads(json.dumps(data_list))
+    body = [list(jl.values()) for jl in json_list]
+    print(body)
+    print(header)
 
     context = {
         'header': header,
-        'body': data
+        'body': body
     }
 
     return render(request, 'pages/quickTable.html', context)
