@@ -10,7 +10,7 @@ import time as t
 
 # this is a weekly job that loads GHCND data for all station
 class Job(WeeklyJob):
-    help = "Extract GHCND data for every station"
+    help = "Extract GHCND data for every station -- migration mode"
 
     def execute(self):
 

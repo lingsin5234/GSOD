@@ -23,13 +23,9 @@ urlpatterns = [
     re_path(r'^$', gsod_vw.homepage),
     re_path(r'^project/', gsod_vw.project_markdown),
     re_path(r'^stations/', gsod_vw.list_stations),
-    re_path(r'^usa-map/', gsod_vw.map_test),
-    re_path(r'^mapbox', gsod_vw.map_box_test, name='mapbox'),
     re_path(r'^table_view/station/(?P<station_id>[:A-Z0-9]+)/$', gsod_vw.station_data_table),
-    re_path(r'^contour/', gsod_vw.contour_test),
-    re_path(r'^2d-test/', gsod_vw.test_2dGradient),
-    re_path(r'^hexagon/', gsod_vw.hexagon_test),
-    re_path(r'^test-api/', gsod_vw.test_api, name='test-api'),
+
+    # Temperature Layer GHCND Data with API
     re_path(r'api/get_all_stations', gsod_vw.WeatherStationsAPI.as_view(), name='api-get-all-stations'),
     re_path(r'api/post_hexgrid', gsod_vw.HexGridAPI.as_view(), name='api-post-hexgrid'),
     re_path(r'api/get_hexgrid', gsod_vw.HexGridAPI.as_view(), name='api-get-hexgrid'),

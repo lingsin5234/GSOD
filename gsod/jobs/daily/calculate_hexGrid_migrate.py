@@ -13,7 +13,7 @@ import djangoapps.settings as st
 
 # this is a weekly job that loads GHCND data for all station
 class Job(DailyJob):
-    help = "Calculate the Hex Grid based on the data for particular day"
+    help = "Calculate the Hex Grid based on the data for particular day -- migration mode"
 
     def execute(self):
 
