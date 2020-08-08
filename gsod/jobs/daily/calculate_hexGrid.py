@@ -28,7 +28,7 @@ class Job(DailyJob):
 
         # start chrome browser
         browser = webdriver.Chrome(chrome_options=options)
-        this_date = (dt.datetime.now() - dt.timedelta(days=14)).date()  # today - 14 days
+        this_date = (dt.datetime.now() - dt.timedelta(days=21)).date()  # today - 21 days
         if st.DEBUG:
             URL = 'http://127.0.0.1:8000/calculate-hexGrid/' + str(this_date) + '/'
         else:
