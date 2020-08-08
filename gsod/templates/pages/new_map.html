@@ -1,27 +1,42 @@
 {% include 'partials/header_noaa.html' %}
     <div id="my_title" class="d-flex justify-content-center">
-        <h1>Hexagon Map with API</h1>
+        <h1>Highest Daily Temperature in USA</h1>
     </div><br>
+
+    <div class="d-flex justify-content-center">
+        <div class="col-md-2"></div>
+        <div class="col-md-8">
+            <p>The temperature layer added to this map is made out of general interest. The radius of each
+            of the hexagons in the grid is 15 km. With the projection of the map, that radius may differ based
+            on the latitude. To add temperature gradient, a ring is calculated around each of the weather
+            stations. The temperature is adjusted in between weather stations based on a factor of -1 times
+            the number of rings away from each station.</p>
+        </div>
+        <div class="col-md-2"></div>
+    </div>
 
     <div class="d-flex justify-content-center">
         <div class="col-md-2"></div>
         <div class="col-md-3">
             <select id="data-type-select" class="form-control">
                 <option selected value="TMAX">Maximum Temperature °C</option>
-                <option value="TMIN">Minimum Temperature °C</option>
+                <!--option value="TMIN">Minimum Temperature °C</option>
                 <option value="PRCP">Rainfall (mm)</option>
                 <option value="SNOW">Snowfall (mm)</option>
-                <option value="SNWD">Snow Depth (mm)</option>
+                <option value="SNWD">Snow Depth (mm)</option-->
             </select>
         </div>
         <div class="col-md-1"></div>
         <div class="col-md-3">
             <div id="slider-div">
-                <label>Date: <span id="dateLabel">{{ start_date }}</span></label>
+                <label onchange="load_new_hexagon_file()">Date: <span id="dateLabel">{{ start_date }}</span></label>
                 <div id="date-slider" class="ui-slider"></div>
             </div>
         </div>
-        <div class="col-md-3"></div>
+        <div class="col-md-1">
+            <div id="loader" class="loader" style="display: none"></div>
+        </div>
+        <div class="col-md-2"></div>
     </div><br>
 
     <div class="d-flex justify-content-center">
