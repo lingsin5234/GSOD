@@ -36,6 +36,7 @@ class Job(DailyJob):
             # PRODUCTION
             URL = 'https://portfolio.sinto-ling.ca/gsod/calculate-hexGrid/' + str(this_date) + '/'
 
+        print(URL)
         browser.get(URL)
 
         # wait for the "done" id to be generated
