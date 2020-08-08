@@ -25,6 +25,7 @@ class Job(DailyJob):
         # prepare the option for the chrome driver
         options = webdriver.ChromeOptions()
         options.add_argument('headless')
+        options.add_argument('--no-sandbox')
 
         # start chrome browser
         browser = webdriver.Chrome(chrome_options=options)
