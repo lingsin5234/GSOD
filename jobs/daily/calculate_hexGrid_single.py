@@ -39,6 +39,19 @@ class Job(DailyJob):
         print(URL)
         browser.get(URL)
 
+        # TESTING browser
+        delay = 200
+        try:
+            myElem = WebDriverWait(browser, delay).until(EC.presence_of_element_located((By.ID, 'calculate')))
+            print("Calculate is THERE!")
+            print(myElem.get_attribute('outerHTML'))
+        except TimeoutException:
+            print("Something still wrong!", this_date)
+        else:
+            browser.quit()
+            return True
+
+        '''
         # wait for the "done" id to be generated
         time.sleep(1200)
         delay = 500
@@ -54,3 +67,4 @@ class Job(DailyJob):
             dbt.log_gsod_job_run(job_id, str(this_date), start_time, 'COMPLETED')
 
         return True
+        '''
