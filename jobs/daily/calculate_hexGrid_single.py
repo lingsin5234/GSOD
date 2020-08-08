@@ -27,6 +27,9 @@ class Job(DailyJob):
         options.add_argument('headless')
         options.add_argument('--no-sandbox')
         options.add_argument('--disable-dev-shm-usage')
+        options.add_argument('--start-maximized')
+        options.add_argument('--disable-gpu')
+
 
         # start chrome browser
         browser = webdriver.Chrome(chrome_options=options)
@@ -48,6 +51,8 @@ class Job(DailyJob):
             print(myElem.get_attribute('outerHTML'))
         except TimeoutException:
             print("Something still wrong!", this_date)
+            browser.quit()
+            return False
         else:
             browser.quit()
             return True
