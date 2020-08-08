@@ -48,7 +48,7 @@ class Job(DailyJob):
             browser.get(URL)
 
             # wait for the "done" id to be generated
-            time.sleep(500)
+            time.sleep(1200)
             delay = 500
             try:
                 myElem = WebDriverWait(browser, delay).until(EC.presence_of_element_located((By.ID, 'done')))
