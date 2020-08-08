@@ -44,7 +44,7 @@ class Job(DailyJob):
         browser.get(URL)
 
         # TESTING browser
-        delay = 200
+        delay = 500
         try:
             myElem = WebDriverWait(browser, delay).until(EC.presence_of_element_located((By.ID, 'done')))
             print("API GET Request successful!")

@@ -28,6 +28,8 @@ class WeatherStationsAPI(views.APIView):
     # get request
     def get(self, request):
 
+        print("GET REQUEST RECEIVED")
+
         # get ALL Weather Stations
         stations = Station.objects.all()
         data_types = ['PRCP', 'SNOW', 'SNWD', 'TMAX', 'TMIN']
