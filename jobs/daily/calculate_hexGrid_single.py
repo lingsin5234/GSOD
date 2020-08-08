@@ -42,8 +42,8 @@ class Job(DailyJob):
         # TESTING browser
         delay = 200
         try:
-            myElem = WebDriverWait(browser, delay).until(EC.presence_of_element_located((By.ID, 'calculate')))
-            print("Calculate is THERE!")
+            myElem = WebDriverWait(browser, delay).until(EC.presence_of_element_located((By.ID, 'done')))
+            print("API GET Request successful!")
             print(myElem.get_attribute('outerHTML'))
         except TimeoutException:
             print("Something still wrong!", this_date)

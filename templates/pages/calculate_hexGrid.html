@@ -36,15 +36,15 @@
                 firstStartTime = new Date();
 
                 // run it through the HexGridConstructor
-                hexGrid = HexGridConstructor(bbox, cellSide, options, data[0].data, levels, bot_lat, top_lat);
+                //hexGrid = HexGridConstructor(bbox, cellSide, options, data[0].data, levels, bot_lat, top_lat);
 
                 endTime = new Date();
 
                 seconds = (endTime.getTime() - firstStartTime.getTime()) / 1000;
-                console.log("All Completed.\nHexGridConstructor Time Elapsed:", seconds);
+                //console.log("All Completed.\nHexGridConstructor Time Elapsed:", seconds);
 
                 // send this as POST request to save in backend
-                post_data(hexGrid);
+                //post_data(hexGrid);
 
                 text = document.createElement("p");
                 text.setAttribute("id", "done");
