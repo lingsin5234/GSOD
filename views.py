@@ -28,17 +28,18 @@ class WeatherStationsAPI(views.APIView):
     # get request
     def get(self, request):
 
-        print("GET REQUEST RECEIVED")
+        print("GET REQUEST RECEIVED", request.GET)
 
         # get ALL Weather Stations
         stations = Station.objects.all()
-        data_types = ['PRCP', 'SNOW', 'SNWD', 'TMAX', 'TMIN']
+        data_types = ['TMAX']  # ['PRCP', 'SNOW', 'SNWD', 'TMAX', 'TMIN']
 
         # json lists
         data_json = []
 
         # get ghcnd info for specific day: 2020-05-16 and datatype=TMAX
         get_date = request.GET['dataDate']
+        # get_date = '2020-01-01'
 
         st_json = []
         idx = 0
@@ -84,7 +85,7 @@ class WeatherStationsAPI(views.APIView):
             # idx += 1
             # if idx > 300:
             #     break
-        print(request.GET['dataDate'], len(data_json))
+        # print(request.GET['dataDate'], len(data_json))
 
         return Response(data_json)
 
