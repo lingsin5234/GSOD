@@ -124,6 +124,10 @@ class HexGridAPI(views.APIView):
         log_file = 'gsod/seleniumLog/' + str(dte.datetime.now().date()) + '.log'
         with open(log_file, 'a') as outfile:
             try:
+                outfile.write('request INFO:' + str(request) + '\n')
+            except Exception as e:
+                outfile.write('request ERROR:' + str(e) + '\n')
+            try:
                 outfile.write('request.POST' + '\n' + str(request.POST) + '\n')
             except Exception as e:
                 outfile.write('request.POST ERROR:' + str(e) + '\n')
