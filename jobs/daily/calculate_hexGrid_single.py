@@ -82,10 +82,7 @@ class Job(DailyJob):
 
         return True
         '''
-        time.sleep(600)
-        for entry in browser.get_log('browser'):
-            print(entry)
-        time.sleep(1200)
+        time.sleep(800)
         for entry in browser.get_log('browser'):
             print(entry)
         browser.quit()
