@@ -42,7 +42,7 @@ class Job(DailyJob):
             # PRODUCTION
             URL = 'https://portfolio.sinto-ling.ca/gsod/calculate-hexGrid/' + str(this_date) + '/'
 
-        URL = 'http://127.0.0.1:8000/gsod/calculate-hexGrid/' + str(this_date) + '/'
+        # URL = 'http://127.0.0.1:8000/gsod/calculate-hexGrid/' + str(this_date) + '/'
         print(URL)
         browser.get(URL)
         time.sleep(60)
