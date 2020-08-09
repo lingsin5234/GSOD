@@ -89,9 +89,7 @@
                 url: postURL,
                 dataType: 'json',
                 data: {
-                    // do not use JSON.stringify in headless browser
-                    //'data': JSON.stringify(data),
-                    'data': data,
+                    'data': JSON.stringify(data),
                     'dataDate': dataDate,
                     'csrfmiddlewaretoken': '{{ csrf_token }}',
                 },
