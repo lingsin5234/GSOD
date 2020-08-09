@@ -32,16 +32,18 @@
             get_stations("str1", function(data) {
                 console.log("API OUTPUT:\n", data[0].data);
                 console.log("DATA LENGTH:\n", data[0].data.length);
-
+                //console.log(data);
+                console.log(JSON.stringify(window.performance.memory, ['totalJSHeapSize', 'usedJSHeapSize', 'jsHeapSizeLimit']));
                 firstStartTime = new Date();
 
                 // run it through the HexGridConstructor
                 hexGrid = HexGridConstructor(bbox, cellSide, options, data[0].data, levels, bot_lat, top_lat);
 
                 endTime = new Date();
+                console.log(JSON.stringify(window.performance.memory, ['totalJSHeapSize', 'usedJSHeapSize', 'jsHeapSizeLimit']));
 
                 seconds = (endTime.getTime() - firstStartTime.getTime()) / 1000;
-                console.log("All Completed.\nHexGridConstructor Time Elapsed:", seconds);
+                console.log("All Completed.\nHexGridConstructor Time Elapsed:" + JSON.stringify(seconds));
 
                 // send this as POST request to save in backend
                 post_data(hexGrid);
@@ -56,16 +58,19 @@
         function get_stations(var1, callback) {
 
             getURL = "/api/get_all_stations";
-
+            console.log("GET REQUEST:" + getURL + "\n");
             $.ajax({
                 url: getURL,
                 data: {'dataDate': dataDate},
                 success: function(data) {
                     // run callback to return this data
-                    console.log("GET OUTPUT:\n", data[0].data);
+                    //console.log("GET OUTPUT:\n", data[0].data);
+                    console.log("GET OUTPUT:\n");
                     callback(data);
                 },
                 error: function(XMLHttpRequest, textStatus, errorThrown) {
+                    console.log("Status: " + textStatus);
+                    console.log("Error: " + errorThrown);
                     alert("Status: " + textStatus); alert("Error: " + errorThrown);
                 }
             });
@@ -74,15 +79,19 @@
         // POST request to push the hexGrid to backend
         function post_data(data) {
             postURL = "/api/post_hexgrid";
-            console.log(data.features.length);
+            console.log("POST" + data.features.length);
+            json_data = JSON.stringify(data)
+            //console.log("SEND POST:" + json_data);
             $.ajax({
-                type: "POST",
+                method: "POST",
+                headers: {
+                    'X-CSRFToken': '{{ csrf_token }}'
+                },
                 url: postURL,
                 data: {
-                    'data': JSON.stringify(data),
-                    'dataDate': dataDate,
-                    'csrfmiddlewaretoken': '{{ csrf_token }}'
-                    },
+                    'data': json_data,
+                    'dataDate': dataDate
+                },
                 success: function(status) {
                     if (status) {
                         console.log("POST REQUEST COMPLETED!");

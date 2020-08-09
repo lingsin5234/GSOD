@@ -28,15 +28,18 @@ class WeatherStationsAPI(views.APIView):
     # get request
     def get(self, request):
 
+        print("GET REQUEST RECEIVED", request.GET)
+
         # get ALL Weather Stations
         stations = Station.objects.all()
-        data_types = ['PRCP', 'SNOW', 'SNWD', 'TMAX', 'TMIN']
+        data_types = ['TMAX', 'TMIN']  # ['PRCP', 'SNOW', 'SNWD', 'TMAX', 'TMIN']
 
         # json lists
         data_json = []
 
         # get ghcnd info for specific day: 2020-05-16 and datatype=TMAX
         get_date = request.GET['dataDate']
+        # get_date = '2020-01-01'
 
         st_json = []
         idx = 0
@@ -82,7 +85,13 @@ class WeatherStationsAPI(views.APIView):
             # idx += 1
             # if idx > 300:
             #     break
-        print(request.GET['dataDate'], len(data_json))
+        # print(request.GET['dataDate'], len(data_json))
+        log_file = 'gsod/seleniumLog/' + str(dte.datetime.now().date()) + '.log'
+        with open(log_file, 'w') as outfile:
+            try:
+                outfile.write('GET REQUEST: dataDate - ' + str(request.GET['dataDate']) + '\n')
+            except Exception as e:
+                outfile.write('dataDate ERROR:' + str(e) + '\n')
 
         return Response(data_json)
 
@@ -112,17 +121,43 @@ class HexGridAPI(views.APIView):
 
     # post request
     def post(self, request):
-
+        print(request)
+        print(request.data)
+        log_file = 'gsod/seleniumLog/' + str(dte.datetime.now().date()) + '.log'
+        with open(log_file, 'a') as outfile:
+            try:
+                outfile.write('request Headers:' + str(request.headers) + '\n')
+            except Exception as e:
+                outfile.write('request ERROR:' + str(e) + '\n')
+            try:
+                outfile.write('request.POST' + '\n' + str(request.POST) + '\n')
+            except Exception as e:
+                outfile.write('request.POST ERROR:' + str(e) + '\n')
+            '''
+            try:
+                outfile.write('dataDate' + '\n' + str(request.data['dataDate']) + '\n')
+            except Exception as e:
+                outfile.write('dataDate ERROR:' + str(e) + '\n')
+            try:
+                outfile.write('request.data' + '\n' + str(request.data) + '\n')
+            except Exception as e:
+                outfile.write('request.data ERROR:' + str(e) + '\n')
+            '''
         # write the JSON to file:
-        filename = 'hexGrid_' + request.POST['dataDate'] + '.json'
+        filename = 'hexGrid_' + request.data['dataDate'] + '.json'
         try:
             with open('gsod/posts/' + filename, 'w') as outfile:
                 json.dump(json.loads(request.POST['data']), outfile, indent=4)
+                # json.dump(request.data['data'], outfile, indent=4)
         except Exception as e:
             print('POST write to file: Failed', e)
+            with open(log_file, 'a') as outfile:
+                outfile.write('POST write to file: Failed' + str(e) + '\n')
             status = False
         else:
             print('POST write to file: Success!')
+            with open(log_file, 'a') as outfile:
+                outfile.write('POST write to file: Success!' + '\n')
             status = True
 
         return Response(status)

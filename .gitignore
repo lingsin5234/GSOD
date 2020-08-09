@@ -11,3 +11,4 @@
 *.sqlite3
 *.db
 **/posts/*
+**/seleniumLog/*
