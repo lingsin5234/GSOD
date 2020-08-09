@@ -141,7 +141,7 @@ class HexGridAPI(views.APIView):
             except Exception as e:
                 outfile.write('request.data ERROR:' + str(e) + '\n')
             try:
-                outfile.write('request JSONParser' + '\n' + str(JSONParser.parse(request)) + '\n')
+                outfile.write('request JSONParser' + '\n' + str(JSONParser().parse(request)) + '\n')
             except Exception as e:
                 outfile.write('request JSONParser ERROR:' + str(e) + '\n')
 
