@@ -26,7 +26,7 @@
         // when document is ready, make API request
         //$(document).ready(function() {
         function api_request() {
-            console.log(dataDate, "\n");
+            console.log(dataDate);
 
             // make the get request
             get_stations("str1", function(data) {
@@ -43,7 +43,7 @@
                 console.log(JSON.stringify(window.performance.memory, ['totalJSHeapSize', 'usedJSHeapSize', 'jsHeapSizeLimit']));
 
                 seconds = (endTime.getTime() - firstStartTime.getTime()) / 1000;
-                console.log("All Completed.\nHexGridConstructor Time Elapsed:", seconds);
+                console.log("All Completed.\nHexGridConstructor Time Elapsed:" + JSON.stringify(seconds));
 
                 // send this as POST request to save in backend
                 post_data(hexGrid);
@@ -79,7 +79,9 @@
         // POST request to push the hexGrid to backend
         function post_data(data) {
             postURL = "/api/post_hexgrid";
-            console.log(data.features.length);
+            console.log("POST" + data.features.length);
+            csrf_token = '{{ csrf_token }}';
+            console.log("CSRF" + JSON.stringify(csrf_token));
             $.ajax({
                 type: "POST",
                 url: postURL,
