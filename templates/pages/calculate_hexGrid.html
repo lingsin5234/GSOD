@@ -31,7 +31,7 @@
             // make the get request
             get_stations("str1", function(data) {
                 //console.log("API OUTPUT:\n", data[0].data);
-                console.log("DATA LENGTH:\n", data[0].data.length);
+                //console.log("DATA LENGTH:\n", data[0].data.length);
 
                 firstStartTime = new Date();
 
@@ -64,7 +64,8 @@
                 data: {'dataDate': dataDate},
                 success: function(data) {
                     // run callback to return this data
-                    console.log("GET OUTPUT:\n", data[0].data);
+                    //console.log("GET OUTPUT:\n", data[0].data);
+                    console.log("GET OUTPUT:\n", data);
                     callback(data);
                 },
                 error: function(XMLHttpRequest, textStatus, errorThrown) {
