@@ -80,15 +80,13 @@
         function post_data(data) {
             postURL = "/api/post_hexgrid";
             console.log("POST" + data.features.length);
-            csrf_token = '{{ csrf_token }}';
-            console.log("CSRF" + JSON.stringify(csrf_token));
             $.ajax({
                 type: "POST",
-                url: postURL,
-                /*beforeSend: function(request) {
-                    request.setRequestHeader('csrfmiddlewaretoken': '{{ csrf_token }}');
+                beforeSend: function(request) {
+                    //request.setRequestHeader('csrfmiddlewaretoken': '{{ csrf_token }}');
                     request.setRequestHeader('Content-Type': 'application/json');
-                },*/
+                },
+                url: postURL,
                 data: {
                     'data': JSON.stringify(data),
                     'dataDate': dataDate,
