@@ -82,12 +82,15 @@
             console.log("POST" + data.features.length);
             $.ajax({
                 type: "POST",
+                // USE header for headless browser; but not for Chrome browser
                 headers: {
                     'Content-Type': 'application/json'
                 },
                 url: postURL,
                 data: {
-                    'data': JSON.stringify(data),
+                    // do not use JSON.stringify in headless browser
+                    //'data': JSON.stringify(data),
+                    'data': data,
                     'dataDate': dataDate,
                     'csrfmiddlewaretoken': '{{ csrf_token }}',
                 },
