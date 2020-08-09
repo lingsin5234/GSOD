@@ -33,7 +33,7 @@ class Job(DailyJob):
 
         # start chrome browser
         d = DesiredCapabilities.CHROME
-        d['goog:loggingPrefs'] = {'browser': 'ALL'}
+        d['loggingPrefs'] = {'browser': 'ALL'}
         browser = webdriver.Chrome(chrome_options=options, desired_capabilities=d)
         this_date = dt.date(2020, 1, 1)
         if st.DEBUG:
