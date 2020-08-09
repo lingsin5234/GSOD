@@ -45,11 +45,11 @@ class Job(DailyJob):
         print(URL)
         browser.get(URL)
 
+        time.sleep(600)
         for entry in browser.get_log('browser'):
             print(entry)
-
+        '''
         # TESTING browser
-        time.sleep(600)
         delay = 500
         try:
             myElem = WebDriverWait(browser, delay).until(EC.presence_of_element_located((By.ID, 'done')))
@@ -62,7 +62,7 @@ class Job(DailyJob):
         else:
             browser.quit()
             return True
-
+        '''
         '''
         # wait for the "done" id to be generated
         time.sleep(1200)
@@ -80,3 +80,5 @@ class Job(DailyJob):
 
         return True
         '''
+        time.sleep(600)
+        browser.quit()
