@@ -80,20 +80,18 @@
         function post_data(data) {
             postURL = "/api/post_hexgrid";
             console.log("POST" + data.features.length);
+            json_data = JSON.stringify(data)
+            //console.log("SEND POST:" + json_data);
             $.ajax({
-                type: "POST",
-                // USE header for headless browser; but not for Chrome browser
+                method: "POST",
                 headers: {
-                    'Content-Type': 'application/json; charset=utf-8'
+                    'X-CSRFToken': '{{ csrf_token }}'
                 },
                 url: postURL,
-                dataType: 'json',
                 data: {
-                    'data': JSON.stringify(data),
-                    'dataDate': dataDate,
-                    'csrfmiddlewaretoken': '{{ csrf_token }}',
+                    'data': json_data,
+                    'dataDate': dataDate
                 },
-                processData: false,
                 success: function(status) {
                     if (status) {
                         console.log("POST REQUEST COMPLETED!");
