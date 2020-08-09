@@ -83,7 +83,7 @@
             csrf_token = '{{ csrf_token }}';
             console.log("CSRF" + JSON.stringify(csrf_token));
             $.ajax({
-                method: "POST",
+                type: "POST",
                 url: postURL,
                 data: {
                     'data': JSON.stringify(data),
