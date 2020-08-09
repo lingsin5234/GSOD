@@ -30,8 +30,8 @@
 
             // make the get request
             get_stations("str1", function(data) {
-                //console.log("API OUTPUT:\n", data[0].data);
-                //console.log("DATA LENGTH:\n", data[0].data.length);
+                console.log("API OUTPUT:\n", data[0].data);
+                console.log("DATA LENGTH:\n", data[0].data.length);
                 //console.log(data);
                 console.log(JSON.stringify(window.performance.memory, ['totalJSHeapSize', 'usedJSHeapSize', 'jsHeapSizeLimit']));
                 firstStartTime = new Date();
@@ -92,8 +92,6 @@
                     'data': json_data,
                     'dataDate': dataDate
                 },
-                dataType: 'json',
-                contentType: 'application/json',
                 success: function(status) {
                     if (status) {
                         console.log("POST REQUEST COMPLETED!");

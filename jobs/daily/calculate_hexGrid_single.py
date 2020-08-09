@@ -35,14 +35,13 @@ class Job(DailyJob):
         d = DesiredCapabilities.CHROME
         d['loggingPrefs'] = {'browser': 'ALL'}
         browser = webdriver.Chrome(chrome_options=options, desired_capabilities=d)
-        this_date = dt.date(2020, 1, 1)
+        this_date = dt.date(2020, 1, 10)
         if st.DEBUG:
             URL = 'http://127.0.0.1:8000/calculate-hexGrid/' + str(this_date) + '/'
         else:
             # PRODUCTION
             URL = 'https://portfolio.sinto-ling.ca/gsod/calculate-hexGrid/' + str(this_date) + '/'
 
-        URL = 'http://127.0.0.1:8000/gsod/calculate-hexGrid/' + str(this_date) + '/'
         print(URL)
         browser.get(URL)
         time.sleep(60)

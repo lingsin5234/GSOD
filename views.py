@@ -32,7 +32,7 @@ class WeatherStationsAPI(views.APIView):
 
         # get ALL Weather Stations
         stations = Station.objects.all()
-        data_types = ['TMAX']  # ['PRCP', 'SNOW', 'SNWD', 'TMAX', 'TMIN']
+        data_types = ['TMAX', 'TMIN']  # ['PRCP', 'SNOW', 'SNWD', 'TMAX', 'TMIN']
 
         # json lists
         data_json = []
@@ -133,6 +133,7 @@ class HexGridAPI(views.APIView):
                 outfile.write('request.POST' + '\n' + str(request.POST) + '\n')
             except Exception as e:
                 outfile.write('request.POST ERROR:' + str(e) + '\n')
+            '''
             try:
                 outfile.write('dataDate' + '\n' + str(request.data['dataDate']) + '\n')
             except Exception as e:
@@ -141,13 +142,13 @@ class HexGridAPI(views.APIView):
                 outfile.write('request.data' + '\n' + str(request.data) + '\n')
             except Exception as e:
                 outfile.write('request.data ERROR:' + str(e) + '\n')
-
+            '''
         # write the JSON to file:
         filename = 'hexGrid_' + request.data['dataDate'] + '.json'
         try:
             with open('gsod/posts/' + filename, 'w') as outfile:
-                # json.dump(json.loads(request.POST['data']), outfile, indent=4)
-                json.dump(request.data['data'], outfile, indent=4)
+                json.dump(json.loads(request.POST['data']), outfile, indent=4)
+                # json.dump(request.data['data'], outfile, indent=4)
         except Exception as e:
             print('POST write to file: Failed', e)
             with open(log_file, 'a') as outfile:
