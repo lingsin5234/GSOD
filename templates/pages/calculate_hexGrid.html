@@ -32,20 +32,20 @@
             get_stations("str1", function(data) {
                 //console.log("API OUTPUT:\n", data[0].data);
                 //console.log("DATA LENGTH:\n", data[0].data.length);
-                console.log(data);
-
+                //console.log(data);
+                console.log(window.performance.memory);
                 firstStartTime = new Date();
 
                 // run it through the HexGridConstructor
-                //hexGrid = HexGridConstructor(bbox, cellSide, options, data[0].data, levels, bot_lat, top_lat);
+                hexGrid = HexGridConstructor(bbox, cellSide, options, data[0].data, levels, bot_lat, top_lat);
 
                 endTime = new Date();
-
+                console.log(window.performance.memory);
                 seconds = (endTime.getTime() - firstStartTime.getTime()) / 1000;
                 //console.log("All Completed.\nHexGridConstructor Time Elapsed:", seconds);
 
                 // send this as POST request to save in backend
-                //post_data(hexGrid);
+                post_data(hexGrid);
 
                 text = document.createElement("p");
                 text.setAttribute("id", "done");
@@ -56,8 +56,8 @@
         // make GET request to retrieve all stations
         function get_stations(var1, callback) {
 
-            //getURL = "/api/get_all_stations";
-            getURL = "https://portfolio.sinto-ling.ca/api/get_all_stations";
+            getURL = "/api/get_all_stations";
+            //getURL = "https://portfolio.sinto-ling.ca/api/get_all_stations";
             //getURL = "https://portfolio.sinto-ling.ca/api/get_hexgrid";
             console.log("GET REQUEST:" + getURL + "\n");
             $.ajax({
