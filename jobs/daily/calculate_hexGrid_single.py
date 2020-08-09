@@ -1,6 +1,7 @@
 # CALCULATE THE HEX GRID
 from django_extensions.management.jobs import DailyJob
 from selenium import webdriver
+from selenium.webdriver.common.desired_capabilities import DesiredCapabilities
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
@@ -30,9 +31,10 @@ class Job(DailyJob):
         options.add_argument('--start-maximized')
         options.add_argument('--disable-gpu')
 
-
         # start chrome browser
-        browser = webdriver.Chrome(chrome_options=options)
+        d = DesiredCapabilities.CHROME
+        d['loggingPrefs'] = {'browser': 'ALL'}
+        browser = webdriver.Chrome(chrome_options=options, desired_capabilities=d)
         this_date = dt.date(2020, 1, 1)
         if st.DEBUG:
             URL = 'http://127.0.0.1:8000/calculate-hexGrid/' + str(this_date) + '/'
@@ -42,6 +44,9 @@ class Job(DailyJob):
 
         print(URL)
         browser.get(URL)
+
+        for entry in browser.get_log('browser'):
+            print(entry)
 
         # TESTING browser
         delay = 500
