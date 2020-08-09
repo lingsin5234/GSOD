@@ -85,11 +85,14 @@
             $.ajax({
                 type: "POST",
                 url: postURL,
+                beforeSend: function(request) {
+                    request.setRequestHeader('csrfmiddlewaretoken': '{{ csrf_token }}');
+                    request.setRequestHeader('Content-Type': 'application/json');
+                },
                 data: {
                     'data': JSON.stringify(data),
                     'dataDate': dataDate,
-                    'csrfmiddlewaretoken': '{{ csrf_token }}'
-                    },
+                },
                 success: function(status) {
                     if (status) {
                         console.log("POST REQUEST COMPLETED!");
