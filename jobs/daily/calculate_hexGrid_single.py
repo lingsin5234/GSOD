@@ -33,7 +33,7 @@ class Job(DailyJob):
 
         # start chrome browser
         d = DesiredCapabilities.CHROME
-        d['loggingPrefs'] = {'browser': 'ALL'}
+        d['goog:loggingPrefs'] = {'browser': 'ALL'}
         browser = webdriver.Chrome(chrome_options=options, desired_capabilities=d)
         this_date = dt.date(2020, 1, 1)
         if st.DEBUG:
@@ -49,6 +49,7 @@ class Job(DailyJob):
             print(entry)
 
         # TESTING browser
+        time.sleep(600)
         delay = 500
         try:
             myElem = WebDriverWait(browser, delay).until(EC.presence_of_element_located((By.ID, 'done')))
