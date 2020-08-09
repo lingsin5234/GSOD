@@ -13,6 +13,7 @@ from .models import Station, GHCND
 # from matplotlib.backends.backend_agg import FigureCanvasAgg as FigureCanvas
 from gsod.serializers import GHCND_Serializer
 import datetime as dte
+from rest_framework.parsers import JSONParser, ParseError
 
 '''
 API Section
@@ -140,13 +141,9 @@ class HexGridAPI(views.APIView):
             except Exception as e:
                 outfile.write('request.data ERROR:' + str(e) + '\n')
             try:
-                outfile.write('request.text' + '\n' + str(request.text) + '\n')
+                outfile.write('request JSONParser' + '\n' + str(JSONParser.parse(request)) + '\n')
             except Exception as e:
-                outfile.write('request.text ERROR:' + str(e) + '\n')
-            try:
-                outfile.write('request keys' + '\n' + str(request.keys()) + '\n')
-            except Exception as e:
-                outfile.write('request keys ERROR:' + str(e) + '\n')
+                outfile.write('request JSONParser ERROR:' + str(e) + '\n')
 
         # write the JSON to file:
         filename = 'hexGrid_' + request.data['dataDate'] + '.json'
