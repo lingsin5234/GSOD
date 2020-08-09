@@ -45,6 +45,10 @@ class Job(DailyJob):
         print(URL)
         browser.get(URL)
         time.sleep(60)
+
+        for entry in browser.get_log('browser'):
+            print(entry)
+
         delay = 500
         try:
             myElem = WebDriverWait(browser, delay).until(EC.presence_of_element_located((By.ID, 'done')))
@@ -56,9 +60,6 @@ class Job(DailyJob):
         else:
             # after each completion, take a 10 minute break
             dbt.log_gsod_job_run(job_id, str(this_date), start_time, 'COMPLETED')
-
-        for entry in browser.get_log('browser'):
-            print(entry)
 
         browser.quit()
         return True
