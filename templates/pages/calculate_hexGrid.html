@@ -95,6 +95,7 @@
                     'dataDate': dataDate,
                     'csrfmiddlewaretoken': '{{ csrf_token }}',
                 },
+                processData: false,
                 success: function(status) {
                     if (status) {
                         console.log("POST REQUEST COMPLETED!");
