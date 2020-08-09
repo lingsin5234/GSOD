@@ -57,5 +57,8 @@ class Job(DailyJob):
             # after each completion, take a 10 minute break
             dbt.log_gsod_job_run(job_id, str(this_date), start_time, 'COMPLETED')
 
+        for entry in browser.get_log('browser'):
+            print(entry)
+
         browser.quit()
         return True
