@@ -26,7 +26,7 @@
         // when document is ready, make API request
         //$(document).ready(function() {
         function api_request() {
-            console.log(dataDate);
+            console.log(dataDate "\n");
 
             // make the get request
             get_stations("str1", function(data) {
@@ -57,7 +57,7 @@
 
             //getURL = "/api/get_all_stations";
             getURL = "https://portfolio.sinto-ling.ca/api/get_all_stations";
-
+            console.log("GET REQUUEST:", getURL, "\n");
             $.ajax({
                 url: getURL,
                 data: {'dataDate': dataDate},
@@ -67,6 +67,8 @@
                     callback(data);
                 },
                 error: function(XMLHttpRequest, textStatus, errorThrown) {
+                    console.log("Status: " + textStatus);
+                    console.log("Error: " + errorThrown);
                     alert("Status: " + textStatus); alert("Error: " + errorThrown);
                 }
             });
