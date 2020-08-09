@@ -86,6 +86,12 @@ class WeatherStationsAPI(views.APIView):
             # if idx > 300:
             #     break
         # print(request.GET['dataDate'], len(data_json))
+        log_file = 'gsod/seleniumLog/' + str(dte.datetime.now().date()) + '.log'
+        with open(log_file, 'w') as outfile:
+            try:
+                outfile.write('GET REQUEST: dataDate - ' + str(request.GET['dataDate']) + '\n')
+            except Exception as e:
+                outfile.write('dataDate ERROR:' + str(e) + '\n')
 
         return Response(data_json)
 
