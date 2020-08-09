@@ -45,7 +45,7 @@ class Job(DailyJob):
         print(URL)
         browser.get(URL)
 
-        time.sleep(600)
+        time.sleep(1800)
         for entry in browser.get_log('browser'):
             print(entry)
         '''
@@ -80,5 +80,4 @@ class Job(DailyJob):
 
         return True
         '''
-        time.sleep(600)
         browser.quit()
