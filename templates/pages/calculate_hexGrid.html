@@ -33,16 +33,17 @@
                 //console.log("API OUTPUT:\n", data[0].data);
                 //console.log("DATA LENGTH:\n", data[0].data.length);
                 //console.log(data);
-                console.log(window.performance.memory);
+                console.log(JSON.stringify(window.performance.memory, ['totalJSHeapSize', 'usedJSHeapSize', 'jsHeapSizeLimit']));
                 firstStartTime = new Date();
 
                 // run it through the HexGridConstructor
                 hexGrid = HexGridConstructor(bbox, cellSide, options, data[0].data, levels, bot_lat, top_lat);
 
                 endTime = new Date();
-                console.log(window.performance.memory);
+                console.log(JSON.stringify(window.performance.memory, ['totalJSHeapSize', 'usedJSHeapSize', 'jsHeapSizeLimit']));
+
                 seconds = (endTime.getTime() - firstStartTime.getTime()) / 1000;
-                //console.log("All Completed.\nHexGridConstructor Time Elapsed:", seconds);
+                console.log("All Completed.\nHexGridConstructor Time Elapsed:", seconds);
 
                 // send this as POST request to save in backend
                 post_data(hexGrid);
