@@ -140,13 +140,13 @@ class HexGridAPI(views.APIView):
             except Exception as e:
                 outfile.write('request.data ERROR:' + str(e) + '\n')
             try:
-                outfile.write('request.content' + '\n' + str(request.content) + '\n')
+                outfile.write('request.text' + '\n' + str(request.text) + '\n')
             except Exception as e:
-                outfile.write('request.content ERROR:' + str(e) + '\n')
+                outfile.write('request.text ERROR:' + str(e) + '\n')
             try:
-                outfile.write('request.json()' + '\n' + str(request.json()) + '\n')
+                outfile.write('request keys' + '\n' + str(request.keys()) + '\n')
             except Exception as e:
-                outfile.write('request.json() ERROR:' + str(e) + '\n')
+                outfile.write('request keys ERROR:' + str(e) + '\n')
 
         # write the JSON to file:
         filename = 'hexGrid_' + request.data['dataDate'] + '.json'
