@@ -44,30 +44,7 @@ class Job(DailyJob):
 
         print(URL)
         browser.get(URL)
-        time.sleep(20)
-        for entry in browser.get_log('browser'):
-            print(entry)
         time.sleep(200)
-        for entry in browser.get_log('browser'):
-            print(entry)
-        '''
-        # TESTING browser
-        delay = 500
-        try:
-            myElem = WebDriverWait(browser, delay).until(EC.presence_of_element_located((By.ID, 'done')))
-            print("API GET Request successful!")
-            print(myElem.get_attribute('outerHTML'))
-        except TimeoutException:
-            print("Something still wrong!", this_date)
-            browser.quit()
-            return False
-        else:
-            browser.quit()
-            return True
-        '''
-        '''
-        # wait for the "done" id to be generated
-        time.sleep(1200)
         delay = 500
         try:
             myElem = WebDriverWait(browser, delay).until(EC.presence_of_element_located((By.ID, 'done')))
@@ -80,6 +57,5 @@ class Job(DailyJob):
             # after each completion, take a 10 minute break
             dbt.log_gsod_job_run(job_id, str(this_date), start_time, 'COMPLETED')
 
-        return True
-        '''
         browser.quit()
+        return True
