@@ -80,7 +80,7 @@
 
         // POST request to push the hexGrid to backend
         function post_data(data) {
-            postURL = "https://portfolio.sinto-ling.ca/api/post_hexgrid";
+            postURL = "/api/post_hexgrid";
             console.log(data.features.length);
             $.ajax({
                 type: "POST",
