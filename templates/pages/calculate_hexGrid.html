@@ -56,8 +56,9 @@
         function get_stations(var1, callback) {
 
             //getURL = "/api/get_all_stations";
-            getURL = "https://portfolio.sinto-ling.ca/api/get_all_stations";
-            console.log("GET REQUUEST:", getURL, "\n");
+            //getURL = "https://portfolio.sinto-ling.ca/api/get_all_stations";
+            getURL = "https://portfolio.sinto-ling.ca/api/get_hexgrid";
+            console.log("GET REQUUEST:" + getURL + "\n");
             $.ajax({
                 url: getURL,
                 data: {'dataDate': dataDate},
