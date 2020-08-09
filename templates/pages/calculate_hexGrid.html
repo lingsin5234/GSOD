@@ -85,10 +85,10 @@
             $.ajax({
                 type: "POST",
                 url: postURL,
-                beforeSend: function(request) {
+                /*beforeSend: function(request) {
                     request.setRequestHeader('csrfmiddlewaretoken': '{{ csrf_token }}');
                     request.setRequestHeader('Content-Type': 'application/json');
-                },
+                },*/
                 data: {
                     'data': JSON.stringify(data),
                     'dataDate': dataDate,
