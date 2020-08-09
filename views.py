@@ -115,8 +115,12 @@ class HexGridAPI(views.APIView):
 
     # post request
     def post(self, request):
-        print(request.POST)
-        print(request.data['dataDate'])
+        log_file = 'gsod/seleniumLog/' + str(dte.datetime.now().date()) + '.log'
+        with open(log_file, 'a') as outfile:
+            outfile.write('request.POST' + '\n' + str(request.POST) + '\n')
+            outfile.write('dataDate' + '\n' + str(request.data['dataDate']) + '\n')
+            outfile.write('request.data' + '\n' + str(request.data) + '\n')
+
         # write the JSON to file:
         filename = 'hexGrid_' + request.data['dataDate'] + '.json'
         try:
@@ -125,9 +129,13 @@ class HexGridAPI(views.APIView):
                 json.dump(request.data['data'], outfile, indent=4)
         except Exception as e:
             print('POST write to file: Failed', e)
+            with open(log_file, 'a') as outfile:
+                outfile.write('POST write to file: Failed' + str(e) + '\n')
             status = False
         else:
             print('POST write to file: Success!')
+            with open(log_file, 'a') as outfile:
+                outfile.write('POST write to file: Success!' + '\n')
             status = True
 
         return Response(status)
