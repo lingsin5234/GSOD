@@ -83,13 +83,13 @@
             $.ajax({
                 type: "POST",
                 headers: {
-                    'csrfmiddlewaretoken': '{{ csrf_token }}',
                     'Content-Type': 'application/json'
                 },
                 url: postURL,
                 data: {
                     'data': JSON.stringify(data),
                     'dataDate': dataDate,
+                    'csrfmiddlewaretoken': '{{ csrf_token }}',
                 },
                 success: function(status) {
                     if (status) {
