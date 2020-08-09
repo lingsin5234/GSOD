@@ -115,12 +115,14 @@ class HexGridAPI(views.APIView):
 
     # post request
     def post(self, request):
-
+        print(request.POST)
+        print(request.data['dataDate'])
         # write the JSON to file:
-        filename = 'hexGrid_' + request.POST['dataDate'] + '.json'
+        filename = 'hexGrid_' + request.data['dataDate'] + '.json'
         try:
             with open('gsod/posts/' + filename, 'w') as outfile:
-                json.dump(json.loads(request.POST['data']), outfile, indent=4)
+                # json.dump(json.loads(request.POST['data']), outfile, indent=4)
+                json.dump(request.data['data'], outfile, indent=4)
         except Exception as e:
             print('POST write to file: Failed', e)
             status = False
