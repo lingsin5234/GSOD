@@ -37,8 +37,8 @@
                 firstStartTime = new Date();
 
                 // run it through the HexGridConstructor
-                hexGrid = HexGridConstructor(bbox, cellSide, options, data[0].data, levels, bot_lat, top_lat);
-
+                //hexGrid = HexGridConstructor(bbox, cellSide, options, data[0].data, levels, bot_lat, top_lat);
+                hexGrid = { hello: 'hello' };
                 endTime = new Date();
                 console.log(JSON.stringify(window.performance.memory, ['totalJSHeapSize', 'usedJSHeapSize', 'jsHeapSizeLimit']));
 
@@ -46,7 +46,11 @@
                 console.log("All Completed.\nHexGridConstructor Time Elapsed:" + JSON.stringify(seconds));
 
                 // send this as POST request to save in backend
-                post_data(hexGrid);
+                //post_data(hexGrid);
+                json_output = document.createElement("pre");
+                json_output.setAttribute("id", "jsonData");
+                json_output.textContent = JSON.stringify(hexGrid);
+                document.getElementById("calculate").appendChild(json_output);
 
                 text = document.createElement("p");
                 text.setAttribute("id", "done");

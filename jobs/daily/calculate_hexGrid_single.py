@@ -35,7 +35,7 @@ class Job(DailyJob):
         d = DesiredCapabilities.CHROME
         d['loggingPrefs'] = {'browser': 'ALL'}
         browser = webdriver.Chrome(chrome_options=options, desired_capabilities=d)
-        this_date = dt.date(2020, 1, 10)
+        this_date = dt.date(2020, 1, 11)
         if st.DEBUG:
             URL = 'http://127.0.0.1:8000/calculate-hexGrid/' + str(this_date) + '/'
         else:
@@ -44,12 +44,23 @@ class Job(DailyJob):
 
         print(URL)
         browser.get(URL)
-        time.sleep(60)
-
+        time.sleep(20)
+        '''
         for entry in browser.get_log('browser'):
             print(entry)
-
+        '''
         delay = 500
+        try:
+            jsonData = WebDriverWait(browser, delay).until(EC.presence_of_element_located((By.ID, 'jsonData')))
+            print("Calculations and API requests completed!")
+            print(jsonData.get_attribute('innerHTML'))
+        except TimeoutException:
+            print("Loading took too much time!", this_date)
+            dbt.log_gsod_job_run(job_id, str(this_date), start_time, 'FAILED')
+        else:
+            # after each completion, take a 10 minute break
+            dbt.log_gsod_job_run(job_id, str(this_date), start_time, 'COMPLETED')
+        '''
         try:
             myElem = WebDriverWait(browser, delay).until(EC.presence_of_element_located((By.ID, 'done')))
             print("Calculations and API requests completed!")
@@ -60,6 +71,6 @@ class Job(DailyJob):
         else:
             # after each completion, take a 10 minute break
             dbt.log_gsod_job_run(job_id, str(this_date), start_time, 'COMPLETED')
-
+        '''
         browser.quit()
         return True
