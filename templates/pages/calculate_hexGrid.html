@@ -37,8 +37,8 @@
                 firstStartTime = new Date();
 
                 // run it through the HexGridConstructor
-                //hexGrid = HexGridConstructor(bbox, cellSide, options, data[0].data, levels, bot_lat, top_lat);
-                hexGrid = { hello: 'hello' };
+                hexGrid = HexGridConstructor(bbox, cellSide, options, data[0].data, levels, bot_lat, top_lat);
+                //hexGrid = { hello: 'hello' };
 
                 endTime = new Date();
                 console.log(JSON.stringify(window.performance.memory, ['totalJSHeapSize', 'usedJSHeapSize', 'jsHeapSizeLimit']));
@@ -51,7 +51,7 @@
                 json_output = document.createElement("pre");
                 json_output.setAttribute("id", "jsonData");
                 json_output.textContent = JSON.stringify(hexGrid);
-                hexGrid = {};
+                hexGrid = {};  // clear memory prior to assigning $('#jsonData')
                 document.getElementById("calculate").appendChild(json_output);
 
                 console.log(JSON.stringify(window.performance.memory, ['totalJSHeapSize', 'usedJSHeapSize', 'jsHeapSizeLimit']));
