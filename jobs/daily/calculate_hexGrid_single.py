@@ -48,9 +48,9 @@ class Job(DailyJob):
         time.sleep(200)
         log_file = 'gsod/seleniumLog/' + str(dte.datetime.now().date()) + '.log'
         for entry in browser.get_log('browser'):
-            print('CONSOLE LOG:', entry)
+            print('CONSOLE LOG:', str(entry))
             with open(log_file, 'a') as outfile:
-                outfile.write('CONSOLE LOG:' + entry + '\n')
+                outfile.write('CONSOLE LOG:' + str(entry) + '\n')
         delay = 500
         try:
             jsonTag = WebDriverWait(browser, delay).until(EC.presence_of_element_located((By.ID, 'jsonData')))
