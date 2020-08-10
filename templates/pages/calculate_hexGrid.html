@@ -30,8 +30,8 @@
 
             // make the get request
             get_stations("str1", function(data) {
-                console.log("API OUTPUT:\n", data[0].data);
-                console.log("DATA LENGTH:\n", data[0].data.length);
+                //console.log("API OUTPUT:\n", data[0].data);
+                //console.log("DATA LENGTH:\n", data[0].data.length);
                 //console.log(data);
                 console.log(JSON.stringify(window.performance.memory, ['totalJSHeapSize', 'usedJSHeapSize', 'jsHeapSizeLimit']));
                 firstStartTime = new Date();
@@ -56,6 +56,7 @@
 
                 console.log(JSON.stringify(window.performance.memory, ['totalJSHeapSize', 'usedJSHeapSize', 'jsHeapSizeLimit']));
                 console.log("LOADED data to jsonData");
+                return true;
             });
         }
 
@@ -112,6 +113,9 @@
         }
 
         api_request();
+
+        console.log(JSON.stringify(window.performance.memory, ['totalJSHeapSize', 'usedJSHeapSize', 'jsHeapSizeLimit']));
+        console.log("LAST CONSOLE LOG");
     </script>
 
 {% include 'partials/footer_noaa.html' %}
