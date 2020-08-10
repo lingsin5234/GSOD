@@ -36,7 +36,7 @@ class Job(DailyJob):
         d = DesiredCapabilities.CHROME
         d['loggingPrefs'] = {'browser': 'ALL'}
         browser = webdriver.Chrome(chrome_options=options, desired_capabilities=d)
-        this_date = dte.date(2020, 1, 10)
+        this_date = dte.date(2020, 1, 12)
         if st.DEBUG:
             URL = 'http://127.0.0.1:8000/calculate-hexGrid/' + str(this_date) + '/'
         else:
@@ -56,18 +56,20 @@ class Job(DailyJob):
             jsonTag = WebDriverWait(browser, delay).until(EC.presence_of_element_located((By.ID, 'jsonData')))
             print("Calculations and API requests completed!")
             # print(jsonData.get_attribute('innerHTML'))
-            jsonData = jsonTag.get_attribute('innerHTML')
+            # jsonData =
             filename = 'hexGrid_' + str(this_date) + '.json'
             try:
                 with open('gsod/posts/' + filename, 'w') as outfile:
-                    json.dump(json.loads(jsonData), outfile, indent=4)
+                    json.dump(json.loads(jsonTag.get_attribute('innerHTML')), outfile, indent=4)
                     # json.dump(request.data['data'], outfile, indent=4)
             except Exception as e:
+                browser.quit()
                 print('POST write to file: Failed', e)
                 with open(log_file, 'a') as outfile:
                     outfile.write('POST write to file: Failed' + str(e) + '\n')
                 status = False
             else:
+                browser.quit()
                 print('POST write to file: Success!')
                 with open(log_file, 'a') as outfile:
                     outfile.write('POST write to file: Success!' + '\n')
@@ -79,5 +81,4 @@ class Job(DailyJob):
             # after each completion, take a 10 minute break
             dbt.log_gsod_job_run(job_id, str(this_date), start_time, 'COMPLETED')
 
-        browser.quit()
         return True
