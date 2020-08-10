@@ -52,9 +52,8 @@
                 json_output.textContent = JSON.stringify(hexGrid);
                 document.getElementById("calculate").appendChild(json_output);
 
-                text = document.createElement("p");
-                text.setAttribute("id", "done");
-                document.getElementById("calculate").appendChild(text);
+                console.log(JSON.stringify(window.performance.memory, ['totalJSHeapSize', 'usedJSHeapSize', 'jsHeapSizeLimit']));
+                console.log("LOADED data to jsonData");
             });
         }
 

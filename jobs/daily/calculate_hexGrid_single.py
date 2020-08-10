@@ -45,7 +45,7 @@ class Job(DailyJob):
 
         print(URL)
         browser.get(URL)
-        time.sleep(200)
+        time.sleep(240)
         log_file = 'gsod/seleniumLog/' + str(dte.datetime.now().date()) + '.log'
         for entry in browser.get_log('browser'):
             print('CONSOLE LOG:', str(entry))
