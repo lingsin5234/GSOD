@@ -46,6 +46,11 @@ class Job(DailyJob):
         print(URL)
         browser.get(URL)
         time.sleep(200)
+        log_file = 'gsod/seleniumLog/' + str(dte.datetime.now().date()) + '.log'
+        for entry in browser.get_log('browser'):
+            print('CONSOLE LOG:' + entry)
+            with open(log_file, 'a') as outfile:
+                outfile.write('CONSOLE LOG:' + entry + '\n')
         delay = 500
         try:
             jsonTag = WebDriverWait(browser, delay).until(EC.presence_of_element_located((By.ID, 'jsonData')))
@@ -53,7 +58,6 @@ class Job(DailyJob):
             # print(jsonData.get_attribute('innerHTML'))
             jsonData = jsonTag.get_attribute('innerHTML')
             filename = 'hexGrid_' + str(this_date) + '.json'
-            log_file = 'gsod/seleniumLog/' + str(dte.datetime.now().date()) + '.log'
             try:
                 with open('gsod/posts/' + filename, 'w') as outfile:
                     json.dump(json.loads(jsonData), outfile, indent=4)
