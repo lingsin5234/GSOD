@@ -48,7 +48,7 @@ class Job(DailyJob):
         time.sleep(200)
         log_file = 'gsod/seleniumLog/' + str(dte.datetime.now().date()) + '.log'
         for entry in browser.get_log('browser'):
-            print('CONSOLE LOG:' + entry)
+            print('CONSOLE LOG:', entry)
             with open(log_file, 'a') as outfile:
                 outfile.write('CONSOLE LOG:' + entry + '\n')
         delay = 500
