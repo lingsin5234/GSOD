@@ -37,8 +37,8 @@
                 firstStartTime = new Date();
 
                 // run it through the HexGridConstructor
-                //hexGrid = HexGridConstructor(bbox, cellSide, options, data[0].data, levels, bot_lat, top_lat);
-                hexGrid = { hello: 'hello' };
+                hexGrid = HexGridConstructor(bbox, cellSide, options, data[0].data, levels, bot_lat, top_lat);
+
                 endTime = new Date();
                 console.log(JSON.stringify(window.performance.memory, ['totalJSHeapSize', 'usedJSHeapSize', 'jsHeapSizeLimit']));
 

@@ -8,8 +8,9 @@ from selenium.webdriver.common.by import By
 from selenium.common.exceptions import TimeoutException
 from gsod.oper import database_transactions as dbt
 import time
-import datetime as dt
+import datetime as dte
 import djangoapps.settings as st
+import json
 
 
 # this is a weekly job that loads GHCND data for all station
@@ -19,7 +20,7 @@ class Job(DailyJob):
     def execute(self):
 
         # for the job_runs database
-        start_time = dt.datetime.now()
+        start_time = dte.datetime.now()
         query = "SELECT Id FROM jobs_dim WHERE job_name='calculate_hexGrid_migrate'"
         job_id = [n for (n,) in dbt.gsod_db_reader(query)][0]
 
@@ -35,7 +36,7 @@ class Job(DailyJob):
         d = DesiredCapabilities.CHROME
         d['loggingPrefs'] = {'browser': 'ALL'}
         browser = webdriver.Chrome(chrome_options=options, desired_capabilities=d)
-        this_date = dt.date(2020, 1, 11)
+        this_date = dte.date(2020, 1, 10)
         if st.DEBUG:
             URL = 'http://127.0.0.1:8000/calculate-hexGrid/' + str(this_date) + '/'
         else:
@@ -44,33 +45,35 @@ class Job(DailyJob):
 
         print(URL)
         browser.get(URL)
-        time.sleep(20)
-        '''
-        for entry in browser.get_log('browser'):
-            print(entry)
-        '''
+        time.sleep(200)
         delay = 500
         try:
-            jsonData = WebDriverWait(browser, delay).until(EC.presence_of_element_located((By.ID, 'jsonData')))
+            jsonTag = WebDriverWait(browser, delay).until(EC.presence_of_element_located((By.ID, 'jsonData')))
             print("Calculations and API requests completed!")
-            print(jsonData.get_attribute('innerHTML'))
+            # print(jsonData.get_attribute('innerHTML'))
+            jsonData = jsonTag.get_attribute('innerHTML')
+            filename = 'hexGrid_' + str(this_date) + '.json'
+            log_file = 'gsod/seleniumLog/' + str(dte.datetime.now().date()) + '.log'
+            try:
+                with open('gsod/posts/' + filename, 'w') as outfile:
+                    json.dump(json.loads(jsonData), outfile, indent=4)
+                    # json.dump(request.data['data'], outfile, indent=4)
+            except Exception as e:
+                print('POST write to file: Failed', e)
+                with open(log_file, 'a') as outfile:
+                    outfile.write('POST write to file: Failed' + str(e) + '\n')
+                status = False
+            else:
+                print('POST write to file: Success!')
+                with open(log_file, 'a') as outfile:
+                    outfile.write('POST write to file: Success!' + '\n')
+                status = True
         except TimeoutException:
             print("Loading took too much time!", this_date)
             dbt.log_gsod_job_run(job_id, str(this_date), start_time, 'FAILED')
         else:
             # after each completion, take a 10 minute break
             dbt.log_gsod_job_run(job_id, str(this_date), start_time, 'COMPLETED')
-        '''
-        try:
-            myElem = WebDriverWait(browser, delay).until(EC.presence_of_element_located((By.ID, 'done')))
-            print("Calculations and API requests completed!")
-            print(myElem.get_attribute('outerHTML'))
-        except TimeoutException:
-            print("Loading took too much time!", this_date)
-            dbt.log_gsod_job_run(job_id, str(this_date), start_time, 'FAILED')
-        else:
-            # after each completion, take a 10 minute break
-            dbt.log_gsod_job_run(job_id, str(this_date), start_time, 'COMPLETED')
-        '''
+
         browser.quit()
         return True
