@@ -1,0 +1,18 @@
+{% include 'partials/header_noaa.html' %}
+    <div id="my_title" class="d-flex justify-content-center">
+        <h1>Gradient Legend</h1>
+    </div><br>
+
+    <div id="legend"></div>
+
+    {% load static %}
+    <script src="{% static 'scripts/gsod_scripts/gradientLegend.js' %}"></script>
+
+    <script>
+        // variable declarations
+        var rgb1 = "rgb(148,0,211)";
+        var rgb2 = "rgb(114,212,188)";
+        createGradient(rgb1, rgb2, 100, "legend");
+    </script>
+
+{% include 'partials/footer_noaa.html' %}

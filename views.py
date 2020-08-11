@@ -247,3 +247,9 @@ def calculate_hexGrid(request, date_of_data):
     }
 
     return render(request, 'pages/calculate_hexGrid.html', context)
+
+
+# testing out the gradient legend
+def gradientLegend(request):
+
+    return render(request, 'pages/gradientLegend.html')
