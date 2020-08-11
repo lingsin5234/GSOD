@@ -2781,3 +2781,5 @@ django.http.request.RawPostDataException: You cannot access body after reading f
 2020-08-11 12:49:58,436 django.utils.autoreload INFO     Watching for file changes with StatReloader
 2020-08-11 12:52:59,945 django.request WARNING  Not Found: /favicon.ico
 2020-08-11 12:52:59,945 django.request WARNING  Not Found: /favicon.ico
+2020-08-11 13:38:38,810 django.request WARNING  Not Found: /favicon.ico
+2020-08-11 13:38:38,810 django.request WARNING  Not Found: /favicon.ico
