@@ -39,8 +39,40 @@
         <div class="col-md-2"></div>
     </div><br>
 
+    <style>
+        .map-overlay {
+            position: absolute;
+            background: rgba(255, 255, 255, 0.8);
+            margin-left: 20px;
+            margin-top: 20px;
+            font-family: Arial, sans-serif;
+            overflow: auto;
+            border-radius: 3px;
+        }
+        #legend {
+            padding: 10px;
+            box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+            line-height: 18px;
+            height: 150px;
+            margin-bottom: 40px;
+            width: 120px;
+        }
+        .legend-key {
+            display: inline-block;
+            border-radius: 20%;
+            width: 10px;
+            height: 10px;
+            margin-right: 5px;
+        }
+        .legend-value {
+            float: right;
+        }
+    </style>
     <div class="d-flex justify-content-center">
-        <div id="map" style="width: 1200px; height: 800px;"></div>
+        <div class="row">
+            <div id="map" style="width: 1200px; height: 800px;"></div>
+            <div class="map-overlay" id="legend"></div>
+        </div>
     </div><br>
 
     <!-- node.js library: turf.js -->
@@ -102,10 +134,52 @@
                 data: {'dataDate': dataDate},
                 success: function(data) {
                     // run callback to return this data
-                    console.log(data);
+                    //console.log(data);
                     callback(data);
                 }
             });
+        }
+
+        // create legend
+        var titleDiv = document.createElement('div');
+        var titleSpan = document.createElement('span');
+        titleSpan.className = 'legend-key';
+        titleSpan.innerHTML = 'Temperatures';
+        titleSpan.style.marginBottom = "12px";
+        titleDiv.appendChild(titleSpan);
+        legend.appendChild(titleDiv);
+
+        // legend contents
+        layers = [
+            "-40 \u00B0C",
+            (0.45 * 80 - 40) + " \u00B0C",
+            (0.55 * 80 - 40) + " \u00B0C",
+            (0.7 * 80 - 40) + " \u00B0C",
+            (0.9 * 80 - 40) + " \u00B0C",
+            "40 \u00B0C"
+        ];
+        colours = [
+            'rgb(148,0,211)',
+            'rgb(114,212,188)',
+            'rgb(100,255,50)',
+            'rgb(255,255,0)',
+            'rgb(255,0,0)',
+            'rgb(153,0,0)'
+        ];
+        for (i = 0; i < layers.length; i++) {
+            var layer = layers[i];
+            var colour = colours[i];
+            var item = document.createElement('div');
+            var key = document.createElement('span');
+            key.className = 'legend-key';
+            key.style.backgroundColor = colour;
+
+            var value = document.createElement('span');
+            value.className = 'legend-value';
+            value.innerHTML = layer;
+            item.appendChild(key);
+            item.appendChild(value);
+            legend.appendChild(item);
         }
 
     </script>

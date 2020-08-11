@@ -30,14 +30,15 @@
 
             // make the get request
             get_stations("str1", function(data) {
-                console.log("API OUTPUT:\n", data[0].data);
-                console.log("DATA LENGTH:\n", data[0].data.length);
+                //console.log("API OUTPUT:\n", data[0].data);
+                //console.log("DATA LENGTH:\n", data[0].data.length);
                 //console.log(data);
                 console.log(JSON.stringify(window.performance.memory, ['totalJSHeapSize', 'usedJSHeapSize', 'jsHeapSizeLimit']));
                 firstStartTime = new Date();
 
                 // run it through the HexGridConstructor
                 hexGrid = HexGridConstructor(bbox, cellSide, options, data[0].data, levels, bot_lat, top_lat);
+                //hexGrid = { hello: 'hello' };
 
                 endTime = new Date();
                 console.log(JSON.stringify(window.performance.memory, ['totalJSHeapSize', 'usedJSHeapSize', 'jsHeapSizeLimit']));
@@ -46,11 +47,16 @@
                 console.log("All Completed.\nHexGridConstructor Time Elapsed:" + JSON.stringify(seconds));
 
                 // send this as POST request to save in backend
-                post_data(hexGrid);
+                //post_data(hexGrid);
+                json_output = document.createElement("pre");
+                json_output.setAttribute("id", "jsonData");
+                json_output.textContent = JSON.stringify(hexGrid);
+                hexGrid = {};  // clear memory prior to assigning $('#jsonData')
+                document.getElementById("calculate").appendChild(json_output);
 
-                text = document.createElement("p");
-                text.setAttribute("id", "done");
-                document.getElementById("calculate").appendChild(text);
+                console.log(JSON.stringify(window.performance.memory, ['totalJSHeapSize', 'usedJSHeapSize', 'jsHeapSizeLimit']));
+                console.log("LOADED data to jsonData");
+                return true;
             });
         }
 
@@ -107,6 +113,9 @@
         }
 
         api_request();
+
+        console.log(JSON.stringify(window.performance.memory, ['totalJSHeapSize', 'usedJSHeapSize', 'jsHeapSizeLimit']));
+        console.log("LAST CONSOLE LOG");
     </script>
 
 {% include 'partials/footer_noaa.html' %}

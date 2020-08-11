@@ -24,6 +24,7 @@ urlpatterns = [
     re_path(r'^project/', gsod_vw.project_markdown),
     re_path(r'^stations/', gsod_vw.list_stations),
     re_path(r'^table_view/station/(?P<station_id>[:A-Z0-9]+)/$', gsod_vw.station_data_table),
+    re_path(r'gradientLegend', gsod_vw.gradientLegend),
 
     # Temperature Layer GHCND Data with API
     re_path(r'api/get_all_stations', gsod_vw.WeatherStationsAPI.as_view(), name='api-get-all-stations'),
