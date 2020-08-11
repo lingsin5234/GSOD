@@ -8,9 +8,6 @@ The purpose of this project is to run a daily ETL of the GSOD data, polish its d
 build prediction models and design data visualizations with the data and models.
 
 ## USA Historic Weather Data
-Currently, a small data set is used to visualize US historic weather data for the following parameters:  
-*  Maximum Temperature °C
-*  Minimum Temperature °C
-*  Rainfall (mm)
-*  Snowfall (mm)
-*  Snow Depth (mm)
+Currently, the Maximum Temperature (in °C) is displayed as a temperature gradient by date. This is calculated using
+approximately 700 weather stations' data, and added as a layer onto the map generated using MapBox. The grid itself
+is generated through the JavaScript library, Turf.js.
