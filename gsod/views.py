@@ -310,14 +310,14 @@ def calculate_hexGrid2(request):
             "type": "Feature",
             "geometry": {
                 "type": "Point",
-                "coordinates": [-66.726937845145, 49.733940496411925]
+                "coordinates": [-66.726937845145, 49.733555]
             }
         },
         {
             "type": "Feature",
             "geometry": {
                 "type": "Point",
-                "coordinates": [-66.726937845145, 49.733940496411925]
+                "coordinates": [-126.726937845145, 23.733940496411925]
             }
         },
     ]

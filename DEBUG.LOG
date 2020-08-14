@@ -3768,3 +3768,799 @@ AttributeError: 'dict' object has no attribute 'features'
 2020-08-14 13:35:06,717 shapely.geos DEBUG    Trying `CDLL(C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll)`
 2020-08-14 13:35:06,719 shapely.geos DEBUG    Library path: 'C:\\Users\\Sinto\\Documents\\PycharmProjects\\venv\\lib\\site-packages\\shapely\\DLLs\\geos_c.dll'
 2020-08-14 13:35:06,719 shapely.geos DEBUG    DLL: <CDLL 'C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll', handle 7ffc2aca0000 at 0x2b580f0ccc8>
+2020-08-14 13:35:48,045 django.request ERROR    Internal Server Error: /calc-hexGrid2
+Traceback (most recent call last):
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\views.py", line 325, in calculate_hexGrid2
+    status = hc.hexgrid_constructor(bbox, cellSide, stations, 8)
+  File "C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\oper\hexgrid_constructor.py", line 49, in hexgrid_constructor
+    closest_hex = turf.nearest_point(station, centroid_set)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\turfpy\measurement.py", line 563, in nearest_point
+    feature_each(points, _callback_feature_each)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\turfpy\meta.py", line 438, in feature_each
+    callback(geojson, 0)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\turfpy\measurement.py", line 558, in _callback_feature_each
+    distance_to_point = distance(target_point, pt)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\turfpy\measurement.py", line 109, in distance
+    coordinates1 = get_coord(point1)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\turfpy\helper.py", line 65, in get_coord
+    if coord.type == "Feature" and coord.geometry and coord.geometry.type == "Point":
+AttributeError: 'dict' object has no attribute 'type'
+2020-08-14 13:35:48,049 django.request ERROR    Internal Server Error: /calc-hexGrid2
+Traceback (most recent call last):
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\views.py", line 325, in calculate_hexGrid2
+    status = hc.hexgrid_constructor(bbox, cellSide, stations, 8)
+  File "C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\oper\hexgrid_constructor.py", line 49, in hexgrid_constructor
+    closest_hex = turf.nearest_point(station, centroid_set)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\turfpy\measurement.py", line 563, in nearest_point
+    feature_each(points, _callback_feature_each)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\turfpy\meta.py", line 438, in feature_each
+    callback(geojson, 0)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\turfpy\measurement.py", line 558, in _callback_feature_each
+    distance_to_point = distance(target_point, pt)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\turfpy\measurement.py", line 109, in distance
+    coordinates1 = get_coord(point1)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\turfpy\helper.py", line 65, in get_coord
+    if coord.type == "Feature" and coord.geometry and coord.geometry.type == "Point":
+AttributeError: 'dict' object has no attribute 'type'
+2020-08-14 13:35:48,045 django.request ERROR    Internal Server Error: /calc-hexGrid2
+Traceback (most recent call last):
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\views.py", line 325, in calculate_hexGrid2
+    status = hc.hexgrid_constructor(bbox, cellSide, stations, 8)
+  File "C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\oper\hexgrid_constructor.py", line 49, in hexgrid_constructor
+    closest_hex = turf.nearest_point(station, centroid_set)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\turfpy\measurement.py", line 563, in nearest_point
+    feature_each(points, _callback_feature_each)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\turfpy\meta.py", line 438, in feature_each
+    callback(geojson, 0)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\turfpy\measurement.py", line 558, in _callback_feature_each
+    distance_to_point = distance(target_point, pt)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\turfpy\measurement.py", line 109, in distance
+    coordinates1 = get_coord(point1)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\turfpy\helper.py", line 65, in get_coord
+    if coord.type == "Feature" and coord.geometry and coord.geometry.type == "Point":
+AttributeError: 'dict' object has no attribute 'type'
+2020-08-14 13:35:48,049 django.request ERROR    Internal Server Error: /calc-hexGrid2
+Traceback (most recent call last):
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\views.py", line 325, in calculate_hexGrid2
+    status = hc.hexgrid_constructor(bbox, cellSide, stations, 8)
+  File "C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\oper\hexgrid_constructor.py", line 49, in hexgrid_constructor
+    closest_hex = turf.nearest_point(station, centroid_set)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\turfpy\measurement.py", line 563, in nearest_point
+    feature_each(points, _callback_feature_each)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\turfpy\meta.py", line 438, in feature_each
+    callback(geojson, 0)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\turfpy\measurement.py", line 558, in _callback_feature_each
+    distance_to_point = distance(target_point, pt)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\turfpy\measurement.py", line 109, in distance
+    coordinates1 = get_coord(point1)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\turfpy\helper.py", line 65, in get_coord
+    if coord.type == "Feature" and coord.geometry and coord.geometry.type == "Point":
+AttributeError: 'dict' object has no attribute 'type'
+2020-08-14 13:37:23,971 django.utils.autoreload INFO     C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\oper\hexgrid_constructor.py changed, reloading.
+2020-08-14 13:37:23,971 asyncio      DEBUG    Using selector: SelectSelector
+2020-08-14 13:37:25,425 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2020-08-14 13:37:26,003 shapely.geos DEBUG    Trying `CDLL(C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll)`
+2020-08-14 13:37:26,003 shapely.geos DEBUG    Library path: 'C:\\Users\\Sinto\\Documents\\PycharmProjects\\venv\\lib\\site-packages\\shapely\\DLLs\\geos_c.dll'
+2020-08-14 13:37:26,003 shapely.geos DEBUG    DLL: <CDLL 'C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll', handle 7ffc2aca0000 at 0x1eae589b9c8>
+2020-08-14 13:37:51,283 django.request ERROR    Internal Server Error: /calc-hexGrid2
+Traceback (most recent call last):
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\views.py", line 325, in calculate_hexGrid2
+    status = hc.hexgrid_constructor(bbox, cellSide, stations, 8)
+  File "C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\oper\hexgrid_constructor.py", line 49, in hexgrid_constructor
+    closest_hex = turf.nearest_point(station, centroid_set)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\turfpy\measurement.py", line 563, in nearest_point
+    feature_each(points, _callback_feature_each)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\turfpy\meta.py", line 441, in feature_each
+    if not callback(geojson["features"][i], i):
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\turfpy\measurement.py", line 558, in _callback_feature_each
+    distance_to_point = distance(target_point, pt)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\turfpy\measurement.py", line 109, in distance
+    coordinates1 = get_coord(point1)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\turfpy\helper.py", line 65, in get_coord
+    if coord.type == "Feature" and coord.geometry and coord.geometry.type == "Point":
+AttributeError: 'dict' object has no attribute 'type'
+2020-08-14 13:37:51,283 django.request ERROR    Internal Server Error: /calc-hexGrid2
+Traceback (most recent call last):
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\views.py", line 325, in calculate_hexGrid2
+    status = hc.hexgrid_constructor(bbox, cellSide, stations, 8)
+  File "C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\oper\hexgrid_constructor.py", line 49, in hexgrid_constructor
+    closest_hex = turf.nearest_point(station, centroid_set)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\turfpy\measurement.py", line 563, in nearest_point
+    feature_each(points, _callback_feature_each)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\turfpy\meta.py", line 441, in feature_each
+    if not callback(geojson["features"][i], i):
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\turfpy\measurement.py", line 558, in _callback_feature_each
+    distance_to_point = distance(target_point, pt)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\turfpy\measurement.py", line 109, in distance
+    coordinates1 = get_coord(point1)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\turfpy\helper.py", line 65, in get_coord
+    if coord.type == "Feature" and coord.geometry and coord.geometry.type == "Point":
+AttributeError: 'dict' object has no attribute 'type'
+2020-08-14 13:40:39,718 django.utils.autoreload INFO     C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\oper\hexgrid_constructor.py changed, reloading.
+2020-08-14 13:40:39,726 asyncio      DEBUG    Using selector: SelectSelector
+2020-08-14 13:40:40,782 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2020-08-14 13:40:41,369 shapely.geos DEBUG    Trying `CDLL(C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll)`
+2020-08-14 13:40:41,371 shapely.geos DEBUG    Library path: 'C:\\Users\\Sinto\\Documents\\PycharmProjects\\venv\\lib\\site-packages\\shapely\\DLLs\\geos_c.dll'
+2020-08-14 13:40:41,371 shapely.geos DEBUG    DLL: <CDLL 'C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll', handle 7ffc2aca0000 at 0x247c689dd08>
+2020-08-14 13:41:07,245 django.request ERROR    Internal Server Error: /calc-hexGrid2
+Traceback (most recent call last):
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\views.py", line 325, in calculate_hexGrid2
+    status = hc.hexgrid_constructor(bbox, cellSide, stations, 8)
+  File "C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\oper\hexgrid_constructor.py", line 49, in hexgrid_constructor
+    closest_hex = turf.nearest_point(station, centroid_set)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\turfpy\measurement.py", line 563, in nearest_point
+    feature_each(points, _callback_feature_each)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\turfpy\meta.py", line 441, in feature_each
+    if not callback(geojson["features"][i], i):
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\turfpy\measurement.py", line 558, in _callback_feature_each
+    distance_to_point = distance(target_point, pt)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\turfpy\measurement.py", line 109, in distance
+    coordinates1 = get_coord(point1)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\turfpy\helper.py", line 65, in get_coord
+    if coord.type == "Feature" and coord.geometry and coord.geometry.type == "Point":
+AttributeError: 'dict' object has no attribute 'type'
+2020-08-14 13:41:07,245 django.request ERROR    Internal Server Error: /calc-hexGrid2
+Traceback (most recent call last):
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\views.py", line 325, in calculate_hexGrid2
+    status = hc.hexgrid_constructor(bbox, cellSide, stations, 8)
+  File "C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\oper\hexgrid_constructor.py", line 49, in hexgrid_constructor
+    closest_hex = turf.nearest_point(station, centroid_set)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\turfpy\measurement.py", line 563, in nearest_point
+    feature_each(points, _callback_feature_each)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\turfpy\meta.py", line 441, in feature_each
+    if not callback(geojson["features"][i], i):
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\turfpy\measurement.py", line 558, in _callback_feature_each
+    distance_to_point = distance(target_point, pt)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\turfpy\measurement.py", line 109, in distance
+    coordinates1 = get_coord(point1)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\turfpy\helper.py", line 65, in get_coord
+    if coord.type == "Feature" and coord.geometry and coord.geometry.type == "Point":
+AttributeError: 'dict' object has no attribute 'type'
+2020-08-14 13:41:46,132 django.utils.autoreload INFO     C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\oper\hexgrid_constructor.py changed, reloading.
+2020-08-14 13:41:46,134 asyncio      DEBUG    Using selector: SelectSelector
+2020-08-14 13:41:47,358 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2020-08-14 13:41:47,952 shapely.geos DEBUG    Trying `CDLL(C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll)`
+2020-08-14 13:41:47,954 shapely.geos DEBUG    Library path: 'C:\\Users\\Sinto\\Documents\\PycharmProjects\\venv\\lib\\site-packages\\shapely\\DLLs\\geos_c.dll'
+2020-08-14 13:41:47,954 shapely.geos DEBUG    DLL: <CDLL 'C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll', handle 7ffc2aca0000 at 0x20798a58c48>
+2020-08-14 13:42:12,543 django.utils.autoreload INFO     C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\oper\hexgrid_constructor.py changed, reloading.
+2020-08-14 13:42:12,544 asyncio      DEBUG    Using selector: SelectSelector
+2020-08-14 13:42:13,528 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2020-08-14 13:42:14,103 shapely.geos DEBUG    Trying `CDLL(C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll)`
+2020-08-14 13:42:14,103 shapely.geos DEBUG    Library path: 'C:\\Users\\Sinto\\Documents\\PycharmProjects\\venv\\lib\\site-packages\\shapely\\DLLs\\geos_c.dll'
+2020-08-14 13:42:14,103 shapely.geos DEBUG    DLL: <CDLL 'C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll', handle 7ffc2aca0000 at 0x21e5415cb88>
+2020-08-14 13:42:27,789 django.utils.autoreload INFO     C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\oper\hexgrid_constructor.py changed, reloading.
+2020-08-14 13:42:27,790 asyncio      DEBUG    Using selector: SelectSelector
+2020-08-14 13:42:28,818 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2020-08-14 13:42:29,382 shapely.geos DEBUG    Trying `CDLL(C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll)`
+2020-08-14 13:42:29,382 shapely.geos DEBUG    Library path: 'C:\\Users\\Sinto\\Documents\\PycharmProjects\\venv\\lib\\site-packages\\shapely\\DLLs\\geos_c.dll'
+2020-08-14 13:42:29,382 shapely.geos DEBUG    DLL: <CDLL 'C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll', handle 7ffc2aca0000 at 0x21cbc7dbc48>
+2020-08-14 13:42:54,774 django.request ERROR    Internal Server Error: /calc-hexGrid2
+Traceback (most recent call last):
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\views.py", line 325, in calculate_hexGrid2
+    status = hc.hexgrid_constructor(bbox, cellSide, stations, 8)
+  File "C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\oper\hexgrid_constructor.py", line 50, in hexgrid_constructor
+    closest_hex = turf.nearest_point(station_coord, centroid_set)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\turfpy\measurement.py", line 563, in nearest_point
+    feature_each(points, _callback_feature_each)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\turfpy\meta.py", line 441, in feature_each
+    if not callback(geojson["features"][i], i):
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\turfpy\measurement.py", line 558, in _callback_feature_each
+    distance_to_point = distance(target_point, pt)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\turfpy\measurement.py", line 109, in distance
+    coordinates1 = get_coord(point1)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\turfpy\helper.py", line 79, in get_coord
+    raise Exception("coord must be GeoJSON Point or an Array of numbers")
+Exception: coord must be GeoJSON Point or an Array of numbers
+2020-08-14 13:42:54,774 django.request ERROR    Internal Server Error: /calc-hexGrid2
+Traceback (most recent call last):
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\views.py", line 325, in calculate_hexGrid2
+    status = hc.hexgrid_constructor(bbox, cellSide, stations, 8)
+  File "C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\oper\hexgrid_constructor.py", line 50, in hexgrid_constructor
+    closest_hex = turf.nearest_point(station_coord, centroid_set)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\turfpy\measurement.py", line 563, in nearest_point
+    feature_each(points, _callback_feature_each)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\turfpy\meta.py", line 441, in feature_each
+    if not callback(geojson["features"][i], i):
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\turfpy\measurement.py", line 558, in _callback_feature_each
+    distance_to_point = distance(target_point, pt)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\turfpy\measurement.py", line 109, in distance
+    coordinates1 = get_coord(point1)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\turfpy\helper.py", line 79, in get_coord
+    raise Exception("coord must be GeoJSON Point or an Array of numbers")
+Exception: coord must be GeoJSON Point or an Array of numbers
+2020-08-14 13:43:53,714 django.utils.autoreload INFO     C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\oper\hexgrid_constructor.py changed, reloading.
+2020-08-14 13:43:53,714 asyncio      DEBUG    Using selector: SelectSelector
+2020-08-14 13:43:54,885 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2020-08-14 13:43:55,475 shapely.geos DEBUG    Trying `CDLL(C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll)`
+2020-08-14 13:43:55,475 shapely.geos DEBUG    Library path: 'C:\\Users\\Sinto\\Documents\\PycharmProjects\\venv\\lib\\site-packages\\shapely\\DLLs\\geos_c.dll'
+2020-08-14 13:43:55,475 shapely.geos DEBUG    DLL: <CDLL 'C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll', handle 7ffc2aca0000 at 0x269f1f83948>
+2020-08-14 13:44:19,869 asyncio      DEBUG    Using selector: SelectSelector
+2020-08-14 13:44:20,433 asyncio      DEBUG    Using selector: SelectSelector
+2020-08-14 13:44:24,447 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2020-08-14 13:44:25,026 shapely.geos DEBUG    Trying `CDLL(C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll)`
+2020-08-14 13:44:25,028 shapely.geos DEBUG    Library path: 'C:\\Users\\Sinto\\Documents\\PycharmProjects\\venv\\lib\\site-packages\\shapely\\DLLs\\geos_c.dll'
+2020-08-14 13:44:25,028 shapely.geos DEBUG    DLL: <CDLL 'C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll', handle 7ffc2ad40000 at 0x2fd3800bf48>
+2020-08-14 13:45:15,337 django.utils.autoreload INFO     C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\oper\hexgrid_constructor.py changed, reloading.
+2020-08-14 13:45:15,353 asyncio      DEBUG    Using selector: SelectSelector
+2020-08-14 13:45:16,800 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2020-08-14 13:45:17,364 shapely.geos DEBUG    Trying `CDLL(C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll)`
+2020-08-14 13:45:17,366 shapely.geos DEBUG    Library path: 'C:\\Users\\Sinto\\Documents\\PycharmProjects\\venv\\lib\\site-packages\\shapely\\DLLs\\geos_c.dll'
+2020-08-14 13:45:17,366 shapely.geos DEBUG    DLL: <CDLL 'C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll', handle 7ffc2ad40000 at 0x132012c9d48>
+2020-08-14 13:45:26,307 django.utils.autoreload INFO     C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\oper\hexgrid_constructor.py changed, reloading.
+2020-08-14 13:45:26,307 asyncio      DEBUG    Using selector: SelectSelector
+2020-08-14 13:45:27,274 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2020-08-14 13:45:27,851 shapely.geos DEBUG    Trying `CDLL(C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll)`
+2020-08-14 13:45:27,853 shapely.geos DEBUG    Library path: 'C:\\Users\\Sinto\\Documents\\PycharmProjects\\venv\\lib\\site-packages\\shapely\\DLLs\\geos_c.dll'
+2020-08-14 13:45:27,853 shapely.geos DEBUG    DLL: <CDLL 'C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll', handle 7ffc2ad40000 at 0x2851b80bb88>
+2020-08-14 13:45:52,239 django.utils.autoreload INFO     C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\oper\hexgrid_constructor.py changed, reloading.
+2020-08-14 13:45:52,307 asyncio      DEBUG    Using selector: SelectSelector
+2020-08-14 13:45:53,904 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2020-08-14 13:45:54,465 shapely.geos DEBUG    Trying `CDLL(C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll)`
+2020-08-14 13:45:54,467 shapely.geos DEBUG    Library path: 'C:\\Users\\Sinto\\Documents\\PycharmProjects\\venv\\lib\\site-packages\\shapely\\DLLs\\geos_c.dll'
+2020-08-14 13:45:54,467 shapely.geos DEBUG    DLL: <CDLL 'C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll', handle 7ffc2ad40000 at 0x17570e7adc8>
+2020-08-14 13:46:32,715 django.request ERROR    Internal Server Error: /calc-hexGrid2
+Traceback (most recent call last):
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\views.py", line 325, in calculate_hexGrid2
+    status = hc.hexgrid_constructor(bbox, cellSide, stations, 8)
+  File "C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\oper\hexgrid_constructor.py", line 48, in hexgrid_constructor
+    station_coord = Feature(geometry=Point(station['geometry']['coordinates']))
+NameError: name 'Point' is not defined
+2020-08-14 13:46:32,717 django.request ERROR    Internal Server Error: /calc-hexGrid2
+Traceback (most recent call last):
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\views.py", line 325, in calculate_hexGrid2
+    status = hc.hexgrid_constructor(bbox, cellSide, stations, 8)
+  File "C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\oper\hexgrid_constructor.py", line 48, in hexgrid_constructor
+    station_coord = Feature(geometry=Point(station['geometry']['coordinates']))
+NameError: name 'Point' is not defined
+2020-08-14 13:46:32,715 django.request ERROR    Internal Server Error: /calc-hexGrid2
+Traceback (most recent call last):
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\views.py", line 325, in calculate_hexGrid2
+    status = hc.hexgrid_constructor(bbox, cellSide, stations, 8)
+  File "C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\oper\hexgrid_constructor.py", line 48, in hexgrid_constructor
+    station_coord = Feature(geometry=Point(station['geometry']['coordinates']))
+NameError: name 'Point' is not defined
+2020-08-14 13:46:32,717 django.request ERROR    Internal Server Error: /calc-hexGrid2
+Traceback (most recent call last):
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\views.py", line 325, in calculate_hexGrid2
+    status = hc.hexgrid_constructor(bbox, cellSide, stations, 8)
+  File "C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\oper\hexgrid_constructor.py", line 48, in hexgrid_constructor
+    station_coord = Feature(geometry=Point(station['geometry']['coordinates']))
+NameError: name 'Point' is not defined
+2020-08-14 13:46:59,087 django.request ERROR    Internal Server Error: /calc-hexGrid2
+Traceback (most recent call last):
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\views.py", line 325, in calculate_hexGrid2
+    status = hc.hexgrid_constructor(bbox, cellSide, stations, 8)
+  File "C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\oper\hexgrid_constructor.py", line 48, in hexgrid_constructor
+    station_coord = Feature(geometry=Point(station['geometry']['coordinates']))
+NameError: name 'Point' is not defined
+2020-08-14 13:46:59,087 django.request ERROR    Internal Server Error: /calc-hexGrid2
+Traceback (most recent call last):
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\views.py", line 325, in calculate_hexGrid2
+    status = hc.hexgrid_constructor(bbox, cellSide, stations, 8)
+  File "C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\oper\hexgrid_constructor.py", line 48, in hexgrid_constructor
+    station_coord = Feature(geometry=Point(station['geometry']['coordinates']))
+NameError: name 'Point' is not defined
+2020-08-14 13:47:05,727 asyncio      DEBUG    Using selector: SelectSelector
+2020-08-14 13:47:06,091 asyncio      DEBUG    Using selector: SelectSelector
+2020-08-14 13:47:13,528 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2020-08-14 13:47:14,091 shapely.geos DEBUG    Trying `CDLL(C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll)`
+2020-08-14 13:47:14,091 shapely.geos DEBUG    Library path: 'C:\\Users\\Sinto\\Documents\\PycharmProjects\\venv\\lib\\site-packages\\shapely\\DLLs\\geos_c.dll'
+2020-08-14 13:47:14,091 shapely.geos DEBUG    DLL: <CDLL 'C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll', handle 7ffc2ad40000 at 0x1d73833bd88>
+2020-08-14 13:47:16,372 django.request WARNING  Not Found: /favicon.ico
+2020-08-14 13:47:16,372 django.request WARNING  Not Found: /favicon.ico
+2020-08-14 13:47:34,495 django.utils.autoreload INFO     C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\oper\hexgrid_constructor.py changed, reloading.
+2020-08-14 13:47:34,496 asyncio      DEBUG    Using selector: SelectSelector
+2020-08-14 13:47:35,506 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2020-08-14 13:47:36,076 shapely.geos DEBUG    Trying `CDLL(C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll)`
+2020-08-14 13:47:36,078 shapely.geos DEBUG    Library path: 'C:\\Users\\Sinto\\Documents\\PycharmProjects\\venv\\lib\\site-packages\\shapely\\DLLs\\geos_c.dll'
+2020-08-14 13:47:36,079 shapely.geos DEBUG    DLL: <CDLL 'C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll', handle 7ffc2ad40000 at 0x1b482786c48>
+2020-08-14 13:48:01,318 django.request ERROR    Internal Server Error: /calc-hexGrid2
+Traceback (most recent call last):
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\views.py", line 325, in calculate_hexGrid2
+    status = hc.hexgrid_constructor(bbox, cellSide, stations, 8)
+  File "C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\oper\hexgrid_constructor.py", line 53, in hexgrid_constructor
+    closest_hex = turf.nearest_point(station_coord, centroid_set)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\turfpy\measurement.py", line 563, in nearest_point
+    feature_each(points, _callback_feature_each)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\turfpy\meta.py", line 441, in feature_each
+    if not callback(geojson["features"][i], i):
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\turfpy\measurement.py", line 558, in _callback_feature_each
+    distance_to_point = distance(target_point, pt)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\turfpy\measurement.py", line 110, in distance
+    coordinates2 = get_coord(point2)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\turfpy\helper.py", line 65, in get_coord
+    if coord.type == "Feature" and coord.geometry and coord.geometry.type == "Point":
+AttributeError: 'dict' object has no attribute 'type'
+2020-08-14 13:48:01,318 django.request ERROR    Internal Server Error: /calc-hexGrid2
+Traceback (most recent call last):
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\views.py", line 325, in calculate_hexGrid2
+    status = hc.hexgrid_constructor(bbox, cellSide, stations, 8)
+  File "C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\oper\hexgrid_constructor.py", line 53, in hexgrid_constructor
+    closest_hex = turf.nearest_point(station_coord, centroid_set)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\turfpy\measurement.py", line 563, in nearest_point
+    feature_each(points, _callback_feature_each)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\turfpy\meta.py", line 441, in feature_each
+    if not callback(geojson["features"][i], i):
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\turfpy\measurement.py", line 558, in _callback_feature_each
+    distance_to_point = distance(target_point, pt)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\turfpy\measurement.py", line 110, in distance
+    coordinates2 = get_coord(point2)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\turfpy\helper.py", line 65, in get_coord
+    if coord.type == "Feature" and coord.geometry and coord.geometry.type == "Point":
+AttributeError: 'dict' object has no attribute 'type'
+2020-08-14 13:49:14,881 django.utils.autoreload INFO     C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\oper\hexgrid_constructor.py changed, reloading.
+2020-08-14 13:49:14,881 asyncio      DEBUG    Using selector: SelectSelector
+2020-08-14 13:49:16,048 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2020-08-14 13:49:16,595 shapely.geos DEBUG    Trying `CDLL(C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll)`
+2020-08-14 13:49:16,595 shapely.geos DEBUG    Library path: 'C:\\Users\\Sinto\\Documents\\PycharmProjects\\venv\\lib\\site-packages\\shapely\\DLLs\\geos_c.dll'
+2020-08-14 13:49:16,595 shapely.geos DEBUG    DLL: <CDLL 'C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll', handle 7ffc2ad40000 at 0x1e9c346ab88>
+2020-08-14 13:49:23,067 django.utils.autoreload INFO     C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\oper\hexgrid_constructor.py changed, reloading.
+2020-08-14 13:49:23,067 asyncio      DEBUG    Using selector: SelectSelector
+2020-08-14 13:49:24,015 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2020-08-14 13:49:24,585 shapely.geos DEBUG    Trying `CDLL(C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll)`
+2020-08-14 13:49:24,587 shapely.geos DEBUG    Library path: 'C:\\Users\\Sinto\\Documents\\PycharmProjects\\venv\\lib\\site-packages\\shapely\\DLLs\\geos_c.dll'
+2020-08-14 13:49:24,589 shapely.geos DEBUG    DLL: <CDLL 'C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll', handle 7ffc2ad40000 at 0x120ff0e82c8>
+2020-08-14 13:49:53,971 django.utils.autoreload INFO     C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\oper\hexgrid_constructor.py changed, reloading.
+2020-08-14 13:49:53,972 asyncio      DEBUG    Using selector: SelectSelector
+2020-08-14 13:49:54,959 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2020-08-14 13:49:55,528 shapely.geos DEBUG    Trying `CDLL(C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll)`
+2020-08-14 13:49:55,530 shapely.geos DEBUG    Library path: 'C:\\Users\\Sinto\\Documents\\PycharmProjects\\venv\\lib\\site-packages\\shapely\\DLLs\\geos_c.dll'
+2020-08-14 13:49:55,531 shapely.geos DEBUG    DLL: <CDLL 'C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll', handle 7ffc2ad40000 at 0x22d592369c8>
+2020-08-14 13:50:13,492 django.request ERROR    Internal Server Error: /calc-hexGrid2
+Traceback (most recent call last):
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\views.py", line 325, in calculate_hexGrid2
+    status = hc.hexgrid_constructor(bbox, cellSide, stations, 8)
+  File "C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\oper\hexgrid_constructor.py", line 58, in hexgrid_constructor
+    hexGridDict[coord]['station'] = station
+KeyError: 'type,geometry,properties'
+2020-08-14 13:50:13,492 django.request ERROR    Internal Server Error: /calc-hexGrid2
+Traceback (most recent call last):
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\views.py", line 325, in calculate_hexGrid2
+    status = hc.hexgrid_constructor(bbox, cellSide, stations, 8)
+  File "C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\oper\hexgrid_constructor.py", line 58, in hexgrid_constructor
+    hexGridDict[coord]['station'] = station
+KeyError: 'type,geometry,properties'
+2020-08-14 13:50:38,823 django.utils.autoreload INFO     C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\oper\hexgrid_constructor.py changed, reloading.
+2020-08-14 13:50:38,823 asyncio      DEBUG    Using selector: SelectSelector
+2020-08-14 13:50:40,028 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2020-08-14 13:50:40,587 shapely.geos DEBUG    Trying `CDLL(C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll)`
+2020-08-14 13:50:40,587 shapely.geos DEBUG    Library path: 'C:\\Users\\Sinto\\Documents\\PycharmProjects\\venv\\lib\\site-packages\\shapely\\DLLs\\geos_c.dll'
+2020-08-14 13:50:40,587 shapely.geos DEBUG    DLL: <CDLL 'C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll', handle 7ffc35360000 at 0x1e89f1dcd48>
+2020-08-14 13:50:51,938 django.utils.autoreload INFO     C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\oper\hexgrid_constructor.py changed, reloading.
+2020-08-14 13:50:51,939 asyncio      DEBUG    Using selector: SelectSelector
+2020-08-14 13:50:52,948 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2020-08-14 13:50:53,528 shapely.geos DEBUG    Trying `CDLL(C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll)`
+2020-08-14 13:50:53,530 shapely.geos DEBUG    Library path: 'C:\\Users\\Sinto\\Documents\\PycharmProjects\\venv\\lib\\site-packages\\shapely\\DLLs\\geos_c.dll'
+2020-08-14 13:50:53,530 shapely.geos DEBUG    DLL: <CDLL 'C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll', handle 7ffc2ad40000 at 0x2204207bc08>
+2020-08-14 13:51:11,515 django.request ERROR    Internal Server Error: /calc-hexGrid2
+Traceback (most recent call last):
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\views.py", line 325, in calculate_hexGrid2
+    status = hc.hexgrid_constructor(bbox, cellSide, stations, 8)
+  File "C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\oper\hexgrid_constructor.py", line 59, in hexgrid_constructor
+    hexGridDict[coord]['station'] = station
+KeyError: '-125.773062,24.149234'
+2020-08-14 13:51:11,515 django.request ERROR    Internal Server Error: /calc-hexGrid2
+Traceback (most recent call last):
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\views.py", line 325, in calculate_hexGrid2
+    status = hc.hexgrid_constructor(bbox, cellSide, stations, 8)
+  File "C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\oper\hexgrid_constructor.py", line 59, in hexgrid_constructor
+    hexGridDict[coord]['station'] = station
+KeyError: '-125.773062,24.149234'
+2020-08-14 13:52:03,353 django.utils.autoreload INFO     C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\oper\hexgrid_constructor.py changed, reloading.
+2020-08-14 13:52:03,355 asyncio      DEBUG    Using selector: SelectSelector
+2020-08-14 13:52:04,558 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2020-08-14 13:52:05,099 shapely.geos DEBUG    Trying `CDLL(C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll)`
+2020-08-14 13:52:05,099 shapely.geos DEBUG    Library path: 'C:\\Users\\Sinto\\Documents\\PycharmProjects\\venv\\lib\\site-packages\\shapely\\DLLs\\geos_c.dll'
+2020-08-14 13:52:05,099 shapely.geos DEBUG    DLL: <CDLL 'C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll', handle 7ffc2ad40000 at 0x1966af0cf88>
+2020-08-14 13:52:21,251 django.utils.autoreload INFO     C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\oper\hexgrid_constructor.py changed, reloading.
+2020-08-14 13:52:21,251 asyncio      DEBUG    Using selector: SelectSelector
+2020-08-14 13:52:22,207 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2020-08-14 13:52:22,766 shapely.geos DEBUG    Trying `CDLL(C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll)`
+2020-08-14 13:52:22,768 shapely.geos DEBUG    Library path: 'C:\\Users\\Sinto\\Documents\\PycharmProjects\\venv\\lib\\site-packages\\shapely\\DLLs\\geos_c.dll'
+2020-08-14 13:52:22,768 shapely.geos DEBUG    DLL: <CDLL 'C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll', handle 7ffc3d410000 at 0x29f26bc9d48>
+2020-08-14 13:52:35,221 django.utils.autoreload INFO     C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\oper\hexgrid_constructor.py changed, reloading.
+2020-08-14 13:52:35,221 asyncio      DEBUG    Using selector: SelectSelector
+2020-08-14 13:52:36,164 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2020-08-14 13:52:36,737 shapely.geos DEBUG    Trying `CDLL(C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll)`
+2020-08-14 13:52:36,739 shapely.geos DEBUG    Library path: 'C:\\Users\\Sinto\\Documents\\PycharmProjects\\venv\\lib\\site-packages\\shapely\\DLLs\\geos_c.dll'
+2020-08-14 13:52:36,739 shapely.geos DEBUG    DLL: <CDLL 'C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll', handle 7ffc3d410000 at 0x15fe5ca0f08>
+2020-08-14 13:52:58,064 django.request ERROR    Internal Server Error: /calc-hexGrid2
+Traceback (most recent call last):
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\views.py", line 325, in calculate_hexGrid2
+    status = hc.hexgrid_constructor(bbox, cellSide, stations, 8)
+  File "C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\oper\hexgrid_constructor.py", line 60, in hexgrid_constructor
+    hexGridDict[coord]['station'] = station
+KeyError: 'N125.773062_24.149234'
+2020-08-14 13:52:58,064 django.request ERROR    Internal Server Error: /calc-hexGrid2
+Traceback (most recent call last):
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\views.py", line 325, in calculate_hexGrid2
+    status = hc.hexgrid_constructor(bbox, cellSide, stations, 8)
+  File "C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\oper\hexgrid_constructor.py", line 60, in hexgrid_constructor
+    hexGridDict[coord]['station'] = station
+KeyError: 'N125.773062_24.149234'
+2020-08-14 13:53:16,451 django.utils.autoreload INFO     C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\oper\hexgrid_constructor.py changed, reloading.
+2020-08-14 13:53:16,451 asyncio      DEBUG    Using selector: SelectSelector
+2020-08-14 13:53:17,628 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2020-08-14 13:53:18,182 shapely.geos DEBUG    Trying `CDLL(C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll)`
+2020-08-14 13:53:18,182 shapely.geos DEBUG    Library path: 'C:\\Users\\Sinto\\Documents\\PycharmProjects\\venv\\lib\\site-packages\\shapely\\DLLs\\geos_c.dll'
+2020-08-14 13:53:18,182 shapely.geos DEBUG    DLL: <CDLL 'C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll', handle 7ffc3d410000 at 0x2147623cdc8>
+2020-08-14 13:53:23,467 django.request ERROR    Internal Server Error: /calc-hexGrid2
+Traceback (most recent call last):
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\views.py", line 331, in calculate_hexGrid2
+    return render(request, 'pages/run_hexGrid2.html', context)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\shortcuts.py", line 19, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: pages/run_hexGrid2.html
+2020-08-14 13:53:23,467 django.request ERROR    Internal Server Error: /calc-hexGrid2
+Traceback (most recent call last):
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\views.py", line 331, in calculate_hexGrid2
+    return render(request, 'pages/run_hexGrid2.html', context)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\shortcuts.py", line 19, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: pages/run_hexGrid2.html
+2020-08-14 13:53:30,806 django.request ERROR    Internal Server Error: /calc-hexGrid2
+Traceback (most recent call last):
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\views.py", line 331, in calculate_hexGrid2
+    return render(request, 'pages/run_hexGrid2.html', context)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\shortcuts.py", line 19, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: pages/run_hexGrid2.html
+2020-08-14 13:53:30,806 django.request ERROR    Internal Server Error: /calc-hexGrid2
+Traceback (most recent call last):
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\views.py", line 331, in calculate_hexGrid2
+    return render(request, 'pages/run_hexGrid2.html', context)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\shortcuts.py", line 19, in render
+    content = loader.render_to_string(template_name, context, request, using=using)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\template\loader.py", line 61, in render_to_string
+    template = get_template(template_name, using=using)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\template\loader.py", line 19, in get_template
+    raise TemplateDoesNotExist(template_name, chain=chain)
+django.template.exceptions.TemplateDoesNotExist: pages/run_hexGrid2.html
+2020-08-14 13:56:40,752 django.utils.autoreload INFO     C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\oper\hexgrid_constructor.py changed, reloading.
+2020-08-14 13:56:40,752 asyncio      DEBUG    Using selector: SelectSelector
+2020-08-14 13:56:41,780 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2020-08-14 13:56:42,365 shapely.geos DEBUG    Trying `CDLL(C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll)`
+2020-08-14 13:56:42,367 shapely.geos DEBUG    Library path: 'C:\\Users\\Sinto\\Documents\\PycharmProjects\\venv\\lib\\site-packages\\shapely\\DLLs\\geos_c.dll'
+2020-08-14 13:56:42,369 shapely.geos DEBUG    DLL: <CDLL 'C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll', handle 7ffc3d410000 at 0x2a4aa1ece88>
+2020-08-14 13:57:26,043 django.utils.autoreload INFO     C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\views.py changed, reloading.
+2020-08-14 13:57:26,044 asyncio      DEBUG    Using selector: SelectSelector
+2020-08-14 13:57:27,042 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2020-08-14 13:57:27,610 shapely.geos DEBUG    Trying `CDLL(C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll)`
+2020-08-14 13:57:27,612 shapely.geos DEBUG    Library path: 'C:\\Users\\Sinto\\Documents\\PycharmProjects\\venv\\lib\\site-packages\\shapely\\DLLs\\geos_c.dll'
+2020-08-14 13:57:27,612 shapely.geos DEBUG    DLL: <CDLL 'C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll', handle 7ffc3d410000 at 0x15d6ba5dc88>
+2020-08-14 13:58:07,069 django.utils.autoreload INFO     C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\oper\hexgrid_constructor.py changed, reloading.
+2020-08-14 13:58:07,085 asyncio      DEBUG    Using selector: SelectSelector
+2020-08-14 13:58:08,050 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2020-08-14 13:58:08,609 shapely.geos DEBUG    Trying `CDLL(C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll)`
+2020-08-14 13:58:08,609 shapely.geos DEBUG    Library path: 'C:\\Users\\Sinto\\Documents\\PycharmProjects\\venv\\lib\\site-packages\\shapely\\DLLs\\geos_c.dll'
+2020-08-14 13:58:08,609 shapely.geos DEBUG    DLL: <CDLL 'C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll', handle 7ffc3d410000 at 0x223617c2108>
+2020-08-14 13:58:10,315 django.utils.autoreload INFO     C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\oper\hexgrid_constructor.py changed, reloading.
+2020-08-14 13:58:10,315 asyncio      DEBUG    Using selector: SelectSelector
+2020-08-14 13:58:11,299 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2020-08-14 13:58:11,849 shapely.geos DEBUG    Trying `CDLL(C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll)`
+2020-08-14 13:58:11,849 shapely.geos DEBUG    Library path: 'C:\\Users\\Sinto\\Documents\\PycharmProjects\\venv\\lib\\site-packages\\shapely\\DLLs\\geos_c.dll'
+2020-08-14 13:58:11,849 shapely.geos DEBUG    DLL: <CDLL 'C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll', handle 7ffc3d410000 at 0x2c5e553cfc8>
+2020-08-14 13:58:48,881 django.utils.autoreload INFO     C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\oper\hexgrid_constructor.py changed, reloading.
+2020-08-14 13:58:48,881 asyncio      DEBUG    Using selector: SelectSelector
+2020-08-14 13:58:49,877 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2020-08-14 13:58:50,430 shapely.geos DEBUG    Trying `CDLL(C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll)`
+2020-08-14 13:58:50,430 shapely.geos DEBUG    Library path: 'C:\\Users\\Sinto\\Documents\\PycharmProjects\\venv\\lib\\site-packages\\shapely\\DLLs\\geos_c.dll'
+2020-08-14 13:58:50,430 shapely.geos DEBUG    DLL: <CDLL 'C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll', handle 7ffc3d410000 at 0x1c95348be88>
+2020-08-14 13:59:37,860 django.utils.autoreload INFO     C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\views.py changed, reloading.
+2020-08-14 13:59:37,861 asyncio      DEBUG    Using selector: SelectSelector
+2020-08-14 13:59:38,921 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2020-08-14 13:59:39,485 shapely.geos DEBUG    Trying `CDLL(C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll)`
+2020-08-14 13:59:39,490 shapely.geos DEBUG    Library path: 'C:\\Users\\Sinto\\Documents\\PycharmProjects\\venv\\lib\\site-packages\\shapely\\DLLs\\geos_c.dll'
+2020-08-14 13:59:39,490 shapely.geos DEBUG    DLL: <CDLL 'C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll', handle 7ffc3d410000 at 0x1ffc0559f48>
+2020-08-14 14:01:52,331 django.utils.autoreload INFO     C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\oper\hexgrid_constructor.py changed, reloading.
+2020-08-14 14:01:52,331 asyncio      DEBUG    Using selector: SelectSelector
+2020-08-14 14:01:53,345 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2020-08-14 14:01:53,885 shapely.geos DEBUG    Trying `CDLL(C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll)`
+2020-08-14 14:01:53,885 shapely.geos DEBUG    Library path: 'C:\\Users\\Sinto\\Documents\\PycharmProjects\\venv\\lib\\site-packages\\shapely\\DLLs\\geos_c.dll'
+2020-08-14 14:01:53,885 shapely.geos DEBUG    DLL: <CDLL 'C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll', handle 7ffc3d410000 at 0x1d5cc6bbd08>
+2020-08-14 14:01:59,165 django.utils.autoreload INFO     C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\oper\hexgrid_constructor.py changed, reloading.
+2020-08-14 14:01:59,166 asyncio      DEBUG    Using selector: SelectSelector
+2020-08-14 14:02:00,262 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2020-08-14 14:02:00,884 shapely.geos DEBUG    Trying `CDLL(C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll)`
+2020-08-14 14:02:00,886 shapely.geos DEBUG    Library path: 'C:\\Users\\Sinto\\Documents\\PycharmProjects\\venv\\lib\\site-packages\\shapely\\DLLs\\geos_c.dll'
+2020-08-14 14:02:00,886 shapely.geos DEBUG    DLL: <CDLL 'C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll', handle 7ffc3d410000 at 0x249cac2bd48>
+2020-08-14 14:04:34,289 django.utils.autoreload INFO     C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\oper\hexgrid_constructor.py changed, reloading.
+2020-08-14 14:04:34,289 asyncio      DEBUG    Using selector: SelectSelector
+2020-08-14 14:04:35,261 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2020-08-14 14:04:35,838 shapely.geos DEBUG    Trying `CDLL(C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll)`
+2020-08-14 14:04:35,840 shapely.geos DEBUG    Library path: 'C:\\Users\\Sinto\\Documents\\PycharmProjects\\venv\\lib\\site-packages\\shapely\\DLLs\\geos_c.dll'
+2020-08-14 14:04:35,841 shapely.geos DEBUG    DLL: <CDLL 'C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll', handle 7ffc3d410000 at 0x2262a01ae08>
+2020-08-14 14:05:06,039 django.utils.autoreload INFO     C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\oper\hexgrid_constructor.py changed, reloading.
+2020-08-14 14:05:06,040 asyncio      DEBUG    Using selector: SelectSelector
+2020-08-14 14:05:07,070 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2020-08-14 14:05:07,676 shapely.geos DEBUG    Trying `CDLL(C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll)`
+2020-08-14 14:05:07,678 shapely.geos DEBUG    Library path: 'C:\\Users\\Sinto\\Documents\\PycharmProjects\\venv\\lib\\site-packages\\shapely\\DLLs\\geos_c.dll'
+2020-08-14 14:05:07,678 shapely.geos DEBUG    DLL: <CDLL 'C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll', handle 7ffc3d410000 at 0x17ce976a748>
+2020-08-14 14:07:08,671 django.utils.autoreload INFO     C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\views.py changed, reloading.
+2020-08-14 14:07:08,672 asyncio      DEBUG    Using selector: SelectSelector
+2020-08-14 14:07:09,743 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2020-08-14 14:07:10,360 shapely.geos DEBUG    Trying `CDLL(C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll)`
+2020-08-14 14:07:10,363 shapely.geos DEBUG    Library path: 'C:\\Users\\Sinto\\Documents\\PycharmProjects\\venv\\lib\\site-packages\\shapely\\DLLs\\geos_c.dll'
+2020-08-14 14:07:10,364 shapely.geos DEBUG    DLL: <CDLL 'C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll', handle 7ffc3d410000 at 0x2676feb8c08>
+2020-08-14 14:09:26,930 django.utils.autoreload INFO     C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\oper\hexgrid_constructor.py changed, reloading.
+2020-08-14 14:09:26,930 asyncio      DEBUG    Using selector: SelectSelector
+2020-08-14 14:09:27,863 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2020-08-14 14:09:28,432 shapely.geos DEBUG    Trying `CDLL(C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll)`
+2020-08-14 14:09:28,432 shapely.geos DEBUG    Library path: 'C:\\Users\\Sinto\\Documents\\PycharmProjects\\venv\\lib\\site-packages\\shapely\\DLLs\\geos_c.dll'
+2020-08-14 14:09:28,432 shapely.geos DEBUG    DLL: <CDLL 'C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll', handle 7ffc3d410000 at 0x2747051c848>
+2020-08-14 14:09:32,504 django.utils.autoreload INFO     C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\oper\hexgrid_constructor.py changed, reloading.
+2020-08-14 14:09:32,504 asyncio      DEBUG    Using selector: SelectSelector
+2020-08-14 14:09:33,522 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2020-08-14 14:09:34,109 shapely.geos DEBUG    Trying `CDLL(C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll)`
+2020-08-14 14:09:34,111 shapely.geos DEBUG    Library path: 'C:\\Users\\Sinto\\Documents\\PycharmProjects\\venv\\lib\\site-packages\\shapely\\DLLs\\geos_c.dll'
+2020-08-14 14:09:34,111 shapely.geos DEBUG    DLL: <CDLL 'C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll', handle 7ffc3d410000 at 0x26f6e8cdf48>
+2020-08-14 14:10:07,110 django.utils.autoreload INFO     C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\oper\hexgrid_constructor.py changed, reloading.
+2020-08-14 14:10:07,110 asyncio      DEBUG    Using selector: SelectSelector
+2020-08-14 14:10:08,042 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2020-08-14 14:10:08,621 shapely.geos DEBUG    Trying `CDLL(C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll)`
+2020-08-14 14:10:08,623 shapely.geos DEBUG    Library path: 'C:\\Users\\Sinto\\Documents\\PycharmProjects\\venv\\lib\\site-packages\\shapely\\DLLs\\geos_c.dll'
+2020-08-14 14:10:08,623 shapely.geos DEBUG    DLL: <CDLL 'C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll', handle 7ffc3d410000 at 0x23d7fbabfc8>
+2020-08-14 14:10:39,183 django.utils.autoreload INFO     C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\oper\hexgrid_constructor.py changed, reloading.
+2020-08-14 14:10:39,183 asyncio      DEBUG    Using selector: SelectSelector
+2020-08-14 14:10:40,132 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2020-08-14 14:10:40,701 shapely.geos DEBUG    Trying `CDLL(C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll)`
+2020-08-14 14:10:40,701 shapely.geos DEBUG    Library path: 'C:\\Users\\Sinto\\Documents\\PycharmProjects\\venv\\lib\\site-packages\\shapely\\DLLs\\geos_c.dll'
+2020-08-14 14:10:40,701 shapely.geos DEBUG    DLL: <CDLL 'C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll', handle 7ffc3d410000 at 0x24b4df11d48>
+2020-08-14 14:10:58,014 django.utils.autoreload INFO     C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\oper\hexgrid_constructor.py changed, reloading.
+2020-08-14 14:10:58,014 asyncio      DEBUG    Using selector: SelectSelector
+2020-08-14 14:10:59,025 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2020-08-14 14:10:59,576 shapely.geos DEBUG    Trying `CDLL(C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll)`
+2020-08-14 14:10:59,576 shapely.geos DEBUG    Library path: 'C:\\Users\\Sinto\\Documents\\PycharmProjects\\venv\\lib\\site-packages\\shapely\\DLLs\\geos_c.dll'
+2020-08-14 14:10:59,576 shapely.geos DEBUG    DLL: <CDLL 'C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll', handle 7ffc3d410000 at 0x287a04fc888>
+2020-08-14 14:11:19,489 django.utils.autoreload INFO     C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\oper\hexgrid_constructor.py changed, reloading.
+2020-08-14 14:11:19,489 asyncio      DEBUG    Using selector: SelectSelector
+2020-08-14 14:11:20,426 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2020-08-14 14:11:21,010 shapely.geos DEBUG    Trying `CDLL(C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll)`
+2020-08-14 14:11:21,010 shapely.geos DEBUG    Library path: 'C:\\Users\\Sinto\\Documents\\PycharmProjects\\venv\\lib\\site-packages\\shapely\\DLLs\\geos_c.dll'
+2020-08-14 14:11:21,010 shapely.geos DEBUG    DLL: <CDLL 'C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll', handle 7ffc3d410000 at 0x2167454bd88>
+2020-08-14 14:11:25,137 django.utils.autoreload INFO     C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\oper\hexgrid_constructor.py changed, reloading.
+2020-08-14 14:11:25,137 asyncio      DEBUG    Using selector: SelectSelector
+2020-08-14 14:11:26,090 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2020-08-14 14:11:26,654 shapely.geos DEBUG    Trying `CDLL(C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll)`
+2020-08-14 14:11:26,654 shapely.geos DEBUG    Library path: 'C:\\Users\\Sinto\\Documents\\PycharmProjects\\venv\\lib\\site-packages\\shapely\\DLLs\\geos_c.dll'
+2020-08-14 14:11:26,654 shapely.geos DEBUG    DLL: <CDLL 'C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll', handle 7ffc3d410000 at 0x21a7f6f9fc8>
+2020-08-14 14:11:59,823 django.utils.autoreload INFO     C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\oper\hexgrid_constructor.py changed, reloading.
+2020-08-14 14:11:59,823 asyncio      DEBUG    Using selector: SelectSelector
+2020-08-14 14:12:00,808 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2020-08-14 14:12:01,357 shapely.geos DEBUG    Trying `CDLL(C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll)`
+2020-08-14 14:12:01,357 shapely.geos DEBUG    Library path: 'C:\\Users\\Sinto\\Documents\\PycharmProjects\\venv\\lib\\site-packages\\shapely\\DLLs\\geos_c.dll'
+2020-08-14 14:12:01,357 shapely.geos DEBUG    DLL: <CDLL 'C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll', handle 7ffc3d410000 at 0x1bf04272688>
+2020-08-14 14:13:01,272 django.utils.autoreload INFO     C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\oper\hexgrid_constructor.py changed, reloading.
+2020-08-14 14:13:01,273 asyncio      DEBUG    Using selector: SelectSelector
+2020-08-14 14:13:02,262 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2020-08-14 14:13:02,825 shapely.geos DEBUG    Trying `CDLL(C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll)`
+2020-08-14 14:13:02,827 shapely.geos DEBUG    Library path: 'C:\\Users\\Sinto\\Documents\\PycharmProjects\\venv\\lib\\site-packages\\shapely\\DLLs\\geos_c.dll'
+2020-08-14 14:13:02,827 shapely.geos DEBUG    DLL: <CDLL 'C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll', handle 7ffc3d410000 at 0x1bb2ddaee48>
+2020-08-14 14:16:45,667 django.utils.autoreload INFO     C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\oper\hexgrid_constructor.py changed, reloading.
+2020-08-14 14:16:45,667 asyncio      DEBUG    Using selector: SelectSelector
+2020-08-14 14:16:46,674 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2020-08-14 14:16:47,292 shapely.geos DEBUG    Trying `CDLL(C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll)`
+2020-08-14 14:16:47,295 shapely.geos DEBUG    Library path: 'C:\\Users\\Sinto\\Documents\\PycharmProjects\\venv\\lib\\site-packages\\shapely\\DLLs\\geos_c.dll'
+2020-08-14 14:16:47,295 shapely.geos DEBUG    DLL: <CDLL 'C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll', handle 7ffc3d410000 at 0x25bd4faccc8>
+2020-08-14 14:17:07,213 django.utils.autoreload INFO     C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\oper\hexgrid_constructor.py changed, reloading.
+2020-08-14 14:17:07,214 asyncio      DEBUG    Using selector: SelectSelector
+2020-08-14 14:17:08,139 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2020-08-14 14:17:08,692 shapely.geos DEBUG    Trying `CDLL(C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll)`
+2020-08-14 14:17:08,692 shapely.geos DEBUG    Library path: 'C:\\Users\\Sinto\\Documents\\PycharmProjects\\venv\\lib\\site-packages\\shapely\\DLLs\\geos_c.dll'
+2020-08-14 14:17:08,692 shapely.geos DEBUG    DLL: <CDLL 'C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll', handle 7ffc3d410000 at 0x14d4b42adc8>
+2020-08-14 14:17:39,348 django.utils.autoreload INFO     C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\oper\hexgrid_constructor.py changed, reloading.
+2020-08-14 14:17:39,348 asyncio      DEBUG    Using selector: SelectSelector
+2020-08-14 14:17:40,330 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2020-08-14 14:17:40,883 shapely.geos DEBUG    Trying `CDLL(C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll)`
+2020-08-14 14:17:40,883 shapely.geos DEBUG    Library path: 'C:\\Users\\Sinto\\Documents\\PycharmProjects\\venv\\lib\\site-packages\\shapely\\DLLs\\geos_c.dll'
+2020-08-14 14:17:40,883 shapely.geos DEBUG    DLL: <CDLL 'C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll', handle 7ffc3d410000 at 0x2ab849ab7c8>
+2020-08-14 14:17:51,028 django.utils.autoreload INFO     C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\oper\hexgrid_constructor.py changed, reloading.
+2020-08-14 14:17:51,028 asyncio      DEBUG    Using selector: SelectSelector
+2020-08-14 14:17:51,977 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2020-08-14 14:17:52,554 shapely.geos DEBUG    Trying `CDLL(C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll)`
+2020-08-14 14:17:52,556 shapely.geos DEBUG    Library path: 'C:\\Users\\Sinto\\Documents\\PycharmProjects\\venv\\lib\\site-packages\\shapely\\DLLs\\geos_c.dll'
+2020-08-14 14:17:52,557 shapely.geos DEBUG    DLL: <CDLL 'C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll', handle 7ffc3d410000 at 0x15e4d9dc588>
+2020-08-14 14:18:17,991 django.utils.autoreload INFO     C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\oper\hexgrid_constructor.py changed, reloading.
+2020-08-14 14:18:17,992 asyncio      DEBUG    Using selector: SelectSelector
+2020-08-14 14:18:18,953 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2020-08-14 14:18:19,508 shapely.geos DEBUG    Trying `CDLL(C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll)`
+2020-08-14 14:18:19,508 shapely.geos DEBUG    Library path: 'C:\\Users\\Sinto\\Documents\\PycharmProjects\\venv\\lib\\site-packages\\shapely\\DLLs\\geos_c.dll'
+2020-08-14 14:18:19,508 shapely.geos DEBUG    DLL: <CDLL 'C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll', handle 7ffc3d410000 at 0x2c0b051b8c8>
+2020-08-14 14:19:04,326 django.utils.autoreload INFO     C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\oper\hexgrid_constructor.py changed, reloading.
+2020-08-14 14:19:04,326 asyncio      DEBUG    Using selector: SelectSelector
+2020-08-14 14:19:05,290 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2020-08-14 14:19:05,859 shapely.geos DEBUG    Trying `CDLL(C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll)`
+2020-08-14 14:19:05,859 shapely.geos DEBUG    Library path: 'C:\\Users\\Sinto\\Documents\\PycharmProjects\\venv\\lib\\site-packages\\shapely\\DLLs\\geos_c.dll'
+2020-08-14 14:19:05,859 shapely.geos DEBUG    DLL: <CDLL 'C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll', handle 7ffc3d410000 at 0x169cfb0ee08>
+2020-08-14 14:19:53,128 django.utils.autoreload INFO     C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\oper\hexgrid_constructor.py changed, reloading.
+2020-08-14 14:19:53,128 asyncio      DEBUG    Using selector: SelectSelector
+2020-08-14 14:19:54,124 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2020-08-14 14:19:54,667 shapely.geos DEBUG    Trying `CDLL(C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll)`
+2020-08-14 14:19:54,682 shapely.geos DEBUG    Library path: 'C:\\Users\\Sinto\\Documents\\PycharmProjects\\venv\\lib\\site-packages\\shapely\\DLLs\\geos_c.dll'
+2020-08-14 14:19:54,682 shapely.geos DEBUG    DLL: <CDLL 'C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll', handle 7ffc3d410000 at 0x21c8099db48>
+2020-08-14 14:20:04,407 django.utils.autoreload INFO     C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\oper\hexgrid_constructor.py changed, reloading.
+2020-08-14 14:20:04,407 asyncio      DEBUG    Using selector: SelectSelector
+2020-08-14 14:20:05,428 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2020-08-14 14:20:06,002 shapely.geos DEBUG    Trying `CDLL(C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll)`
+2020-08-14 14:20:06,004 shapely.geos DEBUG    Library path: 'C:\\Users\\Sinto\\Documents\\PycharmProjects\\venv\\lib\\site-packages\\shapely\\DLLs\\geos_c.dll'
+2020-08-14 14:20:06,004 shapely.geos DEBUG    DLL: <CDLL 'C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll', handle 7ffc3d410000 at 0x2bce432bd48>

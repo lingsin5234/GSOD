@@ -9,7 +9,7 @@
 #########################################################################
 import turfpy.measurement as turf
 from turfpy.transformation import union
-from geojson import Feature, Polygon, FeatureCollection
+from geojson import Feature, Polygon, FeatureCollection, Point
 import datetime as dte
 import json
 
@@ -32,25 +32,37 @@ def hexgrid_constructor(bbox, cellSide, stations, levels):
     filename = 'blank_HexGrid' + bbox + 'r' + str(cellSide) + '.json'
     hexGrid = get_hexgrid(filename)
     centroids = []
-    hexGridDict = dict()
+    hexGridDict = {}
 
     # loop thru hexgrid to get centroids
     s1 = dte.datetime.now()
     for hex in hexGrid['features']:
         centroid_id = ','.join([str(c) for c in hex['centroid']['geometry']['coordinates']]),
-        hexGridDict[centroid_id] = dict()
-        centroids.append(hex['centroid'])
-    centroid_set = union(FeatureCollection(centroids))
+        # hexGridDict[centroid_id] = dict()
+        centroids.append(Feature(geometry=Point(hex['centroid']['geometry']['coordinates'])))
+    centroid_set = FeatureCollection(centroids)
+    # print(centroid_set)
 
     # loop through stations and assign it to the hexGrid
     s2 = dte.datetime.now()
     for station in stations:
-
-        closest_hex = turf.nearest_point(station, centroid_set)
+        station_coord = Feature(geometry=Point(station['geometry']['coordinates']))
+        print(station_coord)
+        # print(station_coord)
+        # print(centroid_set[0])
+        # quit()
+        # print(type(station_coord), type(centroid_set))
+        closest_hex = actual_nearest_point(station_coord, centroid_set)
+        # closest_hex = turf.nearest_point(station_coord, centroid_set)
 
         # assign that hex the station
-        coord = ','.join([str(c) for c in closest_hex])
-        hexGridDict[coord]['station'] = station
+        coord = 'P' + ','.join([str(c) for c in closest_hex['geometry']['coordinates']])
+        coord = coord.replace('P-', 'N').replace(',', '_').replace('-', 'n')
+        print(closest_hex)
+        # print(coord)
+        hexGridDict[coord] = {
+            'station': station
+        }
     print(hexGridDict)
 
     e2 = dte.datetime.now()
@@ -72,3 +84,44 @@ def hexgrid_constructor(bbox, cellSide, stations, levels):
 
     return True
 # '''
+
+
+# ACTUAL nearest point?
+def actual_nearest_point(target_point: Feature, points: FeatureCollection) -> Feature:
+
+    if not target_point:
+        raise Exception("target_point is required")
+
+    if not points:
+        raise Exception("points is required")
+
+    min_dist = float("inf")
+    best_feature_index = 0
+
+    def _callback_feature_each(pt, feature_index):
+        nonlocal min_dist, best_feature_index
+        distance_to_point = turf.distance(target_point, pt)
+        # print(distance_to_point)
+        if float(distance_to_point) < min_dist:
+            best_feature_index = feature_index
+            min_dist = distance_to_point
+            # print(min_dist)
+        return True
+
+    actual_feature_each(points, _callback_feature_each)
+
+    nearest = points["features"][best_feature_index]
+    nearest["properties"]["featureIndex"] = best_feature_index
+    nearest["properties"]["distanceToPoint"] = min_dist
+    return nearest
+
+
+# ACTUAL feature each?
+def actual_feature_each(geojson, callback):
+    if geojson["type"] == "Feature":
+        callback(geojson, 0)
+    elif geojson["type"] == "FeatureCollection":
+        for i in range(0, len(geojson["features"])):
+            # print(callback(geojson["features"][i], i))
+            if not callback(geojson["features"][i], i):
+                break
