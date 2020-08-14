@@ -1,0 +1,53 @@
+{% include 'partials/header_noaa.html' %}
+    <div id="my_title" class="d-flex justify-content-center">
+        <h1>Hexagon Test</h1>
+    </div><br>
+
+    <!-- node.js library: turf.js -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Turf.js/5.1.6/turf.min.js"></script>
+
+    <script>
+        // hexGrid
+        var bbox = {{ bbox }};
+        var cellSide = {{ cellSide }};
+        var options = {};
+        var hexGrid = turf.hexGrid(bbox, cellSide, options);
+
+        $(document).ready(function() {
+
+            // loop thru and assign the centroids
+            hexGrid.features.forEach(f => {
+
+                polygon = turf.polygon([f.geometry.coordinates[0]]);
+                centroid = turf.centroid(polygon);
+
+                f.properties['centroid'] = centroid;
+            });
+
+            // save the hexgrid to file
+            post_hexgrid(hexGrid);
+        });
+
+        function post_hexgrid(data) {
+
+            getURL = "/api/post_blank_hexgrid";
+            $.ajax({
+                url: getURL,
+                method: "POST",
+                data: {
+                    'bbox': JSON.stringify(bbox),
+                    'cellSide': cellSide,
+                    'hexGrid': JSON.stringify(data)
+                },
+                success: function(data) {
+                    console.log("hexGrid saved");
+                },
+                error: function(XMLHttpRequest, textStatus, errorThrown) {
+                    console.log("Status: " + textStatus);
+                    console.log("Error: " + errorThrown);
+                }
+            });
+        }
+    </script>
+
+{% include 'partials/footer_noaa.html' %}
