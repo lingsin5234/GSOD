@@ -9,22 +9,33 @@
 #########################################################################
 import turfpy as turf
 import datetime as dte
+import json
 
-'''
+
+# get default hexgrid
+def get_hexgrid(filename):
+
+    with ('gsod/posts/blanks' + filename, 'r') as readfile:
+        hexgrid = json.load(readfile)
+
+    return hexgrid
+
+
 # get the default hexgrid, compute the polygons and centroids
-def hexgrid_constructor(bbox, cellSide, options, data, levels, bot_lat, top_lat)
+def hexgrid_constructor(bbox, cellSide, options, stations, levels):
 
     # set variables, declare hexGrid
-    hexGrid = get_hexgrid()
-    tempChange = 0
+    bbox = ','.join([str(b) for b in bbox]).replace(',', '_')
+    filename = 'blank_HexGrid-' + bbox + 'r' + str(cellSide) + '.json'
+    hexGrid = get_hexgrid(filename)
     polygons_set = []
     centroid_set = []
-    dataSet = data
+    # dataSet = data
 
-    # loop through hexGrid to obtain polygons and centroids
-    startTime = dte.datetime.now()
+    # loop through stations and assign it to the hexGrid
+    start_time = dte.datetime.now()
 
-    for hex in hexGrid:
+    for hex in hexGrid.features:
         polygon = turf.polygon([hex.geometry.coordinates[0]])
         polygons_set.push(polygon)
         centroid = turf.centroid(polygon)
@@ -50,10 +61,10 @@ def hexgrid_constructor(bbox, cellSide, options, data, levels, bot_lat, top_lat)
     # filter out those without a centroid
     dataSet = dataSet.filter(d= > (d.properties.TMAX & & d.properties.centroid))
 
-    endTime = dte.datetime.now()
-    seconds = (endTime.getTime() - startTime.getTime()) / 1000
-    print("Set Hexagon Tiles:", seconds, "seconds")
-    print("Updated Data Length:", dataSet.length)
+    end_time = dte.datetime.now()
+    # seconds = (endTime.getTime() - startTime.getTime()) / 1000
+    # print("Set Hexagon Tiles:", seconds, "seconds")
+    # print("Updated Data Length:", dataSet.length)
 
     # copy over hexGridDataSet for variable use
     # hexGridDataSet = hexGrid.features
@@ -68,4 +79,4 @@ def hexgrid_constructor(bbox, cellSide, options, data, levels, bot_lat, top_lat)
     # hexGrid = HexGridDeploy(hexGrid, levels, hexGridDataSet, dataSet)
 
     return hexGrid
-'''
+# '''

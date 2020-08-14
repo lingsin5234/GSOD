@@ -14,6 +14,16 @@
         var hexGrid = turf.hexGrid(bbox, cellSide, options);
 
         $(document).ready(function() {
+
+            // loop thru and assign the centroids
+            hexGrid.features.forEach(f => {
+
+                polygon = turf.polygon([f.geometry.coordinates[0]]);
+                centroid = turf.centroid(polygon);
+
+                f.properties['centroid'] = centroid;
+            });
+
             // save the hexgrid to file
             post_hexgrid(hexGrid);
         });
