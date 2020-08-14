@@ -29,6 +29,7 @@ urlpatterns = [
     # Blank HexGrid
     re_path(r'api/post_blank_hexgrid', gsod_vw.BlankHexGridAPI.as_view(), name='api-post-blank-hexgrid'),
     re_path(r'make-blank-hexgrid', gsod_vw.make_blank_hexgrid),
+    re_path(r'calc-hexGrid2', gsod_vw.calculate_hexGrid2),
 
     # Temperature Layer GHCND Data with API
     re_path(r'api/get_all_stations', gsod_vw.WeatherStationsAPI.as_view(), name='api-get-all-stations'),

@@ -3490,3 +3490,281 @@ django.utils.datastructures.MultiValueDictKeyError: 'data'
 2020-08-14 10:34:52,013 django.utils.autoreload INFO     C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\views.py changed, reloading.
 2020-08-14 10:34:52,013 asyncio      DEBUG    Using selector: SelectSelector
 2020-08-14 10:34:52,919 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2020-08-14 12:39:07,765 django.utils.autoreload INFO     C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\views.py changed, reloading.
+2020-08-14 12:39:07,765 asyncio      DEBUG    Using selector: SelectSelector
+2020-08-14 12:39:08,749 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2020-08-14 12:39:10,268 shapely.geos DEBUG    Trying `CDLL(C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll)`
+2020-08-14 12:39:10,288 shapely.geos DEBUG    Library path: 'C:\\Users\\Sinto\\Documents\\PycharmProjects\\venv\\lib\\site-packages\\shapely\\DLLs\\geos_c.dll'
+2020-08-14 12:39:10,288 shapely.geos DEBUG    DLL: <CDLL 'C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll', handle 7ffc2aca0000 at 0x14acee525c8>
+2020-08-14 12:40:48,416 django.utils.autoreload INFO     C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\views.py changed, reloading.
+2020-08-14 12:40:48,416 asyncio      DEBUG    Using selector: SelectSelector
+2020-08-14 12:40:49,464 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2020-08-14 12:40:50,057 shapely.geos DEBUG    Trying `CDLL(C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll)`
+2020-08-14 12:40:50,059 shapely.geos DEBUG    Library path: 'C:\\Users\\Sinto\\Documents\\PycharmProjects\\venv\\lib\\site-packages\\shapely\\DLLs\\geos_c.dll'
+2020-08-14 12:40:50,059 shapely.geos DEBUG    DLL: <CDLL 'C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll', handle 7ffc2aca0000 at 0x226cd5f6d48>
+2020-08-14 12:42:27,990 django.utils.autoreload INFO     C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\views.py changed, reloading.
+2020-08-14 12:42:27,990 asyncio      DEBUG    Using selector: SelectSelector
+2020-08-14 12:42:28,976 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2020-08-14 12:42:29,540 shapely.geos DEBUG    Trying `CDLL(C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll)`
+2020-08-14 12:42:29,544 shapely.geos DEBUG    Library path: 'C:\\Users\\Sinto\\Documents\\PycharmProjects\\venv\\lib\\site-packages\\shapely\\DLLs\\geos_c.dll'
+2020-08-14 12:42:29,544 shapely.geos DEBUG    DLL: <CDLL 'C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll', handle 7ffc2aca0000 at 0x20463cb2688>
+2020-08-14 12:45:10,872 django.request WARNING  Not Found: /favicon.ico
+2020-08-14 12:45:10,872 django.request WARNING  Not Found: /favicon.ico
+2020-08-14 12:47:44,508 django.request WARNING  Not Found: /favicon.ico
+2020-08-14 12:47:44,508 django.request WARNING  Not Found: /favicon.ico
+2020-08-14 12:48:07,344 django.request WARNING  Not Found: /favicon.ico
+2020-08-14 12:48:07,344 django.request WARNING  Not Found: /favicon.ico
+2020-08-14 12:52:04,360 django.request WARNING  Not Found: /favicon.ico
+2020-08-14 12:52:04,360 django.request WARNING  Not Found: /favicon.ico
+2020-08-14 13:02:15,486 django.request WARNING  Not Found: /favicon.ico
+2020-08-14 13:02:15,486 django.request WARNING  Not Found: /favicon.ico
+2020-08-14 13:04:38,334 django.request WARNING  Not Found: /favicon.ico
+2020-08-14 13:04:38,334 django.request WARNING  Not Found: /favicon.ico
+2020-08-14 13:12:58,118 django.request WARNING  Not Found: /favicon.ico
+2020-08-14 13:12:58,118 django.request WARNING  Not Found: /favicon.ico
+2020-08-14 13:13:06,130 django.request WARNING  Not Found: /favicon.ico
+2020-08-14 13:13:06,130 django.request WARNING  Not Found: /favicon.ico
+2020-08-14 13:14:25,645 django.request WARNING  Not Found: /favicon.ico
+2020-08-14 13:14:25,645 django.request WARNING  Not Found: /favicon.ico
+2020-08-14 13:15:05,306 django.request WARNING  Not Found: /favicon.ico
+2020-08-14 13:15:05,306 django.request WARNING  Not Found: /favicon.ico
+2020-08-14 13:29:04,271 django.utils.autoreload INFO     C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\views.py changed, reloading.
+2020-08-14 13:29:04,271 asyncio      DEBUG    Using selector: SelectSelector
+2020-08-14 13:29:05,286 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2020-08-14 13:29:05,856 shapely.geos DEBUG    Trying `CDLL(C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll)`
+2020-08-14 13:29:05,856 shapely.geos DEBUG    Library path: 'C:\\Users\\Sinto\\Documents\\PycharmProjects\\venv\\lib\\site-packages\\shapely\\DLLs\\geos_c.dll'
+2020-08-14 13:29:05,856 shapely.geos DEBUG    DLL: <CDLL 'C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll', handle 7ffc2aca0000 at 0x26416e6f748>
+2020-08-14 13:29:24,417 django.utils.autoreload INFO     C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\oper\hexgrid_constructor.py changed, reloading.
+2020-08-14 13:29:24,417 asyncio      DEBUG    Using selector: SelectSelector
+2020-08-14 13:29:25,367 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2020-08-14 13:29:25,919 shapely.geos DEBUG    Trying `CDLL(C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll)`
+2020-08-14 13:29:25,919 shapely.geos DEBUG    Library path: 'C:\\Users\\Sinto\\Documents\\PycharmProjects\\venv\\lib\\site-packages\\shapely\\DLLs\\geos_c.dll'
+2020-08-14 13:29:25,919 shapely.geos DEBUG    DLL: <CDLL 'C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll', handle 7ffc2aca0000 at 0x1b642e3fa48>
+2020-08-14 13:29:31,191 django.utils.autoreload INFO     C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\oper\hexgrid_constructor.py changed, reloading.
+2020-08-14 13:29:31,191 asyncio      DEBUG    Using selector: SelectSelector
+2020-08-14 13:29:32,160 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2020-08-14 13:29:32,708 shapely.geos DEBUG    Trying `CDLL(C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll)`
+2020-08-14 13:29:32,724 shapely.geos DEBUG    Library path: 'C:\\Users\\Sinto\\Documents\\PycharmProjects\\venv\\lib\\site-packages\\shapely\\DLLs\\geos_c.dll'
+2020-08-14 13:29:32,724 shapely.geos DEBUG    DLL: <CDLL 'C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll', handle 7ffc2aca0000 at 0x1e356fbdf88>
+2020-08-14 13:30:08,101 django.utils.autoreload INFO     C:\Users\Sinto\Documents\PycharmProjects\noaa\djangoapps\urls.py changed, reloading.
+2020-08-14 13:30:08,102 asyncio      DEBUG    Using selector: SelectSelector
+2020-08-14 13:30:09,093 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2020-08-14 13:30:09,666 shapely.geos DEBUG    Trying `CDLL(C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll)`
+2020-08-14 13:30:09,666 shapely.geos DEBUG    Library path: 'C:\\Users\\Sinto\\Documents\\PycharmProjects\\venv\\lib\\site-packages\\shapely\\DLLs\\geos_c.dll'
+2020-08-14 13:30:09,666 shapely.geos DEBUG    DLL: <CDLL 'C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll', handle 7ffc2aca0000 at 0x25d011cbb08>
+2020-08-14 13:30:18,375 django.request ERROR    Internal Server Error: /calc-hexGrid2
+Traceback (most recent call last):
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\views.py", line 325, in calculate_hexGrid2
+    status = hc.hexgrid_constructor(bbox, cellSide, stations, 8)
+  File "C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\oper\hexgrid_constructor.py", line 32, in hexgrid_constructor
+    hexGrid = get_hexgrid(filename)
+  File "C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\oper\hexgrid_constructor.py", line 20, in get_hexgrid
+    with ('gsod/posts/blanks' + filename, 'r') as readfile:
+AttributeError: __enter__
+2020-08-14 13:30:18,375 django.request ERROR    Internal Server Error: /calc-hexGrid2
+Traceback (most recent call last):
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\views.py", line 325, in calculate_hexGrid2
+    status = hc.hexgrid_constructor(bbox, cellSide, stations, 8)
+  File "C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\oper\hexgrid_constructor.py", line 32, in hexgrid_constructor
+    hexGrid = get_hexgrid(filename)
+  File "C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\oper\hexgrid_constructor.py", line 20, in get_hexgrid
+    with ('gsod/posts/blanks' + filename, 'r') as readfile:
+AttributeError: __enter__
+2020-08-14 13:31:03,852 django.utils.autoreload INFO     C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\oper\hexgrid_constructor.py changed, reloading.
+2020-08-14 13:31:03,852 asyncio      DEBUG    Using selector: SelectSelector
+2020-08-14 13:31:04,838 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2020-08-14 13:31:05,404 shapely.geos DEBUG    Trying `CDLL(C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll)`
+2020-08-14 13:31:05,404 shapely.geos DEBUG    Library path: 'C:\\Users\\Sinto\\Documents\\PycharmProjects\\venv\\lib\\site-packages\\shapely\\DLLs\\geos_c.dll'
+2020-08-14 13:31:05,404 shapely.geos DEBUG    DLL: <CDLL 'C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll', handle 7ffc2aca0000 at 0x1f338dfaec8>
+2020-08-14 13:31:06,906 django.request ERROR    Internal Server Error: /calc-hexGrid2
+Traceback (most recent call last):
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\views.py", line 325, in calculate_hexGrid2
+    status = hc.hexgrid_constructor(bbox, cellSide, stations, 8)
+  File "C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\oper\hexgrid_constructor.py", line 32, in hexgrid_constructor
+    hexGrid = get_hexgrid(filename)
+  File "C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\oper\hexgrid_constructor.py", line 20, in get_hexgrid
+    with ('gsod/posts/blanks/' + filename, 'r') as readfile:
+AttributeError: __enter__
+2020-08-14 13:31:06,906 django.request ERROR    Internal Server Error: /calc-hexGrid2
+Traceback (most recent call last):
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\views.py", line 325, in calculate_hexGrid2
+    status = hc.hexgrid_constructor(bbox, cellSide, stations, 8)
+  File "C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\oper\hexgrid_constructor.py", line 32, in hexgrid_constructor
+    hexGrid = get_hexgrid(filename)
+  File "C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\oper\hexgrid_constructor.py", line 20, in get_hexgrid
+    with ('gsod/posts/blanks/' + filename, 'r') as readfile:
+AttributeError: __enter__
+2020-08-14 13:31:17,966 django.utils.autoreload INFO     C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\oper\hexgrid_constructor.py changed, reloading.
+2020-08-14 13:31:17,967 asyncio      DEBUG    Using selector: SelectSelector
+2020-08-14 13:31:18,980 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2020-08-14 13:31:19,546 shapely.geos DEBUG    Trying `CDLL(C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll)`
+2020-08-14 13:31:19,548 shapely.geos DEBUG    Library path: 'C:\\Users\\Sinto\\Documents\\PycharmProjects\\venv\\lib\\site-packages\\shapely\\DLLs\\geos_c.dll'
+2020-08-14 13:31:19,548 shapely.geos DEBUG    DLL: <CDLL 'C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll', handle 7ffc2aca0000 at 0x2b92b25ad48>
+2020-08-14 13:31:19,951 django.request ERROR    Internal Server Error: /calc-hexGrid2
+Traceback (most recent call last):
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\views.py", line 325, in calculate_hexGrid2
+    status = hc.hexgrid_constructor(bbox, cellSide, stations, 8)
+  File "C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\oper\hexgrid_constructor.py", line 32, in hexgrid_constructor
+    hexGrid = get_hexgrid(filename)
+  File "C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\oper\hexgrid_constructor.py", line 20, in get_hexgrid
+    with open('gsod/posts/blanks/' + filename, 'r') as readfile:
+FileNotFoundError: [Errno 2] No such file or directory: 'gsod/posts/blanks/blank_HexGrid--126_24_-66.5_50r15.json'
+2020-08-14 13:31:19,951 django.request ERROR    Internal Server Error: /calc-hexGrid2
+Traceback (most recent call last):
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\views.py", line 325, in calculate_hexGrid2
+    status = hc.hexgrid_constructor(bbox, cellSide, stations, 8)
+  File "C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\oper\hexgrid_constructor.py", line 32, in hexgrid_constructor
+    hexGrid = get_hexgrid(filename)
+  File "C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\oper\hexgrid_constructor.py", line 20, in get_hexgrid
+    with open('gsod/posts/blanks/' + filename, 'r') as readfile:
+FileNotFoundError: [Errno 2] No such file or directory: 'gsod/posts/blanks/blank_HexGrid--126_24_-66.5_50r15.json'
+2020-08-14 13:31:20,142 django.request WARNING  Not Found: /favicon.ico
+2020-08-14 13:31:20,142 django.request WARNING  Not Found: /favicon.ico
+2020-08-14 13:31:44,354 django.utils.autoreload INFO     C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\oper\hexgrid_constructor.py changed, reloading.
+2020-08-14 13:31:44,354 asyncio      DEBUG    Using selector: SelectSelector
+2020-08-14 13:31:45,361 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2020-08-14 13:31:45,939 shapely.geos DEBUG    Trying `CDLL(C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll)`
+2020-08-14 13:31:45,941 shapely.geos DEBUG    Library path: 'C:\\Users\\Sinto\\Documents\\PycharmProjects\\venv\\lib\\site-packages\\shapely\\DLLs\\geos_c.dll'
+2020-08-14 13:31:45,941 shapely.geos DEBUG    DLL: <CDLL 'C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll', handle 7ffc2aca0000 at 0x24b01279ec8>
+2020-08-14 13:31:46,391 django.request ERROR    Internal Server Error: /calc-hexGrid2
+Traceback (most recent call last):
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\views.py", line 325, in calculate_hexGrid2
+    status = hc.hexgrid_constructor(bbox, cellSide, stations, 8)
+  File "C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\oper\hexgrid_constructor.py", line 33, in hexgrid_constructor
+    hexGrid = get_hexgrid(filename)
+  File "C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\oper\hexgrid_constructor.py", line 21, in get_hexgrid
+    with open(filepath, 'r') as readfile:
+FileNotFoundError: [Errno 2] No such file or directory: 'gsod/posts/blanks/blank_HexGrid--126_24_-66.5_50r15.json'
+2020-08-14 13:31:46,391 django.request ERROR    Internal Server Error: /calc-hexGrid2
+Traceback (most recent call last):
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\views.py", line 325, in calculate_hexGrid2
+    status = hc.hexgrid_constructor(bbox, cellSide, stations, 8)
+  File "C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\oper\hexgrid_constructor.py", line 33, in hexgrid_constructor
+    hexGrid = get_hexgrid(filename)
+  File "C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\oper\hexgrid_constructor.py", line 21, in get_hexgrid
+    with open(filepath, 'r') as readfile:
+FileNotFoundError: [Errno 2] No such file or directory: 'gsod/posts/blanks/blank_HexGrid--126_24_-66.5_50r15.json'
+2020-08-14 13:32:51,832 django.utils.autoreload INFO     C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\oper\hexgrid_constructor.py changed, reloading.
+2020-08-14 13:32:51,832 asyncio      DEBUG    Using selector: SelectSelector
+2020-08-14 13:32:52,849 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2020-08-14 13:32:53,416 shapely.geos DEBUG    Trying `CDLL(C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll)`
+2020-08-14 13:32:53,418 shapely.geos DEBUG    Library path: 'C:\\Users\\Sinto\\Documents\\PycharmProjects\\venv\\lib\\site-packages\\shapely\\DLLs\\geos_c.dll'
+2020-08-14 13:32:53,418 shapely.geos DEBUG    DLL: <CDLL 'C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll', handle 7ffc2aca0000 at 0x20b5c3bae08>
+2020-08-14 13:33:08,159 django.request ERROR    Internal Server Error: /calc-hexGrid2
+Traceback (most recent call last):
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\views.py", line 325, in calculate_hexGrid2
+    status = hc.hexgrid_constructor(bbox, cellSide, stations, 8)
+  File "C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\oper\hexgrid_constructor.py", line 39, in hexgrid_constructor
+    for hex in hexGrid.features:
+AttributeError: 'dict' object has no attribute 'features'
+2020-08-14 13:33:08,159 django.request ERROR    Internal Server Error: /calc-hexGrid2
+Traceback (most recent call last):
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\views.py", line 325, in calculate_hexGrid2
+    status = hc.hexgrid_constructor(bbox, cellSide, stations, 8)
+  File "C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\oper\hexgrid_constructor.py", line 39, in hexgrid_constructor
+    for hex in hexGrid.features:
+AttributeError: 'dict' object has no attribute 'features'
+2020-08-14 13:34:01,265 django.utils.autoreload INFO     C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\oper\hexgrid_constructor.py changed, reloading.
+2020-08-14 13:34:01,265 asyncio      DEBUG    Using selector: SelectSelector
+2020-08-14 13:34:02,408 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2020-08-14 13:34:03,003 shapely.geos DEBUG    Trying `CDLL(C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll)`
+2020-08-14 13:34:03,005 shapely.geos DEBUG    Library path: 'C:\\Users\\Sinto\\Documents\\PycharmProjects\\venv\\lib\\site-packages\\shapely\\DLLs\\geos_c.dll'
+2020-08-14 13:34:03,006 shapely.geos DEBUG    DLL: <CDLL 'C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll', handle 7ffc2aca0000 at 0x190523a0248>
+2020-08-14 13:34:17,434 django.request ERROR    Internal Server Error: /calc-hexGrid2
+Traceback (most recent call last):
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\views.py", line 325, in calculate_hexGrid2
+    status = hc.hexgrid_constructor(bbox, cellSide, stations, 8)
+  File "C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\oper\hexgrid_constructor.py", line 41, in hexgrid_constructor
+    for hex in hexGrid.features:
+AttributeError: 'dict' object has no attribute 'features'
+2020-08-14 13:34:17,434 django.request ERROR    Internal Server Error: /calc-hexGrid2
+Traceback (most recent call last):
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\views.py", line 325, in calculate_hexGrid2
+    status = hc.hexgrid_constructor(bbox, cellSide, stations, 8)
+  File "C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\oper\hexgrid_constructor.py", line 41, in hexgrid_constructor
+    for hex in hexGrid.features:
+AttributeError: 'dict' object has no attribute 'features'
+2020-08-14 13:34:54,085 django.utils.autoreload INFO     C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\oper\hexgrid_constructor.py changed, reloading.
+2020-08-14 13:34:54,085 asyncio      DEBUG    Using selector: SelectSelector
+2020-08-14 13:34:55,164 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2020-08-14 13:34:55,717 shapely.geos DEBUG    Trying `CDLL(C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll)`
+2020-08-14 13:34:55,717 shapely.geos DEBUG    Library path: 'C:\\Users\\Sinto\\Documents\\PycharmProjects\\venv\\lib\\site-packages\\shapely\\DLLs\\geos_c.dll'
+2020-08-14 13:34:55,717 shapely.geos DEBUG    DLL: <CDLL 'C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll', handle 7ffc2aca0000 at 0x200fdfedfc8>
+2020-08-14 13:35:04,809 django.utils.autoreload INFO     C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\oper\hexgrid_constructor.py changed, reloading.
+2020-08-14 13:35:04,826 asyncio      DEBUG    Using selector: SelectSelector
+2020-08-14 13:35:06,121 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2020-08-14 13:35:06,717 shapely.geos DEBUG    Trying `CDLL(C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll)`
+2020-08-14 13:35:06,719 shapely.geos DEBUG    Library path: 'C:\\Users\\Sinto\\Documents\\PycharmProjects\\venv\\lib\\site-packages\\shapely\\DLLs\\geos_c.dll'
+2020-08-14 13:35:06,719 shapely.geos DEBUG    DLL: <CDLL 'C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll', handle 7ffc2aca0000 at 0x2b580f0ccc8>

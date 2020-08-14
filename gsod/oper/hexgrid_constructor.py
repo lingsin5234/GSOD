@@ -7,7 +7,9 @@
 #   is divided into smaller parts. Easier to monitor and add logs.      #
 #                                                                       #
 #########################################################################
-import turfpy as turf
+import turfpy.measurement as turf
+from turfpy.transformation import union
+from geojson import Feature, Polygon, FeatureCollection
 import datetime as dte
 import json
 
@@ -15,53 +17,43 @@ import json
 # get default hexgrid
 def get_hexgrid(filename):
 
-    with ('gsod/posts/blanks' + filename, 'r') as readfile:
+    filepath = 'gsod/posts/blanks/' + filename
+    with open(filepath, 'r') as readfile:
         hexgrid = json.load(readfile)
 
     return hexgrid
 
 
 # get the default hexgrid, compute the polygons and centroids
-def hexgrid_constructor(bbox, cellSide, options, stations, levels):
+def hexgrid_constructor(bbox, cellSide, stations, levels):
 
     # set variables, declare hexGrid
     bbox = ','.join([str(b) for b in bbox]).replace(',', '_')
-    filename = 'blank_HexGrid-' + bbox + 'r' + str(cellSide) + '.json'
+    filename = 'blank_HexGrid' + bbox + 'r' + str(cellSide) + '.json'
     hexGrid = get_hexgrid(filename)
-    polygons_set = []
-    centroid_set = []
-    # dataSet = data
+    centroids = []
+    hexGridDict = dict()
+
+    # loop thru hexgrid to get centroids
+    s1 = dte.datetime.now()
+    for hex in hexGrid['features']:
+        centroid_id = ','.join([str(c) for c in hex['centroid']['geometry']['coordinates']]),
+        hexGridDict[centroid_id] = dict()
+        centroids.append(hex['centroid'])
+    centroid_set = union(FeatureCollection(centroids))
 
     # loop through stations and assign it to the hexGrid
-    start_time = dte.datetime.now()
+    s2 = dte.datetime.now()
+    for station in stations:
 
-    for hex in hexGrid.features:
-        polygon = turf.polygon([hex.geometry.coordinates[0]])
-        polygons_set.push(polygon)
-        centroid = turf.centroid(polygon)
-        centroid_set.push(centroid)
+        closest_hex = turf.nearest_point(station, centroid_set)
 
-        # filter data first: TMAX, TMIN and Coordinates must exist!
-        dataSet = dataSet.filter(d= > (d.properties.TMAX & & d.properties.TMIN & & d.geometry.coordinates[0]))
+        # assign that hex the station
+        coord = ','.join([str(c) for c in closest_hex])
+        hexGridDict[coord]['station'] = station
+    print(hexGridDict)
 
-        # find the centroid that houses the weather station
-        dataSet.forEach((d, i) = > {
-            station = d.geometry.coordinates
-            if (turf.booleanPointInPolygon(station, polygon)) {
-            d.properties.centroid = centroid
-            }
-        })
-
-        f.properties = {
-        temperature: -1,
-                     centroid: centroid
-        }
-    })
-
-    # filter out those without a centroid
-    dataSet = dataSet.filter(d= > (d.properties.TMAX & & d.properties.centroid))
-
-    end_time = dte.datetime.now()
+    e2 = dte.datetime.now()
     # seconds = (endTime.getTime() - startTime.getTime()) / 1000
     # print("Set Hexagon Tiles:", seconds, "seconds")
     # print("Updated Data Length:", dataSet.length)
@@ -78,5 +70,5 @@ def hexgrid_constructor(bbox, cellSide, options, stations, levels):
     # re - calculate temps and deploy the rings, then stations
     # hexGrid = HexGridDeploy(hexGrid, levels, hexGridDataSet, dataSet)
 
-    return hexGrid
+    return True
 # '''

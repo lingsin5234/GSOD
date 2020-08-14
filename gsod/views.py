@@ -11,6 +11,7 @@ from .models import Station, GHCND
 # from django.db.models import Max, Min
 # from django.http import HttpResponse
 # from matplotlib.backends.backend_agg import FigureCanvasAgg as FigureCanvas
+from .oper import hexgrid_constructor as hc
 from gsod.serializers import GHCND_Serializer
 import datetime as dte
 
@@ -296,3 +297,35 @@ def make_blank_hexgrid(request):
     }
 
     return render(request, 'pages/blank_hexgrid.html', context)
+
+
+# test new hexgrid constructor function
+def calculate_hexGrid2(request):
+
+    bbox = [-126, 24, -66.5, 50]  # USA
+    cellSide = 15
+
+    stations = [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-66.726937845145, 49.733940496411925]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-66.726937845145, 49.733940496411925]
+            }
+        },
+    ]
+
+    status = hc.hexgrid_constructor(bbox, cellSide, stations, 8)
+
+    context = {
+        'status': status
+    }
+
+    return render(request, 'pages/run_hexGrid2.html', context)

@@ -11,21 +11,29 @@
         var bbox = {{ bbox }};
         var cellSide = {{ cellSide }};
         var options = {};
-        var hexGrid = turf.hexGrid(bbox, cellSide, options);
+        hexGrid = turf.hexGrid(bbox, cellSide, options);
 
         $(document).ready(function() {
 
             // loop thru and assign the centroids
-            hexGrid.features.forEach(f => {
-
-                polygon = turf.polygon([f.geometry.coordinates[0]]);
-                centroid = turf.centroid(polygon);
-
-                f.properties['centroid'] = centroid;
+            var newFeatures = hexGrid.features.map(f => {
+                var polygon = turf.polygon([f.geometry.coordinates[0]]);
+                var centroid = turf.centroid(polygon);
+                // use SPREAD; then assign a new "key-value pair" as well
+                return {
+                    ...f,
+                    "centroid": centroid
+                };
             });
 
+            // assign to newHexGrid
+            var newHexGrid = {
+                "type": "FeatureCollection",
+                "features": newFeatures
+            };
+
             // save the hexgrid to file
-            post_hexgrid(hexGrid);
+            post_hexgrid(newHexGrid);
         });
 
         function post_hexgrid(data) {
