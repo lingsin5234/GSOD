@@ -37,6 +37,7 @@ fake-useragent==0.1.11
 Flask==1.1.2
 Flask-Compress==1.5.0
 future==0.18.2
+geojson==2.5.0
 gunicorn==20.0.4
 idna==2.9
 isodate==0.6.0
@@ -76,6 +77,7 @@ scikit-learn==0.23.1
 scipy==1.4.1
 selenium==3.141.0
 sendgrid==6.2.2
+Shapely==1.7.0
 six==1.14.0
 sklearn==0.0
 soupsieve==2.0
@@ -83,6 +85,7 @@ SQLAlchemy==1.3.16
 sqlparse==0.3.1
 threadpoolctl==2.1.0
 tqdm==4.48.0
+turfpy==0.0.3
 urllib3==1.25.9
 w3lib==1.22.0
 websockets==8.1

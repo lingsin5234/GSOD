@@ -2783,3 +2783,7 @@ django.http.request.RawPostDataException: You cannot access body after reading f
 2020-08-11 12:52:59,945 django.request WARNING  Not Found: /favicon.ico
 2020-08-11 13:38:38,810 django.request WARNING  Not Found: /favicon.ico
 2020-08-11 13:38:38,810 django.request WARNING  Not Found: /favicon.ico
+2020-08-11 14:01:02,800 MARKDOWN     DEBUG    Successfully imported extension module "markdown.extensions.fenced_code".
+2020-08-11 14:01:02,800 MARKDOWN     DEBUG    Successfully loaded extension "markdown.extensions.fenced_code.FencedCodeExtension".
+2020-08-11 14:05:52,895 asyncio      DEBUG    Using selector: SelectSelector
+2020-08-11 14:05:53,141 asyncio      DEBUG    Using selector: SelectSelector
