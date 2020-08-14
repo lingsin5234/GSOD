@@ -163,6 +163,35 @@ class HexGridAPI(views.APIView):
         return Response(status)
 
 
+# saving the blank hexgrid generated
+class BlankHexGridAPI(views.APIView):
+
+    # post request
+    def post(self, request):
+
+        # print(str(request.POST)[:150])
+        # write the JSON to file:
+        bbox = request.POST['bbox']  # this is not a list anymore, just a string
+        bbox = bbox.replace('[', '').replace(']', '').replace(',', '_')
+        cellSide = request.POST['cellSide']
+        filename = 'blank_HexGrid' + bbox + 'r' + str(cellSide) + '.json'
+        # print(filename)
+        try:
+            with open('gsod/posts/blanks/' + filename, 'w') as outfile:
+                json.dump(json.loads(request.POST['hexGrid']), outfile, indent=4)
+                # json.dump(request.data['data'], outfile, indent=4)
+        except Exception as e:
+            print('POST write to file: Failed', e)
+            status = False
+        else:
+            print('POST write to file: Success!')
+            status = True
+
+        return Response(status)
+
+
+
+
 # homepage
 def homepage(request):
 
@@ -253,3 +282,17 @@ def calculate_hexGrid(request, date_of_data):
 def gradientLegend(request):
 
     return render(request, 'pages/gradientLegend.html')
+
+
+# make a blank hexgrid
+def make_blank_hexgrid(request):
+
+    bbox = [-126, 24, -66.5, 50]  # USA
+    cellSide = 15
+
+    context = {
+        'bbox': bbox,
+        'cellSide': cellSide
+    }
+
+    return render(request, 'pages/blank_hexgrid.html', context)

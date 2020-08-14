@@ -26,6 +26,10 @@ urlpatterns = [
     re_path(r'^table_view/station/(?P<station_id>[:A-Z0-9]+)/$', gsod_vw.station_data_table),
     re_path(r'gradientLegend', gsod_vw.gradientLegend),
 
+    # Blank HexGrid
+    re_path(r'api/post_blank_hexgrid', gsod_vw.BlankHexGridAPI.as_view(), name='api-post-blank-hexgrid'),
+    re_path(r'make-blank-hexgrid', gsod_vw.make_blank_hexgrid),
+
     # Temperature Layer GHCND Data with API
     re_path(r'api/get_all_stations', gsod_vw.WeatherStationsAPI.as_view(), name='api-get-all-stations'),
     re_path(r'api/post_hexgrid', gsod_vw.HexGridAPI.as_view(), name='api-post-hexgrid'),
