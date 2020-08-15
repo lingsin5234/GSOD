@@ -107,7 +107,7 @@ class HexGridAPI(views.APIView):
 
         # get the JSON file
         data = []
-        filename = 'hexGrid_' + request.GET['dataDate'] + '-v2.json'
+        filename = 'hexGrid_' + request.GET['dataDate'] + '.json'
         # print(filename)
         try:
             with open('gsod/posts/' + filename) as file:
@@ -253,9 +253,9 @@ def station_data_table(request, station_id):
 def new_map(request):
 
     # grab start and end date based on the gsod/posts folder
-    files = [f for f in os.listdir('gsod/posts') if bool(re.search(r'^hexGrid_.*-v2.json$', f))]
-    start_date = files[0].replace('hexGrid_', '').replace('-v2.json', '')
-    end_date = files[len(files)-1].replace('hexGrid_', '').replace('-v2.json', '')
+    files = [f for f in os.listdir('gsod/posts') if bool(re.search(r'^hexGrid_.*.json$', f))]
+    start_date = files[0].replace('hexGrid_', '').replace('.json', '')
+    end_date = files[len(files)-1].replace('hexGrid_', '').replace('.json', '')
     # print(start_date, end_date)
 
     context = {
