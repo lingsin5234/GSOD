@@ -85,3 +85,17 @@ IndexError: list index out of range
 2020-08-15 14:50:10,103 shapely.geos DEBUG    Trying `CDLL(C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll)`
 2020-08-15 14:50:10,105 shapely.geos DEBUG    Library path: 'C:\\Users\\Sinto\\Documents\\PycharmProjects\\venv\\lib\\site-packages\\shapely\\DLLs\\geos_c.dll'
 2020-08-15 14:50:10,106 shapely.geos DEBUG    DLL: <CDLL 'C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll', handle 7ffc41c80000 at 0x2e8ba0add08>
+2020-08-15 14:51:02,303 django.utils.autoreload INFO     C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\views.py changed, reloading.
+2020-08-15 14:51:02,303 asyncio      DEBUG    Using selector: SelectSelector
+2020-08-15 14:51:03,388 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2020-08-15 14:51:03,981 shapely.geos DEBUG    Trying `CDLL(C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll)`
+2020-08-15 14:51:03,981 shapely.geos DEBUG    Library path: 'C:\\Users\\Sinto\\Documents\\PycharmProjects\\venv\\lib\\site-packages\\shapely\\DLLs\\geos_c.dll'
+2020-08-15 14:51:03,981 shapely.geos DEBUG    DLL: <CDLL 'C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll', handle 7ffc41c80000 at 0x18ad8368cc8>
+2020-08-15 14:51:35,904 django.utils.autoreload INFO     C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\views.py changed, reloading.
+2020-08-15 14:51:35,904 asyncio      DEBUG    Using selector: SelectSelector
+2020-08-15 14:51:36,873 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2020-08-15 14:51:37,422 shapely.geos DEBUG    Trying `CDLL(C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll)`
+2020-08-15 14:51:37,422 shapely.geos DEBUG    Library path: 'C:\\Users\\Sinto\\Documents\\PycharmProjects\\venv\\lib\\site-packages\\shapely\\DLLs\\geos_c.dll'
+2020-08-15 14:51:37,422 shapely.geos DEBUG    DLL: <CDLL 'C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll', handle 7ffc41c80000 at 0x1d411071808>
+2020-08-15 14:51:47,382 asyncio      DEBUG    Using selector: SelectSelector
+2020-08-15 14:51:47,539 asyncio      DEBUG    Using selector: SelectSelector

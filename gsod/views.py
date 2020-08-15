@@ -134,16 +134,7 @@ class HexGridAPI(views.APIView):
                 outfile.write('request.POST' + '\n' + str(request.POST) + '\n')
             except Exception as e:
                 outfile.write('request.POST ERROR:' + str(e) + '\n')
-            '''
-            try:
-                outfile.write('dataDate' + '\n' + str(request.data['dataDate']) + '\n')
-            except Exception as e:
-                outfile.write('dataDate ERROR:' + str(e) + '\n')
-            try:
-                outfile.write('request.data' + '\n' + str(request.data) + '\n')
-            except Exception as e:
-                outfile.write('request.data ERROR:' + str(e) + '\n')
-            '''
+
         # write the JSON to file:
         filename = 'hexGrid_' + request.data['dataDate'] + '.json'
         try:
@@ -255,7 +246,7 @@ def new_map(request):
     # grab start and end date based on the gsod/posts folder
     files = [f for f in os.listdir('gsod/posts') if bool(re.search(r'^hexGrid_.*.json$', f))]
     start_date = files[0].replace('hexGrid_', '').replace('.json', '')
-    end_date = files[len(files)-1].replace('hexGrid_', '').replace('.json', '')
+    end_date = files[len(files)-1].replace('hexGrid_', '').replace('-v2.json', '')
     # print(start_date, end_date)
 
     context = {
@@ -302,33 +293,6 @@ def calculate_hexGrid2(request):
 
     bbox = [-126, 24, -66.5, 50]  # USA
     cellSide = 15
-
-    '''
-    stations = [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-96.726937845145, 33.733555]
-            },
-            "properties": {
-                "TMAX": 28,
-                "TMIN": 11
-            }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [-123.726937845145, 43.733940496411925]
-            },
-            "properties": {
-                "TMAX": -5,
-                "TMIN": -31
-            }
-        },
-    ]
-    '''
 
     # get ALL Weather Stations
     stations = Station.objects.all()
