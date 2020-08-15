@@ -313,7 +313,7 @@ def calculate_hexGrid2(request):
                 "coordinates": [-96.726937845145, 33.733555]
             },
             "properties": {
-                "TMAX": 21,
+                "TMAX": 28,
                 "TMIN": 11
             }
         },
@@ -324,13 +324,13 @@ def calculate_hexGrid2(request):
                 "coordinates": [-123.726937845145, 43.733940496411925]
             },
             "properties": {
-                "TMAX": -20,
+                "TMAX": -5,
                 "TMIN": -31
             }
         },
     ]
 
-    hexGrid = hc.hexgrid_constructor(bbox, cellSide, stations, 8, (24 + 50)/2)
+    hexGrid = hc.hexgrid_constructor(bbox, cellSide, stations, 2, (24 + 50)/2)
 
     context = {
         'mapbox_access_token': os.environ.get('mapbox_access_token'),

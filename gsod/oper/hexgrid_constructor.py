@@ -71,6 +71,7 @@ def hexgrid_constructor(bbox, cellSide, stations, levels, mid_lat):
     # stations_set = FeatureCollection(station_centroids)
     # print(stations_set)
     # print(len(stations_set['features']))
+    print(station_centroids)
 
     e2 = dte.datetime.now()
     print("Assign Stations:", str((e2 - s2).total_seconds()), "seconds")
@@ -87,16 +88,18 @@ def hexgrid_constructor(bbox, cellSide, stations, levels, mid_lat):
         # get all the '0's and ignore the stations
         if '0' in hexGridDict[hex]['station']:
             # get closest stations in recursive function
-            rings = get_closest_stations(centroid_coord, stations_set, tempDict,
-                                         cellSide, 0, dist, mid_lat, 0, 1, levels)
+            rings = get_closest_stations(centroid_coord, stations_set, tempDict, cellSide, mid_lat, 0, 1, levels)
             # print(len(stations_set['features']), idx)
+            if idx == 0:
+                print("First Coord:", centroid_coord)
             if not rings:
                 # no results
-                # print('No Results', rings)
+                if idx == 969:
+                    print('No Results', rings, centroid_coord)
                 pass
             else:
                 hexGridDict[hex]['rings'] = rings
-                print('Rings', centroid_coord, hexGridDict[hex]['rings'])  # , stations_set)
+                # print('Rings', idx, centroid_coord, hexGridDict[hex]['rings'])  # , stations_set)
     e1 = dte.datetime.now()
     print("Adding Rings:", str((e1 - s1).total_seconds()), "seconds")
 
@@ -119,7 +122,8 @@ def hexgrid_constructor(bbox, cellSide, stations, levels, mid_lat):
         elif not ('0' in hexGridDict[hex]['station']):
             # this is a weather station
             hexGrid['features'][idx]['properties'] = hexGridDict[hex]['station']['properties'].copy()
-            hexGrid['features'][idx]['properties']['temperature'] = hexGrid['features'][idx]['properties']['TMAX']
+            hexGrid['features'][idx]['properties']['temperature'] = \
+                (hexGrid['features'][idx]['properties']['TMAX'] + 40) / 80
         else:
             # this is not weather station and outside all rings
             if heat_check == 0:
@@ -215,16 +219,16 @@ def find_next_ring(target_point: Feature, points: FeatureCollection, min_dist, m
     if not points:
         raise Exception("points is required")
 
-    # min_dist = float("inf")
+    found_dist = 10000000  # something super big, float("inf")
     best_feature_index = 0
 
     def _callback_feature_each(pt, feature_index):
-        nonlocal min_dist, best_feature_index
+        nonlocal found_dist, best_feature_index
         distance_to_point = turf.distance(target_point, pt)
         # print(distance_to_point)
-        if (float(distance_to_point) > min_dist) and (float(distance_to_point) <= max_dist):
+        if (float(distance_to_point) >= min_dist) and (float(distance_to_point) < max_dist):
             best_feature_index = feature_index
-            min_dist = distance_to_point
+            found_dist = distance_to_point
             # print(min_dist)
             return False  # return False will break the loop once inside a polygon
         return True
@@ -233,22 +237,34 @@ def find_next_ring(target_point: Feature, points: FeatureCollection, min_dist, m
 
     nearest = points["features"][best_feature_index]
     nearest["properties"]["featureIndex"] = best_feature_index
-    nearest["properties"]["distanceToPoint"] = min_dist
+    nearest["properties"]["distanceToPoint"] = found_dist
     return nearest
 
 
 # Get Closest Weather Stations -- recursive
-def get_closest_stations(coord, the_stations, tempDict, cellSide, min_dist, max_dist, mid_lat, loops, level, max_level):
+def get_closest_stations(coord, the_stations, tempDict, cellSide, mid_lat, loops, level, max_level):
 
-    # work out the distances
-    adj_max_dist = convert_distance(cellSide * math.sqrt(3) * level, coord[1], mid_lat)
+    '''
     if level == 1:
-        adj_min_dist = cellSide
+        adj_min_dist = convert_distance(cellSide, coord[1], mid_lat)
+        adj_max_dist = convert_distance(cellSide * math.sqrt(3) * level, coord[1], mid_lat)
     else:
-        adj_min_dist = max_dist    # previous max is now the min
+    '''
+    # above or below mid_lat
+    hyp_dist = cellSide * math.sqrt(3) * level
+    if coord[1] >= mid_lat:
+        # above mid_lat -- convert shortest distance
+        adj_max_dist = max(hyp_dist, convert_distance(hyp_dist, coord[1], mid_lat))  # hyp_dist
+        adj_min_dist = min(cellSide * level, convert_distance(cellSide * level, coord[1], mid_lat))
+    else:
+        adj_max_dist = max(hyp_dist, convert_distance(hyp_dist, coord[1], mid_lat))
+        adj_min_dist = convert_distance(cellSide * level, coord[1], mid_lat)
+
+    get_min_dist = float(round_decimals_down(min(adj_max_dist, adj_min_dist), 6)) * 0.99995
+    get_max_dist = float(round(max(adj_max_dist, adj_min_dist), 6)) * 1.00005
 
     # find next ring
-    closest_station = find_next_ring(coord, the_stations, adj_min_dist, adj_max_dist)
+    closest_station = find_next_ring(coord, the_stations, get_min_dist, get_max_dist)
     # closest_station = actual_nearest_point(coord, the_stations)
 
     # get feature index and distance
@@ -256,24 +272,33 @@ def get_closest_stations(coord, the_stations, tempDict, cellSide, min_dist, max_
     distance = closest_station['properties']['distanceToPoint']
     new_stations = the_stations.copy()
 
+    # DEBUG:
+    if (coord[0] == -125.773062) and (coord[1] == 24.149234):
+        print(closest_station, distance, level, get_min_dist, get_max_dist, len(new_stations['features']))
+    if (coord[0] == -123.710315) and (coord[1] == 44.009509):
+        f1 = Feature(geometry=Point((-123.710315, 44.009509)))
+        f2 = Feature(geometry=Point((-123.710315, 43.775858)))
+        get_distance = turf.distance(f1, f2)
+        print(feature_index, get_distance, level, get_min_dist, get_max_dist, len(new_stations['features']))
+
     # get station coord to assign temperature
     station_coord = 'P' + ','.join([str(round(c, 6)) for c in closest_station['geometry']['coordinates']])
     station_coord = station_coord.replace('P-', 'N').replace(',', '_').replace('-', 'n')
 
     if (loops > 7) or (level > max_level):
         return False
-    elif (float(round(distance, 6)) <= float(round(adj_max_dist, 6))) and \
-            (float(round(distance, 6)) > float(round(adj_min_dist, 6))) and (len(new_stations['features']) > 1):
+    elif (float(round(distance, 6)) < get_max_dist) and \
+            (float(round(distance, 6)) >= get_min_dist) and (len(new_stations['features']) > 1):
         # remove that from list
         new_stations['features'].pop(feature_index)
 
         # recursive call to get next closest station
-        next_closest = get_closest_stations(coord, new_stations, tempDict, cellSide, min_dist,
-                                            max_dist, mid_lat, loops+1, level, max_level)
+        next_closest = get_closest_stations(coord, new_stations, tempDict, cellSide, mid_lat, loops+1, level, max_level)
         coord_dict = [{
             'ring_level': level,
-            'temperature': (tempDict[station_coord]['temperature'] + 40 + (-1 * level)) / 80
+            'temperature': (tempDict[station_coord]['temperature'] + 40 + (-1.75 * level)) / 80
         }]
+        print(coord_dict, coord, distance, get_min_dist, get_max_dist)
 
         if not next_closest:
             pass
@@ -282,8 +307,8 @@ def get_closest_stations(coord, the_stations, tempDict, cellSide, min_dist, max_
         return coord_dict
     elif loops <= 7:
         # else if loops less than 7 but not satisfy above -- increase the level
-        next_closest = get_closest_stations(coord, new_stations, tempDict, cellSide, min_dist,
-                                            max_dist, mid_lat, loops + 1, level + 1, max_level)
+        next_closest = get_closest_stations(coord, new_stations, tempDict, cellSide,
+                                            mid_lat, loops + 1, level + 1, max_level)
         # don't process coord_dict; just next_closest if not false
         if not next_closest:
             return False
@@ -304,3 +329,19 @@ def convert_distance(distance, lat, middle_lat):
     # now use pixel distance to convert it to the distance at the needed latitude
     km_per_pixel = 40075 * math.cos(lat * math.pi / 180) / math.pow(2, 12)
     return pixel_distance * km_per_pixel
+
+
+# round decimals down
+def round_decimals_down(number:float, decimals:int=2):
+    """
+    Returns a value rounded down to a specific number of decimal places.
+    """
+    if not isinstance(decimals, int):
+        raise TypeError("decimal places must be an integer")
+    elif decimals < 0:
+        raise ValueError("decimal places has to be 0 or more")
+    elif decimals == 0:
+        return math.ceil(number)
+
+    factor = 10 ** decimals
+    return math.floor(number * factor) / factor
