@@ -330,7 +330,7 @@ def calculate_hexGrid2(request):
         },
     ]
 
-    hexGrid = hc.hexgrid_constructor(bbox, cellSide, stations, 2, (24 + 50)/2)
+    hexGrid = hc.hexgrid_constructor(bbox, cellSide, stations, 8, (24 + 50)/2)
 
     context = {
         'mapbox_access_token': os.environ.get('mapbox_access_token'),

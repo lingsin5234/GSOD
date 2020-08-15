@@ -94,7 +94,7 @@ def hexgrid_constructor(bbox, cellSide, stations, levels, mid_lat):
                 print("First Coord:", centroid_coord)
             if not rings:
                 # no results
-                if idx == 969:
+                if idx == 12417:
                     print('No Results', rings, centroid_coord)
                 pass
             else:
@@ -260,8 +260,9 @@ def get_closest_stations(coord, the_stations, tempDict, cellSide, mid_lat, loops
         adj_max_dist = max(hyp_dist, convert_distance(hyp_dist, coord[1], mid_lat))
         adj_min_dist = convert_distance(cellSide * level, coord[1], mid_lat)
 
-    get_min_dist = float(round_decimals_down(min(adj_max_dist, adj_min_dist), 6)) * 0.99995
-    get_max_dist = float(round(max(adj_max_dist, adj_min_dist), 6)) * 1.00005
+    # account for 2% error
+    get_min_dist = float(round_decimals_down(min(adj_max_dist, adj_min_dist), 6)) * 0.98
+    get_max_dist = float(round(max(adj_max_dist, adj_min_dist), 6)) * 1.02
 
     # find next ring
     closest_station = find_next_ring(coord, the_stations, get_min_dist, get_max_dist)
@@ -273,11 +274,18 @@ def get_closest_stations(coord, the_stations, tempDict, cellSide, mid_lat, loops
     new_stations = the_stations.copy()
 
     # DEBUG:
+    '''
     if (coord[0] == -125.773062) and (coord[1] == 24.149234):
         print(closest_station, distance, level, get_min_dist, get_max_dist, len(new_stations['features']))
     if (coord[0] == -123.710315) and (coord[1] == 44.009509):
         f1 = Feature(geometry=Point((-123.710315, 44.009509)))
         f2 = Feature(geometry=Point((-123.710315, 43.775858)))
+        get_distance = turf.distance(f1, f2)
+        print(feature_index, get_distance, level, get_min_dist, get_max_dist, len(new_stations['features']))
+    '''
+    if (coord[0] == -96.894608) and (coord[1] == 33.728896):
+        f1 = Feature(geometry=Point((-96.636765, 33.845721)))
+        f2 = Feature(geometry=Point((-96.894608, 33.728896)))
         get_distance = turf.distance(f1, f2)
         print(feature_index, get_distance, level, get_min_dist, get_max_dist, len(new_stations['features']))
 
