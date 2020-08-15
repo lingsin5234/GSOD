@@ -16,3 +16,72 @@
 2020-08-15 14:01:44,664 sqlalchemy.engine.base.Engine INFO     SELECT Id FROM jobs_dim WHERE job_name='calculate_hexGrid_migrate'
 2020-08-15 14:01:44,664 sqlalchemy.engine.base.Engine INFO     ()
 2020-08-15 14:01:44,664 asyncio      DEBUG    Using selector: SelectSelector
+2020-08-15 14:46:36,120 sqlalchemy.engine.base.Engine INFO     INSERT INTO job_runs (job_id, job_variable, run_time, end_time, status) VALUES(?,?,?,?,?);
+2020-08-15 14:46:36,120 sqlalchemy.engine.base.Engine INFO     (3, '2020-01-02', datetime.datetime(2020, 8, 15, 14, 1, 44, 664737), datetime.datetime(2020, 8, 15, 14, 46, 36, 120058), 'COMPLETED')
+2020-08-15 14:46:36,120 sqlalchemy.engine.base.Engine INFO     COMMIT
+2020-08-15 14:48:47,051 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2020-08-15 14:48:47,791 shapely.geos DEBUG    Trying `CDLL(C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll)`
+2020-08-15 14:48:47,797 shapely.geos DEBUG    Library path: 'C:\\Users\\Sinto\\Documents\\PycharmProjects\\venv\\lib\\site-packages\\shapely\\DLLs\\geos_c.dll'
+2020-08-15 14:48:47,799 shapely.geos DEBUG    DLL: <CDLL 'C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll', handle 7ffc41c80000 at 0x1e1c4b8fd88>
+2020-08-15 14:48:53,731 django.request ERROR    Internal Server Error: /new-map/
+Traceback (most recent call last):
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\views.py", line 257, in new_map
+    start_date = files[0].replace('hexGrid_', '').replace('-v2.json', '')
+IndexError: list index out of range
+2020-08-15 14:48:53,731 django.request ERROR    Internal Server Error: /new-map/
+Traceback (most recent call last):
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\views.py", line 257, in new_map
+    start_date = files[0].replace('hexGrid_', '').replace('-v2.json', '')
+IndexError: list index out of range
+2020-08-15 14:49:10,490 django.utils.autoreload INFO     C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\views.py changed, reloading.
+2020-08-15 14:49:10,490 asyncio      DEBUG    Using selector: SelectSelector
+2020-08-15 14:49:11,513 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2020-08-15 14:49:12,076 shapely.geos DEBUG    Trying `CDLL(C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll)`
+2020-08-15 14:49:12,076 shapely.geos DEBUG    Library path: 'C:\\Users\\Sinto\\Documents\\PycharmProjects\\venv\\lib\\site-packages\\shapely\\DLLs\\geos_c.dll'
+2020-08-15 14:49:12,076 shapely.geos DEBUG    DLL: <CDLL 'C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll', handle 7ffc41c80000 at 0x1ef45bbcd48>
+2020-08-15 14:49:13,803 django.request ERROR    Internal Server Error: /new-map/
+Traceback (most recent call last):
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\views.py", line 257, in new_map
+    start_date = files[0].replace('hexGrid_', '').replace('-v2.json', '')
+IndexError: list index out of range
+2020-08-15 14:49:13,803 django.request ERROR    Internal Server Error: /new-map/
+Traceback (most recent call last):
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\views.py", line 257, in new_map
+    start_date = files[0].replace('hexGrid_', '').replace('-v2.json', '')
+IndexError: list index out of range
+2020-08-15 14:49:52,677 django.utils.autoreload INFO     C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\views.py changed, reloading.
+2020-08-15 14:49:52,677 asyncio      DEBUG    Using selector: SelectSelector
+2020-08-15 14:49:53,703 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2020-08-15 14:49:54,251 shapely.geos DEBUG    Trying `CDLL(C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll)`
+2020-08-15 14:49:54,267 shapely.geos DEBUG    Library path: 'C:\\Users\\Sinto\\Documents\\PycharmProjects\\venv\\lib\\site-packages\\shapely\\DLLs\\geos_c.dll'
+2020-08-15 14:49:54,267 shapely.geos DEBUG    DLL: <CDLL 'C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll', handle 7ffc41c80000 at 0x2261685fb88>
+2020-08-15 14:50:08,528 django.utils.autoreload INFO     C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\views.py changed, reloading.
+2020-08-15 14:50:08,529 asyncio      DEBUG    Using selector: SelectSelector
+2020-08-15 14:50:09,507 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2020-08-15 14:50:10,103 shapely.geos DEBUG    Trying `CDLL(C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll)`
+2020-08-15 14:50:10,105 shapely.geos DEBUG    Library path: 'C:\\Users\\Sinto\\Documents\\PycharmProjects\\venv\\lib\\site-packages\\shapely\\DLLs\\geos_c.dll'
+2020-08-15 14:50:10,106 shapely.geos DEBUG    DLL: <CDLL 'C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll', handle 7ffc41c80000 at 0x2e8ba0add08>
