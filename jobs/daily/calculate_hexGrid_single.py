@@ -1,15 +1,10 @@
 # CALCULATE THE HEX GRID
 from django_extensions.management.jobs import DailyJob
-from selenium import webdriver
-from selenium.webdriver.common.desired_capabilities import DesiredCapabilities
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
-from selenium.webdriver.common.by import By
 from selenium.common.exceptions import TimeoutException
 from gsod.oper import database_transactions as dbt
-import time
+from gsod.oper import hexgrid_constructor as hc
+from gsod.models import Station, GHCND
 import datetime as dte
-import djangoapps.settings as st
 import json
 
 
@@ -23,53 +18,63 @@ class Job(DailyJob):
         start_time = dte.datetime.now()
         query = "SELECT Id FROM jobs_dim WHERE job_name='calculate_hexGrid_migrate'"
         job_id = [n for (n,) in dbt.gsod_db_reader(query)][0]
-
-        # prepare the option for the chrome driver
-        options = webdriver.ChromeOptions()
-        options.add_argument('headless')
-        options.add_argument('--no-sandbox')
-        options.add_argument('--disable-dev-shm-usage')
-        options.add_argument('--start-maximized')
-        options.add_argument('--disable-gpu')
-
-        # start chrome browser
-        d = DesiredCapabilities.CHROME
-        d['loggingPrefs'] = {'browser': 'ALL'}
-        browser = webdriver.Chrome(chrome_options=options, desired_capabilities=d)
-        this_date = dte.date(2020, 1, 12)
-        if st.DEBUG:
-            URL = 'http://127.0.0.1:8000/calculate-hexGrid/' + str(this_date) + '/'
-        else:
-            # PRODUCTION
-            URL = 'https://portfolio.sinto-ling.ca/gsod/calculate-hexGrid/' + str(this_date) + '/'
-
-        print(URL)
-        browser.get(URL)
-        time.sleep(240)
         log_file = 'gsod/seleniumLog/' + str(dte.datetime.now().date()) + '.log'
-        for entry in browser.get_log('browser'):
-            print('CONSOLE LOG:', str(entry))
-            with open(log_file, 'a') as outfile:
-                outfile.write('CONSOLE LOG:' + str(entry) + '\n')
-        delay = 500
+
+        bbox = [-126, 24, -66.5, 50]  # USA
+        cellSide = 15
+
+        # get ALL Weather Stations
+        stations = Station.objects.all()
+        data_types = ['TMAX', 'TMIN']  # ['PRCP', 'SNOW', 'SNWD', 'TMAX', 'TMIN']
+
+        # get ghcnd info for specific day: 2020-05-16 and datatype=TMAX
+        this_date = '2020-01-02'
+
+        st_json = []
+        for s in stations:
+            if s.us_state == 'Alaska' or s.us_state == 'Hawaii':
+                continue
+            # if s.us_state != 'Alaska':  # only get alaska
+            #     continue
+
+            # create dictionary to load info to template view
+            new_dict = {
+                'type': 'Feature',
+                'geometry': {
+                    'type': 'Point',
+                    'coordinates': [
+                        s.longitude,
+                        s.latitude
+                    ]
+                },
+                'properties': {}
+            }
+
+            # generate dict based on all listed data types
+            for d in data_types:
+                try:
+                    ghcnd = GHCND.objects.get(station__id=s.id, date=this_date, datatype=d)
+                except Exception as e:
+                    continue
+                else:
+                    new_dict['properties'][d] = ghcnd.value / 10
+
+                    # add dict to list
+                    st_json.append(new_dict)
+
         try:
-            jsonTag = WebDriverWait(browser, delay).until(EC.presence_of_element_located((By.ID, 'jsonData')))
-            print("Calculations and API requests completed!")
-            # print(jsonData.get_attribute('innerHTML'))
-            # jsonData =
+            hexGrid = hc.hexgrid_constructor(bbox, cellSide, st_json, 8, (24 + 50) / 2)
+            print("Calculations completed!")
             filename = 'hexGrid_' + str(this_date) + '.json'
             try:
                 with open('gsod/posts/' + filename, 'w') as outfile:
-                    json.dump(json.loads(jsonTag.get_attribute('innerHTML')), outfile, indent=4)
-                    # json.dump(request.data['data'], outfile, indent=4)
+                    json.dump(hexGrid, outfile, indent=4)
             except Exception as e:
-                browser.quit()
                 print('POST write to file: Failed', e)
                 with open(log_file, 'a') as outfile:
                     outfile.write('POST write to file: Failed' + str(e) + '\n')
                 status = False
             else:
-                browser.quit()
                 print('POST write to file: Success!')
                 with open(log_file, 'a') as outfile:
                     outfile.write('POST write to file: Success!' + '\n')
@@ -77,8 +82,9 @@ class Job(DailyJob):
         except TimeoutException:
             print("Loading took too much time!", this_date)
             dbt.log_gsod_job_run(job_id, str(this_date), start_time, 'FAILED')
+            status = False
         else:
             # after each completion, take a 10 minute break
             dbt.log_gsod_job_run(job_id, str(this_date), start_time, 'COMPLETED')
 
-        return True
+        return status
