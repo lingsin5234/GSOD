@@ -1,0 +1,60 @@
+{% include 'partials/header_noaa.html' %}
+    <div id="my_title" class="d-flex justify-content-center">
+        <h1>RUN HexGrid2 Page</h1>
+    </div><br>
+
+    <br><br>
+    <div class="d-flex justify-content-center">
+        <div id="map" style="width: 1200px; height: 800px;"></div>
+    </div>
+
+
+    <script>
+        var hexGrid = {{ hexGrid | safe }};
+        mapboxgl.accessToken = '{{ mapbox_access_token }}';
+        var map = new mapboxgl.Map({
+            container: 'map',
+            zoom: 3,
+            minZoom: 3,
+            center: [-100, 36],     // US center -- roughly
+            //center: [-149, 63],   // for alaska
+            style: 'mapbox://styles/mapbox/streets-v11'
+        });
+
+        map.on('load', function() {
+            map.addSource('hexagons-draw', {
+                type: 'geojson',
+                data: hexGrid //hexagonGEO
+            });
+            map.addLayer({
+                id: 'hexagons-draw',
+                type: 'fill',
+                source: 'hexagons-draw',
+                paint: {
+                    'fill-color':
+                        [
+                            'case',
+                            [">", ["get", "temperature"], 0],
+                            [
+                                "interpolate", ["linear"], ["get", "temperature"],
+                                    0, 'rgb(148,0,211)',
+                                    0.45, 'rgb(114,212,188)',
+                                    0.55, 'rgb(100, 255, 50)',
+                                    0.7, 'rgb(255, 255, 0)',
+                                    0.9, 'rgb(255, 0, 0)',
+                                    1, 'rgb(153, 0, 0)'
+                            ],
+                            'rgb(0, 0, 0)'
+                        ],
+                    //'fill-opacity': 0.8
+                    'fill-opacity':
+                        [
+                            'case',
+                            [">", ["get", "temperature"], 0], 1,
+                            0,
+                        ]
+                }
+            });
+        });
+    </script>
+{% include 'partials/footer_noaa.html' %}
