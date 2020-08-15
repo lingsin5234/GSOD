@@ -11,7 +11,7 @@ import turfpy.measurement as turf
 from turfpy.transformation import union
 from geojson import Feature, Polygon, FeatureCollection, Point
 import datetime as dte
-import json
+import json, math
 
 
 # get default hexgrid
@@ -41,13 +41,14 @@ def hexgrid_constructor(bbox, cellSide, stations, levels):
         centroid_id = centroid_id.replace('P-', 'N').replace(',', '_').replace('-', 'n')
         # print(centroid_id)
         hexGridDict[centroid_id] = {
-            'station': {},
+            'station': {'0': 0},
             'rings': {}
         }
         centroids.append(Feature(geometry=Point(hex['centroid']['geometry']['coordinates'])))
     centroid_set = FeatureCollection(centroids)
 
     # loop through stations and assign it to the hexGrid
+    station_centroids = []
     s2 = dte.datetime.now()
     for station in stations:
         station_coord = Feature(geometry=Point(station['geometry']['coordinates']))
@@ -60,18 +61,43 @@ def hexgrid_constructor(bbox, cellSide, stations, levels):
         coord = coord.replace('P-', 'N').replace(',', '_').replace('-', 'n')
         # print(hexGridDict[coord])
         hexGridDict[coord]['station'] = station
-    print(hexGridDict)
+        station_centroids.append(Feature(geometry=Point(closest_hex['geometry']['coordinates'])))
+    # print(hexGridDict)
+    stations_set = FeatureCollection(station_centroids)
+    print(stations_set)
+    print(len(stations_set['features']))
 
     e2 = dte.datetime.now()
-    # seconds = (endTime.getTime() - startTime.getTime()) / 1000
-    # print("Set Hexagon Tiles:", seconds, "seconds")
-    # print("Updated Data Length:", dataSet.length)
-
-    # copy over hexGridDataSet for variable use
-    # hexGridDataSet = hexGrid.features
+    print("Set Hexagon Tiles:", str((s2 - s1).total_seconds()), "seconds")
+    print("Assign Stations:", str((e2 - s2).total_seconds()), "seconds")
 
     # add rings
-    # hexGridDataSet = HexGridAddRings(centroid_set, cellSide, levels, hexGridDataSet, dataSet, bot_lat, top_lat)
+    s1 = dte.datetime.now()
+    max_dist = levels * math.sqrt(3) * cellSide
+    print(max_dist)
+    for idx, hex in enumerate(hexGridDict):
+
+        centroid_coord = hex.replace('N', '-').replace('P', '').replace('_', ',').replace('n', '-')
+        centroid_coord = [float(c) for c in centroid_coord.split(',')]
+        # print(centroid_coord)
+        if len(stations_set['features']) == 2:
+            print('THIS IS 2: ', len(stations_set['features']))
+
+        # ignore stations
+        if '0' in hexGridDict[hex]['station']:
+            pass
+        else:
+            # get closest stations in recursive function
+            rings = get_closest_stations(centroid_coord, stations_set, max_dist)
+            # print(len(stations_set['features']))
+            if not rings:
+                # no results
+                print('No Results', rings)
+                pass
+            else:
+                hexGridDict[hex]['rings'] = rings
+                print('Rings', centroid_coord, hexGridDict[hex]['rings'], stations_set)
+    e1 = dte.datetime.now()
 
     # find overlaps
     # hexGridDataSet = HexGridOverlaps(hexGridDataSet, levels)
@@ -80,7 +106,6 @@ def hexgrid_constructor(bbox, cellSide, stations, levels):
     # hexGrid = HexGridDeploy(hexGrid, levels, hexGridDataSet, dataSet)
 
     return True
-# '''
 
 
 # ACTUAL nearest point -- edited the source code from turfpy library
@@ -122,3 +147,29 @@ def actual_feature_each(geojson, callback):
             # print(callback(geojson["features"][i], i))
             if not callback(geojson["features"][i], i):
                 break
+
+
+# Get Closest Weather Stations -- recursive
+def get_closest_stations(coord, the_stations, max_dist):
+
+    closest_station = actual_nearest_point(coord, the_stations)
+    feature_index = closest_station['properties']['featureIndex']
+    distance = closest_station['properties']['distanceToPoint']
+    new_stations = the_stations.copy()
+    # print(feature_index, distance, max_dist)
+
+    if (float(round(distance, 6)) < float(round(max_dist, 6))) and (len(new_stations['features']) > 1):
+        # remove that from list
+        new_stations['features'].pop(feature_index)
+
+        # recursive call to get next closest station
+        next_closest = get_closest_stations(coord, new_stations, max_dist)
+        coord_dict = [closest_station]
+
+        if not next_closest:
+            pass
+        else:
+            coord_dict.extend(next_closest)
+        return coord_dict
+    else:
+        return False
