@@ -90,12 +90,12 @@ def hexgrid_constructor(bbox, cellSide, stations, levels, mid_lat):
             # get closest stations in recursive function
             rings = get_closest_stations(centroid_coord, stations_set, tempDict, cellSide, mid_lat, 0, 1, levels)
             # print(len(stations_set['features']), idx)
-            if idx == 0:
-                print("First Coord:", centroid_coord)
+            # if idx == 0:
+            #     print("First Coord:", centroid_coord)
             if not rings:
                 # no results
-                if idx == 12417:
-                    print('No Results', rings, centroid_coord)
+                # if idx == 12417:
+                #     print('No Results', rings, centroid_coord)
                 pass
             else:
                 hexGridDict[hex]['rings'] = rings
@@ -103,21 +103,25 @@ def hexgrid_constructor(bbox, cellSide, stations, levels, mid_lat):
     e1 = dte.datetime.now()
     print("Adding Rings:", str((e1 - s1).total_seconds()), "seconds")
 
-    # find overlaps
-    # hexGridDataSet = HexGridOverlaps(hexGridDataSet, levels)
-
     # re - calculate temps and deploy the rings, then stations
-    heat_check = 0
+    # heat_check = 0
     for idx, hex in enumerate(hexGridDict):
         if ('0' in hexGridDict[hex]['station']) and (len(hexGridDict[hex]['rings']) > 0):
-            # hexGrid['features'][idx]['properties'] = hexGridDict[hex]['rings'][0]['properties'].copy()
 
-            # accept only ring_level == 1 for now
-            # if hexGridDict[hex]['rings'][0]['ring_level'] == 1:
+            # get "highest" ring_level, e.g. level 1 is highest
+            ring_level = hexGridDict[hex]['rings'][0]['ring_level']
+            acc_temp = 0
+            total_acc = 0
 
-            # take only the highest ring -- ignore overlap for now
+            # average out the overlaps
+            for ring in hexGridDict[hex]['rings']:
+                if ring['ring_level'] == ring_level:
+                    acc_temp += ring['temperature']
+                    total_acc += 1
+            avg_temp = acc_temp / total_acc
+
             hexGrid['features'][idx]['properties'] = {
-                'temperature': hexGridDict[hex]['rings'][0]['temperature']
+                'temperature': avg_temp
             }
         elif not ('0' in hexGridDict[hex]['station']):
             # this is a weather station
@@ -126,9 +130,11 @@ def hexgrid_constructor(bbox, cellSide, stations, levels, mid_lat):
                 (hexGrid['features'][idx]['properties']['TMAX'] + 40) / 80
         else:
             # this is not weather station and outside all rings
+            '''
             if heat_check == 0:
                 heat_check += 1
                 print("Heat Check")
+            '''
             hexGrid['features'][idx]['properties'] = {
                 'temperature': -1
             }
@@ -282,12 +288,13 @@ def get_closest_stations(coord, the_stations, tempDict, cellSide, mid_lat, loops
         f2 = Feature(geometry=Point((-123.710315, 43.775858)))
         get_distance = turf.distance(f1, f2)
         print(feature_index, get_distance, level, get_min_dist, get_max_dist, len(new_stations['features']))
-    '''
+    
     if (coord[0] == -96.894608) and (coord[1] == 33.728896):
         f1 = Feature(geometry=Point((-96.636765, 33.845721)))
         f2 = Feature(geometry=Point((-96.894608, 33.728896)))
         get_distance = turf.distance(f1, f2)
         print(feature_index, get_distance, level, get_min_dist, get_max_dist, len(new_stations['features']))
+    '''
 
     # get station coord to assign temperature
     station_coord = 'P' + ','.join([str(round(c, 6)) for c in closest_station['geometry']['coordinates']])
@@ -304,9 +311,9 @@ def get_closest_stations(coord, the_stations, tempDict, cellSide, mid_lat, loops
         next_closest = get_closest_stations(coord, new_stations, tempDict, cellSide, mid_lat, loops+1, level, max_level)
         coord_dict = [{
             'ring_level': level,
-            'temperature': (tempDict[station_coord]['temperature'] + 40 + (-1.75 * level)) / 80
+            'temperature': (tempDict[station_coord]['temperature'] + 40 + (-1 * level)) / 80
         }]
-        print(coord_dict, coord, distance, get_min_dist, get_max_dist)
+        # print(coord_dict, coord, distance, get_min_dist, get_max_dist)
 
         if not next_closest:
             pass
