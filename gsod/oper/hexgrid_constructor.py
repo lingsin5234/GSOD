@@ -243,7 +243,7 @@ def get_closest_stations(coord, the_stations, tempDict, cellSide, min_dist, max_
     # work out the distances
     adj_max_dist = convert_distance(cellSide * math.sqrt(3) * level, coord[1], mid_lat)
     if level == 1:
-        adj_min_dist = convert_distance(cellSide, coord[1], mid_lat)
+        adj_min_dist = cellSide
     else:
         adj_min_dist = max_dist    # previous max is now the min
 
@@ -284,16 +284,11 @@ def get_closest_stations(coord, the_stations, tempDict, cellSide, min_dist, max_
         # else if loops less than 7 but not satisfy above -- increase the level
         next_closest = get_closest_stations(coord, new_stations, tempDict, cellSide, min_dist,
                                             max_dist, mid_lat, loops + 1, level + 1, max_level)
-        coord_dict = [{
-            'ring_level': level + 1,
-            'temperature': (tempDict[station_coord]['temperature'] + 40 + (-1 * (level + 1))) / 80
-        }]
-
+        # don't process coord_dict; just next_closest if not false
         if not next_closest:
-            pass
+            return False
         else:
-            coord_dict.extend(next_closest)
-        return coord_dict
+            return next_closest
     else:
         return False
 
