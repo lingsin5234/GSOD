@@ -63,9 +63,9 @@ def hexgrid_constructor(bbox, cellSide, stations, levels):
         hexGridDict[coord]['station'] = station
         station_centroids.append(Feature(geometry=Point(closest_hex['geometry']['coordinates'])))
     # print(hexGridDict)
-    stations_set = FeatureCollection(station_centroids)
-    print(stations_set)
-    print(len(stations_set['features']))
+    # stations_set = FeatureCollection(station_centroids)
+    # print(stations_set)
+    # print(len(stations_set['features']))
 
     e2 = dte.datetime.now()
     print("Set Hexagon Tiles:", str((s2 - s1).total_seconds()), "seconds")
@@ -76,27 +76,23 @@ def hexgrid_constructor(bbox, cellSide, stations, levels):
     max_dist = levels * math.sqrt(3) * cellSide
     print(max_dist)
     for idx, hex in enumerate(hexGridDict):
+        stations_set = FeatureCollection(station_centroids.copy())
 
         centroid_coord = hex.replace('N', '-').replace('P', '').replace('_', ',').replace('n', '-')
         centroid_coord = [float(c) for c in centroid_coord.split(',')]
-        # print(centroid_coord)
-        if len(stations_set['features']) == 2:
-            print('THIS IS 2: ', len(stations_set['features']))
 
-        # ignore stations
+        # get all the '0's and ignore the stations
         if '0' in hexGridDict[hex]['station']:
-            pass
-        else:
             # get closest stations in recursive function
             rings = get_closest_stations(centroid_coord, stations_set, max_dist)
-            # print(len(stations_set['features']))
+            # print(len(stations_set['features']), idx)
             if not rings:
                 # no results
-                print('No Results', rings)
+                # print('No Results', rings)
                 pass
             else:
                 hexGridDict[hex]['rings'] = rings
-                print('Rings', centroid_coord, hexGridDict[hex]['rings'], stations_set)
+                print('Rings', centroid_coord, hexGridDict[hex]['rings'])  # , stations_set)
     e1 = dte.datetime.now()
 
     # find overlaps
