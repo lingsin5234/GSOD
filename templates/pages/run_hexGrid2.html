@@ -11,6 +11,7 @@
 
     <script>
         var hexGrid = {{ hexGrid | safe }};
+        console.log(hexGrid);
         mapboxgl.accessToken = '{{ mapbox_access_token }}';
         var map = new mapboxgl.Map({
             container: 'map',
@@ -46,11 +47,10 @@
                             ],
                             'rgb(0, 0, 0)'
                         ],
-                    //'fill-opacity': 0.8
                     'fill-opacity':
                         [
                             'case',
-                            [">", ["get", "temperature"], 0], 1,
+                            [">", ["get", "temperature"], 0], 0.8,
                             0,
                         ]
                 }

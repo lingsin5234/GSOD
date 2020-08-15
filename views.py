@@ -107,7 +107,7 @@ class HexGridAPI(views.APIView):
 
         # get the JSON file
         data = []
-        filename = 'hexGrid_' + request.GET['dataDate'] + '.json'
+        filename = 'hexGrid_' + request.GET['dataDate'] + '-v2.json'
         # print(filename)
         try:
             with open('gsod/posts/' + filename) as file:
@@ -253,9 +253,9 @@ def station_data_table(request, station_id):
 def new_map(request):
 
     # grab start and end date based on the gsod/posts folder
-    files = [f for f in os.listdir('gsod/posts') if bool(re.search('json', f))]
-    start_date = files[0].replace('hexGrid_', '').replace('.json', '')
-    end_date = files[len(files)-1].replace('hexGrid_', '').replace('.json', '')
+    files = [f for f in os.listdir('gsod/posts') if bool(re.search(r'^hexGrid_.*-v2.json$', f))]
+    start_date = files[0].replace('hexGrid_', '').replace('-v2.json', '')
+    end_date = files[len(files)-1].replace('hexGrid_', '').replace('-v2.json', '')
     # print(start_date, end_date)
 
     context = {
@@ -302,6 +302,33 @@ def calculate_hexGrid2(request):
 
     bbox = [-126, 24, -66.5, 50]  # USA
     cellSide = 15
+
+    '''
+    stations = [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-96.726937845145, 33.733555]
+            },
+            "properties": {
+                "TMAX": 28,
+                "TMIN": 11
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-123.726937845145, 43.733940496411925]
+            },
+            "properties": {
+                "TMAX": -5,
+                "TMIN": -31
+            }
+        },
+    ]
+    '''
 
     # get ALL Weather Stations
     stations = Station.objects.all()
@@ -357,6 +384,11 @@ def calculate_hexGrid2(request):
             })
 
     hexGrid = hc.hexgrid_constructor(bbox, cellSide, st_json, 8, (24 + 50)/2)
+
+    with open('gsod/posts/hexGrid_2020-01-01-v2.json', 'w') as writefile:
+        json.dump(hexGrid, writefile, indent=4)
+    with open('gsod/posts/stations_2020-01-01-v2.json', 'w') as writefile:
+        json.dump(st_json, writefile, indent=4)
 
     context = {
         'mapbox_access_token': os.environ.get('mapbox_access_token'),
