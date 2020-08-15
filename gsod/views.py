@@ -310,22 +310,29 @@ def calculate_hexGrid2(request):
             "type": "Feature",
             "geometry": {
                 "type": "Point",
-                "coordinates": [-66.726937845145, 49.733555]
+                "coordinates": [-96.726937845145, 33.733555]
+            },
+            "properties": {
+                "temperature": 0.7
             }
         },
         {
             "type": "Feature",
             "geometry": {
                 "type": "Point",
-                "coordinates": [-126.726937845145, 23.733940496411925]
+                "coordinates": [-123.726937845145, 43.733940496411925]
+            },
+            "properties": {
+                "temperature": 0.4
             }
         },
     ]
 
-    status = hc.hexgrid_constructor(bbox, cellSide, stations, 8)
+    hexGrid = hc.hexgrid_constructor(bbox, cellSide, stations, 8)
 
     context = {
-        'status': status
+        'mapbox_access_token': os.environ.get('mapbox_access_token'),
+        'hexGrid': hexGrid
     }
 
     return render(request, 'pages/run_hexGrid2.html', context)

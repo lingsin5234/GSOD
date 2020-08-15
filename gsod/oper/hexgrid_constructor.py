@@ -42,7 +42,7 @@ def hexgrid_constructor(bbox, cellSide, stations, levels):
         # print(centroid_id)
         hexGridDict[centroid_id] = {
             'station': {'0': 0},
-            'rings': {}
+            'rings': [],
         }
         centroids.append(Feature(geometry=Point(hex['centroid']['geometry']['coordinates'])))
     centroid_set = FeatureCollection(centroids)
@@ -99,9 +99,20 @@ def hexgrid_constructor(bbox, cellSide, stations, levels):
     # hexGridDataSet = HexGridOverlaps(hexGridDataSet, levels)
 
     # re - calculate temps and deploy the rings, then stations
-    # hexGrid = HexGridDeploy(hexGrid, levels, hexGridDataSet, dataSet)
+    for idx, hex in enumerate(hexGridDict):
+        if ('0' in hexGridDict[hex]['station']) and (len(hexGridDict[hex]['rings']) > 0):
+            # hexGrid['features'][idx]['properties'] = hexGridDict[hex]['rings'][0]['properties'].copy()
+            hexGrid['features'][idx]['properties'] = {
+                'temperature': -1
+            }
+        elif not ('0' in hexGridDict[hex]['station']):
+            hexGrid['features'][idx]['properties'] = hexGridDict[hex]['station']['properties'].copy()
+        else:
+            hexGrid['features'][idx]['properties'] = {
+                'temperature': -1
+            }
 
-    return True
+    return hexGrid
 
 
 # ACTUAL nearest point -- edited the source code from turfpy library
@@ -160,7 +171,9 @@ def get_closest_stations(coord, the_stations, max_dist):
 
         # recursive call to get next closest station
         next_closest = get_closest_stations(coord, new_stations, max_dist)
-        coord_dict = [closest_station]
+        coord_dict = [{
+            'ring_level': 1
+        }]
 
         if not next_closest:
             pass
