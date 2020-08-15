@@ -12,3 +12,4 @@
 *.db
 **/posts/*
 **/seleniumLog/*
+*.LOG
