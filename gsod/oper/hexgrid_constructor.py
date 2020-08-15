@@ -55,29 +55,37 @@ def hexgrid_constructor(bbox, cellSide, stations, levels, mid_lat):
     print("Set Hexagon Tiles:", str((e1 - s1).total_seconds()), "seconds")
     s2 = dte.datetime.now()
     for idx, station in enumerate(stations):
-        # DEBUG -- first station??
-        debug_coord = station['geometry']['coordinates']
-        if (debug_coord[0] < -125) and (debug_coord[1] < 25):
-            print(idx, station)
-
         station_coord = Feature(geometry=Point(station['geometry']['coordinates']))
         # print(station_coord)
 
-        closest_hex = find_closest_polygon(station_coord, centroid_set, cellSide)
-        # print(closest_hex)
+        lat = station['geometry']['coordinates'][1]
+        cellSide_convert = convert_distance(cellSide, lat, mid_lat) * 1.05  # 5% error
+        closest_hex = find_closest_polygon(station_coord, centroid_set, cellSide_convert)
 
-        # assign that hex the station
-        coord = 'P' + ','.join([str(round(c, 6)) for c in closest_hex['geometry']['coordinates']])
-        coord = coord.replace('P-', 'N').replace(',', '_').replace('-', 'n')
-        # print(hexGridDict[coord])
-        hexGridDict[coord]['station'] = station
-        tempDict[coord]['temperature'] = station['properties']['TMAX']  # TMAX USED HERE #############!!!!!!
-        station_centroids.append(Feature(geometry=Point(closest_hex['geometry']['coordinates'])))
+        '''
+        # DEBUG:
+        debug_coord = station['geometry']['coordinates']
+        if (debug_coord[0] == -97.5122) and (debug_coord[1] == 27.7742):
+            print(debug_coord, closest_hex)
+        '''
+        # issue if closest hex is just wrong
+        if closest_hex['properties']['distanceToPoint'] > (cellSide * 2):
+            pass
+        else:
+            # assign that hex the station
+            coord = 'P' + ','.join([str(round(c, 6)) for c in closest_hex['geometry']['coordinates']])
+            coord = coord.replace('P-', 'N').replace(',', '_').replace('-', 'n')
+            # print(hexGridDict[coord])
+            hexGridDict[coord]['station'] = station
+            tempDict[coord]['temperature'] = station['properties']['TMAX']  # TMAX USED HERE #############!!!!!!
+            station_centroids.append(Feature(geometry=Point(closest_hex['geometry']['coordinates'])))
     # print(hexGridDict)
     # stations_set = FeatureCollection(station_centroids)
     # print(stations_set)
     # print(len(stations_set['features']))
-    print(station_centroids)
+    # print(station_centroids)
+    # print(hexGridDict['N125.773062_24.149234'])
+    # print(str(hexGridDict)[:100])
 
     e2 = dte.datetime.now()
     print("Assign Stations:", str((e2 - s2).total_seconds()), "seconds")
@@ -192,7 +200,7 @@ def actual_feature_each(geojson, callback):
 
 
 # adated from actual_nearest_point -- find the first polygon that it is in
-def find_closest_polygon(target_point: Feature, points: FeatureCollection, min_dist) -> Feature:
+def find_closest_polygon(target_point: Feature, points: FeatureCollection, cellSide) -> Feature:
 
     if not target_point:
         raise Exception("target_point is required")
@@ -200,14 +208,14 @@ def find_closest_polygon(target_point: Feature, points: FeatureCollection, min_d
     if not points:
         raise Exception("points is required")
 
-    # min_dist = float("inf")
+    min_dist = 10000000  # cellSide * 1.05
     best_feature_index = 0
 
     def _callback_feature_each(pt, feature_index):
         nonlocal min_dist, best_feature_index
         distance_to_point = turf.distance(target_point, pt)
         # print(distance_to_point)
-        if float(distance_to_point) < min_dist:
+        if float(distance_to_point) <= cellSide:
             best_feature_index = feature_index
             min_dist = distance_to_point
             # print(min_dist)

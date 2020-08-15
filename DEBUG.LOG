@@ -58,3 +58,63 @@
 2020-08-15 11:29:37,659 shapely.geos DEBUG    Trying `CDLL(C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll)`
 2020-08-15 11:29:37,661 shapely.geos DEBUG    Library path: 'C:\\Users\\Sinto\\Documents\\PycharmProjects\\venv\\lib\\site-packages\\shapely\\DLLs\\geos_c.dll'
 2020-08-15 11:29:37,661 shapely.geos DEBUG    DLL: <CDLL 'C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll', handle 7ffc3d290000 at 0x24ac2096e88>
+2020-08-15 11:33:19,565 asyncio      DEBUG    Using selector: SelectSelector
+2020-08-15 11:33:20,163 asyncio      DEBUG    Using selector: SelectSelector
+2020-08-15 11:34:34,588 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2020-08-15 11:34:35,185 shapely.geos DEBUG    Trying `CDLL(C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll)`
+2020-08-15 11:34:35,186 shapely.geos DEBUG    Library path: 'C:\\Users\\Sinto\\Documents\\PycharmProjects\\venv\\lib\\site-packages\\shapely\\DLLs\\geos_c.dll'
+2020-08-15 11:34:35,187 shapely.geos DEBUG    DLL: <CDLL 'C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll', handle 7ffc3d290000 at 0x1f1943e2488>
+2020-08-15 11:39:18,001 asyncio      DEBUG    Using selector: SelectSelector
+2020-08-15 11:39:18,633 asyncio      DEBUG    Using selector: SelectSelector
+2020-08-15 11:42:16,712 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2020-08-15 11:42:17,270 shapely.geos DEBUG    Trying `CDLL(C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll)`
+2020-08-15 11:42:17,272 shapely.geos DEBUG    Library path: 'C:\\Users\\Sinto\\Documents\\PycharmProjects\\venv\\lib\\site-packages\\shapely\\DLLs\\geos_c.dll'
+2020-08-15 11:42:17,273 shapely.geos DEBUG    DLL: <CDLL 'C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll', handle 7ffc3d290000 at 0x2008901fcc8>
+2020-08-15 11:50:22,730 asyncio      DEBUG    Using selector: SelectSelector
+2020-08-15 11:50:23,381 asyncio      DEBUG    Using selector: SelectSelector
+2020-08-15 11:53:43,937 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2020-08-15 11:53:44,496 shapely.geos DEBUG    Trying `CDLL(C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll)`
+2020-08-15 11:53:44,512 shapely.geos DEBUG    Library path: 'C:\\Users\\Sinto\\Documents\\PycharmProjects\\venv\\lib\\site-packages\\shapely\\DLLs\\geos_c.dll'
+2020-08-15 11:53:44,512 shapely.geos DEBUG    DLL: <CDLL 'C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll', handle 7ffc3d290000 at 0x26bbba11bc8>
+2020-08-15 11:59:12,100 django.utils.autoreload INFO     C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\oper\hexgrid_constructor.py changed, reloading.
+2020-08-15 11:59:12,100 asyncio      DEBUG    Using selector: SelectSelector
+2020-08-15 11:59:13,064 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2020-08-15 11:59:13,617 shapely.geos DEBUG    Trying `CDLL(C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll)`
+2020-08-15 11:59:13,617 shapely.geos DEBUG    Library path: 'C:\\Users\\Sinto\\Documents\\PycharmProjects\\venv\\lib\\site-packages\\shapely\\DLLs\\geos_c.dll'
+2020-08-15 11:59:13,617 shapely.geos DEBUG    DLL: <CDLL 'C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll', handle 7ffc3d290000 at 0x299b196ec08>
+2020-08-15 11:59:16,524 django.utils.autoreload INFO     C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\oper\hexgrid_constructor.py changed, reloading.
+2020-08-15 11:59:16,539 asyncio      DEBUG    Using selector: SelectSelector
+2020-08-15 11:59:17,508 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2020-08-15 11:59:18,164 shapely.geos DEBUG    Trying `CDLL(C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll)`
+2020-08-15 11:59:18,164 shapely.geos DEBUG    Library path: 'C:\\Users\\Sinto\\Documents\\PycharmProjects\\venv\\lib\\site-packages\\shapely\\DLLs\\geos_c.dll'
+2020-08-15 11:59:18,164 shapely.geos DEBUG    DLL: <CDLL 'C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll', handle 7ffc3d290000 at 0x147da37df08>
+2020-08-15 12:01:06,109 django.utils.autoreload INFO     C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\oper\hexgrid_constructor.py changed, reloading.
+2020-08-15 12:01:06,109 asyncio      DEBUG    Using selector: SelectSelector
+2020-08-15 12:01:07,093 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2020-08-15 12:01:07,680 shapely.geos DEBUG    Trying `CDLL(C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll)`
+2020-08-15 12:01:07,680 shapely.geos DEBUG    Library path: 'C:\\Users\\Sinto\\Documents\\PycharmProjects\\venv\\lib\\site-packages\\shapely\\DLLs\\geos_c.dll'
+2020-08-15 12:01:07,680 shapely.geos DEBUG    DLL: <CDLL 'C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll', handle 7ffc3d290000 at 0x1f5184be548>
+2020-08-15 12:39:34,197 django.utils.autoreload INFO     C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\oper\hexgrid_constructor.py changed, reloading.
+2020-08-15 12:39:34,197 asyncio      DEBUG    Using selector: SelectSelector
+2020-08-15 12:39:35,150 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2020-08-15 12:39:35,759 shapely.geos DEBUG    Trying `CDLL(C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll)`
+2020-08-15 12:39:35,759 shapely.geos DEBUG    Library path: 'C:\\Users\\Sinto\\Documents\\PycharmProjects\\venv\\lib\\site-packages\\shapely\\DLLs\\geos_c.dll'
+2020-08-15 12:39:35,759 shapely.geos DEBUG    DLL: <CDLL 'C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll', handle 7ffc41c80000 at 0x1f3ff9e29c8>
+2020-08-15 12:39:41,030 django.utils.autoreload INFO     C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\oper\hexgrid_constructor.py changed, reloading.
+2020-08-15 12:39:41,030 asyncio      DEBUG    Using selector: SelectSelector
+2020-08-15 12:39:42,108 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2020-08-15 12:39:42,700 shapely.geos DEBUG    Trying `CDLL(C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll)`
+2020-08-15 12:39:42,700 shapely.geos DEBUG    Library path: 'C:\\Users\\Sinto\\Documents\\PycharmProjects\\venv\\lib\\site-packages\\shapely\\DLLs\\geos_c.dll'
+2020-08-15 12:39:42,700 shapely.geos DEBUG    DLL: <CDLL 'C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll', handle 7ffc41c80000 at 0x280f547cdc8>
+2020-08-15 12:39:46,888 django.utils.autoreload INFO     C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\oper\hexgrid_constructor.py changed, reloading.
+2020-08-15 12:39:46,888 asyncio      DEBUG    Using selector: SelectSelector
+2020-08-15 12:39:47,841 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2020-08-15 12:39:48,450 shapely.geos DEBUG    Trying `CDLL(C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll)`
+2020-08-15 12:39:48,450 shapely.geos DEBUG    Library path: 'C:\\Users\\Sinto\\Documents\\PycharmProjects\\venv\\lib\\site-packages\\shapely\\DLLs\\geos_c.dll'
+2020-08-15 12:39:48,450 shapely.geos DEBUG    DLL: <CDLL 'C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll', handle 7ffc41c80000 at 0x21c5b970348>
+2020-08-15 13:38:41,653 django.utils.autoreload INFO     C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\oper\hexgrid_constructor.py changed, reloading.
+2020-08-15 13:38:41,653 asyncio      DEBUG    Using selector: SelectSelector
+2020-08-15 13:38:42,838 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2020-08-15 13:38:44,307 shapely.geos DEBUG    Trying `CDLL(C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll)`
+2020-08-15 13:38:44,338 shapely.geos DEBUG    Library path: 'C:\\Users\\Sinto\\Documents\\PycharmProjects\\venv\\lib\\site-packages\\shapely\\DLLs\\geos_c.dll'
+2020-08-15 13:38:44,338 shapely.geos DEBUG    DLL: <CDLL 'C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll', handle 7ffc41c80000 at 0x2788a19ba88>
