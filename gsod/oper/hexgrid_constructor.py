@@ -54,9 +54,15 @@ def hexgrid_constructor(bbox, cellSide, stations, levels, mid_lat):
     station_centroids = []
     print("Set Hexagon Tiles:", str((e1 - s1).total_seconds()), "seconds")
     s2 = dte.datetime.now()
-    for station in stations:
+    for idx, station in enumerate(stations):
+        # DEBUG -- first station??
+        debug_coord = station['geometry']['coordinates']
+        if (debug_coord[0] < -125) and (debug_coord[1] < 25):
+            print(idx, station)
+
         station_coord = Feature(geometry=Point(station['geometry']['coordinates']))
         # print(station_coord)
+
         closest_hex = find_closest_polygon(station_coord, centroid_set, cellSide)
         # print(closest_hex)
 
