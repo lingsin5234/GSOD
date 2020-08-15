@@ -45,7 +45,7 @@ def hexgrid_constructor(bbox, cellSide, stations, levels, mid_lat):
             'station': {'0': 0},
             'rings': [],
         }
-        tempDict[centroid_id] = {"temperature": -1};
+        tempDict[centroid_id] = {"temperature": -1}
         centroids.append(Feature(geometry=Point(hex['centroid']['geometry']['coordinates'])))
     centroid_set = FeatureCollection(centroids)
     e1 = dte.datetime.now()
@@ -98,24 +98,33 @@ def hexgrid_constructor(bbox, cellSide, stations, levels, mid_lat):
                 hexGridDict[hex]['rings'] = rings
                 print('Rings', centroid_coord, hexGridDict[hex]['rings'])  # , stations_set)
     e1 = dte.datetime.now()
-    print("Adding Rings:", str((s1 - e1).total_seconds()), "seconds")
+    print("Adding Rings:", str((e1 - s1).total_seconds()), "seconds")
 
     # find overlaps
     # hexGridDataSet = HexGridOverlaps(hexGridDataSet, levels)
 
     # re - calculate temps and deploy the rings, then stations
+    heat_check = 0
     for idx, hex in enumerate(hexGridDict):
         if ('0' in hexGridDict[hex]['station']) and (len(hexGridDict[hex]['rings']) > 0):
             # hexGrid['features'][idx]['properties'] = hexGridDict[hex]['rings'][0]['properties'].copy()
 
             # accept only ring_level == 1 for now
-            if hexGridDict[hex]['rings'][0]['ring_level'] == 1:
-                hexGrid['features'][idx]['properties'] = {
-                    'temperature': 0.8
-                }
+            # if hexGridDict[hex]['rings'][0]['ring_level'] == 1:
+
+            # take only the highest ring -- ignore overlap for now
+            hexGrid['features'][idx]['properties'] = {
+                'temperature': hexGridDict[hex]['rings'][0]['temperature']
+            }
         elif not ('0' in hexGridDict[hex]['station']):
+            # this is a weather station
             hexGrid['features'][idx]['properties'] = hexGridDict[hex]['station']['properties'].copy()
+            hexGrid['features'][idx]['properties']['temperature'] = hexGrid['features'][idx]['properties']['TMAX']
         else:
+            # this is not weather station and outside all rings
+            if heat_check == 0:
+                heat_check += 1
+                print("Heat Check")
             hexGrid['features'][idx]['properties'] = {
                 'temperature': -1
             }
@@ -263,7 +272,7 @@ def get_closest_stations(coord, the_stations, tempDict, cellSide, min_dist, max_
                                             max_dist, mid_lat, loops+1, level, max_level)
         coord_dict = [{
             'ring_level': level,
-            'temperature': (tempDict[station_coord]['temperature'] + 40 + (-1 * (level))) / 80
+            'temperature': (tempDict[station_coord]['temperature'] + 40 + (-1 * level)) / 80
         }]
 
         if not next_closest:
