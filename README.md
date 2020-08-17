@@ -7,6 +7,12 @@ for Environmental Information branch of the  National Oceanic and Atmospheric Ad
 The purpose of this project is to run a daily ETL of the GSOD data, polish its data in the database,
 build prediction models and design data visualizations with the data and models.
 
+My GitLab repos:
+
+*  [NOAA Project](https://gitlab.com/ServerJS/GSOD)
+*  [Azure Tests](https://gitlab.com/lingsin5234/azure-tests)
+
+
 ## USA Historic Weather Data
 Currently, the Maximum Temperature (in °C) is displayed as a temperature gradient by date. This is calculated using
 approximately 700 weather stations' data, and added as a layer onto the map generated using MapBox. The grid itself
