@@ -7,10 +7,15 @@
         <div class="col-md-2"></div>
         <div class="col-md-8">
             <p>The temperature layer added to this map is made out of general interest. The radius of each
-            of the hexagons in the grid is 15 km. With the projection of the map, that radius may differ based
-            on the latitude. To add temperature gradient, a ring is calculated around each of the weather
-            stations. The temperature is adjusted in between weather stations based on a factor of -1 times
-            the number of rings away from each station.</p>
+                of the hexagons in the grid is 15 km. With the projection of the map, that radius may differ
+                based on the latitude.</p>
+            <p>To add temperature gradient, a ring is calculated around each of the weather stations. The
+                temperature is adjusted in between weather stations based on a factor of -1 times the number
+                of rings away from each station. For ring layers that overlap, the mean of the highest ring
+                layer will be used.</p>
+            <p>For example, for a particular hexagon, if there are three ring 1 level values and two ring 2
+                level values, then the mean is calculated from only the three ring 1 values. This mean value
+                is then used as the final temperature for this hexagon.</p>
         </div>
         <div class="col-md-2"></div>
     </div>
