@@ -99,3 +99,15 @@ IndexError: list index out of range
 2020-08-15 14:51:37,422 shapely.geos DEBUG    DLL: <CDLL 'C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll', handle 7ffc41c80000 at 0x1d411071808>
 2020-08-15 14:51:47,382 asyncio      DEBUG    Using selector: SelectSelector
 2020-08-15 14:51:47,539 asyncio      DEBUG    Using selector: SelectSelector
+2020-08-16 21:37:57,485 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2020-08-16 21:37:59,087 shapely.geos DEBUG    Trying `CDLL(C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll)`
+2020-08-16 21:37:59,131 shapely.geos DEBUG    Library path: 'C:\\Users\\Sinto\\Documents\\PycharmProjects\\venv\\lib\\site-packages\\shapely\\DLLs\\geos_c.dll'
+2020-08-16 21:37:59,133 shapely.geos DEBUG    DLL: <CDLL 'C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll', handle 7ffc3d290000 at 0x29b3f6f10c8>
+2020-08-16 21:39:29,400 django.utils.autoreload INFO     C:\Users\Sinto\Documents\PycharmProjects\noaa\gsod\views.py changed, reloading.
+2020-08-16 21:39:29,401 asyncio      DEBUG    Using selector: SelectSelector
+2020-08-16 21:39:30,510 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2020-08-16 21:39:31,090 shapely.geos DEBUG    Trying `CDLL(C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll)`
+2020-08-16 21:39:31,092 shapely.geos DEBUG    Library path: 'C:\\Users\\Sinto\\Documents\\PycharmProjects\\venv\\lib\\site-packages\\shapely\\DLLs\\geos_c.dll'
+2020-08-16 21:39:31,092 shapely.geos DEBUG    DLL: <CDLL 'C:\Users\Sinto\Documents\PycharmProjects\venv\lib\site-packages\shapely\DLLs\geos_c.dll', handle 7ffc3d290000 at 0x22837d05fc8>
+2020-08-16 21:42:25,975 asyncio      DEBUG    Using selector: SelectSelector
+2020-08-16 21:42:26,249 asyncio      DEBUG    Using selector: SelectSelector

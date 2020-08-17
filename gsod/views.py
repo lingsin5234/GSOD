@@ -246,7 +246,7 @@ def new_map(request):
     # grab start and end date based on the gsod/posts folder
     files = [f for f in os.listdir('gsod/posts') if bool(re.search(r'^hexGrid_.*.json$', f))]
     start_date = files[0].replace('hexGrid_', '').replace('.json', '')
-    end_date = files[len(files)-1].replace('hexGrid_', '').replace('-v2.json', '')
+    end_date = files[len(files)-1].replace('hexGrid_', '').replace('.json', '')
     # print(start_date, end_date)
 
     context = {
