@@ -21,3 +21,6 @@ finishes, the output file (e.g. the temperature layer JSON) is stored into Blob 
 the Django job and staged for the weather map page to retrieve whenever it is requested.
 
 [Weather Map](https://portfolio.sinto-ling.ca/gsod/weather-map)
+
+More information on the Azure Batch Compute can be found on my tutorial page:
+[Azure Batch Compute](https://portfolio.sinto-ling.ca/tutorials/md/azure_batch)
